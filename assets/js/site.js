@@ -17,11 +17,12 @@
 
   const NAV = [
     navItem('nav.home','index.html'),
-    navItem('nav.china','list.html?d=china'),
-    navItem('nav.asia','list.html?d=asia'),
+    navItem('nav.australia','list.html?d=australia'),
     navItem('nav.nz','list.html?d=nz'),
+    navItem('nav.china','list.html?d=china'),
     navItem('nav.europe','list.html?d=europe'),
-    navItem('nav.americas','list.html'),
+    navItem('nav.asia','list.html?d=asia'),
+    navItem('nav.cruise','list.html?d=cruise'),
     navItem('nav.custom','custom.html'),
     navItem('nav.about','about.html'),
     navItem('nav.contact','contact.html')
@@ -66,11 +67,12 @@
         <div class="footer-grid">
           <div>
             <h4 data-i18n="footer.nav">${I18N[lang]['footer.nav']}</h4>
-            <a href="list.html?d=china" data-i18n="nav.china">${I18N[lang]['nav.china']}</a>
-            <a href="list.html?d=asia" data-i18n="nav.asia">${I18N[lang]['nav.asia']}</a>
+            <a href="list.html?d=australia" data-i18n="nav.australia">${I18N[lang]['nav.australia']}</a>
             <a href="list.html?d=nz" data-i18n="nav.nz">${I18N[lang]['nav.nz']}</a>
+            <a href="list.html?d=china" data-i18n="nav.china">${I18N[lang]['nav.china']}</a>
             <a href="list.html?d=europe" data-i18n="nav.europe">${I18N[lang]['nav.europe']}</a>
-            <a href="list.html" data-i18n="nav.americas">${I18N[lang]['nav.americas']}</a>
+            <a href="list.html?d=asia" data-i18n="nav.asia">${I18N[lang]['nav.asia']}</a>
+            <a href="list.html?d=cruise" data-i18n="nav.cruise">${I18N[lang]['nav.cruise']}</a>
             <a href="custom.html" data-i18n="nav.custom">${I18N[lang]['nav.custom']}</a>
           </div>
           <div>
