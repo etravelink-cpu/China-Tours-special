@@ -27,8 +27,7 @@ window.EtripsForm = {
       {zh:'欧洲', en:'EUROPE', img:'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80', href:'list.html?d=europe'},
       {zh:'亚洲', en:'ASIA', img:'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80', href:'list.html?d=asia'},
       {zh:'邮轮', en:'CRUISE', img:'https://images.unsplash.com/photo-1599640842225-85d111c60e6b?w=800&q=80', href:'list.html?d=cruise'},
-      {zh:'私人订制', en:'PRIVATE TOUR', img:'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&q=80', href:'custom.html'},
-      {zh:'其他', en:'MORE', img:'https://images.unsplash.com/photo-1506012787146-f92b2d7d6d96?w=800&q=80', href:'list.html'}
+      {zh:'私人订制', en:'PRIVATE TOUR', img:'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&q=80', href:'custom.html'}
     ];
     document.getElementById('biz-grid').innerHTML = `<div class="dest-row">` + dest.map(d=>`
       <a class="dest-strip${d.wide?' wide':''}" href="${d.href}">
