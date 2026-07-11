@@ -17,48 +17,11 @@
 
   const NAV = [
     navItem('nav.home','index.html'),
-    navItem('nav.australia','list.html?d=australia',[
-      {key:'nav.sub.australia.city',href:'list.html?d=australia'},
-      {key:'nav.sub.australia.coast',href:'list.html?d=australia'},
-      {key:'nav.sub.australia.uluru',href:'list.html?d=australia'},
-      {key:'nav.sub.australia.tasmania',href:'list.html?d=australia'},
-      {key:'nav.sub.australia.family',href:'list.html?d=australia'}
-    ]),
-    navItem('nav.nz','list.html?d=nz',[
-      {key:'nav.sub.nz.glacier',href:'list.html?d=nz'},
-      {key:'nav.sub.nz.stars',href:'list.html?d=nz'},
-      {key:'nav.sub.nz.hotspring',href:'list.html?d=nz'},
-      {key:'nav.sub.nz.ski',href:'list.html?d=nz'},
-      {key:'nav.sub.nz.honeymoon',href:'list.html?d=nz'}
-    ]),
-    navItem('nav.china','list.html?d=china',[
-      {key:'nav.sub.china.west',href:'list.html?d=china'},
-      {key:'nav.sub.china.yunnan',href:'list.html?d=china'},
-      {key:'nav.sub.china.jiangnan',href:'list.html?d=china'},
-      {key:'nav.sub.china.northwest',href:'list.html?d=china'},
-      {key:'nav.sub.china.northeast',href:'list.html?d=china'},
-      {key:'nav.sub.china.hometown',href:'list.html?d=china'}
-    ]),
-    navItem('nav.europe','list.html?d=europe',[
-      {key:'nav.sub.eu.west',href:'list.html?d=europe'},
-      {key:'nav.sub.eu.north',href:'list.html?d=europe'},
-      {key:'nav.sub.eu.baltic',href:'list.html?d=europe'},
-      {key:'nav.sub.eu.med',href:'list.html?d=europe'}
-    ]),
-    navItem('nav.cruise','list.html?d=cruise',[
-      {key:'nav.sub.cruise.oceania',href:'list.html?d=cruise'},
-      {key:'nav.sub.cruise.europe',href:'list.html?d=cruise'},
-      {key:'nav.sub.cruise.asia',href:'list.html?d=cruise'},
-      {key:'nav.sub.cruise.river',href:'list.html?d=cruise'}
-    ]),
-    navItem('nav.asia','list.html?d=asia',[
-      {key:'nav.sub.asia.jk',href:'list.html?d=asia'},
-      {key:'nav.sub.asia.sea',href:'list.html?d=asia'},
-      {key:'nav.sub.asia.fiji',href:'list.html?d=asia'},
-      {key:'nav.sub.asia.tahiti',href:'list.html?d=asia'},
-      {key:'nav.sub.asia.seychelles',href:'list.html?d=asia'},
-      {key:'nav.sub.asia.mauritius',href:'list.html?d=asia'}
-    ]),
+    navItem('nav.china','list.html?d=china'),
+    navItem('nav.asia','list.html?d=asia'),
+    navItem('nav.mena','list.html'),
+    navItem('nav.europe','list.html?d=europe'),
+    navItem('nav.americas','list.html'),
     navItem('nav.custom','custom.html'),
     navItem('nav.about','about.html'),
     navItem('nav.contact','contact.html')
