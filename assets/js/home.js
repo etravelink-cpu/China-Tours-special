@@ -19,18 +19,6 @@ window.EtripsForm = {
   function rebuild(){
     lang = window.Etrips.getLang();
 
-    // Hero dots
-    const dots = document.getElementById('hero-dots');
-    const slides = document.querySelectorAll('.hero-slide');
-    dots.innerHTML = '';
-    slides.forEach((_,i)=>{
-      const s = document.createElement('span');
-      if(i===0) s.className='active';
-      s.addEventListener('click',()=>showSlide(i));
-      dots.appendChild(s);
-    });
-    startHero(slides, dots);
-
     // 板块2 四大业务
     const biz = [
       {k:'home.biz.au', h:'澳洲境内旅行', en:'Australia Tours', img:'https://picsum.photos/seed/etrips-biz1/600/400', d:'australia'},
@@ -66,22 +54,6 @@ window.EtripsForm = {
     // 板块8 联系方式 (5 channels, navy band)
     const hc = document.getElementById('home-contact');
     if(hc) hc.innerHTML = window.contactChannels(lang, {band:true});
-  }
-
-  // Hero carousel
-  let heroTimer=null, heroIdx=0;
-  function showSlide(i){
-    const slides=document.querySelectorAll('.hero-slide');
-    const dots=document.getElementById('hero-dots').children;
-    slides.forEach(s=>s.classList.remove('active'));
-    [...dots].forEach(d=>d.classList.remove('active'));
-    slides[i].classList.add('active');
-    if(dots[i]) dots[i].classList.add('active');
-    heroIdx=i;
-  }
-  function startHero(slides,dots){
-    clearInterval(heroTimer);
-    heroTimer=setInterval(()=>{ showSlide((heroIdx+1)%slides.length); },5000);
   }
 
   document.addEventListener('DOMContentLoaded', rebuild);

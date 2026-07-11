@@ -125,13 +125,16 @@ a{color:inherit;text-decoration:none}
 .hero-slide.active{opacity:1}
 .hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(19,41,63,.78),rgba(19,41,63,.35))}
 .hero-content{position:relative;z-index:2;color:#fff;max-width:640px}
-.hero-content h1{font-size:42px;line-height:1.2;margin-bottom:16px}
-.hero-tags{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
-.hero-tags span{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.3);
-  padding:6px 14px;border-radius:20px;font-size:14px}
-.hero-dots{position:absolute;bottom:24px;left:50%;transform:translateX(-50%);display:flex;gap:8px;z-index:3}
-.hero-dots span{width:10px;height:10px;border-radius:50%;background:rgba(255,255,255,.5);cursor:pointer}
-.hero-dots span.active{background:#fff}
+.hero-content{max-width:680px;text-align:left}
+.hero-content h1{font-size:44px;line-height:1.18;margin-bottom:14px;font-weight:800;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+.hero-tagline{font-size:16px;letter-spacing:.5px;opacity:.92;margin-bottom:14px;font-weight:500}
+.hero-sub{font-size:19px;opacity:.95;margin-bottom:26px;font-weight:400}
+.hero-cta{display:flex;gap:14px;flex-wrap:wrap}
+.btn-hero-outline{border:1.5px solid rgba(255,255,255,.85);color:#fff;background:rgba(0,0,0,.28);backdrop-filter:blur(2px)}
+.btn-hero-outline:hover{background:rgba(0,0,0,.45);border-color:#fff}
+.value-bar{background:var(--accent);color:#1c1c1c;text-align:center;font-size:18px;font-weight:700;
+  padding:16px 20px;letter-spacing:1px}
+@media(max-width:768px){.hero-content h1{font-size:30px}.hero-sub{font-size:16px}.value-bar{font-size:15px;padding:13px 14px}}
 
 /* ===== Cards grid ===== */
 .grid{display:grid;gap:20px}
