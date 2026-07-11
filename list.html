@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="assets/img/logo.png">
+  <title>Etrips 国安易游 | 易行世间，邂逅万千 · 线路列表</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header" id="site-header"></header>
+  <div class="float-bar" id="float-bar"></div>
+
+  <section class="section" style="padding-top:80px">
+    <div class="container">
+      <h2 class="section-title" data-i18n="home.hot.title">爆款精选行程</h2>
+
+      <!-- 智能筛选栏 -->
+      <div class="form-card" style="margin-bottom:28px">
+        <div class="grid grid-4" style="gap:14px">
+          <div class="form-row" style="margin:0">
+            <label data-i18n="list.filter.days">出行天数</label>
+            <select id="f-days"><option value="" data-i18n="list.filter.all">全部</option>
+              <option value="s">≤7 天</option><option value="m">8-10 天</option><option value="l">≥11 天</option></select>
+          </div>
+          <div class="form-row" style="margin:0">
+            <label data-i18n="list.filter.month">出行月份</label>
+            <select id="f-month"><option value="" data-i18n="list.filter.all">全部</option>
+              <option value="summer">夏季</option><option value="year">全年</option></select>
+          </div>
+          <div class="form-row" style="margin:0">
+            <label data-i18n="list.filter.budget">预算区间</label>
+            <select id="f-budget"><option value="" data-i18n="list.filter.all">全部</option>
+              <option value="low">经济</option><option value="medium">中端</option><option value="high">高端</option></select>
+          </div>
+          <div class="form-row" style="margin:0">
+            <label data-i18n="list.filter.type">团型</label>
+            <select id="f-type"><option value="" data-i18n="list.filter.all">全部</option>
+              <option value="small">小团</option><option value="private">私家</option></select>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid grid-3" id="list-grid"></div>
+
+      <!-- FAQ + 咨询入口 -->
+      <h3 style="margin:36px 0 14px;color:var(--navy)" data-i18n="list.faq.title">常见问题</h3>
+      <details class="faq-item"><summary>行程可以私人定制吗？</summary><div class="ans">可以，所有线路支持私家定制，详见定制游页面。</div></details>
+      <details class="faq-item"><summary>价格包含机票吗？</summary><div class="ans">标准团含国际/内陆机票含税及行李额度，详见各线路「额外信息」。</div></details>
+      <details class="faq-item"><summary>单人出行怎么算？</summary><div class="ans">单人需补单人房差，或安排拼房，详见费用说明。</div></details>
+      <div style="text-align:center;margin-top:20px">
+        <a href="contact.html" class="btn btn-primary" data-i18n="btn.consult">在线咨询</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer" id="site-footer"></footer>
+
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script src="assets/js/list.js"></script>
+</body>
+</html>

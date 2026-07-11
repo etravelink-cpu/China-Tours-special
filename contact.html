@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="assets/img/logo.png">
+  <title>Etrips 国安易游 | 易行世间，邂逅万千 · 联系我们</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header" id="site-header"></header>
+  <div class="float-bar" id="float-bar"></div>
+  <section class="section" style="padding-top:80px">
+    <div class="container">
+      <h2 class="section-title" data-i18n="contact.title">联系我们</h2>
+      <div class="grid grid-2">
+        <div class="form-card">
+          <form onsubmit="return EtripsForm.submit(event)">
+            <div class="form-row"><label data-i18n="form.name">姓名</label><input required name="name"></div>
+            <div class="form-row"><label data-i18n="form.phone">电话</label><input required name="phone"></div>
+            <div class="form-row"><label data-i18n="form.dest">目的地</label>
+              <select name="dest"><option>澳洲境内</option><option>新西兰</option><option>中国全境</option><option>欧洲</option><option>邮轮</option><option>亚洲/海岛</option><option>定制游</option></select></div>
+            <div class="form-row"><label data-i18n="form.date">出行时间</label><input name="date" type="month"></div>
+            <div class="form-row"><label data-i18n="form.pax">人数</label><input name="pax" type="number" min="1" value="2"></div>
+            <button class="btn btn-primary" style="width:100%" data-i18n="btn.submit">提交</button>
+          </form>
+          <p id="form-msg" style="margin-top:12px;color:#1f7a4d;font-size:14px"></p>
+        </div>
+        <div>
+          <h3 style="color:var(--navy);margin-bottom:14px" data-i18n="contact.channels">联系方式</h3>
+          <div id="contact-channels"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer class="site-footer" id="site-footer"></footer>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script>window.EtripsForm={submit(e){e.preventDefault();const l=window.Etrips.getLang();document.getElementById('form-msg').textContent=l==='zh'?'✅ 已收到您的咨询，顾问将尽快与您联系！':'✅ We received your request, an advisor will contact you soon!';e.target.reset();return false;}};
+  document.getElementById('contact-channels').innerHTML = window.contactChannels(window.Etrips.getLang(), {band:true});
+  window.addEventListener('langchange',()=>{document.getElementById('contact-channels').innerHTML=window.contactChannels(window.Etrips.getLang(),{band:true});});
+  </script>
+</body>
+</html>
