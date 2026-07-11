@@ -124,8 +124,6 @@
             <div class="muted" style="margin-bottom:10px">悉尼办公室 Sydney Office<br>${I18N[lang]['footer.addr']}</div>
             <div class="footer-channels">
               <a href="tel:${window.CONTACT.hotline.replace(/\s/g,'')}">☎ ${window.CONTACT.hotline}</a>
-              <a href="https://wa.me/${window.CONTACT.whatsapp.replace(/\s/g,'')}" target="_blank" rel="noopener">WhatsApp ${window.CONTACT.whatsapp}</a>
-              <a href="contact.html">微信 ${window.CONTACT.wechat}</a>
               <a href="mailto:${window.CONTACT.email}">✉ ${window.CONTACT.email}</a>
               <a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">📍 ${I18N[lang]['footer.addr']}</a>
             </div>
