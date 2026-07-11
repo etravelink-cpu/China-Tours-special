@@ -19,21 +19,22 @@ window.EtripsForm = {
   function rebuild(){
     lang = window.Etrips.getLang();
 
-    // 板块2 四大业务
-    const biz = [
-      {k:'home.biz.au', h:'澳洲境内旅行', en:'Australia Tours', img:'https://picsum.photos/seed/etrips-biz1/600/400', d:'australia'},
-      {k:'home.biz.nz', h:'新西兰南北岛', en:'New Zealand', img:'https://picsum.photos/seed/etrips-biz2/600/400', d:'nz'},
-      {k:'home.biz.cn', h:'中国全境长线', en:'China Long Tours', img:'https://picsum.photos/seed/etrips-biz3/600/400', d:'china'},
-      {k:'home.biz.eu', h:'欧洲漫游', en:'Europe Roaming', img:'https://picsum.photos/seed/etrips-biz5/600/400', d:'europe'},
-      {k:'home.biz.cruise', h:'邮轮专栏', en:'Cruise Collection', img:'https://picsum.photos/seed/etrips-biz6/600/400', d:'cruise'},
-      {k:'home.biz.asia', h:'亚洲+大洋洲岛国', en:'Asia & Oceania', img:'https://picsum.photos/seed/etrips-biz4/600/400', d:'asia'}
+    // 板块2 选择你的目的地（竖向长条卡）
+    const dest = [
+      {zh:'中国', en:'CHINA', img:'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=80', wide:true, href:'list.html?d=china'},
+      {zh:'亚洲', en:'ASIA', img:'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80', href:'list.html?d=asia'},
+      {zh:'中东北非', en:'MID-EAST & N. AFRICA', img:'https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=800&q=80', href:'list.html?d=asia'},
+      {zh:'欧洲', en:'EUROPE', img:'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80', href:'list.html?d=europe'},
+      {zh:'北美南美', en:'AMERICAS', img:'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80', href:'list.html?d=europe'},
+      {zh:'私人订制', en:'PRIVATE TOUR', img:'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&q=80', href:'custom.html'},
+      {zh:'其他', en:'MORE', img:'https://images.unsplash.com/photo-1506012787146-f92b2d7d6d96?w=800&q=80', href:'list.html'}
     ];
-    document.getElementById('biz-grid').innerHTML = biz.map(b=>`
-      <a class="card" href="list.html?d=${b.d}">
-        <img class="thumb" src="${b.img}" alt="">
-        <div class="body"><h3>${lang==='zh'?b.h:b.en}</h3>
-        <p class="muted">${lang==='zh'?'覆盖全线产品':'Full product line'}</p></div>
-      </a>`).join('');
+    document.getElementById('biz-grid').innerHTML = `<div class="dest-row">` + dest.map(d=>`
+      <a class="dest-strip${d.wide?' wide':''}" href="${d.href}">
+        <img src="${d.img}" alt="${d.zh}" loading="lazy">
+        <div class="ov"></div>
+        <div class="lbl">${d.zh}<span class="en">${d.en}</span></div>
+      </a>`).join('') + `</div>`;
 
     // 板块3 爆款6卡
     document.getElementById('hot-grid').innerHTML = T.slice(0,6).map(t=>tourCard(t,lang)).join('');
