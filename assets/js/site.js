@@ -145,6 +145,10 @@
       const key = el.getAttribute('data-i18n');
       if(I18N[lang][key]!=null) el.textContent = I18N[lang][key];
     });
+    document.querySelectorAll('[data-i18n-ph]').forEach(el=>{
+      const key = el.getAttribute('data-i18n-ph');
+      if(I18N[lang][key]!=null) el.setAttribute('placeholder', I18N[lang][key]);
+    });
     window.dispatchEvent(new CustomEvent('langchange',{detail:{lang}}));
   }
   function toggleLang(){
