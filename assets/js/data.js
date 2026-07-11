@@ -458,5 +458,7 @@ window.CONTACT = {
   email: "info@etrips.com.au",          // 工作邮箱
   addressZh: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
   addressEn: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
+  hoursZh: "周一至周五 10:00-18:00",
+  hoursEn: "Mon–Fri 10:00-18:00",
   mapUrl: "https://www.google.com/maps/search/?api=1&query=2+HENLEY+ROAD+HOMEBUSH+WEST+NSW+2140+AU"
 };

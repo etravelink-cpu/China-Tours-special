@@ -229,4 +229,20 @@
     }
     return `<div class="contact-grid">${cards}</div>`;
   };
+
+  // ---------- Minimal centered store info bar (hours / address / phone + WeChat & WhatsApp icons) ----------
+  window.storeInfo = function(lang){
+    const c = window.CONTACT;
+    const wa = c.whatsapp.replace(/\s/g,'');
+    const ICON = window.ICONS;
+    return `<section class="store-info">
+      <div class="si-line">${lang==='zh'?c.hoursZh:c.hoursEn}</div>
+      <div class="si-line">${c.addressZh}</div>
+      <div class="si-line">${c.hotline}　${c.hotline2}</div>
+      <div class="si-icons">
+        <a href="contact.html" title="WeChat" aria-label="WeChat">${ICON.wechat}</a>
+        <a href="https://wa.me/${wa}" target="_blank" rel="noopener" title="WhatsApp" aria-label="WhatsApp">${ICON.whatsapp}</a>
+      </div>
+    </section>`;
+  };
 })();

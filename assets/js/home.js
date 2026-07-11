@@ -51,9 +51,11 @@ window.EtripsForm = {
       <p>${lang==='zh'?r.textZh:r.textEn}</p>
       <div class="who">— ${lang==='zh'?r.nameZh:r.nameEn}</div></div>`).join('');
 
-    // 板块8 联系方式 (5 channels, navy band)
+    // 板块8 联系方式 (5 channels, navy band) + minimal store info bar
     const hc = document.getElementById('home-contact');
-    if(hc) hc.innerHTML = window.contactChannels(lang, {band:true});
+    if(hc){
+      hc.innerHTML = window.contactChannels(lang, {band:true}) + window.storeInfo(lang);
+    }
   }
 
   document.addEventListener('DOMContentLoaded', rebuild);
