@@ -19,7 +19,7 @@
     navItem('nav.home','index.html'),
     navItem('nav.china','list.html?d=china'),
     navItem('nav.asia','list.html?d=asia'),
-    navItem('nav.mena','list.html'),
+    navItem('nav.nz','list.html?d=nz'),
     navItem('nav.europe','list.html?d=europe'),
     navItem('nav.americas','list.html'),
     navItem('nav.custom','custom.html'),
@@ -68,7 +68,7 @@
             <h4 data-i18n="footer.nav">${I18N[lang]['footer.nav']}</h4>
             <a href="list.html?d=china" data-i18n="nav.china">${I18N[lang]['nav.china']}</a>
             <a href="list.html?d=asia" data-i18n="nav.asia">${I18N[lang]['nav.asia']}</a>
-            <a href="list.html" data-i18n="nav.mena">${I18N[lang]['nav.mena']}</a>
+            <a href="list.html?d=nz" data-i18n="nav.nz">${I18N[lang]['nav.nz']}</a>
             <a href="list.html?d=europe" data-i18n="nav.europe">${I18N[lang]['nav.europe']}</a>
             <a href="list.html" data-i18n="nav.americas">${I18N[lang]['nav.americas']}</a>
             <a href="custom.html" data-i18n="nav.custom">${I18N[lang]['nav.custom']}</a>

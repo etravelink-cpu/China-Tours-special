@@ -23,7 +23,7 @@ window.EtripsForm = {
     const dest = [
       {zh:'中国', en:'CHINA', img:'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=80', wide:true, href:'list.html?d=china'},
       {zh:'亚洲', en:'ASIA', img:'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80', href:'list.html?d=asia'},
-      {zh:'中东北非', en:'MID-EAST & N. AFRICA', img:'https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=800&q=80', href:'list.html?d=asia'},
+      {zh:'新西兰', en:'NEW ZEALAND', img:'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80', href:'list.html?d=nz'},
       {zh:'欧洲', en:'EUROPE', img:'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80', href:'list.html?d=europe'},
       {zh:'北美南美', en:'AMERICAS', img:'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80', href:'list.html?d=europe'},
       {zh:'私人订制', en:'PRIVATE TOUR', img:'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&q=80', href:'custom.html'},
