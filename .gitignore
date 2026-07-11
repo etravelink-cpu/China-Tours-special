@@ -1,0 +1,11 @@
+# 暂存素材（内部查阅，不上线）
+tours/_archive/
+**/_archive/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+
+# lock files
+*.mp4

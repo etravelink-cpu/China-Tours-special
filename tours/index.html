@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Etrips 国安易游 | 行程资料库（暂存）</title>
+  <link rel="icon" type="image/png" href="../assets/img/logo.png">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+  <header class="site-header" id="site-header"></header>
+  <div class="float-bar" id="float-bar"></div>
+  <section class="section" style="padding-top:90px">
+    <div class="container">
+      <h2 class="section-title">行程资料库（暂存归档）</h2>
+      <p class="muted" style="text-align:center;max-width:700px;margin:0 auto 24px">
+        以下为历史行程素材的统一暂存目录，风格与官网一致，便于内部查阅与后续整理为正式子页。</p>
+      <div class="grid grid-2" id="archive-list"></div>
+    </div>
+  </section>
+  <footer class="site-footer" id="site-footer"></footer>
+  <script src="../assets/js/i18n.js"></script>
+  <script src="../assets/js/data.js"></script>
+  <script src="../assets/js/site.js"></script>
+  <script>
+  (function(){
+    const files = [
+      {t:'水韵江南·爱达魔都号 11天', f:'_archive/HTML/水韵江南爱达魔都号11天2026AA.html'},
+      {t:'水韵江南·爱达魔都号 11天（详情）', f:'_archive/HTML/水韵江南爱达魔都号11天2026AA-details.html'},
+      {t:'水韵江南·杏福新疆 14天（v1）', f:'_archive/HTML/水韵江南 杏福新疆14天绝美赏花之旅 v1.html'},
+      {t:'水韵江南·杏福新疆 14天（v2）', f:'_archive/HTML/水韵江南 杏福新疆14天绝美赏花之旅 v2.html'},
+      {t:'水韵江南·杏福新疆 14天（v3）', f:'_archive/HTML/水韵江南 杏福新疆14天绝美赏花之旅 v3.html'},
+      {t:'新疆南北疆 17日深度游', f:'_archive/HTML/新疆南北疆- 绝美疆域17日深度游cts.html'},
+      {t:'首页（旧版 index）', f:'_archive/HTML/index.html'},
+      {t:'首页（旧版 index 2）', f:'_archive/HTML/index 2.html'}
+    ];
+    document.getElementById('archive-list').innerHTML = files.map(x=>
+      `<a class="card" href="${x.f}" style="text-decoration:none"><div class="body"><h3>${x.t}</h3>
+       <p class="muted">${x.f.split('/').pop()}</p></div></a>`).join('');
+  })();
+  </script>
+</body>
+</html>
