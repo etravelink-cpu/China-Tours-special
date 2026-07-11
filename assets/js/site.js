@@ -66,10 +66,11 @@
         <div class="footer-grid">
           <div>
             <h4 data-i18n="footer.nav">${I18N[lang]['footer.nav']}</h4>
-            <a href="list.html?d=australia" data-i18n="nav.australia">${I18N[lang]['nav.australia']}</a>
-            <a href="list.html?d=nz" data-i18n="nav.nz">${I18N[lang]['nav.nz']}</a>
             <a href="list.html?d=china" data-i18n="nav.china">${I18N[lang]['nav.china']}</a>
             <a href="list.html?d=asia" data-i18n="nav.asia">${I18N[lang]['nav.asia']}</a>
+            <a href="list.html" data-i18n="nav.mena">${I18N[lang]['nav.mena']}</a>
+            <a href="list.html?d=europe" data-i18n="nav.europe">${I18N[lang]['nav.europe']}</a>
+            <a href="list.html" data-i18n="nav.americas">${I18N[lang]['nav.americas']}</a>
             <a href="custom.html" data-i18n="nav.custom">${I18N[lang]['nav.custom']}</a>
           </div>
           <div>
