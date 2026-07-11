@@ -221,7 +221,7 @@
         <div class="container">
           <div class="cb-head">
             <h2>${lang==='zh'?'联系方式':'Contact'}</h2>
-            <div class="cb-sub">${lang==='zh'?'悉尼办公室 Sydney Office':'Sydney Office'}<br>${I18N[lang]['footer.addr']}</div>
+            <div class="cb-sub">${lang==='zh'?'悉尼办公室 Sydney Office':'Sydney Office'}</div>
           </div>
           <div class="contact-grid">${cards}</div>
         </div>
