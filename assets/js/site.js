@@ -130,7 +130,6 @@
           </div>
         </div>
         <div class="footer-compliance">
-          <span>${I18N[lang]['footer.license']} <b>ABN 00 000 000 000 / LIC 000000</b></span>
           <a href="#" data-i18n="footer.privacy">${I18N[lang]['footer.privacy']}</a>
           <a href="#" data-i18n="footer.terms">${I18N[lang]['footer.terms']}</a>
           <a href="#" data-i18n="footer.disclaimer">${I18N[lang]['footer.disclaimer']}</a>
