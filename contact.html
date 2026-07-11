@@ -37,7 +37,7 @@
   <script src="assets/js/data.js"></script>
   <script src="assets/js/site.js"></script>
   <script>window.EtripsForm={submit(e){e.preventDefault();const l=window.Etrips.getLang();document.getElementById('form-msg').textContent=l==='zh'?'✅ 已收到您的咨询，顾问将尽快与您联系！':'✅ We received your request, an advisor will contact you soon!';e.target.reset();return false;}};
-  function renderContact(){const l=window.Etrips.getLang();document.getElementById('contact-channels').innerHTML=window.contactChannels(l,{band:true})+window.storeInfo(l);}
+  function renderContact(){const l=window.Etrips.getLang();document.getElementById('contact-channels').innerHTML=window.contactChannels(l,{band:true});}
   renderContact();
   window.addEventListener('langchange',renderContact);
   </script>
