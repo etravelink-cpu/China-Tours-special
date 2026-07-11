@@ -71,7 +71,6 @@
       <div class="container">
         <a href="index.html" class="logo">
           <img class="logo-img" src="assets/img/yiyou.png" alt="Etrips 国安易游">
-          <span class="slogan" data-i18n="brand.slogan">${I18N[lang]['brand.slogan']}</span>
         </a>
         <ul class="nav" id="main-nav">${NAV.join('')}</ul>
         <div class="header-actions">
