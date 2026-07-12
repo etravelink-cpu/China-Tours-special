@@ -543,4 +543,107 @@
   </table>
 
 </div>`;
+
+  window.REGION_PLANS.europe = `
+<div class="region-hero">
+  <img src="assets/img/europe-map.jpg" alt="欧洲分区地图" class="region-map-img">
+</div>
+<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
+
+  <!-- 一、Last Minute 限时特惠团 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、Last Minute 限时特惠团</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">圣诞/新年档期限时特惠青年团，余位有限、先到先得，覆盖西欧、北欧、希腊、极光、伊比利亚半岛多条热门线路，直降优惠力度大，适合时间灵活、追求高性价比的年轻客群。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 26%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 36%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 18%;">团期与余位</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">特惠价格</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西欧4日青年团（法比荷德卢）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">串联法国、比利时、荷兰、德国、卢森堡五国核心地标，短途快速打卡西欧精华，青年专属团型氛围轻松</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2025/12/20-12/23<br>剩余2名额</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€421<br><span style="color:#999;text-decoration:line-through;font-size:12px;">原价 €468</span></td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北欧四国6日青年团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">覆盖北欧四国核心城市与自然风光，冬季体验圣诞氛围与冰雪景观，青年团节奏灵活、社交属性强</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2025/12/21-12/26<br>剩余3名额</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€583起<br><span style="color:#999;text-decoration:line-through;font-size:12px;">原价 €648起</span></td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">希腊经典6日青年团（雅典+圣托里尼+迈泰奥拉）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">雅典卫城古迹+圣托里尼蓝白小镇+迈泰奥拉天空之城，三大希腊王牌IP全覆盖，跨年档期专属</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2025/12/26-12/31<br>剩余1名额</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€646<br><span style="color:#999;text-decoration:line-through;font-size:12px;">原价 €718</span></td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">拉普兰7日极光团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">圣诞老人村、破冰船、帝王蟹餐、狗拉雪橇、雪地摩托追极光、极地VR火车、免费驯鹿农场，一站式全体验极地项目</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2025/12/27-2026/01/02<br>剩余1名额</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€1142<br><span style="color:#999;text-decoration:line-through;font-size:12px;">原价 €1298</span></td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">伊比利亚半岛9日精品小团（西葡，里斯本出发）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西班牙+葡萄牙全景深度，里斯本、马德里、巴塞罗那、安达卢西亚全涵盖，体验伊比利亚风情与美食</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2025/12/31-2026/01/08<br>剩余2名额</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€1494<br><span style="color:#999;text-decoration:line-through;font-size:12px;">原价 €1698</span></td></tr>
+    </tbody>
+  </table>
+
+  <!-- 二、欧洲大巴环线（6条彩色线路） -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、欧洲大巴环线（6条彩色线路）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">欧洲经典大巴环游产品，按天计价、灵活选天数，全程包含大巴交通、酒店住宿与双语导游服务，6条彩色线路覆盖全欧核心区域，性价比高、适配自由规划行程的游客。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心线路一览</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 18%;">线路名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 42%;">覆盖国家与核心城市</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">核心特色</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">参考价格</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Pink Line 粉线<br>北欧线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">丹麦、挪威、瑞典<br>哥本哈根、奥斯陆、卑尔根、弗洛姆、歌德堡、柏林</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">峡湾风光、北欧城市、松恩峡湾小火车</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;" rowspan="6">€108 /天起<br>含大巴、酒店、双语导游</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Purple Line 紫线<br>西欧线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">德国、荷兰、比利时、法国、卢森堡<br>巴黎、阿姆斯特丹、布鲁日、布鲁塞尔、科隆、法兰克福</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西欧五国精华、经典地标全覆盖</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Red Line 红线<br>法瑞意线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">法国、瑞士、意大利、摩纳哥<br>巴黎、琉森、少女峰、米兰、罗马、摩纳哥</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">雪山湖景+文艺复兴+浪漫都市</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Yellow Line 黄线<br>西葡线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西班牙、葡萄牙<br>马德里、巴塞罗那、瓦伦西亚、马拉加、里斯本、托莱多</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">阳光海岸、伊比利亚历史风情</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Green Line 绿线<br>中东欧线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">瑞士、奥地利、列支敦士登、匈牙利、捷克、德国<br>柏林、布拉格、维也纳、布达佩斯、慕尼黑、琉森</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">文艺小镇、音乐之都、多瑙河风光</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Blue Line 蓝线<br>西南欧线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">瑞士、法国、西班牙<br>法兰克福、科尔马、安纳西、日内瓦、琉森、巴塞罗那</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">法兰西风情+阿尔卑斯+地中海</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 三、精品多日小包团 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、精品多日小包团</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">精品小团模式，全程配备双语导游，行程深度、体验更佳，覆盖冰岛、巴尔干、希腊、伊比利亚、东欧等热门目的地，适合追求品质、不想赶大巴节奏的游客。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 26%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 36%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 18%;">出发说明</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">价格</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冰岛经典6日团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">黄金圈、蓝湖温泉、南岸瀑布、黑沙滩等核心地标，冰岛入门经典线路，双语导游全程陪同</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">雷克雅未克出发<br>多固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€998</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冰岛环岛8日团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">环岛一号公路全景，覆盖火山、冰川、瀑布、冰河湖全地貌，深度玩转冰岛全境</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">雷克雅未克出发<br>固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€1758</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">巴尔干9日精品小团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">克罗地亚+斯洛文尼亚+波黑+塞尔维亚四国连线，亚得里亚海海岸+中世纪古城+东欧人文</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布达佩斯出发<br>固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€1198</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">希腊8日精品小团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">雅典+迈泰奥拉+德尔菲+圣托里尼+扎金索斯，古迹、海岛、天空之城全覆盖，深度希腊体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">雅典出发<br>固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€1798</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">伊比利亚半岛9日小团（巴塞罗那出发）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西班牙+葡萄牙深度环游，加泰罗尼亚风情+安达卢西亚阳光+里斯本老城，美食与建筑双重体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">巴塞罗那出发<br>固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€1698</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">东欧8日精品小团（匈奥捷斯）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">匈牙利+奥地利+捷克+斯洛伐克四国连线，布达佩斯多瑙河、维也纳音乐、布拉格童话、CK小镇</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布达佩斯出发<br>固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€1398</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 四、当地一日游（Day Trips） -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、当地一日游（Day Trips）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">可灵活搭配自由行或多日团的单日行程，覆盖慕尼黑、法兰克福、瑞士少女峰等热门出发地，含交通与双语导游，省心打卡周边精华景点。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 26%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 36%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 18%;">出发地</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">价格</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">慕尼黑一日游A线<br>新天鹅堡+林德霍夫宫+上阿玛高</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">打卡迪士尼原型新天鹅堡、国王行宫林德霍夫宫、彩绘小镇上阿玛高，巴伐利亚经典精华</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">慕尼黑</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€49</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">慕尼黑一日游B线<br>国王湖+魔法森林</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">德国最美湖泊国王湖、红顶洋葱教堂、魔法森林徒步，阿尔卑斯山自然山水风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">慕尼黑</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€49</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">少女峰经典一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">乘坐登山火车登顶欧洲屋脊，打卡冰宫、斯芬克斯观景台，俯瞰阿尔卑斯雪山全景</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">苏黎世/琉森/因特拉肯</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€285</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">法兰克福一日游A线<br>海德堡+吕德斯海姆+莱茵河游船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">海德堡古堡老城、莱茵河谷小镇、莱茵河游船观光，体验德国浪漫与莱茵河谷风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">法兰克福</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€99</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">法兰克福一日游B线<br>维尔茨堡+罗腾堡童话小镇</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">浪漫之路起点维尔茨堡、中世纪童话小镇罗腾堡，打卡德国最美古镇与巴洛克建筑</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">法兰克福</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">€99</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西欧经典环线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">紫线大巴环线（法德荷比卢）7日 → 可搭配巴黎/阿姆斯特丹当地自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴欧、预算友好、多国打卡</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">南欧海岛度假款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">希腊8日精品小团 → 可延伸伊比利亚半岛西葡连线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">度假休闲、海岛+人文双体验</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北欧极光深度款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">拉普兰7日极光团 → 可搭配北欧四国大巴环线延伸</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冬季出行、极光追猎、极地体验</td></tr>
+    </tbody>
+  </table>
+
+</div>`;
 })();
