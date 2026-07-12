@@ -18,7 +18,7 @@ window.EtripsForm = {
 
   function renderHero(){
     const HERO = [
-      {img:'assets/img/reef-panorama.png', tag:'易行天下，纵览山海 · Connects you with moments',
+      {img:'assets/img/reef-panorama.png', tag:'易行天下，奔赴山海 · Connects you with moments',
        h1:'探索世界 · 从澳洲出发', sub:'从澳洲出发，抵达全球每一个值得去的地方', href:'list.html', cta:'查看线路'},
       {img:'assets/img/hero-heartreef.png', tag:'浪漫心形礁 · 蜜月专线',
        h1:'心形大堡礁 · 一生必去', sub:'直升机俯瞰自然奇迹，专属蜜月与求婚行程', href:'list.html?d=cruise', cta:'查看线路'},
