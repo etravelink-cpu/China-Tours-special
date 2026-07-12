@@ -57,6 +57,7 @@
         </div>
         <div class="header-actions">
           <button class="lang-btn" id="lang-toggle">${I18N[lang]['lang.switch']}</button>
+          <a href="contact.html" class="btn btn-primary" data-i18n="btn.consult">${I18N[lang]['btn.consult']}</a>
           <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
         </div>
       </div>`;
