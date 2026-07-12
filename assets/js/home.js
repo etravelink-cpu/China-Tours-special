@@ -52,6 +52,11 @@ window.EtripsForm = {
       <p>${lang==='zh'?r.textZh:r.textEn}</p>
       <div class="who">— ${lang==='zh'?r.nameZh:r.nameEn}</div></div>`).join('');
 
+    // 板块6 出行小贴士
+    const TIP = window.TIPS || [];
+    document.getElementById('tips-grid').innerHTML = TIP.map(t=>`
+      <div class="tip"><span class="tip-ico">💡</span><p>${lang==='zh'?t.zh:t.en}</p></div>`).join('');
+
     // 板块8 联系方式 (5 channels, navy band) + minimal store info bar
     const hc = document.getElementById('home-contact');
     if(hc){

@@ -157,6 +157,10 @@ a{color:inherit;text-decoration:none}
 .grid-4{grid-template-columns:repeat(4,1fr)}
 .grid-3{grid-template-columns:repeat(3,1fr)}
 .grid-2{grid-template-columns:repeat(2,1fr)}
+.tip{display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid var(--border);
+  border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow)}
+.tip-ico{font-size:18px;line-height:1.4}
+.tip p{margin:0;font-size:14px;color:var(--text)}
 /* ===== Destination strips (选择你的目的地) — equal-height grid ===== */
 .dest-row{display:grid;grid-template-columns:repeat(7,1fr);gap:12px}
 .dest-strip{position:relative;border-radius:var(--radius);overflow:hidden;min-height:200px;
