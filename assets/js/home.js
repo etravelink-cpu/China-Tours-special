@@ -16,8 +16,50 @@ window.EtripsForm = {
   const T = window.TOURS, R = window.REVIEWS, TIP = window.TIPS, I = window.I18N;
   let lang = 'zh';
 
+  function renderHero(){
+    const HERO = [
+      {img:'assets/img/reef-panorama.png', tag:'易行天下，纵览山海 · Connects you with moments',
+       h1:'探索世界 · 从澳洲出发', sub:'从澳洲出发，抵达全球每一个值得去的地方', href:'list.html', cta:'查看线路'},
+      {img:'assets/img/hero-heartreef.png', tag:'浪漫心形礁 · 蜜月专线',
+       h1:'心形大堡礁 · 一生必去', sub:'直升机俯瞰自然奇迹，专属蜜月与求婚行程', href:'list.html?d=cruise', cta:'查看线路'},
+      {img:'assets/img/hero-sunlover.jpg', tag:'阳光大堡礁 · 亲子海岛',
+       h1:'阳光大堡礁 · 平台浮潜', sub:'一日游平台、浮潜观鱼、亲子出海轻松玩', href:'list.html?d=australia', cta:'查看线路'},
+      {img:'assets/img/destinations/asia.jpg', tag:'全球目的地 · 一键抵达',
+       h1:'不止澳洲 · 环游世界', sub:'新西兰·中国·欧洲·亚洲·邮轮，全线路任你选', href:'list.html', cta:'查看线路'}
+    ];
+    const wrap = document.getElementById('hero-slides');
+    const dots = document.getElementById('hero-dots');
+    if(!wrap) return;
+    wrap.innerHTML = HERO.map((s,i)=>`
+      <div class="hero-slide${i===0?' active':''}" style="background-image:linear-gradient(90deg,rgba(14,42,71,.5),rgba(14,42,71,.2) 55%,rgba(14,42,71,0)),url('${s.img}')">
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+          <p class="hero-tagline">${s.tag}</p>
+          <h1>${s.h1}</h1>
+          <p class="hero-sub">${s.sub}</p>
+          <div class="hero-cta">
+            <a href="${s.href}" class="btn btn-gold">${s.cta}</a>
+            <a href="contact.html" class="btn btn-hero-outline">免费询价</a>
+          </div>
+        </div>
+      </div>`).join('');
+    dots.innerHTML = HERO.map((_,i)=>`<span class="dot${i===0?' on':''}" data-i="${i}"></span>`).join('');
+    let cur = 0;
+    const slides = [...wrap.querySelectorAll('.hero-slide')];
+    const dotEls = [...dots.querySelectorAll('.dot')];
+    function go(n){
+      cur = (n+slides.length)%slides.length;
+      slides.forEach((sl,i)=>sl.classList.toggle('active',i===cur));
+      dotEls.forEach((d,i)=>d.classList.toggle('on',i===cur));
+    }
+    dotEls.forEach(d=>d.addEventListener('click',()=>go(+d.dataset.i)));
+    if(window.__heroTimer) clearInterval(window.__heroTimer);
+    window.__heroTimer = setInterval(()=>go(cur+1), 5000);
+  }
+
   function rebuild(){
     lang = window.Etrips.getLang();
+    renderHero();
 
     // 板块2 选择你的目的地（竖向长条卡）
     const dest = [
