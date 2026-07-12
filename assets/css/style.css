@@ -246,6 +246,9 @@ a{color:inherit;text-decoration:none}
 .footer-grid a,.footer-grid li{color:#eaf6fd;font-size:14px;display:inline-block;padding:3px 8px}
 .footer-grid > div{display:flex;flex-direction:column;align-items:center}
 .footer-grid a:hover{color:var(--accent)}
+.region-plan{margin:8px 0 36px}
+.region-hero{margin:0 0 24px}
+.region-map-img{width:100%;max-width:520px;display:block;margin:0 auto;border-radius:14px;box-shadow:0 6px 18px rgba(0,0,0,.1)}
 .contact-card-cyan{background:#1B9FE0;border-radius:12px;padding:12px 14px;margin-top:10px;color:#fff;font-size:13px;line-height:1.9;text-align:left}
 .contact-card-cyan .cc-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .contact-card-cyan .cc-ico{width:18px;height:18px;border-radius:4px;background:#fff;padding:1px;flex:0 0 auto}

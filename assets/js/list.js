@@ -26,6 +26,13 @@
     if(qt) list = list.filter(t=>t.type===decodeURIComponent(qt));
     if(!list.length){ grid.innerHTML = '<p class="muted">暂无符合条件的线路。</p>'; return; }
     grid.innerHTML = list.map(t=>window.tourCard(t,lang)).join('');
+    // 目的地分区行程规划（统一格式，按 ?d= 取用）
+    const rp = document.getElementById('region-plan');
+    if(rp){
+      const plan = (window.REGION_PLANS && q && window.REGION_PLANS[q]) ? window.REGION_PLANS[q] : '';
+      rp.innerHTML = plan;
+      rp.hidden = !plan;
+    }
     // re-apply labels on cards after render (detail/btn)
     window.Etrips.applyLang();
   }
