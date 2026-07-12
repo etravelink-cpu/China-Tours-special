@@ -57,11 +57,6 @@ window.EtripsForm = {
     document.getElementById('tips-grid').innerHTML = TIP.map(t=>`
       <div class="tip"><span class="tip-ico">💡</span><p>${lang==='zh'?t.zh:t.en}</p></div>`).join('');
 
-    // 板块8 联系方式 (5 channels, navy band) + minimal store info bar
-    const hc = document.getElementById('home-contact');
-    if(hc){
-      hc.innerHTML = window.contactChannels(lang, {band:true}) + window.storeInfo(lang);
-    }
   }
 
   document.addEventListener('DOMContentLoaded', rebuild);
