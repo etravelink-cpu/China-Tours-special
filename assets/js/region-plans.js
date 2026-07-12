@@ -310,4 +310,109 @@
   </table>
 
 </div>`;
+
+  window.REGION_PLANS.nz = `
+<div class="region-hero">
+  <img src="assets/img/nz-map.jpg" alt="新西兰分区地图" class="region-map-img">
+</div>
+<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
+
+  <!-- 一、新西兰北岛 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、新西兰北岛</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">新西兰门户枢纽，以奥克兰为核心，坐拥火山地热、萤火虫洞、霍比特人村等世界级IP，融合毛利文化、电影奇幻与海岛休闲，是新西兰入境首站的经典选择。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">奥克兰市区+海港一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">伊甸山火山口俯瞰全城、天空塔观光、使命湾海滨、高架桥港游艇码头</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、入境适应、休闲观光客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">怀托摩萤火虫洞+霍比特人村一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">乘船漂流地下星空萤火虫洞、《指环王》霍比特村44座洞屋+绿龙酒馆，中土世界双IP连线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">电影爱好者、亲子家庭、必打卡游客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">罗托鲁瓦地热毛利文化一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Wai-O-Tapu地热公园香槟池、诺克斯夫人间歇泉、毛利文化村Hangi餐、波利尼西亚温泉</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">文化爱好者、自然奇观、温泉休闲客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">岛屿湾观海豚一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">派希亚出海观赏野生宽吻海豚、岩中洞穿洞、岛屿湾144座群岛风光，可下水浮潜</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">海洋爱好者、家庭亲子、海滨度假客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">怀赫科岛品酒一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">渡轮前往葡萄酒之岛，多家精品酒庄品鉴黑皮诺、海滨步道、橄榄园与艺术画廊</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日多班渡轮</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">红酒爱好者、文艺休闲、本地度假客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">汤加里罗高山穿越一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">世界十大徒步路线之一，穿越火山地貌、翡翠湖、红火山口，《指环王》末日火山取景地</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">夏季每日发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">徒步爱好者、深度自然玩家、电影打卡客</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日精华入门款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 奥克兰市区观光 → Day2 怀托摩萤火虫洞+霍比特人村 → Day3 罗托鲁瓦地热文化</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途停留、北岛核心三IP打卡</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日深度全景款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 奥克兰 → Day2 怀赫科岛品酒 → Day3 萤火虫洞+霍比特村 → Day4 罗托鲁瓦地热温泉 → Day5 岛屿湾观海豚</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">单岛深度、自然文化全覆盖</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 二、新西兰南岛 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、新西兰南岛</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">新西兰自然风光核心精华区，以皇后镇为冒险中心，串联冰川雪山、星空湖泊、峡湾海岸与童话小镇，是全球顶级的自然观光与户外体验目的地。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">皇后镇休闲一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Skyline天空缆车+山顶自助、TSS蒸汽船游瓦卡蒂普湖、瓦尔特高原牧场剪羊毛秀</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全年龄段、休闲观光、家庭亲子</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">米尔福德峡湾一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">世界第八大奇观，乘游船穿越峡湾，观赏瀑布直泻、雪山悬崖、海豹与海豚，沿途经镜湖、荷马隧道</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">所有到访游客、自然奇观爱好者</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">库克山冰川湖泊一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">普卡基奶蓝色湖泊、胡克谷步道徒步、塔斯曼冰川观景，可选直升机冰川降落体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">自然摄影、徒步爱好者、冰川体验客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">蒂卡波湖星空一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">好牧羊人教堂、奶蓝色蒂卡波湖、约翰山天文台、夜间专业向导观星，世界首个暗黑天空保护区</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">摄影爱好者、情侣、星空体验客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">瓦纳卡+箭镇休闲一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">瓦纳卡孤独的树、湖畔轻徒步、箭镇复古淘金小镇，秋季金黄落叶绝美，可选跳伞体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">休闲度假、拍照打卡、年轻客群</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">凯库拉观鲸一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">出海近距离观赏抹香鲸、毛皮海豹、海豚，可选龙虾餐，世界顶级观鲸圣地</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日多班次</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">海洋爱好者、美食游客、家庭亲子</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">但尼丁苏格兰风情一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">世界最陡街道鲍德温街、奥塔哥大学、火车站古建筑、皇家信天翁中心、小蓝企鹅归巢</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">文化爱好者、动物观赏、慢游客群</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日精华环线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 皇后镇休闲 → Day2 米尔福德峡湾 → Day3 瓦纳卡+箭镇 → Day4 库克山冰川 → Day5 蒂卡波湖星空</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、南岛核心自然精华</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7日深度环岛</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 基督城出发 → Day2 蒂卡波 → Day3 库克山 → Day4 瓦纳卡 → Day5 皇后镇 → Day6 米尔福德峡湾 → Day7 但尼丁返程</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长停留、南岛全景深度体验</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 三、南北岛连线 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、南北岛连线（北岛+南岛）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">一次出行覆盖新西兰双岛精华，串联北岛火山地热文化与南岛冰川峡湾星空，搭配境内航班高效衔接，是首次到访新西兰的全景首选方案。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心连线方案</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">交通衔接</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8日精华连线（北3南5）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北岛：奥克兰→霍比特人村+萤火虫洞→罗托鲁瓦地热；南岛：皇后镇→米尔福德峡湾→瓦纳卡→库克山→蒂卡波</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">罗托鲁瓦/奥克兰飞皇后镇，境内航班1.5小时</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">假期有限、首次到访、双岛打卡客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">12日全景连线（北4南8）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北岛：奥克兰→怀赫科岛→霍比特+萤火虫洞→罗托鲁瓦；南岛：皇后镇→米尔福德→瓦纳卡→库克山→蒂卡波→凯库拉→基督城</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">奥克兰飞基督城/皇后镇，南岛走环线不走回头路</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度游玩、全景体验、长假期游客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">14日深度全览（北5南9）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北岛增加岛屿湾/汤加里罗徒步；南岛增加但尼丁、奥马鲁企鹅、西海岸冰川，覆盖东西南北全线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">南北岛境内航班衔接，南岛全程环岛自驾/跟团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度玩家、摄影创作、超长假期</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">规划实用贴士</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">维度</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 80%;">说明</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">最佳季节</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">11月-次年4月为春夏暖季，户外活动黄金期；11-12月鲁冰花季，南岛湖畔花海盛放；6-8月为滑雪季</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">人群适配</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">亲子家庭优先北岛轻松项目+南岛湖景休闲；年轻客群增加跳伞、蹦极、徒步等极限体验；长者优选观景火车、温泉、小镇慢游</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">衔接建议</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">建议北岛入境玩3-4天，再飞南岛深度游览，最后从基督城/皇后镇返程；境内航班单程约1.5小时，班次密集</td></tr>
+    </tbody>
+  </table>
+
+</div>`;
 })();
