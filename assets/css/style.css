@@ -167,13 +167,13 @@ a{color:inherit;text-decoration:none}
 .dest-strip:hover img{transform:scale(1.06)}
 .dest-strip .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(19,41,63,.05),rgba(19,41,63,.55))}
 /* ===== Hot tours horizontal scroll (借鉴 Nova 当季热卖) ===== */
-.hot-scroll{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;
+#hot-grid .hot-scroll{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;
   padding:4px 2px 16px;margin:0 -2px}
-.hot-scroll::-webkit-scrollbar{height:8px}
-.hot-scroll::-webkit-scrollbar-thumb{background:rgba(19,41,63,.22);border-radius:4px}
-.hot-scroll::-webkit-scrollbar-track{background:transparent}
-.hot-scroll .card{flex:0 0 300px;scroll-snap-align:start;height:100%}
-@media(max-width:560px){.hot-scroll .card{flex-basis:78%}}
+#hot-grid .hot-scroll::-webkit-scrollbar{height:8px}
+#hot-grid .hot-scroll::-webkit-scrollbar-thumb{background:rgba(19,41,63,.22);border-radius:4px}
+#hot-grid .hot-scroll::-webkit-scrollbar-track{background:transparent}
+#hot-grid .hot-scroll .card{flex:0 0 300px;scroll-snap-align:start;height:100%}
+@media(max-width:560px){#hot-grid .hot-scroll .card{flex-basis:78%}}
 .dest-strip .lbl{position:absolute;left:14px;bottom:14px;color:#fff;font-size:20px;font-weight:700;
   text-shadow:0 2px 8px rgba(0,0,0,.5);z-index:2}
 .dest-strip .en{display:block;font-size:12px;font-weight:400;opacity:.88;letter-spacing:1px}
