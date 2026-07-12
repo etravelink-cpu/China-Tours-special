@@ -18,7 +18,11 @@
           <div class="form-row"><label data-i18n="form.phone">电话</label><input required name="phone"></div>
           <div class="form-row"><label data-i18n="form.dest">目的地</label>
             <select name="dest"><option>澳洲境内</option><option>新西兰</option><option>中国全境</option><option>欧洲</option><option>邮轮</option><option>亚洲/海岛</option><option>定制游</option></select></div>
-          <div class="form-row"><label data-i18n="form.date">出行时间</label><input name="date" type="date"></div>
+          <div class="form-row"><label data-i18n="form.date">出行时间</label>
+            <input type="hidden" name="date">
+            <button type="button" class="date-trigger" id="date-trigger">请选择出发日期…</button>
+            <div class="date-pop" id="date-pop" hidden></div>
+          </div>
           <input type="hidden" name="source" value="contact-page">
           <input type="hidden" name="tourRef" value="">
           <div class="form-row"><label data-i18n="form.pax">人数</label><input name="pax" type="number" min="1" value="2"></div>

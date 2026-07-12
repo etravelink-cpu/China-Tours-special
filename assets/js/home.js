@@ -114,10 +114,10 @@ window.EtripsForm = {
     // 板块6 出行小贴士
     const TIP = window.TIPS || [];
     document.getElementById('tips-grid').innerHTML = TIP.map(t=>`<div class="tip"><span class="tip-ico">💡</span><p>${lang==='zh'?t.zh:t.en}</p></div>`).join('');
-
-    // 板块7 自定义出发日期选择器
-    if(document.getElementById('date-trigger') && window.EtripsDatePicker) window.EtripsDatePicker.init();
   }
+
+  // 自定义日期选择器：独立初始化（首页/子页皆可，不依赖首页 rebuild）
+  if(document.getElementById('date-trigger') && window.EtripsDatePicker) window.EtripsDatePicker.init();
 
   // ---------- 自定义日期选择器（橙条表头 / 周一列首 / 今天红标 / 真实发团日高亮） ----------
   window.EtripsDatePicker = {
@@ -156,6 +156,9 @@ window.EtripsForm = {
     }
   };
 
+  document.addEventListener('DOMContentLoaded', ()=>{
+    if(document.getElementById('date-trigger') && window.EtripsDatePicker) window.EtripsDatePicker.init();
+  });
   document.addEventListener('DOMContentLoaded', rebuild);
   window.addEventListener('langchange', rebuild);
 })();
