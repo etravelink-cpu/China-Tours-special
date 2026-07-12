@@ -54,7 +54,7 @@ window.EtripsForm = {
           <p class="hero-sub">${s.sub}</p>
           <div class="hero-cta">
             <a href="${s.href}" class="btn btn-gold">${s.cta}</a>
-            <a href="contact.html" class="btn btn-hero-outline">免费询价</a>
+            <a href="contact.html" class="btn btn-hero-outline">在线咨询</a>
           </div>
         </div>
       </div>`).join('');
