@@ -76,7 +76,7 @@
     const el = document.getElementById('float-bar');
     if(!el) return;
     el.innerHTML = `
-      <div class="float-btn gold" data-i18n="float.quote" title="免费报价" onclick="location.href='contact.html'">${I18N[lang]['float.quote']}</div>
+      <div class="float-btn gold" data-i18n="float.quote" title="在线咨询" onclick="location.href='contact.html'">${I18N[lang]['float.quote']}</div>
       <div class="float-btn" data-i18n="float.wechat" title="微信咨询">${I18N[lang]['float.wechat']}</div>`;
   }
 

@@ -94,7 +94,7 @@ window.EtripsForm = {
       </a>`).join('') + `</div>`;
 
     // 板块3 爆款6卡（横向滚动）
-    const HOT = T.slice(0,6);
+    const HOT = T.slice(0,9);
     const hotWrap = document.getElementById('hot-grid');
     hotWrap.className = 'grid grid-3';
     hotWrap.innerHTML = HOT.map(t=>window.tourCard(t,lang)).join('');
