@@ -37,21 +37,21 @@
         <ul class="nav" id="main-nav">${NAV.join('')}</ul>
         <div class="header-search">
           <select id="h-dest" class="h-select" aria-label="目的地">
-            <option value="">目的地</option>
-            <option value="australia">澳洲</option>
-            <option value="nz">新西兰</option>
-            <option value="china">中国</option>
-            <option value="europe">欧洲</option>
-            <option value="asia">亚洲</option>
-            <option value="cruise">邮轮</option>
-            <option value="custom">私人订制</option>
+            <option value="" data-i18n="search.dest">目的地</option>
+            <option value="australia" data-i18n="dest.australia">澳洲</option>
+            <option value="nz" data-i18n="dest.nz">新西兰</option>
+            <option value="china" data-i18n="dest.china">中国</option>
+            <option value="europe" data-i18n="dest.europe">欧洲</option>
+            <option value="asia" data-i18n="dest.asia">亚洲</option>
+            <option value="cruise" data-i18n="dest.cruise">邮轮</option>
+            <option value="custom" data-i18n="dest.custom">私人订制</option>
           </select>
           <select id="h-type" class="h-select" aria-label="参团方式">
-            <option value="">参团方式</option>
-            <option value="small">散拼团</option>
-            <option value="private">私家团</option>
+            <option value="" data-i18n="search.type">参团方式</option>
+            <option value="small" data-i18n="type.small">散拼团</option>
+            <option value="private" data-i18n="type.private">私家团</option>
           </select>
-          <button class="h-search" id="h-search">寻找</button>
+          <button class="h-search" id="h-search" data-i18n="search.find">寻找</button>
         </div>
         <div class="header-actions">
           <button class="lang-btn" id="lang-toggle">${I18N[lang]['lang.switch']}</button>
