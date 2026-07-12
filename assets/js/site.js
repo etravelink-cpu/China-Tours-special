@@ -23,9 +23,7 @@
     navItem('nav.europe','list.html?d=europe'),
     navItem('nav.asia','list.html?d=asia'),
     navItem('nav.cruise','list.html?d=cruise'),
-    navItem('nav.custom','custom.html'),
-    navItem('nav.about','about.html'),
-    navItem('nav.contact','contact.html')
+    navItem('nav.custom','custom.html')
   ];
 
   function renderHeader(){
