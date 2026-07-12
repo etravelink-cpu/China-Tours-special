@@ -4,7 +4,7 @@
 window.I18N = {
   zh: {
     "brand.name": "Etrips 国安易游",
-    "brand.slogan": "易行世间，邂逅万千",
+    "brand.slogan": "易行天下，纵览山海",
     "nav.home": "首页",
     "nav.australia": "澳洲",
     "nav.china": "中国",
