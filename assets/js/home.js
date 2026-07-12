@@ -79,7 +79,10 @@ window.EtripsForm = {
       </a>`).join('') + `</div>`;
 
     // 板块3 爆款6卡（横向滚动）
-    document.getElementById('hot-grid').innerHTML = `<div class="hot-scroll">` + T.slice(0,6).map(t=>tourCard(t,lang)).join('') + `</div>`;
+    const HOT = T.slice(0,6);
+    const hotWrap = document.getElementById('hot-grid');
+    hotWrap.className = 'grid grid-3';
+    hotWrap.innerHTML = HOT.map(t=>window.tourCard(t,lang)).join('');
 
     // 板块4 优势
     const adv = ['home.adv1','home.adv2','home.adv3','home.adv4'];
