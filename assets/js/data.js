@@ -13,7 +13,7 @@ window.TOURS = [
     tags: ["小团", "亲子", "无购物"],
     tagsEn: ["Small Group", "Family", "No Shopping"],
     price: "¥12,800", priceEn: "$1,980",
-    img: "https://picsum.photos/seed/etrips-syd/800/500",
+    img: "assets/img/destinations/australia.jpg",
     blurbZh: "城市观光 + 海岸自驾 + 亲子轻奢，一站式全包。",
     blurbEn: "City sights, coastal drive and family luxury, all-inclusive.",
     itinerary: [
@@ -71,7 +71,7 @@ window.TOURS = [
     tags: ["蜜月", "高端", "一价全包"],
     tagsEn: ["Honeymoon", "Luxury", "All-Inclusive"],
     price: "¥26,800", priceEn: "$4,280",
-    img: "https://picsum.photos/seed/etrips-nz/800/500",
+    img: "assets/img/destinations/nz.jpg",
     blurbZh: "冰川、星空、温泉、滑雪，蜜月全景定制。",
     blurbEn: "Glaciers, starry skies, hot springs and ski — bespoke honeymoon.",
     itinerary: [
@@ -123,7 +123,7 @@ window.TOURS = [
     tags: ["小团", "轻奢", "无购物"],
     tagsEn: ["Small Group", "Luxury", "No Shopping"],
     price: "¥6,800", priceEn: "$1,080",
-    img: "https://picsum.photos/seed/etrips-yn/800/500",
+    img: "assets/img/destinations/china.jpg",
     blurbZh: "苍山洱海、玉龙雪山，节奏舒适轻奢游。",
     blurbEn: "Cangshan & Erhai, Jade Dragon Snow Mountain, relaxed luxury.",
     itinerary: [
@@ -174,7 +174,7 @@ window.TOURS = [
     tags: ["小团", "亲子"],
     tagsEn: ["Small Group", "Family"],
     price: "¥8,800", priceEn: "$1,380",
-    img: "https://picsum.photos/seed/etrips-jp/800/500",
+    img: "assets/img/destinations/asia.jpg",
     blurbZh: "东京、富士山、京都、大阪，经典全包。",
     blurbEn: "Tokyo, Mt Fuji, Kyoto, Osaka — classic all-inclusive.",
     itinerary: [
@@ -220,7 +220,7 @@ window.TOURS = [
     tags: ["蜜月", "海岛", "高端"],
     tagsEn: ["Honeymoon", "Island", "Luxury"],
     price: "¥15,800", priceEn: "$2,480",
-    img: "https://picsum.photos/seed/etrips-fj/800/500",
+    img: "assets/img/hero-sunlover.jpg",
     blurbZh: "外岛水屋、浮潜、日落晚餐，纯度假。",
     blurbEn: "Outer-island bungalow, snorkeling, sunset dinner.",
     itinerary: [
@@ -264,7 +264,7 @@ window.TOURS = [
     tags: ["小团", "摄影", "无购物"],
     tagsEn: ["Small Group", "Photography", "No Shopping"],
     price: "¥9,600", priceEn: "$1,520",
-    img: "https://picsum.photos/seed/etrips-xb/800/500",
+    img: "assets/img/reef-panorama.png",
     blurbZh: "青海湖、敦煌、张掖丹霞，一路大片。",
     blurbEn: "Qinghai Lake, Dunhuang, Zhangye Danxia — epic shots.",
     itinerary: [
@@ -309,7 +309,7 @@ window.TOURS = [
     tags: ["小团", "经典", "无购物"],
     tagsEn: ["Small Group", "Classic", "No Shopping"],
     price: "¥19,800", priceEn: "$3,180",
-    img: "https://picsum.photos/seed/etrips-eu/800/500",
+    img: "assets/img/destinations/europe.jpg",
     blurbZh: "巴黎、少女峰、罗马、慕尼黑，一站尽览西欧。",
     blurbEn: "Paris, Jungfrau, Rome, Munich — Western Europe in one trip.",
     itinerary: [
@@ -361,7 +361,7 @@ window.TOURS = [
     tags: ["邮轮", "海岛", "一价全包"],
     tagsEn: ["Cruise", "Island", "All-Inclusive"],
     price: "¥21,800", priceEn: "$3,480",
-    img: "https://picsum.photos/seed/etrips-cruise/800/500",
+    img: "assets/img/destinations/cruise.jpg",
     blurbZh: "悉尼出发，途经海岛，全程邮轮度假。",
     blurbEn: "Departs Sydney, island hops, full cruise getaway.",
     itinerary: [
