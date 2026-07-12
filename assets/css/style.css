@@ -5,7 +5,7 @@
   --navy-light:#4FB8E8;  /* 浅蓝：聚焦/渐变 */
   --accent:#FF9F1C;      /* 强调：贴合 logo 橙 */
   --bg:#ffffff;
-  --bg-soft:#eef5f9;     /* 柔和浅青蓝：分区留白 */
+  --bg-soft:#f3f8fc;     /* 浅蓝灰（仅用于 hero/局部，不铺分区） */
   --text:#1f2933;
   --text-soft:#5b6b7b;
   --border:#e2e8f0;
@@ -39,7 +39,6 @@ a{color:inherit;text-decoration:none}
 .btn-outline{border:1.5px solid var(--navy);color:var(--navy);background:transparent}
 .btn-outline:hover{background:var(--navy);color:#fff}
 .section{padding:72px 0}
-.section.adv{background:var(--bg-soft)}
 .section-title{font-size:26px;color:var(--navy);text-align:center;margin-bottom:36px;font-weight:700}
 .section-title::after{content:"";display:block;width:48px;height:3px;background:var(--accent);
   margin:10px auto 0;border-radius:3px}
