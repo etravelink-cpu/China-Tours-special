@@ -113,6 +113,7 @@
             <div class="muted" style="margin-bottom:10px">悉尼办公室 Sydney Office</div>
             <div class="footer-channels">
               <a href="tel:${window.CONTACT.hotline.replace(/\\s/g,'')}">☎ ${window.CONTACT.hotline}</a>
+              <a href="tel:${window.CONTACT.hotline2.replace(/\\s/g,'')}">☎ ${window.CONTACT.hotline2}</a>
               <a href="mailto:${window.CONTACT.email}">✉ ${window.CONTACT.email}</a>
               <a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">📍 ${I18N[lang]['footer.addr']}</a>
             </div>
