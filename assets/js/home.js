@@ -13,7 +13,7 @@ window.EtripsForm = {
     const source = get('source') || location.pathname;
     const tourRef = get('tourRef') || '通用咨询';
     const rec = { ref, source, tourRef,
-      name:get('name'), phone:get('phone'), dest:get('dest'),
+      name:get('name'), phone:get('phone'), email:get('email'), dest:get('dest'),
       date:get('date'), pax:get('pax'), notes:get('notes'),
       at: d.toISOString() };
     // 本地留痕（无后端，存浏览器）
