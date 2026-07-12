@@ -18,14 +18,14 @@ window.EtripsForm = {
 
   function renderHero(){
     const HERO = [
-      {img:'assets/img/reef-panorama.png', tag:'易行天下，奔赴山海 · Connects you with moments',
+      {img:'assets/img/hero-sydney.jpg', tag:'易行天下，奔赴山海 · Connects you with moments',
        h1:'探索世界 · 从澳洲出发', sub:'从澳洲出发，抵达全球每一个值得去的地方', href:'list.html', cta:'查看线路'},
-      {img:'assets/img/hero-heartreef.png', tag:'浪漫心形礁 · 蜜月专线',
-       h1:'心形大堡礁 · 一生必去', sub:'直升机俯瞰自然奇迹，专属蜜月与求婚行程', href:'list.html?d=cruise', cta:'查看线路'},
-      {img:'assets/img/hero-sunlover.jpg', tag:'阳光大堡礁 · 亲子海岛',
-       h1:'阳光大堡礁 · 平台浮潜', sub:'一日游平台、浮潜观鱼、亲子出海轻松玩', href:'list.html?d=australia', cta:'查看线路'},
-      {img:'assets/img/destinations/asia.jpg', tag:'全球目的地 · 一键抵达',
-       h1:'不止澳洲 · 环游世界', sub:'新西兰·中国·欧洲·亚洲·邮轮，全线路任你选', href:'list.html', cta:'查看线路'}
+      {img:'assets/img/destinations/china.jpg', tag:'千年文明 · 山水中国',
+       h1:'深度中国 · 长线定制', sub:'云南·西北·华东，小团私家任你选', href:'list.html?d=china', cta:'查看线路'},
+      {img:'assets/img/hero-japan.jpg', tag:'浪漫红叶 · 日本秋冬',
+       h1:'日本本州 · 红叶季', sub:'东京·富士山·京都，经典全包', href:'list.html?d=asia', cta:'查看线路'},
+      {img:'assets/img/destinations/cruise.jpg', tag:'蓝海邮轮 · 一站度假',
+       h1:'邮轮专线 · 海岛漫游', sub:'悉尼出发，途经海岛，全程邮轮度假', href:'list.html?d=cruise', cta:'查看线路'}
     ];
     const wrap = document.getElementById('hero-slides');
     const dots = document.getElementById('hero-dots');
