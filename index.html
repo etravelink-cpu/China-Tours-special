@@ -57,36 +57,7 @@
     </div>
   </section>
 
-  <!-- 板块7: 咨询表单 -->
-  <section class="section adv">
-    <div class="container">
-      <h2 class="section-title" data-i18n="home.form.title">在线咨询</h2>
-      <div class="form-card">
-        <form onsubmit="return EtripsForm.submit(event)">
-          <div class="form-row"><label data-i18n="form.name">姓名</label><input required name="name" placeholder=""></div>
-          <div class="form-row"><label data-i18n="form.phone">电话</label><input required name="phone" placeholder=""></div>
-          <div class="form-row"><label data-i18n="form.email">邮箱</label><input required type="email" name="email" placeholder=""></div>
-          <div class="form-row"><label data-i18n="form.dest">目的地</label>
-            <select name="dest">
-              <option>澳洲</option><option>新西兰</option><option>中国</option>
-              <option>欧洲</option><option>亚洲</option><option>邮轮</option><option>私人订制</option>
-            </select></div>
-          <div class="form-row"><label data-i18n="form.date">出行时间</label>
-            <input type="hidden" name="date">
-            <button type="button" class="date-trigger" id="date-trigger">请选择出发日期</button>
-            <div class="date-pop" id="date-pop" hidden></div>
-          </div>
-          <input type="hidden" name="source" value="home-free-consult">
-          <input type="hidden" name="tourRef" value="">
-          <div class="form-row"><label data-i18n="form.pax">人数</label><input name="pax" type="number" min="1" value="2"></div>
-          <div class="form-row"><label data-i18n="form.notes">需求备注</label><textarea name="notes" rows="3" data-i18n-ph="form.notes.ph" placeholder="请告诉我们您的出行偏好、特殊需求或想咨询的问题…"></textarea></div>
-          <button class="btn btn-primary" style="width:100%" data-i18n="btn.submit">提交</button>
-        </form>
-        <p id="form-msg" style="margin-top:12px;color:#1f7a4d;font-size:14px"></p>
-      </div>
-    </div>
-  </section>
-
+  <!-- 页脚 -->
   <footer class="site-footer" id="site-footer"></footer>
 
   <script src="assets/js/i18n.js"></script>
