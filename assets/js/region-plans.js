@@ -415,4 +415,132 @@
   </table>
 
 </div>`;
+
+  window.REGION_PLANS.asia = `
+<div class="region-hero">
+  <img src="assets/img/asia-map.jpg" alt="亚洲分区地图" class="region-map-img">
+</div>
+<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
+
+  <!-- 一、日本 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、日本</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">亚洲热门短途目的地，主打纯玩无购物体验，覆盖本州都市风光、北海道雪景与节日限定主题，行程节奏轻松、配套成熟，适配家庭度假、年轻出行与节日赏景等多元需求。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩缤纷日本6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，覆盖东京、大阪、京都等核心都市，串联经典地标与日式风情，短途出行高性价比首选</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴日、短途假期、家庭休闲客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩日本北海道5日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北海道深度纯玩，冬季赏雪泡温泉、夏季赏花看花海，聚焦道央核心风光，行程轻松不赶路</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冬夏旺季固定发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">度假休闲、雪景/花海爱好者、慢游客群</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩东京富士山北海道10日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">本州+北海道双岛连线，一次打卡东京都市、富士山圣景与北海道自然风光，纯玩全程无购物</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">旺季固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">时间充裕、想一次玩遍双岛的深度游客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">白色圣诞浪漫新年缤纷日本9日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">金牌纯玩品质，圣诞/新年专属排期，覆盖白川乡合掌村、都市节日灯饰与冰雪景观，打造冬日节日浪漫体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年圣诞/新年季固定发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">情侣出行、节日度假、摄影爱好者</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6日本州经典款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">缤纷日本6日纯玩 → 可加1-2天东京/大阪自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">一周假期、首次赴日、经典打卡</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">10日双岛深度款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">东京富士山+北海道10日纯玩 → 可延伸关西地区</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长假期、深度体验、一次玩透</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 二、韩国 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、韩国</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">短途休闲热门目的地，聚焦首尔都市潮流与江原道自然风光，兼顾购物美食、人文古迹与山海度假，行程轻松灵活，适合短途假期与年轻客群。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">韩国经典6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首尔+周边经典连线，覆盖景福宫、明洞、南怡岛等核心地标，兼顾美食、购物与人文观光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年多班期发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴韩、购物美食爱好者、休闲度假客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩首尔江原道5日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，首尔都市潮流+江原道山海风光，冬季可滑雪、夏季可看海，体验丰富</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">四季固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">年轻客群、品质出行、短途度假</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日纯玩休闲款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首尔江原道5日纯玩 → 可加首尔自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途假期、品质出行、购物+休闲</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 三、中国台湾 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、中国台湾</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">主打环岛观光与纯玩体验，设多天数梯度可选，覆盖台北都市、东部海岸、阿里山日月潭与垦丁南国风光，行程成熟、语言无障碍，适配全年龄段游客。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">玩转台湾·轻松环岛6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">经典环岛基础款，覆盖台北、台中、高雄、台东核心城市与地标，节奏适中，快速领略台湾全境风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴台、短途假期、休闲观光客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">玩转台湾·精华环岛7日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">在6日基础上增加日月潭/阿里山核心自然景点，兼顾都市与山水，是环岛游的热门性价比之选</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">固定班期发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">家庭出行、想兼顾自然与都市的游客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">玩转台湾·全景环岛8日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度环岛全覆盖，增加垦丁、花东纵谷等小众精华路段，行程更从容，不留遗憾打卡全境风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">固定班期发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">时间充裕、想深度玩透台湾的游客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩宝岛风情5/6/8日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，多天数可选，主打台湾本土人文、美食与自然深度体验，行程品质更高</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期可选</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">追求品质、拒绝购物、深度体验客</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7日精华环岛款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">精华环岛7日 → 可加台北1-2天自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">一周假期、首次赴台、高性价比首选</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8日纯玩全景款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩宝岛风情8日 → 深度覆盖东西岸全境</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">品质出行、深度游玩、全年龄段适配</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 四、东南亚（越南/新马） -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、东南亚（越南 / 新马）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">热带滨海与美食度假胜地，主打纯玩品质与豪华美食体验，覆盖越南山海奇观与新马双城都市风情，行程温暖轻松，适合反季度假与美食爱好者。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">越南双龙湾豪华美食6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">打卡下龙湾、陆龙湾双世界遗产，全程豪华住宿，深度体验越南地道美食与法式风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">美食爱好者、度假休闲、反季避寒客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩新加坡马来西亚6日（新进马出）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，新加坡花园城市+马来西亚吉隆坡/马六甲双城连线，新进马出不走回头路</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴东南亚、家庭休闲、都市观光客</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩马来西亚新加坡6日（马进新出）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">同线路反向行程，马进新出灵活选择，纯玩无购物，兼顾南洋风情、都市繁华与自然景观</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">灵活搭配返程、品质出行的游客</td></tr>
+    </tbody>
+  </table>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6日新马双城款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">新马纯玩6日 → 可加新加坡自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途假期、首次东南亚、都市休闲</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6日越南美食度假款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">越南双龙湾豪华美食6日 → 可延伸海滨度假</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">美食度假、反季避寒、慢节奏休闲</td></tr>
+    </tbody>
+  </table>
+
+</div>`;
 })();
