@@ -120,6 +120,9 @@
             <h4 data-i18n="footer.service">${I18N[lang]['footer.service']}</h4>
             <a href="faq.html" data-i18n="faq.title">${I18N[lang]['faq.title']}</a>
             <a href="departures.html" data-i18n="dep.title">${I18N[lang]['dep.title']}</a>
+            <a href="javascript:void(0)" onclick="EtripsFloat.toggleWechat()" title="微信咨询">💬 微信：${window.CONTACT.wechat}</a>
+            <a href="https://wa.me/${window.CONTACT.whatsapp.replace(/[^0-9]/g,'')}" target="_blank" rel="noopener">📱 WhatsApp：${window.CONTACT.whatsapp}</a>
+            <a href="javascript:void(0)" title="微信公众号">🟢 公众号：${window.CONTACT.wechat}</a>
           </div>
           <div>
             <h4 data-i18n="footer.contact">${I18N[lang]['footer.contact']}</h4>
