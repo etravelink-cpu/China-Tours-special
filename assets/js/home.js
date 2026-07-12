@@ -21,7 +21,7 @@ window.EtripsForm = {
 
     // 板块2 选择你的目的地（竖向长条卡）
     const dest = [
-      {zh:'澳洲', en:'AUSTRALIA', img:'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1200&q=80', wide:true, href:'list.html?d=australia'},
+      {zh:'澳洲', en:'AUSTRALIA', img:'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800&q=80', href:'list.html?d=australia'},
       {zh:'新西兰', en:'NEW ZEALAND', img:'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80', href:'list.html?d=nz'},
       {zh:'中国', en:'CHINA', img:'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800&q=80', href:'list.html?d=china'},
       {zh:'欧洲', en:'EUROPE', img:'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80', href:'list.html?d=europe'},
@@ -36,8 +36,8 @@ window.EtripsForm = {
         <div class="lbl">${d.zh}<span class="en">${d.en}</span></div>
       </a>`).join('') + `</div>`;
 
-    // 板块3 爆款6卡
-    document.getElementById('hot-grid').innerHTML = T.slice(0,6).map(t=>tourCard(t,lang)).join('');
+    // 板块3 爆款6卡（横向滚动）
+    document.getElementById('hot-grid').innerHTML = `<div class="hot-scroll">` + T.slice(0,6).map(t=>tourCard(t,lang)).join('') + `</div>`;
 
     // 板块4 优势
     const adv = ['home.adv1','home.adv2','home.adv3','home.adv4'];

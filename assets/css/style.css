@@ -20,7 +20,16 @@ body{font-family:"Segoe UI","PingFang SC","Microsoft YaHei",system-ui,sans-serif
   color:var(--text);background:var(--bg);line-height:1.6;padding-top:var(--header-h)}
 img{max-width:100%;display:block}
 a{color:inherit;text-decoration:none}
-.container{max-width:var(--maxw);margin:0 auto;padding:0 20px}
+/* ===== Header search box ===== */
+.header-search{display:flex;align-items:center;gap:6px;margin-left:auto}
+.h-select{height:38px;border:1px solid var(--border);border-radius:8px;background:#fff;
+  color:var(--text);font-size:13px;padding:0 10px;outline:none;cursor:pointer}
+.h-select:focus{border-color:var(--navy-light)}
+.h-search{height:38px;padding:0 18px;border:none;border-radius:8px;background:var(--accent);
+  color:#1c1c1c;font-weight:700;font-size:14px;cursor:pointer;transition:.2s}
+.h-search:hover{filter:brightness(.94)}
+@media(max-width:1080px){.header-search{display:none}}
+
 .btn{display:inline-block;padding:11px 22px;border-radius:var(--radius);font-weight:600;
   cursor:pointer;border:none;transition:.2s;font-size:15px}
 .btn-primary{background:var(--navy);color:#fff}
@@ -148,24 +157,28 @@ a{color:inherit;text-decoration:none}
 .grid-4{grid-template-columns:repeat(4,1fr)}
 .grid-3{grid-template-columns:repeat(3,1fr)}
 .grid-2{grid-template-columns:repeat(2,1fr)}
-/* ===== Destination strips (选择你的目的地) — horizontal scroll ===== */
-.dest-row{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;
-  padding:4px 2px 14px;margin:0 -2px}
-.dest-row::-webkit-scrollbar{height:8px}
-.dest-row::-webkit-scrollbar-thumb{background:rgba(19,41,63,.22);border-radius:4px}
-.dest-row::-webkit-scrollbar-track{background:transparent}
-.dest-strip{position:relative;border-radius:var(--radius);overflow:hidden;min-height:300px;
-  flex:0 0 210px;scroll-snap-align:start;box-shadow:var(--shadow);display:block;transition:.25s}
+/* ===== Destination strips (选择你的目的地) — equal-height grid ===== */
+.dest-row{display:grid;grid-template-columns:repeat(7,1fr);gap:12px}
+.dest-strip{position:relative;border-radius:var(--radius);overflow:hidden;min-height:200px;
+  box-shadow:var(--shadow);display:block;transition:.25s}
 .dest-strip.wide{flex:0 0 340px}
 .dest-strip:hover{transform:translateY(-5px);box-shadow:0 12px 28px rgba(19,41,63,.22)}
 .dest-strip img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:.4s}
 .dest-strip:hover img{transform:scale(1.06)}
 .dest-strip .ov{position:absolute;inset:0;background:linear-gradient(180deg,rgba(19,41,63,.05),rgba(19,41,63,.55))}
+/* ===== Hot tours horizontal scroll (借鉴 Nova 当季热卖) ===== */
+.hot-scroll{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;
+  padding:4px 2px 16px;margin:0 -2px}
+.hot-scroll::-webkit-scrollbar{height:8px}
+.hot-scroll::-webkit-scrollbar-thumb{background:rgba(19,41,63,.22);border-radius:4px}
+.hot-scroll::-webkit-scrollbar-track{background:transparent}
+.hot-scroll .card{flex:0 0 300px;scroll-snap-align:start;height:100%}
+@media(max-width:560px){.hot-scroll .card{flex-basis:78%}}
 .dest-strip .lbl{position:absolute;left:14px;bottom:14px;color:#fff;font-size:20px;font-weight:700;
   text-shadow:0 2px 8px rgba(0,0,0,.5);z-index:2}
 .dest-strip .en{display:block;font-size:12px;font-weight:400;opacity:.88;letter-spacing:1px}
-@media(max-width:900px){.dest-strip{min-height:220px;flex-basis:170px}.dest-strip.wide{flex-basis:260px}}
-@media(max-width:560px){.dest-strip{min-height:180px;flex-basis:140px}.dest-strip.wide{flex-basis:210px}}
+@media(max-width:900px){.dest-row{grid-template-columns:repeat(4,1fr)}.dest-strip{min-height:170px}}
+@media(max-width:560px){.dest-row{grid-template-columns:repeat(2,1fr)}.dest-strip{min-height:150px}}
 .card{background:#fff;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;
   box-shadow:var(--shadow);transition:.2s}
 .card:hover{transform:translateY(-4px)}

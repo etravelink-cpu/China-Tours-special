@@ -18,9 +18,12 @@
   function render(){
     lang = window.Etrips.getLang();
     const q = new URLSearchParams(location.search).get('d');
+    const qt = new URLSearchParams(location.search).get('type');
+    if(qt) { const sel=document.getElementById('f-type'); if(sel) sel.value=qt; }
     const grid = document.getElementById('list-grid');
     let list = T.filter(match);
     if(q) list = list.filter(t=>t.dest===q);
+    if(qt) list = list.filter(t=>t.type===decodeURIComponent(qt));
     if(!list.length){ grid.innerHTML = '<p class="muted">暂无符合条件的线路。</p>'; return; }
     grid.innerHTML = list.map(t=>window.tourCard(t,lang)).join('');
     // re-apply labels on cards after render (detail/btn)
