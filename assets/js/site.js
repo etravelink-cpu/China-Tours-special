@@ -87,7 +87,7 @@
     const el = document.getElementById('site-footer');
     if(!el) return;
     el.innerHTML = `
-      <div class="container">
+      <div class="footer-inner">
         <div class="footer-grid">
           <div>
             <h4 data-i18n="footer.nav">${I18N[lang]['footer.nav']}</h4>
@@ -113,7 +113,7 @@
             <h4 data-i18n="footer.contact">${I18N[lang]['footer.contact']}</h4>
             <div class="muted" style="margin-bottom:10px">悉尼办公室 Sydney Office<br>${I18N[lang]['footer.addr']}</div>
             <div class="footer-channels">
-              <a href="tel:${window.CONTACT.hotline.replace(/\s/g,'')}">☎ ${window.CONTACT.hotline}</a>
+              <a href="tel:${window.CONTACT.hotline.replace(/\\s/g,'')}">☎ ${window.CONTACT.hotline}</a>
               <a href="mailto:${window.CONTACT.email}">✉ ${window.CONTACT.email}</a>
               <a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">📍 ${I18N[lang]['footer.addr']}</a>
             </div>
