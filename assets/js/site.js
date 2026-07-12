@@ -75,10 +75,23 @@
   function renderFloat(){
     const el = document.getElementById('float-bar');
     if(!el) return;
+    const wx = (window.CONTACT && window.CONTACT.wechat) || 'E-travelink';
     el.innerHTML = `
       <div class="float-btn gold" data-i18n="float.quote" title="在线咨询" onclick="location.href='contact.html'">${I18N[lang]['float.quote']}</div>
-      <div class="float-btn" data-i18n="float.wechat" title="微信咨询">${I18N[lang]['float.wechat']}</div>`;
+      <div class="float-btn wechat" title="微信咨询" onclick="EtripsFloat.toggleWechat()">微</div>
+      <div class="wx-pop" id="wx-pop" hidden>微信号：<b>${wx}</b><br><span style="font-size:12px;color:#888">长按复制添加</span></div>`;
   }
+
+  window.EtripsFloat = {
+    toggleWechat(){
+      const p = document.getElementById('wx-pop');
+      if(p) p.hidden = !p.hidden;
+    }
+  };
+  document.addEventListener('click', e=>{
+    const p = document.getElementById('wx-pop');
+    if(p && !p.hidden && !p.contains(e.target) && !e.target.closest('.float-btn.wechat')) p.hidden = true;
+  });
 
   // ---------- Footer ----------
   function renderFooter(){

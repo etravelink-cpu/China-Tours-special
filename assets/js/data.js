@@ -507,7 +507,7 @@ window.CONTACT = {
   hotline: "+61 2 9764 6862",            // 客服热线
   hotline2: "+61 2 9764 2911",
   whatsapp: "+61 410 740 695",          // WhatsApp
-  wechat: "EtripsAU",                    // 官方微信
+  wechat: "E-travelink",                    // 官方微信
   email: "info@etravelink.com.au",          // 工作邮箱
   addressZh: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
   addressEn: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
