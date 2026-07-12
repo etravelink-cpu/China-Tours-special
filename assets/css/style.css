@@ -280,3 +280,21 @@ a{color:inherit;text-decoration:none}
   .footer-grid{grid-template-columns:1fr}
   .section{padding:40px 0}
 }
+
+/* ---------- 自定义出发日期选择器 ---------- */
+.date-trigger{width:100%;text-align:left;padding:10px 12px;border:1px solid var(--border);border-radius:8px;
+  background:#fff;color:#555;font-size:14px;cursor:pointer}
+.date-trigger:focus{outline:none;border-color:var(--navy)}
+.date-pop{position:absolute;z-index:50;margin-top:6px;background:#fff;border:1px solid var(--border);
+  border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.12);padding:10px;width:260px}
+.dp-head{background:var(--accent);color:#fff;font-weight:600;padding:8px 10px;border-radius:8px 8px 0 0;
+  display:flex;justify-content:space-between;align-items:center}
+.dp-next{cursor:pointer;font-size:18px;line-height:1}
+.dp-wk{display:grid;grid-template-columns:repeat(7,1fr);text-align:center;font-size:12px;color:#888;margin:8px 0 4px}
+.dp-wk span{padding:2px 0}
+.dp-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px}
+.dc{text-align:center;font-size:13px;padding:7px 0;border-radius:6px;color:#bbb;cursor:default}
+.dc.empty{visibility:hidden}
+.dc.today{color:#e23b3b;font-weight:700}
+.dc.on{background:#ffe9d6;color:#c45a00;font-weight:600;cursor:pointer}
+.dc.on:hover{background:var(--accent);color:#fff}

@@ -114,10 +114,48 @@ window.EtripsForm = {
 
     // 板块6 出行小贴士
     const TIP = window.TIPS || [];
-    document.getElementById('tips-grid').innerHTML = TIP.map(t=>`
-      <div class="tip"><span class="tip-ico">💡</span><p>${lang==='zh'?t.zh:t.en}</p></div>`).join('');
+    document.getElementById('tips-grid').innerHTML = TIP.map(t=>`<div class="tip"><span class="tip-ico">💡</span><p>${lang==='zh'?t.zh:t.en}</p></div>`).join('');
 
+    // 板块7 自定义出发日期选择器
+    if(document.getElementById('date-trigger') && window.EtripsDatePicker) window.EtripsDatePicker.init();
   }
+
+  // ---------- 自定义日期选择器（橙条表头 / 周一列首 / 今天红标 / 真实发团日高亮） ----------
+  window.EtripsDatePicker = {
+    year: new Date().getFullYear(), month: new Date().getMonth(),
+    init(){
+      const trigger = document.getElementById('date-trigger');
+      const pop = document.getElementById('date-pop');
+      const hidden = document.querySelector('input[name="date"]');
+      const avail = (window.DEPARTURES||[]).map(d=>d.date); // 真实发团日 YYYY-MM-DD
+      const render = ()=>{
+        const y=this.year, m=this.month;
+        const first=new Date(y,m,1).getDay();      // 0=Sun
+        const start=(first+6)%7;                    // 周一为列首
+        const days=new Date(y,m+1,0).getDate();
+        const wk=['周一','周二','周三','周四','周五','周六','周日'];
+        const pad=n=>String(n).padStart(2,'0');
+        const today=new Date(); const tkey=`${today.getFullYear()}-${pad(today.getMonth()+1)}-${pad(today.getDate())}`;
+        let cells='';
+        for(let i=0;i<start;i++) cells+='<span class="dc empty"></span>';
+        for(let d=1;d<=days;d++){
+          const key=`${y}-${pad(m+1)}-${pad(d)}`;
+          const isToday=key===tkey;
+          const can=avail.includes(key);
+          cells+=`<span class="dc${can?' on':''}${isToday?' today':''}" ${can?`data-d="${key}"`:''}>${isToday?'今天':d}</span>`;
+        }
+        pop.innerHTML=`<div class="dp-head">${y}-${pad(m+1)} <span class="dp-next" id="dp-next">›</span></div>
+          <div class="dp-wk">${wk.map(w=>`<span>${w}</span>`).join('')}</div>
+          <div class="dp-grid">${cells}</div>`;
+        pop.querySelector('#dp-next').onclick=()=>{ this.month++; if(this.month>11){this.month=0;this.year++;} render(); };
+        pop.querySelectorAll('.dc.on').forEach(c=>c.onclick=()=>{
+          hidden.value=c.dataset.d; trigger.textContent=c.dataset.d; pop.hidden=true;
+        });
+      };
+      trigger.onclick=()=>{ pop.hidden=!pop.hidden; if(!pop.hidden) render(); };
+      document.addEventListener('click',e=>{ if(!pop.hidden && !pop.contains(e.target) && e.target!==trigger) pop.hidden=true; });
+    }
+  };
 
   document.addEventListener('DOMContentLoaded', rebuild);
   window.addEventListener('langchange', rebuild);
