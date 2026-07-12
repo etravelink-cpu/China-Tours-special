@@ -87,6 +87,7 @@
     const el = document.getElementById('site-footer');
     if(!el) return;
     el.innerHTML = `
+      <div class="footer-card">
       <div class="footer-inner">
         <div class="footer-grid">
           <div>
@@ -125,7 +126,9 @@
           <a href="#" data-i18n="footer.disclaimer">${I18N[lang]['footer.disclaimer']}</a>
         </div>
       </div>
-      <div class="footer-bottom">${I18N[lang]['footer.copyright']}</div>`;
+      <div class="footer-bottom">${I18N[lang]['footer.copyright']}</div>
+      </div>
+      </div>`;
   }
 
   // ---------- Language ----------

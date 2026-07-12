@@ -211,19 +211,21 @@ a{color:inherit;text-decoration:none}
   border-radius:8px;font-size:15px;font-family:inherit}
 .form-row input:focus,.form-row select:focus,.form-row textarea:focus{outline:none;border-color:var(--navy)}
 
-/* ===== Footer ===== */
-.site-footer{background:var(--navy-dark);color:#cdd8e3;padding:36px 0 0}
-.footer-inner{max-width:1100px;margin:0 auto;padding:0 20px}
+/* ===== Footer (亮蓝底, 收边留白, 不铺满) ===== */
+.site-footer{background:var(--navy);color:#eaf6fd;padding:28px 20px}
+.footer-card{max-width:1100px;margin:0 auto;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.18);
+  border-radius:16px;padding:28px 24px}
+.footer-inner{max-width:none;margin:0;padding:0}
 .footer-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;text-align:center}
 .footer-grid h4{color:#fff;margin-bottom:12px;font-size:15px}
-.footer-grid a,.footer-grid li{color:#cdd8e3;font-size:14px;display:inline-block;padding:3px 8px}
+.footer-grid a,.footer-grid li{color:#eaf6fd;font-size:14px;display:inline-block;padding:3px 8px}
 .footer-grid > div{display:flex;flex-direction:column;align-items:center}
 .footer-grid a:hover{color:var(--accent)}
-.footer-compliance{border-top:1px solid rgba(255,255,255,.12);margin-top:24px;padding:16px 0;
+.footer-compliance{border-top:1px solid rgba(255,255,255,.18);margin-top:22px;padding:16px 0 0;
   display:flex;gap:18px;justify-content:center;flex-wrap:wrap}
-  font-size:12.5px;color:#9fb1c4;display:flex;flex-wrap:wrap;gap:16px;justify-content:center;text-align:center}
-.footer-compliance a{color:#9fb1c4;text-decoration:underline}
-.footer-bottom{text-align:center;padding:14px 0;font-size:12px;color:#7d90a4;border-top:1px solid rgba(255,255,255,.08)}
+  font-size:12.5px;color:rgba(255,255,255,.82);display:flex;flex-wrap:wrap;gap:16px;justify-content:center;text-align:center}
+.footer-compliance a{color:rgba(255,255,255,.82);text-decoration:underline}
+.footer-bottom{text-align:center;padding:14px 0 0;font-size:12px;color:rgba(255,255,255,.7)}
 
 /* ===== Detail page ===== */
 .detail-hero{background:var(--navy);color:#fff;padding:30px 0}
