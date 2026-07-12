@@ -72,6 +72,8 @@
   }
 
   // ---------- Float widgets ----------
+  const WA_SVG = `<svg viewBox="0 0 32 32" style="width:30px;height:30px"><circle cx="16" cy="16" r="16" fill="#25D366"/><path fill="#fff" d="M16 3C9.4 3 4 8.4 4 15c0 2.2.6 4.2 1.8 6L4 29l8.2-2.1c1.8.9 3.8 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.5c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1.3 1.3-4.8-.3-.4c-1-1.6-1.5-3.4-1.5-5.3 0-5.5 4.5-10 10-10s10 4.5 10 10-4.5 10.8-10 10.8zm5.5-7.5c-.3-.2-1.9-1-2.2-1.1-.3-.1-.5-.2-.7.2-.2.3-.8 1-1 1.2-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.2-.2.2-.3.3-.5.1-.2.1-.4 0-.6-.1-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.6-.5h-.5c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1 2.9 1.2 3.1c.1.2 2 3 4.8 4.2 1.7.7 2.3.8 3.1.7.5-.1 1.9-.8 2.2-1.5.3-.8.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/></svg>`;
+
   function renderFloat(){
     const el = document.getElementById('float-bar');
     if(!el) return;
@@ -81,26 +83,38 @@
     const wa = C.whatsapp || '', waqr = C.whatsappQr || '';
     el.innerHTML = `
       <div class="float-btn gold" data-i18n="float.quote" title="在线咨询" onclick="location.href='contact.html'">${I18N[lang]['float.quote']}</div>
-      <div class="float-btn wechat" title="微信客服" onclick="EtripsFloat.toggleWechat()"><img src="assets/img/wechat-icon.jpg" alt="微信"></div>
+      <div class="float-btn wechat" title="微信客服" onclick="EtripsFloat.toggle('wx-pop','.float-btn.wechat')"><img src="assets/img/wechat-icon.jpg" alt="微信"></div>
+      <div class="float-btn whatsapp" title="WhatsApp" onclick="EtripsFloat.toggle('wa-pop','.float-btn.whatsapp')">${WA_SVG}</div>
       <div class="wx-pop" id="wx-pop" hidden>
         <div class="wx-row"><span class="wx-tag">${wx1n}</span> <b>${wx1}</b></div>
         ${wx1qr?`<img class="wx-qr" src="${wx1qr}" alt="${wx1n} QR">`:''}
         <div class="wx-row"><span class="wx-tag">${wx2n}</span> <b>${wx2}</b></div>
+        <div style="font-size:12px;color:#888;margin-top:6px">长按复制微信号 / 扫码添加</div>
+      </div>
+      <div class="wx-pop" id="wa-pop" hidden>
         <div class="wx-row"><span class="wx-tag wa">WhatsApp</span> <b>${wa}</b></div>
         ${waqr?`<img class="wx-qr" src="${waqr}" alt="WhatsApp QR">`:''}
-        <div style="font-size:12px;color:#888;margin-top:6px">长按复制微信号 / 扫码添加</div>
+        <div style="font-size:12px;color:#888;margin-top:6px">扫码添加 WhatsApp</div>
       </div>`;
   }
 
   window.EtripsFloat = {
-    toggleWechat(){
-      const p = document.getElementById('wx-pop');
-      if(p) p.hidden = !p.hidden;
+    toggle(id, btnSel){
+      const p = document.getElementById(id);
+      if(!p) return;
+      const show = p.hidden;
+      ['wx-pop','wa-pop'].forEach(x=>{ const o=document.getElementById(x); if(o) o.hidden=true; });
+      p.hidden = !show;
     }
   };
   document.addEventListener('click', e=>{
-    const p = document.getElementById('wx-pop');
-    if(p && !p.hidden && !p.contains(e.target) && !e.target.closest('.float-btn.wechat')) p.hidden = true;
+    ['wx-pop','wa-pop'].forEach(id=>{
+      const p = document.getElementById(id);
+      if(p && !p.hidden){
+        const sel = id==='wx-pop' ? '.float-btn.wechat' : '.float-btn.whatsapp';
+        if(!p.contains(e.target) && !e.target.closest(sel)) p.hidden = true;
+      }
+    });
   });
 
   // ---------- Footer ----------
