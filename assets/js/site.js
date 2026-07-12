@@ -78,7 +78,7 @@
     const wx = (window.CONTACT && window.CONTACT.wechat) || 'E-travelink';
     el.innerHTML = `
       <div class="float-btn gold" data-i18n="float.quote" title="在线咨询" onclick="location.href='contact.html'">${I18N[lang]['float.quote']}</div>
-      <div class="float-btn wechat" title="微信咨询" onclick="EtripsFloat.toggleWechat()">微</div>
+      <div class="float-btn wechat" title="微信咨询" onclick="EtripsFloat.toggleWechat()"><img src="assets/img/wechat-icon.jpg" alt="微信"></div>
       <div class="wx-pop" id="wx-pop" hidden>微信号：<b>${wx}</b><br><span style="font-size:12px;color:#888">长按复制添加</span></div>`;
   }
 
@@ -120,9 +120,9 @@
             <h4 data-i18n="footer.service">${I18N[lang]['footer.service']}</h4>
             <a href="faq.html" data-i18n="faq.title">${I18N[lang]['faq.title']}</a>
             <a href="departures.html" data-i18n="dep.title">${I18N[lang]['dep.title']}</a>
-            <a href="javascript:void(0)" onclick="EtripsFloat.toggleWechat()" title="微信咨询">💬 微信：${window.CONTACT.wechat}</a>
+            <a href="javascript:void(0)" onclick="EtripsFloat.toggleWechat()" title="微信咨询"><img src="assets/img/wechat-icon.jpg" alt="微信" class="wx-ico"> 微信：${window.CONTACT.wechat}</a>
             <a href="https://wa.me/${window.CONTACT.whatsapp.replace(/[^0-9]/g,'')}" target="_blank" rel="noopener">📱 WhatsApp：${window.CONTACT.whatsapp}</a>
-            <a href="javascript:void(0)" title="微信公众号">🟢 公众号：${window.CONTACT.wechat}</a>
+            <a href="javascript:void(0)" title="微信公众号"><img src="assets/img/wechat-icon.jpg" alt="微信" class="wx-ico"> 公众号：${window.CONTACT.wechat}</a>
           </div>
           <div>
             <h4 data-i18n="footer.contact">${I18N[lang]['footer.contact']}</h4>
