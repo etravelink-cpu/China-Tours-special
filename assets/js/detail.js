@@ -80,6 +80,9 @@
     renderExtra(cur);
     renderCancel(cur);
     window.Etrips.applyLang();
+    document.querySelectorAll('a.btn-primary[href="contact.html"],a.btn-gold[href="contact.html"]').forEach(a=>{
+      a.href = 'contact.html?tour=' + encodeURIComponent(cur.id);
+    });
   }
 
   // Tabs

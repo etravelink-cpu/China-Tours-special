@@ -5,8 +5,23 @@ window.EtripsForm = {
     e.preventDefault();
     const f = e.target;
     const lang = window.Etrips.getLang();
+    const get = n => (f.querySelector('[name="'+n+'"]')||{}).value || '';
+    // 自动编号：ET-YYYYMMDD-HHMMSS
+    const d = new Date();
+    const p = n => String(n).padStart(2,'0');
+    const ref = 'ET-' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate()) + '-' + p(d.getHours()) + p(d.getMinutes()) + p(d.getSeconds());
+    const source = get('source') || location.pathname;
+    const tourRef = get('tourRef') || '通用咨询';
+    const rec = { ref, source, tourRef,
+      name:get('name'), phone:get('phone'), dest:get('dest'),
+      date:get('date'), pax:get('pax'), notes:get('notes'),
+      at: d.toISOString() };
+    // 本地留痕（无后端，存浏览器）
+    try{ const k='etrips_leads'; const a=JSON.parse(localStorage.getItem(k)||'[]'); a.push(rec); localStorage.setItem(k, JSON.stringify(a)); }catch(_){}
     document.getElementById('form-msg').textContent =
-      lang==='zh' ? '✅ 已收到您的咨询，顾问将尽快与您联系！' : '✅ We received your request, an advisor will contact you soon!';
+      (lang==='zh'
+        ? '✅ 已收到咨询（编号 '+ref+'，来源：'+source+'，线路：'+tourRef+'），顾问将尽快联系您！'
+        : '✅ Received (ref '+ref+', source: '+source+', tour: '+tourRef+'). An advisor will contact you soon!');
     f.reset();
     return false;
   }

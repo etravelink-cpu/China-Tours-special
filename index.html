@@ -70,7 +70,9 @@
               <option>澳洲</option><option>新西兰</option><option>中国</option>
               <option>欧洲</option><option>亚洲</option><option>邮轮</option><option>私人订制</option>
             </select></div>
-          <div class="form-row"><label data-i18n="form.date">出行时间</label><input name="date" type="month"></div>
+          <div class="form-row"><label data-i18n="form.date">出行时间</label><input name="date" type="date"></div>
+          <input type="hidden" name="source" value="home-free-consult">
+          <input type="hidden" name="tourRef" value="">
           <div class="form-row"><label data-i18n="form.pax">人数</label><input name="pax" type="number" min="1" value="2"></div>
           <div class="form-row"><label data-i18n="form.notes">需求备注</label><textarea name="notes" rows="3" data-i18n-ph="form.notes.ph" placeholder="请告诉我们您的出行偏好、特殊需求或想咨询的问题…"></textarea></div>
           <button class="btn btn-primary" style="width:100%" data-i18n="btn.submit">提交</button>

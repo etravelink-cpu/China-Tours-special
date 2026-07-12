@@ -18,7 +18,9 @@
           <div class="form-row"><label data-i18n="form.phone">电话</label><input required name="phone"></div>
           <div class="form-row"><label data-i18n="form.dest">目的地</label>
             <select name="dest"><option>澳洲境内</option><option>新西兰</option><option>中国全境</option><option>欧洲</option><option>邮轮</option><option>亚洲/海岛</option><option>定制游</option></select></div>
-          <div class="form-row"><label data-i18n="form.date">出行时间</label><input name="date" type="month"></div>
+          <div class="form-row"><label data-i18n="form.date">出行时间</label><input name="date" type="date"></div>
+          <input type="hidden" name="source" value="contact-page">
+          <input type="hidden" name="tourRef" value="">
           <div class="form-row"><label data-i18n="form.pax">人数</label><input name="pax" type="number" min="1" value="2"></div>
           <div class="form-row"><label data-i18n="form.notes">需求备注</label><textarea name="notes" rows="3" placeholder="请告诉我们您的出行偏好、特殊需求或想咨询的问题…"></textarea></div>
           <button class="btn btn-primary" style="width:100%" data-i18n="btn.submit">提交</button>
@@ -32,6 +34,17 @@
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/data.js"></script>
   <script src="assets/js/site.js"></script>
-  <script>window.EtripsForm={submit(e){e.preventDefault();const l=window.Etrips.getLang();document.getElementById('form-msg').textContent=l==='zh'?'✅ 已收到您的咨询，顾问将尽快与您联系！':'✅ We received your request, an advisor will contact you soon!';e.target.reset();return false;}};</script>
+  <script src="assets/js/home.js"></script>
+  <script>
+    // 若从某 Tour 详情页进入 (?tour=ID)，自动把线路名+编号填入 tourRef
+    (function(){
+      var id = new URLSearchParams(location.search).get('tour');
+      if(id && window.TOURS){
+        var t = window.TOURS.find(x=>x.id===id);
+        var el = document.querySelector('input[name="tourRef"]');
+        if(t && el){ el.value = (window.Etrips.getLang()==='zh'?t.nameZh:t.nameEn) + ' (' + t.id + ')'; }
+      }
+    })();
+  </script>
 </body>
 </html>
