@@ -72,8 +72,18 @@ window.REGION_PLANS.australia = `
           <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>悉尼市区免费接送</span></div>
         </div>
       </div>
+      <div class="rp-detail-date">
+        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
+        <div class="rp-date-row">
+          <select class="rp-date-select" onchange="onRouteDateChange(this)">
+            <option value="">请选择出发日期</option>
+            <option value="__custom__">自选具体日期…</option>
+          </select>
+          <input type="date" class="rp-date-input" hidden min="">
+        </div>
+      </div>
       <div class="rp-detail-cta">
-        <a href="contact.html" class="btn btn-primary">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div><p>精选蓝山国家公园核心景观，搭配澳洲本土野生动物园，11人精品奔驰小团出行，市区酒店免费接送，全程中文导游讲解。</p><p>一站打卡三姐妹峰、网红景观缆车、英伦卢拉小镇与 Featherdale 野生动物园，可近距离抱考拉合影，适合家庭出行与休闲观光。</p></div></section>
@@ -108,8 +118,18 @@ window.REGION_PLANS.australia = `
           <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含游船观光+沙滩体验</span></div>
         </div>
       </div>
+      <div class="rp-detail-date">
+        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
+        <div class="rp-date-row">
+          <select class="rp-date-select" onchange="onRouteDateChange(this)">
+            <option value="">请选择出发日期</option>
+            <option value="__custom__">自选具体日期…</option>
+          </select>
+          <input type="date" class="rp-date-input" hidden min="">
+        </div>
+      </div>
       <div class="rp-detail-cta">
-        <a href="contact.html" class="btn btn-primary">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
@@ -144,8 +164,18 @@ window.REGION_PLANS.australia = `
           <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含酒庄品鉴+芝士拼盘</span></div>
         </div>
       </div>
+      <div class="rp-detail-date">
+        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
+        <div class="rp-date-row">
+          <select class="rp-date-select" onchange="onRouteDateChange(this)">
+            <option value="">请选择出发日期</option>
+            <option value="__custom__">自选具体日期…</option>
+          </select>
+          <input type="date" class="rp-date-input" hidden min="">
+        </div>
+      </div>
       <div class="rp-detail-cta">
-        <a href="contact.html" class="btn btn-primary">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
@@ -180,8 +210,18 @@ window.REGION_PLANS.australia = `
           <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含渡轮+水族馆门票</span></div>
         </div>
       </div>
+      <div class="rp-detail-date">
+        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
+        <div class="rp-date-row">
+          <select class="rp-date-select" onchange="onRouteDateChange(this)">
+            <option value="">请选择出发日期</option>
+            <option value="__custom__">自选具体日期…</option>
+          </select>
+          <input type="date" class="rp-date-input" hidden min="">
+        </div>
+      </div>
       <div class="rp-detail-cta">
-        <a href="contact.html" class="btn btn-primary">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
@@ -217,8 +257,18 @@ window.REGION_PLANS.australia = `
           <div class="rp-meta"><span>游玩时长：半天</span><span>行程凭证：电子票</span><span>含专业望远镜+热饮</span></div>
         </div>
       </div>
+      <div class="rp-detail-date">
+        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
+        <div class="rp-date-row">
+          <select class="rp-date-select" onchange="onRouteDateChange(this)">
+            <option value="">请选择出发日期</option>
+            <option value="__custom__">自选具体日期…</option>
+          </select>
+          <input type="date" class="rp-date-input" hidden min="">
+        </div>
+      </div>
       <div class="rp-detail-cta">
-        <a href="contact.html" class="btn btn-primary">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>

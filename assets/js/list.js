@@ -133,4 +133,33 @@
     window.addEventListener('afterprint', onAfter);
     window.print();
   };
+
+  // 路线详情：出发日期选择联动
+  window.onRouteDateChange = function(sel){
+    const pane = sel.closest('.rp-route-pane');
+    const inp = pane.querySelector('.rp-date-input');
+    if(sel.value === '__custom__'){
+      if(!inp.getAttribute('min')) inp.setAttribute('min', new Date().toISOString().slice(0,10));
+      inp.hidden = false;
+      setTimeout(()=>inp.focus(), 50);
+    } else {
+      inp.hidden = true;
+      inp.value = '';
+    }
+  };
+
+  // 在线咨询：带团名 + 出发日期跳 contact.html
+  window.goConsult = function(btn){
+    const pane = btn.closest('.rp-route-pane');
+    if(!pane) { location.href = 'contact.html'; return; }
+    const title = (pane.querySelector('.rp-detail-hero-in h3') || {}).textContent || '';
+    const sel = pane.querySelector('.rp-date-select');
+    const inp = pane.querySelector('.rp-date-input');
+    let date = sel ? sel.value : '';
+    if(date === '__custom__') date = inp && inp.value ? inp.value : '';
+    const params = new URLSearchParams();
+    params.set('route', title);
+    if(date) params.set('date', date);
+    location.href = 'contact.html?' + params.toString();
+  };
 })();

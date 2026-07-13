@@ -303,6 +303,14 @@ a{color:inherit;text-decoration:none}
 .rp-detail-hero-in h3{font-size:18px;margin:0 0 8px;line-height:1.4}
 .rp-detail-hero-in .rp-meta{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;opacity:.95}
 .rp-detail-cta{display:flex;gap:12px;padding:16px 22px;border-bottom:1px solid #eee}
+.rp-detail-date{padding:14px 22px 4px}
+.rp-date-label{display:block;font-size:14px;font-weight:600;color:#333;margin-bottom:8px}
+.rp-date-req{color:#e23b3b;margin-left:2px}
+.rp-date-row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.rp-date-select,.rp-date-input{padding:9px 12px;border:1px solid #d6e3ee;border-radius:8px;font-size:14px;font-family:inherit;color:#333;background:#fff}
+.rp-date-select{min-width:200px;flex:1}
+.rp-date-input{flex:1;min-width:170px}
+.rp-date-select:focus,.rp-date-input:focus{outline:none;border-color:#1B9FE0}
 .rp-sec{padding:16px 22px;border-bottom:1px solid #f0f0f0}
 .rp-sec:last-child{border-bottom:0}
 .rp-sec h4{margin:0 0 10px;font-size:15px;color:#333;border-left:4px solid #ff7a45;padding-left:10px}
