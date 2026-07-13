@@ -28,11 +28,19 @@
     grid.innerHTML = list.map(t=>window.tourCard(t,lang)).join('');
     // 目的地分区行程规划（统一格式，按 ?d= 取用）
     const rp = document.getElementById('region-plan');
+    const hasPlan = !!(window.REGION_PLANS && q && window.REGION_PLANS[q]);
     if(rp){
-      const plan = (window.REGION_PLANS && q && window.REGION_PLANS[q]) ? window.REGION_PLANS[q] : '';
-      rp.innerHTML = plan;
-      rp.hidden = !plan;
+      rp.innerHTML = hasPlan ? window.REGION_PLANS[q] : '';
+      rp.hidden = !hasPlan;
     }
+    // 子页模式：隐藏「最受欢迎线路」标题+推荐卡+筛选栏，仅留分区规划+FAQ
+    const subpage = !!q && hasPlan;
+    const hotTitle = document.getElementById('hot-title');
+    const listGrid = document.getElementById('list-grid');
+    const filterBar = document.getElementById('filter-bar');
+    if(hotTitle) hotTitle.hidden = subpage;
+    if(listGrid) listGrid.hidden = subpage;
+    if(filterBar) filterBar.hidden = subpage;
     // re-apply labels on cards after render (detail/btn)
     window.Etrips.applyLang();
   }
