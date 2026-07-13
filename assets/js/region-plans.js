@@ -313,7 +313,7 @@
 
   window.REGION_PLANS.nz = `
 <div class="region-hero">
-  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=新西兰+旅游地图&output=embed" title="新西兰 旅游地图地图"></iframe>
+  <img src="assets/img/nz-hero.webp" alt="新西兰南阿尔卑斯雪山" class="region-map-img">
 </div>
 <div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
 
