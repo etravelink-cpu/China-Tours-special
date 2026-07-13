@@ -4,7 +4,11 @@
   window.REGION_PLANS = window.REGION_PLANS || {};
 
   window.REGION_PLANS.australia = `
-<div class="rp-banner" style="background-image:url('assets/img/hero-sydney.jpg')">
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/hero-sydney.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/au-sydney.jpg')"></div>
+  </div>
   <div class="rp-banner-in">
     <h1>澳大利亚 · 分区行程规划</h1>
     <div class="rp-sub">Australia Region Tours</div>
@@ -341,10 +345,15 @@
   </table>
     </div>
   </div>
-</div>`;
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：悉尼 © 实拍；悉尼歌剧院与海港桥 © Wyncliffe, CC0.</p></div>`;
 
   window.REGION_PLANS.nz = `
-<div class="rp-banner" style="background-image:url('assets/img/nz-hero.webp')">
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/nz-hero.webp')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-milford.jpg')"></div>
+  </div>
   <div class="rp-banner-in">
     <h1>新西兰 · 分区行程规划</h1>
     <div class="rp-sub">New Zealand Region Tours</div>
@@ -460,10 +469,15 @@
   </table>
     </div>
   </div>
-</div>`;
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0.</p></div>`;
 
   window.REGION_PLANS.asia = `
-<div class="rp-banner" style="background-image:url('assets/img/destinations/asia.jpg')">
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/asia-guilin.jpg')"></div>
+  </div>
   <div class="rp-banner-in">
     <h1>亚洲 · 分区行程规划</h1>
     <div class="rp-sub">Asia Region Tours</div>
@@ -605,7 +619,8 @@
   </table>
     </div>
   </div>
-</div>`;
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：富士山 © 实拍；桂林漓江 © chensiyuan, CC BY-SA 4.0.</p></div>`;
 
   window.REGION_PLANS.europe = `
 <div class="rp-banner">
@@ -735,7 +750,11 @@
 </div>`;
 
   window.REGION_PLANS.cruise = `
-<div class="rp-banner" style="background-image:url('assets/img/destinations/cruise.jpg')">
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/cruise.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/cruise-oceanliner.jpg')"></div>
+  </div>
   <div class="rp-banner-in">
     <h1>邮轮 · 分区行程规划</h1>
     <div class="rp-sub">Cruise Routes</div>
@@ -842,9 +861,14 @@
   </table>
     </div>
   </div>
-</div>`;
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0.</p></div>`;
   window.REGION_PLANS.china = `
-<div class="rp-banner" style="background-image:url('assets/img/china-map.png')">
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')"></div>
+  </div>
   <div class="rp-banner-in">
     <h1>中国 · 分区行程规划</h1>
     <div class="rp-sub">China Region Tours</div>
@@ -1011,5 +1035,6 @@
   <p style="color:#999;font-size:13px;margin:24px 0 0 0;border-top:1px dashed #e0e0e0;padding-top:12px;">* 以上线路均选自 2026 中国纯玩无购物系列（AUD 计价），详情与报名请点击各线路「查看详情」。最终班期、行程细节与报价以在线咨询确认为准。</p>
     </div>
   </div>
-</div>`;
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：长城 © Wikimedia (Public Domain)；故宫神武门 © kallgan, CC BY-SA 3.0.</p></div>`;
 })();
