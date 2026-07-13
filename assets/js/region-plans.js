@@ -744,7 +744,7 @@
 </div>`;
   window.REGION_PLANS.china = `
 <div class="region-hero">
-  <img src="assets/img/china-map.jpg" alt="中国分区地图" class="region-map-img">
+  <img src="assets/img/china-map.png" alt="中国分区地图" class="region-map-img">
 </div>
 <div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
 
