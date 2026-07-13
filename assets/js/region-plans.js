@@ -748,16 +748,153 @@
 </div>
 <div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
 
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">中国分区行程规划</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">内容整理中，敬请期待。以下分区框架供后续填充真实线路：</p>
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">中国分区行程规划 · 2026 超值特价</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">以下线路精选自 2026 中国超值特价系列（AUD 计价），覆盖华东、华北、西南、华南、西北及长江游轮专线。具体班期与报价请在线咨询。</p>
 
-  <!-- 一、华北（北京 / 天津 / 河北） -->
-  <!-- 二、华东（上海 / 江浙 / 安徽） -->
-  <!-- 三、华南（广东 / 广西 / 海南） -->
-  <!-- 四、西南（川渝 / 云贵 / 西藏） -->
-  <!-- 五、西北（陕甘宁 / 新疆 / 青甘） -->
-  <!-- 六、东北（黑吉辽） -->
+  <!-- 一、江南·上海 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、江南 · 上海</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">长三角核心，水乡古镇与都市繁华兼具，洲际酒店升级与深坑洲际系列为代表，适配品质休闲与银发客群。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 30%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">参考时长</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">价格档</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 铂金江南 7 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">沪苏杭经典水乡环线，品质住宿，纯玩无购物</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 璀璨金钻~江南奢华 8 日 (A/AB/AA 团)</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">奢华住宿升级，多团型可选，江南深度巡礼</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 奢华江南·和平饭店 + 长江新船王揽月号/极光号 13 日 AB/AA</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">上海和平饭店 + 长江新船王游轮，奢华双享</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">13 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 深坑洲际·黄山千岛湖 9 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深坑洲际酒店，黄山 + 千岛湖山水联游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">9 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 二、长江游轮专线 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、长江游轮专线</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">长江新船王（极光号/揽月号）与爱达魔都号邮轮为代表，沿江串连江南、九寨、重庆，一价全含的奢华慢游。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 30%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">参考时长</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">价格档</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 铂金江南·长江新船王极光号/揽月号 12 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长江新船王奢华邮轮，江南 + 三峡全景</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">12 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 九寨沟成都重庆·长新船王揽月号/极光号 13 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">九寨沟 + 成都 + 重庆长江游轮连线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">13 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 金钻江南·爱达魔都号游轮 11 日 (A&AA)</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">爱达魔都号国产大型邮轮，江南 + 海上巡航</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">11 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 三、北京·西安（华北） -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、北京 · 西安（华北）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">帝都地标与十三朝古都，历史文化核心线，班期灵活，可衔接长江三峡长线。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 30%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">参考时长</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">价格档</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 北京 5 日 / 6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">故宫、长城、颐和园核心地标纯玩</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5 / 6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 北京·长江三峡 9 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">华北古都 + 长江三峡山水长线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">9 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 四、九寨·张家界·云南·贵州（西南） -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、九寨 · 张家界 · 云南 · 贵州（西南）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">西南山水王国，九寨彩林、张家界峰林、云南高原湖泊，洲际酒店升级版提升舒适度。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 30%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">参考时长</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">价格档</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 成都九寨沟·洲际酒店奢华超五星升级版 8 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">九寨沟 + 成都，洲际酒店超五星升级</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 张家界·凤凰古城 7 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">张家界地貌奇观 + 凤凰古镇夜游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 云南·昆明大理丽江 6 日 / 7 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">云南经典三城，高原湖泊与古城</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6 / 7 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 五、广东·广西·福建·海南（华南） -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">五、广东 · 广西 · 福建 · 海南（华南）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">大湾区美食线与滨海度假为主，粤式饮食文化、闽南土楼、三亚海岛一应俱全。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 30%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">参考时长</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">价格档</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 大湾区·广东美食 6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">广深都市 + 粤式美食深度</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 香港潮汕·珠江美食 10 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">香港 + 潮汕 + 珠江美食连线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">10 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 厦门泉州土楼 6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">闽南土楼文化 + 海滨古城</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 海南·海口三亚 6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">热带海岛度假，三亚海滨休闲</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 六、新疆·甘肃·西藏·青海·丝路（西北） -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">六、新疆 · 甘肃 · 西藏 · 青海 · 丝路（西北）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">大西北长线王国，花季特别团与丝路传奇线为代表，适合长假期深度与摄影爱好者。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 30%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">参考时长</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">价格档</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 杏福新疆·伊犁花季 8 日（春季特别团）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">伊犁杏花季限定，草原花海</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 草原牧歌·新疆北疆 8 日（春季特别团）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北疆草原牧歌，夏季避暑</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 醉美川藏·成都西藏深度 11 日 / 14 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">川藏线深度，高原风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">11 / 14 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 横贯中国·纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全景丝路，东西纵贯史诗线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">17 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+    </tbody>
+  </table>
+
+  <!-- 七、桂林·重庆·山水 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">七、桂林 · 重庆 · 山水</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">喀斯特地貌与山城奇观，短途纯玩为主，可衔接长江三峡长线。</p>
+  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #279EE6; color: #fff;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 30%;">行程线路</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">参考时长</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 16%;">价格档</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 桂林 6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">桂林山水甲天下，漓江竹筏</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026 山城重庆·大足石刻武隆 6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">重庆武隆天坑 + 大足石刻</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">AUD · 详情咨询</td></tr>
+    </tbody>
+  </table>
+
   <!-- 经典连游组合 -->
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">经典连游组合</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">以下为真实在售线路的推荐拼接方式，具体组合班期与报价请咨询在线客服。</p>
+  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">方案名称</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 53%;">行程安排</th>
+      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
+    </tr></thead>
+    <tbody>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">江南 + 长江豪华线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">铂金江南 7 日 → 长江新船王揽月号/极光号 12 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长假期品质游、银发客群</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西南山水全景</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">成都九寨沟洲际 8 日 → 张家界凤凰 7 日 → 云南昆大丽 6/7 日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多省连游、自然风光爱好者</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西北丝路大环线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">新疆北疆 8 日 → 醉美川藏 11/14 日 → 传奇丝路 17 天</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西北长线、深度与摄影客</td></tr>
+    </tbody>
+  </table>
+
+  <p style="color: #999; font-size: 13px; margin: 24px 0 0 0; border-top: 1px dashed #e0e0e0; padding-top: 12px;">* 以上线路均选自 2026 中国超值特价系列（AUD 计价）。最终班期、行程细节与报价以在线咨询确认为准。</p>
 
 </div>`;
 })();
