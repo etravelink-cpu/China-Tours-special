@@ -145,6 +145,18 @@
         if(!found){ box.style.display='none'; return; }
         const title = found.querySelector('.rp-detail-hero-in h3');
         if(title) titleEl.textContent = '产品详情：' + title.textContent;
+        // 注入价格到乘客步进器
+        const pa = parseFloat(found.getAttribute('data-p-adult'))||0;
+        const pc = parseFloat(found.getAttribute('data-p-child'))||0;
+        const pi = parseFloat(found.getAttribute('data-p-infant'))||0;
+        const paxRows = document.querySelectorAll('#bk-pax .bk-pax');
+        const prices = [pa,pc,pi];
+        paxRows.forEach((r,i)=>{
+          const p = prices[i]||0;
+          r.setAttribute('data-price', p);
+          const lab = r.querySelector('[data-price-label]');
+          if(lab) lab.textContent = p>0 ? ('单价：A$ ' + p.toFixed(0)) : '单价：待确认';
+        });
         const secs = found.querySelectorAll('.rp-sec');
         if(!secs.length){ box.style.display='none'; return; }
         secs.forEach(s=> body.appendChild(s.cloneNode(true)));
@@ -212,6 +224,10 @@
       const subj = encodeURIComponent('预订请求：' + route + (date?(' ' + date):''));
       location.href = 'mailto:' + email + '?subject=' + subj + '&body=' + buildMsg();
     }
+    window.step = step;
+    window.recalc = recalc;
+    window.submitBooking = submitBooking;
+    window.submitBookingMail = submitBookingMail;
     })();
   </script>
 </body>

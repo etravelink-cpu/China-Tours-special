@@ -64,7 +64,7 @@ window.REGION_PLANS.australia = `
   </nav>
   <div class="rp-detail-area">
     <!-- 路线1：蓝山有氧+动物园 -->
-    <div class="rp-route-pane active" data-route="au-blue-mountain">
+    <div class="rp-route-pane active" data-route="au-blue-mountain" data-p-adult="179" data-p-child="179" data-p-infant="89">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge">天天出发 · 精品奔驰小团</span>
         <div class="rp-detail-hero-in">
@@ -110,7 +110,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线2：史蒂芬港 -->
-    <div class="rp-route-pane" data-route="au-stephens">
+    <div class="rp-route-pane" data-route="au-stephens" data-p-adult="179" data-p-child="169" data-p-infant="89">
       <div class="rp-detail-hero" style="background-image:url('assets/img/hero-sydney.jpg')">
         <span class="rp-badge" style="background:#1B9FE0">每周二/四/日发团</span>
         <div class="rp-detail-hero-in">
@@ -156,7 +156,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线3：猎人谷 -->
-    <div class="rp-route-pane" data-route="au-hunter">
+    <div class="rp-route-pane" data-route="au-hunter" data-p-adult="199" data-p-child="199" data-p-infant="99">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge" style="background:#5a8a3e">精品小团 含品鉴</span>
         <div class="rp-detail-hero-in">
@@ -202,7 +202,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线4：悉尼市区 -->
-    <div class="rp-route-pane" data-route="au-sydney-city">
+    <div class="rp-route-pane" data-route="au-sydney-city" data-p-adult="139" data-p-child="139" data-p-infant="60">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge" style="background:#1B9FE0">天天出发 新手首选</span>
         <div class="rp-detail-hero-in">
@@ -249,7 +249,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线5：蓝山日落观星 -->
-    <div class="rp-route-pane" data-route="au-blue-star">
+    <div class="rp-route-pane" data-route="au-blue-star" data-p-adult="199" data-p-child="199">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
         <span class="rp-badge" style="background:#9254de">精品6人小团</span>
         <div class="rp-detail-hero-in">
