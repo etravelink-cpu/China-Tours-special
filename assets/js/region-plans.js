@@ -46,8 +46,19 @@ window.REGION_PLANS.australia = `
       <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-whitsunday">汉密尔顿岛 / 心形礁</div></div>
     </div>
     <div class="rp-group" data-group="perth">
-      <div class="rp-group-title">珀斯 / 西澳 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-perth">粉红湖 / 尖峰石阵</div></div>
+      <div class="rp-group-title">西澳 / 珀斯 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list">
+        <div class="rp-route" data-route="au-perth-7d">西澳粉色海洋心动7日游</div>
+        <div class="rp-route" data-route="au-perth-6d">西澳粉色海洋微笑6日游</div>
+        <div class="rp-route" data-route="au-perth-5d">西澳粉色海洋小火车灯塔童话5日游</div>
+        <div class="rp-route" data-route="au-perth-4d">西澳粉红湖小火车浪漫4日游</div>
+        <div class="rp-route" data-route="au-perth-3d">西澳粉红湖自然之窗龙虾美食经典3日游</div>
+        <div class="rp-route" data-route="au-perth-pinnacles">尖峰石阵品质一日游</div>
+        <div class="rp-route" data-route="au-perth-margaret">玛格利特河一日游</div>
+        <div class="rp-route" data-route="au-perth-wave">波浪岩品质一日游</div>
+        <div class="rp-route" data-route="au-perth-swamp">天鹅河谷美食美酒一日游</div>
+        <div class="rp-route" data-route="au-perth-rottnest">罗特尼斯岛一日游</div>
+      </div>
     </div>
     <div class="rp-group" data-group="tas">
       <div class="rp-group-title">塔斯马尼亚 <span class="rp-arrow">▶</span></div>
@@ -322,7 +333,96 @@ window.REGION_PLANS.australia = `
     <div class="rp-route-pane" data-route="au-qld"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
     <div class="rp-route-pane" data-route="au-cairns"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
     <div class="rp-route-pane" data-route="au-whitsunday"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
-    <div class="rp-route-pane" data-route="au-perth"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-perth-7d">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉色海洋心动7日游</h3><div class="rp-detail-meta">7日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>纵览西澳粉红湖、自然之窗、波浪岩、罗特尼斯岛小袋鼠与海角灯塔，龙虾美食贯穿全程，海岸童话一站尽收。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 自然之窗 → 波浪岩 → 罗特尼斯岛 → 海上小火车 → 珀斯散团。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1699 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；粉红湖为季节性自然景观；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-6d">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉色海洋微笑6日游</h3><div class="rp-detail-meta">6日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖、自然之窗、波浪岩与海角灯塔经典串联，龙虾美食品鉴，6日轻松巡游西澳海岸。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 自然之窗 → 波浪岩 → 海角灯塔 → 珀斯。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1499 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-5d">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉色海洋小火车灯塔童话5日游</h3><div class="rp-detail-meta">5日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖、海上小火车与海岸灯塔童话之旅，5日浓缩西澳最梦幻海岸线。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 海上小火车 → 海角灯塔 → 珀斯。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、小火车票、部分餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1199 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；小火车班次受限；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-4d">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉红湖小火车浪漫4日游</h3><div class="rp-detail-meta">4日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖与浪漫小火车4日短假线，节奏舒缓，适合情侣与周末出行。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 小火车体验 → 珀斯。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、小火车票。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$949 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-3d">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉红湖自然之窗龙虾美食经典3日游</h3><div class="rp-detail-meta">3日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖、自然之窗与西澳龙虾美食品鉴，3日经典体验西澳招牌景观。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 自然之窗 → 龙虾美食品尝 → 珀斯。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、龙虾餐。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$699 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-pinnacles">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>尖峰石阵品质一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周三、六出发</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>探访沙漠奇观尖峰石阵，亿万年风化石柱矗立黄沙，落日光影最是震撼。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 尖峰石阵 → 自由活动 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、公园门票。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$200 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>周三、六固定出发；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-margaret">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>玛格利特河一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周四出发</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>西澳知名酒乡玛格利特河，酒庄品鉴、海岸峭壁与灯塔风光一日尽览。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 玛格利特河酒庄 → 海岸风光 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、酒庄参观。<br><b>价格不含：</b>品酒费、个人消费。<br><b>参考市场价：</b>成人 A$198 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>周四固定出发；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-wave">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>波浪岩品质一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周五出发</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>天然波浪岩奇观，亿年地质杰作形如巨浪凝固，沿途草原小镇风光宜人。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 波浪岩 → 自由活动 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、景点门票。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$195 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>周五固定出发；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-swamp">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>天鹅河谷美食美酒一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周日出发</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>天鹅河谷酒庄与美食之旅，品西澳佳酿、享田园风味，周末轻松一日。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 天鹅河谷酒庄与美食体验 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、酒庄美食参观。<br><b>价格不含：</b>品鉴费、个人消费。<br><b>参考市场价：</b>成人 A$165 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>周日固定出发；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-perth-rottnest">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>罗特尼斯岛一日游</h3><div class="rp-detail-meta">1日游 · 珀斯出海 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>登罗特尼斯岛邂逅世界最开心动物短尾矮袋鼠（quokka），环岛骑行赏碧海白沙。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 渡轮上岛 → 环岛观光 → 返程（Rottnest Express）。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、渡轮、中文司导。<br><b>价格不含：</b>岛上自行车租赁、个人消费。<br><b>参考市场价：</b>成人 A$85 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>受船期影响；退改以合同为准。</p></div>
+    </div>
     <div class="rp-route-pane" data-route="au-tas-5dt">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚全景5日游</h3><div class="rp-detail-meta">5日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
