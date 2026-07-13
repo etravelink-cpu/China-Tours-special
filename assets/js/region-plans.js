@@ -249,9 +249,7 @@ window.REGION_PLANS.australia = `
     <div class="rp-route-pane" data-route="au-adelaide"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
     <div class="rp-route-pane" data-route="au-uluru"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
   </div>
-</div>
-
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：悉尼 © 实拍；悉尼歌剧院与海港桥 © Wyncliffe, CC0；乌鲁鲁 © Weyf, CC0；十二门徒 © Jack Heywood, Public Domain.</p></div>`;
+</div>`;
 
   window.REGION_PLANS.nz = `
 <div class="rp-banner">
