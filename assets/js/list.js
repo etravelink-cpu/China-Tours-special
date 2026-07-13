@@ -32,6 +32,18 @@
     if(rp){
       rp.innerHTML = hasPlan ? window.REGION_PLANS[q] : '';
       rp.hidden = !hasPlan;
+      // 子页新布局：左侧吸顶导航切换右侧分面板
+      const nav = rp.querySelector('.rp-nav');
+      if(nav){
+        const btns = nav.querySelectorAll('button[data-rp]');
+        const panels = rp.querySelectorAll('.rp-panel[data-rp]');
+        const activate = idx => {
+          btns.forEach(b=>b.classList.toggle('active', b.dataset.rp===idx));
+          panels.forEach(p=>p.classList.toggle('active', p.dataset.rp===idx));
+        };
+        btns.forEach(b=> b.addEventListener('click', ()=>activate(b.dataset.rp)) );
+        activate('0');
+      }
     }
     // 子页模式：隐藏「最受欢迎线路」标题+推荐卡+筛选栏，仅留分区规划+FAQ
     const subpage = !!q && hasPlan;

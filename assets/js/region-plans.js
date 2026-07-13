@@ -4,13 +4,28 @@
   window.REGION_PLANS = window.REGION_PLANS || {};
 
   window.REGION_PLANS.australia = `
-<div class="region-hero">
-  <img src="assets/img/australia-map.jpg" alt="澳洲分区地图" class="region-map-img">
+<div class="rp-banner" style="background-image:url('assets/img/hero-sydney.jpg')">
+  <div class="rp-banner-in">
+    <h1>澳大利亚 · 分区行程规划</h1>
+    <div class="rp-sub">Australia Region Tours</div>
+    <p class="rp-desc">从悉尼都市地标到乌鲁鲁红土中心，9 大分区一图读懂。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+  </div>
 </div>
-<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
-
-  <!-- 悉尼及周边 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、悉尼及周边</h3>
+<div class="rp-layout">
+  <nav class="rp-nav" role="tablist" aria-label="澳洲分区">
+      <button type="button" data-rp="0" class="active">悉尼及周边</button>
+      <button type="button" data-rp="1" class="">墨尔本及周边</button>
+      <button type="button" data-rp="2" class="">昆士兰 · 黄金海岸&布里斯班</button>
+      <button type="button" data-rp="3" class="">凯恩斯（大堡礁）</button>
+      <button type="button" data-rp="4" class="">圣灵群岛（汉密尔顿岛/艾尔利海滩）</button>
+      <button type="button" data-rp="5" class="">珀斯 / 西澳</button>
+      <button type="button" data-rp="6" class="">塔斯马尼亚</button>
+      <button type="button" data-rp="7" class="">阿德莱德 / 南澳</button>
+      <button type="button" data-rp="8" class="">乌鲁鲁 / 北领地</button>
+  </nav>
+  <div class="rp-content">
+    <div class="rp-panel active" data-rp="0">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、悉尼及周边</h3>
   <p style="color: #666; margin: 0 0 16px 0;">新南威尔士州核心门户，澳洲入境枢纽，兼顾城市地标、蓝山自然遗产、海洋生态与酒庄休闲，一日游产品成熟、班期密集，适配全类型游客。</p>
 
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
@@ -51,7 +66,9 @@
   </table>
 
   <!-- 墨尔本及周边 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、墨尔本及周边</h3>
+    </div>
+    <div class="rp-panel" data-rp="1">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、墨尔本及周边</h3>
   <p style="color: #666; margin: 0 0 16px 0;">维多利亚州首府、澳洲文艺之都，周边坐拥大洋路世界海岸奇观、菲利普岛萌宠、复古蒸汽火车等王牌IP，城市人文与自然景观兼具。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -84,7 +101,9 @@
   </table>
 
   <!-- 昆士兰 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、昆士兰 · 黄金海岸&布里斯班</h3>
+    </div>
+    <div class="rp-panel" data-rp="2">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、昆士兰 · 黄金海岸&布里斯班</h3>
   <p style="color: #666; margin: 0 0 16px 0;">昆士兰州东南核心，布里斯班为州府门户，黄金海岸是南半球顶级度假海岸，主打主题乐园、阳光海滩、雨林探秘与动物互动，亲子客群为主力。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -117,7 +136,9 @@
   </table>
 
   <!-- 凯恩斯 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、凯恩斯（大堡礁）</h3>
+    </div>
+    <div class="rp-panel" data-rp="3">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、凯恩斯（大堡礁）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">大堡礁北部门户，全球罕见同时坐拥两处世界自然遗产（大堡礁+热带雨林）的城市，玩法成熟、交通便利，是大众体验大堡礁的首选目的地。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -149,7 +170,9 @@
   </table>
 
   <!-- 圣灵群岛 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">五、圣灵群岛（汉密尔顿岛/艾尔利海滩）</h3>
+    </div>
+    <div class="rp-panel" data-rp="4">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">五、圣灵群岛（汉密尔顿岛/艾尔利海滩）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">大堡礁核心精华区，坐拥心形礁、白天堂沙滩两大世界级IP，水质与景观优于凯恩斯，主打高端海岛度假、浪漫蜜月与小众深度体验。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -181,7 +204,9 @@
   </table>
 
   <!-- 珀斯/西澳 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">六、珀斯 / 西澳</h3>
+    </div>
+    <div class="rp-panel" data-rp="5">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">六、珀斯 / 西澳</h3>
   <p style="color: #666; margin: 0 0 16px 0;">西澳大利亚州首府，印度洋海岸城市，以极致小众的自然奇观为核心，分北线（沙漠奇石）、南线（酒庄海岸）两大线路，适合深度自然玩家。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -213,7 +238,9 @@
   </table>
 
   <!-- 塔斯马尼亚 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">七、塔斯马尼亚</h3>
+    </div>
+    <div class="rp-panel" data-rp="6">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">七、塔斯马尼亚</h3>
   <p style="color: #666; margin: 0 0 16px 0;">澳洲最南端“世界尽头”，全岛近乎一半面积为世界遗产，以荒野海岸、原始雨林、珍稀萌宠、冬季南极光为特色，主打环岛多日深度游。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -246,7 +273,9 @@
   </table>
 
   <!-- 阿德莱德/南澳 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">八、阿德莱德 / 南澳</h3>
+    </div>
+    <div class="rp-panel" data-rp="7">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">八、阿德莱德 / 南澳</h3>
   <p style="color: #666; margin: 0 0 16px 0;">南澳大利亚州首府，澳洲“美酒美食之都”，周边坐拥袋鼠岛生态秘境与芭萝莎顶级产区，是澳洲酒旅与海岛生态的核心目的地。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -278,7 +307,9 @@
   </table>
 
   <!-- 乌鲁鲁/北领地 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">九、乌鲁鲁 / 北领地</h3>
+    </div>
+    <div class="rp-panel" data-rp="8">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">九、乌鲁鲁 / 北领地</h3>
   <p style="color: #666; margin: 0 0 16px 0;">澳洲红土中心，世界文化与自然双遗产，以艾尔斯岩巨石、原住民文化、沙漠星空为核心，是澳洲标志性的深度文化与自然体验目的地。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -308,7 +339,8 @@
       <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日深度体验款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 乌鲁鲁经典一日 → Day2 帝王谷徒步 → Day3 原住民文化+星空晚宴</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度游玩、文化自然双体验</td></tr>
     </tbody>
   </table>
-
+    </div>
+  </div>
 </div>`;
 
   window.REGION_PLANS.nz = `
