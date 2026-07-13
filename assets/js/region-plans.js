@@ -344,13 +344,22 @@
 </div>`;
 
   window.REGION_PLANS.nz = `
-<div class="region-hero">
-  <img src="assets/img/nz-hero.webp" alt="新西兰南阿尔卑斯雪山" class="region-map-img">
+<div class="rp-banner" style="background-image:url('assets/img/nz-hero.webp')">
+  <div class="rp-banner-in">
+    <h1>新西兰 · 分区行程规划</h1>
+    <div class="rp-sub">New Zealand Region Tours</div>
+    <p class="rp-desc">从北岛火山地热到南岛冰川峡湾，3 大分区一图读懂。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+  </div>
 </div>
-<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
-
-  <!-- 一、新西兰北岛 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、新西兰北岛</h3>
+<div class="rp-layout">
+  <nav class="rp-nav" role="tablist" aria-label="nz 分区">
+      <button type="button" data-rp="0" class="active">新西兰北岛</button>
+      <button type="button" data-rp="1" class="">新西兰南岛</button>
+      <button type="button" data-rp="2" class="">南北岛连线（北岛+南岛）</button>
+  </nav>
+  <div class="rp-content">
+    <div class="rp-panel active" data-rp="0">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、新西兰北岛</h3>
   <p style="color: #666; margin: 0 0 16px 0;">新西兰门户枢纽，以奥克兰为核心，坐拥火山地热、萤火虫洞、霍比特人村等世界级IP，融合毛利文化、电影奇幻与海岛休闲，是新西兰入境首站的经典选择。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -383,7 +392,9 @@
   </table>
 
   <!-- 二、新西兰南岛 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、新西兰南岛</h3>
+    </div>
+    <div class="rp-panel" data-rp="1">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、新西兰南岛</h3>
   <p style="color: #666; margin: 0 0 16px 0;">新西兰自然风光核心精华区，以皇后镇为冒险中心，串联冰川雪山、星空湖泊、峡湾海岸与童话小镇，是全球顶级的自然观光与户外体验目的地。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -417,7 +428,9 @@
   </table>
 
   <!-- 三、南北岛连线 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、南北岛连线（北岛+南岛）</h3>
+    </div>
+    <div class="rp-panel" data-rp="2">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、南北岛连线（北岛+南岛）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">一次出行覆盖新西兰双岛精华，串联北岛火山地热文化与南岛冰川峡湾星空，搭配境内航班高效衔接，是首次到访新西兰的全景首选方案。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心连线方案</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -445,17 +458,28 @@
       <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">衔接建议</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">建议北岛入境玩3-4天，再飞南岛深度游览，最后从基督城/皇后镇返程；境内航班单程约1.5小时，班次密集</td></tr>
     </tbody>
   </table>
-
+    </div>
+  </div>
 </div>`;
 
   window.REGION_PLANS.asia = `
-<div class="region-hero">
-  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=亚洲+旅游地图&output=embed" title="亚洲 旅游地图地图"></iframe>
+<div class="rp-banner" style="background-image:url('assets/img/destinations/asia.jpg')">
+  <div class="rp-banner-in">
+    <h1>亚洲 · 分区行程规划</h1>
+    <div class="rp-sub">Asia Region Tours</div>
+    <p class="rp-desc">日本、韩国、中国台湾到东南亚，4 大分区尽在其中。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+  </div>
 </div>
-<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
-
-  <!-- 一、日本 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、日本</h3>
+<div class="rp-layout">
+  <nav class="rp-nav" role="tablist" aria-label="asia 分区">
+      <button type="button" data-rp="0" class="active">日本</button>
+      <button type="button" data-rp="1" class="">韩国</button>
+      <button type="button" data-rp="2" class="">中国台湾</button>
+      <button type="button" data-rp="3" class="">东南亚（越南 / 新马）</button>
+  </nav>
+  <div class="rp-content">
+    <div class="rp-panel active" data-rp="0">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、日本</h3>
   <p style="color: #666; margin: 0 0 16px 0;">亚洲热门短途目的地，主打纯玩无购物体验，覆盖本州都市风光、北海道雪景与节日限定主题，行程节奏轻松、配套成熟，适配家庭度假、年轻出行与节日赏景等多元需求。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -486,7 +510,9 @@
   </table>
 
   <!-- 二、韩国 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、韩国</h3>
+    </div>
+    <div class="rp-panel" data-rp="1">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、韩国</h3>
   <p style="color: #666; margin: 0 0 16px 0;">短途休闲热门目的地，聚焦首尔都市潮流与江原道自然风光，兼顾购物美食、人文古迹与山海度假，行程轻松灵活，适合短途假期与年轻客群。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -514,7 +540,9 @@
   </table>
 
   <!-- 三、中国台湾 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、中国台湾</h3>
+    </div>
+    <div class="rp-panel" data-rp="2">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、中国台湾</h3>
   <p style="color: #666; margin: 0 0 16px 0;">主打环岛观光与纯玩体验，设多天数梯度可选，覆盖台北都市、东部海岸、阿里山日月潭与垦丁南国风光，行程成熟、语言无障碍，适配全年龄段游客。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -545,7 +573,9 @@
   </table>
 
   <!-- 四、东南亚（越南/新马） -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、东南亚（越南 / 新马）</h3>
+    </div>
+    <div class="rp-panel" data-rp="3">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、东南亚（越南 / 新马）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">热带滨海与美食度假胜地，主打纯玩品质与豪华美食体验，覆盖越南山海奇观与新马双城都市风情，行程温暖轻松，适合反季度假与美食爱好者。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -573,17 +603,28 @@
       <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6日越南美食度假款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">越南双龙湾豪华美食6日 → 可延伸海滨度假</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">美食度假、反季避寒、慢节奏休闲</td></tr>
     </tbody>
   </table>
-
+    </div>
+  </div>
 </div>`;
 
   window.REGION_PLANS.europe = `
-<div class="region-hero">
-  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=欧洲+旅游地图&output=embed" title="欧洲 旅游地图地图"></iframe>
+<div class="rp-banner" style="background-image:url('assets/img/destinations/europe.jpg')">
+  <div class="rp-banner-in">
+    <h1>欧洲 · 分区行程规划</h1>
+    <div class="rp-sub">Europe Region Tours</div>
+    <p class="rp-desc">从西欧都市到北欧极光，4 大分区全景覆盖。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+  </div>
 </div>
-<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
-
-  <!-- 一、Last Minute 限时特惠团 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、Last Minute 限时特惠团</h3>
+<div class="rp-layout">
+  <nav class="rp-nav" role="tablist" aria-label="europe 分区">
+      <button type="button" data-rp="0" class="active">Last Minute 限时特惠团</button>
+      <button type="button" data-rp="1" class="">欧洲大巴环线（6条彩色线路）</button>
+      <button type="button" data-rp="2" class="">精品多日小包团</button>
+      <button type="button" data-rp="3" class="">当地一日游（Day Trips）</button>
+  </nav>
+  <div class="rp-content">
+    <div class="rp-panel active" data-rp="0">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、Last Minute 限时特惠团</h3>
   <p style="color: #666; margin: 0 0 16px 0;">圣诞/新年档期限时特惠青年团，余位有限、先到先得，覆盖西欧、北欧、希腊、极光、伊比利亚半岛多条热门线路，直降优惠力度大，适合时间灵活、追求高性价比的年轻客群。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -603,7 +644,9 @@
   </table>
 
   <!-- 二、欧洲大巴环线（6条彩色线路） -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、欧洲大巴环线（6条彩色线路）</h3>
+    </div>
+    <div class="rp-panel" data-rp="1">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、欧洲大巴环线（6条彩色线路）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">欧洲经典大巴环游产品，按天计价、灵活选天数，全程包含大巴交通、酒店住宿与双语导游服务，6条彩色线路覆盖全欧核心区域，性价比高、适配自由规划行程的游客。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心线路一览</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -624,7 +667,9 @@
   </table>
 
   <!-- 三、精品多日小包团 -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、精品多日小包团</h3>
+    </div>
+    <div class="rp-panel" data-rp="2">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、精品多日小包团</h3>
   <p style="color: #666; margin: 0 0 16px 0;">精品小团模式，全程配备双语导游，行程深度、体验更佳，覆盖冰岛、巴尔干、希腊、伊比利亚、东欧等热门目的地，适合追求品质、不想赶大巴节奏的游客。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -645,7 +690,9 @@
   </table>
 
   <!-- 四、当地一日游（Day Trips） -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、当地一日游（Day Trips）</h3>
+    </div>
+    <div class="rp-panel" data-rp="3">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、当地一日游（Day Trips）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">可灵活搭配自由行或多日团的单日行程，覆盖慕尼黑、法兰克福、瑞士少女峰等热门出发地，含交通与双语导游，省心打卡周边精华景点。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -676,17 +723,27 @@
       <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北欧极光深度款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">拉普兰7日极光团 → 可搭配北欧四国大巴环线延伸</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冬季出行、极光追猎、极地体验</td></tr>
     </tbody>
   </table>
-
+    </div>
+  </div>
 </div>`;
 
   window.REGION_PLANS.cruise = `
-<div class="region-hero">
-  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=邮轮+航线+地图&output=embed" title="邮轮航线地图"></iframe>
+<div class="rp-banner" style="background-image:url('assets/img/destinations/cruise.jpg')">
+  <div class="rp-banner-in">
+    <h1>邮轮 · 分区行程规划</h1>
+    <div class="rp-sub">Cruise Routes</div>
+    <p class="rp-desc">短途休闲到国际远洋，3 大航线分区任你选。点击左侧分区，查看各航线核心行程品类与参考价格。</p>
+  </div>
 </div>
-<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
-
-  <!-- 一、短途休闲航线（2-4晚） -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、短途休闲航线（2-4晚 澳洲本土出发）</h3>
+<div class="rp-layout">
+  <nav class="rp-nav" role="tablist" aria-label="cruise 分区">
+      <button type="button" data-rp="0" class="active">短途休闲航线（2-4晚 澳洲本土出发）</button>
+      <button type="button" data-rp="1" class="">中长航线（7-14晚 澳新/南太平洋/昆士兰）</button>
+      <button type="button" data-rp="2" class="">国际远洋航线（全球目的地）</button>
+  </nav>
+  <div class="rp-content">
+    <div class="rp-panel active" data-rp="0">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、短途休闲航线（2-4晚 澳洲本土出发）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">主打短假期轻松度假，2-4晚短途航程，从悉尼、布里斯班就近出发，覆盖周边海岸、海岛与城市连线，适合周末出行、小长假休闲与邮轮初体验，价格友好、选择丰富。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心航线一览</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -709,7 +766,9 @@
   </table>
 
   <!-- 二、中长航线（7-14晚 澳新/南太平洋） -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、中长航线（7-14晚 澳新/南太平洋/昆士兰）</h3>
+    </div>
+    <div class="rp-panel" data-rp="1">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、中长航线（7-14晚 澳新/南太平洋/昆士兰）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">7-14晚中长航程，从悉尼、布里斯班出发，覆盖新西兰南岛峡湾、南太平洋海岛、昆士兰海岸、南澳全景等核心目的地，是长假度假、深度邮轮体验的主流选择，覆盖多家主流邮轮公司不同定位。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心航线一览</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -735,7 +794,9 @@
   </table>
 
   <!-- 三、国际远洋航线（全球目的地） -->
-  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、国际远洋航线（全球目的地）</h3>
+    </div>
+    <div class="rp-panel" data-rp="2">
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、国际远洋航线（全球目的地）</h3>
   <p style="color: #666; margin: 0 0 16px 0;">覆盖欧洲、阿拉斯加、东南亚、地中海等全球热门邮轮目的地，包含小型奢华邮轮、顶级远洋邮轮与新锐品牌，适配深度邮轮玩家、环球度假与小众目的地体验需求。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心航线一览</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
@@ -772,19 +833,31 @@
       <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全景深度环球款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">10+晚国际远洋航线（欧洲/阿拉斯加/东南亚）→ 可搭配目的地陆地深度游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度邮轮玩家、环球度假、小众目的地体验</td></tr>
     </tbody>
   </table>
-
+    </div>
+  </div>
 </div>`;
   window.REGION_PLANS.china = `
-<div class="region-hero">
-  <img src="assets/img/china-map.png" alt="中国分区地图" class="region-map-img">
+<div class="rp-banner" style="background-image:url('assets/img/china-map.png')">
+  <div class="rp-banner-in">
+    <h1>中国 · 分区行程规划</h1>
+    <div class="rp-sub">China Region Tours</div>
+    <p class="rp-desc">从江南水乡到西北丝路，7 大分区完整呈现。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+  </div>
 </div>
-<div style="max-width:1200px;margin:0 auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#333;line-height:1.6;">
-
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">中国分区行程规划 · 2026 纯玩无购物</h3>
-  <p style="color:#666;margin:0 0 16px 0;">以下线路精选自 2026 中国纯玩无购物系列（AUD 计价），覆盖华北、华东、西南、西北、长江三峡、东北及华南七大区域，全程纯玩无购物。具体班期与报价请在线咨询。</p>
-
-  <!-- 一、北京 · 西安（华北） -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">一、北京 · 西安（华北）</h3>
+<div class="rp-layout">
+  <nav class="rp-nav" role="tablist" aria-label="china 分区">
+      <button type="button" data-rp="0" class="active">北京 · 西安（华北）</button>
+      <button type="button" data-rp="1" class="">江南 · 上海（华东）</button>
+      <button type="button" data-rp="2" class="">九寨 · 张家界 · 云南 · 贵州（西南）</button>
+      <button type="button" data-rp="3" class="">新疆 · 西藏 · 青海 · 丝绸之路（西北）</button>
+      <button type="button" data-rp="4" class="">长江三峡（游轮专线）</button>
+      <button type="button" data-rp="5" class="">山东 · 山西 · 东北 · 河南</button>
+      <button type="button" data-rp="6" class="">广东 · 广西 · 福建 · 海南（华南）</button>
+      <button type="button" data-rp="7" class="">经典连游组合</button>
+  </nav>
+  <div class="rp-content">
+    <div class="rp-panel active" data-rp="0">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">一、北京 · 西安（华北）</h3>
   <p style="color:#666;margin:0 0 16px 0;">帝都地标与十三朝古都，历史文化核心线，纯玩无购物，班期灵活。</p>
   <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
@@ -801,7 +874,9 @@
   </table>
 
   <!-- 二、江南 · 上海（华东） -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">二、江南 · 上海（华东）</h3>
+    </div>
+    <div class="rp-panel" data-rp="1">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">二、江南 · 上海（华东）</h3>
   <p style="color:#666;margin:0 0 16px 0;">长三角核心，水乡古镇与都市繁华兼具，纯玩无购物。</p>
   <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
@@ -812,7 +887,9 @@
   </table>
 
   <!-- 三、九寨 · 张家界 · 云南 · 贵州（西南） -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">三、九寨 · 张家界 · 云南 · 贵州（西南）</h3>
+    </div>
+    <div class="rp-panel" data-rp="2">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">三、九寨 · 张家界 · 云南 · 贵州（西南）</h3>
   <p style="color:#666;margin:0 0 16px 0;">西南山水王国，九寨彩林、张家界峰林、云南高原湖泊，纯玩无购物。</p>
   <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
@@ -839,7 +916,9 @@
   </table>
 
   <!-- 四、新疆 · 西藏 · 青海 · 丝绸之路（西北） -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">四、新疆 · 西藏 · 青海 · 丝绸之路（西北）</h3>
+    </div>
+    <div class="rp-panel" data-rp="3">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">四、新疆 · 西藏 · 青海 · 丝绸之路（西北）</h3>
   <p style="color:#666;margin:0 0 16px 0;">大西北长线王国，丝路、高原与花季特别团，纯玩无购物。</p>
   <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
@@ -857,7 +936,9 @@
   </table>
 
   <!-- 五、长江三峡（游轮专线） -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">五、长江三峡（游轮专线）</h3>
+    </div>
+    <div class="rp-panel" data-rp="4">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">五、长江三峡（游轮专线）</h3>
   <p style="color:#666;margin:0 0 16px 0;">长江新船王与三峡游轮为代表，沿江奢华慢游，纯玩无购物。</p>
   <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
@@ -870,7 +951,9 @@
   </table>
 
   <!-- 六、山东 · 山西 · 东北 · 河南 -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">六、山东 · 山西 · 东北 · 河南</h3>
+    </div>
+    <div class="rp-panel" data-rp="5">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">六、山东 · 山西 · 东北 · 河南</h3>
   <p style="color:#666;margin:0 0 16px 0;">齐鲁中原与东北名城，长白雪山、漠河极地，纯玩无购物。</p>
   <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
@@ -887,7 +970,9 @@
   </table>
 
   <!-- 七、广东 · 广西 · 福建 · 海南（华南） -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">七、广东 · 广西 · 福建 · 海南（华南）</h3>
+    </div>
+    <div class="rp-panel" data-rp="6">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">七、广东 · 广西 · 福建 · 海南（华南）</h3>
   <p style="color:#666;margin:0 0 16px 0;">大湾区美食线与滨海度假，粤式饮食、闽南土楼、三亚海岛，纯玩无购物。</p>
   <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
@@ -903,7 +988,9 @@
     </tbody>
   </table>
   <!-- 经典连游组合 -->
-  <h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">经典连游组合</h3>
+    </div>
+    <div class="rp-panel" data-rp="7">
+<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">经典连游组合</h3>
   <p style="color:#666;margin:0 0 16px 0;">以下为真实在售线路的推荐拼接方式，具体组合班期与报价请咨询在线客服。</p>
   <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
     <thead><tr style="background:#f0f7fc;color:#279EE6;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:22%;">方案名称</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:53%;">行程安排</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:25%;">适配场景</th></tr></thead>
@@ -915,6 +1002,7 @@
   </table>
 
   <p style="color:#999;font-size:13px;margin:24px 0 0 0;border-top:1px dashed #e0e0e0;padding-top:12px;">* 以上线路均选自 2026 中国纯玩无购物系列（AUD 计价），详情与报名请点击各线路「查看详情」。最终班期、行程细节与报价以在线咨询确认为准。</p>
-
+    </div>
+  </div>
 </div>`;
 })();
