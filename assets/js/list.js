@@ -44,6 +44,16 @@
         btns.forEach(b=> b.addEventListener('click', ()=>activate(b.dataset.rp)) );
         activate('0');
       }
+      // 子页 Banner 轮播（仅 europe 等含 .rp-slides 的块）
+      const slides = rp.querySelectorAll('.rp-slide');
+      if(slides.length > 1){
+        let si = 0;
+        setInterval(()=>{
+          slides[si].classList.remove('active');
+          si = (si+1) % slides.length;
+          slides[si].classList.add('active');
+        }, 4500);
+      }
     }
     // 子页模式：隐藏「最受欢迎线路」标题+推荐卡+筛选栏，仅留分区规划+FAQ
     const subpage = !!q && hasPlan;

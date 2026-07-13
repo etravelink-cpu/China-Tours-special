@@ -608,7 +608,11 @@
 </div>`;
 
   window.REGION_PLANS.europe = `
-<div class="rp-banner" style="background-image:url('assets/img/destinations/europe.jpg')">
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/europe.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/europe-santorini.jpg')"></div>
+  </div>
   <div class="rp-banner-in">
     <h1>欧洲 · 分区行程规划</h1>
     <div class="rp-sub">Europe Region Tours</div>
@@ -725,6 +729,7 @@
   </table>
     </div>
   </div>
+  <p style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：埃菲尔铁塔 © Wikimedia (Public Domain)；圣托里尼蓝顶教堂 © Kevin Poh, CC BY 2.0。</p>
 </div>`;
 
   window.REGION_PLANS.cruise = `
