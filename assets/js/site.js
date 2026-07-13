@@ -89,6 +89,7 @@
         <div class="wx-row"><span class="wx-tag">${wx1n}</span> <b>${wx1}</b></div>
         ${wx1qr?`<img class="wx-qr" src="${wx1qr}" alt="${wx1n} QR">`:''}
         <div class="wx-row"><span class="wx-tag">${wx2n}</span> <b>${wx2}</b></div>
+        ${C.wechat2Qr?`<img class="wx-qr" src="${C.wechat2Qr}" alt="${wx2n} QR">`:''}
         <div style="font-size:12px;color:#888;margin-top:6px">长按复制微信号 / 扫码添加</div>
       </div>
       <div class="wx-pop" id="wa-pop" hidden>
