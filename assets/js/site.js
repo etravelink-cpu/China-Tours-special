@@ -148,7 +148,7 @@
             <div class="contact-card-cyan">
               <div class="cc-row"><img src="assets/img/wechat-icon.jpg" alt="微信" class="cc-ico"> 微信：<b>${window.CONTACT.wechatName} ${window.CONTACT.wechat}</b> / <b>${window.CONTACT.wechat2Name} ${window.CONTACT.wechat2}</b></div>
               <div class="cc-row"><svg class="cc-ico" viewBox="0 0 32 32" style="background:#25D366;border-radius:3px"><path fill="#fff" d="M16 3C9.4 3 4 8.4 4 15c0 2.2.6 4.2 1.8 6L4 29l8.2-2.1c1.8.9 3.8 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.5c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1.3 1.3-4.8-.3-.4c-1-1.6-1.5-3.4-1.5-5.3 0-5.5 4.5-10 10-10s10 4.5 10 10-4.5 10.8-10 10.8zm5.5-7.5c-.3-.2-1.9-1-2.2-1.1-.3-.1-.5-.2-.7.2-.2.3-.8 1-1 1.2-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.2-.2.2-.3.3-.5.1-.2.1-.4 0-.6-.1-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.6-.5h-.5c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1 2.9 1.2 3.1c.1.2 2 3 4.8 4.2 1.7.7 2.3.8 3.1.7.5-.1 1.9-.8 2.2-1.5.3-.8.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/></svg> WhatsApp：<b>${window.CONTACT.whatsapp}</b></div>
-              <div class="cc-row"><img src="assets/img/wechat-icon.jpg" alt="微信" class="cc-ico"> 公众号：<b>${window.CONTACT.wechat}</b></div>
+              <div class="cc-row"><img src="assets/img/wechat-icon.jpg" alt="微信" class="cc-ico"> 公众号：<b>${window.CONTACT.wechatOfficial}</b></div>
             </div>
           </div>
           <div>

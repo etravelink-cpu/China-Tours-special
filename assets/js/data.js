@@ -514,6 +514,7 @@ window.CONTACT = {
   wechat2: "E-travelink",                 // 微信客服2 小游
   wechat2Name: "小游",
   wechat2Qr: "assets/img/qr/wechat-xiaoyou.png",
+  wechatOfficial: "etrips_au",            // 微信公众号
   email: "info@etravelink.com.au",          // 工作邮箱
   addressZh: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
   addressEn: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
