@@ -313,7 +313,7 @@
 
   window.REGION_PLANS.nz = `
 <div class="region-hero">
-  <img src="assets/img/nz-map.jpg" alt="新西兰分区地图" class="region-map-img">
+  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=新西兰+旅游地图&output=embed" title="新西兰 旅游地图地图"></iframe>
 </div>
 <div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
 
@@ -418,7 +418,7 @@
 
   window.REGION_PLANS.asia = `
 <div class="region-hero">
-  <img src="assets/img/asia-map.jpg" alt="亚洲分区地图" class="region-map-img">
+  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=亚洲+旅游地图&output=embed" title="亚洲 旅游地图地图"></iframe>
 </div>
 <div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
 
@@ -546,7 +546,7 @@
 
   window.REGION_PLANS.europe = `
 <div class="region-hero">
-  <img src="assets/img/europe-map.jpg" alt="欧洲分区地图" class="region-map-img">
+  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=欧洲+旅游地图&output=embed" title="欧洲 旅游地图地图"></iframe>
 </div>
 <div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
 
@@ -649,7 +649,7 @@
 
   window.REGION_PLANS.cruise = `
 <div class="region-hero">
-  <img src="assets/img/cruise-map.jpg" alt="邮轮航线地图" class="region-map-img">
+  <iframe class="region-map-img" loading="lazy" src="https://www.google.com/maps?q=邮轮+航线+地图&output=embed" title="邮轮航线地图"></iframe>
 </div>
 <div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
 
