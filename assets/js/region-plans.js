@@ -98,7 +98,7 @@ window.REGION_PLANS.australia = `
   </nav>
   <div class="rp-detail-area">
     <!-- 路线1：蓝山有氧+动物园 -->
-    <div class="rp-route-pane active" data-route="au-blue-mountain" data-p-adult="179" data-p-child="179" data-p-infant="89">
+    <div class="rp-route-pane active" data-route="au-blue-mountain">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge">天天出发 · 精品奔驰小团</span>
         <div class="rp-detail-hero-in">
@@ -135,6 +135,7 @@ window.REGION_PLANS.australia = `
         <ul><li>悉尼市区指定地点往返接送</li><li>11人精品奔驰商务车交通</li><li>全程中文导游服务</li><li>蓝山国家公园门票</li><li>Featherdale 动物园门票</li><li>动物园早茶点心一份</li></ul>
         <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>全程午餐、个人消费</li><li>景观缆车、索道等自费项目</li><li>导游小费（建议每人5澳元）</li><li>其他一切未提及的费用</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 成团人数：2人成团，11人满团。</p>
@@ -144,7 +145,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线2：史蒂芬港 -->
-    <div class="rp-route-pane" data-route="au-stephens" data-p-adult="179" data-p-child="169" data-p-infant="89">
+    <div class="rp-route-pane" data-route="au-stephens">
       <div class="rp-detail-hero" style="background-image:url('assets/img/hero-sydney.jpg')">
         <span class="rp-badge" style="background:#1B9FE0">每周二/四/日发团</span>
         <div class="rp-detail-hero-in">
@@ -182,6 +183,7 @@ window.REGION_PLANS.australia = `
         <ul><li>悉尼市区往返空调大巴</li><li>海豚观赏游船船票</li><li>全程中文导游服务</li><li>安娜海湾沙丘入场费</li></ul>
         <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>全程午餐、个人消费</li><li>滑沙体验项目费用</li><li>导游小费（建议每人5澳元）</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 发团时间：每周二、周四、周日固定发团，节假日加开班次。</p>
@@ -190,7 +192,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线3：猎人谷 -->
-    <div class="rp-route-pane" data-route="au-hunter" data-p-adult="199" data-p-child="199" data-p-infant="99">
+    <div class="rp-route-pane" data-route="au-hunter">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge" style="background:#5a8a3e">精品小团 含品鉴</span>
         <div class="rp-detail-hero-in">
@@ -228,6 +230,7 @@ window.REGION_PLANS.australia = `
         <ul><li>市区往返交通</li><li>3家酒庄品酒费用</li><li>芝士拼盘一份</li><li>中文导游服务</li></ul>
         <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>午餐费用</li><li>购酒费用、个人消费</li><li>导游小费</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 饮酒需年满18周岁，未满18岁可替换为无酒精饮品。</p>
@@ -236,7 +239,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线4：悉尼市区 -->
-    <div class="rp-route-pane" data-route="au-sydney-city" data-p-adult="139" data-p-child="139" data-p-infant="60">
+    <div class="rp-route-pane" data-route="au-sydney-city">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge" style="background:#1B9FE0">天天出发 新手首选</span>
         <div class="rp-detail-hero-in">
@@ -275,6 +278,7 @@ window.REGION_PLANS.australia = `
         <ul><li>全程空调巴士交通</li><li>悉尼水族馆门票</li><li>海港渡轮船票</li><li>中文导游服务</li></ul>
         <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>全程午餐、个人消费</li><li>歌剧院内部参观</li><li>导游小费</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$139 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 天天发团，2人即可成行。</p>
@@ -283,7 +287,7 @@ window.REGION_PLANS.australia = `
       </div></section>
     </div>
     <!-- 路线5：蓝山日落观星 -->
-    <div class="rp-route-pane" data-route="au-blue-star" data-p-adult="199" data-p-child="199">
+    <div class="rp-route-pane" data-route="au-blue-star">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
         <span class="rp-badge" style="background:#9254de">精品6人小团</span>
         <div class="rp-detail-hero-in">
@@ -321,6 +325,7 @@ window.REGION_PLANS.australia = `
         <ul><li>市区往返商务车接送</li><li>专业天文向导服务</li><li>高倍天文望远镜使用</li><li>夜间热饮与小食</li></ul>
         <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>晚餐费用</li><li>个人消费</li><li>向导小费</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 每周二、四、六发团，6人满团，建议提前预订。</p>
