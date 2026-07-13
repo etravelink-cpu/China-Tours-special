@@ -248,6 +248,8 @@ a{color:inherit;text-decoration:none}
 .footer-grid > div{display:flex;flex-direction:column;align-items:center}
 .footer-grid a:hover{color:var(--accent)}
 .region-plan{margin:8px 0 36px}
+.back-btn{display:inline-flex;align-items:center;gap:4px;margin:0 0 14px;padding:7px 14px;border:1px solid #1B9FE0;border-radius:8px;color:#1B9FE0;font-size:14px;font-weight:600;text-decoration:none;background:#fff;transition:.15s}
+.back-btn:hover{background:#1B9FE0;color:#fff}
 .region-hero{margin:0 0 24px}
 .region-map-img{width:100%;max-width:520px;display:block;margin:0 auto;border-radius:14px;box-shadow:0 6px 18px rgba(0,0,0,.1)}
 .region-hero iframe.region-map-img{height:340px;border:0;max-width:100%}

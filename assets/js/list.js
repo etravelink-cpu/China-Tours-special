@@ -95,6 +95,8 @@
     if(hotTitle) hotTitle.hidden = subpage;
     if(listGrid) listGrid.hidden = subpage;
     if(filterBar) filterBar.hidden = subpage;
+    const backBtn = document.getElementById('back-btn');
+    if(backBtn) backBtn.hidden = !subpage;
     // re-apply labels on cards after render (detail/btn)
     window.Etrips.applyLang();
   }
@@ -176,5 +178,11 @@
     params.set('route', title);
     if(date) params.set('date', date);
     location.href = 'contact.html?' + params.toString();
+  };
+
+  // 返回：优先 history.back()，无历史则回主页
+  window.goBack = function(){
+    if(history.length > 1) history.back();
+    else location.href = 'index.html';
   };
 })();
