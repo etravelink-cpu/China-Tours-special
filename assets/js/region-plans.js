@@ -612,6 +612,8 @@
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/europe.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/europe-santorini.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/europe-colosseo.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/europe-lofoten.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>欧洲 · 分区行程规划</h1>
@@ -729,7 +731,7 @@
   </table>
     </div>
   </div>
-  <p style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：埃菲尔铁塔 © Wikimedia (Public Domain)；圣托里尼蓝顶教堂 © Kevin Poh, CC BY 2.0。</p>
+  <p style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：埃菲尔铁塔 © Wikimedia (Public Domain)；圣托里尼蓝顶教堂 © Kevin Poh, CC BY 2.0；罗马斗兽场 © FeaturedPics, CC BY-SA 4.0；罗弗敦极光 © Johannes Groll, CC0。</p>
 </div>`;
 
   window.REGION_PLANS.cruise = `
