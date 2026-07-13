@@ -92,8 +92,7 @@
           </div>
 
           <div class="bk-actions">
-            <a href="javascript:void(0)" class="btn btn-primary" onclick="submitBooking()">提交预订请求（WhatsApp）</a>
-            <a href="javascript:void(0)" class="btn btn-ghost" onclick="submitBookingMail()">提交（邮件）</a>
+            <a href="javascript:void(0)" class="btn btn-primary" onclick="submitBookingMail()">提交预订申请（邮件发送）</a>
           </div>
           <div id="bk-tip" style="text-align:center;margin-top:14px;font-size:14px;color:#1B9FE0"></div>
         </div>
@@ -203,16 +202,6 @@
       if(remark) lines.push('备注：' + remark);
       return encodeURIComponent(lines.join('\n'));
     }
-    function submitBooking(){
-      const tip = document.getElementById('bk-tip');
-      const route = document.getElementById('bk-route').value.trim();
-      const date = document.getElementById('bk-date').value;
-      const phone = document.getElementById('bk-phone').value.trim();
-      if(!route || !date){ tip.style.color='#e23b3b'; tip.textContent='请填写路线与出发日期。'; return; }
-      if(!phone){ tip.style.color='#e23b3b'; tip.textContent='请留下联系电话或微信。'; return; }
-      const wa = (window.CONTACT && window.CONTACT.whatsapp || '+61 410 740 695').replace(/[^0-9]/g,'');
-      location.href = 'https://wa.me/' + wa + '?text=' + buildMsg();
-    }
     function submitBookingMail(){
       const tip = document.getElementById('bk-tip');
       const route = document.getElementById('bk-route').value.trim();
@@ -226,7 +215,6 @@
     }
     window.step = step;
     window.recalc = recalc;
-    window.submitBooking = submitBooking;
     window.submitBookingMail = submitBookingMail;
     })();
   </script>

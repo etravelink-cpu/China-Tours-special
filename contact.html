@@ -14,7 +14,7 @@
   <section class="section" style="padding-top:80px">
     <div class="container">
       <h2 class="section-title" style="text-align:center">在线咨询 / 行程预订</h2>
-      <p style="text-align:center;color:#666;margin:0 0 28px">留下您的联系方式与需求，客服将尽快与您确认团期与报价。</p>
+      <p style="text-align:center;color:#666;margin:0 0 28px">提交后将通过 WhatsApp 直接发送咨询消息；也可扫描下方二维码添加微信客服。</p>
 
       <div class="form-card" style="max-width:640px">
         <div class="grid grid-2" style="gap:16px">
@@ -71,9 +71,13 @@
       const msg = document.getElementById('c-msg').value.trim();
       const tip = document.getElementById('c-tip');
       if(!phone){ tip.style.color='#e23b3b'; tip.textContent='请留下联系电话或微信，方便客服与您确认。'; return; }
-      // 本地无后端：引导通过微信/WhatsApp 直接联系，并展示已填信息
-      tip.style.color='#1B9FE0';
-      tip.textContent='已记录您的需求：' + (name?('【'+name+'】'):'') + ' 客服将通过微信/WhatsApp与您联系。您也可直接扫码添加上方客服。';
+      // 咨询走 WhatsApp：预填消息直接发送；微信见下方二维码
+      let lines = ['【咨询】Etrips 国安易游'];
+      if(name) lines.push('称呼：' + name);
+      lines.push('联系方式：' + phone);
+      if(msg) lines.push('咨询内容：\n' + msg);
+      const wa = (window.CONTACT && window.CONTACT.whatsapp || '+61 410 740 695').replace(/[^0-9]/g,'');
+      location.href = 'https://wa.me/' + wa + '?text=' + encodeURIComponent(lines.join('\n'));
     }
   </script>
   <script src="assets/js/list.js"></script>
