@@ -51,7 +51,24 @@ window.REGION_PLANS.australia = `
     </div>
     <div class="rp-group" data-group="tas">
       <div class="rp-group-title">塔斯马尼亚 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-tas">摇篮山 / 酒杯湾</div></div>
+      <div class="rp-group-list">
+        <div class="rp-route" data-route="au-tas-5dt">塔斯马尼亚全景5日游</div>
+        <div class="rp-route" data-route="au-tas-6dt">塔斯马尼亚深度6日游</div>
+        <div class="rp-route" data-route="au-tas-5dts">塔斯马尼亚南部5日游</div>
+        <div class="rp-route" data-route="au-tas-4dt">塔斯马尼亚4日精华游</div>
+        <div class="rp-route" data-route="au-tas-3dt">塔斯马尼亚3日精华游</div>
+        <div class="rp-route" data-route="au-tas-seafood">塔斯马尼亚海鲜盛宴一日游船</div>
+        <div class="rp-route" data-route="au-tas-fish">塔斯马尼亚海钓</div>
+        <div class="rp-route" data-route="au-tas-maria">玛丽亚岛纯净之美一日游</div>
+        <div class="rp-route" data-route="au-tas-pot">亚瑟港一日游</div>
+        <div class="rp-route" data-route="au-tas-wgb">酒杯湾一日游</div>
+        <div class="rp-route" data-route="au-tas-wgbc">酒杯湾游船[英文]</div>
+        <div class="rp-route" data-route="au-tas-bruny">塔斯马尼亚布鲁尼岛游船[英文]</div>
+        <div class="rp-route" data-route="au-tas-tasman">塔斯曼岛游船[英文]</div>
+        <div class="rp-route" data-route="au-tas-field">费尔德山一日游</div>
+        <div class="rp-route" data-route="au-tas-poten">亚瑟港英文一日游套票</div>
+        <div class="rp-route" data-route="au-tas-hobart">霍巴特周边+里奇蒙小镇一日游</div>
+      </div>
     </div>
     <div class="rp-group" data-group="adelaide">
       <div class="rp-group-title">阿德莱德 / 南澳 <span class="rp-arrow">▶</span></div>
@@ -306,7 +323,150 @@ window.REGION_PLANS.australia = `
     <div class="rp-route-pane" data-route="au-cairns"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
     <div class="rp-route-pane" data-route="au-whitsunday"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
     <div class="rp-route-pane" data-route="au-perth"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
-    <div class="rp-route-pane" data-route="au-tas"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-tas-5dt">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚全景5日游</h3><div class="rp-detail-meta">5日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>环游塔州精华，摇篮山、酒杯湾、亚瑟港、里奇蒙古镇一线串联，纵览世界自然遗产与流放史迹。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特集合 → 摇篮山国家公园 → 酒杯湾 → 亚瑟港历史遗址 → 里奇蒙古镇 → 霍巴特散团。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1028 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；季节影响路况；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-6dt">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚深度6日游</h3><div class="rp-detail-meta">6日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>深度漫游塔州，增加西海岸与高原湖泊，节奏舒缓，适合摄影与慢游客群。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 摇篮山 → 西部荒野 → 酒杯湾 → 亚瑟港 → 里奇蒙 → 霍巴特。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1198 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-5dts">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚南部5日游</h3><div class="rp-detail-meta">5日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>聚焦塔州南部，霍巴特、亚瑟港、酒杯湾、里奇蒙经典环线，时间紧凑不赶路。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 亚瑟港 → 酒杯湾 → 里奇蒙 → 霍巴特。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$998 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-4dt">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚4日精华游</h3><div class="rp-detail-meta">4日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>塔州4日精华，摇篮山、酒杯湾、亚瑟港核心三站，短假首选。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 摇篮山 → 酒杯湾 → 亚瑟港 → 霍巴特。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$848 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-3dt">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚3日精华游</h3><div class="rp-detail-meta">3日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>塔州3日快览，霍巴特、摇篮山、亚瑟港浓缩体验，适合周末出行。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 摇篮山 → 亚瑟港 → 霍巴特。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$658 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-seafood">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚海鲜盛宴一日游船</h3><div class="rp-detail-meta">1日游 · 霍巴特出海 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>登船畅享塔州生蚝、龙虾、鲍鱼等现捞海鲜盛宴，边赏海岸风光边品鲜。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特码头登船 → 外海巡游 + 海鲜自助 → 返港。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>游船票、海鲜餐、中文司导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$700 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>受天气与海况影响；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-fish">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚海钓</h3><div class="rp-detail-meta">1日游 · 霍巴特出海 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>专业向导带领外海垂钓，装备齐全，收获可现场处理，享受塔州纯净海域渔趣。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特码头登船 → 钓点垂钓 → 返港。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>船票、钓具、中文向导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$299 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>受天气海况影响；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-maria">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>玛丽亚岛纯净之美一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>世界自然遗产玛丽亚岛，邂逅野生袋獾与海岸奇观，徒步探秘监狱遗迹。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 渡轮上岛 → 徒步观光 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、渡轮、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$208 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>受天气与船期影响；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-pot">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>亚瑟港一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>探访澳洲最具历史的流放监狱遗址亚瑟港，含巡游与遗址通票，沉浸殖民往事。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 亚瑟港遗址参观 + 港口游船 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、门票通票、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$168 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-wgb">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>酒杯湾一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>前往被誉全球最美海湾之一的酒杯湾，徒步观景台俯瞰白沙碧海，邂逅野生动物。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 酒杯湾观景台徒步 → 自由活动 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>游船票、个人消费。<br><b>参考市场价：</b>成人 A$148 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-wgbc">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>酒杯湾游船[英文]</h3><div class="rp-detail-meta">1日游 · 英文司导 · 酒杯湾出海巡航</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>英文向导带领酒杯湾海上巡航，近距离观赏海崖、海豹与白沙海湾。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定码头登船 → 酒杯湾巡航 → 返港（英文讲解）。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>游船票、英文向导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$155 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>英文团；受天气海况影响；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-bruny">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚布鲁尼岛游船[英文]</h3><div class="rp-detail-meta">1日游 · 英文司导 · 布鲁尼岛出海</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>英文向导带您环绕布鲁尼岛，追逐海豚、海狮与悬崖奇景，南半球最高海崖。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定码头登船 → 布鲁尼岛巡航 → 返港（英文讲解）。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>游船票、英文向导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$175 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>英文团；受天气海况影响；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-tasman">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯曼岛游船[英文]</h3><div class="rp-detail-meta">1日游 · 英文司导 · 塔斯曼半岛巡航</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>英文向导带领塔斯曼半岛海上巡航，探秘海崖洞穴与丰富海鸟生态。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定码头登船 → 塔斯曼半岛巡航 → 返港（英文讲解）。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>游船票、英文向导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$180 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>英文团；受天气海况影响；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-field">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>费尔德山一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>探访塔州最高瀑布与温带雨林，费尔德山国家公园徒步，赏三瀑与高山湖泊。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 费尔德山三瀑徒步 → 自由活动 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$138 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-poten">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>亚瑟港英文一日游套票</h3><div class="rp-detail-meta">1日游 · 英文司导 · 霍巴特机场可接送</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>英文向导亚瑟港遗址套票，含霍巴特机场接送，适合自由行客群。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>机场/市区接送 → 亚瑟港套票参观 → 送返。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>接送、门票套票、英文向导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$99 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>英文团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-tas-hobart">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>霍巴特周边+里奇蒙小镇一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
+      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
+      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>霍巴特市区观光 + 百年德式里奇蒙古镇，跨越时空的塔州人文半日闲。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特市区 → 里奇蒙古镇 → 返程。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$98 起（儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
+    </div>
     <div class="rp-route-pane" data-route="au-adl-kid">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
