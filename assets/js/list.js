@@ -110,4 +110,27 @@
     render();
   });
   window.addEventListener('langchange', render);
+
+  // 下载行程单：仅打印当前激活路线详情卡为带 logo 单页 PDF
+  window.printRoute = function(btn){
+    const pane = btn.closest('.rp-route-pane');
+    if(!pane) return;
+    const title = (pane.querySelector('.rp-detail-hero-in h3') || {}).textContent || '';
+    let ph = document.getElementById('print-header');
+    if(!ph){
+      ph = document.createElement('div');
+      ph.id = 'print-header';
+      document.body.appendChild(ph);
+    }
+    ph.innerHTML =
+      '<div class="ph-logo"><img src="assets/img/logo.png" alt="Etrips 国安易游"></div>' +
+      '<div class="ph-co"><div class="ph-name">Etrips 国安易游</div>' +
+      '<div class="ph-slogan">易行天下，奔赴山海</div></div>' +
+      '<div class="ph-title">' + title + '</div>' +
+      '<div class="ph-meta">电话 +61 2 9764 6862 · 邮箱 info@etravelink.com.au · 微信 E_travelink</div>';
+    document.body.classList.add('printing-route');
+    const onAfter = ()=>{ document.body.classList.remove('printing-route'); window.removeEventListener('afterprint', onAfter); };
+    window.addEventListener('afterprint', onAfter);
+    window.print();
+  };
 })();
