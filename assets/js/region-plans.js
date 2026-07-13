@@ -3,7 +3,7 @@
 (function(){
   window.REGION_PLANS = window.REGION_PLANS || {};
 
-  window.REGION_PLANS.australia = `
+window.REGION_PLANS.australia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/hero-sydney.jpg')"></div>
@@ -12,341 +12,249 @@
     <div class="rp-slide" style="background-image:url('assets/img/destinations/au-apostles.jpg')"></div>
   </div>
   <div class="rp-banner-in">
-    <h1>澳大利亚 · 分区行程规划</h1>
+    <h1>澳大利亚 · 全景旅游</h1>
     <div class="rp-sub">Australia Region Tours</div>
-    <p class="rp-desc">从悉尼都市地标到乌鲁鲁红土中心，9 大分区一图读懂。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+    <p class="rp-desc">9 大目的地全覆盖 · 一日游 / 多日团 / 定制行程 · 纯玩无购物 · 中文导游</p>
   </div>
 </div>
 <div class="rp-layout">
-  <nav class="rp-nav" role="tablist" aria-label="澳洲分区">
-      <button type="button" data-rp="0" class="active">悉尼及周边</button>
-      <button type="button" data-rp="1" class="">墨尔本及周边</button>
-      <button type="button" data-rp="2" class="">昆士兰 · 黄金海岸&布里斯班</button>
-      <button type="button" data-rp="3" class="">凯恩斯（大堡礁）</button>
-      <button type="button" data-rp="4" class="">圣灵群岛（汉密尔顿岛/艾尔利海滩）</button>
-      <button type="button" data-rp="5" class="">珀斯 / 西澳</button>
-      <button type="button" data-rp="6" class="">塔斯马尼亚</button>
-      <button type="button" data-rp="7" class="">阿德莱德 / 南澳</button>
-      <button type="button" data-rp="8" class="">乌鲁鲁 / 北领地</button>
+  <nav class="rp-nav2" aria-label="澳洲目的地">
+    <div class="rp-group open" data-group="sydney">
+      <div class="rp-group-title">悉尼及周边 <span class="rp-arrow">▼</span></div>
+      <div class="rp-group-list">
+        <div class="rp-route active" data-route="au-blue-mountain">蓝山有氧+动物园一日游</div>
+        <div class="rp-route" data-route="au-stephens">史蒂芬港观海豚一日游</div>
+        <div class="rp-route" data-route="au-hunter">猎人谷品酒一日游</div>
+        <div class="rp-route" data-route="au-sydney-city">悉尼市区网红地标一日游</div>
+        <div class="rp-route" data-route="au-blue-star">蓝山日落观星精品小团</div>
+      </div>
+    </div>
+    <div class="rp-group" data-group="melbourne">
+      <div class="rp-group-title">墨尔本及周边 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-melbourne">大洋路 / 蒸汽火车+企鹅岛</div></div>
+    </div>
+    <div class="rp-group" data-group="qld">
+      <div class="rp-group-title">黄金海岸&布里斯班 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-qld">主题乐园 / 海滩度假</div></div>
+    </div>
+    <div class="rp-group" data-group="cairns">
+      <div class="rp-group-title">凯恩斯（大堡礁） <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-cairns">大堡礁潜水 / 热带雨林</div></div>
+    </div>
+    <div class="rp-group" data-group="whitsunday">
+      <div class="rp-group-title">圣灵群岛 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-whitsunday">汉密尔顿岛 / 心形礁</div></div>
+    </div>
+    <div class="rp-group" data-group="perth">
+      <div class="rp-group-title">珀斯 / 西澳 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-perth">粉红湖 / 尖峰石阵</div></div>
+    </div>
+    <div class="rp-group" data-group="tas">
+      <div class="rp-group-title">塔斯马尼亚 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-tas">摇篮山 / 酒杯湾</div></div>
+    </div>
+    <div class="rp-group" data-group="adelaide">
+      <div class="rp-group-title">阿德莱德 / 南澳 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-adelaide">芭萝莎酒庄 / 袋鼠岛</div></div>
+    </div>
+    <div class="rp-group" data-group="uluru">
+      <div class="rp-group-title">乌鲁鲁 / 北领地 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-uluru">艾尔斯岩 / 原野星光</div></div>
+    </div>
   </nav>
-  <div class="rp-content">
-    <div class="rp-panel active" data-rp="0">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、悉尼及周边</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">新南威尔士州核心门户，澳洲入境枢纽，兼顾城市地标、蓝山自然遗产、海洋生态与酒庄休闲，一日游产品成熟、班期密集，适配全类型游客。</p>
-
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead>
-      <tr style="background: #279EE6; color: #fff;">
-        <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-        <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-        <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-        <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">悉尼网红地标一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">覆盖悉尼海港、歌剧院、岩石区等核心网红地标，一站式打卡城市名片</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天出发，4人成团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、行程紧凑的观光客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">蓝山有氧一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">三姐妹峰、峡谷观景、轻量徒步，纯自然经典观光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">预算有限、偏好自然景观</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">复古铁路蓝山风光一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">复古蒸汽火车+回音谷+Leura英伦小镇，含澳式Billy Tea体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日常可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">怀旧爱好者、小镇休闲客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">蓝山有氧+动物园精品小团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">蓝山核心景观+澳洲本土动物园，11人封顶精品小团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">家庭亲子、自然+动物双需求</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">蓝山日落+观星精品小团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">下午出发，观赏蓝山日落金辉，夜间专业向导带队观星讲解，一价全含</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每周二/四/六/日出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">情侣、摄影爱好者、深度体验客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">观鲸游船（多档位）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2小时快捷/2.5小时快艇/4小时含餐三档可选，近海观赏座头鲸迁徙</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5-11月天天发船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全年龄段、海洋爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">史蒂芬港观海豚一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北上史蒂芬港出海观赏野生海豚群，海滨休闲，一价全含</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每周二/四/日出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">家庭出游、海滨慢游客群</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">猎人谷品酒豪华之旅</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">澳洲老牌葡萄酒产区，多家酒庄品鉴，搭配乡村美食与田园风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日常可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">红酒爱好者、情侣度假</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">悉尼数字沉浸娱乐乐园</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">沉浸式数字冒险娱乐，室内项目不受天气影响</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日常可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">亲子家庭、雨天备选、年轻客群</td></tr>
-    </tbody>
-  </table>
-
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3天经典入门款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 悉尼网红地标一日游 → Day2 蓝山有氧+动物园精品小团 → Day3 4小时含餐观鲸游船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途停留、首次到访、无班期限制</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2天周末精华款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 蓝山日落+观星精品小团 → Day2 史蒂芬港观海豚一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">本地周末游、小众深度体验</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5天深度全景款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 网红地标 → Day2 猎人谷品酒 → Day3 史蒂芬港观海豚 → Day4 复古铁路蓝山 → Day5 蓝山日落观星</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长停留、全品类深度体验</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 墨尔本及周边 -->
+  <div class="rp-detail-area">
+    <!-- 路线1：蓝山有氧+动物园 -->
+    <div class="rp-route-pane active" data-route="au-blue-mountain">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">天天出发 · 精品奔驰小团</span>
+        <div class="rp-detail-hero-in">
+          <h3>【精品小团】蓝山有氧+动物园精品11人小团一日游【天天出发】</h3>
+          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>悉尼市区免费接送</span></div>
+        </div>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="contact.html" class="btn btn-primary">立即预订</a>
+        <a href="contact.html" class="btn btn-ghost">下载行程单</a>
+      </div>
+      <section class="rp-sec"><h4>产品简介</h4><div><p>精选蓝山国家公园核心景观，搭配澳洲本土野生动物园，11人精品奔驰小团出行，市区酒店免费接送，全程中文导游讲解。</p><p>一站打卡三姐妹峰、网红景观缆车、英伦卢拉小镇与 Featherdale 野生动物园，可近距离抱考拉合影，适合家庭出行与休闲观光。</p></div></section>
+      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
+        <div><div class="rp-time">09:00 唐人街/市区酒店集合出发</div><div>专业中文导游接团，乘坐豪华奔驰商务车前往蓝山国家公园，车程约1.5小时。</div></div>
+        <div><div class="rp-time">10:30 回音谷观景台</div><div>拍摄经典三姐妹峰全景；可自费乘坐倾斜52度的矿山轨道缆车，体验山谷穿越。</div></div>
+        <div><div class="rp-time">11:30 卡通巴小镇 + 卢拉小镇漫步</div><div>游览主街精品店、工艺品店与咖啡馆，感受英伦小镇风光。</div></div>
+        <div><div class="rp-time">13:30 午餐自理</div><div>小镇内自行安排午餐，推荐当地炸鱼薯条、澳式牛排与咖啡甜点。</div></div>
+        <div><div class="rp-time">14:30 Featherdale 野生动物园</div><div>澳洲本土生态动物园；特别安排早茶点心，可免费与考拉拍照，近距离接触袋鼠、袋熊等。</div></div>
+        <div><div class="rp-time">18:00 返回悉尼市区</div><div>结束行程，送回唐人街/市区酒店解散。</div></div>
+        <div style="font-size:12px;color:#999;margin-top:8px">* 具体行程顺序可能因当天交通、天气情况微调，以导游实际安排为准。</div>
+      </div></section>
+      <section class="rp-sec"><h4>费用说明</h4><div>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
+        <ul><li>悉尼市区指定地点往返接送</li><li>11人精品奔驰商务车交通</li><li>全程中文导游服务</li><li>蓝山国家公园门票</li><li>Featherdale 动物园门票</li><li>动物园早茶点心一份</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
+        <ul><li>全程午餐、个人消费</li><li>景观缆车、索道等自费项目</li><li>导游小费（建议每人5澳元）</li><li>其他一切未提及的费用</li></ul>
+      </div></section>
+      <section class="rp-sec"><h4>预订须知</h4><div>
+        <p style="margin:0 0 6px">1. 成团人数：2人成团，11人满团。</p>
+        <p style="margin:0 0 6px">2. 预订后24小时内发送电子确认单，凭电子票出行。</p>
+        <p style="margin:0 0 6px">3. 因交通、天气、景点停业等不可抗力造成的行程变更，旅行社保留调整权利，费用差额多退少补。</p>
+        <p style="margin:0">4. 退改政策：出发前3天以上取消可全额退款；3天内取消收取100%损失费用。</p>
+      </div></section>
     </div>
-    <div class="rp-panel" data-rp="1">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、墨尔本及周边</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">维多利亚州首府、澳洲文艺之都，周边坐拥大洋路世界海岸奇观、菲利普岛萌宠、复古蒸汽火车等王牌IP，城市人文与自然景观兼具。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">市区文艺观光一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">弗林德斯街车站、霍西尔涂鸦巷、州立图书馆、维多利亚女王市场、雅拉河南岸夜景</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天可发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、文艺爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">大洋路海岸奇观一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">十二门徒岩、洛克阿德峡谷、小红帽灯塔、洛恩小镇，世界顶级海岸公路</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">所有到访游客、摄影爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">大洋路深度两日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">加阿波罗湾日落、雨林徒步、考拉寻踪，避开当日往返车程疲劳</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每周固定班期/4人成团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度体验、家庭慢游</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">蒸汽小火车+企鹅岛一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">普芬比利复古森林蒸汽火车、Maru动物园互动、菲利普岛小企鹅归巢</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">亲子家庭、年轻游客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">亚拉河谷品酒一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多家精品酒庄品鉴、田园风光，可选搭配日出热气球</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日常可订，周末班次密集</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">红酒爱好者、商务休闲</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">莫宁顿半岛度假一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布莱顿彩虹小屋、亚瑟王座缆车、半岛酒庄、海角灯塔</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">周末热门，平日可定制</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">本地度假、拍照打卡</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3天经典入门款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 市区文艺观光 → Day2 大洋路一日游 → Day3 蒸汽小火车+企鹅岛</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、短途停留</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5天深度全景款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 市区 → Day2-3 大洋路2日深度 → Day4 亚拉河谷品酒 → Day5 莫宁顿半岛休闲</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长停留、全品类体验</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 昆士兰 -->
+    <!-- 路线2：史蒂芬港 -->
+    <div class="rp-route-pane" data-route="au-stephens">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/hero-sydney.jpg')">
+        <span class="rp-badge" style="background:#1B9FE0">每周二/四/日发团</span>
+        <div class="rp-detail-hero-in">
+          <h3>史蒂芬港观海豚+安娜海湾沙漠一日游</h3>
+          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含游船观光+沙滩体验</span></div>
+        </div>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="contact.html" class="btn btn-primary">立即预订</a>
+        <a href="contact.html" class="btn btn-ghost">下载行程单</a>
+      </div>
+      <section class="rp-sec"><h4>产品简介</h4><div>
+        <p>史蒂芬港被誉为"澳洲海豚之都"，常年栖息超150只宽吻海豚，遇见率高达99%。</p>
+        <p>行程搭配安娜海湾沙丘滑沙、海滨小镇漫步，一次体验海洋萌宠与沙漠奇观，适合家庭休闲与海滨度假。</p>
+      </div></section>
+      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
+        <div><div class="rp-time">07:30 悉尼市区集合出发</div><div>市区指定地点集合，乘坐空调旅游大巴前往史蒂芬港，车程约2.5小时。</div></div>
+        <div><div class="rp-time">10:30 海豚观赏游船</div><div>乘坐专业观海豚游船出海，近距离观赏野生海豚群嬉戏，船员全程讲解海洋生态知识。</div></div>
+        <div><div class="rp-time">12:30 尼尔森湾小镇午餐</div><div>海滨小镇自行用餐，推荐炸鱼薯条、海鲜拼盘，可漫步沙滩休闲。</div></div>
+        <div><div class="rp-time">14:00 安娜海湾沙丘滑沙</div><div>体验南半球最大的海岸沙丘，可自费参与滑沙项目，感受沙漠与海洋交汇的奇观。</div></div>
+        <div><div class="rp-time">18:30 返回悉尼市区</div><div>结束行程，送回市区集合点解散。</div></div>
+      </div></section>
+      <section class="rp-sec"><h4>费用说明</h4><div>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
+        <ul><li>悉尼市区往返空调大巴</li><li>海豚观赏游船船票</li><li>全程中文导游服务</li><li>安娜海湾沙丘入场费</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
+        <ul><li>全程午餐、个人消费</li><li>滑沙体验项目费用</li><li>导游小费（建议每人5澳元）</li></ul>
+      </div></section>
+      <section class="rp-sec"><h4>预订须知</h4><div>
+        <p style="margin:0 0 6px">1. 发团时间：每周二、周四、周日固定发团，节假日加开班次。</p>
+        <p style="margin:0 0 6px">2. 海豚观赏为自然生态项目，不保证100%遇见，如未看到不做退款。</p>
+        <p style="margin:0">3. 出发前1天晚上发送集合通知，含具体时间地点与导游联系方式。</p>
+      </div></section>
     </div>
-    <div class="rp-panel" data-rp="2">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、昆士兰 · 黄金海岸&布里斯班</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">昆士兰州东南核心，布里斯班为州府门户，黄金海岸是南半球顶级度假海岸，主打主题乐园、阳光海滩、雨林探秘与动物互动，亲子客群为主力。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布里斯班市区+龙柏考拉一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">南岸公园、库塔山观景、龙柏考拉动物园（可抱考拉合影）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、动物爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">黄金海岸城市观光一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冲浪者天堂、Q1星空观景塔、水陆鸭子船、喂鹈鹕体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途打卡、家庭休闲</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">主题乐园单园/联票</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">华纳兄弟电影世界、梦幻世界、海洋世界、Wet'n'Wild水上乐园，可搭配接送</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">园区每日开放</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">亲子家庭、年轻游乐爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">可伦宾动物园+农庄体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">可伦宾野生动物园、抱考拉喂袋鼠、天堂农庄澳式牧场秀</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">亲子家庭、澳式文化体验</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">春溪雨林萤火虫夜游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">春溪国家公园、蓝光萤火虫洞、天然桥瀑布</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日日落出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">自然爱好者、年轻客群</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">黄金海岸观鲸游船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">出海观赏座头鲸迁徙，搭配海岸观光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5-10月天天发船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">海洋爱好者、季节限定体验</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日精华款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 布里斯班市区+龙柏考拉 → Day2 黄金海岸主题乐园 → Day3 春溪雨林萤火虫夜游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途度假、年轻客群</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日亲子度假款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 布里斯班市区 → Day2-3 双主题乐园 → Day4 可伦宾动物园+农庄 → Day5 海滨自由休闲</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">家庭亲子、长假度假</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 凯恩斯 -->
+    <!-- 路线3：猎人谷 -->
+    <div class="rp-route-pane" data-route="au-hunter">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge" style="background:#5a8a3e">精品小团 含品鉴</span>
+        <div class="rp-detail-hero-in">
+          <h3>猎人谷精品酒庄品酒一日游（含3家酒庄品鉴）</h3>
+          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含酒庄品鉴+芝士拼盘</span></div>
+        </div>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="contact.html" class="btn btn-primary">立即预订</a>
+        <a href="contact.html" class="btn btn-ghost">下载行程单</a>
+      </div>
+      <section class="rp-sec"><h4>产品简介</h4><div>
+        <p>澳洲历史最悠久的葡萄酒产区，精选3家特色精品酒庄，品鉴西拉、赛美蓉等经典酒款。</p>
+        <p>搭配芝士拼盘、乡村美食与田园风光，是红酒爱好者、情侣休闲的经典选择。</p>
+      </div></section>
+      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
+        <div><div class="rp-time">08:30 市区集合出发</div><div>市区指定酒店接人，前往猎人谷产区，车程约2小时。</div></div>
+        <div><div class="rp-time">10:30 第一家精品酒庄品鉴</div><div>到访家族传承酒庄，品鉴4款经典酒款，酿酒师讲解产区历史与酿酒工艺。</div></div>
+        <div><div class="rp-time">12:30 酒庄午餐</div><div>酒庄餐厅享用澳式乡村午餐，搭配葡萄酒与田园景致。</div></div>
+        <div><div class="rp-time">14:00 第二家+第三家酒庄品鉴</div><div>探访两家不同风格酒庄，涵盖红葡萄酒、白葡萄酒与甜酒，搭配芝士拼盘。</div></div>
+        <div><div class="rp-time">17:00 返回悉尼</div><div>结束品酒之旅，送回市区酒店。</div></div>
+      </div></section>
+      <section class="rp-sec"><h4>费用说明</h4><div>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
+        <ul><li>市区往返交通</li><li>3家酒庄品酒费用</li><li>芝士拼盘一份</li><li>中文导游服务</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
+        <ul><li>午餐费用</li><li>购酒费用、个人消费</li><li>导游小费</li></ul>
+      </div></section>
+      <section class="rp-sec"><h4>预订须知</h4><div>
+        <p style="margin:0 0 6px">1. 饮酒需年满18周岁，未满18岁可替换为无酒精饮品。</p>
+        <p style="margin:0 0 6px">2. 酒庄可能根据当日营业情况微调，保证品鉴数量与品质。</p>
+        <p style="margin:0">3. 建议适量饮酒，酒后请勿驾车。</p>
+      </div></section>
     </div>
-    <div class="rp-panel" data-rp="3">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、凯恩斯（大堡礁）</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">大堡礁北部门户，全球罕见同时坐拥两处世界自然遗产（大堡礁+热带雨林）的城市，玩法成熟、交通便利，是大众体验大堡礁的首选目的地。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">外堡礁出海一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">摩尔礁/阿金考特礁外海平台，含浮潜、玻璃底船、半潜水艇，可选深潜/海底漫步</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全年龄段、潜水爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">绿岛近礁休闲一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">近岸珊瑚沙岛，沙滩+浮潜结合，行程轻松风浪小</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">亲子家庭、老人小孩、恐水休闲客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">库兰达雨林一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Skyrail空中缆车上山、百年观光火车返程，雨林小镇、水陆战车、蝴蝶园</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全年龄段、自然文化爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">戴恩树雨林深度一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">世界最古老热带雨林、莫斯曼峡谷、原住民文化体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度自然玩家、文化爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">极限体验单项</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">热带雨林热气球日出、高空跳伞、大堡礁海底漫步</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日多班次</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">年轻游客、极限运动爱好者</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日经典入门款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 外堡礁出海 → Day2 库兰达雨林 → Day3 市区海滨休闲</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、短途经典打卡</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">4日深度体验款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 外堡礁 → Day2 绿岛近礁 → Day3 库兰达雨林 → Day4 热气球/跳伞极限体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度游玩、年轻体验客</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 圣灵群岛 -->
+    <!-- 路线4：悉尼市区 -->
+    <div class="rp-route-pane" data-route="au-sydney-city">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge" style="background:#1B9FE0">天天出发 新手首选</span>
+        <div class="rp-detail-hero-in">
+          <h3>悉尼市区网红地标打卡一日游</h3>
+          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含渡轮+水族馆门票</span></div>
+        </div>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="contact.html" class="btn btn-primary">立即预订</a>
+        <a href="contact.html" class="btn btn-ghost">下载行程单</a>
+      </div>
+      <section class="rp-sec"><h4>产品简介</h4><div>
+        <p>覆盖悉尼全部经典地标，海港渡轮+市区观光结合，一站式打卡歌剧院、海港大桥、岩石区、邦迪海滩。</p>
+        <p>中文导游全程讲解，适合首次到访悉尼、希望快速了解城市的游客。</p>
+      </div></section>
+      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
+        <div><div class="rp-time">09:00 市区集合</div><div>导游带队游览岩石区历史街区，讲解悉尼殖民历史与人文故事。</div></div>
+        <div><div class="rp-time">10:30 悉尼歌剧院外观+海港大桥</div><div>歌剧院外景打卡，麦考利夫人座椅拍摄经典角度，漫步海港步道。</div></div>
+        <div><div class="rp-time">12:00 达令港午餐</div><div>达令港自由午餐，可选择海鲜餐厅或快餐。</div></div>
+        <div><div class="rp-time">13:30 悉尼水族馆</div><div>参观悉尼水族馆，观赏大堡礁生态缸、鸭嘴兽、企鹅等澳洲特色生物。</div></div>
+        <div><div class="rp-time">15:30 邦迪海滩</div><div>前往邦迪海滩，漫步海滨步道，体验澳洲海滩文化。</div></div>
+        <div><div class="rp-time">17:30 返回市区解散</div><div>结束行程，送回市中心集合点。</div></div>
+      </div></section>
+      <section class="rp-sec"><h4>费用说明</h4><div>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
+        <ul><li>全程空调巴士交通</li><li>悉尼水族馆门票</li><li>海港渡轮船票</li><li>中文导游服务</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
+        <ul><li>全程午餐、个人消费</li><li>歌剧院内部参观</li><li>导游小费</li></ul>
+      </div></section>
+      <section class="rp-sec"><h4>预订须知</h4><div>
+        <p style="margin:0 0 6px">1. 天天发团，2人即可成行。</p>
+        <p style="margin:0 0 6px">2. 如遇恶劣天气，海滩行程可能调整为室内景点。</p>
+        <p style="margin:0">3. 请穿舒适步行鞋，做好防晒准备。</p>
+      </div></section>
     </div>
-    <div class="rp-panel" data-rp="4">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">五、圣灵群岛（汉密尔顿岛/艾尔利海滩）</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">大堡礁核心精华区，坐拥心形礁、白天堂沙滩两大世界级IP，水质与景观优于凯恩斯，主打高端海岛度假、浪漫蜜月与小众深度体验。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">白天堂沙滩+希尔湾一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯白硅砂沙滩、希尔湾观景台、潮汐沙画景观，沙滩浮潜</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">所有到访游客、摄影爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">哈迪外堡礁浮潜一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">外堡礁平台浮潜、深潜、水下观景舱，珊瑚与鱼类更原始</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">潜水爱好者、深度海洋体验</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">心形礁空中观光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">观光飞机/直升机，空中俯瞰心形礁、白天堂沙滩全景</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日多班次，天气许可即飞</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">情侣蜜月、高端体验客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">汉密尔顿岛休闲度假</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">猫眼海滩、高尔夫车环岛、独树山日落、日落帆船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">岛上项目可单订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">高端度假、蜜月情侣</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">出海海钓/日落帆船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深海钓鱼现钓现做、黄昏香槟帆船巡游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班次</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">美食爱好者、浪漫体验客</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日海岛精华款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 白天堂沙滩+希尔湾 → Day2 哈迪外堡礁浮潜 → Day3 心形礁空中观光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、核心打卡</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">4日度假深度款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 白天堂+外堡礁 → Day2 空中观光 → Day3 汉密尔顿岛环岛 → Day4 日落帆船</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">蜜月度假、慢节奏休闲</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 珀斯/西澳 -->
+    <!-- 路线5：蓝山日落观星 -->
+    <div class="rp-route-pane" data-route="au-blue-star">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge" style="background:#9254de">精品6人小团</span>
+        <div class="rp-detail-hero-in">
+          <h3>蓝山日落+星空观测精品小团（专业天文向导）</h3>
+          <div class="rp-meta"><span>游玩时长：半天</span><span>行程凭证：电子票</span><span>含专业望远镜+热饮</span></div>
+        </div>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="contact.html" class="btn btn-primary">立即预订</a>
+        <a href="contact.html" class="btn btn-ghost">下载行程单</a>
+      </div>
+      <section class="rp-sec"><h4>产品简介</h4><div>
+        <p>避开日间人流，下午出发欣赏蓝山金色日落，夜间在专业天文向导带领下观测南半球星空。</p>
+        <p>6人精品小团，配备高倍天文望远镜，提供热饮与小食，适合情侣、摄影爱好者与深度体验客。</p>
+      </div></section>
+      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
+        <div><div class="rp-time">14:30 悉尼市区集合出发</div><div>市区酒店接人，乘坐商务车前往蓝山。</div></div>
+        <div><div class="rp-time">16:00 观景台日落观赏</div><div>抵达林肯岩观景台，等待日落，拍摄蓝山金色峡谷与三姐妹峰黄昏景致。</div></div>
+        <div><div class="rp-time">18:30 山间晚餐</div><div>小镇餐厅享用晚餐，补充体力。</div></div>
+        <div><div class="rp-time">20:00 专业星空观测</div><div>天文向导讲解南半球星座，使用高倍望远镜观测月球、行星与星云，提供热饮与小食。</div></div>
+        <div><div class="rp-time">22:30 返回悉尼</div><div>结束行程，送回市区酒店。</div></div>
+      </div></section>
+      <section class="rp-sec"><h4>费用说明</h4><div>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
+        <ul><li>市区往返商务车接送</li><li>专业天文向导服务</li><li>高倍天文望远镜使用</li><li>夜间热饮与小食</li></ul>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
+        <ul><li>晚餐费用</li><li>个人消费</li><li>向导小费</li></ul>
+      </div></section>
+      <section class="rp-sec"><h4>预订须知</h4><div>
+        <p style="margin:0 0 6px">1. 每周二、四、六发团，6人满团，建议提前预订。</p>
+        <p style="margin:0 0 6px">2. 观星受天气影响较大，如遇阴天可视情况改期或全额退款。</p>
+        <p style="margin:0">3. 夜间山区气温较低，请携带保暖外套。</p>
+      </div></section>
     </div>
-    <div class="rp-panel" data-rp="5">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">六、珀斯 / 西澳</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">西澳大利亚州首府，印度洋海岸城市，以极致小众的自然奇观为核心，分北线（沙漠奇石）、南线（酒庄海岸）两大线路，适合深度自然玩家。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">罗特尼斯岛一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短尾矮袋鼠（Quokka）自拍、环岛骑行、纯白果冻海</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">渡轮天天出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全年龄段、网红打卡</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北线奇观一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">尖峰石阵、兰斯林白沙丘滑沙、塞万提斯龙虾餐</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">自然奇观爱好者、摄影打卡</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">波浪岩一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">世界第八大奇观波浪岩、原住民岩画、约克小镇</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">地质爱好者、小众深度游</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">玛格丽特河品酒两日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">西澳顶级葡萄酒产区、酒庄品鉴、冲浪海滩、洞穴探险</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每周固定班期/4人成团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">红酒爱好者、海滨度假</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">南线深度多日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">奥尔巴尼、埃斯佩兰斯、幸运湾袋鼠、巨人谷树顶步道</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3-5日定制/固定团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度自然玩家、全景游</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日珀斯周边精华</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 罗特尼斯岛 → Day2 尖峰石阵北线 → Day3 波浪岩</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途停留、核心奇观打卡</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日西澳南线深度</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 珀斯市区 → Day2-3 玛格丽特河 → Day4 奥尔巴尼 → Day5 埃斯佩兰斯</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长停留、深度自然游</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 塔斯马尼亚 -->
-    </div>
-    <div class="rp-panel" data-rp="6">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">七、塔斯马尼亚</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">澳洲最南端“世界尽头”，全岛近乎一半面积为世界遗产，以荒野海岸、原始雨林、珍稀萌宠、冬季南极光为特色，主打环岛多日深度游。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">霍巴特周边一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">惠灵顿山全景、里士满古镇、萨拉曼卡市集（周六限定）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日常可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途游客、美食文艺爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布鲁尼岛美食一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">生蚝农场、奶酪工坊、灯塔、荒野海岸</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">美食爱好者、小众休闲客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">酒杯湾+菲欣纳两日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">酒杯湾观景台、蜜月湾、火焰湾橙红巨石、白沙滩</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2日1晚，固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">摄影爱好者、自然深度玩家</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">摇篮山荒野两日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">摇篮山圣克莱尔湖国家公园、多芬湖徒步、雨林秘境</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2日1晚，固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">徒步爱好者、荒野自然玩家</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">环岛全景多日团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">霍巴特+朗塞斯顿+酒杯湾+摇篮山+火焰湾全岛精华</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5-7日固定团，可定制</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、全景深度游</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">季节限定体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冬季（6-8月）南极光追猎、夏季海鲜生蚝季</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">对应季节开放</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">摄影爱好者、季节体验客</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日环岛精华款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 霍巴特 → Day2 布鲁尼岛 → Day3 酒杯湾 → Day4 摇篮山 → Day5 朗塞斯顿</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、核心景点全覆盖</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7日深度环岛款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日精华基础上，增加火焰湾、斯坦利、塔斯曼半岛深度体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度游玩、全岛全景</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 阿德莱德/南澳 -->
-    </div>
-    <div class="rp-panel" data-rp="7">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">八、阿德莱德 / 南澳</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">南澳大利亚州首府，澳洲“美酒美食之都”，周边坐拥袋鼠岛生态秘境与芭萝莎顶级产区，是澳洲酒旅与海岛生态的核心目的地。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">芭萝莎酒庄一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">奔富等顶级酒庄品鉴、德国汉多夫小镇、田园风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">天天发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">红酒爱好者、商务休闲</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">袋鼠岛生态一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">海豹湾海狮、小撒哈拉滑沙、神奇岩石、野生考拉袋鼠</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">自然生态爱好者、亲子家庭</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">袋鼠岛深度两日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">加弗林德斯蔡斯国家公园、旗舰拱门、日落星空体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2日1晚，固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度自然玩家、摄影爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">阿德莱德市区一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">中央市场、蓝道购物城、格莱内尔格海滩</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日常可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">休闲观光、美食探店客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">大洋路西段衔接游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">甘比尔山蓝湖、洞穴花园、大洋路西段海岸</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">可定制衔接</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">跨城连游、自驾环线客</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日南澳精华款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 市区观光 → Day2 芭萝莎酒庄 → Day3 袋鼠岛一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途停留、酒+生态双体验</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">4日深度体验款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 市区+芭萝莎 → Day2-3 袋鼠岛两日深度 → Day4 返程休闲</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度生态、摄影创作</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 乌鲁鲁/北领地 -->
-    </div>
-    <div class="rp-panel" data-rp="8">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">九、乌鲁鲁 / 北领地</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">澳洲红土中心，世界文化与自然双遗产，以艾尔斯岩巨石、原住民文化、沙漠星空为核心，是澳洲标志性的深度文化与自然体验目的地。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">乌鲁鲁经典一日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日出观景、卡塔丘塔风之谷徒步、原住民文化中心</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日可订</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次到访、经典打卡客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">乌鲁鲁日落+夜间体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">日落香槟、寂静之声星空晚宴、原野星光艺术展</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每晚开放</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">高端度假、浪漫体验、摄影爱好者</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">帝王谷一日/两日游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">帝王谷边缘徒步、红土峡谷奇观，可选沙漠过夜</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">每日固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">徒步爱好者、深度自然玩家</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">红土中心多日团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">乌鲁鲁+卡塔丘塔+帝王谷+爱丽丝泉全景</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3-5日固定团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全景深度玩家、内陆探索客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">原住民文化体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">丛林徒步、点画艺术、原住民美食、星空讲解</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">可定制搭配</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">文化爱好者、深度体验客</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2日经典打卡款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 乌鲁鲁日出+卡塔丘塔徒步 → Day2 日落+原野星光晚宴</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途停留、地标打卡</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3日深度体验款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Day1 乌鲁鲁经典一日 → Day2 帝王谷徒步 → Day3 原住民文化+星空晚宴</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度游玩、文化自然双体验</td></tr>
-    </tbody>
-  </table>
-    </div>
+    <!-- 占位：其余分组 -->
+    <div class="rp-route-pane" data-route="au-melbourne"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-qld"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-cairns"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-whitsunday"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-perth"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-tas"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-adelaide"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-uluru"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
   </div>
+</div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：悉尼 © 实拍；悉尼歌剧院与海港桥 © Wyncliffe, CC0；乌鲁鲁 © Weyf, CC0；十二门徒 © Jack Heywood, Public Domain.</p></div>`;
 

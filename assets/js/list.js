@@ -32,17 +32,49 @@
     if(rp){
       rp.innerHTML = hasPlan ? window.REGION_PLANS[q] : '';
       rp.hidden = !hasPlan;
-      // 子页新布局：左侧吸顶导航切换右侧分面板
-      const nav = rp.querySelector('.rp-nav');
-      if(nav){
-        const btns = nav.querySelectorAll('button[data-rp]');
-        const panels = rp.querySelectorAll('.rp-panel[data-rp]');
-        const activate = idx => {
-          btns.forEach(b=>b.classList.toggle('active', b.dataset.rp===idx));
-          panels.forEach(p=>p.classList.toggle('active', p.dataset.rp===idx));
+      // 子页新布局 v2：2级分组导航 + 路线详情卡（.rp-nav2）
+      const nav2 = rp.querySelector('.rp-nav2');
+      if(nav2){
+        const groups = nav2.querySelectorAll('.rp-group');
+        groups.forEach(g=>{
+          const title=g.querySelector('.rp-group-title');
+          const arrow=g.querySelector('.rp-arrow');
+          title.addEventListener('click',()=>{
+            const open=g.classList.toggle('open');
+            if(arrow) arrow.textContent = open ? '▼' : '▶';
+          });
+        });
+        const routes = nav2.querySelectorAll('.rp-route');
+        const panes = rp.querySelectorAll('.rp-route-pane');
+        const activateRoute = rid => {
+          routes.forEach(r=>r.classList.toggle('active', r.dataset.route===rid));
+          panes.forEach(p=>p.classList.toggle('active', p.dataset.route===rid));
+          if(window.innerWidth <= 760){ const da=rp.querySelector('.rp-detail-area'); if(da) da.scrollIntoView({behavior:'smooth',block:'start'}); }
         };
-        btns.forEach(b=> b.addEventListener('click', ()=>activate(b.dataset.rp)) );
-        activate('0');
+        routes.forEach(r=> r.addEventListener('click', ()=>{
+          const grp=r.closest('.rp-group');
+          if(grp && !grp.classList.contains('open')){
+            grp.classList.add('open');
+            const ar=grp.querySelector('.rp-arrow'); if(ar) ar.textContent='▼';
+          }
+          activateRoute(r.dataset.route);
+        }) );
+        // 默认激活第一个（悉尼及周边第一条）
+        const first = routes[0];
+        if(first) activateRoute(first.dataset.route);
+      } else {
+        // 子页旧布局：分区 tab → 面板（.rp-nav / .rp-panel）
+        const nav = rp.querySelector('.rp-nav');
+        if(nav){
+          const btns = nav.querySelectorAll('button[data-rp]');
+          const panels = rp.querySelectorAll('.rp-panel[data-rp]');
+          const activate = idx => {
+            btns.forEach(b=>b.classList.toggle('active', b.dataset.rp===idx));
+            panels.forEach(p=>p.classList.toggle('active', p.dataset.rp===idx));
+          };
+          btns.forEach(b=> b.addEventListener('click', ()=>activate(b.dataset.rp)) );
+          activate('0');
+        }
       }
       // 子页 Banner 轮播（仅 europe 等含 .rp-slides 的块）
       const slides = rp.querySelectorAll('.rp-slide');
