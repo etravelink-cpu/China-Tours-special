@@ -254,8 +254,8 @@ a{color:inherit;text-decoration:none}
 .region-hero iframe.region-map-img{aspect-ratio:16/10}
 
 /* === 子页新布局：Banner + 左吸顶导航 + 右分面板 === */
-.rp-banner{position:relative;max-width:1200px;margin:0 auto 24px;border-radius:16px;overflow:hidden;min-height:300px;display:flex;align-items:center;background-size:cover;background-position:center;background-color:#0a2a3a}
-.rp-slides{position:absolute;inset:0}
+.rp-banner{position:relative;max-width:1200px;margin:0 auto 24px;border-radius:16px;overflow:hidden;min-height:300px;display:flex;align-items:center;background-size:cover;background-position:center;background-color:#0a2a3a;isolation:isolate;z-index:0}
+.rp-slides{position:absolute;inset:0;z-index:0}
 .rp-slide{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity .9s ease}
 .rp-slide.active{opacity:1}
 .rp-banner-in{position:relative;z-index:2;padding:36px 40px;color:#fff;text-align:center;margin:0 auto;max-width:760px}
