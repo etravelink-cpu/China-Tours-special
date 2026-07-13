@@ -55,7 +55,13 @@ window.REGION_PLANS.australia = `
     </div>
     <div class="rp-group" data-group="adelaide">
       <div class="rp-group-title">阿德莱德 / 南澳 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-adelaide">芭萝莎酒庄 / 袋鼠岛</div></div>
+      <div class="rp-group-list">
+        <div class="rp-route" data-route="au-adl-kid">袋鼠岛精华一日游</div>
+        <div class="rp-route" data-route="au-adl-mrd">穆理河仙履奇缘一日游</div>
+        <div class="rp-route" data-route="au-adl-bvd">红酒之乡巴罗莎谷一日游</div>
+        <div class="rp-route" data-route="au-adl-hmv">阿德莱德市区与汗道夫德国村一日游</div>
+        <div class="rp-route" data-route="au-adl-fpd">菲尔半岛一日游</div>
+      </div>
     </div>
     <div class="rp-group" data-group="uluru">
       <div class="rp-group-title">乌鲁鲁 / 北领地 <span class="rp-arrow">▶</span></div>
@@ -301,7 +307,126 @@ window.REGION_PLANS.australia = `
     <div class="rp-route-pane" data-route="au-whitsunday"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
     <div class="rp-route-pane" data-route="au-perth"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
     <div class="rp-route-pane" data-route="au-tas"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
-    <div class="rp-route-pane" data-route="au-adelaide"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
+    <div class="rp-route-pane" data-route="au-adl-kid">
+      <div class="rp-detail-hero">
+        <div class="rp-detail-hero-in">
+          <h3>袋鼠岛精华一日游（中文）</h3>
+          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+        </div>
+      </div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>探访澳洲 Wildlife 宝库袋鼠岛，近距离观赏野生袋鼠、考拉、海狮与企鹅，漫步神奇岩石与旗舰拱门，沉浸原始海岸与自然保护区。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 渡轮/车经杰维斯角 → 袋鼠岛野生动物保护区 → 神奇岩石 → 旗舰拱门 → 傍晚返回市区。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、景区门票、部分餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差（一日游无）。<br><b>参考市场价：</b>成人 A$388 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；出海与野生动物受季节与天气影响，行程顺序可能调整；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-adl-mrd">
+      <div class="rp-detail-hero">
+        <div class="rp-detail-hero-in">
+          <h3>穆理河仙履奇缘一日游</h3>
+          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+        </div>
+      </div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>畅游南澳母亲河穆理河，乘特色游船赏河畔风光与野生生态，童话小镇慢游，体验"仙履奇缘"般的田园诗意。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 穆理河游船 → 河畔酒庄品鉴 → 童话小镇自由活动 → 傍晚返回市区。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、游船票、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；游船受水位与天气影响；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-adl-bvd">
+      <div class="rp-detail-hero">
+        <div class="rp-detail-hero-in">
+          <h3>红酒之乡巴罗莎谷一日游</h3>
+          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物（仅限1-3月；4-12月走粉湖）</div>
+        </div>
+      </div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>探访澳洲最负盛名红酒产区巴罗莎谷，多家名庄品鉴设拉子，领略葡萄园山谷风光；4-12月班期改走粉湖（粉红湖）奇观。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 巴罗莎谷酒庄巡礼 → 品酒午餐 →（季节）粉湖或峡谷 → 傍晚返回市区。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、酒庄品鉴、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>1-3月走巴罗莎谷，4-12月走粉湖；四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-adl-hmv">
+      <div class="rp-detail-hero">
+        <div class="rp-detail-hero-in">
+          <h3>阿德莱德市区与汗道夫德国村一日游</h3>
+          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+        </div>
+      </div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>游览阿德莱德市区地标与维多利亚风格建筑，深入澳洲最古老德国移民村汗道夫，品德式猪手香肠，感受欧洲风情。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区观光（议会大厦/维多利亚广场）→ 德国村汗道夫自由活动与午餐 → 傍晚返回市区。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-adl-fpd">
+      <div class="rp-detail-hero">
+        <div class="rp-detail-hero-in">
+          <h3>菲尔半岛一日游</h3>
+          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+        </div>
+      </div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>驰骋菲尔半岛，搭乘复古观光小火车，探访海岸小镇与葡萄酒庄，享受南澳最惬意的海滨一日。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 菲尔半岛观光小火车 → 酒庄/海岸小镇 → 傍晚返回市区。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、小火车票、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
+    </div>
     <div class="rp-route-pane" data-route="au-uluru"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
   </div>
 </div>`;
