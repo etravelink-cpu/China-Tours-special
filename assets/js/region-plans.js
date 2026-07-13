@@ -742,4 +742,22 @@
   </table>
 
 </div>`;
+  window.REGION_PLANS.china = `
+<div class="region-hero">
+  <img src="assets/img/china-map.jpg" alt="中国分区地图" class="region-map-img">
+</div>
+<div style="max-width: 1200px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6;">
+
+  <h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">中国分区行程规划</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">内容整理中，敬请期待。以下分区框架供后续填充真实线路：</p>
+
+  <!-- 一、华北（北京 / 天津 / 河北） -->
+  <!-- 二、华东（上海 / 江浙 / 安徽） -->
+  <!-- 三、华南（广东 / 广西 / 海南） -->
+  <!-- 四、西南（川渝 / 云贵 / 西藏） -->
+  <!-- 五、西北（陕甘宁 / 新疆 / 青甘） -->
+  <!-- 六、东北（黑吉辽） -->
+  <!-- 经典连游组合 -->
+
+</div>`;
 })();
