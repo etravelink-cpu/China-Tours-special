@@ -46,8 +46,7 @@ window.EtripsForm = {
     const dots = document.getElementById('hero-dots');
     if(!wrap) return;
     wrap.innerHTML = HERO.map((s,i)=>`
-      <div class="hero-slide${i===0?' active':''}" style="background-image:linear-gradient(90deg,rgba(14,42,71,.5),rgba(14,42,71,.2) 55%,rgba(14,42,71,0)),url('${s.img}')">
-        <div class="hero-overlay"></div>
+      <div class="hero-slide${i===0?' active':''}" style="background-image:url('${s.img}')">
         <div class="container hero-content">
           <p class="hero-tagline">${s.tag}</p>
           <h1>${s.h1}</h1>
