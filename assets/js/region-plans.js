@@ -8,6 +8,8 @@
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/hero-sydney.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/au-sydney.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/au-uluru.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/au-apostles.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>澳大利亚 · 分区行程规划</h1>
@@ -346,13 +348,15 @@
     </div>
   </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：悉尼 © 实拍；悉尼歌剧院与海港桥 © Wyncliffe, CC0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：悉尼 © 实拍；悉尼歌剧院与海港桥 © Wyncliffe, CC0；乌鲁鲁 © Weyf, CC0；十二门徒 © Jack Heywood, Public Domain.</p></div>`;
 
   window.REGION_PLANS.nz = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/nz-hero.webp')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-milford.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-queenstown.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-cook.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>新西兰 · 分区行程规划</h1>
@@ -470,13 +474,15 @@
     </div>
   </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
 
   window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/asia-guilin.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/asia-fushimi.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/asia-halong.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>亚洲 · 分区行程规划</h1>
@@ -620,7 +626,7 @@
     </div>
   </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：富士山 © 实拍；桂林漓江 © chensiyuan, CC BY-SA 4.0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：富士山 © 实拍；桂林漓江 © chensiyuan, CC BY-SA 4.0；京都伏见稻荷 © Paul Vlaar, CC BY-SA 3.0；下龙湾 © CC0.</p></div>`;
 
   window.REGION_PLANS.europe = `
 <div class="rp-banner">
@@ -870,6 +876,8 @@
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/cn-westlake.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>中国 · 分区行程规划</h1>
@@ -1038,5 +1046,5 @@
     </div>
   </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：长城 © Wikimedia (Public Domain)；故宫神武门 © kallgan, CC BY-SA 3.0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：长城 © Wikimedia (Public Domain)；故宫神武门 © kallgan, CC BY-SA 3.0；张家界 © Kuruman, CC BY 2.0；西湖 © CC BY-SA 3.0.</p></div>`;
 })();
