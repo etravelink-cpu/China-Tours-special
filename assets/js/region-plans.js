@@ -83,7 +83,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div><p>精选蓝山国家公园核心景观，搭配澳洲本土野生动物园，11人精品奔驰小团出行，市区酒店免费接送，全程中文导游讲解。</p><p>一站打卡三姐妹峰、网红景观缆车、英伦卢拉小镇与 Featherdale 野生动物园，可近距离抱考拉合影，适合家庭出行与休闲观光。</p></div></section>
@@ -129,7 +130,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
@@ -175,7 +177,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
@@ -221,7 +224,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
@@ -268,7 +272,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goConsult(this)">在线咨询</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
         <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>

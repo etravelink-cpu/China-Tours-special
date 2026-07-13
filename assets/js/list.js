@@ -148,6 +148,21 @@
     }
   };
 
+  // 立即预订：带团名 + 出发日期跳 booking.html
+  window.goBook = function(btn){
+    const pane = btn.closest('.rp-route-pane');
+    if(!pane){ location.href = 'booking.html'; return; }
+    const title = (pane.querySelector('.rp-detail-hero-in h3') || {}).textContent || '';
+    const sel = pane.querySelector('.rp-date-select');
+    const inp = pane.querySelector('.rp-date-input');
+    let date = sel ? sel.value : '';
+    if(date === '__custom__') date = inp && inp.value ? inp.value : '';
+    const params = new URLSearchParams();
+    params.set('route', title);
+    if(date) params.set('date', date);
+    location.href = 'booking.html?' + params.toString();
+  };
+
   // 在线咨询：带团名 + 出发日期跳 contact.html
   window.goConsult = function(btn){
     const pane = btn.closest('.rp-route-pane');

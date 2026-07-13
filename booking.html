@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="assets/img/logo.png">
+  <title>预订请求 · Etrips 国安易游</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    .bk-wrap{max-width:680px;margin:0 auto}
+    .bk-card{background:#fff;border:1px solid #e6eef5;border-radius:14px;padding:22px;box-shadow:0 4px 14px rgba(14,42,71,.06)}
+    .bk-row{margin-bottom:18px}
+    .bk-row label{display:block;font-size:14px;font-weight:600;color:#333;margin-bottom:8px}
+    .bk-row .req{color:#e23b3b;margin-left:2px}
+    .bk-input,.bk-select{padding:10px 12px;border:1px solid #d6e3ee;border-radius:8px;font-size:14px;font-family:inherit;width:100%;box-sizing:border-box;color:#333}
+    .bk-input:focus,.bk-select:focus{outline:none;border-color:#1B9FE0}
+    .bk-pax{display:flex;align-items:center;justify-content:space-between;padding:12px 0;border-bottom:1px solid #f0f0f0}
+    .bk-pax:last-child{border-bottom:0}
+    .bk-pax-name{font-size:15px;font-weight:600;color:#333}
+    .bk-pax-price{font-size:12px;color:#888;margin-top:2px}
+    .bk-stepper{display:flex;align-items:center;gap:10px}
+    .bk-stepper button{width:32px;height:32px;border-radius:8px;border:1px solid #d6e3ee;background:#fff;font-size:18px;cursor:pointer;color:#1B9FE0;line-height:1}
+    .bk-stepper button:hover{background:#e9f4fc}
+    .bk-stepper input{width:46px;text-align:center;border:1px solid #d6e3ee;border-radius:8px;padding:7px 0;font-size:14px}
+    .bk-subtotal{background:#f0f7fc;border-radius:10px;padding:14px 16px;margin:18px 0;font-size:15px}
+    .bk-subtotal b{color:#1B9FE0;font-size:18px}
+    .bk-note{font-size:12px;color:#999;margin-top:6px;line-height:1.6}
+    .bk-actions{display:flex;gap:12px;margin-top:8px}
+    .bk-actions .btn{flex:1;text-align:center}
+    @media(max-width:760px){.bk-actions{flex-direction:column}}
+  </style>
+</head>
+<body>
+  <header class="site-header" id="site-header"></header>
+  <div class="float-bar" id="float-bar"></div>
+
+  <section class="section" style="padding-top:80px">
+    <div class="container">
+      <h2 class="section-title" style="text-align:center">行程预订请求</h2>
+      <p style="text-align:center;color:#666;margin:0 0 24px">填写路线、日期与乘客信息，提交后客服将通过 WhatsApp 与您确认余位与价格。</p>
+
+      <div class="bk-wrap">
+        <div class="bk-card">
+          <div class="bk-row">
+            <label>路线 / Route<span class="req">*</span></label>
+            <input id="bk-route" class="bk-input" type="text" placeholder="如：蓝山有氧+动物园一日游">
+          </div>
+          <div class="bk-row">
+            <label>出发日期 / Date<span class="req">*</span></label>
+            <input id="bk-date" class="bk-input" type="date">
+          </div>
+
+          <div class="bk-row">
+            <label>乘客人数 / Passengers</label>
+            <div id="bk-pax">
+              <div class="bk-pax" data-type="成人" data-price="0">
+                <div><div class="bk-pax-name">成人 Adult</div><div class="bk-pax-price" data-price-label>单价：待确认</div></div>
+                <div class="bk-stepper"><button type="button" onclick="step(this,-1)">−</button><input type="number" min="0" value="0" onchange="recalc()"><button type="button" onclick="step(this,1)">+</button></div>
+              </div>
+              <div class="bk-pax" data-type="儿童" data-price="0">
+                <div><div class="bk-pax-name">儿童 Child</div><div class="bk-pax-price" data-price-label>单价：待确认</div></div>
+                <div class="bk-stepper"><button type="button" onclick="step(this,-1)">−</button><input type="number" min="0" value="0" onchange="recalc()"><button type="button" onclick="step(this,1)">+</button></div>
+              </div>
+              <div class="bk-pax" data-type="婴儿" data-price="0">
+                <div><div class="bk-pax-name">婴儿 Infant</div><div class="bk-pax-price" data-price-label>单价：待确认</div></div>
+                <div class="bk-stepper"><button type="button" onclick="step(this,-1)">−</button><input type="number" min="0" value="0" onchange="recalc()"><button type="button" onclick="step(this,1)">+</button></div>
+              </div>
+            </div>
+            <div class="bk-note">价格以客服最终确认为准；本页单价为占位，待官方公布后更新。</div>
+          </div>
+
+          <div class="bk-subtotal">预估小计：<b id="bk-total">待确认</b></div>
+
+          <div class="bk-row">
+            <label>联系人 / Name<span class="req">*</span></label>
+            <input id="bk-name" class="bk-input" type="text" placeholder="您的称呼" autocomplete="name">
+          </div>
+          <div class="bk-row">
+            <label>联系电话 / Phone<span class="req">*</span></label>
+            <input id="bk-phone" class="bk-input" type="tel" placeholder="微信或手机号" autocomplete="tel">
+          </div>
+          <div class="bk-row">
+            <label>备注 / Remark</label>
+            <textarea id="bk-remark" class="bk-input" rows="3" placeholder="特殊需求、接送地址等"></textarea>
+          </div>
+
+          <div class="bk-actions">
+            <a href="javascript:void(0)" class="btn btn-primary" onclick="submitBooking()">提交预订请求（WhatsApp）</a>
+            <a href="javascript:void(0)" class="btn btn-ghost" onclick="submitBookingMail()">提交（邮件）</a>
+          </div>
+          <div id="bk-tip" style="text-align:center;margin-top:14px;font-size:14px;color:#1B9FE0"></div>
+        </div>
+        <div id="bk-channels" style="margin:24px auto 0"></div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer" id="site-footer"></footer>
+
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/region-plans.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script>
+    (function(){
+      const q = new URLSearchParams(location.search);
+      const route = q.get('route') || '';
+      const date = q.get('date') || '';
+      if(route) document.getElementById('bk-route').value = route;
+      if(date) document.getElementById('bk-date').value = date;
+      const ch = document.getElementById('bk-channels');
+      if(window.contactChannels) ch.innerHTML = window.contactChannels(window.Etrips ? window.Etrips.getLang() : 'zh');
+    })();
+
+    function step(btn, d){
+      const inp = btn.parentElement.querySelector('input');
+      let v = parseInt(inp.value,10) || 0;
+      v = Math.max(0, v + d);
+      inp.value = v; recalc();
+    }
+    function recalc(){
+      // 单价占位：待确认 -> 小计显示"待确认"
+      const rows = document.querySelectorAll('#bk-pax .bk-pax');
+      let anyQty = false, allKnown = true;
+      rows.forEach(r=>{
+        const n = parseInt(r.querySelector('input').value,10)||0;
+        if(n>0) anyQty = true;
+        const p = parseFloat(r.getAttribute('data-price'))||0;
+        if(n>0 && p===0) allKnown = false;
+      });
+      const total = document.getElementById('bk-total');
+      if(!anyQty){ total.textContent = '待确认'; return; }
+      if(!allKnown){ total.textContent = '待确认（价格待官方公布）'; return; }
+      let sum = 0;
+      rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; const p=parseFloat(r.getAttribute('data-price'))||0; sum += n*p; });
+      total.textContent = 'A$ ' + sum.toLocaleString('en-AU',{minimumFractionDigits:2,maximumFractionDigits:2});
+    }
+    function buildMsg(){
+      const route = document.getElementById('bk-route').value.trim();
+      const date = document.getElementById('bk-date').value;
+      const name = document.getElementById('bk-name').value.trim();
+      const phone = document.getElementById('bk-phone').value.trim();
+      const remark = document.getElementById('bk-remark').value.trim();
+      let lines = ['【预订请求】'];
+      if(route) lines.push('路线：' + route);
+      if(date) lines.push('出发日期：' + date);
+      const rows = document.querySelectorAll('#bk-pax .bk-pax');
+      let pax = [];
+      rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; if(n>0) pax.push(r.getAttribute('data-type')+'×'+n); });
+      if(pax.length) lines.push('乘客：' + pax.join('，'));
+      lines.push('联系人：' + (name||'-') + ' / ' + (phone||'-'));
+      if(remark) lines.push('备注：' + remark);
+      return encodeURIComponent(lines.join('\n'));
+    }
+    function submitBooking(){
+      const tip = document.getElementById('bk-tip');
+      const route = document.getElementById('bk-route').value.trim();
+      const date = document.getElementById('bk-date').value;
+      const phone = document.getElementById('bk-phone').value.trim();
+      if(!route || !date){ tip.style.color='#e23b3b'; tip.textContent='请填写路线与出发日期。'; return; }
+      if(!phone){ tip.style.color='#e23b3b'; tip.textContent='请留下联系电话或微信。'; return; }
+      const wa = (window.CONTACT && window.CONTACT.whatsapp || '+61 410 740 695').replace(/[^0-9]/g,'');
+      location.href = 'https://wa.me/' + wa + '?text=' + buildMsg();
+    }
+    function submitBookingMail(){
+      const tip = document.getElementById('bk-tip');
+      const route = document.getElementById('bk-route').value.trim();
+      const date = document.getElementById('bk-date').value;
+      const phone = document.getElementById('bk-phone').value.trim();
+      if(!route || !date){ tip.style.color='#e23b3b'; tip.textContent='请填写路线与出发日期。'; return; }
+      if(!phone){ tip.style.color='#e23b3b'; tip.textContent='请留下联系电话或微信。'; return; }
+      const email = (window.CONTACT && window.CONTACT.email) || 'info@etravelink.com.au';
+      const subj = encodeURIComponent('预订请求：' + route + (date?(' ' + date):''));
+      location.href = 'mailto:' + email + '?subject=' + subj + '&body=' + buildMsg();
+    }
+  </script>
+</body>
+</html>
