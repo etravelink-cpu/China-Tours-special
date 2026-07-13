@@ -27,6 +27,13 @@
     .bk-note{font-size:12px;color:#999;margin-top:6px;line-height:1.6}
     .bk-actions{display:flex;gap:12px;margin-top:8px}
     .bk-actions .btn{flex:1;text-align:center}
+    .bk-detail{margin:30px auto 0;background:#fff;border:1px solid #e6eef5;border-radius:14px;padding:22px;box-shadow:0 4px 14px rgba(14,42,71,.06)}
+    .bk-detail-title{font-size:18px;color:#1B9FE0;margin:0 0 14px;padding-bottom:8px;border-bottom:2px solid #1B9FE0}
+    .bk-detail-body .rp-sec{padding:0 0 16px;border-bottom:1px solid #f0f0f0}
+    .bk-detail-body .rp-sec:last-child{border-bottom:0}
+    .bk-detail-body .rp-sec h4{font-size:15px;color:#222;margin:0 0 8px;padding-left:10px;border-left:3px solid #1B9FE0}
+    .bk-detail-body .rp-sec p,.bk-detail-body .rp-sec li{color:#444;font-size:14px;line-height:1.7}
+    .bk-detail-empty{color:#999;font-size:13px;text-align:center;padding:10px 0}
     @media(max-width:760px){.bk-actions{flex-direction:column}}
   </style>
 </head>
@@ -91,6 +98,10 @@
           <div id="bk-tip" style="text-align:center;margin-top:14px;font-size:14px;color:#1B9FE0"></div>
         </div>
         <div id="bk-channels" style="margin:24px auto 0"></div>
+        <div id="bk-detail" class="bk-detail" style="display:none">
+          <h3 class="bk-detail-title" id="bk-detail-title"></h3>
+          <div id="bk-detail-body"></div>
+        </div>
       </div>
     </div>
   </section>
@@ -109,8 +120,36 @@
       if(route) document.getElementById('bk-route').value = route;
       if(date) document.getElementById('bk-date').value = date;
       const ch = document.getElementById('bk-channels');
-      if(window.contactChannels) ch.innerHTML = window.contactChannels(window.Etrips ? window.Etrips.getLang() : 'zh');
-    })();
+      try { if(window.contactChannels) ch.innerHTML = window.contactChannels(window.Etrips ? window.Etrips.getLang() : 'zh'); } catch(e) {}
+      renderDetail(route);
+
+      function renderDetail(routeName){
+        const box = document.getElementById('bk-detail');
+        const body = document.getElementById('bk-detail-body');
+        const titleEl = document.getElementById('bk-detail-title');
+        body.innerHTML = '';
+        if(!routeName || !window.REGION_PLANS){ box.style.display='none'; return; }
+        // 在所有板块的 pane 里匹配标题包含 routeName 的
+        let found = null;
+        for(const key in window.REGION_PLANS){
+          const tmp = document.createElement('div');
+          tmp.innerHTML = window.REGION_PLANS[key];
+          const panes = tmp.querySelectorAll('.rp-route-pane');
+          for(const p of panes){
+            const h = p.querySelector('.rp-detail-hero-in h3');
+            const t = h ? h.textContent : '';
+            if(t && t.indexOf(routeName.replace(/【|】/g,'')) > -1){ found = p; break; }
+          }
+          if(found) break;
+        }
+        if(!found){ box.style.display='none'; return; }
+        const title = found.querySelector('.rp-detail-hero-in h3');
+        if(title) titleEl.textContent = '产品详情：' + title.textContent;
+        const secs = found.querySelectorAll('.rp-sec');
+        if(!secs.length){ box.style.display='none'; return; }
+        secs.forEach(s=> body.appendChild(s.cloneNode(true)));
+        box.style.display = 'block';
+      }
 
     function step(btn, d){
       const inp = btn.parentElement.querySelector('input');
@@ -173,6 +212,7 @@
       const subj = encodeURIComponent('预订请求：' + route + (date?(' ' + date):''));
       location.href = 'mailto:' + email + '?subject=' + subj + '&body=' + buildMsg();
     }
+    })();
   </script>
 </body>
 </html>

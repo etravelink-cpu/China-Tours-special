@@ -83,9 +83,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
-        <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div><p>精选蓝山国家公园核心景观，搭配澳洲本土野生动物园，11人精品奔驰小团出行，市区酒店免费接送，全程中文导游讲解。</p><p>一站打卡三姐妹峰、网红景观缆车、英伦卢拉小镇与 Featherdale 野生动物园，可近距离抱考拉合影，适合家庭出行与休闲观光。</p></div></section>
       <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
@@ -130,9 +129,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
-        <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
         <p>史蒂芬港被誉为"澳洲海豚之都"，常年栖息超150只宽吻海豚，遇见率高达99%。</p>
@@ -177,9 +175,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
-        <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
         <p>澳洲历史最悠久的葡萄酒产区，精选3家特色精品酒庄，品鉴西拉、赛美蓉等经典酒款。</p>
@@ -224,9 +221,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
-        <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
         <p>覆盖悉尼全部经典地标，海港渡轮+市区观光结合，一站式打卡歌剧院、海港大桥、岩石区、邦迪海滩。</p>
@@ -272,9 +268,8 @@ window.REGION_PLANS.australia = `
         </div>
       </div>
       <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">立即预订</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="goConsult(this)">在线咨询</a>
-        <a href="javascript:void(0)" class="btn btn-ghost" onclick="window.printRoute(this)">下载行程单</a>
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
       </div>
       <section class="rp-sec"><h4>产品简介</h4><div>
         <p>避开日间人流，下午出发欣赏蓝山金色日落，夜间在专业天文向导带领下观测南半球星空。</p>
