@@ -754,6 +754,8 @@
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/cruise.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/cruise-oceanliner.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/cruise-venice.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/cruise-costa.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>邮轮 · 分区行程规划</h1>
@@ -862,7 +864,7 @@
     </div>
   </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
   window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
