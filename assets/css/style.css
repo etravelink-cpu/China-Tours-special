@@ -432,6 +432,11 @@ body.printing-route #print-header{display:block}
   body.printing-route .rp-detail-area{border:0!important;overflow:visible!important}
   body.printing-route .rp-route-pane.active{display:block!important;animation:none}
   body.printing-route .rp-route-pane.active .rp-sec h4{border-left-color:#1B9FE0;color:#222;background:none}
+  body.printing-route .rp-route-pane.active .rp-sec{
+    border:1px solid #d9e2ea;border-radius:8px;padding:12px 14px;margin-bottom:10px;
+    page-break-inside:avoid;
+  }
+  body.printing-route .rp-route-pane.active .rp-sec h4{margin-top:0}
   body.printing-route .rp-route-pane.active .rp-sec li,
   body.printing-route .rp-route-pane.active .rp-sec p,
   body.printing-route .rp-route-pane.active .rp-timeline>div>div:last-child{color:#333}
