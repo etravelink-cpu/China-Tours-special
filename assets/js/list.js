@@ -180,9 +180,8 @@
     location.href = 'contact.html?' + params.toString();
   };
 
-  // 返回：优先 history.back()，无历史则回主页
+  // 返回：固定回本站主页（避免从外链直进时 history.back 跳出本站）
   window.goBack = function(){
-    if(history.length > 1) history.back();
-    else location.href = 'index.html';
+    location.href = 'index.html';
   };
 })();
