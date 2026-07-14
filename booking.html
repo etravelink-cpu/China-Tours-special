@@ -243,7 +243,7 @@
       const remark = document.getElementById('bk-remark').value.trim();
       const body = buildMsg();
       // ---- 真实发送：EmailJS（纯前端）----
-      const EMAILJS = { serviceID:'service_o6p45jq', templateID:'template_yxlb4dp', publicKey:'nZv17YnCO1xz5uLPZ', toEmail:'etripsetrips@gmail.com' };
+      const EMAILJS = { serviceID:'service_o6p45jq', templateID:'template_yxlb4dp', autoReplyID:'template_autoreply', publicKey:'nZv17YnCO1xz5uLPZ', toEmail:'etripsetrips@gmail.com' };
       if(typeof emailjs === 'undefined'){
         tip.style.color='#e23b3b';
         tip.textContent='邮件组件加载失败，请检查网络后重试，或通过微信/WhatsApp联系客服。';
@@ -258,6 +258,12 @@
         route: route, date: date, name: name, phone: phone, email: email, remark: remark,
         pax: pax.join('，'), body: body
       }).then(()=>{
+        // 自动回复客人（仅当填了邮箱）
+        if(email && EMAILJS.autoReplyID){
+          emailjs.send(EMAILJS.serviceID, EMAILJS.autoReplyID, {
+            name: name, email: email, body: body, route: route, date: date
+          }).catch(()=>{}); // 自动回复失败不影响主流程
+        }
         tip.style.color='#1aa06b'; tip.textContent='预订请求已发送！行程单已随邮件送达，客服将尽快与您确认余位与价格（可扫码添加微信/WhatsApp）。';
       }).catch((err)=>{
         tip.style.color='#e23b3b'; tip.textContent='发送失败，请稍后重试或通过微信/WhatsApp联系客服。';
