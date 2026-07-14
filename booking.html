@@ -51,7 +51,7 @@
         <div class="bk-card">
           <div class="bk-row">
             <label>路线 / Route<span class="req">*</span></label>
-            <input id="bk-route" class="bk-input" type="text" placeholder="如：蓝山有氧+动物园一日游">
+            <input id="bk-route" class="bk-input" type="text" placeholder="如：蓝山有氧+动物园一日游" oninput="renderDetail(this.value.trim())">
           </div>
           <div class="bk-row">
             <label>出发日期 / Date<span class="req">*</span></label>
@@ -139,7 +139,7 @@
           const panes = tmp.querySelectorAll('.rp-route-pane');
           for(const p of panes){
             const h = p.querySelector('.rp-detail-hero-in h3');
-            const t = h ? h.textContent : '';
+            const t = h ? h.textContent.replace(/【|】/g,'') : '';
             if(t && t.indexOf(routeName.replace(/【|】/g,'')) > -1){ found = p; break; }
           }
           if(found) break;
@@ -190,6 +190,7 @@
     }
     function buildMsg(){
       const route = document.getElementById('bk-route').value.trim();
+      renderDetail(route); // 提交前按当前路线刷新详情，确保邮件含行程单
       const date = document.getElementById('bk-date').value;
       const name = document.getElementById('bk-name').value.trim();
       const phone = document.getElementById('bk-phone').value.trim();
@@ -277,6 +278,7 @@
     window.step = step;
     window.recalc = recalc;
     window.submitBookingMail = submitBookingMail;
+    window.renderDetail = renderDetail;
     })();
   </script>
 </body>
