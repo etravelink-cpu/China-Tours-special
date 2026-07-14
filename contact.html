@@ -83,7 +83,6 @@
       tip.style.color='#1B9FE0'; tip.textContent='正在发送…';
       emailjs.init(EMAILJS.publicKey);
       emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
-        to_email: EMAILJS.toEmail,
         route: '在线咨询', date: '', name: name, phone: phone, remark: msg,
         pax: '', body: body
       }).then(()=>{
