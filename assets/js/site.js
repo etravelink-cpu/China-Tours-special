@@ -124,6 +124,12 @@
     el.innerHTML = `
       <div class="footer-card">
       <div class="footer-inner">
+        <nav class="footer-topnav">
+          <a href="about.html" data-i18n="about.title">${I18N[lang]['about.title']}</a><span>|</span>
+          <a href="contact.html" data-i18n="contact.title">${I18N[lang]['contact.title']}</a><span>|</span>
+          <a href="faq.html" data-i18n="faq.title">${I18N[lang]['faq.title']}</a><span>|</span>
+          <a href="departures.html" data-i18n="dep.title">${I18N[lang]['dep.title']}</a>
+        </nav>
         <div class="footer-grid">
           <div>
             <h4 data-i18n="footer.nav">${I18N[lang]['footer.nav']}</h4>
@@ -158,13 +164,13 @@
           </div>
           <div>
             <h4 data-i18n="footer.contact">${I18N[lang]['footer.contact']}</h4>
-            <div class="muted" style="margin-bottom:10px">悉尼办公室 Sydney Office</div>
+            <div class="muted" style="margin-bottom:8px">悉尼办公室 Sydney Office</div>
             <div class="footer-channels">
               <a href="tel:${window.CONTACT.hotline.replace(/\\s/g,'')}">☎ ${window.CONTACT.hotline}</a>
               <a href="tel:${window.CONTACT.hotline2.replace(/\\s/g,'')}">☎ ${window.CONTACT.hotline2}</a>
               <a href="mailto:${window.CONTACT.email}">✉ ${window.CONTACT.email}</a>
-              <a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">📍 ${I18N[lang]['footer.addr']}</a>
             </div>
+            <div class="footer-store">📍 ${I18N[lang]['footer.addr']}</div>
           </div>
         </div>
         <div class="footer-compliance">
