@@ -97,7 +97,6 @@
           </div>
           <div id="bk-tip" style="text-align:center;margin-top:14px;font-size:14px;color:#1B9FE0"></div>
         </div>
-        <div id="bk-channels" style="margin:24px auto 0"></div>
         <div id="bk-detail" class="bk-detail" style="display:none">
           <h3 class="bk-detail-title" id="bk-detail-title"></h3>
           <div id="bk-detail-body"></div>
@@ -120,8 +119,6 @@
       const date = q.get('date') || '';
       if(route) document.getElementById('bk-route').value = route;
       if(date) document.getElementById('bk-date').value = date;
-      const ch = document.getElementById('bk-channels');
-      try { if(window.contactChannels) ch.innerHTML = window.contactChannels(window.Etrips ? window.Etrips.getLang() : 'zh'); } catch(e) {}
       renderDetail(route);
 
       function renderDetail(routeName){
