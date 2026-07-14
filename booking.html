@@ -84,6 +84,10 @@
             <input id="bk-name" class="bk-input" type="text" placeholder="您的称呼" autocomplete="name">
           </div>
           <div class="bk-row">
+            <label>客人邮箱 / Email</label>
+            <input id="bk-email" class="bk-input" type="email" placeholder="用于接收确认邮件（选填）" autocomplete="email">
+          </div>
+          <div class="bk-row">
             <label>联系电话 / Phone<span class="req">*</span></label>
             <input id="bk-phone" class="bk-input" type="tel" placeholder="微信或手机号" autocomplete="tel">
           </div>
@@ -197,7 +201,7 @@
       let pax = [];
       rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; if(n>0) pax.push(r.getAttribute('data-type')+'×'+n); });
       if(pax.length) lines.push('乘客：' + pax.join('，'));
-      lines.push('联系人：' + (name||'-') + ' / ' + (phone||'-'));
+      lines.push('联系人：' + (name||'-') + ' / ' + (phone||'-') + (email?' / '+email:''));
       if(remark) lines.push('备注：' + remark);
       const total = document.getElementById('bk-total').textContent;
       lines.push('预估小计：' + total);
@@ -235,6 +239,7 @@
       if(!route || !date){ tip.style.color='#e23b3b'; tip.textContent='请填写路线与出发日期。'; return; }
       if(!phone){ tip.style.color='#e23b3b'; tip.textContent='请留下联系电话或微信。'; return; }
       const name = document.getElementById('bk-name').value.trim();
+      const email = document.getElementById('bk-email').value.trim();
       const remark = document.getElementById('bk-remark').value.trim();
       const body = buildMsg();
       // ---- 真实发送：EmailJS（纯前端）----
@@ -250,7 +255,7 @@
       let pax = [];
       rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; if(n>0) pax.push(r.getAttribute('data-type')+'×'+n); });
       emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
-        route: route, date: date, name: name, phone: phone, remark: remark,
+        route: route, date: date, name: name, phone: phone, email: email, remark: remark,
         pax: pax.join('，'), body: body
       }).then(()=>{
         tip.style.color='#1aa06b'; tip.textContent='预订请求已发送！行程单已随邮件送达，客服将尽快与您确认余位与价格（可扫码添加微信/WhatsApp）。';
