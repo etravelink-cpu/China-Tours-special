@@ -160,7 +160,7 @@ window.REGION_PLANS.australia = `
   </nav>
   <div class="rp-detail-area">
     <!-- 路线1：蓝山有氧+动物园 -->
-    <div class="rp-route-pane active" data-route="au-blue-mountain">
+    <div class="rp-route-pane active" data-route="au-blue-mountain" data-p-adult="179" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge">天天出发 · 精品奔驰小团</span>
         <div class="rp-detail-hero-in">
@@ -415,7 +415,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1499 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-perth-5d">
+    <div class="rp-route-pane" data-route="au-perth-5d" data-p-adult="1199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉色海洋小火车灯塔童话5日游</h3><div class="rp-detail-meta">5日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -424,7 +424,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、小火车票、部分餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1199 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；小火车班次受限；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-perth-4d">
+    <div class="rp-route-pane" data-route="au-perth-4d" data-p-adult="949" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉红湖小火车浪漫4日游</h3><div class="rp-detail-meta">4日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -433,7 +433,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、小火车票。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$949 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-perth-3d">
+    <div class="rp-route-pane" data-route="au-perth-3d" data-p-adult="699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉红湖自然之窗龙虾美食经典3日游</h3><div class="rp-detail-meta">3日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -487,7 +487,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、渡轮、中文司导。<br><b>价格不含：</b>岛上自行车租赁、个人消费。<br><b>参考市场价：</b>成人 A$85 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>受船期影响；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-5dt">
+    <div class="rp-route-pane" data-route="au-tas-5dt" data-p-adult="1028" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚全景5日游</h3><div class="rp-detail-meta">5日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -496,7 +496,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1028 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；季节影响路况；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-6dt">
+    <div class="rp-route-pane" data-route="au-tas-6dt" data-p-adult="1198" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚深度6日游</h3><div class="rp-detail-meta">6日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -505,7 +505,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1198 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-5dts">
+    <div class="rp-route-pane" data-route="au-tas-5dts" data-p-adult="998" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚南部5日游</h3><div class="rp-detail-meta">5日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -514,7 +514,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$998 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-4dt">
+    <div class="rp-route-pane" data-route="au-tas-4dt" data-p-adult="848" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚4日精华游</h3><div class="rp-detail-meta">4日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -523,7 +523,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$848 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-3dt">
+    <div class="rp-route-pane" data-route="au-tas-3dt" data-p-adult="658" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚3日精华游</h3><div class="rp-detail-meta">3日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -532,7 +532,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$658 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-seafood">
+    <div class="rp-route-pane" data-route="au-tas-seafood" data-p-adult="700" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚海鲜盛宴一日游船</h3><div class="rp-detail-meta">1日游 · 霍巴特出海 · 中文司导</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -541,7 +541,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>游船票、海鲜餐、中文司导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$700 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>受天气与海况影响；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-fish">
+    <div class="rp-route-pane" data-route="au-tas-fish" data-p-adult="299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚海钓</h3><div class="rp-detail-meta">1日游 · 霍巴特出海 · 中文司导</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -550,7 +550,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>船票、钓具、中文向导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$299 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>受天气海况影响；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-maria">
+    <div class="rp-route-pane" data-route="au-tas-maria" data-p-adult="208" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>玛丽亚岛纯净之美一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -559,7 +559,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、渡轮、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$208 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>受天气与船期影响；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-pot">
+    <div class="rp-route-pane" data-route="au-tas-pot" data-p-adult="168" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>亚瑟港一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -568,7 +568,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、门票通票、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$168 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-wgb">
+    <div class="rp-route-pane" data-route="au-tas-wgb" data-p-adult="148" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>酒杯湾一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -577,7 +577,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>游船票、个人消费。<br><b>参考市场价：</b>成人 A$148 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-field">
+    <div class="rp-route-pane" data-route="au-tas-field" data-p-adult="138" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>费尔德山一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -586,7 +586,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$138 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-tas-hobart">
+    <div class="rp-route-pane" data-route="au-tas-hobart" data-p-adult="98" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>霍巴特周边+里奇蒙小镇一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
       <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
       <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
@@ -595,7 +595,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$98 起（儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-adl-kid">
+    <div class="rp-route-pane" data-route="au-adl-kid" data-p-adult="388" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
           <h3>袋鼠岛精华一日游（中文）</h3>
@@ -619,7 +619,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、景区门票、部分餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差（一日游无）。<br><b>参考市场价：</b>成人 A$388 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；出海与野生动物受季节与天气影响，行程顺序可能调整；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-adl-mrd">
+    <div class="rp-route-pane" data-route="au-adl-mrd" data-p-adult="185" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
           <h3>穆理河仙履奇缘一日游</h3>
@@ -643,7 +643,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、游船票、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；游船受水位与天气影响；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-adl-bvd">
+    <div class="rp-route-pane" data-route="au-adl-bvd" data-p-adult="185" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
           <h3>红酒之乡巴罗莎谷一日游</h3>
@@ -667,7 +667,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、酒庄品鉴、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>1-3月走巴罗莎谷，4-12月走粉湖；四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-adl-hmv">
+    <div class="rp-route-pane" data-route="au-adl-hmv" data-p-adult="185" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
           <h3>阿德莱德市区与汗道夫德国村一日游</h3>
@@ -691,7 +691,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-adl-fpd">
+    <div class="rp-route-pane" data-route="au-adl-fpd" data-p-adult="185" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
           <h3>菲尔半岛一日游</h3>
@@ -715,7 +715,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、小火车票、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-mel5days">
+    <div class="rp-route-pane" data-route="au-melbourne-mel5days" data-p-adult="969" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>墨尔本 5 日全景之旅</h3>
         <div class="rp-detail-meta">多日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -737,7 +737,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$969 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-mel4days">
+    <div class="rp-route-pane" data-route="au-melbourne-mel4days" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>墨尔本 4 日经典之旅</h3>
         <div class="rp-detail-meta">多日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -759,7 +759,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$799 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-mel3days">
+    <div class="rp-route-pane" data-route="au-melbourne-mel3days" data-p-adult="649" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>墨尔本 3 日休闲之旅</h3>
         <div class="rp-detail-meta">多日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -781,7 +781,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$649 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melpbpr">
+    <div class="rp-route-pane" data-route="au-melbourne-melpbpr" data-p-adult="229" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【精致奔驰小团】蒸汽火车 & 企鹅岛一日游</h3>
         <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -803,7 +803,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$229 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melppc">
+    <div class="rp-route-pane" data-route="au-melbourne-melppc" data-p-adult="185" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【重磅经典必玩】蒸汽小火车 + 企鹅岛 天天出发！一日游</h3>
         <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -825,7 +825,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melmpt">
+    <div class="rp-route-pane" data-route="au-melbourne-melmpt" data-p-adult="169" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【重磅】墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游</h3>
         <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -847,7 +847,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$169 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melsvh">
+    <div class="rp-route-pane" data-route="au-melbourne-melsvh" data-p-adult="119" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【畅游淘金】疏芬山淘金镇一日游</h3>
         <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -869,7 +869,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$119 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melpbi">
+    <div class="rp-route-pane" data-route="au-melbourne-melpbi" data-p-adult="119" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【菲利普岛必玩】彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</h3>
         <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -891,7 +891,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$119 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melgori">
+    <div class="rp-route-pane" data-route="au-melbourne-melgori" data-p-adult="79" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【天天出发】经典大洋路一日游</h3>
         <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
@@ -913,7 +913,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$79 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-ool3dk">
+    <div class="rp-route-pane" data-route="au-qld-ool3dk" data-p-adult="969" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【全新】黄金海岸 3/4 日游</h3>
         <div class="rp-detail-meta">多日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -935,7 +935,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$969 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-tang3d">
+    <div class="rp-route-pane" data-route="au-qld-tang3d" data-p-adult="1120" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>海豚岛全新趣味 3 天 2 晚</h3>
         <div class="rp-detail-meta">多日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -957,7 +957,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1120 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-bnem2">
+    <div class="rp-route-pane" data-route="au-qld-bnem2" data-p-adult="578" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【天阁露玛】摩顿海豚岛三天两夜套餐</h3>
         <div class="rp-detail-meta">多日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -979,7 +979,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$578 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-oolcct">
+    <div class="rp-route-pane" data-route="au-qld-oolcct" data-p-adult="259" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>可伦宾动物园 + 翠儿河捉蟹一日游</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1001,7 +1001,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$259 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-ool403">
+    <div class="rp-route-pane" data-route="au-qld-ool403" data-p-adult="179" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【特价】黄金海岸四大主题公园 3 日套票</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1023,7 +1023,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$179 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-oolby">
+    <div class="rp-route-pane" data-route="au-qld-oolby" data-p-adult="179" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【全新】拜伦湾一日游</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1045,7 +1045,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$179 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-ooltro">
+    <div class="rp-route-pane" data-route="au-qld-ooltro" data-p-adult="179" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>热带水果园 + 危险角一日游</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1067,7 +1067,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$179 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-ooltam">
+    <div class="rp-route-pane" data-route="au-qld-ooltam" data-p-adult="175" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>天宝林山 + 蓝光萤火虫自然风光一日游</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1089,7 +1089,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$175 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-bhetgl">
+    <div class="rp-route-pane" data-route="au-qld-bhetgl" data-p-adult="99" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>布里斯班摩顿海豚岛一日游套餐（多种选择）</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1111,7 +1111,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$99 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-oolgwn">
+    <div class="rp-route-pane" data-route="au-qld-oolgwn" data-p-adult="99" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>黄金海岸蓝光萤火虫中文夜游</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1133,7 +1133,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$99 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-qld-oolcrb">
+    <div class="rp-route-pane" data-route="au-qld-oolcrb" data-p-adult="95" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>黄金海岸翠儿河捉蟹 + 生蚝农场半日游</h3>
         <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
@@ -1155,7 +1155,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$95 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cns3d4d">
+    <div class="rp-route-pane" data-route="au-cairns-cns3d4d" data-p-adult="818" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>凯恩斯 3/4 日经典游</h3>
         <div class="rp-detail-meta">多日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1177,7 +1177,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$818 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-hi4dpack">
+    <div class="rp-route-pane" data-route="au-cairns-hi4dpack" data-p-adult="1856" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>汉密尔顿岛自助游套餐</h3>
         <div class="rp-detail-meta">多日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1199,7 +1199,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1856 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-wsifcg">
+    <div class="rp-route-pane" data-route="au-cairns-wsifcg" data-p-adult="720" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【汉密尔顿岛出发】心形大堡礁直升机 + 游船一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1221,7 +1221,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$720 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnssegd">
+    <div class="rp-route-pane" data-route="au-cairns-cnssegd" data-p-adult="395" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【Evolution 蜕变号】豪华游船超值一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1243,7 +1243,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$395 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsdbl">
+    <div class="rp-route-pane" data-route="au-cairns-cnsdbl" data-p-adult="353" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【大冒险号】绝代双礁一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1265,7 +1265,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$353 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnssga">
+    <div class="rp-route-pane" data-route="au-cairns-cnssga" data-p-adult="348" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【银梭号】阿金考特大堡礁一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1287,7 +1287,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$348 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsgbr01">
+    <div class="rp-route-pane" data-route="au-cairns-cnsgbr01" data-p-adult="325" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【梦幻丽礁号】凯恩斯摩尔外大堡礁一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1309,7 +1309,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$325 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsnga">
+    <div class="rp-route-pane" data-route="au-cairns-cnsnga" data-p-adult="322" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【大冒险号】诺曼 / 摩尔外海大堡礁一日游船</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1331,7 +1331,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$322 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnssrc02">
+    <div class="rp-route-pane" data-route="au-cairns-cnssrc02" data-p-adult="317" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【太阳恋人号】摩尔外海大堡礁一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1353,7 +1353,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$317 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-wsi1dt">
+    <div class="rp-route-pane" data-route="au-cairns-wsi1dt" data-p-adult="279" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>白天堂沙滩双舒适游船一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1375,7 +1375,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$279 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cwcsd1d">
+    <div class="rp-route-pane" data-route="au-cairns-cwcsd1d" data-p-adult="259" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>卡米拉帆船航海一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1397,7 +1397,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$259 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnstrr">
+    <div class="rp-route-pane" data-route="au-cairns-cnstrr" data-p-adult="240" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>塔利河漂流一日游 (含凯恩斯往返接送)</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1419,7 +1419,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$240 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-rctwb">
+    <div class="rp-route-pane" data-route="au-cairns-rctwb" data-p-adult="230" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【雷霆猫号】白天堂沙滩一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1441,7 +1441,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$230 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsrfd">
+    <div class="rp-route-pane" data-route="au-cairns-cnsrfd" data-p-adult="228" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>热带雨林土著文化一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1463,7 +1463,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$228 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-rcsail">
+    <div class="rp-route-pane" data-route="au-cairns-rcsail" data-p-adult="199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>圣灵群岛帆船一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1485,7 +1485,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$199 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsdm1d">
+    <div class="rp-route-pane" data-route="au-cairns-cnsdm1d" data-p-adult="190" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>棕榈湾 + 鳄鱼园 + 道格拉斯港一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1507,7 +1507,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$190 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsppd">
+    <div class="rp-route-pane" data-route="au-cairns-cnsppd" data-p-adult="190" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>阿瑟顿高原 - 天空之城一日游</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1529,7 +1529,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$190 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsbr">
+    <div class="rp-route-pane" data-route="au-cairns-cnsbr" data-p-adult="184" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>巴伦河半日漂流（含凯恩斯往返接送）</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1551,7 +1551,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$184 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsgbg">
+    <div class="rp-route-pane" data-route="au-cairns-cnsgbg" data-p-adult="162" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>【大猫号】绿岛体验一日游船</h3>
         <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
@@ -1573,7 +1573,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$162 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atvauk5">
+    <div class="rp-route-pane" data-route="au-uluru-atvauk5" data-p-adult="1230" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁帝王谷精品五日游（维珍团）四人起成团</h3>
         <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1595,7 +1595,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1230 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atusp4">
+    <div class="rp-route-pane" data-route="au-uluru-atusp4" data-p-adult="1180" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁精品中文 4 日游</h3>
         <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1617,7 +1617,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1180 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atuk3">
+    <div class="rp-route-pane" data-route="au-uluru-atuk3" data-p-adult="998" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁帝王谷探索之旅 3 日游 [四人成团]</h3>
         <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1639,7 +1639,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$998 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atuw3">
+    <div class="rp-route-pane" data-route="au-uluru-atuw3" data-p-adult="868" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁卡塔丘塔经典之旅三日游</h3>
         <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1661,7 +1661,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$868 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atvw3">
+    <div class="rp-route-pane" data-route="au-uluru-atvw3" data-p-adult="748" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁经典之旅三日游（维珍团）天天出发</h3>
         <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1683,7 +1683,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$748 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay03">
+    <div class="rp-route-pane" data-route="au-uluru-atay03" data-p-adult="355" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>帝王谷一日游</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1705,7 +1705,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$355 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-ayqe04">
+    <div class="rp-route-pane" data-route="au-uluru-ayqe04" data-p-adult="295" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>寂静之声晚宴</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1727,7 +1727,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$295 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay04">
+    <div class="rp-route-pane" data-route="au-uluru-atay04" data-p-adult="239" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>卡塔丘塔日出及风之谷徒步之旅</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1749,7 +1749,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$239 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay01">
+    <div class="rp-route-pane" data-route="au-uluru-atay01" data-p-adult="219" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>卡塔丘塔和乌鲁鲁日落之旅</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1771,7 +1771,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$219 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay02">
+    <div class="rp-route-pane" data-route="au-uluru-atay02" data-p-adult="209" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁日出，圣迹寻踪及岩石环游之旅</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1793,7 +1793,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$209 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay07">
+    <div class="rp-route-pane" data-route="au-uluru-atay07" data-p-adult="139" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁摄影观星之旅</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1815,7 +1815,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$139 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay06">
+    <div class="rp-route-pane" data-route="au-uluru-atay06" data-p-adult="139" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>乌鲁鲁马拉文化徒步之旅</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1837,7 +1837,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$139 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-uluru-ayqe03">
+    <div class="rp-route-pane" data-route="au-uluru-ayqe03" data-p-adult="50" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>极致浪漫日落原野星光展 (含接送无导游)</h3>
         <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
@@ -1859,7 +1859,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$50 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-multi-cnsoolmel">
+    <div class="rp-route-pane" data-route="au-multi-cnsoolmel" data-p-adult="3026" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】</h3>
         <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
@@ -1881,7 +1881,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$3026 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-multi-sydcnsool">
+    <div class="rp-route-pane" data-route="au-multi-sydcnsool" data-p-adult="2959" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】</h3>
         <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
@@ -1903,7 +1903,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$2959 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-multi-sydcnsmel">
+    <div class="rp-route-pane" data-route="au-multi-sydcnsmel" data-p-adult="2839" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】</h3>
         <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
@@ -1925,7 +1925,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$2839 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-multi-sydmel8pg">
+    <div class="rp-route-pane" data-route="au-multi-sydmel8pg" data-p-adult="1868" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>悉尼墨尔本 8 日游</h3>
         <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
@@ -1947,7 +1947,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1868 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-multi-sydmel7pg">
+    <div class="rp-route-pane" data-route="au-multi-sydmel7pg" data-p-adult="1698" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>悉尼墨尔本 7 日游</h3>
         <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
@@ -1969,7 +1969,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1698 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-multi-sydmel6pg">
+    <div class="rp-route-pane" data-route="au-multi-sydmel6pg" data-p-adult="1548" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>悉尼墨尔本 6 日游</h3>
         <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
@@ -1991,7 +1991,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1548 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
     </div>
-    <div class="rp-route-pane" data-route="au-multi-cnsool">
+    <div class="rp-route-pane" data-route="au-multi-cnsool" data-p-adult="1939" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero"><div class="rp-detail-hero-in">
         <h3>凯恩斯 - 黄金海岸 6 日游</h3>
         <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
@@ -2055,7 +2055,7 @@ window.REGION_PLANS.australia = `
     </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane active" data-route="nz-south7" data-p-adult="1618.2" data-p-child="1618.2" data-p-infant="199">
+    <div class="rp-route-pane active" data-route="nz-south7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
           <h3>【南岛全景】新西兰南岛7日湖光山色之旅</h3>
