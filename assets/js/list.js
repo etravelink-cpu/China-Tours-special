@@ -129,7 +129,10 @@
       '<div class="ph-co"><div class="ph-name">Etrips 国安易游</div>' +
       '<div class="ph-slogan">易行天下，奔赴山海</div></div>' +
       '<div class="ph-title">' + title + '</div>' +
-      '<div class="ph-meta">电话 +61 2 9764 6862 · 邮箱 info@etravelink.com.au · 微信 E_travelink</div>';
+      '<div class="ph-meta">电话 ' + (window.CONTACT.hotline||'') + (window.CONTACT.hotline2?' / '+window.CONTACT.hotline2:'') +
+      ' · 邮箱 ' + (window.CONTACT.email||'') + ' · 微信 ' + (window.CONTACT.wechat||'') +
+      (window.CONTACT.whatsapp?' · WhatsApp '+window.CONTACT.whatsapp:'') +
+      (window.CONTACT.addressZh?'<br>门店 ' + window.CONTACT.addressZh:'') + '</div>';
     document.body.classList.add('printing-route');
     const onAfter = ()=>{ document.body.classList.remove('printing-route'); window.removeEventListener('afterprint', onAfter); };
     window.addEventListener('afterprint', onAfter);

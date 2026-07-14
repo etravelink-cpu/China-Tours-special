@@ -425,14 +425,14 @@ a{color:inherit;text-decoration:none}
 /* ===== 打印行程单（带公司 logo 单页 PDF） ===== */
 #print-header{display:none}
 body.printing-route #print-header{display:block}
-.ph-logo{display:flex;align-items:center;gap:12px;margin-bottom:6px}
-.ph-logo img{height:46px;width:auto}
-.ph-name{font-size:20px;font-weight:800;color:#1B9FE0}
-.ph-slogan{font-size:13px;color:#666}
-.ph-title{font-size:17px;font-weight:700;margin:10px 0 4px;padding-bottom:6px;border-bottom:2px solid #1B9FE0;color:#222}
-.ph-meta{font-size:12px;color:#888;margin-bottom:14px}
+.ph-logo{display:flex;align-items:center;gap:10px;margin-bottom:4px}
+.ph-logo img{height:34px;width:auto}
+.ph-name{font-size:16px;font-weight:800;color:#1B9FE0;line-height:1.1}
+.ph-slogan{font-size:10px;color:#666}
+.ph-title{font-size:14px;font-weight:700;margin:6px 0 3px;padding-bottom:4px;border-bottom:2px solid #1B9FE0;color:#222}
+.ph-meta{font-size:11px;color:#888;margin-bottom:8px;line-height:1.5}
 @media print{
-  @page{margin:14mm}
+  @page{size:A4;margin:10mm}
   body.printing-route .site-header,
   body.printing-route .float-bar,
   body.printing-route .rp-banner,
@@ -447,19 +447,19 @@ body.printing-route #print-header{display:block}
   body.printing-route .faq-item,
   body.printing-route section > h3[data-i18n="list.faq.title"],
   body.printing-route .rp-route-pane.active .rp-detail-hero{display:none!important}
-  body.printing-route{padding:0!important;margin:0!important;background:#fff}
+  body.printing-route{padding:0!important;margin:0!important;background:#fff;font-size:12px;line-height:1.45}
   body.printing-route .region-plan{margin:0!important}
-  body.printing-route #print-header{display:block!important;margin-bottom:6px}
+  body.printing-route #print-header{display:block!important;margin-bottom:4px}
   body.printing-route .rp-layout{display:block!important;grid-template-columns:1fr!important;gap:0!important}
   body.printing-route .rp-detail-area{border:0!important;overflow:visible!important}
   body.printing-route .rp-route-pane.active{display:block!important;animation:none}
-  body.printing-route .rp-route-pane.active .rp-sec h4{border-left-color:#1B9FE0;color:#222;background:none}
+  body.printing-route .rp-route-pane.active .rp-sec h4{border-left-color:#1B9FE0;color:#222;background:none;font-size:13px}
   body.printing-route .rp-route-pane.active .rp-sec{
-    border:1px solid #d9e2ea;border-radius:8px;padding:12px 14px;margin-bottom:10px;
+    border:1px solid #d9e2ea;border-radius:6px;padding:8px 10px;margin-bottom:7px;
     page-break-inside:avoid;
   }
   body.printing-route .rp-route-pane.active .rp-sec h4{margin-top:0}
   body.printing-route .rp-route-pane.active .rp-sec li,
   body.printing-route .rp-route-pane.active .rp-sec p,
-  body.printing-route .rp-route-pane.active .rp-timeline>div>div:last-child{color:#333}
+  body.printing-route .rp-route-pane.active .rp-timeline>div>div:last-child{color:#333;font-size:12px}
 }
