@@ -64,6 +64,7 @@
         ta.value = pre + ta.placeholder.replace(/^/,'');
         ta.focus();
       }
+      if(typeof emailjs !== 'undefined'){ try{ emailjs.init('nZv17YnCO1xz5uLPZ'); }catch(e){} }
     })();
 
     function submitConsult(){
@@ -87,22 +88,25 @@
         return;
       }
       tip.style.color='#1B9FE0'; tip.textContent='正在发送…';
-      emailjs.init(EMAILJS.publicKey);
-      emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
-        route: '在线咨询', date: '', name: name, phone: phone, email: email, remark: msg,
-        pax: '', body: body
-      }).then(()=>{
-        // 自动回复客人（仅当填了邮箱）
-        if(email && EMAILJS.autoReplyID){
-          emailjs.send(EMAILJS.serviceID, EMAILJS.autoReplyID, {
-            name: name, email: email, body: body, route: '在线咨询', date: ''
-          }).catch(()=>{});
-        }
-        tip.style.color='#1aa06b'; tip.textContent='咨询已发送！客服会尽快与您联系（可扫码添加微信/WhatsApp）。';
-      }).catch((err)=>{
-        tip.style.color='#e23b3b'; tip.textContent='发送失败，请稍后重试或扫描下方二维码加微信客服。';
-        console.error(err);
-      });
+      try {
+        emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
+          route: '在线咨询', date: '', name: name, phone: phone, email: email, remark: msg,
+          pax: '', body: body
+        }).then(()=>{
+          if(email && EMAILJS.autoReplyID){
+            emailjs.send(EMAILJS.serviceID, EMAILJS.autoReplyID, {
+              name: name, email: email, body: body, route: '在线咨询', date: ''
+            }).catch(()=>{});
+          }
+          tip.style.color='#1aa06b'; tip.textContent='咨询已发送！客服会尽快与您联系（可扫码添加微信/WhatsApp）。';
+        }).catch((err)=>{
+          tip.style.color='#e23b3b'; tip.textContent='发送失败（'+(err&&err.status||'网络')+'），请稍后重试或扫描下方二维码加微信客服。';
+          console.error(err);
+        });
+      } catch(e){
+        tip.style.color='#e23b3b'; tip.textContent='发送初始化失败：'+(e.message||e)+'，请刷新页面后重试。';
+        console.error(e);
+      }
     }
     window.submitConsult = submitConsult;
   </script>
