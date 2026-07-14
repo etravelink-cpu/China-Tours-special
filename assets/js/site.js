@@ -93,7 +93,6 @@
         <div style="font-size:12px;color:#888;margin-top:6px">长按复制微信号 / 扫码添加</div>
       </div>
       <div class="wx-pop" id="wa-pop" hidden>
-        <div class="wx-row"><span class="wx-tag wa">WhatsApp</span> <b>${wa}</b></div>
         ${waqr?`<img class="wx-qr" src="${waqr}" alt="WhatsApp QR">`:''}
         <div style="font-size:12px;color:#888;margin-top:6px">扫码添加 WhatsApp</div>
       </div>`;

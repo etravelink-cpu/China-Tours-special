@@ -87,6 +87,18 @@ window.REGION_PLANS.australia = `
       <div class="rp-group-title">圣灵群岛 <span class="rp-arrow">▶</span></div>
       <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-whitsunday">汉密尔顿岛 / 心形礁（见凯恩斯大堡礁组）</div></div>
     </div>
+    <div class="rp-group" data-group="multi">
+      <div class="rp-group-title">澳洲跨地区联游 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list">
+        <div class="rp-route" data-route="au-multi-cnsoolmel">凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】</div>
+        <div class="rp-route" data-route="au-multi-sydcnsool">悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】</div>
+        <div class="rp-route" data-route="au-multi-sydcnsmel">悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】</div>
+        <div class="rp-route" data-route="au-multi-sydmel8pg">悉尼墨尔本 8 日游</div>
+        <div class="rp-route" data-route="au-multi-sydmel7pg">悉尼墨尔本 7 日游</div>
+        <div class="rp-route" data-route="au-multi-sydmel6pg">悉尼墨尔本 6 日游</div>
+        <div class="rp-route" data-route="au-multi-cnsool">凯恩斯 - 黄金海岸 6 日游</div>
+      </div>
+    </div>
     <div class="rp-group" data-group="perth">
       <div class="rp-group-title">西澳 / 珀斯 <span class="rp-arrow">▶</span></div>
       <div class="rp-group-list">
@@ -1846,6 +1858,160 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
       <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$50 起（最终以确认为准，儿童价待核）。</p></div>
       <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-multi-cnsoolmel">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
+        <h3>凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】</h3>
+        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
+      </div></div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$3026 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-multi-sydcnsool">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
+        <h3>悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】</h3>
+        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
+      </div></div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$2959 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-multi-sydcnsmel">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
+        <h3>悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】</h3>
+        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
+      </div></div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$2839 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-multi-sydmel8pg">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
+        <h3>悉尼墨尔本 8 日游</h3>
+        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
+      </div></div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>悉尼墨尔本 8 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1868 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-multi-sydmel7pg">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
+        <h3>悉尼墨尔本 7 日游</h3>
+        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
+      </div></div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>悉尼墨尔本 7 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1698 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-multi-sydmel6pg">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
+        <h3>悉尼墨尔本 6 日游</h3>
+        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
+      </div></div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>悉尼墨尔本 6 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1548 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-multi-cnsool">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
+        <h3>凯恩斯 - 黄金海岸 6 日游</h3>
+        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
+      </div></div>
+      <div class="rp-detail-date">
+        <label>出发日期<span class="req">*</span></label>
+        <select class="rp-date-select" onchange="onRouteDateChange(this)">
+          <option value="">请选择出发日期</option>
+          <option value="__custom__">自选具体日期…</option>
+        </select>
+        <input type="date" class="rp-date-input" hidden>
+      </div>
+      <div class="rp-detail-cta">
+        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
+        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>凯恩斯 - 黄金海岸 6 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1939 起（最终以确认为准，儿童价待核）。</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
     </div>
   </div>
 </div>`;
