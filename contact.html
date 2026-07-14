@@ -14,7 +14,7 @@
   <section class="section" style="padding-top:80px">
     <div class="container">
       <h2 class="section-title" style="text-align:center">在线咨询 / 行程预订</h2>
-      <p style="text-align:center;color:#666;margin:0 0 28px">提交后将通过 WhatsApp 直接发送咨询消息；也可扫描下方二维码添加微信客服。</p>
+      <p style="text-align:center;color:#666;margin:0 0 28px">提交后咨询将通过邮件直接发送给客服，我们会尽快回复；也可扫描下方二维码添加微信客服。</p>
 
       <div class="form-card" style="max-width:640px">
         <div class="grid grid-2" style="gap:16px">
@@ -47,6 +47,7 @@
   <script src="assets/js/data.js"></script>
   <script src="assets/js/region-plans.js"></script>
   <script src="assets/js/site.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
   <script>
     (function(){
       const q = new URLSearchParams(location.search);
@@ -71,14 +72,32 @@
       const msg = document.getElementById('c-msg').value.trim();
       const tip = document.getElementById('c-tip');
       if(!phone){ tip.style.color='#e23b3b'; tip.textContent='请留下联系电话或微信，方便客服与您确认。'; return; }
-      // 咨询走 WhatsApp：预填消息直接发送；微信见下方二维码
-      let lines = ['【咨询】Etrips 国安易游'];
+      let lines = ['【在线咨询】Etrips 国安易游'];
       if(name) lines.push('称呼：' + name);
       lines.push('联系方式：' + phone);
       if(msg) lines.push('咨询内容：\n' + msg);
-      const wa = (window.CONTACT && window.CONTACT.whatsapp || '+61 410 740 695').replace(/[^0-9]/g,'');
-      location.href = 'https://wa.me/' + wa + '?text=' + encodeURIComponent(lines.join('\n'));
+      const body = lines.join('\n');
+      // ---- 真实发送：EmailJS（纯前端）----
+      const EMAILJS = { serviceID:'service_o6p45jq', templateID:'template_yxlb4dp', publicKey:'nZv17YnCO1xz5uLPZ', toEmail:'etripsetrips@gmail.com' };
+      if(typeof emailjs === 'undefined'){
+        tip.style.color='#e23b3b';
+        tip.textContent='邮件组件加载失败，请检查网络后重试，或扫描下方二维码加微信客服。';
+        return;
+      }
+      tip.style.color='#1B9FE0'; tip.textContent='正在发送…';
+      emailjs.init(EMAILJS.publicKey);
+      emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
+        to_email: EMAILJS.toEmail,
+        route: '在线咨询', date: '', name: name, phone: phone, remark: msg,
+        pax: '', body: body
+      }).then(()=>{
+        tip.style.color='#1aa06b'; tip.textContent='咨询已发送！客服会尽快与您联系。也可扫描下方二维码加微信客服。';
+      }).catch((err)=>{
+        tip.style.color='#e23b3b'; tip.textContent='发送失败，请稍后重试或扫描下方二维码加微信客服。';
+        console.error(err);
+      });
     }
+    window.submitConsult = submitConsult;
   </script>
   <script src="assets/js/list.js"></script>
 </body>
