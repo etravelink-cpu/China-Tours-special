@@ -194,6 +194,7 @@
       const name = document.getElementById('bk-name').value.trim();
       const phone = document.getElementById('bk-phone').value.trim();
       const remark = document.getElementById('bk-remark').value.trim();
+      const email = document.getElementById('bk-email').value.trim();
       let lines = ['【预订请求】'];
       if(route) lines.push('路线：' + route);
       if(date) lines.push('出发日期：' + date);
@@ -250,6 +251,9 @@
         return;
       }
       tip.style.color='#1B9FE0'; tip.textContent='正在发送…';
+      const rows = document.querySelectorAll('#bk-pax .bk-pax');
+      let pax = [];
+      rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; if(n>0) pax.push(r.getAttribute('data-type')+'×'+n); });
       try {
         emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
           route: route, date: date, name: name, phone: phone, email: email, remark: remark,
