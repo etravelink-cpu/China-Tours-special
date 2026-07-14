@@ -37,7 +37,6 @@
         <div id="c-tip" style="text-align:center;color:#1B9FE0;margin-top:14px;font-size:14px"></div>
       </div>
 
-      <div id="contact-channels" style="max-width:640px;margin:30px auto 0"></div>
     </div>
   </section>
 
@@ -61,9 +60,6 @@
         ta.value = pre + ta.placeholder.replace(/^/,'');
         ta.focus();
       }
-      // 注入客服渠道（5 通道）
-      const ch = document.getElementById('contact-channels');
-      if(window.contactChannels) ch.innerHTML = window.contactChannels(window.Etrips ? window.Etrips.getLang() : 'zh');
     })();
 
     function submitConsult(){
