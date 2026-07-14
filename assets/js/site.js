@@ -145,14 +145,15 @@
             <a href="faq.html" data-i18n="faq.title">${I18N[lang]['faq.title']}</a>
             <a href="departures.html" data-i18n="dep.title">${I18N[lang]['dep.title']}</a>
             <div class="contact-card-cyan">
-              <div class="cc-row"><img src="assets/img/wechat-icon.jpg" alt="微信" class="cc-ico"> ${window.CONTACT.wechatName}：<b>${window.CONTACT.wechat}</b></div>
-              ${window.CONTACT.wechatQr?`<div class="cc-qr"><img src="${window.CONTACT.wechatQr}" alt="${window.CONTACT.wechatName} 微信二维码" style="width:110px;height:110px;border-radius:8px;background:#fff;padding:4px;box-shadow:0 2px 8px rgba(0,0,0,.1)"><div class="cc-qr-cap">扫码添加 ${window.CONTACT.wechatName}</div></div>`:''}
-              <div class="cc-row"><img src="assets/img/wechat-icon.jpg" alt="微信" class="cc-ico"> ${window.CONTACT.wechat2Name}：<b>${window.CONTACT.wechat2}</b></div>
-              ${window.CONTACT.wechat2Qr?`<div class="cc-qr"><img src="${window.CONTACT.wechat2Qr}" alt="${window.CONTACT.wechat2Name} 微信二维码" style="width:110px;height:110px;border-radius:8px;background:#fff;padding:4px;box-shadow:0 2px 8px rgba(0,0,0,.1)"><div class="cc-qr-cap">扫码添加 ${window.CONTACT.wechat2Name}</div></div>`:''}
+              <div class="cc-row"><img src="assets/img/wechat-icon.jpg" alt="微信" class="cc-ico"> ${window.CONTACT.wechatName}：<b>${window.CONTACT.wechat}</b> / ${window.CONTACT.wechat2Name}：<b>${window.CONTACT.wechat2}</b></div>
               <div class="cc-row"><svg class="cc-ico" viewBox="0 0 32 32" style="background:#25D366;border-radius:3px"><path fill="#fff" d="M16 3C9.4 3 4 8.4 4 15c0 2.2.6 4.2 1.8 6L4 29l8.2-2.1c1.8.9 3.8 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.5c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1.3 1.3-4.8-.3-.4c-1-1.6-1.5-3.4-1.5-5.3 0-5.5 4.5-10 10-10s10 4.5 10 10-4.5 10.8-10 10.8zm5.5-7.5c-.3-.2-1.9-1-2.2-1.1-.3-.1-.5-.2-.7.2-.2.3-.8 1-1 1.2-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.2-.2.2-.3.3-.5.1-.2.1-.4 0-.6-.1-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.6-.5h-.5c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1 2.9 1.2 3.1c.1.2 2 3 4.8 4.2 1.7.7 2.3.8 3.1.7.5-.1 1.9-.8 2.2-1.5.3-.8.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/></svg> WhatsApp</div>
-              ${window.CONTACT.whatsappQr?`<div class="cc-qr"><img src="${window.CONTACT.whatsappQr}" alt="WhatsApp 二维码" style="width:110px;height:110px;border-radius:8px;background:#fff;padding:4px;box-shadow:0 2px 8px rgba(0,0,0,.1)"><div class="cc-qr-cap">扫码添加 WhatsApp</div></div>`:''}
               <div class="cc-row"><img src="assets/img/wechat-icon.jpg" alt="微信" class="cc-ico"> 公众号：<b>${window.CONTACT.wechatOfficial}</b></div>
-              ${window.CONTACT.wechatOfficialQr?`<div class="cc-qr"><img src="${window.CONTACT.wechatOfficialQr}" alt="${window.CONTACT.wechatOfficial} 公众号二维码" style="width:110px;height:110px;border-radius:8px;background:#fff;padding:4px;box-shadow:0 2px 8px rgba(0,0,0,.1)"><div class="cc-qr-cap">扫码关注公众号</div></div>`:''}
+              <div class="cc-qr-grid">
+                ${window.CONTACT.wechatQr?`<div class="cc-qr"><img src="${window.CONTACT.wechatQr}" alt="${window.CONTACT.wechatName} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechatName}</div></div>`:''}
+                ${window.CONTACT.wechat2Qr?`<div class="cc-qr"><img src="${window.CONTACT.wechat2Qr}" alt="${window.CONTACT.wechat2Name} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechat2Name}</div></div>`:''}
+                ${window.CONTACT.whatsappQr?`<div class="cc-qr"><img src="${window.CONTACT.whatsappQr}" alt="WhatsApp 二维码"><div class="cc-qr-cap">WhatsApp</div></div>`:''}
+                ${window.CONTACT.wechatOfficialQr?`<div class="cc-qr"><img src="${window.CONTACT.wechatOfficialQr}" alt="${window.CONTACT.wechatOfficial} 公众号二维码"><div class="cc-qr-cap">公众号</div></div>`:''}
+              </div>
             </div>
           </div>
           <div>

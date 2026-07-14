@@ -337,9 +337,10 @@ a{color:inherit;text-decoration:none}
 .contact-card-cyan .cc-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .contact-card-cyan .cc-ico{width:18px;height:18px;border-radius:4px;background:#fff;padding:1px;flex:0 0 auto}
 .contact-card-cyan b{font-weight:600}
-.contact-card-cyan .cc-qr{margin:6px 0 10px;display:flex;flex-direction:column;align-items:flex-start;gap:4px}
-.contact-card-cyan .cc-qr img{display:block;background:#fff}
-.contact-card-cyan .cc-qr-cap{font-size:11px;color:rgba(255,255,255,.92);margin:0}
+.contact-card-cyan .cc-qr-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:10px}
+.contact-card-cyan .cc-qr{display:flex;flex-direction:column;align-items:center;gap:4px}
+.contact-card-cyan .cc-qr img{display:block;width:62px;height:62px;border-radius:6px;background:#fff;padding:3px;box-shadow:0 2px 6px rgba(0,0,0,.12)}
+.contact-card-cyan .cc-qr-cap{font-size:11px;color:rgba(255,255,255,.92);margin:0;text-align:center}
 .footer-compliance{border-top:1px solid rgba(255,255,255,.18);margin-top:22px;padding:16px 0 0;
   display:flex;gap:18px;justify-content:center;flex-wrap:wrap}
   font-size:12.5px;color:rgba(255,255,255,.82);display:flex;flex-wrap:wrap;gap:16px;justify-content:center;text-align:center}
@@ -384,6 +385,8 @@ a{color:inherit;text-decoration:none}
   .hero-content h1{font-size:30px}
   .grid-4,.grid-3,.grid-2{grid-template-columns:1fr}
   .footer-grid{grid-template-columns:1fr}
+  .contact-card-cyan .cc-qr-grid{grid-template-columns:repeat(4,1fr)}
+  .contact-card-cyan .cc-qr img{width:56px;height:56px}
   .section{padding:40px 0}
 }
 
