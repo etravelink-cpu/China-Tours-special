@@ -91,7 +91,7 @@
         route: '在线咨询', date: '', name: name, phone: phone, remark: msg,
         pax: '', body: body
       }).then(()=>{
-        tip.style.color='#1aa06b'; tip.textContent='咨询已发送！客服会尽快与您联系。也可扫描下方二维码加微信客服。';
+        tip.style.color='#1aa06b'; tip.textContent='咨询已发送！客服会尽快与您联系（可扫码添加微信/WhatsApp）。';
       }).catch((err)=>{
         tip.style.color='#e23b3b'; tip.textContent='发送失败，请稍后重试或扫描下方二维码加微信客服。';
         console.error(err);
