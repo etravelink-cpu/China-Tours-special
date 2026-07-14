@@ -101,7 +101,7 @@
           </div>
           <div id="bk-tip" style="text-align:center;margin-top:14px;font-size:14px;color:#1B9FE0"></div>
         </div>
-        <div id="bk-detail" class="bk-detail" style="display:none">
+        <div id="bk-detail" class="bk-detail" style="margin-top:24px;display:none">
           <h3 class="bk-detail-title" id="bk-detail-title"></h3>
           <div id="bk-detail-body"></div>
         </div>
@@ -131,7 +131,6 @@
         const titleEl = document.getElementById('bk-detail-title');
         body.innerHTML = '';
         if(!routeName || !window.REGION_PLANS){ box.style.display='none'; return; }
-        // 在所有板块的 pane 里匹配标题包含 routeName 的
         let found = null;
         for(const key in window.REGION_PLANS){
           const tmp = document.createElement('div');

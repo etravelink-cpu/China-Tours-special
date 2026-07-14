@@ -463,3 +463,26 @@ body.printing-route #print-header{display:block}
   body.printing-route .rp-route-pane.active .rp-sec p,
   body.printing-route .rp-route-pane.active .rp-timeline>div>div:last-child{color:#333;font-size:12px}
 }
+
+/* ===== Booking 表单 + 行程内容卡 ===== */
+.bk-form{max-width:680px;margin:0 auto;background:#fff;border:1px solid #e3ebf2;border-radius:14px;padding:26px 28px;box-shadow:0 6px 22px rgba(27,159,224,.08)}
+.bk-row{margin-bottom:16px}
+.bk-row label{display:block;font-size:14px;font-weight:600;color:#22364a;margin-bottom:6px}
+.bk-row .req{color:#e23b3b;margin-left:3px}
+.bk-input{width:100%;padding:11px 13px;border:1px solid #d4dde6;border-radius:9px;font-size:15px;box-sizing:border-box;background:#fbfdff;color:#22364a}
+.bk-input:focus{outline:none;border-color:#1B9FE0;box-shadow:0 0 0 3px rgba(27,159,224,.15)}
+.bk-subtotal{font-size:15px;color:#22364a;margin:6px 0 18px}
+.bk-subtotal b{color:#1B9FE0;font-size:17px}
+.bk-actions{text-align:center;margin-top:8px}
+.bk-pax{display:flex;justify-content:space-between;align-items:center;padding:10px 12px;border:1px solid #e3ebf2;border-radius:9px;margin-bottom:8px;background:#fbfdff}
+.bk-pax-name{font-weight:600;color:#22364a}
+.bk-pax-price{font-size:13px;color:#1B9FE0;margin-top:2px}
+.bk-stepper{display:flex;align-items:center;gap:8px}
+.bk-stepper button{width:30px;height:30px;border:1px solid #cfdae4;background:#fff;border-radius:7px;font-size:17px;cursor:pointer;color:#1B9FE0;line-height:1}
+.bk-stepper input{width:46px;text-align:center;border:1px solid #d4dde6;border-radius:7px;padding:5px 0;font-size:15px}
+.bk-note{font-size:12px;color:#8a97a6;margin-top:8px;line-height:1.5}
+.bk-detail{background:#f7fbff;border:1px solid #dcebf7;border-radius:12px;padding:18px 20px;margin-top:24px}
+.bk-detail-title{font-size:16px;font-weight:700;color:#1B9FE0;margin:0 0 12px;border-left:4px solid #1B9FE0;padding-left:10px}
+.bk-detail .rp-sec{border:1px solid #e3ebf2;border-radius:8px;padding:10px 12px;margin-bottom:10px;background:#fff}
+.bk-detail .rp-sec h4{border-left-color:#1B9FE0;color:#22364a;background:none;font-size:14px;margin-top:0}
+.bk-detail .rp-sec li,.bk-detail .rp-sec p{color:#445;font-size:13.5px}
