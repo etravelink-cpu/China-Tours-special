@@ -139,8 +139,9 @@
           const panes = tmp.querySelectorAll('.rp-route-pane');
           for(const p of panes){
             const h = p.querySelector('.rp-detail-hero-in h3');
-            const t = h ? h.textContent.replace(/【|】/g,'') : '';
-            if(t && t.indexOf(routeName.replace(/【|】/g,'')) > -1){ found = p; break; }
+            const t = h ? h.textContent.replace(/【|】|\s/g,'') : '';
+            const rn = routeName.replace(/【|】|\s/g,'');
+            if(t && rn && t.indexOf(rn) > -1){ found = p; break; }
           }
           if(found) break;
         }
