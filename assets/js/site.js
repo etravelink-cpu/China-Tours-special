@@ -146,7 +146,7 @@
               <a href="tel:${window.CONTACT.hotline2.replace(/\\s/g,'')}">☎ ${window.CONTACT.hotline2}</a>
               <a href="mailto:${window.CONTACT.email}">✉ ${window.CONTACT.email}</a>
             </div>
-            <div class="footer-store">📍 ${I18N[lang]['footer.addr']}</div>
+            <div class="footer-store"><a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">📍 ${I18N[lang]['footer.addr']}</a></div>
           </div>
           <div>
             <h4>客服二维码</h4>
