@@ -242,8 +242,7 @@ a{color:inherit;text-decoration:none}
 
 /* ===== Footer (亮蓝底, 收边留白, 不铺满) ===== */
 .site-footer{background:var(--navy);color:#eaf6fd;padding:28px 20px}
-.footer-card{max-width:1100px;margin:0 auto;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.18);
-  border-radius:16px;padding:28px 24px}
+.footer-card{max-width:1100px;margin:0 auto;padding:8px 4px}
 .footer-inner{max-width:none;margin:0;padding:0}
 .footer-topnav{display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:center;padding:6px 0 14px;margin-bottom:14px;border-bottom:1px solid rgba(255,255,255,.18);font-size:14px}
 .footer-topnav a{color:#eaf6fd}
