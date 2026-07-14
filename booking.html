@@ -250,7 +250,6 @@
       let pax = [];
       rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; if(n>0) pax.push(r.getAttribute('data-type')+'×'+n); });
       emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
-        to_email: EMAILJS.toEmail,
         route: route, date: date, name: name, phone: phone, remark: remark,
         pax: pax.join('，'), body: body
       }).then(()=>{
