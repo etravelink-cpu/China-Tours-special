@@ -2703,169 +2703,100 @@ window.REGION_PLANS.australia = `
   <div class="rp-banner-in">
     <h1>中国 · 分区行程规划</h1>
     <div class="rp-sub">China Region Tours</div>
-    <p class="rp-desc">从江南水乡到西北丝路，7 大分区完整呈现。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+    <p class="rp-desc">从江南水乡到西北丝路，分区完整呈现。点击左侧分区，查看各地核心行程。</p>
   </div>
 </div>
 <div class="rp-layout">
-  <nav class="rp-nav" role="tablist" aria-label="china 分区">
-      <button type="button" data-rp="0" class="active">北京 · 西安（华北）</button>
-      <button type="button" data-rp="1" class="">江南 · 上海（华东）</button>
-      <button type="button" data-rp="2" class="">九寨 · 张家界 · 云南 · 贵州（西南）</button>
-      <button type="button" data-rp="3" class="">新疆 · 西藏 · 青海 · 丝绸之路（西北）</button>
-      <button type="button" data-rp="4" class="">长江三峡（游轮专线）</button>
-      <button type="button" data-rp="5" class="">山东 · 山西 · 东北 · 河南</button>
-      <button type="button" data-rp="6" class="">广东 · 广西 · 福建 · 海南（华南）</button>
-      <button type="button" data-rp="7" class="">经典连游组合</button>
+  <nav class="rp-nav2" aria-label="china 目的地">
+    <div class="rp-group open" data-group="north">
+      <div class="rp-group-title">华北 · 北京西安 <span class="rp-arrow">▼</span></div>
+      <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-bj4">2026 纯玩 北京4日</div>
+        <div class="rp-route" data-route="cn-bjxa6">2026 纯玩 北京西安6日</div>
+        <div class="rp-route" data-route="cn-bjxash8">2026 纯玩 北京西安上海8日</div>
+        <div class="rp-route" data-route="cn-bjxayz12">2026 纯玩 北京西安上海长江三峡12日</div>
+        <div class="rp-route" data-route="cn-xa4">2026 纯玩 西安4日 / 华山5日</div>
+      </div>
+    </div>
   </nav>
-  <div class="rp-content">
-    <div class="rp-panel active" data-rp="0">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">一、北京 · 西安（华北）</h3>
-  <p style="color:#666;margin:0 0 16px 0;">帝都地标与十三朝古都，历史文化核心线，纯玩无购物，班期灵活。</p>
-  <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#279EE6;color:#fff;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">行程线路</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">核心亮点</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">出团规则</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">详情</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?350.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 北京4日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">故宫、长城、颐和园核心地标</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?350.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?351.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 北京西安6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">北京+西安双古都连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?351.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?352.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 北京西安上海8日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">华北+华东都市连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?352.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?353.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 北京西安上海长江三峡12日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">古都+都市+长江三峡长线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?353.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?354.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 北京西安长江三峡10日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">古都+长江三峡山水线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?354.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?389.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 西安4日 / 华山5日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">西安古都+华山险峰</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?389.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?355.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 西安长江三峡8日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">西安+长江三峡连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?355.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-    </tbody>
-  </table>
+  <div class="rp-detail-area">
+    <div class="rp-route-pane" data-route="cn-bj4" data-p-adult="799" data-p-child="499" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京4日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 799</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 499</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?350.html" target="_blank">echinatours 产品页</a>）</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-bjxa6" data-p-adult="999" data-p-child="699" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京西安6日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 999</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 699</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?351.html" target="_blank">echinatours 产品页</a>）</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-bjxash8" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京西安上海8日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1599</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1099</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?352.html" target="_blank">echinatours 产品页</a>）</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-bjxayz12" data-p-adult="2399" data-p-child="1699" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京西安上海长江三峡12日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2399</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1699</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?353.html" target="_blank">echinatours 产品页</a>）</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-xa4" data-p-adult="899" data-p-child="599" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 纯玩 西安4日 / 华山5日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 599</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?389.html" target="_blank">echinatours 产品页</a>）</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>  </div>
+</div>
 
-  <!-- 二、江南 · 上海（华东） -->
-    </div>
-    <div class="rp-panel" data-rp="1">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">二、江南 · 上海（华东）</h3>
-  <p style="color:#666;margin:0 0 16px 0;">长三角核心，水乡古镇与都市繁华兼具，纯玩无购物。</p>
-  <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#279EE6;color:#fff;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">行程线路</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">核心亮点</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">出团规则</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">详情</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?348.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 江南水乡6天</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">沪苏杭经典水乡环线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?348.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-    </tbody>
-  </table>
-
-  <!-- 三、九寨 · 张家界 · 云南 · 贵州（西南） -->
-    </div>
-    <div class="rp-panel" data-rp="2">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">三、九寨 · 张家界 · 云南 · 贵州（西南）</h3>
-  <p style="color:#666;margin:0 0 16px 0;">西南山水王国，九寨彩林、张家界峰林、云南高原湖泊，纯玩无购物。</p>
-  <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#279EE6;color:#fff;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">行程线路</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">核心亮点</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">出团规则</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">详情</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?379.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 九寨沟 成都乐山峨眉7日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">九寨沟+成都+乐山峨眉</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?379.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?380.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 九寨沟 长江三峡11日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">九寨沟+长江三峡连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?380.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?358.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 张家界6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">张家界地貌奇观</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?358.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?399.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 张家界凤凰古城7日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">张家界+凤凰古镇</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?399.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?359.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 张家界长江三峡9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">张家界+长江三峡</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?359.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?400.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 张家界长江三峡11日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">张家界+长江三峡长线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?400.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?373.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 贵州黄果树5日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">贵州黄果树瀑布</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?373.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?369.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 贵州桂林阳朔8日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">贵州+桂林山水</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?369.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?368.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 贵州凤凰张家界9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">贵州+凤凰+张家界</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?368.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?395.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 云南 丽江香格里拉泸沽湖石林10日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">云南高原湖泊全景</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?395.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?396.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 云南 昆明大理丽江香格里拉6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">云南经典三城</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?396.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?397.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 云南 昆明大理丽江香格里拉7日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">云南经典三城</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?397.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?398.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 云南 昆明大理丽江香格里拉8日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">云南经典三城</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?398.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?394.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 云南 丽江香格里拉泸沽湖9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">丽江+香格里拉+泸沽湖</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?394.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?374.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 贵州云南 云贵高原9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">云贵高原连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?374.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?375.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 贵州云南 云贵高原12日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">云贵高原长线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?375.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?346.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 洲际酒店豪华版 成都5日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">成都+洲际酒店升级</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?346.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-    </tbody>
-  </table>
-
-  <!-- 四、新疆 · 西藏 · 青海 · 丝绸之路（西北） -->
-    </div>
-    <div class="rp-panel" data-rp="3">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">四、新疆 · 西藏 · 青海 · 丝绸之路（西北）</h3>
-  <p style="color:#666;margin:0 0 16px 0;">大西北长线王国，丝路、高原与花季特别团，纯玩无购物。</p>
-  <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#279EE6;color:#fff;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">行程线路</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">核心亮点</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">出团规则</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">详情</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?356.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 西藏5日 - 洲际酒店特别版</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">西藏核心+洲际酒店</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?356.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?386.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 丝绸之路 传奇东方高铁7日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">丝路高铁连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?386.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?385.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 西安丝绸之路9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">西安+丝绸之路</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?385.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?384.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 丝绸之路茶卡盐湖青海湖9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">青海湖+茶卡盐湖</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?384.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?387.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 丝绸之路 青藏铁路 西藏10日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">青藏铁路+西藏</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?387.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?390.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 新疆北疆8日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">新疆北疆风光</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?390.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?392.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 新疆南疆8日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">新疆南疆风情</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?392.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?391.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 新疆南疆北疆全景15日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">新疆全景环线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?391.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-    </tbody>
-  </table>
-
-  <!-- 五、长江三峡（游轮专线） -->
-    </div>
-    <div class="rp-panel" data-rp="4">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">五、长江三峡（游轮专线）</h3>
-  <p style="color:#666;margin:0 0 16px 0;">长江新船王与三峡游轮为代表，沿江奢华慢游，纯玩无购物。</p>
-  <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#279EE6;color:#fff;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">行程线路</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">核心亮点</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">出团规则</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">详情</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?403.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 山城重庆 三峡游轮6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">重庆+三峡游轮</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?403.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?388.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 武汉黄鹤楼 三峡游轮6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">武汉+三峡游轮</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?388.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?393.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 宜昌重庆 三峡游轮6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">宜昌+重庆三峡游轮</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?393.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-    </tbody>
-  </table>
-
-  <!-- 六、山东 · 山西 · 东北 · 河南 -->
-    </div>
-    <div class="rp-panel" data-rp="5">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">六、山东 · 山西 · 东北 · 河南</h3>
-  <p style="color:#666;margin:0 0 16px 0;">齐鲁中原与东北名城，长白雪山、漠河极地，纯玩无购物。</p>
-  <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#279EE6;color:#fff;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">行程线路</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">核心亮点</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">出团规则</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">详情</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?382.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 山东6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">齐鲁大地连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?382.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?378.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 河南5日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">中原古都</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?378.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?383.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 山西7日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">晋商大院+古建</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?383.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?360.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 东北四大名城 长白山6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">东北名城+长白山</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?360.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?361.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 东北五大名城 长白山7日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">东北名城+长白山</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?361.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?372.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 东北名城 长白山 漠河9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">东北+漠河极地</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?372.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?425.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 冰雪奇缘东北圣诞新年狂欢团10日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">东北冰雪圣诞新年</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?425.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-    </tbody>
-  </table>
-
-  <!-- 七、广东 · 广西 · 福建 · 海南（华南） -->
-    </div>
-    <div class="rp-panel" data-rp="6">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">七、广东 · 广西 · 福建 · 海南（华南）</h3>
-  <p style="color:#666;margin:0 0 16px 0;">大湾区美食线与滨海度假，粤式饮食、闽南土楼、三亚海岛，纯玩无购物。</p>
-  <h4 style="font-size:16px;margin:20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#279EE6;color:#fff;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">行程线路</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:34%;">核心亮点</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">出团规则</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:16%;">详情</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?367.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 大湾区精品美食6日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">大湾区美食</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?367.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?357.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 香港潮汕韶关佛山广州超级美食10日游</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">港粤美食连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?357.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?349.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 香港3日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">香港都市</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?349.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?381.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 厦门土楼潮汕6日 & 7日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">闽南土楼+潮汕</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?381.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?347.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 海南岛三亚5天</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">三亚海岛度假</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?347.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?376.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 桂林 漓江阳朔5日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">桂林漓江山水</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?376.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?377.html" target="_blank" style="color:#279EE6;text-decoration:none;">2026 纯玩 桂林 长江三峡9日</a></td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">桂林+长江三峡</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">2026 多班期</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;"><a href="https://au.echinatours.com/cwwgw/html/?377.html" target="_blank" style="color:#279EE6;">查看详情</a></td></tr>
-    </tbody>
-  </table>
-  <!-- 经典连游组合 -->
-    </div>
-    <div class="rp-panel" data-rp="7">
-<h3 style="color:#279EE6;font-size:20px;margin:36px 0 8px 0;padding-bottom:6px;border-bottom:2px solid #279EE6;">经典连游组合</h3>
-  <p style="color:#666;margin:0 0 16px 0;">以下为真实在售线路的推荐拼接方式，具体组合班期与报价请咨询在线客服。</p>
-  <table border="0" cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse;margin-bottom:20px;">
-    <thead><tr style="background:#f0f7fc;color:#279EE6;"><th style="padding:10px 12px;text-align:left;font-weight:normal;width:22%;">方案名称</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:53%;">行程安排</th><th style="padding:10px 12px;text-align:left;font-weight:normal;width:25%;">适配场景</th></tr></thead>
-    <tbody>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">西南山水全景</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">九寨沟7日 → 张家界凤凰7日 → 云南昆大丽6/7日</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">多省连游、自然风光爱好者</td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">西北丝路大环线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">新疆北疆8日 → 丝绸之路青藏西藏10日</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">西北长线、深度与摄影客</td></tr>
-      <tr><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">古都+长江连线</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">北京西安8日 → 长江三峡游轮6日</td><td style="border:1px solid #e0e0e0;padding:10px 12px;vertical-align:top;">历史+山水长线客</td></tr>
-    </tbody>
-  </table>
-
-  <p style="color:#999;font-size:13px;margin:24px 0 0 0;border-top:1px dashed #e0e0e0;padding-top:12px;">* 以上线路均选自 2026 中国纯玩无购物系列（AUD 计价），详情与报名请点击各线路「查看详情」。最终班期、行程细节与报价以在线咨询确认为准。</p>
-    </div>
-  </div>
-
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：长城 © Wikimedia (Public Domain)；故宫神武门 © kallgan, CC BY-SA 3.0；张家界 © Kuruman, CC BY 2.0；西湖 © CC BY-SA 3.0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：长城 © Wikimedia (Public Domain)；故宫神武门 © kallgan, CC BY-SA 3.0；张家界 © Kuruman, CC BY 2.0；西湖 © CC BY-SA 3.0.</p>`;
 })();
