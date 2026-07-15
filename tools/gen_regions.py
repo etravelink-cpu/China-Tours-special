@@ -17,7 +17,7 @@ JS  = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
 MANAGED = ['china','asia','island','america','other']
 
 def norm(s): return re.sub(r'\s+','', str(s)).strip()
-def slug(name): return re.sub(r'[^一-龥a-zA-Z0-9]','', str(name))[:10]
+def slug(name): return re.sub(r'[^一-龥a-zA-Z0-9]','', str(name))[:18]
 def fmt_price(v):
     try:
         f=float(v); return '待确认' if f==0 else (str(int(f)) if f==int(f) else str(f))

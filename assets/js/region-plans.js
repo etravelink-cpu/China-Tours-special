@@ -2297,7 +2297,7 @@ window.REGION_PLANS.australia = `
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
 
-            window.REGION_PLANS.asia = `
+                window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -2314,40 +2314,40 @@ window.REGION_PLANS.australia = `
       <div class="rp-group" data-group="日本线">
         <div class="rp-group-title">日本线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="as-2026纯玩缤纷日本">2026（纯玩）缤纷日本 6 日</div>
-        <div class="rp-route" data-route="as-2026纯玩日本北海">2026（纯玩）日本北海道 5 日</div>
-        <div class="rp-route" data-route="as-2026纯玩日本东京">2026（纯玩）日本东京富士山北海道 10 日</div>
-        <div class="rp-route" data-route="as-2026白色圣诞浪漫">2026 白色圣诞浪漫新年缤纷日本 9 日游（金牌纯玩）</div>
+        <div class="rp-route" data-route="as-2026纯玩缤纷日本6日">2026（纯玩）缤纷日本 6 日</div>
+        <div class="rp-route" data-route="as-2026纯玩日本北海道5日">2026（纯玩）日本北海道 5 日</div>
+        <div class="rp-route" data-route="as-2026纯玩日本东京富士山北海道10">2026（纯玩）日本东京富士山北海道 10 日</div>
+        <div class="rp-route" data-route="as-2026白色圣诞浪漫新年缤纷日本9日">2026 白色圣诞浪漫新年缤纷日本 9 日游（金牌纯玩）</div>
         </div>
       </div>
       <div class="rp-group" data-group="中国台湾线">
         <div class="rp-group-title">中国台湾线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="as-2026玩转台湾轻松">2026 玩转台湾 轻松环岛 6 日</div>
-        <div class="rp-route" data-route="as-2026玩转台湾精华">2026 玩转台湾 精华环岛 7 日</div>
-        <div class="rp-route" data-route="as-2026玩转台湾全景">2026 玩转台湾 全景环岛 8 日</div>
-        <div class="rp-route" data-route="as-2026纯玩宝岛风情">2026（纯玩）宝岛风情台湾 5 日 / 6 日</div>
-        <div class="rp-route" data-route="as-2026纯玩宝岛风情2">2026（纯玩）宝岛风情台湾 8 日</div>
+        <div class="rp-route" data-route="as-2026玩转台湾轻松环岛6日">2026 玩转台湾 轻松环岛 6 日</div>
+        <div class="rp-route" data-route="as-2026玩转台湾精华环岛7日">2026 玩转台湾 精华环岛 7 日</div>
+        <div class="rp-route" data-route="as-2026玩转台湾全景环岛8日">2026 玩转台湾 全景环岛 8 日</div>
+        <div class="rp-route" data-route="as-2026纯玩宝岛风情台湾5日6日">2026（纯玩）宝岛风情台湾 5 日 / 6 日</div>
+        <div class="rp-route" data-route="as-2026纯玩宝岛风情台湾8日">2026（纯玩）宝岛风情台湾 8 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="韩国线">
         <div class="rp-group-title">韩国线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
         <div class="rp-route" data-route="as-2026韩国6日">2026 韩国 6 日</div>
-        <div class="rp-route" data-route="as-2026纯玩韩国首尔">2026（纯玩）韩国首尔江原道 5 日</div>
+        <div class="rp-route" data-route="as-2026纯玩韩国首尔江原道5日">2026（纯玩）韩国首尔江原道 5 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="东南亚线">
         <div class="rp-group-title">东南亚线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="as-2026越南双龙湾豪">2026 越南双龙湾豪华美食 6 日</div>
-        <div class="rp-route" data-route="as-2026纯玩新加坡马">2026（纯玩）新加坡马来西亚 6 天 - 新进马出</div>
-        <div class="rp-route" data-route="as-2026纯玩马来西亚">2026（纯玩）马来西亚新加坡 6 天 - 马进新出</div>
+        <div class="rp-route" data-route="as-2026越南双龙湾豪华美食6日">2026 越南双龙湾豪华美食 6 日</div>
+        <div class="rp-route" data-route="as-2026纯玩新加坡马来西亚6天新进马">2026（纯玩）新加坡马来西亚 6 天 - 新进马出</div>
+        <div class="rp-route" data-route="as-2026纯玩马来西亚新加坡6天马进新">2026（纯玩）马来西亚新加坡 6 天 - 马进新出</div>
         </div>
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="as-2026纯玩缤纷日本2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="as-2026纯玩缤纷日本6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）缤纷日本 6 日</h3>
@@ -2394,7 +2394,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本北海2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本北海道5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）日本北海道 5 日</h3>
@@ -2440,7 +2440,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本东京2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本东京富士山北海道102" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）日本东京富士山北海道 10 日</h3>
@@ -2491,7 +2491,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026白色圣诞浪漫2" data-p-adult="2599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026白色圣诞浪漫新年缤纷日本9日2" data-p-adult="2599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 白色圣诞浪漫新年缤纷日本 9 日游（金牌纯玩）</h3>
@@ -2541,7 +2541,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾轻松2" data-p-adult="638" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾轻松环岛6日2" data-p-adult="638" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 玩转台湾 轻松环岛 6 日</h3>
@@ -2588,7 +2588,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾精华2" data-p-adult="638" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾精华环岛7日2" data-p-adult="638" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 玩转台湾 精华环岛 7 日</h3>
@@ -2636,7 +2636,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾全景2" data-p-adult="638" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾全景环岛8日2" data-p-adult="638" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 玩转台湾 全景环岛 8 日</h3>
@@ -2685,7 +2685,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情台湾5日6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）宝岛风情台湾 5 日 / 6 日</h3>
@@ -2731,7 +2731,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情台湾8日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）宝岛风情台湾 8 日</h3>
@@ -2827,7 +2827,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026纯玩韩国首尔2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩韩国首尔江原道5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）韩国首尔江原道 5 日</h3>
@@ -2873,7 +2873,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026越南双龙湾豪2" data-p-adult="498" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026越南双龙湾豪华美食6日2" data-p-adult="498" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 越南双龙湾豪华美食 6 日</h3>
@@ -2920,7 +2920,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026纯玩新加坡马2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩新加坡马来西亚6天新进马2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）新加坡马来西亚 6 天 - 新进马出</h3>
@@ -2962,7 +2962,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-2026纯玩马来西亚2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩马来西亚新加坡6天马进新2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）马来西亚新加坡 6 天 - 马进新出</h3>
@@ -3008,6 +3008,10 @@ window.REGION_PLANS.australia = `
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
+
+
+
+
 
 
 
@@ -3262,7 +3266,7 @@ window.REGION_PLANS.australia = `
   </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-            window.REGION_PLANS.china = `
+                window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -3283,107 +3287,107 @@ window.REGION_PLANS.australia = `
         <div class="rp-route" data-route="ch-sgxjs0826f">2026 穿越胡杨林 喀什南疆秘境 8 日（金秋特别团）</div>
         <div class="rp-route" data-route="ch-sgxjn1426e">2026 江南・新疆禾木喀纳斯可可托海魔鬼城 14 日（旺季特别团）</div>
         <div class="rp-route" data-route="ch-sgxjn0826e">2026 醉美新疆 禾木喀纳斯可可托海魔鬼城 8 日（旺季特别团）</div>
-        <div class="rp-route" data-route="ch-2026杏福新疆伊犁">2026 杏福新疆・伊犁花季 8 日（春季特别团）</div>
-        <div class="rp-route" data-route="ch-2026草原牧歌新疆">2026 草原牧歌・新疆北疆 8 日（春季特别团）</div>
-        <div class="rp-route" data-route="ch-2026绿野仙踪新疆">2026 绿野仙踪 新疆阿勒泰喀纳斯醉美 8 日（买一送一特别团）</div>
-        <div class="rp-route" data-route="ch-2026盛夏伊犁薰衣">2026 盛夏伊犁・薰衣草之旅 8 日（夏季特别团）</div>
+        <div class="rp-route" data-route="ch-2026杏福新疆伊犁花季8日春季特别">2026 杏福新疆・伊犁花季 8 日（春季特别团）</div>
+        <div class="rp-route" data-route="ch-2026草原牧歌新疆北疆8日春季特别">2026 草原牧歌・新疆北疆 8 日（春季特别团）</div>
+        <div class="rp-route" data-route="ch-2026绿野仙踪新疆阿勒泰喀纳斯醉美">2026 绿野仙踪 新疆阿勒泰喀纳斯醉美 8 日（买一送一特别团）</div>
+        <div class="rp-route" data-route="ch-2026盛夏伊犁薰衣草之旅8日夏季特">2026 盛夏伊犁・薰衣草之旅 8 日（夏季特别团）</div>
         </div>
       </div>
       <div class="rp-group" data-group="长江三峡游轮专线">
         <div class="rp-group-title">长江三峡游轮专线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026铂金江南长江">2026 铂金江南 长江新船王极光号 / 揽月号 12 日</div>
-        <div class="rp-route" data-route="ch-2026奢华江南和平">2026 奢华江南和平饭店 - 长江新船王揽月号 / 极光号 13 日（AB/AA 团）</div>
-        <div class="rp-route" data-route="ch-2026九寨沟成都重">2026 九寨沟成都重庆长江新船王揽月号 / 极光号 13 日</div>
-        <div class="rp-route" data-route="ch-2026江南长江三峡">2026 江南 长江三峡 11 日</div>
+        <div class="rp-route" data-route="ch-2026铂金江南长江新船王极光号揽月">2026 铂金江南 长江新船王极光号 / 揽月号 12 日</div>
+        <div class="rp-route" data-route="ch-2026奢华江南和平饭店长江新船王揽">2026 奢华江南和平饭店 - 长江新船王揽月号 / 极光号 13 日（AB/AA 团）</div>
+        <div class="rp-route" data-route="ch-2026九寨沟成都重庆长江新船王揽月">2026 九寨沟成都重庆长江新船王揽月号 / 极光号 13 日</div>
+        <div class="rp-route" data-route="ch-2026江南长江三峡11日">2026 江南 长江三峡 11 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="江南高端酒店专线">
         <div class="rp-group-title">江南高端酒店专线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
         <div class="rp-route" data-route="ch-2026铂金江南7日">2026 铂金江南 7 日</div>
-        <div class="rp-route" data-route="ch-2026璀璨金钻江南">2026 璀璨金钻～江南奢华 8 日（A 团 & AB 团 & AA 团）</div>
-        <div class="rp-route" data-route="ch-2026深坑洲际黄山">2026 深坑洲际・黄山千岛湖 9 日</div>
-        <div class="rp-route" data-route="ch-2026深坑洲际婺源">2026 深坑洲际・婺源望仙谷 9 日</div>
-        <div class="rp-route" data-route="ch-2026深坑洲际海天">2026 深坑洲际・海天佛国普陀山 9 日</div>
-        <div class="rp-route" data-route="ch-2026深坑洲际九华">2026 深坑洲际・九华山 9 日</div>
-        <div class="rp-route" data-route="ch-2026深坑洲际泰山">2026 深坑洲际・泰山曲阜 9 日</div>
-        <div class="rp-route" data-route="ch-2026深坑洲际庐山">2026 深坑洲际・庐山 9 日</div>
+        <div class="rp-route" data-route="ch-2026璀璨金钻江南奢华8日A团AB">2026 璀璨金钻～江南奢华 8 日（A 团 & AB 团 & AA 团）</div>
+        <div class="rp-route" data-route="ch-2026深坑洲际黄山千岛湖9日">2026 深坑洲际・黄山千岛湖 9 日</div>
+        <div class="rp-route" data-route="ch-2026深坑洲际婺源望仙谷9日">2026 深坑洲际・婺源望仙谷 9 日</div>
+        <div class="rp-route" data-route="ch-2026深坑洲际海天佛国普陀山9日">2026 深坑洲际・海天佛国普陀山 9 日</div>
+        <div class="rp-route" data-route="ch-2026深坑洲际九华山9日">2026 深坑洲际・九华山 9 日</div>
+        <div class="rp-route" data-route="ch-2026深坑洲际泰山曲阜9日">2026 深坑洲际・泰山曲阜 9 日</div>
+        <div class="rp-route" data-route="ch-2026深坑洲际庐山9日">2026 深坑洲际・庐山 9 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="川藏・九寨沟专线">
         <div class="rp-group-title">川藏・九寨沟专线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026成都九寨沟洲">2026 成都・九寨沟 洲际酒店奢华超五星升级版 8 日</div>
-        <div class="rp-route" data-route="ch-2026九寨沟长江三">2026 九寨沟 长江三峡 洲际酒店超豪华五星升级版 12 日</div>
-        <div class="rp-route" data-route="ch-2026山城重庆大足">2026 山城重庆 大足石刻武隆 6 日</div>
-        <div class="rp-route" data-route="ch-2026重庆大足石刻">2026 重庆大足石刻 长江三峡 10 日</div>
-        <div class="rp-route" data-route="ch-2026醉美川藏成都">2026 醉美川藏 成都西藏深度 11 日 / 14 日</div>
+        <div class="rp-route" data-route="ch-2026成都九寨沟洲际酒店奢华超五星">2026 成都・九寨沟 洲际酒店奢华超五星升级版 8 日</div>
+        <div class="rp-route" data-route="ch-2026九寨沟长江三峡洲际酒店超豪华">2026 九寨沟 长江三峡 洲际酒店超豪华五星升级版 12 日</div>
+        <div class="rp-route" data-route="ch-2026山城重庆大足石刻武隆6日">2026 山城重庆 大足石刻武隆 6 日</div>
+        <div class="rp-route" data-route="ch-2026重庆大足石刻长江三峡10日">2026 重庆大足石刻 长江三峡 10 日</div>
+        <div class="rp-route" data-route="ch-2026醉美川藏成都西藏深度11日1">2026 醉美川藏 成都西藏深度 11 日 / 14 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="大湾区・岭南美食专线">
         <div class="rp-group-title">大湾区・岭南美食专线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026大湾区美食机">2026 大湾区美食・机器人奇观 6 日 / 7 日</div>
-        <div class="rp-route" data-route="ch-2026舌尖广东珠江">2026 舌尖广东・珠江美食 6 日</div>
-        <div class="rp-route" data-route="ch-2026大湾区广东美">2026 大湾区・广东美食 6 日</div>
-        <div class="rp-route" data-route="ch-2026寻味大湾区广">2026 寻味大湾区・广东美食 7 日</div>
-        <div class="rp-route" data-route="ch-2026潮汕高铁广东">2026 潮汕高铁・广东美食 7 日</div>
-        <div class="rp-route" data-route="ch-2026潮汕风情珠江">2026 潮汕风情・珠江美食 8 日</div>
-        <div class="rp-route" data-route="ch-2026香港大湾区珠">2026 香港大湾区 珠江美食 8 日</div>
-        <div class="rp-route" data-route="ch-2026香港潮汕珠江">2026 香港潮汕・珠江美食 10 日</div>
-        <div class="rp-route" data-route="ch-2026珠江美食长江">2026 珠江美食・长江美景 10 日</div>
-        <div class="rp-route" data-route="ch-2026大湾区美食长">2026 大湾区美食・长江三峡 10 日</div>
-        <div class="rp-route" data-route="ch-2026珠江美食越南">2026 珠江美食・越南下龙湾 10 日</div>
+        <div class="rp-route" data-route="ch-2026大湾区美食机器人奇观6日7日">2026 大湾区美食・机器人奇观 6 日 / 7 日</div>
+        <div class="rp-route" data-route="ch-2026舌尖广东珠江美食6日">2026 舌尖广东・珠江美食 6 日</div>
+        <div class="rp-route" data-route="ch-2026大湾区广东美食6日">2026 大湾区・广东美食 6 日</div>
+        <div class="rp-route" data-route="ch-2026寻味大湾区广东美食7日">2026 寻味大湾区・广东美食 7 日</div>
+        <div class="rp-route" data-route="ch-2026潮汕高铁广东美食7日">2026 潮汕高铁・广东美食 7 日</div>
+        <div class="rp-route" data-route="ch-2026潮汕风情珠江美食8日">2026 潮汕风情・珠江美食 8 日</div>
+        <div class="rp-route" data-route="ch-2026香港大湾区珠江美食8日">2026 香港大湾区 珠江美食 8 日</div>
+        <div class="rp-route" data-route="ch-2026香港潮汕珠江美食10日">2026 香港潮汕・珠江美食 10 日</div>
+        <div class="rp-route" data-route="ch-2026珠江美食长江美景10日">2026 珠江美食・长江美景 10 日</div>
+        <div class="rp-route" data-route="ch-2026大湾区美食长江三峡10日">2026 大湾区美食・长江三峡 10 日</div>
+        <div class="rp-route" data-route="ch-2026珠江美食越南下龙湾10日">2026 珠江美食・越南下龙湾 10 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="国内经典目的地专线">
         <div class="rp-group-title">国内经典目的地专线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026张家界凤凰古">2026 张家界・凤凰古城 7 日</div>
-        <div class="rp-route" data-route="ch-2026张家界长江三">2026 张家界・长江三峡 11 日</div>
+        <div class="rp-route" data-route="ch-2026张家界凤凰古城7日">2026 张家界・凤凰古城 7 日</div>
+        <div class="rp-route" data-route="ch-2026张家界长江三峡11日">2026 张家界・长江三峡 11 日</div>
         <div class="rp-route" data-route="ch-2026北京5日6日">2026 北京 5 日 / 6 日</div>
-        <div class="rp-route" data-route="ch-2026北京长江三峡">2026 北京 长江三峡 9 日</div>
+        <div class="rp-route" data-route="ch-2026北京长江三峡9日">2026 北京 长江三峡 9 日</div>
         <div class="rp-route" data-route="ch-2026桂林6日">2026 桂林 6 日</div>
-        <div class="rp-route" data-route="ch-2026桂林长江三峡">2026 桂林 长江三峡 11 日</div>
-        <div class="rp-route" data-route="ch-2026厦门泉州土楼">2026 厦门泉州土楼 6 日</div>
-        <div class="rp-route" data-route="ch-2026厦门土楼武夷">2026 厦门土楼武夷山 8 日</div>
-        <div class="rp-route" data-route="ch-2026厦门长江三峡">2026 厦门 长江三峡 11 日</div>
-        <div class="rp-route" data-route="ch-2026云南昆明大理">2026 云南 昆明大理丽江 6 日 / 7 日</div>
-        <div class="rp-route" data-route="ch-2026海南海口三亚">2026 海南 海口三亚 6 日</div>
+        <div class="rp-route" data-route="ch-2026桂林长江三峡11日">2026 桂林 长江三峡 11 日</div>
+        <div class="rp-route" data-route="ch-2026厦门泉州土楼6日">2026 厦门泉州土楼 6 日</div>
+        <div class="rp-route" data-route="ch-2026厦门土楼武夷山8日">2026 厦门土楼武夷山 8 日</div>
+        <div class="rp-route" data-route="ch-2026厦门长江三峡11日">2026 厦门 长江三峡 11 日</div>
+        <div class="rp-route" data-route="ch-2026云南昆明大理丽江6日7日">2026 云南 昆明大理丽江 6 日 / 7 日</div>
+        <div class="rp-route" data-route="ch-2026海南海口三亚6日">2026 海南 海口三亚 6 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="超长穿越与跨境游轮专线">
         <div class="rp-group-title">超长穿越与跨境游轮专线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
         <div class="rp-route" data-route="ch-sgjnsr1726">2026 横贯中国・纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团</div>
-        <div class="rp-route" data-route="ch-2026金钻江南深圳">2026（金钻江南 + 深圳机器人）马来西亚 - 文莱 - 越南 - 爱达魔都号游轮 16 日</div>
-        <div class="rp-route" data-route="ch-2026金钻江南爱达">2026 金钻江南・爱达魔都号游轮 11 日（A&AA 团）</div>
+        <div class="rp-route" data-route="ch-2026金钻江南深圳机器人马来西亚文">2026（金钻江南 + 深圳机器人）马来西亚 - 文莱 - 越南 - 爱达魔都号游轮 16 日</div>
+        <div class="rp-route" data-route="ch-2026金钻江南爱达魔都号游轮11日">2026 金钻江南・爱达魔都号游轮 11 日（A&AA 团）</div>
         <div class="rp-route" data-route="ch-sgjnad1726">2026 爱达花城号海上丝绸之路 亚洲巡礼・爱达花城号游轮 17 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="西南（川渝、西藏）">
         <div class="rp-group-title">西南（川渝、西藏） <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026纯玩九寨沟成">2026（纯玩）九寨沟 成都乐山峨眉 7 日（九寨沟高铁体验特别版）</div>
-        <div class="rp-route" data-route="ch-2026纯玩九寨沟长">2026（纯玩）九寨沟 长江三峡 11 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩洲际酒店">2026（纯玩）洲际酒店豪华版 成都 5 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩山城重庆">2026（纯玩）山城重庆 3 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩山城重庆2">2026（纯玩）山城重庆 武隆天生三桥 5 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩山城重庆3">2026（纯玩）山城重庆 三峡游轮 6 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩西藏5日">2026（纯玩）西藏 5 日 - 洲际酒店特别版</div>
+        <div class="rp-route" data-route="ch-2026纯玩九寨沟成都乐山峨眉7日九">2026（纯玩）九寨沟 成都乐山峨眉 7 日（九寨沟高铁体验特别版）</div>
+        <div class="rp-route" data-route="ch-2026纯玩九寨沟长江三峡11日">2026（纯玩）九寨沟 长江三峡 11 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩洲际酒店豪华版成都5日">2026（纯玩）洲际酒店豪华版 成都 5 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩山城重庆3日">2026（纯玩）山城重庆 3 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩山城重庆武隆天生三桥5日">2026（纯玩）山城重庆 武隆天生三桥 5 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩山城重庆三峡游轮6日">2026（纯玩）山城重庆 三峡游轮 6 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩西藏5日洲际酒店特别版">2026（纯玩）西藏 5 日 - 洲际酒店特别版</div>
         </div>
       </div>
       <div class="rp-group" data-group="华北 / 中原">
         <div class="rp-group-title">华北 / 中原 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
         <div class="rp-route" data-route="ch-2026纯玩北京4日">2026（纯玩）北京 4 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩北京西安">2026（纯玩）北京西安 6 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩北京西安2">2026（纯玩）北京西安上海 8 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩北京西安3">2026（纯玩）北京、西安、长江三峡 10 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩北京西安4">2026（纯玩）北京西安上海长江三峡 12 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩西安4日">2026 (纯玩) 西安 4 日 / 华山 5 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩西安长江">2026（纯玩) 西安、长江三峡 8 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩北京西安6日">2026（纯玩）北京西安 6 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩北京西安上海8日">2026（纯玩）北京西安上海 8 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩北京西安长江三峡10日">2026（纯玩）北京、西安、长江三峡 10 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩北京西安上海长江三峡12">2026（纯玩）北京西安上海长江三峡 12 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩西安4日华山5日">2026 (纯玩) 西安 4 日 / 华山 5 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩西安长江三峡8日">2026（纯玩) 西安、长江三峡 8 日</div>
         <div class="rp-route" data-route="ch-2026纯玩山东6日">2026（纯玩）山东 6 日</div>
         <div class="rp-route" data-route="ch-2026纯玩河南5日">2026（纯玩）河南 5 日</div>
         <div class="rp-route" data-route="ch-2026纯玩山西7日">2026（纯玩）山西 7 日</div>
@@ -3392,65 +3396,65 @@ window.REGION_PLANS.australia = `
       <div class="rp-group" data-group="湘鄂・长江三峡线">
         <div class="rp-group-title">湘鄂・长江三峡线 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026纯玩张家界6">2026（纯玩）张家界 6 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩张家界凤">2026（纯玩）张家界凤凰古城 7 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩张家界长">2026（纯玩）张家界长江三峡 9 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩张家界长2">2026（纯玩）张家界长江三峡 11 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩武汉黄鹤">2026（纯玩）武汉黄鹤楼 三峡游轮 6 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩宜昌重庆">2026（纯玩）宜昌重庆 三峡游轮 6 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩张家界6日">2026（纯玩）张家界 6 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩张家界凤凰古城7日">2026（纯玩）张家界凤凰古城 7 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩张家界长江三峡9日">2026（纯玩）张家界长江三峡 9 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩张家界长江三峡11日">2026（纯玩）张家界长江三峡 11 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩武汉黄鹤楼三峡游轮6日">2026（纯玩）武汉黄鹤楼 三峡游轮 6 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩宜昌重庆三峡游轮6日">2026（纯玩）宜昌重庆 三峡游轮 6 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="云贵桂">
         <div class="rp-group-title">云贵桂 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026锦绣中华多彩">2026【锦绣中华】多彩贵州・大美江西・金秋揽胜 16 天</div>
-        <div class="rp-route" data-route="ch-2026纯玩贵州黄果">2026（纯玩）贵州黄果树 5 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩贵州桂林">2026（纯玩）贵州桂林阳朔 8 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩贵州凤凰">2026（纯玩）贵州凤凰张家界 9 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩桂林漓江">2026（纯玩）桂林 漓江阳朔 5 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩桂林长江">2026（纯玩）桂林 长江三峡 9 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩云南昆明">2026（纯玩）云南 昆明大理丽江香格里拉 6 日 / 7 日 / 8 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩云南丽江">2026（纯玩）云南 丽江香格里拉泸沽湖 9 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩云南丽江2">2026（纯玩）云南 丽江香格里拉泸沽湖石林 10 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩贵州云南">2026（纯玩）贵州云南 云贵高原 9 日 / 12 日</div>
+        <div class="rp-route" data-route="ch-2026锦绣中华多彩贵州大美江西金秋">2026【锦绣中华】多彩贵州・大美江西・金秋揽胜 16 天</div>
+        <div class="rp-route" data-route="ch-2026纯玩贵州黄果树5日">2026（纯玩）贵州黄果树 5 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩贵州桂林阳朔8日">2026（纯玩）贵州桂林阳朔 8 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩贵州凤凰张家界9日">2026（纯玩）贵州凤凰张家界 9 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩桂林漓江阳朔5日">2026（纯玩）桂林 漓江阳朔 5 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩桂林长江三峡9日">2026（纯玩）桂林 长江三峡 9 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩云南昆明大理丽江香格里拉">2026（纯玩）云南 昆明大理丽江香格里拉 6 日 / 7 日 / 8 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩云南丽江香格里拉泸沽湖9">2026（纯玩）云南 丽江香格里拉泸沽湖 9 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩云南丽江香格里拉泸沽湖石">2026（纯玩）云南 丽江香格里拉泸沽湖石林 10 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩贵州云南云贵高原9日12">2026（纯玩）贵州云南 云贵高原 9 日 / 12 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="东北">
         <div class="rp-group-title">东北 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026冰雪奇缘东北">2026 冰雪奇缘东北圣诞新年狂欢团 10 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩东北四大">2026（纯玩）东北四大名城 长白山 6 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩东北五大">2026（纯玩）东北五大名城 长白山 7 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩东北名城">2026（纯玩）东北名城 长白山 漠河 9 日</div>
+        <div class="rp-route" data-route="ch-2026冰雪奇缘东北圣诞新年狂欢团1">2026 冰雪奇缘东北圣诞新年狂欢团 10 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩东北四大名城长白山6日">2026（纯玩）东北四大名城 长白山 6 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩东北五大名城长白山7日">2026（纯玩）东北五大名城 长白山 7 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩东北名城长白山漠河9日">2026（纯玩）东北名城 长白山 漠河 9 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="新疆・丝路">
         <div class="rp-group-title">新疆・丝路 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026纯玩丝绸之路">2026（纯玩）丝绸之路 传奇东方高铁 7 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩西安丝绸">2026 (纯玩) 西安、丝绸之路 9 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩丝绸之路2">2026 (纯玩) 丝绸之路、茶卡盐湖青海湖 9 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩丝绸之路3">2026（纯玩）丝绸之路 青藏铁路 西藏 10 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩新疆北疆">2026（纯玩）新疆北疆 8 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩新疆南疆">2026（纯玩）新疆南疆 8 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩新疆南疆2">2026（纯玩）新疆南疆北疆全景 15 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩丝绸之路传奇东方高铁7日">2026（纯玩）丝绸之路 传奇东方高铁 7 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩西安丝绸之路9日">2026 (纯玩) 西安、丝绸之路 9 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩丝绸之路茶卡盐湖青海湖9">2026 (纯玩) 丝绸之路、茶卡盐湖青海湖 9 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩丝绸之路青藏铁路西藏10">2026（纯玩）丝绸之路 青藏铁路 西藏 10 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩新疆北疆8日">2026（纯玩）新疆北疆 8 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩新疆南疆8日">2026（纯玩）新疆南疆 8 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩新疆南疆北疆全景15日">2026（纯玩）新疆南疆北疆全景 15 日</div>
         </div>
       </div>
       <div class="rp-group" data-group="华东・华南・港澳">
         <div class="rp-group-title">华东・华南・港澳 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026纯玩江南水乡">2026 (纯玩) 江南水乡 6 天</div>
-        <div class="rp-route" data-route="ch-2026纯玩大湾区精">2026（纯玩）大湾区精品美食 6 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩香港潮汕">2026（纯玩）香港潮汕韶关佛山广州超级美食 10 日游</div>
+        <div class="rp-route" data-route="ch-2026纯玩江南水乡6天">2026 (纯玩) 江南水乡 6 天</div>
+        <div class="rp-route" data-route="ch-2026纯玩大湾区精品美食6日">2026（纯玩）大湾区精品美食 6 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩香港潮汕韶关佛山广州超级">2026（纯玩）香港潮汕韶关佛山广州超级美食 10 日游</div>
         <div class="rp-route" data-route="ch-2026纯玩香港3日">2026（纯玩）香港 3 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩厦门土楼">2026 (纯玩) 厦门土楼潮汕 6 日 & 7 日</div>
-        <div class="rp-route" data-route="ch-2026纯玩海南岛三">2026 (纯玩) 海南岛三亚 5 天</div>
+        <div class="rp-route" data-route="ch-2026纯玩厦门土楼潮汕6日7日">2026 (纯玩) 厦门土楼潮汕 6 日 & 7 日</div>
+        <div class="rp-route" data-route="ch-2026纯玩海南岛三亚5天">2026 (纯玩) 海南岛三亚 5 天</div>
         </div>
       </div>
       <div class="rp-group" data-group="机票套餐·特别定制">
         <div class="rp-group-title">机票套餐·特别定制 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-2026冰雪奇缘东北3">2026冰雪奇缘东北新年狂欢团12日-包机票</div>
+        <div class="rp-route" data-route="ch-2026冰雪奇缘东北新年狂欢团12日">2026冰雪奇缘东北新年狂欢团12日-包机票</div>
         </div>
       </div>
   </nav>
@@ -3663,7 +3667,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026杏福新疆伊犁2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026杏福新疆伊犁花季8日春季特别2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 杏福新疆・伊犁花季 8 日（春季特别团）</h3>
@@ -3712,7 +3716,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026草原牧歌新疆2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026草原牧歌新疆北疆8日春季特别2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 草原牧歌・新疆北疆 8 日（春季特别团）</h3>
@@ -3761,7 +3765,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026绿野仙踪新疆2" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026绿野仙踪新疆阿勒泰喀纳斯醉美2" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 绿野仙踪 新疆阿勒泰喀纳斯醉美 8 日（买一送一特别团）</h3>
@@ -3810,7 +3814,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026盛夏伊犁薰衣2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026盛夏伊犁薰衣草之旅8日夏季特2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 盛夏伊犁・薰衣草之旅 8 日（夏季特别团）</h3>
@@ -3859,7 +3863,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026铂金江南长江2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026铂金江南长江新船王极光号揽月2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 铂金江南 长江新船王极光号 / 揽月号 12 日</h3>
@@ -3912,7 +3916,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026奢华江南和平2" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026奢华江南和平饭店长江新船王揽2" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 奢华江南和平饭店 - 长江新船王揽月号 / 极光号 13 日（AB/AA 团）</h3>
@@ -3966,7 +3970,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026九寨沟成都重2" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026九寨沟成都重庆长江新船王揽月2" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 九寨沟成都重庆长江新船王揽月号 / 极光号 13 日</h3>
@@ -4020,7 +4024,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026江南长江三峡2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026江南长江三峡11日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 江南 长江三峡 11 日</h3>
@@ -4120,7 +4124,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026璀璨金钻江南2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026璀璨金钻江南奢华8日A团AB2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 璀璨金钻～江南奢华 8 日（A 团 & AB 团 & AA 团）</h3>
@@ -4169,7 +4173,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际黄山2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际黄山千岛湖9日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 深坑洲际・黄山千岛湖 9 日</h3>
@@ -4219,7 +4223,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际婺源2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际婺源望仙谷9日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 深坑洲际・婺源望仙谷 9 日</h3>
@@ -4269,7 +4273,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际海天2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际海天佛国普陀山9日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 深坑洲际・海天佛国普陀山 9 日</h3>
@@ -4319,7 +4323,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际九华2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际九华山9日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 深坑洲际・九华山 9 日</h3>
@@ -4369,7 +4373,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际泰山2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际泰山曲阜9日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 深坑洲际・泰山曲阜 9 日</h3>
@@ -4419,7 +4423,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际庐山2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际庐山9日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 深坑洲际・庐山 9 日</h3>
@@ -4469,7 +4473,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026成都九寨沟洲2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026成都九寨沟洲际酒店奢华超五星2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 成都・九寨沟 洲际酒店奢华超五星升级版 8 日</h3>
@@ -4518,7 +4522,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026九寨沟长江三2" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026九寨沟长江三峡洲际酒店超豪华2" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 九寨沟 长江三峡 洲际酒店超豪华五星升级版 12 日</h3>
@@ -4571,7 +4575,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026山城重庆大足2" data-p-adult="399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026山城重庆大足石刻武隆6日2" data-p-adult="399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 山城重庆 大足石刻武隆 6 日</h3>
@@ -4618,7 +4622,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026重庆大足石刻2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026重庆大足石刻长江三峡10日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 重庆大足石刻 长江三峡 10 日</h3>
@@ -4669,7 +4673,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026醉美川藏成都2" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026醉美川藏成都西藏深度11日12" data-p-adult="2499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 醉美川藏 成都西藏深度 11 日 / 14 日</h3>
@@ -4721,7 +4725,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026大湾区美食机2" data-p-adult="169" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026大湾区美食机器人奇观6日7日2" data-p-adult="169" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 大湾区美食・机器人奇观 6 日 / 7 日</h3>
@@ -4768,7 +4772,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026舌尖广东珠江2" data-p-adult="259" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026舌尖广东珠江美食6日2" data-p-adult="259" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 舌尖广东・珠江美食 6 日</h3>
@@ -4815,7 +4819,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026大湾区广东美2" data-p-adult="169" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026大湾区广东美食6日2" data-p-adult="169" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 大湾区・广东美食 6 日</h3>
@@ -4862,7 +4866,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026寻味大湾区广2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026寻味大湾区广东美食7日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 寻味大湾区・广东美食 7 日</h3>
@@ -4910,7 +4914,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026潮汕高铁广东2" data-p-adult="269" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026潮汕高铁广东美食7日2" data-p-adult="269" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 潮汕高铁・广东美食 7 日</h3>
@@ -4958,7 +4962,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026潮汕风情珠江2" data-p-adult="279" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026潮汕风情珠江美食8日2" data-p-adult="279" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 潮汕风情・珠江美食 8 日</h3>
@@ -5007,7 +5011,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026香港大湾区珠2" data-p-adult="689" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026香港大湾区珠江美食8日2" data-p-adult="689" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 香港大湾区 珠江美食 8 日</h3>
@@ -5056,7 +5060,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026香港潮汕珠江2" data-p-adult="699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026香港潮汕珠江美食10日2" data-p-adult="699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 香港潮汕・珠江美食 10 日</h3>
@@ -5107,7 +5111,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026珠江美食长江2" data-p-adult="399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026珠江美食长江美景10日2" data-p-adult="399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 珠江美食・长江美景 10 日</h3>
@@ -5158,7 +5162,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026大湾区美食长2" data-p-adult="169" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026大湾区美食长江三峡10日2" data-p-adult="169" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 大湾区美食・长江三峡 10 日</h3>
@@ -5209,7 +5213,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026珠江美食越南2" data-p-adult="399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026珠江美食越南下龙湾10日2" data-p-adult="399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 珠江美食・越南下龙湾 10 日</h3>
@@ -5260,7 +5264,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026张家界凤凰古2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026张家界凤凰古城7日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 张家界・凤凰古城 7 日</h3>
@@ -5308,7 +5312,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026张家界长江三2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026张家界长江三峡11日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 张家界・长江三峡 11 日</h3>
@@ -5406,7 +5410,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026北京长江三峡2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026北京长江三峡9日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 北京 长江三峡 9 日</h3>
@@ -5503,7 +5507,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026桂林长江三峡2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026桂林长江三峡11日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 桂林 长江三峡 11 日</h3>
@@ -5555,7 +5559,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026厦门泉州土楼2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026厦门泉州土楼6日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 厦门泉州土楼 6 日</h3>
@@ -5602,7 +5606,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026厦门土楼武夷2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026厦门土楼武夷山8日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 厦门土楼武夷山 8 日</h3>
@@ -5651,7 +5655,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026厦门长江三峡2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026厦门长江三峡11日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 厦门 长江三峡 11 日</h3>
@@ -5703,7 +5707,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026云南昆明大理2" data-p-adult="299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026云南昆明大理丽江6日7日2" data-p-adult="299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 云南 昆明大理丽江 6 日 / 7 日</h3>
@@ -5750,7 +5754,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026海南海口三亚2" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026海南海口三亚6日2" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 海南 海口三亚 6 日</h3>
@@ -5839,7 +5843,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026金钻江南深圳2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026金钻江南深圳机器人马来西亚文2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（金钻江南 + 深圳机器人）马来西亚 - 文莱 - 越南 - 爱达魔都号游轮 16 日</h3>
@@ -5896,7 +5900,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026金钻江南爱达2" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026金钻江南爱达魔都号游轮11日2" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 金钻江南・爱达魔都号游轮 11 日（A&AA 团）</h3>
@@ -6006,7 +6010,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩九寨沟成2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩九寨沟成都乐山峨眉7日九2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）九寨沟 成都乐山峨眉 7 日（九寨沟高铁体验特别版）</h3>
@@ -6054,7 +6058,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩九寨沟长2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩九寨沟长江三峡11日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）九寨沟 长江三峡 11 日</h3>
@@ -6106,7 +6110,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩洲际酒店2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩洲际酒店豪华版成都5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）洲际酒店豪华版 成都 5 日</h3>
@@ -6152,7 +6156,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆3日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）山城重庆 3 日</h3>
@@ -6196,7 +6200,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆5" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆武隆天生三桥5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）山城重庆 武隆天生三桥 5 日</h3>
@@ -6242,7 +6246,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆6" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆三峡游轮6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）山城重庆 三峡游轮 6 日</h3>
@@ -6289,7 +6293,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西藏5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西藏5日洲际酒店特别版2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）西藏 5 日 - 洲际酒店特别版</h3>
@@ -6380,7 +6384,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安5" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）北京西安 6 日</h3>
@@ -6427,7 +6431,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安6" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安上海8日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）北京西安上海 8 日</h3>
@@ -6476,7 +6480,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安7" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安长江三峡10日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）北京、西安、长江三峡 10 日</h3>
@@ -6527,7 +6531,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安8" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安上海长江三峡122" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）北京西安上海长江三峡 12 日</h3>
@@ -6580,7 +6584,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安4日2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安4日华山5日2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 (纯玩) 西安 4 日 / 华山 5 日</h3>
@@ -6625,7 +6629,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安长江2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安长江三峡8日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩) 西安、长江三峡 8 日</h3>
@@ -6815,7 +6819,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界62" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界 6 日</h3>
@@ -6862,7 +6866,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界凤2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界凤凰古城7日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界凤凰古城 7 日</h3>
@@ -6910,7 +6914,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界长3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界长江三峡9日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界长江三峡 9 日</h3>
@@ -6960,7 +6964,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界长4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界长江三峡11日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界长江三峡 11 日</h3>
@@ -7012,7 +7016,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩武汉黄鹤2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩武汉黄鹤楼三峡游轮6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）武汉黄鹤楼 三峡游轮 6 日</h3>
@@ -7059,7 +7063,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩宜昌重庆2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩宜昌重庆三峡游轮6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）宜昌重庆 三峡游轮 6 日</h3>
@@ -7106,7 +7110,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026锦绣中华多彩2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026锦绣中华多彩贵州大美江西金秋2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026【锦绣中华】多彩贵州・大美江西・金秋揽胜 16 天</h3>
@@ -7148,7 +7152,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州黄果2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州黄果树5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州黄果树 5 日</h3>
@@ -7194,7 +7198,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州桂林2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州桂林阳朔8日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州桂林阳朔 8 日</h3>
@@ -7243,7 +7247,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州凤凰2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州凤凰张家界9日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州凤凰张家界 9 日</h3>
@@ -7293,7 +7297,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩桂林漓江2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩桂林漓江阳朔5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）桂林 漓江阳朔 5 日</h3>
@@ -7339,7 +7343,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩桂林长江2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩桂林长江三峡9日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）桂林 长江三峡 9 日</h3>
@@ -7389,7 +7393,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南昆明2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南昆明大理丽江香格里拉2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）云南 昆明大理丽江香格里拉 6 日 / 7 日 / 8 日</h3>
@@ -7436,7 +7440,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南丽江3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南丽江香格里拉泸沽湖92" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）云南 丽江香格里拉泸沽湖 9 日</h3>
@@ -7486,7 +7490,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南丽江4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南丽江香格里拉泸沽湖石2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）云南 丽江香格里拉泸沽湖石林 10 日</h3>
@@ -7537,7 +7541,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州云南2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州云南云贵高原9日122" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州云南 云贵高原 9 日 / 12 日</h3>
@@ -7587,7 +7591,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026冰雪奇缘东北2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026冰雪奇缘东北圣诞新年狂欢团12" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 冰雪奇缘东北圣诞新年狂欢团 10 日</h3>
@@ -7638,7 +7642,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北四大2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北四大名城长白山6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）东北四大名城 长白山 6 日</h3>
@@ -7685,7 +7689,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北五大2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北五大名城长白山7日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）东北五大名城 长白山 7 日</h3>
@@ -7733,7 +7737,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北名城2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北名城长白山漠河9日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）东北名城 长白山 漠河 9 日</h3>
@@ -7783,7 +7787,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路传奇东方高铁7日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）丝绸之路 传奇东方高铁 7 日</h3>
@@ -7831,7 +7835,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安丝绸2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安丝绸之路9日2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 (纯玩) 西安、丝绸之路 9 日</h3>
@@ -7881,7 +7885,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路5" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路茶卡盐湖青海湖92" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 (纯玩) 丝绸之路、茶卡盐湖青海湖 9 日</h3>
@@ -7931,7 +7935,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路6" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路青藏铁路西藏102" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）丝绸之路 青藏铁路 西藏 10 日</h3>
@@ -7982,7 +7986,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆北疆2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆北疆8日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）新疆北疆 8 日</h3>
@@ -8031,7 +8035,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆南疆3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆南疆8日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）新疆南疆 8 日</h3>
@@ -8080,7 +8084,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆南疆4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆南疆北疆全景15日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）新疆南疆北疆全景 15 日</h3>
@@ -8136,7 +8140,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩江南水乡2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩江南水乡6天2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 (纯玩) 江南水乡 6 天</h3>
@@ -8178,7 +8182,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩大湾区精2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩大湾区精品美食6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）大湾区精品美食 6 日</h3>
@@ -8225,7 +8229,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩香港潮汕2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩香港潮汕韶关佛山广州超级2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026（纯玩）香港潮汕韶关佛山广州超级美食 10 日游</h3>
@@ -8320,7 +8324,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩厦门土楼2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩厦门土楼潮汕6日7日2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 (纯玩) 厦门土楼潮汕 6 日 & 7 日</h3>
@@ -8367,7 +8371,7 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩海南岛三2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026纯玩海南岛三亚5天2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026 (纯玩) 海南岛三亚 5 天</h3>
@@ -8409,12 +8413,12 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-2026冰雪奇缘东北4" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026冰雪奇缘东北新年狂欢团12日2" data-p-adult="3799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
         <div class="rp-detail-hero-in"><h3>2026冰雪奇缘东北新年狂欢团12日-包机票</h3>
           <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>大人</b> A$ 3799</span>
             <span class="rp-price-item"><b>儿童</b> 待确认</span>
             <span class="rp-price-item"><b>婴儿</b> 待确认</span>
           </div>
@@ -8428,7 +8432,7 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>沈阳</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3799</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
@@ -8498,10 +8502,14 @@ window.REGION_PLANS.australia = `
 
 
 
+
+
+
+
 })();
 PROBE_SENTINEL_20260715
 
-            window.REGION_PLANS.island = `
+                window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -8525,14 +8533,14 @@ PROBE_SENTINEL_20260715
       <div class="rp-group" data-group="巴厘岛">
         <div class="rp-group-title">巴厘岛 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="is-2026经典豪华巴厘">2026经典豪华巴厘岛5天游</div>
-        <div class="rp-route" data-route="is-2026经典巴厘岛4">2026经典巴厘岛4天游-海边四星</div>
-        <div class="rp-route" data-route="is-2026经典巴厘岛42">2026经典巴厘岛4天游-海边五星</div>
-        <div class="rp-route" data-route="is-2026经典巴厘岛5">2026经典巴厘岛5天游-海边四星</div>
-        <div class="rp-route" data-route="is-2026经典巴厘岛52">2026经典巴厘岛5天游-海边五星</div>
-        <div class="rp-route" data-route="is-2026经典巴厘岛6">2026经典巴厘岛6天游-海边四星</div>
-        <div class="rp-route" data-route="is-2026经典巴厘岛62">2026经典巴厘岛6天游-海边五星</div>
-        <div class="rp-route" data-route="is-2026巴厘岛科莫多">2026巴厘岛+科莫多雙島阿雅娜酒店5天奢華之旅</div>
+        <div class="rp-route" data-route="is-2026经典豪华巴厘岛5天游">2026经典豪华巴厘岛5天游</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛4天游海边四星">2026经典巴厘岛4天游-海边四星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛4天游海边五星">2026经典巴厘岛4天游-海边五星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛5天游海边四星">2026经典巴厘岛5天游-海边四星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛5天游海边五星">2026经典巴厘岛5天游-海边五星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛6天游海边四星">2026经典巴厘岛6天游-海边四星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛6天游海边五星">2026经典巴厘岛6天游-海边五星</div>
+        <div class="rp-route" data-route="is-2026巴厘岛科莫多雙島阿雅娜酒店5">2026巴厘岛+科莫多雙島阿雅娜酒店5天奢華之旅</div>
         </div>
       </div>
   </nav>
@@ -8579,7 +8587,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026经典豪华巴厘2" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026经典豪华巴厘岛5天游2" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026经典豪华巴厘岛5天游</h3>
@@ -8625,7 +8633,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛43" data-p-adult="699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛4天游海边四星2" data-p-adult="699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026经典巴厘岛4天游-海边四星</h3>
@@ -8670,7 +8678,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛44" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛4天游海边五星2" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026经典巴厘岛4天游-海边五星</h3>
@@ -8715,7 +8723,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛53" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛5天游海边四星2" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026经典巴厘岛5天游-海边四星</h3>
@@ -8761,7 +8769,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛54" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛5天游海边五星2" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026经典巴厘岛5天游-海边五星</h3>
@@ -8807,7 +8815,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛63" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛6天游海边四星2" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026经典巴厘岛6天游-海边四星</h3>
@@ -8854,7 +8862,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛64" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛6天游海边五星2" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026经典巴厘岛6天游-海边五星</h3>
@@ -8901,7 +8909,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-2026巴厘岛科莫多2" data-p-adult="1999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-2026巴厘岛科莫多雙島阿雅娜酒店52" data-p-adult="1999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
         <span class="rp-badge">海岛度假</span>
         <div class="rp-detail-hero-in"><h3>2026巴厘岛+科莫多雙島阿雅娜酒店5天奢華之旅</h3>
@@ -8962,7 +8970,11 @@ PROBE_SENTINEL_20260715
 
 
 
-            window.REGION_PLANS.america = `
+
+
+
+
+                window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -8980,7 +8992,7 @@ PROBE_SENTINEL_20260715
       <div class="rp-group" data-group="定制团">
         <div class="rp-group-title">定制团 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="am-2026美国加拿大定">2026美国加拿大定制团</div>
+        <div class="rp-route" data-route="am-2026美国加拿大定制团">2026美国加拿大定制团</div>
         <div class="rp-route" data-route="am-2026加拿大定制团">2026加拿大定制团</div>
         </div>
       </div>
@@ -8988,46 +9000,46 @@ PROBE_SENTINEL_20260715
         <div class="rp-group-title">南美 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
         <div class="rp-route" data-route="am-2026南美定制团">2026南美定制团</div>
-        <div class="rp-route" data-route="am-2026澳洲包机票南">2026【澳洲包机票】南美七国全景精华24日游</div>
-        <div class="rp-route" data-route="am-2026澳洲包机票南2">2026【澳洲包机票】南美经典五国16日狂欢之旅</div>
+        <div class="rp-route" data-route="am-2026澳洲包机票南美七国全景精华2">2026【澳洲包机票】南美七国全景精华24日游</div>
+        <div class="rp-route" data-route="am-2026澳洲包机票南美经典五国16日">2026【澳洲包机票】南美经典五国16日狂欢之旅</div>
         </div>
       </div>
       <div class="rp-group" data-group="加拿大/阿拉斯加">
         <div class="rp-group-title">加拿大/阿拉斯加 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="am-2026澳洲包机票加">2026【澳洲包机票】加拿大落基山+美國阿拉斯加15天全景之旅</div>
-        <div class="rp-route" data-route="am-2026美国加拿大东">2026美国加拿大东部8日游</div>
-        <div class="rp-route" data-route="am-2026加拿大落基山">2026加拿大落基山脉6日游</div>
-        <div class="rp-route" data-route="am-2026加拿大落基山2">2026加拿大落基山脉7日游</div>
-        <div class="rp-route" data-route="am-2026加拿大加东精">2026加拿大加东精品6日游-A团</div>
-        <div class="rp-route" data-route="am-2026加拿大加东精2">2026加拿大加东精品6日游-B团</div>
+        <div class="rp-route" data-route="am-2026澳洲包机票加拿大落基山美國阿">2026【澳洲包机票】加拿大落基山+美國阿拉斯加15天全景之旅</div>
+        <div class="rp-route" data-route="am-2026美国加拿大东部8日游">2026美国加拿大东部8日游</div>
+        <div class="rp-route" data-route="am-2026加拿大落基山脉6日游">2026加拿大落基山脉6日游</div>
+        <div class="rp-route" data-route="am-2026加拿大落基山脉7日游">2026加拿大落基山脉7日游</div>
+        <div class="rp-route" data-route="am-2026加拿大加东精品6日游A团">2026加拿大加东精品6日游-A团</div>
+        <div class="rp-route" data-route="am-2026加拿大加东精品6日游B团">2026加拿大加东精品6日游-B团</div>
         </div>
       </div>
       <div class="rp-group" data-group="美国">
         <div class="rp-group-title">美国 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="am-2026澳洲包机票美">2026【澳洲包机票】美国东西海岸经典17天游</div>
-        <div class="rp-route" data-route="am-2026美国东海岸经">2026美国东海岸经典6日</div>
-        <div class="rp-route" data-route="am-2026美国东海岸经2">2026美国东海岸经典7日</div>
-        <div class="rp-route" data-route="am-2026美国西部经典">2026美国西部经典8日游</div>
-        <div class="rp-route" data-route="am-2026美国西部经典2">2026美国西部经典9日游</div>
-        <div class="rp-route" data-route="am-2026美国西部经典3">2026美国西部经典10日游</div>
-        <div class="rp-route" data-route="am-2026美国西部黄石">2026美国西部黄石峡谷9日游</div>
-        <div class="rp-route" data-route="am-2026美国西部黄石2">2026美国西部黄石峡谷10日游</div>
-        <div class="rp-route" data-route="am-2026美国东西海岸">2026美国东西海岸精华14日游</div>
-        <div class="rp-route" data-route="am-2026美国东西海岸2">2026 美国东西海岸黄石经典15日</div>
+        <div class="rp-route" data-route="am-2026澳洲包机票美国东西海岸经典1">2026【澳洲包机票】美国东西海岸经典17天游</div>
+        <div class="rp-route" data-route="am-2026美国东海岸经典6日">2026美国东海岸经典6日</div>
+        <div class="rp-route" data-route="am-2026美国东海岸经典7日">2026美国东海岸经典7日</div>
+        <div class="rp-route" data-route="am-2026美国西部经典8日游">2026美国西部经典8日游</div>
+        <div class="rp-route" data-route="am-2026美国西部经典9日游">2026美国西部经典9日游</div>
+        <div class="rp-route" data-route="am-2026美国西部经典10日游">2026美国西部经典10日游</div>
+        <div class="rp-route" data-route="am-2026美国西部黄石峡谷9日游">2026美国西部黄石峡谷9日游</div>
+        <div class="rp-route" data-route="am-2026美国西部黄石峡谷10日游">2026美国西部黄石峡谷10日游</div>
+        <div class="rp-route" data-route="am-2026美国东西海岸精华14日游">2026美国东西海岸精华14日游</div>
+        <div class="rp-route" data-route="am-2026美国东西海岸黄石经典15日">2026 美国东西海岸黄石经典15日</div>
         </div>
       </div>
       <div class="rp-group" data-group="美加">
         <div class="rp-group-title">美加 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="am-2026夏威夷檀香山">2026夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游</div>
-        <div class="rp-route" data-route="am-2026美加东名城瀑">2026美加东名城瀑布9日游</div>
+        <div class="rp-route" data-route="am-2026夏威夷檀香山欧胡岛茂宜岛火山">2026夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游</div>
+        <div class="rp-route" data-route="am-2026美加东名城瀑布9日游">2026美加东名城瀑布9日游</div>
         </div>
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="am-2026美国加拿大定2" data-p-adult="9999" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="am-2026美国加拿大定制团2" data-p-adult="9999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国加拿大定制团</h3>
@@ -9153,7 +9165,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票南3" data-p-adult="23499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票南美七国全景精华22" data-p-adult="23499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】南美七国全景精华24日游</h3>
@@ -9218,7 +9230,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票南4" data-p-adult="16888" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票南美经典五国16日2" data-p-adult="16888" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】南美经典五国16日狂欢之旅</h3>
@@ -9275,7 +9287,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票加2" data-p-adult="8580" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票加拿大落基山美國阿2" data-p-adult="8580" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】加拿大落基山+美國阿拉斯加15天全景之旅</h3>
@@ -9331,7 +9343,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国加拿大东2" data-p-adult="2078" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国加拿大东部8日游2" data-p-adult="2078" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国加拿大东部8日游</h3>
@@ -9380,7 +9392,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026加拿大落基山3" data-p-adult="1799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026加拿大落基山脉6日游2" data-p-adult="1799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026加拿大落基山脉6日游</h3>
@@ -9427,7 +9439,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026加拿大落基山4" data-p-adult="1999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026加拿大落基山脉7日游2" data-p-adult="1999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026加拿大落基山脉7日游</h3>
@@ -9475,7 +9487,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026加拿大加东精3" data-p-adult="1539" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026加拿大加东精品6日游A团2" data-p-adult="1539" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026加拿大加东精品6日游-A团</h3>
@@ -9522,7 +9534,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026加拿大加东精4" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026加拿大加东精品6日游B团2" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026加拿大加东精品6日游-B团</h3>
@@ -9569,7 +9581,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票美2" data-p-adult="5999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票美国东西海岸经典12" data-p-adult="5999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】美国东西海岸经典17天游</h3>
@@ -9627,7 +9639,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国东海岸经3" data-p-adult="1088" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国东海岸经典6日2" data-p-adult="1088" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国东海岸经典6日</h3>
@@ -9674,7 +9686,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国东海岸经4" data-p-adult="1288" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国东海岸经典7日2" data-p-adult="1288" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国东海岸经典7日</h3>
@@ -9722,7 +9734,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典4" data-p-adult="1898" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典8日游2" data-p-adult="1898" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国西部经典8日游</h3>
@@ -9771,7 +9783,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典5" data-p-adult="2058" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典9日游2" data-p-adult="2058" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国西部经典9日游</h3>
@@ -9821,7 +9833,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典6" data-p-adult="2198" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典10日游2" data-p-adult="2198" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国西部经典10日游</h3>
@@ -9872,7 +9884,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国西部黄石3" data-p-adult="2228" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国西部黄石峡谷9日游2" data-p-adult="2228" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国西部黄石峡谷9日游</h3>
@@ -9922,7 +9934,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国西部黄石4" data-p-adult="2398" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国西部黄石峡谷10日游2" data-p-adult="2398" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国西部黄石峡谷10日游</h3>
@@ -9973,7 +9985,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国东西海岸3" data-p-adult="2758" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国东西海岸精华14日游2" data-p-adult="2758" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美国东西海岸精华14日游</h3>
@@ -10028,7 +10040,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美国东西海岸4" data-p-adult="3498" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美国东西海岸黄石经典15日2" data-p-adult="3498" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026 美国东西海岸黄石经典15日</h3>
@@ -10084,7 +10096,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026夏威夷檀香山2" data-p-adult="2199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026夏威夷檀香山欧胡岛茂宜岛火山2" data-p-adult="2199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游</h3>
@@ -10131,7 +10143,7 @@ PROBE_SENTINEL_20260715
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-2026美加东名城瀑2" data-p-adult="2339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-2026美加东名城瀑布9日游2" data-p-adult="2339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">美加专线</span>
         <div class="rp-detail-hero-in"><h3>2026美加东名城瀑布9日游</h3>
@@ -10194,7 +10206,11 @@ PROBE_SENTINEL_20260715
 
 
 
-          window.REGION_PLANS.other = `
+
+
+
+
+              window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -10211,12 +10227,12 @@ PROBE_SENTINEL_20260715
       <div class="rp-group" data-group="其他区域">
         <div class="rp-group-title">其他区域 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ot-示例线路请替换为实际">示例线路（请替换为实际团名）</div>
+        <div class="rp-route" data-route="ot-示例线路请替换为实际团名">示例线路（请替换为实际团名）</div>
         </div>
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="ot-示例线路请替换为实际2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="ot-示例线路请替换为实际团名2" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/【参团须知】
 请在此处粘贴参团须知内容...')">
         <span class="rp-badge">纯玩无购物</span>
@@ -10253,6 +10269,10 @@ PROBE_SENTINEL_20260715
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
+
+
+
+
 
 
 
