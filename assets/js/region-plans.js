@@ -2297,7 +2297,7 @@ window.REGION_PLANS.australia = `
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
 
-      window.REGION_PLANS.asia = `
+        window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -2370,11 +2370,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本北海2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -2400,11 +2417,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本东京2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -2430,11 +2463,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026白色圣诞浪漫2" data-p-adult="2599" data-p-child="0" data-p-infant="0">
@@ -2460,11 +2514,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾轻松2" data-p-adult="638" data-p-child="0" data-p-infant="0">
@@ -2490,11 +2564,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾精华2" data-p-adult="638" data-p-child="0" data-p-infant="0">
@@ -2520,11 +2611,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾全景2" data-p-adult="638" data-p-child="0" data-p-infant="0">
@@ -2550,11 +2659,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -2580,11 +2708,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -2610,11 +2754,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026韩国6日2" data-p-adult="919" data-p-child="0" data-p-infant="0">
@@ -2640,11 +2803,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026纯玩韩国首尔2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -2670,11 +2850,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026越南双龙湾豪2" data-p-adult="498" data-p-child="0" data-p-infant="0">
@@ -2700,11 +2896,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026纯玩新加坡马2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -2730,11 +2943,23 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="as-2026纯玩马来西亚2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -2760,17 +2985,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 日本/台湾/韩国线含团队签证协助，护照须有效期6个月以上。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
+
+
 
 
 
@@ -3019,7 +3258,7 @@ window.REGION_PLANS.australia = `
   </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-      window.REGION_PLANS.china = `
+        window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -3229,11 +3468,36 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-sgxjs0826f2" data-p-adult="1098" data-p-child="0" data-p-infant="0">
@@ -3259,11 +3523,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-sgxjn1426e2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3289,11 +3572,36 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-sgxjn0826e2" data-p-adult="1198" data-p-child="0" data-p-infant="0">
@@ -3319,11 +3627,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026杏福新疆伊犁2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3349,11 +3676,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026草原牧歌新疆2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3379,11 +3725,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026绿野仙踪新疆2" data-p-adult="599" data-p-child="0" data-p-infant="0">
@@ -3409,11 +3774,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026盛夏伊犁薰衣2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3439,11 +3823,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026铂金江南长江2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3469,11 +3872,34 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026奢华江南和平2" data-p-adult="799" data-p-child="0" data-p-infant="0">
@@ -3499,11 +3925,35 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026九寨沟成都重2" data-p-adult="899" data-p-child="0" data-p-infant="0">
@@ -3529,11 +3979,35 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026江南长江三峡2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3559,11 +4033,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026铂金江南7日2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3589,11 +4085,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026璀璨金钻江南2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3619,11 +4133,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际黄山2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3649,11 +4182,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际婺源2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3679,11 +4232,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际海天2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3709,11 +4282,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际九华2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3739,11 +4332,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际泰山2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3769,11 +4382,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026深坑洲际庐山2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -3799,11 +4432,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026成都九寨沟洲2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3829,11 +4482,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026九寨沟长江三2" data-p-adult="899" data-p-child="0" data-p-infant="0">
@@ -3859,11 +4531,34 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026山城重庆大足2" data-p-adult="399" data-p-child="0" data-p-infant="0">
@@ -3889,11 +4584,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026重庆大足石刻2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -3919,11 +4631,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026醉美川藏成都2" data-p-adult="2499" data-p-child="0" data-p-infant="0">
@@ -3949,11 +4682,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026大湾区美食机2" data-p-adult="169" data-p-child="0" data-p-infant="0">
@@ -3979,11 +4734,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026舌尖广东珠江2" data-p-adult="259" data-p-child="0" data-p-infant="0">
@@ -4009,11 +4781,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026大湾区广东美2" data-p-adult="169" data-p-child="0" data-p-infant="0">
@@ -4039,11 +4828,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026寻味大湾区广2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4069,11 +4875,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026潮汕高铁广东2" data-p-adult="269" data-p-child="0" data-p-infant="0">
@@ -4099,11 +4923,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026潮汕风情珠江2" data-p-adult="279" data-p-child="0" data-p-infant="0">
@@ -4129,11 +4971,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026香港大湾区珠2" data-p-adult="689" data-p-child="0" data-p-infant="0">
@@ -4159,11 +5020,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026香港潮汕珠江2" data-p-adult="699" data-p-child="0" data-p-infant="0">
@@ -4189,11 +5069,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026珠江美食长江2" data-p-adult="399" data-p-child="0" data-p-infant="0">
@@ -4219,11 +5120,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026大湾区美食长2" data-p-adult="169" data-p-child="0" data-p-infant="0">
@@ -4249,11 +5171,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026珠江美食越南2" data-p-adult="399" data-p-child="0" data-p-infant="0">
@@ -4279,11 +5222,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026张家界凤凰古2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4309,11 +5273,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026张家界长江三2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4339,11 +5321,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026北京5日6日2" data-p-adult="169" data-p-child="0" data-p-infant="0">
@@ -4369,11 +5373,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026北京长江三峡2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4399,11 +5419,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026桂林6日2" data-p-adult="199" data-p-child="0" data-p-infant="0">
@@ -4429,11 +5469,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026桂林长江三峡2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4459,11 +5516,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026厦门泉州土楼2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4489,11 +5568,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026厦门土楼武夷2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4519,11 +5615,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026厦门长江三峡2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4549,11 +5664,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026云南昆明大理2" data-p-adult="299" data-p-child="0" data-p-infant="0">
@@ -4579,11 +5716,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026海南海口三亚2" data-p-adult="599" data-p-child="0" data-p-infant="0">
@@ -4609,11 +5763,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-sgjnsr17262" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4639,11 +5810,23 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026金钻江南深圳2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -4669,11 +5852,38 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+第16天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026金钻江南爱达2" data-p-adult="49" data-p-child="0" data-p-infant="0">
@@ -4699,11 +5909,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-sgjnad17262" data-p-adult="798" data-p-child="0" data-p-infant="0">
@@ -4729,11 +5961,39 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+第16天：待补充（景点/用餐/住宿）
+第17天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩九寨沟成2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4759,11 +6019,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩九寨沟长2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4789,11 +6067,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩洲际酒店2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4819,11 +6119,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4849,11 +6165,25 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆5" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4879,11 +6209,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山城重庆6" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4909,11 +6255,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西藏5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4939,11 +6302,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京4日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4969,11 +6348,26 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安5" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -4999,11 +6393,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安6" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5029,11 +6440,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安7" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5059,11 +6489,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩北京西安8" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5089,11 +6540,34 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安4日2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
@@ -5119,11 +6593,26 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安长江2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5149,11 +6638,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山东6日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5179,11 +6687,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩河南5日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5209,11 +6734,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩山西7日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5239,11 +6780,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界62" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5269,11 +6828,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界凤2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5299,11 +6875,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界长3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5329,11 +6923,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩张家界长4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5359,11 +6973,33 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩武汉黄鹤2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5389,11 +7025,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩宜昌重庆2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5419,11 +7072,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026锦绣中华多彩2" data-p-adult="0" data-p-child="0" data-p-infant="0">
@@ -5449,11 +7119,23 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州黄果2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5479,11 +7161,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州桂林2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5509,11 +7207,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州凤凰2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5539,11 +7256,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩桂林漓江2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5569,11 +7306,27 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩桂林长江2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5599,11 +7352,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南昆明2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5629,11 +7402,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南丽江3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5659,11 +7449,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩云南丽江4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5689,11 +7499,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩贵州云南2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5719,11 +7550,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026冰雪奇缘东北2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
@@ -5749,11 +7600,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北四大2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5779,11 +7651,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北五大2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5809,11 +7698,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩东北名城2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5839,11 +7746,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5869,11 +7796,29 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩西安丝绸2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
@@ -5899,11 +7844,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路5" data-p-adult="1899" data-p-child="0" data-p-infant="0">
@@ -5929,11 +7894,31 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩丝绸之路6" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5959,11 +7944,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆北疆2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -5989,11 +7995,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆南疆3" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -6019,11 +8044,30 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩新疆南疆4" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -6049,11 +8093,37 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩江南水乡2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
@@ -6079,11 +8149,23 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩大湾区精2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -6109,11 +8191,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩香港潮汕2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -6139,11 +8238,32 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩香港3日2" data-p-adult="1099" data-p-child="0" data-p-infant="0">
@@ -6169,11 +8289,25 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩厦门土楼2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
@@ -6199,11 +8333,28 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-2026纯玩海南岛三2" data-p-adult="1899" data-p-child="0" data-p-infant="0">
@@ -6229,11 +8380,23 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 国内线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
@@ -6244,10 +8407,12 @@ window.REGION_PLANS.australia = `
 
 
 
+
+
 })();
 PROBE_SENTINEL_20260715
 
-      window.REGION_PLANS.island = `
+        window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -6306,11 +8471,23 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026经典豪华巴厘2" data-p-adult="899" data-p-child="0" data-p-infant="0">
@@ -6336,11 +8513,27 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛43" data-p-adult="699" data-p-child="0" data-p-infant="0">
@@ -6366,11 +8559,26 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛44" data-p-adult="799" data-p-child="0" data-p-infant="0">
@@ -6396,11 +8604,26 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛53" data-p-adult="799" data-p-child="0" data-p-infant="0">
@@ -6426,11 +8649,27 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛54" data-p-adult="899" data-p-child="0" data-p-infant="0">
@@ -6456,11 +8695,27 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛63" data-p-adult="899" data-p-child="0" data-p-infant="0">
@@ -6486,11 +8741,28 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛64" data-p-adult="999" data-p-child="0" data-p-infant="0">
@@ -6516,11 +8788,28 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="is-2026巴厘岛科莫多2" data-p-adult="1999" data-p-child="0" data-p-infant="0">
@@ -6546,11 +8835,27 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 海岛线含机票/酒店套餐，签证与行李额以航司规定为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
@@ -6562,7 +8867,9 @@ PROBE_SENTINEL_20260715
 
 
 
-      window.REGION_PLANS.america = `
+
+
+        window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -6650,11 +8957,23 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026加拿大定制团2" data-p-adult="9999" data-p-child="0" data-p-infant="0">
@@ -6680,11 +8999,23 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026南美定制团2" data-p-adult="9999" data-p-child="0" data-p-infant="0">
@@ -6710,11 +9041,23 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票南3" data-p-adult="23499" data-p-child="0" data-p-infant="0">
@@ -6740,11 +9083,46 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+第16天：待补充（景点/用餐/住宿）
+第17天：待补充（景点/用餐/住宿）
+第18天：待补充（景点/用餐/住宿）
+第19天：待补充（景点/用餐/住宿）
+第20天：待补充（景点/用餐/住宿）
+第21天：待补充（景点/用餐/住宿）
+第22天：待补充（景点/用餐/住宿）
+第23天：待补充（景点/用餐/住宿）
+第24天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票南4" data-p-adult="16888" data-p-child="0" data-p-infant="0">
@@ -6770,11 +9148,38 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+第16天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票加2" data-p-adult="8580" data-p-child="0" data-p-infant="0">
@@ -6800,11 +9205,37 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国加拿大东2" data-p-adult="2078" data-p-child="0" data-p-infant="0">
@@ -6830,11 +9261,30 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026加拿大落基山3" data-p-adult="1799" data-p-child="0" data-p-infant="0">
@@ -6860,11 +9310,28 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026加拿大落基山4" data-p-adult="1999" data-p-child="0" data-p-infant="0">
@@ -6890,11 +9357,29 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026加拿大加东精3" data-p-adult="1539" data-p-child="0" data-p-infant="0">
@@ -6920,11 +9405,28 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026加拿大加东精4" data-p-adult="899" data-p-child="0" data-p-infant="0">
@@ -6950,11 +9452,28 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026澳洲包机票美2" data-p-adult="5999" data-p-child="0" data-p-infant="0">
@@ -6980,11 +9499,39 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+第16天：待补充（景点/用餐/住宿）
+第17天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国东海岸经3" data-p-adult="1088" data-p-child="0" data-p-infant="0">
@@ -7010,11 +9557,28 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国东海岸经4" data-p-adult="1288" data-p-child="0" data-p-infant="0">
@@ -7040,11 +9604,29 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典4" data-p-adult="1898" data-p-child="0" data-p-infant="0">
@@ -7070,11 +9652,30 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典5" data-p-adult="2058" data-p-child="0" data-p-infant="0">
@@ -7100,11 +9701,31 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国西部经典6" data-p-adult="2198" data-p-child="0" data-p-infant="0">
@@ -7130,11 +9751,32 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国西部黄石3" data-p-adult="2228" data-p-child="0" data-p-infant="0">
@@ -7160,11 +9802,31 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国西部黄石4" data-p-adult="2398" data-p-child="0" data-p-infant="0">
@@ -7190,11 +9852,32 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国东西海岸3" data-p-adult="2758" data-p-child="0" data-p-infant="0">
@@ -7220,11 +9903,36 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美国东西海岸4" data-p-adult="3498" data-p-child="0" data-p-infant="0">
@@ -7250,11 +9958,37 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+第10天：待补充（景点/用餐/住宿）
+第11天：待补充（景点/用餐/住宿）
+第12天：待补充（景点/用餐/住宿）
+第13天：待补充（景点/用餐/住宿）
+第14天：待补充（景点/用餐/住宿）
+第15天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026夏威夷檀香山2" data-p-adult="2199" data-p-child="0" data-p-infant="0">
@@ -7280,11 +10014,28 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="am-2026美加东名城瀑2" data-p-adult="2339" data-p-child="0" data-p-infant="0">
@@ -7310,11 +10061,31 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+第2天：待补充（景点/用餐/住宿）
+第3天：待补充（景点/用餐/住宿）
+第4天：待补充（景点/用餐/住宿）
+第5天：待补充（景点/用餐/住宿）
+第6天：待补充（景点/用餐/住宿）
+第7天：待补充（景点/用餐/住宿）
+第8天：待补充（景点/用餐/住宿）
+第9天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
-请在此处粘贴参团须知内容...
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+3. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+4. 单房差：单人入住需补单房差，详见价格表「单房差」一项。
+5. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+6. 退改：出发前取消按退改条款执行，详情咨询客服。
+7. 价格：以上 AUD 报价含所列项目，不含个人消费、自费项目及未列费用。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 美加/南美线多为联运机票，签证（美签/加签）需提前办理。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
@@ -7324,7 +10095,9 @@ PROBE_SENTINEL_20260715
 
 
 
-    window.REGION_PLANS.other = `
+
+
+      window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -7370,7 +10143,9 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-请在此处粘贴行程安排内容...
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
@@ -7381,6 +10156,8 @@ PROBE_SENTINEL_20260715
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
+
+
 
 
 
