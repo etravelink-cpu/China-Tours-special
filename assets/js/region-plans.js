@@ -2297,7 +2297,7 @@ window.REGION_PLANS.australia = `
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
 
-        window.REGION_PLANS.asia = `
+          window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -3015,6 +3015,8 @@ window.REGION_PLANS.australia = `
 
 
 
+
+
   window.REGION_PLANS.europe = `
 <div class="rp-banner">
   <div class="rp-slides">
@@ -3258,7 +3260,7 @@ window.REGION_PLANS.australia = `
   </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-        window.REGION_PLANS.china = `
+          window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -3441,6 +3443,12 @@ window.REGION_PLANS.australia = `
         <div class="rp-route" data-route="ch-2026纯玩香港3日">2026（纯玩）香港 3 日</div>
         <div class="rp-route" data-route="ch-2026纯玩厦门土楼">2026 (纯玩) 厦门土楼潮汕 6 日 & 7 日</div>
         <div class="rp-route" data-route="ch-2026纯玩海南岛三">2026 (纯玩) 海南岛三亚 5 天</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="机票套餐·特别定制">
+        <div class="rp-group-title">机票套餐·特别定制 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="ch-示例机票套餐定制团请">示例·机票套餐定制团（请替换为实际团名）</div>
         </div>
       </div>
   </nav>
@@ -8399,6 +8407,48 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-示例机票套餐定制团请2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>示例·机票套餐定制团（请替换为实际团名）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+第1天：待补充（景点/用餐/住宿）
+
+* 以上为参考框架，具体每日行程以出团通知书为准。
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
+2. 机票：本类含国际/内陆联运机票，航班与行李额以航司出票为准，机票税费另询。
+3. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
+4. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
+5. 单房差：单人入住需补单房差，详见价格表。
+6. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
+7. 退改：机票与团费退改分别按航司与退改条款执行，详情咨询客服。
+8. 班期：具体出发日期与余位以客服查询为准。
+9. 中国线含跨城交通，具体以行程单为准。
+
+* 本须知为通用模板，最终以出团合同与客服确认为准。
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
 </div>
 
@@ -8409,10 +8459,12 @@ window.REGION_PLANS.australia = `
 
 
 
+
+
 })();
 PROBE_SENTINEL_20260715
 
-        window.REGION_PLANS.island = `
+          window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -8869,7 +8921,9 @@ PROBE_SENTINEL_20260715
 
 
 
-        window.REGION_PLANS.america = `
+
+
+          window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -10097,7 +10151,9 @@ PROBE_SENTINEL_20260715
 
 
 
-      window.REGION_PLANS.other = `
+
+
+        window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -10156,6 +10212,8 @@ PROBE_SENTINEL_20260715
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
+
+
 
 
 
