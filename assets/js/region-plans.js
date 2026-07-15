@@ -2301,153 +2301,476 @@ window.REGION_PLANS.australia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
-    <div class="rp-slide" style="background-image:url('assets/img/destinations/asia-guilin.jpg')"></div>
-    <div class="rp-slide" style="background-image:url('assets/img/destinations/asia-fushimi.jpg')"></div>
-    <div class="rp-slide" style="background-image:url('assets/img/destinations/asia-halong.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/cn-westlake.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>亚洲 · 分区行程规划</h1>
-    <div class="rp-sub">Asia Region Tours</div>
-    <p class="rp-desc">日本、韩国、中国台湾到东南亚，4 大分区尽在其中。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+    <div class="rp-sub">Asia Tours</div>
+    <p class="rp-desc">日本、韩国、台湾与东南亚纯玩线路，分区完整呈现。点击左侧区域，查看各地核心行程。</p>
   </div>
 </div>
 <div class="rp-layout">
-  <nav class="rp-nav" role="tablist" aria-label="asia 分区">
-      <button type="button" data-rp="0" class="active">日本</button>
-      <button type="button" data-rp="1" class="">韩国</button>
-      <button type="button" data-rp="2" class="">中国台湾</button>
-      <button type="button" data-rp="3" class="">东南亚（越南 / 新马）</button>
+  <nav class="rp-nav2" aria-label="asia 目的地">
+      <div class="rp-group" data-group="日本线">
+        <div class="rp-group-title">日本线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="as-2026纯玩缤纷日本">2026（纯玩）缤纷日本 6 日</div>
+        <div class="rp-route" data-route="as-2026纯玩日本北海">2026（纯玩）日本北海道 5 日</div>
+        <div class="rp-route" data-route="as-2026纯玩日本东京">2026（纯玩）日本东京富士山北海道 10 日</div>
+        <div class="rp-route" data-route="as-2026白色圣诞浪漫">2026 白色圣诞浪漫新年缤纷日本 9 日游（金牌纯玩）</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="中国台湾线">
+        <div class="rp-group-title">中国台湾线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="as-2026玩转台湾轻松">2026 玩转台湾 轻松环岛 6 日</div>
+        <div class="rp-route" data-route="as-2026玩转台湾精华">2026 玩转台湾 精华环岛 7 日</div>
+        <div class="rp-route" data-route="as-2026玩转台湾全景">2026 玩转台湾 全景环岛 8 日</div>
+        <div class="rp-route" data-route="as-2026纯玩宝岛风情">2026（纯玩）宝岛风情台湾 5 日 / 6 日</div>
+        <div class="rp-route" data-route="as-2026纯玩宝岛风情2">2026（纯玩）宝岛风情台湾 8 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="韩国线">
+        <div class="rp-group-title">韩国线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="as-2026韩国6日">2026 韩国 6 日</div>
+        <div class="rp-route" data-route="as-2026纯玩韩国首尔">2026（纯玩）韩国首尔江原道 5 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="东南亚线">
+        <div class="rp-group-title">东南亚线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="as-2026越南双龙湾豪">2026 越南双龙湾豪华美食 6 日</div>
+        <div class="rp-route" data-route="as-2026纯玩新加坡马">2026（纯玩）新加坡马来西亚 6 天 - 新进马出</div>
+        <div class="rp-route" data-route="as-2026纯玩马来西亚">2026（纯玩）马来西亚新加坡 6 天 - 马进新出</div>
+        </div>
+      </div>
   </nav>
-  <div class="rp-content">
-    <div class="rp-panel active" data-rp="0">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、日本</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">亚洲热门短途目的地，主打纯玩无购物体验，覆盖本州都市风光、北海道雪景与节日限定主题，行程节奏轻松、配套成熟，适配家庭度假、年轻出行与节日赏景等多元需求。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩缤纷日本6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，覆盖东京、大阪、京都等核心都市，串联经典地标与日式风情，短途出行高性价比首选</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴日、短途假期、家庭休闲客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩日本北海道5日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">北海道深度纯玩，冬季赏雪泡温泉、夏季赏花看花海，聚焦道央核心风光，行程轻松不赶路</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冬夏旺季固定发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">度假休闲、雪景/花海爱好者、慢游客群</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩东京富士山北海道10日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">本州+北海道双岛连线，一次打卡东京都市、富士山圣景与北海道自然风光，纯玩全程无购物</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">旺季固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">时间充裕、想一次玩遍双岛的深度游客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">白色圣诞浪漫新年缤纷日本9日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">金牌纯玩品质，圣诞/新年专属排期，覆盖白川乡合掌村、都市节日灯饰与冰雪景观，打造冬日节日浪漫体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年圣诞/新年季固定发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">情侣出行、节日度假、摄影爱好者</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6日本州经典款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">缤纷日本6日纯玩 → 可加1-2天东京/大阪自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">一周假期、首次赴日、经典打卡</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">10日双岛深度款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">东京富士山+北海道10日纯玩 → 可延伸关西地区</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长假期、深度体验、一次玩透</td></tr>
-    </tbody>
-  </table>
+  <div class="rp-detail-area">
+    <div class="rp-route-pane" data-route="as-2026纯玩缤纷日本" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）缤纷日本 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本北海" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）日本北海道 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩日本东京" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）日本东京富士山北海道 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026白色圣诞浪漫" data-p-adult="2599" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 白色圣诞浪漫新年缤纷日本 9 日游（金牌纯玩）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2599</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2599</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾轻松" data-p-adult="638" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 玩转台湾 轻松环岛 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 638</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">638</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1038</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾精华" data-p-adult="638" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 玩转台湾 精华环岛 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 638</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">638</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1038</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026玩转台湾全景" data-p-adult="638" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 玩转台湾 全景环岛 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 638</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">638</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1038</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）宝岛风情台湾 5 日 / 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩宝岛风情2" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）宝岛风情台湾 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026韩国6日" data-p-adult="919" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 韩国 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 919</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">919</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">989</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩韩国首尔" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）韩国首尔江原道 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026越南双龙湾豪" data-p-adult="498" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 越南双龙湾豪华美食 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 498</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">498</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">699</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩新加坡马" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）新加坡马来西亚 6 天 - 新进马出</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="as-2026纯玩马来西亚" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）马来西亚新加坡 6 天 - 马进新出</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>  </div>
+</div>
 
-  <!-- 二、韩国 -->
-    </div>
-    <div class="rp-panel" data-rp="1">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、韩国</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">短途休闲热门目的地，聚焦首尔都市潮流与江原道自然风光，兼顾购物美食、人文古迹与山海度假，行程轻松灵活，适合短途假期与年轻客群。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">韩国经典6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首尔+周边经典连线，覆盖景福宫、明洞、南怡岛等核心地标，兼顾美食、购物与人文观光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年多班期发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴韩、购物美食爱好者、休闲度假客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩首尔江原道5日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，首尔都市潮流+江原道山海风光，冬季可滑雪、夏季可看海，体验丰富</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">四季固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">年轻客群、品质出行、短途度假</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">5日纯玩休闲款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首尔江原道5日纯玩 → 可加首尔自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途假期、品质出行、购物+休闲</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 三、中国台湾 -->
-    </div>
-    <div class="rp-panel" data-rp="2">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、中国台湾</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">主打环岛观光与纯玩体验，设多天数梯度可选，覆盖台北都市、东部海岸、阿里山日月潭与垦丁南国风光，行程成熟、语言无障碍，适配全年龄段游客。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">玩转台湾·轻松环岛6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">经典环岛基础款，覆盖台北、台中、高雄、台东核心城市与地标，节奏适中，快速领略台湾全境风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴台、短途假期、休闲观光客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">玩转台湾·精华环岛7日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">在6日基础上增加日月潭/阿里山核心自然景点，兼顾都市与山水，是环岛游的热门性价比之选</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">固定班期发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">家庭出行、想兼顾自然与都市的游客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">玩转台湾·全景环岛8日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度环岛全覆盖，增加垦丁、花东纵谷等小众精华路段，行程更从容，不留遗憾打卡全境风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">固定班期发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">时间充裕、想深度玩透台湾的游客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩宝岛风情5/6/8日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，多天数可选，主打台湾本土人文、美食与自然深度体验，行程品质更高</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期可选</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">追求品质、拒绝购物、深度体验客</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7日精华环岛款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">精华环岛7日 → 可加台北1-2天自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">一周假期、首次赴台、高性价比首选</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8日纯玩全景款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩宝岛风情8日 → 深度覆盖东西岸全境</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">品质出行、深度游玩、全年龄段适配</td></tr>
-    </tbody>
-  </table>
-
-  <!-- 四、东南亚（越南/新马） -->
-    </div>
-    <div class="rp-panel" data-rp="3">
-<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">四、东南亚（越南 / 新马）</h3>
-  <p style="color: #666; margin: 0 0 16px 0;">热带滨海与美食度假胜地，主打纯玩品质与豪华美食体验，覆盖越南山海奇观与新马双城都市风情，行程温暖轻松，适合反季度假与美食爱好者。</p>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心行程品类</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #279EE6; color: #fff;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">行程线路</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 38%;">核心亮点</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">出团规则</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">适配人群</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">越南双龙湾豪华美食6日</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">打卡下龙湾、陆龙湾双世界遗产，全程豪华住宿，深度体验越南地道美食与法式风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">2026年固定班期</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">美食爱好者、度假休闲、反季避寒客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩新加坡马来西亚6日（新进马出）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全程纯玩无购物，新加坡花园城市+马来西亚吉隆坡/马六甲双城连线，新进马出不走回头路</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">首次赴东南亚、家庭休闲、都市观光客</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">纯玩马来西亚新加坡6日（马进新出）</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">同线路反向行程，马进新出灵活选择，纯玩无购物，兼顾南洋风情、都市繁华与自然景观</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">多班期滚动发团</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">灵活搭配返程、品质出行的游客</td></tr>
-    </tbody>
-  </table>
-  <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典连游组合</h4>
-  <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #f0f7fc; color: #279EE6;">
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
-      <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
-    </tr></thead>
-    <tbody>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6日新马双城款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">新马纯玩6日 → 可加新加坡自由活动</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">短途假期、首次东南亚、都市休闲</td></tr>
-      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6日越南美食度假款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">越南双龙湾豪华美食6日 → 可延伸海滨度假</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">美食度假、反季避寒、慢节奏休闲</td></tr>
-    </tbody>
-  </table>
-    </div>
-  </div>
-
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：富士山 © 实拍；桂林漓江 © chensiyuan, CC BY-SA 4.0；京都伏见稻荷 © Paul Vlaar, CC BY-SA 3.0；下龙湾 © CC0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：亚洲风光 © Wikimedia (Public Domain / CC).</p>`;
 
   window.REGION_PLANS.europe = `
 <div class="rp-banner">
