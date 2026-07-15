@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-一键生成: 读 [产品总表.xlsx] -> 重建 region-plans.js 中 china/asia/island/america/other 五个块
-保留 australia/nz/europe/cruise (不受总表管理, 不动)
+一键生成: 读 [产品总表.xlsx] -> 重建 region-plans.js 中 china/asia/island/america/europe/other 六个块
+保留 australia/nz/cruise (不受总表管理, 不动)
 用法:
   1. 用 Excel 编辑 D:/Hermes Agent/etrips-assets/产品总表.xlsx (改产品/价格/行程/须知)
   2. cd C:/Users/linda/etrips-site
@@ -14,7 +14,7 @@
 import openpyxl, re, io, os
 SRC = os.environ.get('ET_PRODUCT_XLSX', r"D:/Hermes Agent/etrips-assets/产品总表.xlsx")
 JS  = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'assets','js','region-plans.js')
-MANAGED = ['china','asia','island','america','other']
+MANAGED = ['china','asia','island','america','europe','other']
 
 def norm(s): return re.sub(r'\s+','', str(s)).strip()
 def slug(name): return re.sub(r'[^一-龥a-zA-Z0-9]','', str(name))[:18]
@@ -49,6 +49,7 @@ IMG_POOL = {
  'asia':['asia.jpg','cn-westlake.jpg','japan.jpg'],
  'island':['island.jpg','bali.jpg','fiji.jpg'],
  'america':['america.jpg','canada.jpg','usa.jpg'],
+ 'europe':['europe.jpg','paris.jpg','greece.jpg'],
  'other':['other.jpg','custom.jpg']}
 
 def price_table(adult, cno, cw, single, other):
@@ -65,8 +66,8 @@ def pane(region, item, idx):
     days=days_from(item.get('天数days'), name)
     adult=item.get('成人价adult'); cno=item.get('儿童不占床child_no'); cw=item.get('儿童占床child_with')
     single=item.get('单房差single'); other=item.get('其他费other')
-    pa=float(adult) if adult not in ('',None) else 0
-    pc=float(cno) if cno not in ('',None) else 0
+    pa=float(adult) if (adult not in ('',None) and str(adult).replace('.','').isdigit()) else 0
+    pc=float(cno) if (cno not in ('',None) and str(cno).replace('.','').isdigit()) else 0
     ridv=rid(region,name,code)
     img='assets/img/destinations/'+ (item.get('banner图img') or IMG_POOL[region][idx%len(IMG_POOL[region])])
     pax=('A$ '+str(int(pa))) if pa else '待确认'
@@ -105,9 +106,11 @@ def pane(region, item, idx):
 from collections import OrderedDict
 BANNER_TITLE={'china':('中国 · 分区行程规划','China Tours'),'asia':('亚洲 · 分区行程规划','Asia Tours'),
  'island':('海岛假日 · 度假天堂','Island Holidays'),'america':('美国 · 加拿大 · 南美','America & Canada'),
+ 'europe':('欧洲 · 经典环游','Europe Tours'),
  'other':('其他 · 更多目的地','Other Destinations')}
 BANNER_IMG={'china':['china.jpg','cn-westlake.jpg'],'asia':['asia.jpg','cn-westlake.jpg'],
  'island':['island.jpg','bali.jpg','fiji.jpg'],'america':['america.jpg','canada.jpg','usa.jpg'],
+ 'europe':['europe.jpg','paris.jpg','greece.jpg'],
  'other':['other.jpg','custom.jpg']}
 CREDIT='Banner 图片：© Wikimedia (Public Domain / CC).'
 
@@ -139,35 +142,24 @@ for it in rows:
 blocks={rg:build_block(rg, its) for rg,its in by_region.items()}
 
 # --- 替换 region-plans.js 中受管块 ---
+# 字符串切分 + 反引号配平: 找每个 window.REGION_PLANS.X = ` 起点, 配平到结束 `
 s=io.open(JS,encoding='utf-8').read()
-# 找每个 window.REGION_PLANS.X = ` 的起止
-keys=re.findall(r'window\.REGION_PLANS\.(\w+)\s*=\s*`', s)
-positions=[]
-for m in re.finditer(r'window\.REGION_PLANS\.(\w+)\s*=\s*`', s):
-    positions.append((m.group(1), m.start()))
-positions.sort(key=lambda x:x[1])
-new_parts=[]
-cursor=0
-for i,(key,start) in enumerate(positions):
-    end = positions[i+1][1] if i+1<len(positions) else len(s)
-    # 块的结束反引号: 从 start 找最后一个 `; (之前是块内容)
-    semi = s.rfind('`;', start, end)
-    block_end = semi+2 if semi!=-1 else end
-    # 在 cursor..start 之间保留原内容(受管块之前的部分)
-    new_parts.append(s[cursor:start])
-    if key in MANAGED and key in blocks:
-        new_parts.append(blocks[key]+'\n\n')
-    else:
-        new_parts.append(s[start:block_end])  # 保留(australia/nz/europe/cruise)
-    cursor = block_end
-new_parts.append(s[cursor:])
-new_s=''.join(new_parts)
-
-io.open(JS,'w',encoding='utf-8').write(new_s)
+for k in MANAGED:
+    if k not in blocks: continue
+    marker='window.REGION_PLANS.'+k+' = `'
+    st=s.index(marker)
+    # 从首个 ` 之后配平
+    i=s.index('`', st)+1; depth=1
+    while i<len(s) and depth>0:
+        if s[i]=='`': depth-=1
+        i+=1
+    end=i  # 结束 ` 之后
+    s=s[:st]+blocks[k]+s[end:]
+io.open(JS,'w',encoding='utf-8').write(s)
 # 验证
 import subprocess
 for k in MANAGED:
-    assert ('window.REGION_PLANS.'+k+' = `') in new_s, k
+    assert ('window.REGION_PLANS.'+k+' = `') in s, k
 print("region-plans.js 已重建. 受管板块:", {k:len(by_region.get(k,[])) for k in MANAGED})
 r=subprocess.run(['node','-e',"new Function(require('fs').readFileSync(process.argv[1],'utf8'))",JS],capture_output=True,text=True)
 print("node 语法:", 'OK' if r.returncode==0 else r.stderr[:80])
