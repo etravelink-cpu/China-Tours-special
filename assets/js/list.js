@@ -32,6 +32,23 @@
     if(rp){
       rp.innerHTML = hasPlan ? window.REGION_PLANS[q] : '';
       rp.hidden = !hasPlan;
+      // 在每个路线详情卡 hero 区显示 大人/儿童/婴儿 三项价
+      rp.querySelectorAll('.rp-route-pane').forEach(p=>{
+        const pa=parseFloat(p.getAttribute('data-p-adult'))||0;
+        const pc=parseFloat(p.getAttribute('data-p-child'))||0;
+        const pi=parseFloat(p.getAttribute('data-p-infant'))||0;
+        const hero=p.querySelector('.rp-detail-hero-in');
+        if(!hero) return;
+        const fmt=v=> v>0 ? ('A$ '+v) : '待确认';
+        let box=hero.querySelector('.rp-price-row');
+        if(!box){
+          box=document.createElement('div'); box.className='rp-price-row';
+          hero.appendChild(box);
+        }
+        box.innerHTML = '<span class="rp-price-item"><b>大人</b> '+fmt(pa)+'</span>'
+                      + '<span class="rp-price-item"><b>儿童</b> '+fmt(pc)+'</span>'
+                      + '<span class="rp-price-item"><b>婴儿</b> '+fmt(pi)+'</span>';
+      });
       // 子页新布局 v2：2级分组导航 + 路线详情卡（.rp-nav2）
       const nav2 = rp.querySelector('.rp-nav2');
       if(nav2){
