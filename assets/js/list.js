@@ -158,7 +158,7 @@
       '<div class="ph-title">' + title + '</div>' +
       '<div class="ph-meta">电话 ' + (window.CONTACT.hotline||'') + (window.CONTACT.hotline2?' / '+window.CONTACT.hotline2:'') +
       ' · 邮箱 ' + (window.CONTACT.email||'') + ' · 微信 ' + (window.CONTACT.wechat||'') +
-      (window.CONTACT.whatsapp?' · WhatsApp '+window.CONTACT.whatsapp:'') +
+      
       (window.CONTACT.addressZh?'<br>门店 ' + window.CONTACT.addressZh:'') + '</div>';
     document.body.classList.add('printing-route');
     const onAfter = ()=>{ document.body.classList.remove('printing-route'); window.removeEventListener('afterprint', onAfter); };

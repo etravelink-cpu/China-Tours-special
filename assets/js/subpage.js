@@ -93,7 +93,6 @@
         <h2>${lang==='zh'?'立即咨询，锁定席位':'Enquire now to secure your seat'}</h2>
         <div style="margin-top:16px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
           <a href="contact.html" class="btn btn-primary">${I[lang]['btn.consult']}</a>
-          <a href="https://wa.me/${window.CONTACT.whatsapp.replace(/\s/g,'')}" target="_blank" class="btn btn-outline">WhatsApp</a>
         </div>
       </div></section>`;
   }

@@ -506,8 +506,6 @@ window.TIPS = [
 window.CONTACT = {
   hotline: "+61 2 9764 6862",            // 客服热线
   hotline2: "+61 2 9764 2911",
-  whatsapp: "+61 410 740 695",          // WhatsApp
-  whatsappQr: "assets/img/qr/whatsapp.png",
   wechat: "E_travelink",                  // 微信客服1 小易
   wechatName: "小易",
   wechatQr: "assets/img/qr/wechat-xiaoyi.png",

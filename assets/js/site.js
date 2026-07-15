@@ -75,7 +75,6 @@
   }
 
   // ---------- Float widgets ----------
-  const WA_SVG = `<svg viewBox="0 0 32 32" style="width:30px;height:30px"><circle cx="16" cy="16" r="16" fill="#25D366"/><path fill="#fff" d="M16 3C9.4 3 4 8.4 4 15c0 2.2.6 4.2 1.8 6L4 29l8.2-2.1c1.8.9 3.8 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.5c-1.8 0-3.5-.5-5-1.4l-.4-.2-4.9 1.3 1.3-4.8-.3-.4c-1-1.6-1.5-3.4-1.5-5.3 0-5.5 4.5-10 10-10s10 4.5 10 10-4.5 10.8-10 10.8zm5.5-7.5c-.3-.2-1.9-1-2.2-1.1-.3-.1-.5-.2-.7.2-.2.3-.8 1-1 1.2-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.4-.5.2-.2.2-.3.3-.5.1-.2.1-.4 0-.6-.1-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.6-.5h-.5c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1 2.9 1.2 3.1c.1.2 2 3 4.8 4.2 1.7.7 2.3.8 3.1.7.5-.1 1.9-.8 2.2-1.5.3-.8.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/></svg>`;
 
   function renderFloat(){
     const el = document.getElementById('float-bar');
@@ -83,11 +82,9 @@
     const C = window.CONTACT || {};
     const wx1 = C.wechat || 'E_travelink', wx1n = C.wechatName || '小易', wx1qr = C.wechatQr || '';
     const wx2 = C.wechat2 || 'E-travelink', wx2n = C.wechat2Name || '小游';
-    const wa = C.whatsapp || '', waqr = C.whatsappQr || '';
     el.innerHTML = `
       <div class="float-btn gold" data-i18n="float.quote" title="在线咨询" onclick="location.href='contact.html'">${I18N[lang]['float.quote']}</div>
       <div class="float-btn wechat" title="微信客服" onclick="EtripsFloat.toggle('wx-pop','.float-btn.wechat')"><img src="assets/img/wechat-icon.jpg" alt="微信"></div>
-      <div class="float-btn whatsapp" title="WhatsApp" onclick="EtripsFloat.toggle('wa-pop','.float-btn.whatsapp')">${WA_SVG}</div>
       <div class="wx-pop" id="wx-pop" hidden>
         <div class="wx-row"><span class="wx-tag">${wx1n}</span> <b>${wx1}</b></div>
         ${wx1qr?`<img class="wx-qr" src="${wx1qr}" alt="${wx1n} QR">`:''}
@@ -95,10 +92,7 @@
         ${C.wechat2Qr?`<img class="wx-qr" src="${C.wechat2Qr}" alt="${wx2n} QR">`:''}
         <div style="font-size:12px;color:#888;margin-top:6px">长按复制微信号 / 扫码添加</div>
       </div>
-      <div class="wx-pop" id="wa-pop" hidden>
-        ${waqr?`<img class="wx-qr" src="${waqr}" alt="WhatsApp QR">`:''}
-        <div style="font-size:12px;color:#888;margin-top:6px">扫码添加 WhatsApp</div>
-      </div>`;
+    `;
   }
 
   window.EtripsFloat = {
@@ -106,15 +100,15 @@
       const p = document.getElementById(id);
       if(!p) return;
       const show = p.hidden;
-      ['wx-pop','wa-pop'].forEach(x=>{ const o=document.getElementById(x); if(o) o.hidden=true; });
+      ['wx-pop'].forEach(x=>{ const o=document.getElementById(x); if(o) o.hidden=true; });
       p.hidden = !show;
     }
   };
   document.addEventListener('click', e=>{
-    ['wx-pop','wa-pop'].forEach(id=>{
+    ['wx-pop'].forEach(id=>{
       const p = document.getElementById(id);
       if(p && !p.hidden){
-        const sel = id==='wx-pop' ? '.float-btn.wechat' : '.float-btn.whatsapp';
+        const sel = '.float-btn.wechat';
         if(!p.contains(e.target) && !e.target.closest(sel)) p.hidden = true;
       }
     });
@@ -158,7 +152,7 @@
             <div class="cc-qr-grid">
               ${window.CONTACT.wechatQr?`<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img src="${window.CONTACT.wechatQr}" alt="${window.CONTACT.wechatName} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechatName}</div></div>`:''}
               ${window.CONTACT.wechat2Qr?`<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img src="${window.CONTACT.wechat2Qr}" alt="${window.CONTACT.wechat2Name} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechat2Name}</div></div>`:''}
-              ${window.CONTACT.whatsappQr?`<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.whatsapp}</span><img src="${window.CONTACT.whatsappQr}" alt="WhatsApp 二维码"><div class="cc-qr-cap">WhatsApp</div></div>`:''}
+
               ${window.CONTACT.wechatOfficialQr?`<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img src="${window.CONTACT.wechatOfficialQr}" alt="${window.CONTACT.wechatOfficial} 公众号二维码"><div class="cc-qr-cap">公众号</div></div>`:''}
             </div>
           </div>
@@ -218,10 +212,9 @@
   };
 
   // ---------- Shared contact channels (5 channels) ----------
-  // Icons: colored SVG (sky-blue phone / lavender WhatsApp / mint WeChat / grey mail / red pin)
+  // Icons: colored SVG (sky-blue phone / mint WeChat / grey mail / red pin)
   window.ICONS = {
     phone: '<svg viewBox="0 0 24 24" width="34" height="34" fill="none" stroke="#5bb8e8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>',
-    whatsapp: '<svg viewBox="0 0 32 32" width="34" height="34"><path fill="#25D366" d="M16 3C9.4 3 4 8.4 4 15c0 2.2.6 4.3 1.7 6.1L4 29l8.1-1.7c1.7.9 3.7 1.4 5.7 1.4h.2c6.6 0 12-5.4 12-12S22.6 3 16 3z"/><path fill="#fff" d="M21.5 17.7c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.5-.6.1-.2.2-.3.3-.5.1-.2 0-.4 0-.6-.1-.2-.7-1.7-1-2.3-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.2 3.4 5.3 4.7.7.3 1.3.5 1.8.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.2-.3-.2-.6-.4z"/></svg>',
     wechat: '<svg viewBox="0 0 24 24" width="34" height="34" fill="#4ec9a5"><ellipse cx="9" cy="10" rx="7" ry="6"/><ellipse cx="16" cy="15" rx="6" ry="5" opacity=".85"/><circle cx="6.5" cy="9" r="1" fill="#fff"/><circle cx="11.5" cy="9" r="1" fill="#fff"/><circle cx="14" cy="14" r=".9" fill="#fff"/><circle cx="18" cy="14" r=".9" fill="#fff"/></svg>',
     mail: '<svg viewBox="0 0 24 24" width="34" height="34" fill="none" stroke="#9aa6b2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>',
     pin: '<svg viewBox="0 0 24 24" width="34" height="34" fill="#e23b3b"><path d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>'
@@ -230,14 +223,11 @@
   window.contactChannels = function(lang, opts){
     opts = opts || {};
     const c = window.CONTACT;
-    const wa = c.whatsapp.replace(/\s/g,'');
     const ICON = window.ICONS;
     const items = [
       { href:'tel:'+c.hotline.replace(/\s/g,''), icon:ICON.phone,
         label: lang==='zh'?'客服热线':'Hotline',
         val: c.hotline+'<br>'+c.hotline2 },
-      { href:'https://wa.me/'+wa, icon:ICON.whatsapp, target:true,
-        label: 'WhatsApp', val: c.whatsapp },
       { href:'contact.html', icon:ICON.wechat,
         label: lang==='zh'?'官方微信':'WeChat', val: c.wechat },
       { href:'mailto:'+c.email, icon:ICON.mail,
@@ -266,10 +256,9 @@
     return `<div class="contact-grid">${cards}</div>`;
   };
 
-  // ---------- Minimal centered store info bar (hours / address / phone + WeChat & WhatsApp icons) ----------
+  // ---------- Minimal centered store info bar (hours / address / phone + WeChat icons) ----------
   window.storeInfo = function(lang){
     const c = window.CONTACT;
-    const wa = c.whatsapp.replace(/\s/g,'');
     const ICON = window.ICONS;
     return `<section class="store-info">
       <div class="si-line">${lang==='zh'?c.hoursZh:c.hoursEn}</div>
@@ -277,7 +266,6 @@
       <div class="si-line">${c.hotline}　${c.hotline2}</div>
       <div class="si-icons">
         <a href="contact.html" title="WeChat" aria-label="WeChat">${ICON.wechat}</a>
-        <a href="https://wa.me/${wa}" target="_blank" rel="noopener" title="WhatsApp" aria-label="WhatsApp">${ICON.whatsapp}</a>
       </div>
     </section>`;
   };

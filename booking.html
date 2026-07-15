@@ -249,7 +249,7 @@
       const EMAILJS = { serviceID:'service_o6p45jq', templateID:'template_yxlb4dp', autoReplyID:'template_p9ks58v', publicKey:'nZv17YnCO1xz5uLPZ', toEmail:'etripsetrips@gmail.com' };
       if(typeof emailjs === 'undefined'){
         tip.style.color='#e23b3b';
-        tip.textContent='邮件组件加载失败，请检查网络后重试，或通过微信/WhatsApp联系客服。';
+        tip.textContent='邮件组件加载失败，请检查网络后重试，或通过微信联系客服。';
         return;
       }
       tip.style.color='#1B9FE0'; tip.textContent='正在发送…';
@@ -266,9 +266,9 @@
               name: name, email: email, body: body, route: route, date: date
             }).catch(()=>{});
           }
-          tip.style.color='#1aa06b'; tip.textContent='预订请求已发送！行程单已随邮件送达，客服将尽快与您确认余位与价格（可扫码添加微信/WhatsApp）。';
+          tip.style.color='#1aa06b'; tip.textContent='预订请求已发送！行程单已随邮件送达，客服将尽快与您确认余位与价格（可扫码添加微信）。';
         }).catch((err)=>{
-          tip.style.color='#e23b3b'; tip.textContent='发送失败（'+(err&&err.status||'网络')+'），请稍后重试或通过微信/WhatsApp联系客服。';
+          tip.style.color='#e23b3b'; tip.textContent='发送失败（'+(err&&err.status||'网络')+'），请稍后重试或通过微信联系客服。';
           console.error(err);
         });
       } catch(e){
