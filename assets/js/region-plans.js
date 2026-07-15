@@ -2297,7 +2297,7 @@ window.REGION_PLANS.australia = `
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
 
-          window.REGION_PLANS.asia = `
+            window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -3017,6 +3017,8 @@ window.REGION_PLANS.australia = `
 
 
 
+
+
   window.REGION_PLANS.europe = `
 <div class="rp-banner">
   <div class="rp-slides">
@@ -3260,7 +3262,7 @@ window.REGION_PLANS.australia = `
   </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-          window.REGION_PLANS.china = `
+            window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -3448,7 +3450,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-group" data-group="机票套餐·特别定制">
         <div class="rp-group-title">机票套餐·特别定制 <span class="rp-arrow">▶</span></div>
         <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-示例机票套餐定制团请">示例·机票套餐定制团（请替换为实际团名）</div>
+        <div class="rp-route" data-route="ch-2026冰雪奇缘东北3">2026冰雪奇缘东北新年狂欢团12日-包机票</div>
         </div>
       </div>
   </nav>
@@ -8407,10 +8409,10 @@ window.REGION_PLANS.australia = `
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-示例机票套餐定制团请2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-2026冰雪奇缘东北4" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物</span>
-        <div class="rp-detail-hero-in"><h3>示例·机票套餐定制团（请替换为实际团名）</h3>
+        <div class="rp-detail-hero-in"><h3>2026冰雪奇缘东北新年狂欢团12日-包机票</h3>
           <div class="rp-price-row">
             <span class="rp-price-item"><b>大人</b> 待确认</span>
             <span class="rp-price-item"><b>儿童</b> 待确认</span>
@@ -8425,27 +8427,60 @@ window.REGION_PLANS.australia = `
         <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
       <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>沈阳</div><div><b>离开城市</b>待确认</div></div>
 <table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
-第1天：待补充（景点/用餐/住宿）
+第1天 悉尼/墨尔本出发
+请提前3小时抵达机场，搭乘国际航班在国内中转飞往沈阳，次日到达。（布里斯班/阿德莱德出发有附加费，具体附加费另询）
 
-* 以上为参考框架，具体每日行程以出团通知书为准。
+第2天 抵达沈阳
+抵达沈阳，接机后前往酒店休息（酒店14:00後可以办理入住手续）。住宿：新都绿城喜来登酒店或同级5*酒店
+
+第3天 沈阳 - 长春（B酒店 / L东北风味 / D满族乌拉火锅）
+早餐后游览【沈阳故宫】，它是国内现存规模仅次于北京故宫的完整皇家建筑群。随后参观【张学良旧居陈列馆】，漫步【满清一条街】。游览【沈阳中街】步行街。午餐后乘车前往长春，车程约3.5小时。特别安排：满族乌拉火锅欢迎宴。住宿：福朋喜来登酒店或同级5*酒店
+*温馨提示：沈阳故宫、张学良旧居每逢周一闭馆，12月26日、1月9日两期改为非遗体验【DIY李氏糖人】+【北陵公园（清昭陵）】
+
+第4天 长春 - 吉林（B酒店 / L人参汽锅鸡 / D满族三套碗）
+早餐后搭乘【长春有轨电车】（赠热饮），前往【这有山】文旅小镇。午餐后驱车前往吉林市，车程约1.5小时，傍晚沿松江中路赏江畔雪景；晚餐【满族三套碗】。住宿：戴斯温德姆大酒店或同级5*酒店
+
+第5天 吉林 - 长白山（B酒店 / L吉林风味 / D朝鲜风味）
+沿雾凇观景公路赏吉林雾凇，走进【朝鲜族民俗村】体验泡菜制作。傍晚入住长白山温泉酒店，晚间自由体验温泉（自备泳衣）。住宿：金水鹤温泉酒店或同级5*酒店
+
+第6天 长白山（B酒店 / L景区内自助 / D柴火铁锅炖）
+前往【长白山北坡风景区】换乘环保车赴天池观景台，游聚龙温泉群、远观【长白瀑布】（赠温泉水煮鸡蛋）。住宿：金水鹤温泉酒店或同级5*酒店
+*长白山受天气影响偶有封山，以景区当日通知为准
+
+第7天 长白山 - 牡丹江（B酒店 / L东北鱼宴 / D东北水饺风味）
+游览【镜泊湖景区】冬日冰瀑。午餐后赴牡丹江，沉浸式包饺子体验。圣诞节/新年团赠小烟花。住宿：牡丹江世茂假日大酒店或同级5*酒店
+
+第8天 牡丹江 - 中国雪乡（B酒店 / L林场风味 / D古法锅包肉）
+前往【中国雪乡风景区】，入住东北特色民宿（独立卫浴、两人一间）。赠团队15秒雪乡航拍短视频。住宿：雪乡民宿/二浪河风房车民宿或同级民宿
+
+第9天 雪乡 - 哈尔滨（B酒店 / L农家风味 / D自助烤肉）
+穿行【林海雪原·冰雪画廊】，赴哈尔滨，傍晚漫步【中央大街】。赠马迭尔冰棍每人一支。住宿：哈尔滨施柏阁酒店或同级5*酒店
+
+第10天 哈尔滨（B酒店 / L俄式西餐 / D"冰宫"火锅）
+【圣索菲亚广场】看冬泳表演+冰上人力自行车。【哈尔滨冰雪大世界】。晚餐"冰宫火锅"。住宿：哈尔滨施柏阁酒店或同级5*酒店
+
+第11天 哈尔滨 - 澳洲（B酒店）
+早餐后前往机场，乘国际航班飞往澳洲。
+
+第12天 抵达澳洲
+抵达澳洲，返回温馨的家。
 </pre></div>
       <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【参团须知】
 1. 签证：中国团需有效中国签证；外籍游客请确认入境要求。
-2. 机票：本类含国际/内陆联运机票，航班与行李额以航司出票为准，机票税费另询。
+2. 机票：本团含悉尼/墨尔本出发国际联运机票（国内中转飞沈阳）；布里斯班/阿德莱德出发有附加费，具体另询。航班与行李额以航司出票为准。
 3. 成团：最低成团人数以出团前通知为准，未成团将协商改期或全额退款。
 4. 儿童：儿童价按不占床/占床区分，详见价格表；婴儿价另询。
 5. 单房差：单人入住需补单房差，详见价格表。
 6. 预订：支付定金后留位，余款于出发前付清；以客服确认为准。
 7. 退改：机票与团费退改分别按航司与退改条款执行，详情咨询客服。
-8. 班期：具体出发日期与余位以客服查询为准。
-9. 中国线含跨城交通，具体以行程单为准。
-
+8. 班期：具体出发日期与余位以客服查询为准。沈阳故宫/张学良旧居每逢周一闭馆，部分日期行程调整见行程备注。
+9. 温馨提示：雪乡民宿为两人一间独立卫浴；长白山温泉请自备泳衣；冰雪项目受天气影响以景区当日通知为准。
 * 本须知为通用模板，最终以出团合同与客服确认为准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
@@ -8461,10 +8496,12 @@ window.REGION_PLANS.australia = `
 
 
 
+
+
 })();
 PROBE_SENTINEL_20260715
 
-          window.REGION_PLANS.island = `
+            window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -8923,7 +8960,9 @@ PROBE_SENTINEL_20260715
 
 
 
-          window.REGION_PLANS.america = `
+
+
+            window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -10153,7 +10192,9 @@ PROBE_SENTINEL_20260715
 
 
 
-        window.REGION_PLANS.other = `
+
+
+          window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -10212,6 +10253,8 @@ PROBE_SENTINEL_20260715
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
+
+
 
 
 
