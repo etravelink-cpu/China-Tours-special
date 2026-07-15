@@ -2731,10 +2731,17 @@ window.REGION_PLANS.australia = `
           </div>
         </div>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?350.html" target="_blank">echinatours 产品页</a>）</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>北京PEK.PKX</div><div><b>离开城市</b>北京PEK.PKX</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$799</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$499</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$799</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">$300</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">$118</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">$120</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">$45</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?350.html" target="_blank">echinatours 产品页</a> 为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><p>行程安排详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?350.html" target="_blank">echinatours</a>）。</p></div>
+      <div class="rp-tab-panel" data-tab="notes"><p>参团须知详情稍后更新。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-bjxa6" data-p-adult="999" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2746,10 +2753,17 @@ window.REGION_PLANS.australia = `
           </div>
         </div>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?351.html" target="_blank">echinatours 产品页</a>）</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>西安</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$999</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$999</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?351.html" target="_blank">echinatours 产品页</a> 为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><p>行程安排详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?351.html" target="_blank">echinatours</a>）。</p></div>
+      <div class="rp-tab-panel" data-tab="notes"><p>参团须知详情稍后更新。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-bjxash8" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2761,10 +2775,17 @@ window.REGION_PLANS.australia = `
           </div>
         </div>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?352.html" target="_blank">echinatours 产品页</a>）</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>上海</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$1599</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1099</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$1599</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?352.html" target="_blank">echinatours 产品页</a> 为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><p>行程安排详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?352.html" target="_blank">echinatours</a>）。</p></div>
+      <div class="rp-tab-panel" data-tab="notes"><p>参团须知详情稍后更新。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-bjxayz12" data-p-adult="2399" data-p-child="1699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2776,10 +2797,17 @@ window.REGION_PLANS.australia = `
           </div>
         </div>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?353.html" target="_blank">echinatours 产品页</a>）</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>重庆</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$2399</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$2399</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?353.html" target="_blank">echinatours 产品页</a> 为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><p>行程安排详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?353.html" target="_blank">echinatours</a>）。</p></div>
+      <div class="rp-tab-panel" data-tab="notes"><p>参团须知详情稍后更新。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-xa4" data-p-adult="899" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2791,10 +2819,17 @@ window.REGION_PLANS.australia = `
           </div>
         </div>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?389.html" target="_blank">echinatours 产品页</a>）</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4-5天</div><div><b>抵达城市</b>西安</div><div><b>离开城市</b>西安</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$899</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$599</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$899</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?389.html" target="_blank">echinatours 产品页</a> 为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><p>行程安排详情稍后更新（来源：<a href="https://au.echinatours.com/cwwgw/html/?389.html" target="_blank">echinatours</a>）。</p></div>
+      <div class="rp-tab-panel" data-tab="notes"><p>参团须知详情稍后更新。</p></div>
     </div>  </div>
 </div>
 

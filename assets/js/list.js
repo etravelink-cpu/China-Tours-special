@@ -76,6 +76,16 @@
           }
           activateRoute(r.dataset.route);
         }) );
+        // 详情卡内 tab 切换（借鉴 echinatours 产品页 tab 布局）
+        panes.forEach(p=>{
+          const tabs=p.querySelectorAll('.rp-tab');
+          tabs.forEach(t=> t.addEventListener('click', ()=>{
+            const tid=t.dataset.tab;
+            p.querySelectorAll('.rp-tab').forEach(x=>x.classList.toggle('active', x===t));
+            p.querySelectorAll('.rp-tab-panel').forEach(x=>x.classList.toggle('active', x.dataset.tab===tid));
+          }));
+          const ft=p.querySelector('.rp-tab'); if(ft) ft.click();
+        });
         // 默认激活第一个（悉尼及周边第一条）
         const first = routes[0];
         if(first) activateRoute(first.dataset.route);
