@@ -2738,39 +2738,9 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>北京PEK.PKX</div><div><b>离开城市</b>北京PEK.PKX</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$799</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$499</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$799</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">$300</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">$118</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">$120</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">$45</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?350.html" target="_blank">echinatours 产品页</a> 为准。</p>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$799</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$499</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$799</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">$300</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">$118</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">$120</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">$45</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程特色】
-★ 纯玩无压力，精选酒店+缤纷景点+地道当地风味餐
-★ 缤纷景点：天安门+故宫+什刹海+前门大街+登长城+颐和园+游胡同+天坛公园
-★ 全程优选酒店（携程四钻或以上）
-★ 抵达/离开当天免费接送机
-
-【第1天】抵达北京
-抵达机场/高铁站，接机/接站后送回酒店休息。相邻2小时内航班统一接送，14:00后可办理入住。
-
-【第2天】北京
-早餐后游览天安门广场、外观人民大会堂；参观故宫博物院（明清皇宫），游览天坛（祈年殿/回音壁），逛前门大街。
-（注：故宫为预约抢票制，如遇限流替换为登景山观故宫全景+雍和宫。）
-
-【第3天】北京
-早餐后游览居庸关万里长城；午餐后游览颐和园；游览老北京胡同和什刹海，感受老北京韵味。
-
-【第4天】送机
-指定时间分批送往机场或高铁站，返回温暖的家。
-</pre></div>https://au.echinatours.com/cwwgw/html/?350.html" target="_blank">echinatours</a>）。</p></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【纯玩团特色】
-1. 仅提供中文导游服务。
-2. 团费包含机场接送、酒店、中文导游、汽车、门票、餐食等。
-3. 全程不安排定点购物商店，无购物压力。
-4. 游客须随团旅行，全程不得中途脱团。
-5. 75周岁以上参团须有60周岁以下亲友随行并购买足额旅游意外保险。
-
-【取消条款】
-报名后不可更改；中国线路抵达日期前30日内取消，报名费+综合服务费全损。具体请咨询客服。
-</pre></div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-bjxa6" data-p-adult="999" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2789,27 +2759,9 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>西安</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$999</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$999</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?351.html" target="_blank">echinatours 产品页</a> 为准。</p>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$999</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$999</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程特色】
-精选北京+西安双城核心景点，涵盖古都历史精华。
-
-【第1-2天】北京
-早餐后游览天安门广场、故宫等。
-
-【第3天】北京→西安
-高铁或航班转赴西安，接站后入住。
-
-【第4-5天】西安
-游览兵马俑、城墙、大雁塔等历史遗迹。
-
-【第6天】送机
-指定时间送机/送站。
-</pre></div>https://au.echinatours.com/cwwgw/html/?351.html" target="_blank">echinatours</a>）。</p></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-参团须知详情稍后更新（来源：echinatours）。
-</pre></div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-bjxash8" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2828,27 +2780,9 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>上海</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$1599</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1099</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$1599</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?352.html" target="_blank">echinatours 产品页</a> 为准。</p>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$1599</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1099</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$1599</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程特色】
-北京+西安+上海华东连线，古都+江南风情一次走遍。
-
-【第1-3天】北京
-天安门、故宫、长城、颐和园。
-
-【第4-5天】西安
-兵马俑、城墙、陕西历史博物馆（或大雁塔/不夜城）。
-
-【第6-7天】上海
-外滩、豫园、南京路。
-
-【第8天】送机
-指定时间送机/送站。
-</pre></div>https://au.echinatours.com/cwwgw/html/?352.html" target="_blank">echinatours</a>）。</p></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-参团须知详情稍后更新（来源：echinatours）。
-</pre></div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-bjxayz12" data-p-adult="2399" data-p-child="1699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2867,30 +2801,9 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>重庆</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$2399</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$2399</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?353.html" target="_blank">echinatours 产品页</a> 为准。</p>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$2399</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$2399</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程特色】
-北京+西安+上海+长江三峡12日深度游，含三峡游船体验。
-
-【第1-3天】北京
-天安门、故宫、长城等。
-
-【第4-5天】西安
-兵马俑、城墙等。
-
-【第6-7天】上海+三峡登船
-上海外滩，前往码头登船。
-
-【第8-10天】三峡游船
-途经瞿塘峡/巫峡/西陵峡，上岸游览丰都鬼城或三峡大坝。
-
-【第11-12天】送机
-抵达重庆/宜昌，送机返程。
-</pre></div>https://au.echinatours.com/cwwgw/html/?353.html" target="_blank">echinatours</a>）。</p></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-参团须知详情稍后更新（来源：echinatours）。
-</pre></div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="cn-xa4" data-p-adult="899" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
         <span class="rp-badge">纯玩无购物</span>
@@ -2909,26 +2822,12 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>4-5天</div><div><b>抵达城市</b>西安</div><div><b>离开城市</b>西安</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$899</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$599</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$899</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以 <a href="https://au.echinatours.com/cwwgw/html/?389.html" target="_blank">echinatours 产品页</a> 为准。</p>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$899</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$599</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$899</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程特色】
-西安一地深度，可选华山延伸。
-
-【第1-2天】西安
-兵马俑、城墙、大雁塔、陕西历史博物馆、钟鼓楼回民街。
-
-【第3-4天】华山（华山5日团含）
-往返索道+主峰游览（东峰/南峰/西峰）。
-
-【第5天】送机
-西安送机返程。
-</pre></div>https://au.echinatours.com/cwwgw/html/?389.html" target="_blank">echinatours</a>）。</p></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-参团须知详情稍后更新（来源：echinatours）。
-</pre></div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：长城 © Wikimedia (Public Domain)；故宫神武门 © kallgan, CC BY-SA 3.0；张家界 © Kuruman, CC BY 2.0；西湖 © CC BY-SA 3.0.</p>`;
 })();
+PROBE_SENTINEL_20260715
