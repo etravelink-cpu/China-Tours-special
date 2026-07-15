@@ -321,7 +321,7 @@ window.REGION_PLANS.australia = `
       <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
     </div><div class="rp-detail-area">
     <!-- 路线1：蓝山有氧+动物园 -->
-    <div class="rp-route-pane active" data-route="au-blue-mountain" data-p-adult="179" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane active" data-route="au-blue-mountain" data-p-adult="179" data-p-child="179" data-p-infant="89">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
         <span class="rp-badge">天天出发 · 精品奔驰小团</span>
         <div class="rp-detail-hero-in">
