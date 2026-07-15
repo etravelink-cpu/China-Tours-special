@@ -7,11 +7,9 @@
     const d=document.getElementById('f-days').value;
     const m=document.getElementById('f-month').value;
     const b=document.getElementById('f-budget').value;
-    const ty=document.getElementById('f-type').value;
     if(d){ if(d==='s'&&!(t.days<=7))return false; if(d==='m'&&!(t.days>=8&&t.days<=10))return false; if(d==='l'&&!(t.days>=11))return false; }
     if(m && t.monthEn!=='Year-round' && m==='summer' && t.month!=='夏季') return false;
     if(b && t.budget!==b) return false;
-    if(ty && t.type!==ty) return false;
     return true;
   }
 
@@ -19,7 +17,6 @@
     lang = window.Etrips.getLang();
     const q = new URLSearchParams(location.search).get('d');
     const qt = new URLSearchParams(location.search).get('type');
-    if(qt) { const sel=document.getElementById('f-type'); if(sel) sel.value=qt; }
     const grid = document.getElementById('list-grid');
     let list = T.filter(match);
     if(q) list = list.filter(t=>t.dest===q);
@@ -128,7 +125,7 @@
     window.Etrips.applyLang();
   }
 
-  ['f-days','f-month','f-budget','f-type'].forEach(id=>{
+  ['f-days','f-month','f-budget'].forEach(id=>{
     document.addEventListener('DOMContentLoaded',()=>{
       document.getElementById(id).addEventListener('change', render);
     });

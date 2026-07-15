@@ -49,11 +49,6 @@
             <option value="other" data-i18n="dest.other">其他</option>
             <option value="custom" data-i18n="dest.custom">私人订制</option>
           </select>
-          <select id="h-type" class="h-select" aria-label="参团方式">
-            <option value="" data-i18n="search.type">参团方式</option>
-            <option value="small" data-i18n="type.small">散拼团</option>
-            <option value="private" data-i18n="type.private">私家团</option>
-          </select>
           <button class="h-search" id="h-search" data-i18n="search.find">寻找</button>
         </div>
         <div class="header-actions">
@@ -67,10 +62,9 @@
       document.getElementById('main-nav').classList.toggle('open');
     });
     document.getElementById('h-search').addEventListener('click', ()=>{
-      const d = document.getElementById('h-dest').value;
-      const ty = document.getElementById('h-type').value;
-      let url = 'list.html' + (d?('?d='+d):'') + (ty?((d?'&':'?')+'type='+encodeURIComponent(ty)):'');
-      location.href = url;
+    const d = document.getElementById('h-dest').value;
+    let url = 'list.html' + (d?('?d='+d):'');
+    location.href = url;
     });
   }
 
