@@ -2703,30 +2703,201 @@ window.REGION_PLANS.australia = `
   <div class="rp-banner-in">
     <h1>中国 · 分区行程规划</h1>
     <div class="rp-sub">China Region Tours</div>
-    <p class="rp-desc">从江南水乡到西北丝路，分区完整呈现。点击左侧分区，查看各地核心行程。</p>
+    <p class="rp-desc">超值特价团与纯玩无购物团，分区完整呈现。点击左侧大类与区域，查看各地核心行程。</p>
   </div>
 </div>
 <div class="rp-layout">
   <nav class="rp-nav2" aria-label="china 目的地">
-    <div class="rp-group open" data-group="north">
-      <div class="rp-group-title">华北 · 北京西安 <span class="rp-arrow">▼</span></div>
+    <div class="rp-group open" data-group="超值团">
+      <div class="rp-group-title">超值团 <span class="rp-arrow">▼</span></div>
       <div class="rp-group-list">
-        <div class="rp-route" data-route="cn-bj4">2026 纯玩 北京4日</div>
-        <div class="rp-route" data-route="cn-bjxa6">2026 纯玩 北京西安6日</div>
-        <div class="rp-route" data-route="cn-bjxash8">2026 纯玩 北京西安上海8日</div>
-        <div class="rp-route" data-route="cn-bjxayz12">2026 纯玩 北京西安上海长江三峡12日</div>
-        <div class="rp-route" data-route="cn-xa4">2026 纯玩 西安4日 / 华山5日</div>
+      <div class="rp-group" data-group="新疆季节限定专线">
+        <div class="rp-group-title">新疆季节限定专线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-sgxjs1426f">2026 铂金江南・穿越胡杨林喀什南疆秘境 14 日（金秋特别团）</div>
+        <div class="rp-route" data-route="cn-sgxjs0826f">2026 穿越胡杨林 喀什南疆秘境 8 日（金秋特别团）</div>
+        <div class="rp-route" data-route="cn-sgxjn1426e">2026 江南・新疆禾木喀纳斯可可托海魔鬼城 14 日（旺季特别团）</div>
+        <div class="rp-route" data-route="cn-sgxjn0826e">2026 醉美新疆 禾木喀纳斯可可托海魔鬼城 8 日（旺季特别团）</div>
+        <div class="rp-route" data-route="cn-2026杏福新疆伊犁">2026 杏福新疆・伊犁花季 8 日（春季特别团）</div>
+        <div class="rp-route" data-route="cn-2026草原牧歌新疆">2026 草原牧歌・新疆北疆 8 日（春季特别团）</div>
+        <div class="rp-route" data-route="cn-2026绿野仙踪新疆">2026 绿野仙踪 新疆阿勒泰喀纳斯醉美 8 日（买一送一特别团）</div>
+        <div class="rp-route" data-route="cn-2026盛夏伊犁薰衣">2026 盛夏伊犁・薰衣草之旅 8 日（夏季特别团）</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="长江三峡游轮专线">
+        <div class="rp-group-title">长江三峡游轮专线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026铂金江南长江">2026 铂金江南 长江新船王极光号 / 揽月号 12 日</div>
+        <div class="rp-route" data-route="cn-2026奢华江南和平">2026 奢华江南和平饭店 - 长江新船王揽月号 / 极光号 13 日（AB/AA 团）</div>
+        <div class="rp-route" data-route="cn-2026九寨沟成都重">2026 九寨沟成都重庆长江新船王揽月号 / 极光号 13 日</div>
+        <div class="rp-route" data-route="cn-2026江南长江三峡">2026 江南 长江三峡 11 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="江南高端酒店专线">
+        <div class="rp-group-title">江南高端酒店专线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026铂金江南7日">2026 铂金江南 7 日</div>
+        <div class="rp-route" data-route="cn-2026璀璨金钻江南">2026 璀璨金钻～江南奢华 8 日（A 团 & AB 团 & AA 团）</div>
+        <div class="rp-route" data-route="cn-2026深坑洲际黄山">2026 深坑洲际・黄山千岛湖 9 日</div>
+        <div class="rp-route" data-route="cn-2026深坑洲际婺源">2026 深坑洲际・婺源望仙谷 9 日</div>
+        <div class="rp-route" data-route="cn-2026深坑洲际海天">2026 深坑洲际・海天佛国普陀山 9 日</div>
+        <div class="rp-route" data-route="cn-2026深坑洲际九华">2026 深坑洲际・九华山 9 日</div>
+        <div class="rp-route" data-route="cn-2026深坑洲际泰山">2026 深坑洲际・泰山曲阜 9 日</div>
+        <div class="rp-route" data-route="cn-2026深坑洲际庐山">2026 深坑洲际・庐山 9 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="川藏・九寨沟专线">
+        <div class="rp-group-title">川藏・九寨沟专线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026成都九寨沟洲">2026 成都・九寨沟 洲际酒店奢华超五星升级版 8 日</div>
+        <div class="rp-route" data-route="cn-2026九寨沟长江三">2026 九寨沟 长江三峡 洲际酒店超豪华五星升级版 12 日</div>
+        <div class="rp-route" data-route="cn-2026山城重庆大足">2026 山城重庆 大足石刻武隆 6 日</div>
+        <div class="rp-route" data-route="cn-2026重庆大足石刻">2026 重庆大足石刻 长江三峡 10 日</div>
+        <div class="rp-route" data-route="cn-2026醉美川藏成都">2026 醉美川藏 成都西藏深度 11 日 / 14 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="大湾区・岭南美食专线">
+        <div class="rp-group-title">大湾区・岭南美食专线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026大湾区美食机">2026 大湾区美食・机器人奇观 6 日 / 7 日</div>
+        <div class="rp-route" data-route="cn-2026舌尖广东珠江">2026 舌尖广东・珠江美食 6 日</div>
+        <div class="rp-route" data-route="cn-2026大湾区广东美">2026 大湾区・广东美食 6 日</div>
+        <div class="rp-route" data-route="cn-2026寻味大湾区广">2026 寻味大湾区・广东美食 7 日</div>
+        <div class="rp-route" data-route="cn-2026潮汕高铁广东">2026 潮汕高铁・广东美食 7 日</div>
+        <div class="rp-route" data-route="cn-2026潮汕风情珠江">2026 潮汕风情・珠江美食 8 日</div>
+        <div class="rp-route" data-route="cn-2026香港大湾区珠">2026 香港大湾区 珠江美食 8 日</div>
+        <div class="rp-route" data-route="cn-2026香港潮汕珠江">2026 香港潮汕・珠江美食 10 日</div>
+        <div class="rp-route" data-route="cn-2026珠江美食长江">2026 珠江美食・长江美景 10 日</div>
+        <div class="rp-route" data-route="cn-2026大湾区美食长">2026 大湾区美食・长江三峡 10 日</div>
+        <div class="rp-route" data-route="cn-2026珠江美食越南">2026 珠江美食・越南下龙湾 10 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="国内经典目的地专线">
+        <div class="rp-group-title">国内经典目的地专线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026张家界凤凰古">2026 张家界・凤凰古城 7 日</div>
+        <div class="rp-route" data-route="cn-2026张家界长江三">2026 张家界・长江三峡 11 日</div>
+        <div class="rp-route" data-route="cn-2026北京5日6日">2026 北京 5 日 / 6 日</div>
+        <div class="rp-route" data-route="cn-2026北京长江三峡">2026 北京 长江三峡 9 日</div>
+        <div class="rp-route" data-route="cn-2026桂林6日">2026 桂林 6 日</div>
+        <div class="rp-route" data-route="cn-2026桂林长江三峡">2026 桂林 长江三峡 11 日</div>
+        <div class="rp-route" data-route="cn-2026厦门泉州土楼">2026 厦门泉州土楼 6 日</div>
+        <div class="rp-route" data-route="cn-2026厦门土楼武夷">2026 厦门土楼武夷山 8 日</div>
+        <div class="rp-route" data-route="cn-2026厦门长江三峡">2026 厦门 长江三峡 11 日</div>
+        <div class="rp-route" data-route="cn-2026云南昆明大理">2026 云南 昆明大理丽江 6 日 / 7 日</div>
+        <div class="rp-route" data-route="cn-2026海南海口三亚">2026 海南 海口三亚 6 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="超长穿越与跨境游轮专线">
+        <div class="rp-group-title">超长穿越与跨境游轮专线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-sgjnsr1726">2026 横贯中国・纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团</div>
+        <div class="rp-route" data-route="cn-2026金钻江南深圳">2026（金钻江南 + 深圳机器人）马来西亚 - 文莱 - 越南 - 爱达魔都号游轮 16 日</div>
+        <div class="rp-route" data-route="cn-2026金钻江南爱达">2026 金钻江南・爱达魔都号游轮 11 日（A&AA 团）</div>
+        <div class="rp-route" data-route="cn-sgjnad1726">2026 爱达花城号海上丝绸之路 亚洲巡礼・爱达花城号游轮 17 日</div>
+        </div>
+      </div>
+      </div>
+    </div>
+    <div class="rp-group open" data-group="纯玩团">
+      <div class="rp-group-title">纯玩团 <span class="rp-arrow">▼</span></div>
+      <div class="rp-group-list">
+      <div class="rp-group" data-group="西南（川渝、西藏）">
+        <div class="rp-group-title">西南（川渝、西藏） <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026纯玩九寨沟成">2026（纯玩）九寨沟 成都乐山峨眉 7 日（九寨沟高铁体验特别版）</div>
+        <div class="rp-route" data-route="cn-2026纯玩九寨沟长">2026（纯玩）九寨沟 长江三峡 11 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩洲际酒店">2026（纯玩）洲际酒店豪华版 成都 5 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩山城重庆">2026（纯玩）山城重庆 3 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩山城重庆2">2026（纯玩）山城重庆 武隆天生三桥 5 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩山城重庆3">2026（纯玩）山城重庆 三峡游轮 6 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩西藏5日">2026（纯玩）西藏 5 日 - 洲际酒店特别版</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="华北 / 中原">
+        <div class="rp-group-title">华北 / 中原 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026纯玩北京4日">2026（纯玩）北京 4 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩北京西安">2026（纯玩）北京西安 6 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩北京西安2">2026（纯玩）北京西安上海 8 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩北京西安3">2026（纯玩）北京、西安、长江三峡 10 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩北京西安4">2026（纯玩）北京西安上海长江三峡 12 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩西安4日">2026 (纯玩) 西安 4 日 / 华山 5 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩西安长江">2026（纯玩) 西安、长江三峡 8 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩山东6日">2026（纯玩）山东 6 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩河南5日">2026（纯玩）河南 5 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩山西7日">2026（纯玩）山西 7 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="湘鄂・长江三峡线">
+        <div class="rp-group-title">湘鄂・长江三峡线 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026纯玩张家界6">2026（纯玩）张家界 6 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩张家界凤">2026（纯玩）张家界凤凰古城 7 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩张家界长">2026（纯玩）张家界长江三峡 9 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩张家界长2">2026（纯玩）张家界长江三峡 11 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩武汉黄鹤">2026（纯玩）武汉黄鹤楼 三峡游轮 6 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩宜昌重庆">2026（纯玩）宜昌重庆 三峡游轮 6 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="云贵桂">
+        <div class="rp-group-title">云贵桂 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026锦绣中华多彩">2026【锦绣中华】多彩贵州・大美江西・金秋揽胜 16 天</div>
+        <div class="rp-route" data-route="cn-2026纯玩贵州黄果">2026（纯玩）贵州黄果树 5 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩贵州桂林">2026（纯玩）贵州桂林阳朔 8 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩贵州凤凰">2026（纯玩）贵州凤凰张家界 9 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩桂林漓江">2026（纯玩）桂林 漓江阳朔 5 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩桂林长江">2026（纯玩）桂林 长江三峡 9 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩云南昆明">2026（纯玩）云南 昆明大理丽江香格里拉 6 日 / 7 日 / 8 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩云南丽江">2026（纯玩）云南 丽江香格里拉泸沽湖 9 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩云南丽江2">2026（纯玩）云南 丽江香格里拉泸沽湖石林 10 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩贵州云南">2026（纯玩）贵州云南 云贵高原 9 日 / 12 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="东北">
+        <div class="rp-group-title">东北 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026冰雪奇缘东北">2026 冰雪奇缘东北圣诞新年狂欢团 10 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩东北四大">2026（纯玩）东北四大名城 长白山 6 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩东北五大">2026（纯玩）东北五大名城 长白山 7 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩东北名城">2026（纯玩）东北名城 长白山 漠河 9 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="新疆・丝路">
+        <div class="rp-group-title">新疆・丝路 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026纯玩丝绸之路">2026（纯玩）丝绸之路 传奇东方高铁 7 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩西安丝绸">2026 (纯玩) 西安、丝绸之路 9 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩丝绸之路2">2026 (纯玩) 丝绸之路、茶卡盐湖青海湖 9 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩丝绸之路3">2026（纯玩）丝绸之路 青藏铁路 西藏 10 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩新疆北疆">2026（纯玩）新疆北疆 8 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩新疆南疆">2026（纯玩）新疆南疆 8 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩新疆南疆2">2026（纯玩）新疆南疆北疆全景 15 日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="华东・华南・港澳">
+        <div class="rp-group-title">华东・华南・港澳 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="cn-2026纯玩江南水乡">2026 (纯玩) 江南水乡 6 天</div>
+        <div class="rp-route" data-route="cn-2026纯玩大湾区精">2026（纯玩）大湾区精品美食 6 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩香港潮汕">2026（纯玩）香港潮汕韶关佛山广州超级美食 10 日游</div>
+        <div class="rp-route" data-route="cn-2026纯玩香港3日">2026（纯玩）香港 3 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩厦门土楼">2026 (纯玩) 厦门土楼潮汕 6 日 & 7 日</div>
+        <div class="rp-route" data-route="cn-2026纯玩海南岛三">2026 (纯玩) 海南岛三亚 5 天</div>
+        </div>
+      </div>
       </div>
     </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="cn-bj4" data-p-adult="799" data-p-child="499" data-p-infant="0">
+    <div class="rp-route-pane" data-route="cn-sgxjs1426f" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
-        <span class="rp-badge">纯玩无购物</span>
-        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京4日</h3>
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 铂金江南・穿越胡杨林喀什南疆秘境 14 日（金秋特别团）</h3>
           <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 799</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 499</span>
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
             <span class="rp-price-item"><b>婴儿</b> 待确认</span>
           </div>
         </div>
@@ -2735,19 +2906,28 @@ window.REGION_PLANS.australia = `
         <div class="rp-tab active" data-tab="price">日期和价格</div>
         <div class="rp-tab" data-tab="itinerary">行程安排</div>
         <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
       <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>北京PEK.PKX</div><div><b>离开城市</b>北京PEK.PKX</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$799</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$499</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$799</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">$300</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">$118</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">$120</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">$45</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+        <div class="rp-summary"><div><b>行程天数</b>14天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1798</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">810</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">270</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="cn-bjxa6" data-p-adult="999" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
-        <span class="rp-badge">纯玩无购物</span>
-        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京西安6日</h3>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-sgxjs0826f" data-p-adult="1098" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 穿越胡杨林 喀什南疆秘境 8 日（金秋特别团）</h3>
           <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 999</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 699</span>
+            <span class="rp-price-item"><b>大人</b> A$ 1098</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
             <span class="rp-price-item"><b>婴儿</b> 待确认</span>
           </div>
         </div>
@@ -2756,19 +2936,28 @@ window.REGION_PLANS.australia = `
         <div class="rp-tab active" data-tab="price">日期和价格</div>
         <div class="rp-tab" data-tab="itinerary">行程安排</div>
         <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
       <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>西安</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$999</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$999</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1098</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">510</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">160</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="cn-bjxash8" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
-        <span class="rp-badge">纯玩无购物</span>
-        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京西安上海8日</h3>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-sgxjn1426e" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 江南・新疆禾木喀纳斯可可托海魔鬼城 14 日（旺季特别团）</h3>
           <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1599</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1099</span>
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
             <span class="rp-price-item"><b>婴儿</b> 待确认</span>
           </div>
         </div>
@@ -2777,19 +2966,28 @@ window.REGION_PLANS.australia = `
         <div class="rp-tab active" data-tab="price">日期和价格</div>
         <div class="rp-tab" data-tab="itinerary">行程安排</div>
         <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
       <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>上海</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$1599</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1099</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$1599</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+        <div class="rp-summary"><div><b>行程天数</b>14天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1299</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">780</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">170</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="cn-bjxayz12" data-p-adult="2399" data-p-child="1699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
-        <span class="rp-badge">纯玩无购物</span>
-        <div class="rp-detail-hero-in"><h3>2026 纯玩 北京西安上海长江三峡12日</h3>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-sgxjn0826e" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 醉美新疆 禾木喀纳斯可可托海魔鬼城 8 日（旺季特别团）</h3>
           <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2399</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1699</span>
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
             <span class="rp-price-item"><b>婴儿</b> 待确认</span>
           </div>
         </div>
@@ -2798,19 +2996,208 @@ window.REGION_PLANS.australia = `
         <div class="rp-tab active" data-tab="price">日期和价格</div>
         <div class="rp-tab" data-tab="itinerary">行程安排</div>
         <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
       <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>北京</div><div><b>离开城市</b>重庆</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$2399</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$1699</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$2399</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1198</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">730</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">160</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="cn-xa4" data-p-adult="899" data-p-child="599" data-p-infant="0">
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026杏福新疆伊犁" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 杏福新疆・伊犁花季 8 日（春季特别团）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026草原牧歌新疆" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
-        <span class="rp-badge">纯玩无购物</span>
-        <div class="rp-detail-hero-in"><h3>2026 纯玩 西安4日 / 华山5日</h3>
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 草原牧歌・新疆北疆 8 日（春季特别团）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026绿野仙踪新疆" data-p-adult="599" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 绿野仙踪 新疆阿勒泰喀纳斯醉美 8 日（买一送一特别团）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 599</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">899</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">350</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026盛夏伊犁薰衣" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 盛夏伊犁・薰衣草之旅 8 日（夏季特别团）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026铂金江南长江" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 铂金江南 长江新船王极光号 / 揽月号 12 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1798</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">810</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">270</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026奢华江南和平" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 奢华江南和平饭店 - 长江新船王揽月号 / 极光号 13 日（AB/AA 团）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>13天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026九寨沟成都重" data-p-adult="899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 九寨沟成都重庆长江新船王揽月号 / 极光号 13 日</h3>
           <div class="rp-price-row">
             <span class="rp-price-item"><b>大人</b> A$ 899</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 599</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
             <span class="rp-price-item"><b>婴儿</b> 待确认</span>
           </div>
         </div>
@@ -2819,12 +3206,2721 @@ window.REGION_PLANS.australia = `
         <div class="rp-tab active" data-tab="price">日期和价格</div>
         <div class="rp-tab" data-tab="itinerary">行程安排</div>
         <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
       <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>4-5天</div><div><b>抵达城市</b>西安</div><div><b>离开城市</b>西安</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">$899</td></tr><tr><td class="item">儿童不占床（无早餐） Child Without Bed<span class="en">Child no bed</span></td><td class="price">$599</td></tr><tr><td class="item">儿童占床（含早餐） Child With Bed<span class="en">Child with bed</span></td><td class="price">$899</td></tr><tr><td class="item">单人房间差 Single Supplement<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">酒店续住 Pre/Post Hotel<span class="en">Pre/Post</span></td><td class="price">待确认</td></tr><tr><td class="item">自费专案 Compulsory Programs<span class="en">Compulsory</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service Fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr><tr><td class="item">额外接送机 Extra Transfer<span class="en">Transfer</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+        <div class="rp-summary"><div><b>行程天数</b>13天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1599</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">1190</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">178</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">210</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【行程安排】\n请在此处粘贴行程安排内容...\n</pre></div><div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n【参团须知】\n请在此处粘贴参团须知内容...\n</pre></div>\n      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026江南长江三峡" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 江南 长江三峡 11 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1299</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">780</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">170</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026铂金江南7日" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 铂金江南 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1798</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">810</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">270</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026璀璨金钻江南" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 璀璨金钻～江南奢华 8 日（A 团 & AB 团 & AA 团）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">899</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">700</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">700</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">130</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026深坑洲际黄山" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 深坑洲际・黄山千岛湖 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">999</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">600</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026深坑洲际婺源" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 深坑洲际・婺源望仙谷 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">999</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">600</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026深坑洲际海天" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 深坑洲际・海天佛国普陀山 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">999</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">600</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026深坑洲际九华" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 深坑洲际・九华山 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">999</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">600</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026深坑洲际泰山" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 深坑洲际・泰山曲阜 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">999</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">600</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026深坑洲际庐山" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 深坑洲际・庐山 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">999</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">600</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026成都九寨沟洲" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 成都・九寨沟 洲际酒店奢华超五星升级版 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">699</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">530</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">178</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">130</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026九寨沟长江三" data-p-adult="899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 九寨沟 长江三峡 洲际酒店超豪华五星升级版 12 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1599</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">1190</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">178</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">210</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026山城重庆大足" data-p-adult="399" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 山城重庆 大足石刻武隆 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 399</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">399</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">599</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">300</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026重庆大足石刻" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 重庆大足石刻 长江三峡 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026醉美川藏成都" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 醉美川藏 成都西藏深度 11 日 / 14 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">800</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">178</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">225</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026大湾区美食机" data-p-adult="169" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 大湾区美食・机器人奇观 6 日 / 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 169</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">169</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">270</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026舌尖广东珠江" data-p-adult="259" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 舌尖广东・珠江美食 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 259</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">259</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">270</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026大湾区广东美" data-p-adult="169" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 大湾区・广东美食 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 169</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">169</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">270</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026寻味大湾区广" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 寻味大湾区・广东美食 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026潮汕高铁广东" data-p-adult="269" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 潮汕高铁・广东美食 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 269</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">269</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">300</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">110</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026潮汕风情珠江" data-p-adult="269" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 潮汕风情・珠江美食 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 269</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">269</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">300</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">110</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026香港大湾区珠" data-p-adult="689" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 香港大湾区 珠江美食 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 689</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">689</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1199</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">580</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">130</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026香港潮汕珠江" data-p-adult="699" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 香港潮汕・珠江美食 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 699</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1299</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">670</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">160</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026珠江美食长江" data-p-adult="399" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 珠江美食・长江美景 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 399</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">399</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">699</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026大湾区美食长" data-p-adult="169" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 大湾区美食・长江三峡 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 169</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">169</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">270</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026珠江美食越南" data-p-adult="399" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 珠江美食・越南下龙湾 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 399</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">399</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">699</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">600</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026张家界凤凰古" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 张家界・凤凰古城 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026张家界长江三" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 张家界・长江三峡 11 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026北京5日6日" data-p-adult="169" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 北京 5 日 / 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 169</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">169</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">529</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">230</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">80</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026北京长江三峡" data-p-adult="169" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 北京 长江三峡 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 169</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">169</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">529</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">230</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">80</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026桂林6日" data-p-adult="199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 桂林 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 199</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">199</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">270</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026桂林长江三峡" data-p-adult="199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 桂林 长江三峡 11 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 199</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">199</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">270</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026厦门泉州土楼" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 厦门泉州土楼 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026厦门土楼武夷" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 厦门土楼武夷山 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026厦门长江三峡" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 厦门 长江三峡 11 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026云南昆明大理" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 云南 昆明大理丽江 6 日 / 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026海南海口三亚" data-p-adult="599" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 海南 海口三亚 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 599</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">599</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">270</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-sgjnsr1726" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 横贯中国・纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026金钻江南深圳" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026（金钻江南 + 深圳机器人）马来西亚 - 文莱 - 越南 - 爱达魔都号游轮 16 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>16天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026金钻江南爱达" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 金钻江南・爱达魔都号游轮 11 日（A&AA 团）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1098</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">1000</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">180</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-sgjnad1726" data-p-adult="798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">超值特价</span>
+        <div class="rp-detail-hero-in"><h3>2026 爱达花城号海上丝绸之路 亚洲巡礼・爱达花城号游轮 17 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 798</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>17天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">798</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1998</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">1700</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">118</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">270</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩九寨沟成" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）九寨沟 成都乐山峨眉 7 日（九寨沟高铁体验特别版）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩九寨沟长" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）九寨沟 长江三峡 11 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩洲际酒店" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）洲际酒店豪华版 成都 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩山城重庆" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）山城重庆 3 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩山城重庆2" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）山城重庆 武隆天生三桥 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩山城重庆3" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）山城重庆 三峡游轮 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩西藏5日" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）西藏 5 日 - 洲际酒店特别版</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩北京4日" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）北京 4 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩北京西安" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）北京西安 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩北京西安2" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）北京西安上海 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩北京西安3" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）北京、西安、长江三峡 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩北京西安4" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）北京西安上海长江三峡 12 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩西安4日" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 (纯玩) 西安 4 日 / 华山 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩西安长江" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩) 西安、长江三峡 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩山东6日" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）山东 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩河南5日" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）河南 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩山西7日" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）山西 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩张家界6" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩张家界凤" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界凤凰古城 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩张家界长" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界长江三峡 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩张家界长2" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）张家界长江三峡 11 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩武汉黄鹤" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）武汉黄鹤楼 三峡游轮 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩宜昌重庆" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）宜昌重庆 三峡游轮 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026锦绣中华多彩" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026【锦绣中华】多彩贵州・大美江西・金秋揽胜 16 天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩贵州黄果" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州黄果树 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩贵州桂林" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州桂林阳朔 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩贵州凤凰" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州凤凰张家界 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩桂林漓江" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）桂林 漓江阳朔 5 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩桂林长江" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）桂林 长江三峡 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩云南昆明" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）云南 昆明大理丽江香格里拉 6 日 / 7 日 / 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩云南丽江" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）云南 丽江香格里拉泸沽湖 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩云南丽江2" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）云南 丽江香格里拉泸沽湖石林 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩贵州云南" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）贵州云南 云贵高原 9 日 / 12 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026冰雪奇缘东北" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 冰雪奇缘东北圣诞新年狂欢团 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1899</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">1000</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">158</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩东北四大" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）东北四大名城 长白山 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩东北五大" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）东北五大名城 长白山 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩东北名城" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）东北名城 长白山 漠河 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩丝绸之路" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）丝绸之路 传奇东方高铁 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩西安丝绸" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 (纯玩) 西安、丝绸之路 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩丝绸之路2" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 (纯玩) 丝绸之路、茶卡盐湖青海湖 9 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩丝绸之路3" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）丝绸之路 青藏铁路 西藏 10 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩新疆北疆" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）新疆北疆 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩新疆南疆" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）新疆南疆 8 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩新疆南疆2" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）新疆南疆北疆全景 15 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>15天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩江南水乡" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 (纯玩) 江南水乡 6 天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩大湾区精" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-zhangjiajie.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）大湾区精品美食 6 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩香港潮汕" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）香港潮汕韶关佛山广州超级美食 10 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩香港3日" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026（纯玩）香港 3 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2499</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">630</td></tr><tr><td class="item">酒店续住 Pre/Post<span class="en">Pre/Post</span></td><td class="price">228</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩厦门土楼" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-xian.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 (纯玩) 厦门土楼潮汕 6 日 & 7 日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="cn-2026纯玩海南岛三" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-forbidden.jpg')">
+        <span class="rp-badge">纯玩无购物</span>
+        <div class="rp-detail-hero-in"><h3>2026 (纯玩) 海南岛三亚 5 天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr><tr><td class="item">单人房间差 Single supp.<span class="en">Single supp.</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
 </div>
 
