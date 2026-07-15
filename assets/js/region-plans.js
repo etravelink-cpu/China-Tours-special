@@ -85,7 +85,7 @@ window.REGION_PLANS.australia = `
     </div>
     <div class="rp-group" data-group="whitsunday">
       <div class="rp-group-title">圣灵群岛 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-whitsunday">汉密尔顿岛 / 心形礁（见凯恩斯大堡礁组）</div></div>
+      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-whitsunday" data-p-adult="1699" data-p-child="0" data-p-infant="0">汉密尔顿岛 / 心形礁（见凯恩斯大堡礁组）</div></div>
     </div>
     <div class="rp-group" data-group="multi">
       <div class="rp-group-title">澳洲跨地区联游 <span class="rp-arrow">▶</span></div>
@@ -103,15 +103,15 @@ window.REGION_PLANS.australia = `
       <div class="rp-group-title">西澳 / 珀斯 <span class="rp-arrow">▶</span></div>
       <div class="rp-group-list">
         <div class="rp-route" data-route="au-perth-7d">西澳粉色海洋心动7日游</div>
-        <div class="rp-route" data-route="au-perth-6d">西澳粉色海洋微笑6日游</div>
+        <div class="rp-route" data-route="au-perth-6d" data-p-adult="1499" data-p-child="0" data-p-infant="0">西澳粉色海洋微笑6日游</div>
         <div class="rp-route" data-route="au-perth-5d">西澳粉色海洋小火车灯塔童话5日游</div>
         <div class="rp-route" data-route="au-perth-4d">西澳粉红湖小火车浪漫4日游</div>
         <div class="rp-route" data-route="au-perth-3d">西澳粉红湖自然之窗龙虾美食经典3日游</div>
-        <div class="rp-route" data-route="au-perth-pinnacles">尖峰石阵品质一日游</div>
-        <div class="rp-route" data-route="au-perth-margaret">玛格利特河一日游</div>
-        <div class="rp-route" data-route="au-perth-wave">波浪岩品质一日游</div>
-        <div class="rp-route" data-route="au-perth-swamp">天鹅河谷美食美酒一日游</div>
-        <div class="rp-route" data-route="au-perth-rottnest">罗特尼斯岛一日游</div>
+        <div class="rp-route" data-route="au-perth-pinnacles" data-p-adult="200" data-p-child="0" data-p-infant="0">尖峰石阵品质一日游</div>
+        <div class="rp-route" data-route="au-perth-margaret" data-p-adult="198" data-p-child="0" data-p-infant="0">玛格利特河一日游</div>
+        <div class="rp-route" data-route="au-perth-wave" data-p-adult="195" data-p-child="0" data-p-infant="0">波浪岩品质一日游</div>
+        <div class="rp-route" data-route="au-perth-swamp" data-p-adult="165" data-p-child="0" data-p-infant="0">天鹅河谷美食美酒一日游</div>
+        <div class="rp-route" data-route="au-perth-rottnest" data-p-adult="85" data-p-child="0" data-p-infant="0">罗特尼斯岛一日游</div>
       </div>
     </div>
     <div class="rp-group" data-group="tas">
@@ -158,7 +158,168 @@ window.REGION_PLANS.australia = `
       </div>
     </div>
   </nav>
-  <div class="rp-detail-area">
+  
+    <div class="rp-route-pane" data-route="au-syd4d" data-p-adult="899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼四天三晚经典之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-cnsxmas26" data-p-adult="1799" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【圣诞】2026 年凯恩斯豪华圣诞 4 日航空团</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydhun" data-p-adult="199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【精品小团】猎人谷品酒豪华之旅一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydbms" data-p-adult="199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼蓝山日落 + 观星精品小团【一价全含】</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydpst" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【每周二、四、日固定出发】史蒂芬港观海豚一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydjvs" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>蓝色海洋路 & 杰维斯湾一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydzjg" data-p-adult="159" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>复古铁路蓝山风光一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydcbr" data-p-adult="149" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>首都堪培拉一日游【每周六，日出发】</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydbmt" data-p-adult="159" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【天天出发】蓝山有氧一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydsct" data-p-adult="139" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【四人成团 天天出发】悉尼网红地标一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-ayqecr" data-p-adult="98" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>红土中心骑骆驼之旅 [英文]</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydcsb" data-p-adult="220" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼晚餐歌舞表演游轮</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydpse" data-p-adult="41" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>史蒂芬港鲨鱼馆 鲨鱼与鳐鱼亲密接触</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydoph" data-p-adult="37" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼歌剧院内部解说文化探索之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydww2" data-p-adult="127" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼观鲸 2.5 小时刺激快艇</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydpqb" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>史蒂芬港四驱车体验</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-syddc1" data-p-adult="115" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼海港 1 小时暮光晚餐巡游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydstb" data-p-adult="99" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼塔天空旋转餐厅自助餐</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydstat" data-p-adult="88" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼塔下午茶 Bar 83</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-sydjet" data-p-adult="89" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼喷射快艇探险体验</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-oolobs" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>黄金海岸狂野奇观表演入场券</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-pqagc" data-p-adult="65" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>黄金海岸鸭子船</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="au-cnstube" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>凯恩斯半日 Tubing 漂流 (含往返接送)</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div><div class="rp-detail-area">
     <!-- 路线1：蓝山有氧+动物园 -->
     <div class="rp-route-pane active" data-route="au-blue-mountain" data-p-adult="179" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
@@ -2054,7 +2215,42 @@ window.REGION_PLANS.australia = `
       </div>
     </div>
   </nav>
-  <div class="rp-detail-area">
+  
+    <div class="rp-route-pane" data-route="nz-nzn4da" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰北岛 4 日中土风情之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="nz-nzs9dd" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰南岛全景 9 日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="nz-nanat4" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰北岛 4 日探索之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="nz-nzan4a7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰南北岛 10 日精华之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div>
+    <div class="rp-route-pane" data-route="nz-nzat4a7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰南北岛风光 10 日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
+      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
+      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
+    </div><div class="rp-detail-area">
     <div class="rp-route-pane active" data-route="nz-south7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero">
         <div class="rp-detail-hero-in">
