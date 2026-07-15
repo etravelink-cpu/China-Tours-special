@@ -7297,4 +7297,69 @@ PROBE_SENTINEL_20260715
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：美洲风光 © Wikimedia (Public Domain / CC).</p>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：美洲风光 © Wikimedia (Public Domain / CC).</p>`
+
+
+
+  window.REGION_PLANS.other = `
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/custom.jpg')"></div>
+  </div>
+  <div class="rp-banner-in">
+    <h1>其他 · 更多目的地</h1>
+    <div class="rp-sub">Other Destinations</div>
+    <p class="rp-desc">不属于澳洲、中国、亚洲、海岛、美加等固定区域的其他团队线路，统一归集于此。点击左侧分组查看。</p>
+  </div>
+</div>
+<div class="rp-layout">
+  <nav class="rp-nav2" aria-label="other 目的地">
+    <div class="rp-group open" data-group="其他区域">
+      <div class="rp-group-title">其他区域 <span class="rp-arrow">▶</span></div>
+      <div class="rp-group-list">
+        <div class="rp-route" data-route="ot-sample">示例线路（请替换为实际团名）</div>
+      </div>
+    </div>
+  </nav>
+  <div class="rp-detail-area">
+    <div class="rp-route-pane" data-route="ot-sample" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
+        <span class="rp-badge">其他</span>
+        <div class="rp-detail-hero-in"><h3>示例线路（请替换为实际团名）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+        <table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody>
+          <tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr>
+          <tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr>
+          <tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr>
+        </tbody></table>
+        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>
+  </div>
+</div>
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;

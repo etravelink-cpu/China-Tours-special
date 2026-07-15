@@ -46,6 +46,7 @@
             <option value="europe" data-i18n="dest.europe">欧洲</option>
             <option value="asia" data-i18n="dest.asia">亚洲</option>
             <option value="cruise" data-i18n="dest.cruise">邮轮</option>
+            <option value="other" data-i18n="dest.other">其他</option>
             <option value="custom" data-i18n="dest.custom">私人订制</option>
           </select>
           <select id="h-type" class="h-select" aria-label="参团方式">
