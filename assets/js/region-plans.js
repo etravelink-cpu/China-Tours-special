@@ -6250,3 +6250,1051 @@ window.REGION_PLANS.australia = `
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：长城 © Wikimedia (Public Domain)；故宫神武门 © kallgan, CC BY-SA 3.0；张家界 © Kuruman, CC BY 2.0；西湖 © CC BY-SA 3.0.</p>`;
 })();
 PROBE_SENTINEL_20260715
+
+  window.REGION_PLANS.island = `
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/bali.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/fiji.jpg')"></div>
+  </div>
+  <div class="rp-banner-in">
+    <h1>海岛假日 · 度假天堂</h1>
+    <div class="rp-sub">Island Holidays</div>
+    <p class="rp-desc">点击左侧区域，查看各地核心行程。详情与班期以客服查询为准。</p>
+  </div>
+</div>
+<div class="rp-layout">
+  <nav class="rp-nav2" aria-label="island 目的地">
+      <div class="rp-group" data-group="斐济">
+        <div class="rp-group-title">斐济 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="is-2026斐济定制团">2026斐济定制团</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="巴厘岛">
+        <div class="rp-group-title">巴厘岛 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="is-2026经典豪华巴厘">2026经典豪华巴厘岛5天游</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛4">2026经典巴厘岛4天游-海边四星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛42">2026经典巴厘岛4天游-海边五星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛5">2026经典巴厘岛5天游-海边四星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛52">2026经典巴厘岛5天游-海边五星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛6">2026经典巴厘岛6天游-海边四星</div>
+        <div class="rp-route" data-route="is-2026经典巴厘岛62">2026经典巴厘岛6天游-海边五星</div>
+        <div class="rp-route" data-route="is-2026巴厘岛科莫多">2026巴厘岛+科莫多雙島阿雅娜酒店5天奢華之旅</div>
+        </div>
+      </div>
+  </nav>
+  <div class="rp-detail-area">
+    <div class="rp-route-pane" data-route="is-2026斐济定制团2" data-p-adult="9999" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026斐济定制团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 9999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">9999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026经典豪华巴厘2" data-p-adult="899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026经典豪华巴厘岛5天游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛43" data-p-adult="699" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026经典巴厘岛4天游-海边四星</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 699</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛44" data-p-adult="799" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/oceania.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026经典巴厘岛4天游-海边五星</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 799</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">799</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛53" data-p-adult="799" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026经典巴厘岛5天游-海边四星</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 799</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">799</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛54" data-p-adult="899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026经典巴厘岛5天游-海边五星</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛63" data-p-adult="899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026经典巴厘岛6天游-海边四星</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026经典巴厘岛64" data-p-adult="999" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/oceania.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026经典巴厘岛6天游-海边五星</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="is-2026巴厘岛科莫多2" data-p-adult="1999" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
+        <span class="rp-badge">海岛度假</span>
+        <div class="rp-detail-hero-in"><h3>2026巴厘岛+科莫多雙島阿雅娜酒店5天奢華之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service fee</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>  </div>
+</div>
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：海岛风光 © Wikimedia (Public Domain / CC).</p>`;
+
+  window.REGION_PLANS.america = `
+<div class="rp-banner">
+  <div class="rp-slides">
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/canada.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/usa.jpg')"></div>
+  </div>
+  <div class="rp-banner-in">
+    <h1>美国 · 加拿大 · 南美</h1>
+    <div class="rp-sub">America & Canada</div>
+    <p class="rp-desc">点击左侧区域，查看各地核心行程。详情与班期以客服查询为准。</p>
+  </div>
+</div>
+<div class="rp-layout">
+  <nav class="rp-nav2" aria-label="america 目的地">
+      <div class="rp-group" data-group="定制团">
+        <div class="rp-group-title">定制团 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="am-2026美国加拿大定">2026美国加拿大定制团</div>
+        <div class="rp-route" data-route="am-2026加拿大定制团">2026加拿大定制团</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="南美">
+        <div class="rp-group-title">南美 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="am-2026南美定制团">2026南美定制团</div>
+        <div class="rp-route" data-route="am-2026澳洲包机票南">2026【澳洲包机票】南美七国全景精华24日游</div>
+        <div class="rp-route" data-route="am-2026澳洲包机票南2">2026【澳洲包机票】南美经典五国16日狂欢之旅</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="加拿大/阿拉斯加">
+        <div class="rp-group-title">加拿大/阿拉斯加 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="am-2026澳洲包机票加">2026【澳洲包机票】加拿大落基山+美國阿拉斯加15天全景之旅</div>
+        <div class="rp-route" data-route="am-2026美国加拿大东">2026美国加拿大东部8日游</div>
+        <div class="rp-route" data-route="am-2026加拿大落基山">2026加拿大落基山脉6日游</div>
+        <div class="rp-route" data-route="am-2026加拿大落基山2">2026加拿大落基山脉7日游</div>
+        <div class="rp-route" data-route="am-2026加拿大加东精">2026加拿大加东精品6日游-A团</div>
+        <div class="rp-route" data-route="am-2026加拿大加东精2">2026加拿大加东精品6日游-B团</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="美国">
+        <div class="rp-group-title">美国 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="am-2026澳洲包机票美">2026【澳洲包机票】美国东西海岸经典17天游</div>
+        <div class="rp-route" data-route="am-2026美国东海岸经">2026美国东海岸经典6日</div>
+        <div class="rp-route" data-route="am-2026美国东海岸经2">2026美国东海岸经典7日</div>
+        <div class="rp-route" data-route="am-2026美国西部经典">2026美国西部经典8日游</div>
+        <div class="rp-route" data-route="am-2026美国西部经典2">2026美国西部经典9日游</div>
+        <div class="rp-route" data-route="am-2026美国西部经典3">2026美国西部经典10日游</div>
+        <div class="rp-route" data-route="am-2026美国西部黄石">2026美国西部黄石峡谷9日游</div>
+        <div class="rp-route" data-route="am-2026美国西部黄石2">2026美国西部黄石峡谷10日游</div>
+        <div class="rp-route" data-route="am-2026美国东西海岸">2026美国东西海岸精华14日游</div>
+        <div class="rp-route" data-route="am-2026美国东西海岸2">2026 美国东西海岸黄石经典15日</div>
+        </div>
+      </div>
+      <div class="rp-group" data-group="北美其他">
+        <div class="rp-group-title">北美其他 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group-list">
+        <div class="rp-route" data-route="am-2026夏威夷檀香山">2026夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游</div>
+        <div class="rp-route" data-route="am-2026美加东名城瀑">2026美加东名城瀑布9日游</div>
+        </div>
+      </div>
+  </nav>
+  <div class="rp-detail-area">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国加拿大定制团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 9999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">9999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026加拿大定制团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 9999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">9999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026南美定制团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 9999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">9999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/southamerica.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】南美七国全景精华24日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 23499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">23499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】南美经典五国16日狂欢之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 16888</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">16888</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】加拿大落基山+美國阿拉斯加15天全景之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 8580</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>15天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">8580</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国加拿大东部8日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2078</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2078</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/southamerica.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026加拿大落基山脉6日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1799</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1799</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026加拿大落基山脉7日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026加拿大加东精品6日游-A团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1539</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1539</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026加拿大加东精品6日游-B团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/southamerica.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026【澳洲包机票】美国东西海岸经典17天游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 5999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>17天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">5999</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国东海岸经典6日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1088</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1088</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国东海岸经典7日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1288</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1288</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国西部经典8日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1898</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1898</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/southamerica.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国西部经典9日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2058</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2058</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国西部经典10日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2198</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国西部黄石峡谷9日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2228</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2228</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国西部黄石峡谷10日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2398</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2398</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/southamerica.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美国东西海岸精华14日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2758</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2758</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026 美国东西海岸黄石经典15日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3498</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3498</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2199</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2199</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
+        <span class="rp-badge">美加专线</span>
+        <div class="rp-detail-hero-in"><h3>2026美加东名城瀑布9日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2339</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2339</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>  </div>
+</div>
+
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：美洲风光 © Wikimedia (Public Domain / CC).</p>`;

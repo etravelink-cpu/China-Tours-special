@@ -22,6 +22,8 @@
     navItem('nav.china','list.html?d=china'),
     navItem('nav.europe','list.html?d=europe'),
     navItem('nav.asia','list.html?d=asia'),
+    navItem('nav.island','list.html?d=island'),
+    navItem('nav.america','list.html?d=america'),
     navItem('nav.cruise','list.html?d=cruise'),
     navItem('nav.custom','custom.html')
   ];
@@ -130,6 +132,8 @@
           <a href="list.html?d=china">中国</a><span>|</span>
           <a href="list.html?d=europe">欧洲</a><span>|</span>
           <a href="list.html?d=asia">亚洲</a><span>|</span>
+          <a href="list.html?d=island">海岛</a><span>|</span>
+          <a href="list.html?d=america">美加</a><span>|</span>
           <a href="list.html?d=cruise">邮轮</a><span>|</span>
           <a href="custom.html">私人订制</a><span>|</span>
           <a href="about.html" data-i18n="about.title">${I18N[lang]['about.title']}</a><span>|</span>

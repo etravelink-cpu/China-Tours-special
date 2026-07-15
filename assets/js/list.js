@@ -24,8 +24,8 @@
     let list = T.filter(match);
     if(q) list = list.filter(t=>t.dest===q);
     if(qt) list = list.filter(t=>t.type===decodeURIComponent(qt));
-    if(!list.length){ grid.innerHTML = '<p class="muted">暂无符合条件的线路。</p>'; return; }
-    grid.innerHTML = list.map(t=>window.tourCard(t,lang)).join('');
+    if(!list.length){ grid.innerHTML = '<p class="muted">暂无符合条件的线路。</p>'; }
+    else { grid.innerHTML = list.map(t=>window.tourCard(t,lang)).join(''); }
     // 目的地分区行程规划（统一格式，按 ?d= 取用）
     const rp = document.getElementById('region-plan');
     const hasPlan = !!(window.REGION_PLANS && q && window.REGION_PLANS[q]);
