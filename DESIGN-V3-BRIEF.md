@@ -7,6 +7,11 @@ Playful energy from the logo, never childish: bright + warm + energetic, yet a
 trustworthy agency selling $3-20k family tours. "Contiki energy, Flight Centre
 trust." Rounded type stays legible-professional (no cartoon faces for body or
 long headings); layout is lively, not circus; color is sunny, not neon.
+DIAL (founder, final): ~70% professional / 30% playful. Joy is carried by the
+bright imagery, drone video, color accents and warm copy — NOT by novelty
+layout gimmicks. Ticket-stub/tilted/mascot motifs: at most ONE, used subtly.
+A parent booking a $15k family tour must feel "these people are delightful
+AND completely on top of it".
 The eTrips logo (rounded bubbly letterforms, sky blue #2FA8DD-family, orange
 kangaroo #F59B23-family) is the brand anchor. The site must feel like the
 logo: playful, warm, sunny, exciting. NOT corporate-luxe, NOT moody.
