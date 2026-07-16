@@ -413,7 +413,8 @@ button,input,select,textarea{font:inherit}
   .footer-grid-2{grid-template-columns:1fr;gap:18px}
 }
 @media(max-width:768px){
-  .nav,.header-actions .lang-btn{display:none}
+  .nav{display:none}
+  .header-actions .lang-btn{padding:7px 10px;font-size:13px}
   .hamburger{display:flex}
   .site-header .container{gap:10px}
   .logo-img{height:34px}
