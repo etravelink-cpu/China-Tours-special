@@ -29,3 +29,16 @@ Permanent log. Read before making changes. Never remove entries.
 - **Prevention**: Imagery licensing law in DESIGN.md — Pexels-licensed,
   client-confirmed, or generated only. Never de-watermark. Flag unconfirmed
   assets to client instead of shipping.
+
+## R-004 · 2026-07-17 · v2 shipped in wrong brand register (navy-luxe vs logo-fun)
+- **What**: v2 amplification used deep navy #0B2239/#123252 + serif display +
+  dusk/night imagery. Founder ruling: theme is LIGHT BLUE + gold on white,
+  matching the playful rounded eTrips logo; site must match the logo's energy.
+  Dark/moody imagery reads dead, not travel-joy. Layout retained too much of
+  the original structure; hero motion too subtle; trust copy bland.
+- **Root cause**: palette derived from premium-operator references + a
+  misreading of founder's "deep blue and cold [gold]" message instead of from
+  the client's own logo. Register check skipped the brand mark itself.
+- **Prevention**: the LOGO is the first brand anchor, before any competitor
+  reference. Confirm palette + register with a rendered swatch/mock BEFORE
+  building. See DESIGN-V3-BRIEF.md.
