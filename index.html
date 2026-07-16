@@ -36,7 +36,33 @@
     .enquiry-card h3{margin:0 0 8px;font-size:20px;color:#0E2A47}
     .enquiry-card p{color:#54708c;line-height:1.75;margin:0 0 16px}
     .enquiry-card a{color:#1B9FE0;font-weight:700}
-    @media(max-width:760px){.trust-band .container{flex-direction:column;gap:14px}.enquiry-pitch h2{font-size:24px}}
+    @media(max-width:760px){
+      .trust-band{padding:16px 0}
+      .trust-band .container{display:grid;grid-template-columns:1fr;gap:6px;align-items:stretch}
+      .trust-item{flex:0 0 auto;width:100%;min-width:0;min-height:0;align-items:center;gap:9px;padding:6px 4px}
+      .trust-item .t-ico{width:30px;height:30px;font-size:14px}
+      .trust-item strong{font-size:13px;line-height:1.25;letter-spacing:0}
+      .trust-item span{font-size:11px;line-height:1.35;margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+      #site-header .header-actions .btn{display:none}
+      #site-header .container{gap:8px;padding-left:16px;padding-right:16px}
+      .enquiry{padding:40px 0}
+      .enquiry-inner{gap:26px}
+      .enquiry-pitch{min-width:0}
+      .enquiry-pitch h2{font-size:23px;line-height:1.32;margin-bottom:12px}
+      .enquiry-pitch p{font-size:14px;line-height:1.7}
+      .enquiry-points li{font-size:13.5px;padding:6px 0 6px 26px}
+      .enquiry-actions{margin-top:18px;gap:10px}
+      .enquiry-actions .btn-enquire{flex:1 1 auto;text-align:center;padding:12px 20px;font-size:15px}
+      .enquiry-card{min-width:0;padding:22px 18px;border-radius:14px}
+      .enquiry-card h3{font-size:18px}
+      .home-section-head{margin-bottom:20px}
+      .section-lede{font-size:14px}
+      .section-foot{margin-top:20px}
+      .btn-outline-blue{padding:10px 26px}
+      .float-bar{right:10px;bottom:calc(16px + env(safe-area-inset-bottom));gap:8px}
+      .float-btn{width:46px;height:46px}
+      .float-btn.gold{display:none}
+    }
   </style>
 </head>
 <body>
