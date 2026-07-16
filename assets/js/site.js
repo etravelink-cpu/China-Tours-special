@@ -93,7 +93,7 @@
     });
     document.querySelectorAll("#main-nav a").forEach((a) => {
       a.addEventListener("click", () => {
-        if (window.innerWidth <= 768) setNavOpen(false);
+        if (window.innerWidth <= 1080) setNavOpen(false);
       });
     });
     document.getElementById("h-search").addEventListener("click", () => {
@@ -185,8 +185,8 @@
             <h4 data-i18n="footer.contact">${I18N[lang]["footer.contact"]}</h4>
             <div class="muted" style="margin-bottom:8px">悉尼办公室 Sydney Office</div>
             <div class="footer-channels">
-              <a href="tel:${window.CONTACT.hotline.replace(/\\s/g, "")}">☎ ${window.CONTACT.hotline}</a>
-              <a href="tel:${window.CONTACT.hotline2.replace(/\\s/g, "")}">☎ ${window.CONTACT.hotline2}</a>
+              <a href="tel:${window.CONTACT.hotline.replace(/\s/g, "")}">☎ ${window.CONTACT.hotline}</a>
+              <a href="tel:${window.CONTACT.hotline2.replace(/\s/g, "")}">☎ ${window.CONTACT.hotline2}</a>
               <a href="mailto:${window.CONTACT.email}">✉ ${window.CONTACT.email}</a>
             </div>
             <div class="footer-store"><a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">📍 ${I18N[lang]["footer.addr"]}</a></div>
@@ -208,7 +208,6 @@
         </div>
       </div>
       <div class="footer-bottom">${I18N[lang]["footer.copyright"]}</div>
-      </div>
       </div>`;
   }
 
@@ -246,7 +245,7 @@
     applyLang();
   });
   window.addEventListener("resize", () => {
-    if (window.innerWidth > 768) setNavOpen(false);
+    if (window.innerWidth > 1080) setNavOpen(false);
   });
   // expose
   window.Etrips = { getLang: () => lang, I18N, applyLang };
@@ -257,13 +256,13 @@
     const name = lang === "zh" ? t.nameZh : t.nameEn;
     const tags = lang === "zh" ? t.tags : t.tagsEn;
     const price = lang === "zh" ? t.price : t.priceEn;
-    return `<a class="card" href="subpage.html?id=${t.id}">
+    return `<a class="card" href="${BASE}subpage.html?id=${t.id}">
       <img class="thumb" src="${t.img}" alt="${name}">
       <div class="body">
         <h3>${name}</h3>
         <div class="meta"><span>${t.days} ${I[lang]["common.days"]}</span><span>${price}</span></div>
         <div>${tags.map((x) => `<span class="tag">${x}</span>`).join("")}</div>
-        <p style="margin-top:10px"><a href="subpage.html?id=${t.id}" class="btn btn-outline" data-i18n="btn.detail">${I[lang]["btn.detail"]}</a></p>
+        <p style="margin-top:10px"><span class="btn btn-outline" data-i18n="btn.detail">${I[lang]["btn.detail"]}</span></p>
       </div></a>`;
   };
 
