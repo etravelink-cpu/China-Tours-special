@@ -48,10 +48,10 @@
       <div class="day">
         <div class="d">${d.d} · ${lang === "zh" ? d.titleZh : d.titleEn}</div>
         <div class="line">${lang === "zh" ? d.descZh : d.descEn}</div>
-        <div class="spots">● ${lang === "zh" ? d.spotsZh.join("　") : d.spotsEn.join("  ")}</div>
-        <div class="line">🚗 ${lang === "zh" ? d.transportZh : d.transportEn}</div>
-        <div class="line">🍽 ${lang === "zh" ? d.mealZh : d.mealEn}</div>
-        <div class="line">🏨 ${lang === "zh" ? d.hotelZh : d.hotelEn}</div>
+        <div class="spots">${lang === "zh" ? d.spotsZh.join("　") : d.spotsEn.join("  ")}</div>
+        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]['label.transport']}</b> ${lang === "zh" ? d.transportZh : d.transportEn}</div>
+        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]['label.meals']}</b> ${lang === "zh" ? d.mealZh : d.mealEn}</div>
+        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]['label.hotel']}</b> ${lang === "zh" ? d.hotelZh : d.hotelEn}</div>
       </div>`,
       )
       .join("");

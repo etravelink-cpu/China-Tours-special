@@ -36,7 +36,7 @@
   function itinerary(t){
     const days = t.itinerary||[];
     if(!days.length) return '';
-    return `<section class="section" style="background:#f6f8fb"><div class="container">
+    return `<section class="section" style="background:var(--paper)"><div class="container">
       <h2 class="section-title">${I[lang]['sp.itinerary']}</h2>
       <div class="sp-days">
         ${days.map(d=>`
@@ -47,9 +47,9 @@
               <p>${lang==='zh'?d.descZh:d.descEn}</p>
               <ul class="sp-spots">${(lang==='zh'?d.spotsZh:d.spotsEn).map(s=>`<li>${s}</li>`).join('')}</ul>
               <div class="sp-meta">
-                <span>🚗 ${lang==='zh'?d.transportZh:d.transportEn}</span>
-                <span>🍽 ${lang==='zh'?d.mealZh:d.mealEn}</span>
-                <span>🏨 ${lang==='zh'?d.hotelZh:d.hotelEn}</span>
+                <span><b style='color:var(--gold-deep);font-weight:600'>${I[lang]['label.transport']}</b> ${lang==='zh'?d.transportZh:d.transportEn}</span>
+                <span><b style='color:var(--gold-deep);font-weight:600'>${I[lang]['label.meals']}</b> ${lang==='zh'?d.mealZh:d.mealEn}</span>
+                <span><b style='color:var(--gold-deep);font-weight:600'>${I[lang]['label.hotel']}</b> ${lang==='zh'?d.hotelZh:d.hotelEn}</span>
               </div>
             </div>
           </div>`).join('')}
@@ -67,7 +67,7 @@
   function priceTable(t){
     if(!t.priceTable||!t.priceTable.length) return '';
     const note = lang==='zh'?t.priceNoteZh:t.priceNoteEn;
-    return `<section class="section" style="background:#f6f8fb"><div class="container">
+    return `<section class="section" style="background:var(--paper)"><div class="container">
       <h2 class="section-title">${I[lang]['sp.price']}</h2>
       <table class="sp-table">
         <thead><tr><th>${I[lang]['sp.item']}</th><th>${I[lang]['sp.fee']}</th></tr></thead>

@@ -65,7 +65,7 @@
         </a>
         <ul class="nav" id="main-nav">${NAV.join("")}</ul>
         <div class="header-search">
-          <select id="h-dest" class="h-select" aria-label="目的地">
+          <select id="h-dest" class="h-select" aria-label="${I18N[lang]["search.dest"]}">
             <option value="" data-i18n="search.dest">目的地</option>
             <option value="australia" data-i18n="dest.australia">澳洲</option>
             <option value="nz" data-i18n="dest.nz">新西兰</option>
@@ -116,14 +116,14 @@
     const wx2 = C.wechat2 || "E-travelink",
       wx2n = C.wechat2Name || "小游";
     el.innerHTML = `
-      <div class="float-btn gold" data-i18n="float.quote" title="在线咨询" onclick="location.href='${BASE}contact.html'">${I18N[lang]["float.quote"]}</div>
-      <div class="float-btn wechat" title="微信客服" onclick="EtripsFloat.toggle('wx-pop','.float-btn.wechat')"><img src="${BASE}assets/img/wechat-icon.jpg" alt="微信"></div>
+      <button type="button" class="float-btn gold" data-i18n="float.quote" title="${I18N[lang]["float.quote"]}" onclick="location.href='${BASE}contact.html'">${I18N[lang]["float.quote"]}</button>
+      <button type="button" class="float-btn wechat" title="${I18N[lang]["wx.title"]}" aria-haspopup="dialog" aria-expanded="false" onclick="EtripsFloat.toggle('wx-pop','.float-btn.wechat')"><img src="${BASE}assets/img/wechat-icon.jpg" alt="WeChat"></button>
       <div class="wx-pop" id="wx-pop" hidden>
         <div class="wx-row"><span class="wx-tag">${wx1n}</span> <b>${wx1}</b></div>
         ${wx1qr ? `<img class="wx-qr" src="${BASE}${wx1qr}" alt="${wx1n} QR">` : ""}
         <div class="wx-row"><span class="wx-tag">${wx2n}</span> <b>${wx2}</b></div>
         ${C.wechat2Qr ? `<img class="wx-qr" src="${BASE}${C.wechat2Qr}" alt="${wx2n} QR">` : ""}
-        <div style="font-size:12px;color:#888;margin-top:6px">长按复制微信号 / 扫码添加</div>
+        <div style="font-size:12px;color:#4E6076;margin-top:6px">${I18N[lang]["wx.caption"]}</div>
       </div>
     `;
   }
@@ -133,6 +133,8 @@
       const p = document.getElementById(id);
       if (!p) return;
       const show = p.hidden;
+      const btn = btnSel && document.querySelector(btnSel);
+      if (btn) btn.setAttribute("aria-expanded", show ? "true" : "false");
       ["wx-pop"].forEach((x) => {
         const o = document.getElementById(x);
         if (o) o.hidden = true;
@@ -140,6 +142,22 @@
       p.hidden = !show;
     },
   };
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape") return;
+    const p = document.getElementById("wx-pop");
+    if (p && !p.hidden) {
+      p.hidden = true;
+      const b = document.querySelector(".float-btn.wechat");
+      if (b) { b.setAttribute("aria-expanded", "false"); b.focus(); }
+      return;
+    }
+    const nav = document.getElementById("main-nav");
+    if (nav && nav.classList.contains("open")) {
+      setNavOpen(false);
+      const h = document.getElementById("hamburger");
+      if (h) h.focus();
+    }
+  });
   document.addEventListener("click", (e) => {
     const nav = document.getElementById("main-nav");
     if (
@@ -166,15 +184,15 @@
       <div class="footer-card">
       <div class="footer-inner">
         <nav class="footer-topnav">
-          <a href="${BASE}list.html?d=australia">澳洲</a><span>|</span>
-          <a href="${BASE}list.html?d=nz">新西兰</a><span>|</span>
-          <a href="${BASE}list.html?d=china">中国</a><span>|</span>
-          <a href="${BASE}list.html?d=europe">欧洲</a><span>|</span>
-          <a href="${BASE}list.html?d=asia">亚洲</a><span>|</span>
-          <a href="${BASE}list.html?d=island">海岛</a><span>|</span>
-          <a href="${BASE}list.html?d=america">美加</a><span>|</span>
-          <a href="${BASE}list.html?d=cruise">邮轮</a><span>|</span>
-          <a href="${BASE}custom.html">私人订制</a><span>|</span>
+          <a href="${BASE}list.html?d=australia">${I18N[lang]["nav.australia"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=nz">${I18N[lang]["nav.nz"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=china">${I18N[lang]["nav.china"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=europe">${I18N[lang]["nav.europe"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=asia">${I18N[lang]["nav.asia"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=island">${I18N[lang]["nav.island"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=america">${I18N[lang]["nav.america"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=cruise">${I18N[lang]["nav.cruise"]}</a><span>|</span>
+          <a href="${BASE}custom.html">${I18N[lang]["nav.custom"]}</a><span>|</span>
           <a href="${BASE}about.html" data-i18n="about.title">${I18N[lang]["about.title"]}</a><span>|</span>
           <a href="${BASE}contact.html" data-i18n="contact.title">${I18N[lang]["contact.title"]}</a><span>|</span>
           <a href="${BASE}faq.html" data-i18n="faq.title">${I18N[lang]["faq.title"]}</a><span>|</span>
@@ -185,19 +203,19 @@
             <h4 data-i18n="footer.contact">${I18N[lang]["footer.contact"]}</h4>
             <div class="muted" style="margin-bottom:8px">悉尼办公室 Sydney Office</div>
             <div class="footer-channels">
-              <a href="tel:${window.CONTACT.hotline.replace(/\s/g, "")}">☎ ${window.CONTACT.hotline}</a>
-              <a href="tel:${window.CONTACT.hotline2.replace(/\s/g, "")}">☎ ${window.CONTACT.hotline2}</a>
-              <a href="mailto:${window.CONTACT.email}">✉ ${window.CONTACT.email}</a>
+              <a href="tel:${window.CONTACT.hotline.replace(/\s/g, "")}">${window.CONTACT.hotline}</a>
+              <a href="tel:${window.CONTACT.hotline2.replace(/\s/g, "")}">${window.CONTACT.hotline2}</a>
+              <a href="mailto:${window.CONTACT.email}">${window.CONTACT.email}</a>
             </div>
-            <div class="footer-store"><a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">📍 ${I18N[lang]["footer.addr"]}</a></div>
+            <div class="footer-store"><a href="${window.CONTACT.mapUrl}" target="_blank" rel="noopener">${I18N[lang]["footer.addr"]}</a></div>
           </div>
           <div>
-            <h4>客服二维码</h4>
+            <h4>${I18N[lang]["footer.qr"]}</h4>
             <div class="cc-qr-grid">
-              ${window.CONTACT.wechatQr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img src="${BASE}${window.CONTACT.wechatQr}" alt="${window.CONTACT.wechatName} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechatName}</div></div>` : ""}
-              ${window.CONTACT.wechat2Qr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img src="${BASE}${window.CONTACT.wechat2Qr}" alt="${window.CONTACT.wechat2Name} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechat2Name}</div></div>` : ""}
+              ${window.CONTACT.wechatQr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechatQr}" alt="${window.CONTACT.wechatName} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechatName}</div></div>` : ""}
+              ${window.CONTACT.wechat2Qr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechat2Qr}" alt="${window.CONTACT.wechat2Name} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechat2Name}</div></div>` : ""}
 
-              ${window.CONTACT.wechatOfficialQr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img src="${BASE}${window.CONTACT.wechatOfficialQr}" alt="${window.CONTACT.wechatOfficial} 公众号二维码"><div class="cc-qr-cap">公众号</div></div>` : ""}
+              ${window.CONTACT.wechatOfficialQr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechatOfficialQr}" alt="${window.CONTACT.wechatOfficial} 公众号二维码"><div class="cc-qr-cap">${I18N[lang]["footer.mp"]}</div></div>` : ""}
             </div>
           </div>
         </div>
@@ -214,7 +232,7 @@
   // ---------- Language ----------
   function applyLang(options) {
     const emit = !options || options.emit !== false;
-    document.documentElement.lang = lang === "zh" ? "zh" : "en";
+    document.documentElement.lang = lang === "zh" ? "zh-Hans" : "en";
     document.querySelectorAll("[data-i18n]").forEach((el) => {
       const key = el.getAttribute("data-i18n");
       if (I18N[lang][key] != null) el.textContent = I18N[lang][key];
@@ -256,11 +274,16 @@
     const name = lang === "zh" ? t.nameZh : t.nameEn;
     const tags = lang === "zh" ? t.tags : t.tagsEn;
     const price = lang === "zh" ? t.price : t.priceEn;
+    const dest = lang === "zh" ? t.destZh : t.destEn;
     return `<a class="card" href="${BASE}subpage.html?id=${t.id}">
-      <img class="thumb" src="${t.img}" alt="${name}">
+      <div class="thumb-wrap">
+        <img class="thumb" src="${t.img}" alt="${name}" loading="lazy">
+        <span class="thumb-chip">${t.days} ${I[lang]["common.days"]}</span>
+      </div>
       <div class="body">
+        <span class="card-eyebrow">${dest || ""}</span>
         <h3>${name}</h3>
-        <div class="meta"><span>${t.days} ${I[lang]["common.days"]}</span><span>${price}</span></div>
+        <div class="meta"><span class="price">${price} ${lang === "zh" ? "起" : "from"}</span></div>
         <div>${tags.map((x) => `<span class="tag">${x}</span>`).join("")}</div>
         <p style="margin-top:10px"><span class="btn btn-outline" data-i18n="btn.detail">${I[lang]["btn.detail"]}</span></p>
       </div></a>`;

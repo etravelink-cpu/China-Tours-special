@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="assets/img/logo.png">
   <title>在线咨询 · Etrips 国安易游</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Noto+Serif+SC:wght@600&family=Source+Sans+3:wght@400;600;700&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -13,32 +16,32 @@
 
   <section class="section" style="padding-top:80px">
     <div class="container">
-      <h2 class="section-title" style="text-align:center">在线咨询 / 行程预订</h2>
-      <p style="text-align:center;color:#666;margin:0 0 28px">提交后咨询将通过邮件直接发送给客服，我们会尽快回复；也可扫描下方二维码添加微信客服。</p>
+      <h1 class="section-title" style="text-align:center" data-i18n="ct.title">在线咨询 / 行程预订</h1>
+      <p style="text-align:center;color:var(--muted);margin:0 0 28px" data-i18n="ct.intro">提交后咨询将通过邮件直接发送给客服，我们会尽快回复；也可扫描下方二维码添加微信客服。</p>
 
       <div class="form-card" style="max-width:640px">
         <div class="grid grid-2" style="gap:16px">
           <div class="form-row" style="margin:0">
-            <label>姓名 / Name</label>
-            <input id="c-name" type="text" placeholder="您的称呼" autocomplete="name">
+            <label for="c-name" data-i18n="form.name">姓名 / Name</label>
+            <input id="c-name" type="text" placeholder="您的称呼" data-i18n-ph="ct.name.ph" autocomplete="name">
           </div>
           <div class="form-row" style="margin:0">
-            <label>客人邮箱 / Email</label>
-            <input id="c-email" type="email" placeholder="用于接收回复（选填）" autocomplete="email">
+            <label for="c-email" data-i18n="bk.email">客人邮箱 / Email</label>
+            <input id="c-email" type="email" placeholder="用于接收回复（选填）" data-i18n-ph="ct.email.ph" autocomplete="email">
           </div>
           <div class="form-row" style="margin:0">
-            <label>联系电话 / Phone</label>
-            <input id="c-phone" type="tel" placeholder="微信或手机号" autocomplete="tel">
+            <label for="c-phone" data-i18n="bk.phone">联系电话 / Phone</label>
+            <input id="c-phone" type="tel" placeholder="微信或手机号" data-i18n-ph="ct.phone.ph" autocomplete="tel">
           </div>
         </div>
         <div class="form-row" style="margin-top:16px">
-          <label>咨询内容 / Message</label>
-          <textarea id="c-msg" rows="6" placeholder="请描述您想咨询的行程、人数、预算等"></textarea>
+          <label for="c-msg" data-i18n="ct.msg">咨询内容 / Message</label>
+          <textarea id="c-msg" rows="6" placeholder="请描述您想咨询的行程、人数、预算等" data-i18n-ph="ct.msg.ph></textarea>
         </div>
         <div style="text-align:center;margin-top:22px">
-          <button type="button" class="btn btn-primary" onclick="submitConsult()">提交咨询</button>
+          <button type="button" class="btn btn-primary" onclick="submitConsult()" data-i18n="ct.submit">提交咨询</button>
         </div>
-        <div id="c-tip" style="text-align:center;color:#1B9FE0;margin-top:14px;font-size:14px"></div>
+        <div id="c-tip" style="text-align:center;color:#123252;margin-top:14px;font-size:14px"></div>
       </div>
 
     </div>
@@ -48,7 +51,6 @@
 
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/data.js"></script>
-  <script src="assets/js/region-plans.js"></script>
   <script src="assets/js/site.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
   <script>
@@ -61,7 +63,7 @@
         let pre = '我想咨询：【' + route + '】';
         if(date) pre += '\n意向出发日期：' + date;
         pre += '\n\n';
-        ta.value = pre + ta.placeholder.replace(/^/,'');
+        ta.value = pre;
         ta.focus();
       }
       if(typeof emailjs !== 'undefined'){ try{ emailjs.init('nZv17YnCO1xz5uLPZ'); }catch(e){} }
@@ -87,7 +89,7 @@
         tip.textContent='邮件组件加载失败，请检查网络后重试，或扫描下方二维码加微信客服。';
         return;
       }
-      tip.style.color='#1B9FE0'; tip.textContent='正在发送…';
+      tip.style.color='#123252'; tip.textContent='正在发送…';
       try {
         emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
           route: '在线咨询', date: '', name: name, phone: phone, email: email, remark: msg,
@@ -110,5 +112,6 @@
     }
     window.submitConsult = submitConsult;
   </script>
+  <script src="assets/js/motion.js"></script>
 </body>
 </html>

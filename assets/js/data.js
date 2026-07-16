@@ -123,7 +123,7 @@ window.TOURS = [
     tags: ["小团", "轻奢", "无购物"],
     tagsEn: ["Small Group", "Luxury", "No Shopping"],
     price: "A$6,800", priceEn: "A$1,080",
-    img: "assets/img/destinations/china.jpg",
+    img: "assets/img/v2/cn-yunnan-960.webp",
     blurbZh: "苍山洱海、玉龙雪山，节奏舒适轻奢游。",
     blurbEn: "Cangshan & Erhai, Jade Dragon Snow Mountain, relaxed luxury.",
     itinerary: [
@@ -174,7 +174,7 @@ window.TOURS = [
     tags: ["小团", "亲子"],
     tagsEn: ["Small Group", "Family"],
     price: "A$8,800", priceEn: "A$1,380",
-    img: "assets/img/destinations/asia.jpg",
+    img: "assets/img/destinations/asia-fushimi.jpg",
     blurbZh: "东京、富士山、京都、大阪，经典全包。",
     blurbEn: "Tokyo, Mt Fuji, Kyoto, Osaka — classic all-inclusive.",
     itinerary: [
@@ -264,7 +264,7 @@ window.TOURS = [
     tags: ["小团", "摄影", "无购物"],
     tagsEn: ["Small Group", "Photography", "No Shopping"],
     price: "A$9,600", priceEn: "A$1,520",
-    img: "assets/img/reef-panorama.png",
+    img: "assets/img/v2/cn-danxia-960.webp",
     blurbZh: "青海湖、敦煌、张掖丹霞，一路大片。",
     blurbEn: "Qinghai Lake, Dunhuang, Zhangye Danxia — epic shots.",
     itinerary: [
