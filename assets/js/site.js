@@ -148,7 +148,10 @@
     if (p && !p.hidden) {
       p.hidden = true;
       const b = document.querySelector(".float-btn.wechat");
-      if (b) { b.setAttribute("aria-expanded", "false"); b.focus(); }
+      if (b) {
+        b.setAttribute("aria-expanded", "false");
+        b.focus();
+      }
       return;
     }
     const nav = document.getElementById("main-nav");
@@ -212,8 +215,8 @@
           <div>
             <h4>${I18N[lang]["footer.qr"]}</h4>
             <div class="cc-qr-grid">
-              ${window.CONTACT.wechatQr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechatQr}" alt="${window.CONTACT.wechatName} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechatName}</div></div>` : ""}
-              ${window.CONTACT.wechat2Qr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechat2Qr}" alt="${window.CONTACT.wechat2Name} 微信二维码"><div class="cc-qr-cap">${window.CONTACT.wechat2Name}</div></div>` : ""}
+              ${window.CONTACT.wechatQr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechatQr}" alt="${window.CONTACT.wechatName} 微信二维码"><div class="cc-qr-cap">${lang === "zh" ? window.CONTACT.wechatName : window.CONTACT.wechatNameEn || window.CONTACT.wechatName}</div></div>` : ""}
+              ${window.CONTACT.wechat2Qr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechat2Qr}" alt="${window.CONTACT.wechat2Name} 微信二维码"><div class="cc-qr-cap">${lang === "zh" ? window.CONTACT.wechat2Name : window.CONTACT.wechat2NameEn || window.CONTACT.wechat2Name}</div></div>` : ""}
 
               ${window.CONTACT.wechatOfficialQr ? `<div class="cc-qr"><span class="cc-qr-ico">${window.ICONS.wechat}</span><img loading="lazy" src="${BASE}${window.CONTACT.wechatOfficialQr}" alt="${window.CONTACT.wechatOfficial} 公众号二维码"><div class="cc-qr-cap">${I18N[lang]["footer.mp"]}</div></div>` : ""}
             </div>

@@ -35,7 +35,7 @@
       <h1>${lang === "zh" ? t.nameZh : t.nameEn}</h1>
       <div class="muted" style="color:#cdd8e3">${I[lang]["detail.tourid"]}: <b>${t.id}</b></div>
       <div class="detail-tags">${tags.map((x) => `<span class="tag">${x}</span>`).join("")}</div>
-      <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]["detail.single"]}: ${price}</span></div>
+      <div class="detail-price">${price}</div>
       <p style="margin-top:10px">
         <button class="btn btn-gold" onclick="EtripsDetail.downloadPDF()">${I[lang]["btn.download"]}</button>
       </p>`;
@@ -49,9 +49,9 @@
         <div class="d">${d.d} · ${lang === "zh" ? d.titleZh : d.titleEn}</div>
         <div class="line">${lang === "zh" ? d.descZh : d.descEn}</div>
         <div class="spots">${lang === "zh" ? d.spotsZh.join("　") : d.spotsEn.join("  ")}</div>
-        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]['label.transport']}</b> ${lang === "zh" ? d.transportZh : d.transportEn}</div>
-        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]['label.meals']}</b> ${lang === "zh" ? d.mealZh : d.mealEn}</div>
-        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]['label.hotel']}</b> ${lang === "zh" ? d.hotelZh : d.hotelEn}</div>
+        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]["label.transport"]}</b> ${lang === "zh" ? d.transportZh : d.transportEn}</div>
+        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]["label.meals"]}</b> ${lang === "zh" ? d.mealZh : d.mealEn}</div>
+        <div class="line"><b style="color:var(--gold-deep);font-weight:600">${I[lang]["label.hotel"]}</b> ${lang === "zh" ? d.hotelZh : d.hotelEn}</div>
       </div>`,
       )
       .join("");

@@ -7,7 +7,7 @@
   <title>在线咨询 · Etrips 国安易游</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Noto+Serif+SC:wght@600&family=Source+Sans+3:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&family=Noto+Sans+SC:wght@500;700;900&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -36,12 +36,12 @@
         </div>
         <div class="form-row" style="margin-top:16px">
           <label for="c-msg" data-i18n="ct.msg">咨询内容 / Message</label>
-          <textarea id="c-msg" rows="6" placeholder="请描述您想咨询的行程、人数、预算等" data-i18n-ph="ct.msg.ph></textarea>
+          <textarea id="c-msg" rows="6" placeholder="请描述您想咨询的行程、人数、预算等" data-i18n-ph="ct.msg.ph"></textarea>
         </div>
         <div style="text-align:center;margin-top:22px">
           <button type="button" class="btn btn-primary" onclick="submitConsult()" data-i18n="ct.submit">提交咨询</button>
         </div>
-        <div id="c-tip" style="text-align:center;color:#123252;margin-top:14px;font-size:14px"></div>
+        <div id="c-tip" style="text-align:center;color:var(--sky-text);margin-top:14px;font-size:14px"></div>
       </div>
 
     </div>
@@ -89,7 +89,7 @@
         tip.textContent='邮件组件加载失败，请检查网络后重试，或扫描下方二维码加微信客服。';
         return;
       }
-      tip.style.color='#123252'; tip.textContent='正在发送…';
+      tip.style.color='#0B6A9E'; tip.textContent='正在发送…';
       try {
         emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
           route: '在线咨询', date: '', name: name, phone: phone, email: email, remark: msg,

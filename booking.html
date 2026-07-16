@@ -7,7 +7,7 @@
   <title>预订请求 · Etrips 国安易游</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Noto+Serif+SC:wght@600&family=Source+Sans+3:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&family=Noto+Sans+SC:wght@500;700;900&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
   <style>
     .bk-wrap{max-width:680px;margin:0 auto}
@@ -53,7 +53,7 @@
                 <div class="bk-stepper"><button type="button" onclick="step(this,-1)" aria-label="减少 Decrease">−</button><input type="number" min="0" value="0" aria-label="婴儿人数 Infants" onchange="recalc()"><button type="button" onclick="step(this,1)" aria-label="增加 Increase">+</button></div>
               </div>
             </div>
-            <div class="bk-note" data-i18n="bk.note">价格以客服最终确认为准；本页单价为占位，待官方公布后更新。</div>
+            <div class="bk-note" data-i18n="bk.note">提交后不收取任何费用；所有价格由顾问与您确认后才作数，显示“待确认”的项目顾问会为您报出最新价。</div>
           </div>
 
           <div class="bk-subtotal"><span data-i18n="bk.subtotal">预估小计：</span><b id="bk-total" data-i18n="bk.tbc">待确认</b></div>
@@ -83,7 +83,7 @@
             <li data-i18n="bk.a2">确认前可随时取消或调整</li>
             <li data-i18n="bk.a3">顾问一个工作日内回复</li>
           </ul>
-          <div id="bk-tip" style="text-align:center;margin-top:14px;font-size:14px;color:#123252"></div>
+          <div id="bk-tip" style="text-align:center;margin-top:14px;font-size:14px;color:var(--sky-text)"></div>
         </div>
         <div class="bk-alt">
           <img src="assets/img/qr/wechat-xiaoyi.png" alt="微信客服 小易 二维码">
@@ -256,7 +256,7 @@
         tip.textContent='邮件组件加载失败，请检查网络后重试，或通过微信联系客服。';
         return;
       }
-      tip.style.color='#123252'; tip.textContent='正在发送…';
+      tip.style.color='#0B6A9E'; tip.textContent='正在发送…';
       const rows = document.querySelectorAll('#bk-pax .bk-pax');
       let pax = [];
       rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; if(n>0) pax.push(r.getAttribute('data-type')+'×'+n); });

@@ -1,5 +1,12 @@
 # Etrips 国安易游 — Design System (v2 amplification)
 
+> **SUPERSEDED IN PART (2026-07-17):** the register, palette, type and imagery
+> sections below are v2 and are DEAD — v3 law lives in `DESIGN-V3-BRIEF.md`
+> (light blue #20A8E0 + orange #F09018 on warm white #FFF9F0, Baloo 2 / Nunito /
+> Noto Sans SC, bright daylight imagery, video heroes). Current tokens are in
+> `assets/css/style.css` `:root`. The **DOM contracts** section and the
+> pipeline/licensing laws in this file REMAIN BINDING.
+
 Single source of truth for the 2026-07 site amplification. Every page, agent, and
 edit conforms to THIS file. If a page disagrees with this file, the page is wrong.
 

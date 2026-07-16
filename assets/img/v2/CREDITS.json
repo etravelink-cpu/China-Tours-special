@@ -1,70 +1,82 @@
 [
  {
-  "slot": "eu-paris-d",
-  "id": 34687788,
-  "photographer": "Tarkan Atak Kan",
-  "url": "https://www.pexels.com/photo/eiffel-tower-at-twilight-over-paris-cityscape-34687788/"
- },
- {
-  "slot": "eu-paris-e",
-  "id": 17185651,
-  "photographer": "Jarod Barton",
-  "url": "https://www.pexels.com/photo/view-of-the-eiffel-tower-and-seine-at-sunset-17185651/"
- },
- {
-  "slot": "au-opera-night",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "cn-forbidden",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "cn-westlake",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "eu-paris",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "eu-santorini",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "is-overwater",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "cr-sunset",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "eu-alps",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "nz-tekapo",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "cn-yunnan",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
+  "slot": "cn-danxia",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
  },
  {
   "slot": "as-fuji",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
- },
- {
-  "slot": "au-uluru",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
  },
  {
   "slot": "au-bluemtns",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "eu-alps",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
  },
  {
   "slot": "as-halong",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07)"
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "nz-milford",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "au-uluru",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "cr-sunset",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "au-opera-night",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "au-apostles",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "eu-paris",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "cn-forbidden",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "nz-tekapo",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "eu-santorini",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "cn-westlake",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "cn-zhangjiajie",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "cn-yunnan",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "nz-queenstown",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "is-overwater",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+ },
+ {
+  "slot": "cn-guilin",
+  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
  }
 ]

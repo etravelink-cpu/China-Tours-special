@@ -46,7 +46,8 @@
         const pi = parseFloat(p.getAttribute("data-p-infant")) || 0;
         const hero = p.querySelector(".rp-detail-hero-in");
         if (!hero) return;
-        const fmt = (v) => (v > 0 ? "A$ " + v : window.I18N[window.Etrips.getLang()]['label.tbc']);
+        const fmt = (v) =>
+          v > 0 ? "A$ " + v : window.I18N[window.Etrips.getLang()]["label.tbc"];
         let box = hero.querySelector(".rp-price-row");
         if (!box) {
           box = document.createElement("div");
@@ -54,15 +55,35 @@
           hero.appendChild(box);
         }
         box.innerHTML =
-          '<span class="rp-price-item"><b>' + window.I18N[window.Etrips.getLang()]['label.adult'] + '</b> ' +
+          '<span class="rp-price-item"><b>' +
+          window.I18N[window.Etrips.getLang()]["label.adult"] +
+          "</b> " +
           fmt(pa) +
           "</span>" +
-          '<span class="rp-price-item"><b>' + window.I18N[window.Etrips.getLang()]['label.child'] + '</b> ' +
+          '<span class="rp-price-item"><b>' +
+          window.I18N[window.Etrips.getLang()]["label.child"] +
+          "</b> " +
           fmt(pc) +
           "</span>" +
-          '<span class="rp-price-item"><b>' + window.I18N[window.Etrips.getLang()]['label.infant'] + '</b> ' +
+          '<span class="rp-price-item"><b>' +
+          window.I18N[window.Etrips.getLang()]["label.infant"] +
+          "</b> " +
           fmt(pi) +
           "</span>";
+      });
+      // Excel 行程列未填时，生成数据带草稿占位串（“请在此处粘贴/第N天：待补充”）
+      // → 渲染时换成客户可读提示；生成文件本身不动
+      rp.querySelectorAll(".rp-tab-panel pre").forEach((pre) => {
+        const t = pre.textContent;
+        if (
+          t.indexOf("请在此处粘贴") !== -1 ||
+          t.indexOf("待补充（景点/用餐/住宿）") !== -1
+        ) {
+          const d = document.createElement("p");
+          d.className = "rp-draft-note";
+          d.textContent = window.I18N[window.Etrips.getLang()]["rp.draft"];
+          pre.replaceWith(d);
+        }
       });
       // 子页新布局 v2：2级分组导航 + 路线详情卡（.rp-nav2）
       const nav2 = rp.querySelector(".rp-nav2");
@@ -123,7 +144,10 @@
             );
         });
         rp.querySelectorAll(".rp-date-select").forEach((sel) =>
-          sel.setAttribute("aria-label", "选择出发日期 / Select departure date"),
+          sel.setAttribute(
+            "aria-label",
+            "选择出发日期 / Select departure date",
+          ),
         );
         // 底部吸附预订条（Jacada 模式）：当前路线名 + 起价 + 立即预订
         let bar = document.getElementById("route-bar");
@@ -134,7 +158,9 @@
           bar.innerHTML =
             '<div class="container"><div class="route-bar-name"></div>' +
             '<div class="route-bar-price"></div>' +
-            '<button type="button" class="btn btn-gold">' + window.I18N[window.Etrips.getLang()]['bar.book'] + '</button></div>';
+            '<button type="button" class="btn btn-gold">' +
+            window.I18N[window.Etrips.getLang()]["bar.book"] +
+            "</button></div>";
           document.body.appendChild(bar);
           bar.querySelector(".btn").onclick = function () {
             const pane = bar.__pane;
@@ -190,8 +216,26 @@
           const ft = p.querySelector(".rp-tab");
           if (ft) ft.click();
         });
-        // 默认激活第一个（悉尼及周边第一条）
-        const first = routes[0];
+        // 默认激活第一条“内容完整”的路线（跳过占位 pane，避免着陆即见草稿）
+        const isStub = (rid) => {
+          const p = rp.querySelector(
+            '.rp-route-pane[data-route="' + rid + '"]',
+          );
+          if (!p) return true;
+          const txt = p.textContent;
+          return (
+            txt.indexOf("请在此处粘贴") !== -1 ||
+            txt.indexOf("详情稍后更新") !== -1
+          );
+        };
+        let first = null;
+        for (const r of routes) {
+          if (!isStub(r.dataset.route)) {
+            first = r;
+            break;
+          }
+        }
+        if (!first) first = routes[0];
         if (first) activateRoute(first.dataset.route);
       } else {
         // 子页旧布局：分区 tab → 面板（.rp-nav / .rp-panel）

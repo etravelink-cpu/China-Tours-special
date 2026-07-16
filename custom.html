@@ -6,7 +6,7 @@
   <title>Etrips 国安易游 | 易行天下，奔赴山海 · 定制游</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Noto+Serif+SC:wght@600&family=Source+Sans+3:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&family=Noto+Sans+SC:wght@500;700;900&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -76,7 +76,7 @@
           tip.textContent = l==='zh' ? '邮件组件加载失败，请检查网络后重试，或扫描页脚二维码加微信客服。' : 'Email module failed to load. Check network or scan footer QR.';
           return false;
         }
-        tip.style.color='#123252'; tip.textContent = l==='zh' ? '正在发送…' : 'Sending…';
+        tip.style.color='#0B6A9E'; tip.textContent = l==='zh' ? '正在发送…' : 'Sending…';
         emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
           route: '定制游需求', date: date, name: name, phone: phone, email: email,
           remark: (pref ? ('偏好：'+pref+'\n') : '') + '目的地：'+dest+' / 预算：'+budget+' / 人数：'+pax,

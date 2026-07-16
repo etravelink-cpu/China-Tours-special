@@ -73,6 +73,8 @@ window.EtripsForm = {
     const HERO = [
       {
         img: "assets/img/v2/au-apostles-1440.webp",
+        video: "assets/video/hero-twelve-apostles.mp4",
+        poster: "assets/video/hero-twelve-apostles-poster.jpg",
         tag: "易行天下，奔赴山海 · Connects you with moments",
         h1: "探索世界 · 从澳洲出发",
         sub: "从澳洲出发，抵达全球每一个值得去的地方",
@@ -85,6 +87,8 @@ window.EtripsForm = {
       },
       {
         img: "assets/img/v2/cn-zhangjiajie-1440.webp",
+        video: "assets/video/hero-zhangjiajie.mp4",
+        poster: "assets/video/hero-zhangjiajie-poster.jpg",
         tag: "千年文明 · 山水中国",
         h1: "深度中国 · 长线定制",
         sub: "云南·西北·华东，小团私家任你选",
@@ -108,13 +112,29 @@ window.EtripsForm = {
         ctaEn: "View Tours",
       },
       {
+        img: "assets/img/v2/nz-milford-1440.webp",
+        video: "assets/video/hero-milford.mp4",
+        poster: "assets/video/hero-milford-poster.jpg",
+        tag: "冰川峡湾 · 纯净新西兰",
+        h1: "新西兰 · 南北岛环游",
+        sub: "米尔福德峡湾·皇后镇·萤火虫洞，一次走完",
+        tagEn: "Fiords & Glaciers, Pure NZ",
+        h1En: "New Zealand, Both Islands",
+        subEn: "Milford Sound, Queenstown and glowworm caves in one trip",
+        href: "list.html?d=nz",
+        cta: "查看线路",
+        ctaEn: "View Tours",
+      },
+      {
         img: "assets/img/v2/cr-sunset-960.webp",
+        video: "assets/video/hero-sydney-harbour.mp4",
+        poster: "assets/video/hero-sydney-harbour-poster.jpg",
         tag: "蓝海邮轮 · 一站度假",
-        h1: "邮轮专线 · 海岛漫游",
-        sub: "悉尼出发，途经海岛，全程邮轮度假",
+        h1: "邮轮专线 · 悉尼启航",
+        sub: "悉尼港出发，途经海岛，全程邮轮度假",
         tagEn: "Blue-water Cruising",
-        h1En: "Cruise Lines & Island Hopping",
-        subEn: "Depart Sydney, island ports, full cruise holiday",
+        h1En: "Cruise Lines from Sydney Harbour",
+        subEn: "Depart Sydney Harbour, island ports, full cruise holiday",
         href: "list.html?d=cruise",
         cta: "查看线路",
         ctaEn: "View Tours",
@@ -123,9 +143,13 @@ window.EtripsForm = {
     const wrap = document.getElementById("hero-slides");
     const dots = document.getElementById("hero-dots");
     if (!wrap) return;
+    const noMotion = window.matchMedia(
+      "(prefers-reduced-motion: reduce)",
+    ).matches;
     wrap.innerHTML = HERO.map(
       (s, i) => `
-      <div class="hero-slide${i === 0 ? " active" : ""}"${i === 0 ? ` style="background-image:url('${s.img}')"` : ` data-bg="${s.img}"`}>
+      <div class="hero-slide${i === 0 ? " active" : ""}"${i === 0 ? ` style="background-image:url('${s.video && !noMotion ? s.poster : s.img}')"` : ` data-bg="${s.video && !noMotion ? s.poster : s.img}"`}>
+        ${s.video && !noMotion ? `<video class="hero-video" muted loop playsinline preload="none" poster="${s.poster}" data-vsrc="${s.video}" aria-hidden="true"></video>` : ""}
         <div class="container">
           <div class="hero-content">
             <p class="hero-tagline">${lang === "zh" ? s.tag : s.tagEn}</p>
@@ -154,15 +178,41 @@ window.EtripsForm = {
         }
       });
     }
+    function playActive() {
+      slides.forEach((sl, i) => {
+        const v = sl.querySelector(".hero-video");
+        if (!v) return;
+        if (i === cur) {
+          if (v.dataset.vsrc) {
+            v.src = v.dataset.vsrc;
+            delete v.dataset.vsrc;
+          }
+          const p = v.play();
+          if (p) p.catch(() => {});
+        } else if (!v.paused) {
+          v.pause();
+        }
+      });
+    }
     function go(n) {
       hydrate();
       cur = (n + slides.length) % slides.length;
       slides.forEach((sl, i) => sl.classList.toggle("active", i === cur));
       dotEls.forEach((d, i) => d.classList.toggle("on", i === cur));
+      playActive();
     }
-    dotEls.forEach((d) => d.addEventListener("click", () => go(+d.dataset.i)));
-    if (window.__heroTimer) clearInterval(window.__heroTimer);
-    window.__heroTimer = setInterval(() => go(cur + 1), 5000);
+    function armTimer() {
+      if (window.__heroTimer) clearInterval(window.__heroTimer);
+      window.__heroTimer = setInterval(() => go(cur + 1), 7000);
+    }
+    dotEls.forEach((d) =>
+      d.addEventListener("click", () => {
+        go(+d.dataset.i);
+        armTimer();
+      }),
+    );
+    playActive();
+    armTimer();
   }
 
   function rebuild() {
