@@ -2973,8 +2973,8 @@ window.REGION_PLANS.australia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/europe.jpg')"></div>
-    <div class="rp-slide" style="background-image:url('assets/img/destinations/paris.jpg')"></div>
-    <div class="rp-slide" style="background-image:url('assets/img/destinations/greece.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/europe-colosseo.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/europe-santorini.jpg')"></div>
   </div>
   <div class="rp-banner-in">
     <h1>欧洲 · 经典环游</h1>
@@ -9382,7 +9382,6 @@ window.REGION_PLANS.australia = `
 
 
 })();
-PROBE_SENTINEL_20260715
 
                   window.REGION_PLANS.island = `
 <div class="rp-banner">
@@ -10845,7 +10844,6 @@ PROBE_SENTINEL_20260715
 </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;
-
 
 
 

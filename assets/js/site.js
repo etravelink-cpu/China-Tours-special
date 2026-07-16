@@ -28,6 +28,27 @@
     navItem('nav.custom','custom.html')
   ];
 
+  function setNavOpen(open){
+    const nav = document.getElementById('main-nav');
+    const btn = document.getElementById('hamburger');
+    if(!nav || !btn) return;
+    nav.classList.toggle('open', open);
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    document.body.classList.toggle('nav-open', open);
+  }
+
+  function markActiveNav(){
+    const currentPath = location.pathname.split('/').pop() || 'index.html';
+    const currentDest = new URLSearchParams(location.search).get('d') || '';
+    document.querySelectorAll('#main-nav a[href]').forEach(a=>{
+      const url = new URL(a.getAttribute('href'), location.href);
+      const path = url.pathname.split('/').pop() || 'index.html';
+      const dest = url.searchParams.get('d') || '';
+      const isActive = path === currentPath && (path !== 'list.html' || dest === currentDest);
+      a.classList.toggle('active', isActive);
+    });
+  }
+
   function renderHeader(){
     const el = document.getElementById('site-header');
     if(!el) return;
@@ -54,18 +75,25 @@
         <div class="header-actions">
           <button class="lang-btn" id="lang-toggle">${I18N[lang]['lang.switch']}</button>
           <a href="contact.html" class="btn btn-primary" data-i18n="btn.consult">${I18N[lang]['btn.consult']}</a>
-          <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+          <button class="hamburger" id="hamburger" type="button" aria-label="Toggle navigation" aria-controls="main-nav" aria-expanded="false"><span></span><span></span><span></span></button>
         </div>
       </div>`;
     document.getElementById('lang-toggle').addEventListener('click', toggleLang);
     document.getElementById('hamburger').addEventListener('click', ()=>{
-      document.getElementById('main-nav').classList.toggle('open');
+      const nav = document.getElementById('main-nav');
+      setNavOpen(!nav.classList.contains('open'));
+    });
+    document.querySelectorAll('#main-nav a').forEach(a=>{
+      a.addEventListener('click', ()=>{
+        if(window.innerWidth <= 768) setNavOpen(false);
+      });
     });
     document.getElementById('h-search').addEventListener('click', ()=>{
     const d = document.getElementById('h-dest').value;
     let url = 'list.html' + (d?('?d='+d):'');
     location.href = url;
     });
+    markActiveNav();
   }
 
   // ---------- Float widgets ----------
@@ -99,6 +127,10 @@
     }
   };
   document.addEventListener('click', e=>{
+    const nav = document.getElementById('main-nav');
+    if(nav && nav.classList.contains('open') && !e.target.closest('#site-header')){
+      setNavOpen(false);
+    }
     ['wx-pop'].forEach(id=>{
       const p = document.getElementById(id);
       if(p && !p.hidden){
@@ -163,7 +195,8 @@
   }
 
   // ---------- Language ----------
-  function applyLang(){
+  function applyLang(options){
+    const emit = !options || options.emit !== false;
     document.documentElement.lang = (lang==='zh')?'zh':'en';
     document.querySelectorAll('[data-i18n]').forEach(el=>{
       const key = el.getAttribute('data-i18n');
@@ -173,7 +206,7 @@
       const key = el.getAttribute('data-i18n-ph');
       if(I18N[lang][key]!=null) el.setAttribute('placeholder', I18N[lang][key]);
     });
-    window.dispatchEvent(new CustomEvent('langchange',{detail:{lang}}));
+    if(emit) window.dispatchEvent(new CustomEvent('langchange',{detail:{lang}}));
   }
   function toggleLang(){
     lang = (lang==='zh')?'en':'zh';
@@ -185,6 +218,9 @@
   // ---------- Init ----------
   document.addEventListener('DOMContentLoaded', ()=>{
     renderHeader(); renderFloat(); renderFooter(); applyLang();
+  });
+  window.addEventListener('resize', ()=>{
+    if(window.innerWidth > 768) setNavOpen(false);
   });
   // expose
   window.Etrips = { getLang: ()=>lang, I18N, applyLang };

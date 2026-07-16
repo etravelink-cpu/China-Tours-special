@@ -122,7 +122,7 @@
     const backBtn = document.getElementById('back-btn');
     if(backBtn) backBtn.hidden = !subpage;
     // re-apply labels on cards after render (detail/btn)
-    window.Etrips.applyLang();
+    window.Etrips.applyLang({ emit: false });
   }
 
   ['f-days','f-month','f-budget'].forEach(id=>{

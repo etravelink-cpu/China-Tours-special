@@ -35,7 +35,7 @@
           <a href="detail.html?id=${d.id}" class="btn btn-outline" data-i18n="btn.detail">查看详情</a>
         </div></div>`;
       }).join('');
-      window.Etrips.applyLang();
+      window.Etrips.applyLang({ emit: false });
     }
     document.addEventListener('DOMContentLoaded',render);
     window.addEventListener('langchange',render);
