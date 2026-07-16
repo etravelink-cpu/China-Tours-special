@@ -2,7 +2,11 @@
 
 v2 (navy-luxe) shipped and was REJECTED: wrong energy. v3 law below.
 
-## Register: FUN, BRIGHT, ALIVE — match the logo
+## Register: FUN, BRIGHT, ALIVE — but PROFESSIONAL (founder ruling 2026-07-17)
+Playful energy from the logo, never childish: bright + warm + energetic, yet a
+trustworthy agency selling $3-20k family tours. "Contiki energy, Flight Centre
+trust." Rounded type stays legible-professional (no cartoon faces for body or
+long headings); layout is lively, not circus; color is sunny, not neon.
 The eTrips logo (rounded bubbly letterforms, sky blue #2FA8DD-family, orange
 kangaroo #F59B23-family) is the brand anchor. The site must feel like the
 logo: playful, warm, sunny, exciting. NOT corporate-luxe, NOT moody.
