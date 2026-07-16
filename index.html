@@ -3,114 +3,61 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Etrips 国安易游为澳洲华人与本地旅客提供中英双语行程规划，覆盖澳洲、新西兰、中国、欧洲、亚洲与邮轮路线，支持精品小团与私人订制。">
-  <meta name="theme-color" content="#201714">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Etrips 国安易游 | 澳中双语旅行顾问">
-  <meta property="og:description" content="从澳洲出发的中英双语旅行顾问，提供目的地灵感、精选线路与订制行程服务。">
-  <meta property="og:image" content="assets/img/hero-sydney.jpg">
   <link rel="icon" type="image/png" href="assets/img/logo.png">
-  <title>Etrips 国安易游 | 澳中双语旅行顾问</title>
+  <title>Etrips 国安易游 | 易行天下，奔赴山海</title>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <header class="site-header" id="site-header"></header>
   <div class="float-bar" id="float-bar"></div>
 
-  <main>
-    <section class="hero" aria-label="Homepage hero">
-      <div class="container">
-        <div class="hero-frame">
-          <div id="hero-slides"></div>
-          <div class="hero-dots" id="hero-dots"></div>
-        </div>
-      </div>
-    </section>
+  <!-- 板块1: Hero (4 张滚动展示) -->
+  <section class="hero">
+    <div id="hero-slides"></div>
+    <div class="hero-dots" id="hero-dots"></div>
+  </section>
 
-    <section class="section section-tight">
-      <div class="container">
-        <div class="home-led">
-          <div class="section-head section-head-left">
-            <p class="section-kicker" data-i18n="home.story.kicker">Travel Concierge</p>
-            <h2 class="section-title section-title-left" data-i18n="home.story.title">从悉尼出发，做更稳妥也更从容的出行决策</h2>
-          </div>
-          <div class="home-led-copy">
-            <p data-i18n="home.story.body">我们将目的地选择、团期判断、语言服务与落地接待整合在一条清晰路径里，帮助家庭度假、探亲返乡与长线旅行减少沟通成本。</p>
-          </div>
-        </div>
-        <div class="signal-grid" id="signal-grid"></div>
-      </div>
-    </section>
+  <!-- 板块2: 选择你的目的地 -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" data-i18n="home.dest.title">选择你的目的地</h2>
+      <div id="biz-grid"></div>
+    </div>
+  </section>
 
-    <section class="section section-soft">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-kicker" data-i18n="home.dest.kicker">Destinations</p>
-          <h2 class="section-title" data-i18n="home.dest.title">选择你的目的地</h2>
-          <p class="section-lead" data-i18n="home.dest.lead">从周边短途到跨洲长线，按出发地与旅行方式快速进入合适路线。</p>
-        </div>
-        <div id="biz-grid"></div>
-      </div>
-    </section>
+  <!-- 板块3: 爆款精选行程 -->
+  <section class="section adv">
+    <div class="container">
+      <h2 class="section-title" data-i18n="home.hot.title">爆款精选行程</h2>
+      <div class="grid grid-3" id="hot-grid"></div>
+    </div>
+  </section>
 
-    <section class="section">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-kicker" data-i18n="home.hot.kicker">Featured Journeys</p>
-          <h2 class="section-title" data-i18n="home.hot.title">爆款精选行程</h2>
-          <p class="section-lead" data-i18n="home.hot.lead">优先展示当前最容易理解与咨询的高意向路线，减少首次浏览时的信息负担。</p>
-        </div>
-        <div class="grid grid-3" id="hot-grid"></div>
-      </div>
-    </section>
+  <!-- 板块4: 服务优势 -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" data-i18n="home.adv.title">四大服务优势</h2>
+      <div class="grid grid-4" id="adv-grid"></div>
+    </div>
+  </section>
 
-    <section class="section section-soft">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-kicker" data-i18n="home.plan.kicker">Planning Spine</p>
-          <h2 class="section-title" data-i18n="home.plan.title">从灵感到出发，用同一位顾问推进</h2>
-          <p class="section-lead" data-i18n="home.plan.lead">把目的地判断、行程筛选与订制沟通串成一条明确路径，减少往返确认。</p>
-        </div>
-        <div class="process-grid" id="process-grid"></div>
-      </div>
-    </section>
+  <!-- 板块5: 客户评价 -->
+  <section class="section adv">
+    <div class="container">
+      <h2 class="section-title" data-i18n="home.review.title">客户真实短评</h2>
+      <div class="grid grid-3" id="review-grid"></div>
+    </div>
+  </section>
 
-    <section class="section">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-kicker" data-i18n="home.adv.kicker">Why Etrips</p>
-          <h2 class="section-title" data-i18n="home.adv.title">四大服务优势</h2>
-          <p class="section-lead" data-i18n="home.adv.lead">把真实可执行的服务能力讲清楚，比堆砌营销形容词更重要。</p>
-        </div>
-        <div class="grid grid-4" id="adv-grid"></div>
-      </div>
-    </section>
+  <!-- 板块6: 出行小贴士 -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" data-i18n="home.tips.title">出行小贴士</h2>
+      <div class="grid grid-2" id="tips-grid"></div>
+    </div>
+  </section>
 
-    <section class="section section-soft">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-kicker" data-i18n="home.review.kicker">Client Notes</p>
-          <h2 class="section-title" data-i18n="home.review.title">客户真实短评</h2>
-          <p class="section-lead" data-i18n="home.review.lead">保留简短、具体、接近咨询现场的反馈，而不是夸张口号。</p>
-        </div>
-        <div class="grid grid-3" id="review-grid"></div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-kicker" data-i18n="home.tips.kicker">Before You Go</p>
-          <h2 class="section-title" data-i18n="home.tips.title">出行小贴士</h2>
-          <p class="section-lead" data-i18n="home.tips.lead">在正式询价前先确认时间、签证与同行需求，能显著提升沟通效率。</p>
-        </div>
-        <div class="grid grid-2" id="tips-grid"></div>
-      </div>
-    </section>
-
-    <div id="home-contact"></div>
-  </main>
-
+  <!-- 页脚 -->
   <footer class="site-footer" id="site-footer"></footer>
 
   <script src="assets/js/i18n.js"></script>
