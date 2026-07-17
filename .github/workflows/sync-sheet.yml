@@ -1,0 +1,79 @@
+name: Sync tours from Google Sheet
+
+# The Google Sheet (repo variable ET_SHEET_ID) is the product database:
+# 板块/分组/产品名称/价格/行程 etc. This workflow downloads it as xlsx,
+# validates it (fail-loud, never deploys a broken sheet), regenerates
+# assets/js/region-plans.js via the existing pipeline, and pushes only
+# if something actually changed. Push to main = live on etrips.com.au.
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 * * * *" # hourly; commits only when the sheet actually changed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-sheet
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check configuration
+        id: cfg
+        run: |
+          if [ -z "${{ vars.ET_SHEET_ID }}" ]; then
+            echo "ET_SHEET_ID repo variable not set — nothing to sync yet."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.cfg.outputs.configured == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.cfg.outputs.configured == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Download sheet as xlsx
+        if: steps.cfg.outputs.configured == 'true'
+        env:
+          SHEET_ID: ${{ vars.ET_SHEET_ID }}
+        run: |
+          case "$SHEET_ID" in
+            *[!A-Za-z0-9_-]*) echo "ET_SHEET_ID contains invalid characters"; exit 1;;
+          esac
+          curl -sSL --fail --retry 3 \
+            "https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=xlsx" \
+            -o /tmp/product-sheet.xlsx
+          ls -la /tmp/product-sheet.xlsx
+
+      - name: Validate sheet
+        if: steps.cfg.outputs.configured == 'true'
+        run: |
+          pip install --quiet openpyxl
+          python tools/validate_sheet.py /tmp/product-sheet.xlsx
+
+      - name: Regenerate region-plans.js
+        if: steps.cfg.outputs.configured == 'true'
+        env:
+          ET_PRODUCT_XLSX: /tmp/product-sheet.xlsx
+        run: python tools/gen_regions.py
+
+      - name: Commit and deploy if changed
+        if: steps.cfg.outputs.configured == 'true'
+        run: |
+          if git diff --quiet assets/js/region-plans.js; then
+            echo "No changes — sheet matches the live site."
+            exit 0
+          fi
+          git config user.name "etrips-sheet-sync[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/js/region-plans.js
+          git commit -m "chore: sync tours/pricing from Google Sheet"
+          git push

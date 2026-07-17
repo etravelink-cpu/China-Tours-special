@@ -101,6 +101,8 @@ window.EtripsForm = {
       },
       {
         img: "assets/img/v2/as-fuji-1440.webp",
+        video: "assets/video/hero-fuji.mp4",
+        poster: "assets/video/hero-fuji-poster.jpg",
         tag: "樱花与温泉 · 日本本州",
         h1: "日本本州 · 经典之旅",
         sub: "东京·富士山·京都，经典全包",

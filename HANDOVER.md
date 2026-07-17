@@ -56,6 +56,25 @@
     全部换为 Pexels 真实授权摄影（免费商用，无署名义务；出处逐张记录在
     `assets/img/v2/CREDITS.json`）。
 
+## 产品数据库（Google Sheet 自动同步，v3.1 新增）
+
+网站现在支持用 **Google 表格** 管理全部线路/价格/行程，改完几分钟内自动上线：
+
+1. **建表（一次性）**：在 Google Sheets 里 文件 → 导入 → 上传现有的
+   `产品总表.xlsx`。工作表名保持「产品总表」，表头 15 列名称不能改
+   （板块region / 分组group / 产品名称name / TourCode / 天数days / 出发城市dep /
+   抵达城市arr / 成人价adult / 儿童占床child_with / 儿童不占床child_no /
+   单房差single / 其他费other / banner图img / 行程安排itinerary / 参团须知notes）。
+2. **共享（一次性）**：右上角 共享 → 「知道链接的任何人 · 查看者」。
+   把浏览器地址栏 `/d/` 和 `/edit` 之间那串 ID 发给我们，我们在 GitHub 仓库
+   Settings → Variables 里配置 `ET_SHEET_ID` 即完成接线。
+3. **日常改价/改行程**：直接编辑表格即可。每小时自动同步一次；急的话到
+   GitHub 仓库 Actions → 「Sync tours from Google Sheet」→ Run workflow 手动触发。
+4. **安全网**：同步前会自动体检（列名、价格是否为数字等）。表格改坏了不会
+   弄坏网站——同步会失败并说明原因，线上保持原样。
+   注意：此表内容等同公开（网站上本来就展示），不要放内部成本/客户信息。
+   原有本地 Excel + `python tools/gen_regions.py` 流程完全保留，两条路都通。
+
 ## 部署 Deploy
 
 GitHub Pages（main 分支根目录），域名 etrips.com.au（CNAME 已有）。
