@@ -286,23 +286,36 @@ window.EtripsForm = {
     hotWrap.className = "grid grid-3";
     hotWrap.innerHTML = HOT.map((t) => window.tourCard(t, lang)).join("");
 
-    // 板块4 优势（编号编辑式，无 emoji — 见 DESIGN.md）
+    // 板块4 优势（真人实景图 + 编号，无 emoji — 见 DESIGN.md）
     const adv = ["home.adv1", "home.adv2", "home.adv3", "home.adv4"];
     document.getElementById("adv-grid").innerHTML = adv
       .map(
         (a, i) => `
-      <div class="adv-item"><span class="adv-num">0${i + 1}</span>
+      <div class="adv-item">
+      <img class="adv-img" src="assets/img/adv/adv-${i + 1}.jpg" alt="" loading="lazy">
+      <span class="adv-num">0${i + 1}</span>
       <h4>${I[lang][a]}</h4></div>`,
       )
       .join("");
 
-    // 板块5 评价
-    document.getElementById("review-grid").innerHTML = R.map(
-      (r) => `
-      <div class="review"><div class="stars">★★★★★</div>
-      <p>${lang === "zh" ? r.textZh : r.textEn}</p>
-      <div class="who">— ${lang === "zh" ? r.nameZh : r.nameEn}</div></div>`,
-    ).join("");
+    // 板块5 评价（Trustpilot 式卡片轮播）
+    const verified = lang === "zh" ? "已核实出团客人" : "Verified traveller";
+    document.getElementById("review-grid").innerHTML = R.map((r) => {
+      const stars = r.stars || 5;
+      return `
+      <article class="review">
+        <div class="rev-head">
+          <span class="rev-ava" aria-hidden="true">${r.nameZh.charAt(0)}</span>
+          <div class="rev-id"><span class="rev-name">${lang === "zh" ? r.nameZh : r.nameEn}</span>
+          <span class="rev-meta">${r.date} · ${lang === "zh" ? r.tourZh : r.tourEn}</span></div>
+        </div>
+        <div class="rev-stars" role="img" aria-label="${stars}/5">${Array.from({ length: 5 }, (_, i) => `<i class="${i < stars ? "on" : ""}">★</i>`).join("")}</div>
+        <h4 class="rev-title">${lang === "zh" ? r.titleZh : r.titleEn}</h4>
+        <p class="rev-text">${lang === "zh" ? r.textZh : r.textEn}</p>
+        <span class="rev-badge">✓ ${verified}</span>
+      </article>`;
+    }).join("");
+    initRevCarousel();
 
     // 板块6 出行小贴士
     const TIP = window.TIPS || [];
@@ -310,6 +323,50 @@ window.EtripsForm = {
       (t) =>
         `<div class="tip"><span class="tip-ico" aria-hidden="true"></span><p>${lang === "zh" ? t.zh : t.en}</p></div>`,
     ).join("");
+  }
+
+  // 评价轮播：语言切换后 rebuild 会重跑，on* 赋值天然去重旧监听
+  function initRevCarousel() {
+    const track = document.getElementById("review-grid");
+    const dots = document.getElementById("rev-dots");
+    if (!track || !dots) return;
+    const cards = [...track.children];
+    const behavior = window.matchMedia("(prefers-reduced-motion: reduce)")
+      .matches
+      ? "auto"
+      : "smooth";
+    dots.innerHTML = cards
+      .map(
+        (_, i) =>
+          `<button type="button" data-i="${i}" aria-label="${lang === "zh" ? "第" + (i + 1) + "条评价" : "Review " + (i + 1)}"></button>`,
+      )
+      .join("");
+    const step = () =>
+      cards.length > 1
+        ? cards[1].offsetLeft - cards[0].offsetLeft
+        : track.clientWidth;
+    const cur = () => Math.round(track.scrollLeft / step());
+    const go = (i) =>
+      track.scrollTo({
+        left: Math.max(0, Math.min(i, cards.length - 1)) * step(),
+        behavior,
+      });
+    dots.onclick = (e) => {
+      const b = e.target.closest("button");
+      if (b) go(+b.dataset.i);
+    };
+    document.getElementById("rev-prev").onclick = () => go(cur() - 1);
+    document.getElementById("rev-next").onclick = () => go(cur() + 1);
+    let t;
+    const mark = () => {
+      const i = cur();
+      [...dots.children].forEach((d, j) => d.classList.toggle("on", j === i));
+    };
+    track.onscroll = () => {
+      clearTimeout(t);
+      t = setTimeout(mark, 60);
+    };
+    mark();
   }
 
   // 自定义日期选择器：独立初始化（首页/子页皆可，不依赖首页 rebuild）

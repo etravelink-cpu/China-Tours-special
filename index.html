@@ -99,7 +99,14 @@
           <h2 class="section-title" id="review-title" data-i18n="home.review.title">客户真实短评</h2>
           <p class="section-lede" data-i18n="home.review.lede">来自真实出团客人的反馈，是我们最珍视的口碑。</p>
         </div>
-        <div class="grid grid-3" id="review-grid" data-reveal data-reveal-stagger></div>
+        <div class="rev-carousel" data-reveal>
+          <div class="rev-track" id="review-grid" tabindex="0" aria-label="客户评价"></div>
+          <div class="rev-ctrl">
+            <button type="button" class="rev-btn" id="rev-prev" aria-label="上一条评价">&#8592;</button>
+            <div class="rev-dots" id="rev-dots" aria-hidden="true"></div>
+            <button type="button" class="rev-btn" id="rev-next" aria-label="下一条评价">&#8594;</button>
+          </div>
+        </div>
       </div>
     </section>
 

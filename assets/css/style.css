@@ -268,21 +268,49 @@ button,input,select,textarea{font:inherit}
 .dep-card .btn{padding:9px 20px;font-size:13.5px;flex:0 0 auto}
 
 /* ---------- Advantages ---------- */
-.adv-item{text-align:left;padding:24px 22px;background:var(--white);border:1px solid var(--line-cool);
-  border-radius:var(--radius);transition:transform .25s var(--ease-pop),box-shadow .25s}
+.adv-item{text-align:left;padding:14px 14px 22px;background:var(--white);border:1px solid var(--line-cool);
+  border-radius:var(--radius);transition:transform .25s var(--ease-pop),box-shadow .25s;overflow:hidden}
 .adv-item:hover{transform:translateY(-4px);box-shadow:var(--shadow-soft)}
-.adv-num{font-family:var(--font-display);font-size:26px;font-weight:800;color:var(--sky);
-  display:block;margin-bottom:10px;line-height:1}
-.adv-item h4{color:var(--ink);margin-bottom:0;font-size:15px;line-height:1.65;font-weight:600}
+.adv-img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:calc(var(--radius) - 8px);
+  margin-bottom:16px}
+.adv-num{font-family:var(--font-display);font-size:20px;font-weight:800;color:var(--sky);
+  display:block;margin:0 8px 8px;line-height:1}
+.adv-item h4{color:var(--ink);margin:0 8px;font-size:15px;line-height:1.65;font-weight:600}
 .section.adv .adv-item{background:var(--white);border-color:var(--line-cool)}
 
-/* ---------- Reviews ---------- */
+/* ---------- Reviews (Trustpilot 式轮播) ---------- */
+.rev-carousel{position:relative}
+.rev-track{display:flex;gap:20px;overflow-x:auto;scroll-snap-type:x mandatory;
+  scrollbar-width:none;-webkit-overflow-scrolling:touch;padding:4px}
+.rev-track::-webkit-scrollbar{display:none}
+.rev-track:focus-visible{outline:2px solid var(--sky-deep);outline-offset:4px;border-radius:8px}
 .review{background:var(--white);border:1px solid var(--line-cool);border-radius:var(--radius);
-  padding:26px 24px;height:100%;position:relative}
-.review .stars{color:var(--orange);margin-bottom:10px;letter-spacing:3px;font-size:14px}
-.review p{font-size:15px;line-height:1.8;color:var(--ink)}
-.review .who{margin-top:12px;font-size:13px;color:var(--muted);font-weight:600}
-.section.adv .review{background:var(--white);border-color:var(--line-cool)}
+  padding:24px;position:relative;display:flex;flex-direction:column;
+  flex:0 0 calc((100% - 40px)/3);scroll-snap-align:start}
+.rev-head{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.rev-ava{flex:0 0 44px;width:44px;height:44px;border-radius:50%;background:var(--sky-tint);
+  color:var(--sky-text);font-weight:800;font-size:18px;display:flex;align-items:center;justify-content:center}
+.rev-id{display:flex;flex-direction:column;gap:2px;min-width:0}
+.rev-name{font-size:14px;font-weight:700;color:var(--ink)}
+.rev-meta{font-size:12.5px;color:var(--muted)}
+.rev-stars{display:flex;gap:3px;margin-bottom:12px}
+.rev-stars i{width:24px;height:24px;font-style:normal;font-size:15px;line-height:24px;text-align:center;
+  border-radius:5px;background:var(--line-cool);color:var(--white)}
+.rev-stars i.on{background:var(--orange)}
+.rev-title{font-size:16px;font-weight:700;color:var(--ink);margin:0 0 8px}
+.rev-text{font-size:14.5px;line-height:1.75;color:var(--ink);margin:0 0 16px}
+.rev-badge{margin-top:auto;align-self:flex-start;font-size:12.5px;font-weight:600;color:var(--sky-text);
+  background:var(--sky-tint);border-radius:999px;padding:5px 12px}
+.rev-ctrl{display:flex;align-items:center;justify-content:center;gap:18px;margin-top:22px}
+.rev-btn{width:40px;height:40px;border-radius:50%;border:1px solid var(--line-cool);background:var(--white);
+  color:var(--sky-text);font-size:17px;cursor:pointer;transition:background .2s,color .2s}
+.rev-btn:hover{background:var(--sky-deep);border-color:var(--sky-deep);color:var(--white)}
+.rev-dots{display:flex;gap:8px}
+.rev-dots button{width:8px;height:8px;border-radius:50%;border:0;padding:0;cursor:pointer;
+  background:var(--line-cool);transition:background .2s,transform .2s}
+.rev-dots button.on{background:var(--sky-deep);transform:scale(1.25)}
+@media (max-width:960px){.review{flex-basis:calc((100% - 20px)/2)}}
+@media (max-width:640px){.review{flex-basis:86%}}
 
 /* ---------- Tips ---------- */
 .tip{display:flex;gap:12px;align-items:flex-start;background:var(--white);border:1px solid var(--line-cool);
