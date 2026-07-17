@@ -80,3 +80,15 @@ logo: playful, warm, sunny, exciting. NOT corporate-luxe, NOT moody.
 - Icon system: filled duotone (sky-deep + orange accent), no generic outlines.
 - WeChat popup = chat-style card (green header, framed QR cards, tail).
 - Imagery: real licensed Pexels only (AI-generated look rejected).
+
+## v3.2 addendum (2026-07-18, founder rulings)
+- 主导航精简为 5 项：首页 / 目的地▾（8 区下拉）/ 私人订制 / 关于我们 / 联系我们。
+  下拉 = 悬停 + focus-within，移动端始终展开。
+- 按钮统一 3D 系统：实底 + 深色下沿（--btn-edge），悬停抬 2px、按下压 2px。
+  橙 CTA 下沿 #A85800，天蓝下沿 #085E8A，描边按钮下沿 line-cool。全站一致。
+- 客户评价 = Trustpilot 式卡片自动轮播（4s 自动前进，悬停/触摸/聚焦暂停，
+  reduced-motion 关闭自动播放），无圆点，仅左右箭头。
+- 首页滚动航线：俯视袋鼠小飞机沿虚线航线随滚动飞行（GSAP ScrollTrigger +
+  MotionPathPlugin，本地 vendor；仅 >1080px 且无 reduced-motion；flightradar 语言：
+  虚线 #9ED4F0 + 橙色 waypoint 图钉）。
+- 信任条（trust band）标题与副标题必须单行，四枚等高对齐（EN 文案按此裁剪）。

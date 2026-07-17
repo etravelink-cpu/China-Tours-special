@@ -17,20 +17,26 @@
       );
       subHtml += "</ul>";
     }
-    return `<li><a href="${BASE}${href}" data-i18n="${key}">${I18N[lang][key] || key}</a>${subHtml}</li>`;
+    return `<li${sub ? ' class="has-sub"' : ""}><a href="${BASE}${href}" data-i18n="${key}">${I18N[lang][key] || key}</a>${subHtml}</li>`;
   }
 
+  // 精简主导航：目的地收进下拉（2026-07-18 创始人裁定）
+  const DESTS = [
+    { key: "nav.australia", href: "list.html?d=australia" },
+    { key: "nav.nz", href: "list.html?d=nz" },
+    { key: "nav.china", href: "list.html?d=china" },
+    { key: "nav.europe", href: "list.html?d=europe" },
+    { key: "nav.asia", href: "list.html?d=asia" },
+    { key: "nav.island", href: "list.html?d=island" },
+    { key: "nav.america", href: "list.html?d=america" },
+    { key: "nav.cruise", href: "list.html?d=cruise" },
+  ];
   const NAV = [
     navItem("nav.home", "index.html"),
-    navItem("nav.australia", "list.html?d=australia"),
-    navItem("nav.nz", "list.html?d=nz"),
-    navItem("nav.china", "list.html?d=china"),
-    navItem("nav.europe", "list.html?d=europe"),
-    navItem("nav.asia", "list.html?d=asia"),
-    navItem("nav.island", "list.html?d=island"),
-    navItem("nav.america", "list.html?d=america"),
-    navItem("nav.cruise", "list.html?d=cruise"),
+    navItem("nav.dest", "list.html", DESTS),
     navItem("nav.custom", "custom.html"),
+    navItem("nav.about", "about.html"),
+    navItem("nav.contact", "contact.html"),
   ];
 
   function setNavOpen(open) {

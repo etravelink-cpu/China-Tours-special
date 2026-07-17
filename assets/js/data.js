@@ -1311,7 +1311,7 @@ window.REVIEWS = [
     nameZh: "王女士（悉尼）",
     nameEn: "Ms. Wang (Sydney)",
     titleZh: "领队特别贴心",
-    titleEn: "Guide was so caring",
+    titleEn: "Our guide looked after everyone",
     textZh: "中文领队太贴心，全程无购物，老人孩子都轻松。",
     textEn:
       "Chinese guide was so caring, no shopping, easy for the whole family.",
@@ -1337,10 +1337,10 @@ window.REVIEWS = [
     nameZh: "李先生（墨尔本）",
     nameEn: "Mr. Li (Melbourne)",
     titleZh: "浪漫到心里",
-    titleEn: "Romantic beyond words",
+    titleEn: "Still talking about the stargazing",
     textZh: "新西兰蜜月安排得超浪漫，星空那晚终生难忘。",
     textEn:
-      "NZ honeymoon was perfectly romantic, the stargazing night was unforgettable.",
+      "The whole NZ honeymoon was romantic, but the stargazing night is what we still talk about!",
     tourZh: "新西兰12日蜜月团",
     tourEn: "NZ 12D Honeymoon Tour",
     date: "2026-06",
@@ -1350,7 +1350,7 @@ window.REVIEWS = [
     nameZh: "陈同学（留学生）",
     nameEn: "Chen (Student)",
     titleZh: "探亲路线很省心",
-    titleEn: "Stress-free homeland trip",
+    titleEn: "Easy trip home",
     textZh: "返乡探亲路线很顺，机票酒店全包省心。",
     textEn: "Hometown visit route was smooth, flights and hotel all sorted.",
     tourZh: "回国探亲套餐",
@@ -1365,7 +1365,7 @@ window.REVIEWS = [
     titleEn: "Small group, easy going",
     textZh: "云南大理丽江七日团只有十二个人，导游带我们去了本地人开的米线店，比景区餐厅好吃太多。到玉龙雪山前特地提醒高反，还准备了氧气瓶，挺贴心的。",
     textEn:
-      "Our Yunnan Dali and Lijiang 7 day tour only had twelve people. The guide took us to a local rice noodle place that was much better than the tourist restaurants. Before Jade Dragon Snow Mountain she warned us about altitude and had oxygen canisters ready, a nice touch.",
+      "Our Yunnan Dali and Lijiang 7 day tour only had twelve people. The guide took us to a local rice noodle place that was much better than the tourist restaurants. Before Jade Dragon Snow Mountain she warned us about altitude and had oxygen canisters ready.",
     tourZh: "云南大理丽江7日小团",
     tourEn: "Yunnan Dali & Lijiang 7D Small Group",
     date: "2026-05",
@@ -1375,7 +1375,7 @@ window.REVIEWS = [
     nameZh: "刘先生（悉尼）",
     nameEn: "Mr. Liu (Sydney)",
     titleZh: "富士山温泉夜太治愈",
-    titleEn: "The onsen night at Fuji was special",
+    titleEn: "Worth it for the onsen night alone",
     textZh: "一个人参加本州六日团，本来担心尴尬，结果大家都很聊得来。富士山那晚住的旅馆有露天温泉，晚饭是怀石料理，一道一道上，吃得很慢很舒服。",
     textEn:
       "Went on the Honshu 6 day tour solo and worried it might be awkward, but everyone got along well. The ryokan by Mt Fuji had an open-air onsen, and dinner was a kaiseki course served one dish at a time, slow and relaxing.",
@@ -1391,7 +1391,7 @@ window.REVIEWS = [
     titleEn: "They looked after our kid too",
     textZh: "带十岁儿子去张家界深度游，他一开始不敢走玻璃桥，导游一直陪着他慢慢走，还帮忙背包。孩子挑食，每餐都特意问他要不要单独点，微信群里还发照片给在家的奶奶看，很用心。",
     textEn:
-      "Took my ten year old son on the Zhangjiajie deep tour. He was scared to walk the glass bridge at first, so the guide stayed with him and carried his backpack. My son is a picky eater and they checked with him at every meal, and sent photos to the WeChat group so his grandma at home could see too, quite thoughtful.",
+      "Took my ten year old son on the Zhangjiajie deep tour. He was scared to walk the glass bridge at first, so the guide stayed with him and carried his backpack. My son is a picky eater and they checked with him at every meal, and sent photos to the WeChat group so his grandma at home could see too. He still talks about the glass bridge.",
     tourZh: "张家界深度游",
     tourEn: "Zhangjiajie Deep China Tour",
     date: "2026-03",
@@ -1404,7 +1404,7 @@ window.REVIEWS = [
     titleEn: "Flight delay, no stress",
     textZh: "南太平洋邮轮团出发那天飞机延误了三个多小时。还担心赶不上登船，旅行社直接帮我们改了接驳车时间，上船一切正常。船上晚上有表演，老两口每天散步看海，很放松。",
     textEn:
-      "Our flight was delayed over three hours on the day the South Pacific cruise departed. We worried about missing boarding, but the agency rearranged our transfer and everything went smoothly. There were evening shows onboard, and the two of us just walked the deck and watched the sea each day, quite relaxing.",
+      "Our flight was delayed over three hours on the day the South Pacific cruise departed. We worried about missing boarding, but the agency rearranged our transfer and we made the ship with time to spare. There were shows in the evenings, but mostly the two of us walked the deck and watched the sea.",
     tourZh: "南太平洋邮轮团",
     tourEn: "South Pacific Cruise",
     date: "2026-02",
@@ -1417,7 +1417,7 @@ window.REVIEWS = [
     titleEn: "Long road, worth it",
     textZh: "新疆长线团路上确实比较辛苦，天山那段山路开了快五个小时，不过司机开得很稳，风景也确实好。中途在一户维吾尔族人家吃了顿家常饭，是这趟印象最深的一顿。",
     textEn:
-      "The Xinjiang long tour did involve a lot of driving, almost five hours on the mountain road through Tianshan, but the driver was very steady and the scenery was worth it. Partway through we had a home cooked meal at a Uyghur family's house, which was the most memorable meal of the trip.",
+      "The Xinjiang tour is a lot of driving, no way around it, almost five hours on the mountain road through Tianshan. The driver was steady and the scenery made up for it. The home cooked meal at a Uyghur family's house was the best thing we ate all trip.",
     tourZh: "新疆长线团",
     tourEn: "Xinjiang Long Tour",
     date: "2026-01",

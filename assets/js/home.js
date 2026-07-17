@@ -325,22 +325,16 @@ window.EtripsForm = {
     ).join("");
   }
 
-  // 评价轮播：语言切换后 rebuild 会重跑，on* 赋值天然去重旧监听
+  // 评价轮播：自动滚动，悬停/触摸暂停；语言切换后 rebuild 重跑，on* 赋值天然去重旧监听
+  let revTimer;
   function initRevCarousel() {
     const track = document.getElementById("review-grid");
-    const dots = document.getElementById("rev-dots");
-    if (!track || !dots) return;
+    if (!track) return;
     const cards = [...track.children];
-    const behavior = window.matchMedia("(prefers-reduced-motion: reduce)")
-      .matches
-      ? "auto"
-      : "smooth";
-    dots.innerHTML = cards
-      .map(
-        (_, i) =>
-          `<button type="button" data-i="${i}" aria-label="${lang === "zh" ? "第" + (i + 1) + "条评价" : "Review " + (i + 1)}"></button>`,
-      )
-      .join("");
+    const noMotion = window.matchMedia(
+      "(prefers-reduced-motion: reduce)",
+    ).matches;
+    const behavior = noMotion ? "auto" : "smooth";
     const step = () =>
       cards.length > 1
         ? cards[1].offsetLeft - cards[0].offsetLeft
@@ -351,22 +345,28 @@ window.EtripsForm = {
         left: Math.max(0, Math.min(i, cards.length - 1)) * step(),
         behavior,
       });
-    dots.onclick = (e) => {
-      const b = e.target.closest("button");
-      if (b) go(+b.dataset.i);
-    };
     document.getElementById("rev-prev").onclick = () => go(cur() - 1);
     document.getElementById("rev-next").onclick = () => go(cur() + 1);
-    let t;
-    const mark = () => {
-      const i = cur();
-      [...dots.children].forEach((d, j) => d.classList.toggle("on", j === i));
+    clearInterval(revTimer);
+    if (noMotion) return;
+    const tick = () => {
+      if (document.hidden) return;
+      const atEnd =
+        track.scrollLeft + track.clientWidth >= track.scrollWidth - 8;
+      go(atEnd ? 0 : cur() + 1);
     };
-    track.onscroll = () => {
-      clearTimeout(t);
-      t = setTimeout(mark, 60);
+    const start = () => {
+      clearInterval(revTimer);
+      revTimer = setInterval(tick, 4000);
     };
-    mark();
+    const wrap = track.closest(".rev-carousel");
+    wrap.onmouseenter = () => clearInterval(revTimer);
+    wrap.onmouseleave = start;
+    wrap.onfocusin = () => clearInterval(revTimer);
+    wrap.onfocusout = start;
+    track.ontouchstart = () => clearInterval(revTimer);
+    track.ontouchend = start;
+    start();
   }
 
   // 自定义日期选择器：独立初始化（首页/子页皆可，不依赖首页 rebuild）
