@@ -42,3 +42,16 @@ Permanent log. Read before making changes. Never remove entries.
 - **Prevention**: the LOGO is the first brand anchor, before any competitor
   reference. Confirm palette + register with a rendered swatch/mock BEFORE
   building. See DESIGN-V3-BRIEF.md.
+
+## R-005 · 2026-07-17 · Hero videos 404 in production (gitignored, never committed)
+- **What**: v3 shipped with 4 video heroes; live site 404'd all `assets/video/*.mp4`.
+  Client-era `.gitignore` rule `*.mp4` silently excluded them from `git add -A`;
+  only the poster jpgs were committed. Local verification passed because files
+  existed on disk.
+- **Root cause**: staged-content not verified against intended asset list; the
+  commit's create-list showed only `-poster.jpg` files and no `.mp4`, which went
+  unnoticed. Deploy artifact differed from working tree.
+- **Prevention**: after staging a commit that adds binary/media assets, verify
+  each intended file is IN the commit (`git ls-tree HEAD <dir>`), and verify the
+  LIVE artifact after deploy (curl each new asset URL for 200). `.gitignore` now
+  carries `!assets/video/*.mp4` so web-asset videos are never silently dropped.

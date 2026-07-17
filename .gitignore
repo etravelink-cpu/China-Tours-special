@@ -9,3 +9,5 @@ Thumbs.db
 
 # lock files
 *.mp4
+# 线上英雄视频（体积已压至 ≤6MB，属网站资产，放行）
+!assets/video/*.mp4
