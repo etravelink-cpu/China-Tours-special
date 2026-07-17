@@ -85,6 +85,21 @@
           pre.replaceWith(d);
         }
       });
+      // EN 模式：生成 DOM 文本按 REGION_I18N 字典换英文（字典由 tools/gen_region_i18n.py
+      // 再生；生成文件不动；langchange 重注入 zh 源后再扫）。未命中的新串保持中文。
+      if (hasPlan && lang === "en" && window.REGION_I18N) {
+        const dict = window.REGION_I18N;
+        const w = document.createTreeWalker(rp, NodeFilter.SHOW_TEXT);
+        while (w.nextNode()) {
+          const n = w.currentNode;
+          const t = n.nodeValue.trim();
+          if (t && dict[t]) n.nodeValue = n.nodeValue.replace(t, dict[t]);
+        }
+        rp.querySelectorAll("[placeholder]").forEach((e) => {
+          const tr = dict[e.getAttribute("placeholder")];
+          if (tr) e.setAttribute("placeholder", tr);
+        });
+      }
       // 子页新布局 v2：2级分组导航 + 路线详情卡（.rp-nav2）
       const nav2 = rp.querySelector(".rp-nav2");
       if (nav2) {

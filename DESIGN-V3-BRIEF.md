@@ -108,3 +108,7 @@ logo: playful, warm, sunny, exciting. NOT corporate-luxe, NOT moody.
   PBR 光照会压暗品牌色）。3D 层逐帧跟踪 2D 锚点（位置+航向+rev 翻转），不复制路径
   数学；WebGL/加载失败或移动端 = 2D 贴纸继续。航线进度改分段映射：路标滚到视口中心
   时飞机到达该路标，飞机全程不掉出视口。
+- 分区行程 EN 化：渲染时按 `region-i18n.js` 字典替换 `#region-plan` 文本节点
+  （生成文件不动；langchange 重注入源后再扫；未命中新串保持中文）。字典 =
+  人工定稿 UI 术语 + DeepSeek 机翻内容初稿，`tools/gen_region_i18n.py` 再生，
+  客户抽查校对（HANDOVER 第 5 条）。
