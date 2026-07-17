@@ -283,14 +283,16 @@ button,input,select,textarea{font:inherit}
   font-weight:600;font-family:var(--font-body);margin-bottom:2px}
 .dep-card .btn{padding:9px 20px;font-size:13.5px;flex:0 0 auto}
 
-/* ---------- 滚动航线（首页，桌面端） ---------- */
+/* ---------- 滚动航线（首页，桌面端） ----------
+   分层：虚线航线 z1 藏在卡片(bento)后面（main .container 提到 z2），飞机 z3 永远在最上 */
 main{position:relative}
-.flight-route{position:absolute;inset:0;pointer-events:none;z-index:3;overflow:hidden}
-.fr-svg{display:block}
+main .container{position:relative;z-index:2}
+.flight-route{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.fr-svg{display:block;position:absolute;inset:0;z-index:1}
 #fr-path{stroke:#9ED4F0;stroke-width:2.5;stroke-dasharray:2 11;stroke-linecap:round}
 .fr-pin{fill:#fff;stroke:var(--orange);stroke-width:2;opacity:.9}
 .fr-pin-core{fill:var(--orange)}
-.fr-plane{position:absolute;top:0;left:0;width:96px;will-change:transform}
+.fr-plane{position:absolute;top:0;left:0;width:96px;will-change:transform;z-index:3}
 @media(max-width:1080px){.flight-route{display:none}}
 
 /* ---------- Advantages ---------- */

@@ -31,13 +31,16 @@
       function buildPath() {
         var W = main.clientWidth;
         var H = main.scrollHeight;
+        var vh = window.innerHeight;
         var pts = stops.map(function (sec, i) {
           var y = sec.offsetTop + Math.min(140, sec.offsetHeight * 0.2);
           var x =
             i % 2 === 0 ? Math.max(64, W * 0.052) : Math.min(W - 64, W * 0.948);
           return { x: x, y: y };
         });
-        var start = { x: W * 0.5, y: Math.max(0, pts[0].y - 380) };
+        // 终点：页尾中央“降落”，飞机全程贴着视口走（首屏即可见，滚到底刚好收尾）
+        pts.push({ x: W * 0.5, y: H - Math.min(260, vh * 0.3) });
+        var start = { x: W * 0.5, y: vh * 0.5 };
         var d = "M " + start.x + " " + start.y;
         var prev = start;
         pts.forEach(function (p) {
