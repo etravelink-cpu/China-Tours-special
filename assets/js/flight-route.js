@@ -27,6 +27,7 @@
     wrap.className = "flight-route";
     main.appendChild(wrap);
 
+    var segProgress = []; // 每个航段应占的滚动进度份额（按“路标居中视口时到达”映射）
     function buildPath() {
       var W = main.clientWidth;
       var H = main.scrollHeight;
@@ -40,11 +41,25 @@
       // 终点：页尾中央“降落”，飞机全程贴着视口走（首屏即可见，滚到底刚好收尾）
       pts.push({ x: W * 0.5, y: H - Math.min(260, vh * 0.3) });
       var start = { x: W * 0.5, y: vh * 0.5 };
+      // 进度映射：路标 y 到达视口中心时 progress = (y-vh/2)/(H-vh)，
+      // 避免弧长不均导致飞机中段掉出视口（每段一条隐藏路径 + 时间轴分段）
+      var denom = Math.max(1, H - vh);
+      var pAt = [0];
+      pts.forEach(function (p) {
+        var v = (p.y - vh * 0.5) / denom;
+        pAt.push(Math.max(pAt[pAt.length - 1] + 0.02, Math.min(1, v)));
+      });
+      var last = pAt[pAt.length - 1];
+      pAt = pAt.map(function (v) {
+        return v / last;
+      });
+      segProgress = [];
+      var segs = [];
       var d = "M " + start.x + " " + start.y;
       var prev = start;
-      pts.forEach(function (p) {
+      pts.forEach(function (p, i) {
         var dy = (p.y - prev.y) * 0.5;
-        d +=
+        var c =
           " C " +
           prev.x +
           " " +
@@ -57,6 +72,9 @@
           p.x +
           " " +
           p.y;
+        d += c;
+        segs.push("M " + prev.x + " " + prev.y + c);
+        segProgress.push(pAt[i + 1] - pAt[i]);
         prev = p;
       });
       var pins = pts
@@ -75,6 +93,17 @@
           );
         })
         .join("");
+      var segPaths = segs
+        .map(function (sd, i) {
+          return (
+            '<path class="fr-seg" id="fr-seg-' +
+            i +
+            '" d="' +
+            sd +
+            '" fill="none"/>'
+          );
+        })
+        .join("");
       wrap.innerHTML =
         '<svg class="fr-svg" width="' +
         W +
@@ -88,6 +117,7 @@
         '<path id="fr-path" d="' +
         d +
         '" fill="none"/>' +
+        segPaths +
         pins +
         '</svg><div class="fr-plane" aria-hidden="true"><img src="assets/img/plane-etrips.png" alt=""></div>';
     }
@@ -96,14 +126,8 @@
     function build() {
       buildPath();
       var plane = wrap.querySelector(".fr-plane");
-      tween = gsap.to(plane, {
-        motionPath: {
-          path: "#fr-path",
-          align: "#fr-path",
-          autoRotate: true,
-          alignOrigin: [0.5, 0.5],
-        },
-        ease: "none",
+      tween = gsap.timeline({
+        defaults: { ease: "none" },
         scrollTrigger: {
           trigger: main,
           start: "top top",
@@ -114,6 +138,17 @@
             plane.classList.toggle("rev", self.direction < 0);
           },
         },
+      });
+      segProgress.forEach(function (dur, i) {
+        tween.to(plane, {
+          motionPath: {
+            path: "#fr-seg-" + i,
+            align: "#fr-seg-" + i,
+            autoRotate: true,
+            alignOrigin: [0.5, 0.5],
+          },
+          duration: dur,
+        });
       });
     }
     build();

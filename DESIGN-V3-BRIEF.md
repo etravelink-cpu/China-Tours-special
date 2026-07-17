@@ -103,3 +103,8 @@ logo: playful, warm, sunny, exciting. NOT corporate-luxe, NOT moody.
   原生 select 禁用。选中态跨语言切换保留。
 - 滚动航线开放移动端（飞机 56px、航线 stroke 2）；回滚时机身内层 180° 翻转，
   飞机永远机头朝前，不倒飞。
+- 3D 飞机（桌面端增强层）：hunyuan3d 品牌小飞机 GLB（assets/3d，850KB，简化+webp），
+  three.js 0.170 本地 vendor（importmap `three`）。无光材质渲染（烘焙贴图即插画光影，
+  PBR 光照会压暗品牌色）。3D 层逐帧跟踪 2D 锚点（位置+航向+rev 翻转），不复制路径
+  数学；WebGL/加载失败或移动端 = 2D 贴纸继续。航线进度改分段映射：路标滚到视口中心
+  时飞机到达该路标，飞机全程不掉出视口。

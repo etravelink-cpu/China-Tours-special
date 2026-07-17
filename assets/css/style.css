@@ -310,7 +310,9 @@ main .container{position:relative;z-index:2}
 .fr-pin{fill:#fff;stroke:var(--orange);stroke-width:2;opacity:.9}
 .fr-pin-core{fill:var(--orange)}
 .fr-plane{position:absolute;top:0;left:0;width:96px;will-change:transform;z-index:3}
-.fr-plane img{width:100%;display:block;transition:transform .35s var(--ease-pop)}
+.fr-plane img{width:100%;display:block;transition:transform .35s var(--ease-pop),opacity .4s}
+.flight-route.fr-3d .fr-plane img{opacity:0}  /* 3D 层就绪后隐藏 2D 贴纸（仍作位置锚点） */
+.fr-canvas{position:fixed;inset:0;z-index:4;pointer-events:none}
 .fr-plane.rev img{transform:rotate(180deg)}  /* 回滚时机头朝上，不倒飞 */
 @media(max-width:1080px){.fr-plane{width:56px}.fr-svg #fr-path{stroke-width:2}}
 
