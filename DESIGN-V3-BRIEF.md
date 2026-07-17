@@ -92,3 +92,14 @@ logo: playful, warm, sunny, exciting. NOT corporate-luxe, NOT moody.
   MotionPathPlugin，本地 vendor；仅 >1080px 且无 reduced-motion；flightradar 语言：
   虚线 #9ED4F0 + 橙色 waypoint 图钉）。
 - 信任条（trust band）标题与副标题必须单行，四枚等高对齐（EN 文案按此裁剪）。
+
+## v3.2.2 addendum (2026-07-18, founder rulings, second batch)
+- 橙色 CTA 提亮为 logo 橙 #F09018（创始人：#DB7700 太闷太暗）。物理约束：任何比
+  #DB7700 更亮的橙上白字都低于 3:1（#F09018 白字仅 2.41），故 CTA 文字改为 ink
+  #1D3D4F（4.75 AA-large）。此项取代 v3.1 “dark-on-orange dead” 裁定。
+  下沿同步提亮 #A85800 → #C06E00，光晕 rgba(240,144,24,·)。
+- 页头“在线咨询”= 橙色 btn-gold（紧凑版 padding 10/20、font 14）。
+- 页头目的地搜索 = 自定义胶囊下拉（.h-dest-btn + .h-menu，与主导航下拉同语言），
+  原生 select 禁用。选中态跨语言切换保留。
+- 滚动航线开放移动端（飞机 56px、航线 stroke 2）；回滚时机身内层 180° 翻转，
+  飞机永远机头朝前，不倒飞。

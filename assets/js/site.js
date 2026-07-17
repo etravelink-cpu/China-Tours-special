@@ -3,6 +3,23 @@
 (function () {
   const I18N = window.I18N;
   let lang = localStorage.getItem("etrips_lang") || "zh";
+  // 目的地下拉选择状态（跨语言重建保留）
+  let hDestVal = "";
+  let hDestKey = "search.dest";
+  function closeDestMenu() {
+    const hs = document.getElementById("header-search");
+    const btn = document.getElementById("h-dest-btn");
+    if (hs) hs.classList.remove("open");
+    if (btn) btn.setAttribute("aria-expanded", "false");
+  }
+  document.addEventListener("click", (e) => {
+    const hs = document.getElementById("header-search");
+    if (hs && hs.classList.contains("open") && !hs.contains(e.target))
+      closeDestMenu();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeDestMenu();
+  });
   // 子目录页面(如 /tours/)注入的相对链接/图片需回到站点根
   const BASE = /\/tours\//.test(location.pathname) ? "../" : "";
 
@@ -70,23 +87,23 @@
           <img class="logo-img" src="${BASE}assets/img/yiyou.png" alt="Etrips 国安易游">
         </a>
         <ul class="nav" id="main-nav">${NAV.join("")}</ul>
-        <div class="header-search">
-          <select id="h-dest" class="h-select" aria-label="${I18N[lang]["search.dest"]}">
-            <option value="" data-i18n="search.dest">目的地</option>
-            <option value="australia" data-i18n="dest.australia">澳洲</option>
-            <option value="nz" data-i18n="dest.nz">新西兰</option>
-            <option value="china" data-i18n="dest.china">中国</option>
-            <option value="europe" data-i18n="dest.europe">欧洲</option>
-            <option value="asia" data-i18n="dest.asia">亚洲</option>
-            <option value="cruise" data-i18n="dest.cruise">邮轮</option>
-            <option value="other" data-i18n="dest.other">其他</option>
-            <option value="custom" data-i18n="dest.custom">私人订制</option>
-          </select>
+        <div class="header-search" id="header-search">
+          <button type="button" class="h-dest-btn" id="h-dest-btn" aria-haspopup="true" aria-expanded="false"><span id="h-dest-label" data-i18n="${hDestKey}">${I18N[lang][hDestKey]}</span></button>
+          <ul class="h-menu" id="h-menu">
+            <li><button type="button" data-d="australia" data-i18n="dest.australia">${I18N[lang]["dest.australia"]}</button></li>
+            <li><button type="button" data-d="nz" data-i18n="dest.nz">${I18N[lang]["dest.nz"]}</button></li>
+            <li><button type="button" data-d="china" data-i18n="dest.china">${I18N[lang]["dest.china"]}</button></li>
+            <li><button type="button" data-d="europe" data-i18n="dest.europe">${I18N[lang]["dest.europe"]}</button></li>
+            <li><button type="button" data-d="asia" data-i18n="dest.asia">${I18N[lang]["dest.asia"]}</button></li>
+            <li><button type="button" data-d="cruise" data-i18n="dest.cruise">${I18N[lang]["dest.cruise"]}</button></li>
+            <li><button type="button" data-d="other" data-i18n="dest.other">${I18N[lang]["dest.other"]}</button></li>
+            <li><button type="button" data-d="custom" data-i18n="dest.custom">${I18N[lang]["dest.custom"]}</button></li>
+          </ul>
           <button class="h-search" id="h-search" data-i18n="search.find">寻找</button>
         </div>
         <div class="header-actions">
           <button class="lang-btn" id="lang-toggle">${I18N[lang]["lang.switch"]}</button>
-          <a href="${BASE}contact.html" class="btn btn-primary" data-i18n="btn.consult">${I18N[lang]["btn.consult"]}</a>
+          <a href="${BASE}contact.html" class="btn btn-gold" data-i18n="btn.consult">${I18N[lang]["btn.consult"]}</a>
           <button class="hamburger" id="hamburger" type="button" aria-label="Toggle navigation" aria-controls="main-nav" aria-expanded="false"><span></span><span></span><span></span></button>
         </div>
       </div>`;
@@ -102,9 +119,25 @@
         if (window.innerWidth <= 1080) setNavOpen(false);
       });
     });
+    const hs = document.getElementById("header-search");
+    const destBtn = document.getElementById("h-dest-btn");
+    destBtn.addEventListener("click", () => {
+      const open = !hs.classList.contains("open");
+      hs.classList.toggle("open", open);
+      destBtn.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    hs.querySelectorAll("#h-menu button").forEach((b) => {
+      b.addEventListener("click", () => {
+        hDestVal = b.dataset.d;
+        hDestKey = b.dataset.i18n;
+        const lb = document.getElementById("h-dest-label");
+        lb.dataset.i18n = hDestKey;
+        lb.textContent = b.textContent;
+        closeDestMenu();
+      });
+    });
     document.getElementById("h-search").addEventListener("click", () => {
-      const d = document.getElementById("h-dest").value;
-      let url = "list.html" + (d ? "?d=" + d : "");
+      let url = "list.html" + (hDestVal ? "?d=" + hDestVal : "");
       location.href = BASE + url;
     });
     markActiveNav();

@@ -17,7 +17,7 @@
   --sky-tint:#E8F5FC;       /* tinted bands, hovers */
   --sky-band:#F2F9FD;       /* faint alternating band */
   --orange:#F09018;         /* logo orange — badges/decor (ink text on it, 4.2) */
-  --btn-orange:#DB7700;     /* CTA fill — white text computed 3.16 AA-large */
+  --btn-orange:#F09018;     /* CTA fill = logo orange (创始人 2026-07-18: 提亮) — ink text 4.75 AA-large */
   --btn-orange-hover:#C96D00;
   --orange-deep:#B36F13;    /* orange as text, large/bold only */
   --orange-tint:#FFF4E2;    /* light gold chips */
@@ -88,10 +88,10 @@ button,input,select,textarea{font:inherit}
 .btn:active{transform:translateY(2px);box-shadow:0 1px 0 var(--btn-edge,transparent)}
 .btn-primary{--btn-edge:#085E8A;background:var(--sky-deep);color:#fff}
 .btn-primary:hover{background:var(--sky-deep);box-shadow:0 6px 0 var(--btn-edge),0 12px 22px rgba(14,125,184,.22)}
-.btn-gold{--btn-edge:#A85800;background:var(--btn-orange);color:#fff;font-size:16px;
-  box-shadow:0 4px 0 var(--btn-edge),0 10px 22px rgba(219,119,0,.26)}
-.btn-gold:hover{background:var(--btn-orange);box-shadow:0 6px 0 var(--btn-edge),0 14px 26px rgba(219,119,0,.32)}
-.btn-gold:active{box-shadow:0 1px 0 var(--btn-edge),0 6px 14px rgba(219,119,0,.28)}
+.btn-gold{--btn-edge:#C06E00;background:var(--btn-orange);color:var(--ink);font-size:16px;
+  box-shadow:0 4px 0 var(--btn-edge),0 10px 22px rgba(240,144,24,.28)}
+.btn-gold:hover{background:var(--btn-orange);box-shadow:0 6px 0 var(--btn-edge),0 14px 26px rgba(240,144,24,.34)}
+.btn-gold:active{box-shadow:0 1px 0 var(--btn-edge),0 6px 14px rgba(240,144,24,.3)}
 .btn-outline{--btn-edge:var(--line-cool);border:2px solid var(--sky-deep);color:var(--sky-deep);
   background:var(--white);padding:11px 26px}
 .btn-outline:hover{background:var(--sky-deep);color:#fff;--btn-edge:#085E8A}
@@ -147,19 +147,36 @@ button,input,select,textarea{font:inherit}
 .nav .submenu a{padding:10px 14px;font-size:14px;display:block;border-radius:10px;color:var(--ink)}
 .nav .submenu a:hover,.nav .submenu a.active{background:var(--sky-tint);color:var(--sky-text)}
 .header-actions{display:flex;align-items:center;gap:10px;flex-shrink:0}
+.header-actions .btn-gold{padding:10px 20px;font-size:14px;
+  box-shadow:0 3px 0 var(--btn-edge),0 8px 16px rgba(240,144,24,.22)}
+.header-actions .btn-gold:hover{box-shadow:0 5px 0 var(--btn-edge),0 10px 18px rgba(240,144,24,.28)}
+.header-actions .btn-gold:active{box-shadow:0 1px 0 var(--btn-edge),0 5px 10px rgba(240,144,24,.24)}
 .lang-btn{background:var(--white);border:1.5px solid var(--line-cool);border-radius:var(--pill);
-  padding:7px 16px;cursor:pointer;font-size:13.5px;color:var(--muted);font-weight:700;transition:.18s;
+  padding:9px 16px;cursor:pointer;font-size:13.5px;color:var(--muted);font-weight:700;transition:.18s;
   box-shadow:0 3px 0 var(--line-cool)}
 .lang-btn:hover{border-color:var(--sky);color:var(--sky-text);transform:translateY(-1px)}
 .lang-btn:active{transform:translateY(1px);box-shadow:0 1px 0 var(--line-cool)}
 .hamburger{display:none;flex-direction:column;gap:5px;background:none;border:none;cursor:pointer;padding:6px}
 .hamburger span{width:24px;height:2.5px;background:var(--sky-deep);border-radius:999px;transition:.25s}
-.header-search{display:flex;align-items:center;gap:6px;margin-left:auto;background:var(--white);
-  border:1.5px solid var(--line-cool);border-radius:var(--pill);padding:3px 3px 3px 6px}
-.h-select{height:32px;border:none;border-radius:var(--pill);background:transparent;
-  color:var(--ink);font-size:13px;padding:0 6px;outline:none;cursor:pointer}
-.h-select:focus,.h-select:focus-visible{box-shadow:none}
-.h-search{height:32px;padding:0 16px;border:none;border-radius:var(--pill);background:var(--sky-deep);
+.header-search{position:relative;display:flex;align-items:center;gap:6px;margin-left:auto;background:var(--white);
+  border:1.5px solid var(--line-cool);border-radius:var(--pill);padding:3px}
+.h-dest-btn{height:34px;display:flex;align-items:center;gap:7px;border:none;background:transparent;
+  color:var(--ink);font-size:13.5px;font-weight:600;padding:0 10px 0 14px;border-radius:var(--pill);
+  cursor:pointer;white-space:nowrap;transition:background .18s,color .18s}
+.h-dest-btn::after{content:"\25BE";font-size:10px;opacity:.65;transition:transform .18s}
+.h-dest-btn:hover{background:var(--sky-tint);color:var(--sky-text)}
+.header-search.open .h-dest-btn::after{transform:rotate(180deg)}
+.h-menu{position:absolute;top:calc(100% + 10px);left:0;margin:0;background:var(--white);
+  border:1px solid var(--line-cool);border-radius:16px;box-shadow:var(--shadow-lift);
+  min-width:180px;padding:10px;z-index:30;opacity:0;visibility:hidden;pointer-events:none;
+  transform:translateY(8px);transition:opacity .18s,transform .18s,visibility .18s}
+.header-search.open .h-menu{opacity:1;visibility:visible;pointer-events:auto;transform:translateY(0)}
+.h-menu li{list-style:none}
+.h-menu button{display:block;width:100%;text-align:left;padding:10px 14px;font-size:14px;
+  border:none;background:none;border-radius:10px;color:var(--ink);font-weight:600;cursor:pointer;
+  transition:background .18s,color .18s}
+.h-menu button:hover{background:var(--sky-tint);color:var(--sky-text)}
+.h-search{height:34px;padding:0 16px;border:none;border-radius:var(--pill);background:var(--sky-deep);
   color:#fff;font-weight:700;font-size:13.5px;cursor:pointer;transition:.18s;white-space:nowrap;
   box-shadow:0 3px 0 #085E8A}
 .h-search:hover{transform:translateY(-1px);box-shadow:0 4px 0 #085E8A}
@@ -293,7 +310,9 @@ main .container{position:relative;z-index:2}
 .fr-pin{fill:#fff;stroke:var(--orange);stroke-width:2;opacity:.9}
 .fr-pin-core{fill:var(--orange)}
 .fr-plane{position:absolute;top:0;left:0;width:96px;will-change:transform;z-index:3}
-@media(max-width:1080px){.flight-route{display:none}}
+.fr-plane img{width:100%;display:block;transition:transform .35s var(--ease-pop)}
+.fr-plane.rev img{transform:rotate(180deg)}  /* 回滚时机头朝上，不倒飞 */
+@media(max-width:1080px){.fr-plane{width:56px}.fr-svg #fr-path{stroke-width:2}}
 
 /* ---------- Advantages ---------- */
 .adv-item{text-align:left;padding:14px 14px 22px;background:var(--white);border:1px solid var(--line-cool);
@@ -370,11 +389,11 @@ main .container{position:relative;z-index:2}
   mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 6 9 17l-5-5'/%3E%3C/svg%3E")}
 .enquiry-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}
 .btn-enquire{display:inline-block;padding:14px 30px;border-radius:var(--pill);
-  background:var(--btn-orange);color:#fff;font-size:16px;font-weight:800;
-  transition:.18s var(--ease-pop);box-shadow:0 4px 0 #A85800,0 12px 26px rgba(219,119,0,.26)}
+  background:var(--btn-orange);color:var(--ink);font-size:16px;font-weight:800;
+  transition:.18s var(--ease-pop);box-shadow:0 4px 0 #C06E00,0 12px 26px rgba(240,144,24,.28)}
 .btn-enquire:hover{background:var(--btn-orange);transform:translateY(-2px);
-  box-shadow:0 6px 0 #A85800,0 16px 30px rgba(219,119,0,.32)}
-.btn-enquire:active{transform:translateY(2px);box-shadow:0 1px 0 #A85800,0 6px 14px rgba(219,119,0,.28)}
+  box-shadow:0 6px 0 #C06E00,0 16px 30px rgba(240,144,24,.34)}
+.btn-enquire:active{transform:translateY(2px);box-shadow:0 1px 0 #C06E00,0 6px 14px rgba(240,144,24,.3)}
 .enquiry .btn-hero-outline{background:transparent;border-color:var(--sky-deep);color:var(--sky-deep)}
 .enquiry .btn-hero-outline:hover{background:var(--sky-deep);border-color:var(--sky-deep);color:#fff}
 .enquiry-card{flex:1 1 340px;min-width:280px;background:var(--white);border-radius:var(--radius);
@@ -410,7 +429,7 @@ main .container{position:relative;z-index:2}
   background:var(--sky-deep);line-height:1.2;font-weight:800;border:none;
   transition:transform .2s var(--ease-pop)}
 .float-btn:hover{transform:translateY(-3px) scale(1.04)}
-.float-btn.gold{background:var(--btn-orange);color:#fff}
+.float-btn.gold{background:var(--btn-orange);color:var(--ink)}
 .float-btn.wechat{background:var(--wechat);color:#fff;font-size:15px}
 .float-btn.wechat img{width:30px;height:30px;border-radius:8px;background:#fff;padding:1px}
 .wx-pop{position:fixed;right:84px;bottom:96px;z-index:901;background:var(--white);
@@ -859,7 +878,7 @@ body.printing-route #print-header{display:block}
 }
 
 /* ---------- Focus ring ---------- */
-.btn:focus-visible,.lang-btn:focus-visible,.h-search:focus-visible,.h-select:focus-visible,
+.btn:focus-visible,.lang-btn:focus-visible,.h-search:focus-visible,.h-dest-btn:focus-visible,.h-menu button:focus-visible,
 .nav>li>a:focus-visible,.nav .submenu a:focus-visible,.hamburger:focus-visible,
 .float-btn:focus-visible,.faq-item summary:focus-visible,.tabs button:focus-visible,
 .back-btn:focus-visible,.rp-group-title:focus-visible,.rp-route:focus-visible,
