@@ -1,82 +1,98 @@
 [
  {
   "slot": "cn-danxia",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #27170287 © daydream (pexels.com license, free commercial)"
  },
  {
   "slot": "as-fuji",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #33368123 © Vinny Anugraha (pexels.com license, free commercial)"
  },
  {
   "slot": "au-bluemtns",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #15231480 © Onin (pexels.com license, free commercial)"
  },
  {
   "slot": "eu-alps",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #19336121 © 라스 해 (pexels.com license, free commercial)"
  },
  {
   "slot": "as-halong",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #36551013 © Haneul Trac (pexels.com license, free commercial)"
  },
  {
   "slot": "nz-milford",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #14375108 © Esther Grosscurt (pexels.com license, free commercial)"
  },
  {
   "slot": "au-uluru",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #21273962 © Petra Nesti (pexels.com license, free commercial)"
  },
  {
   "slot": "cr-sunset",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #32609062 © Jose Parra (pexels.com license, free commercial)"
  },
  {
   "slot": "au-opera-night",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #35220484 © Robbie Veenstra (pexels.com license, free commercial)"
  },
  {
   "slot": "au-apostles",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #20721132 © Eclipse Chasers (pexels.com license, free commercial)"
  },
  {
   "slot": "eu-paris",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #6479194 © Jorge Samper (pexels.com license, free commercial)"
  },
  {
   "slot": "cn-forbidden",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #18549556 © Yan Zhang (pexels.com license, free commercial)"
  },
  {
   "slot": "nz-tekapo",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #62344 © Chee Huey Wong (pexels.com license, free commercial)"
  },
  {
   "slot": "eu-santorini",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #15532995 © Diego F. Parra (pexels.com license, free commercial)"
  },
  {
   "slot": "cn-westlake",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #20700881 © miyou_ 77 (pexels.com license, free commercial)"
  },
  {
   "slot": "cn-zhangjiajie",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #34683501 © David Tran (pexels.com license, free commercial)"
  },
  {
   "slot": "cn-yunnan",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #34622072 © Pua Tresia (pexels.com license, free commercial)"
  },
  {
   "slot": "nz-queenstown",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #8856179 © Jeffry Surianto (pexels.com license, free commercial)"
  },
  {
   "slot": "is-overwater",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #9394311 © Asad Photo Maldives (pexels.com license, free commercial)"
  },
  {
   "slot": "cn-guilin",
-  "source": "generated (gpt-image-1, Etrips/noboringsites 2026-07, bright v3)"
+  "source": "Pexels #24246260 © fei wang (pexels.com license, free commercial)"
+ },
+ {
+  "slot": "hero-zhangjiajie",
+  "source": "Pexels #5996220 © Ahmed Abd Allah (pexels.com license, free commercial)"
+ },
+ {
+  "slot": "hero-sydney-harbour",
+  "source": "Pexels #36924509 © Talha Resitoglu (pexels.com license, free commercial)"
+ },
+ {
+  "slot": "hero-twelve-apostles",
+  "source": "Pexels #5738619 © Pat Whelen (pexels.com license, free commercial)"
+ },
+ {
+  "slot": "hero-milford",
+  "source": "Pexels #30333844 © Sebastian Wright (pexels.com license, free commercial)"
  }
 ]
