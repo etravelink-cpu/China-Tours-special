@@ -1171,7 +1171,7 @@ window.TOURS = [
     tagsEn: ["Luxury", "Yangtze Cruise", "All-Inclusive"],
     price: "A$799",
     priceEn: "A$799",
-    img: "assets/img/destinations/cruise.jpg",
+    img: "assets/img/destinations/cruise-yangtze.jpg",
     blurbZh:
       "上海和平饭店+世贸洲际深坑酒店，长江新船王揽月号/极光号一价全包13日。",
     blurbEn:

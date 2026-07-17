@@ -69,3 +69,14 @@ logo: playful, warm, sunny, exciting. NOT corporate-luxe, NOT moody.
 2. RENDER+LOOK per section; impeccable critique before ship.
 3. All v2 verification infra (playwright suite, contracts, a11y fixes) carries
    over — do not regress a11y/perf/bilingual work.
+
+## v3.1 addendum (founder rulings 2026-07-17, evening)
+- Palette LAW tightened: PURE WHITE canvas (#FFFFFF, cream #FFF9F0 dead), logo
+  light blue + gold only; support inks derived quietly. CTA = orange fill with
+  WHITE text (#DB7700 computed 3.16 AA-large @16px bold; dark-on-orange dead).
+- Hero: NO white card — centered white display type directly over the video
+  (scrim + text-shadow); video is the star.
+- Dark/saturated bands flipped light: enquiry + footer = light sky tints.
+- Icon system: filled duotone (sky-deep + orange accent), no generic outlines.
+- WeChat popup = chat-style card (green header, framed QR cards, tail).
+- Imagery: real licensed Pexels only (AI-generated look rejected).

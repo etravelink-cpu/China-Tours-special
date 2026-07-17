@@ -27,15 +27,25 @@
     const D=window.DEPARTURES,T=window.TOURS,I=window.I18N;
     function render(){
       const lang=window.Etrips.getLang();
+      const MONTHS=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
       document.getElementById('dep-grid').innerHTML=D.map(d=>{
         const t=T.find(x=>x.id===d.id)||{nameZh:d.id,nameEn:d.id};
-        const seats = d.seats<=3 ? (lang==='zh'?'仅余 '+d.seats+' 位':'Only '+d.seats+' left') : (lang==='zh'?d.seats+' 位可订':d.seats+' seats');
-        return `<div class="card"><div class="body">
-          <h3>${lang==='zh'?t.nameZh:t.nameEn}</h3>
-          <p class="muted">${d.date}</p>
-          <p><span class="price">${d.price}</span></p>
-          <p class="muted">${seats}</p>
-          <a href="detail.html?id=${d.id}" class="btn btn-outline" data-i18n="btn.detail">查看详情</a>
+        const low=d.seats<=3;
+        const seats = low ? (lang==='zh'?'仅余 '+d.seats+' 位':'Only '+d.seats+' left') : (lang==='zh'?d.seats+' 位可订':d.seats+' seats open');
+        const [y,m,day]=d.date.split('-');
+        const mon = lang==='zh' ? (+m)+'月' : MONTHS[+m-1];
+        return `<div class="card dep-card"><div class="body">
+          <div class="dep-top">
+            <span class="dep-date" aria-label="${d.date}"><b>${+day}</b><span>${mon} ${y}</span></span>
+            <div class="dep-info">
+              <h3>${lang==='zh'?t.nameZh:t.nameEn}</h3>
+              <span class="dep-seats${low?' low':''}">${seats}</span>
+            </div>
+          </div>
+          <div class="dep-foot">
+            <span class="dep-price"><i>${lang==='zh'?'每人起':'from pp'}</i>${d.price}</span>
+            <a href="detail.html?id=${d.id}" class="btn btn-outline" data-i18n="btn.detail">查看详情</a>
+          </div>
         </div></div>`;
       }).join('');
       window.Etrips.applyLang({ emit: false });

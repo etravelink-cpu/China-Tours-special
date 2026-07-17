@@ -119,11 +119,18 @@
       <button type="button" class="float-btn gold" data-i18n="float.quote" title="${I18N[lang]["float.quote"]}" onclick="location.href='${BASE}contact.html'">${I18N[lang]["float.quote"]}</button>
       <button type="button" class="float-btn wechat" title="${I18N[lang]["wx.title"]}" aria-haspopup="dialog" aria-expanded="false" onclick="EtripsFloat.toggle('wx-pop','.float-btn.wechat')"><img src="${BASE}assets/img/wechat-icon.jpg" alt="WeChat"></button>
       <div class="wx-pop" id="wx-pop" hidden>
-        <div class="wx-row"><span class="wx-tag">${wx1n}</span> <b>${wx1}</b></div>
-        ${wx1qr ? `<img class="wx-qr" src="${BASE}${wx1qr}" alt="${wx1n} QR">` : ""}
-        <div class="wx-row"><span class="wx-tag">${wx2n}</span> <b>${wx2}</b></div>
-        ${C.wechat2Qr ? `<img class="wx-qr" src="${BASE}${C.wechat2Qr}" alt="${wx2n} QR">` : ""}
-        <div style="font-size:12px;color:#4E6076;margin-top:6px">${I18N[lang]["wx.caption"]}</div>
+        <div class="wx-head"><img src="${BASE}assets/img/wechat-icon.jpg" alt="">${I18N[lang]["wx.title"]}</div>
+        <div class="wx-body">
+          <div class="wx-card">
+            <div class="wx-meta"><span class="wx-tag">${wx1n}</span><b>${wx1}</b></div>
+            ${wx1qr ? `<img class="wx-qr" src="${BASE}${wx1qr}" alt="${wx1n} QR">` : ""}
+          </div>
+          <div class="wx-card">
+            <div class="wx-meta"><span class="wx-tag">${wx2n}</span><b>${wx2}</b></div>
+            ${C.wechat2Qr ? `<img class="wx-qr" src="${BASE}${C.wechat2Qr}" alt="${wx2n} QR">` : ""}
+          </div>
+        </div>
+        <div class="wx-foot">${I18N[lang]["wx.caption"]}</div>
       </div>
     `;
   }
@@ -293,14 +300,14 @@
   };
 
   // ---------- Shared contact channels (5 channels) ----------
-  // Icons: colored SVG (sky-blue phone / mint WeChat / grey mail / red pin)
+  // Icons: duotone house set — sky-deep mains + orange accents (WeChat keeps brand green)
   window.ICONS = {
     phone:
-      '<svg viewBox="0 0 24 24" width="34" height="34" fill="none" stroke="#5bb8e8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>',
+      '<svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#0E7DB8" d="M6.4 2.6c.7-.2 1.4.1 1.8.7l1.7 2.9c.4.6.3 1.4-.2 1.9l-1.2 1.2a14.4 14.4 0 0 0 6.2 6.2l1.2-1.2c.5-.5 1.3-.6 1.9-.2l2.9 1.7c.6.4.9 1.1.7 1.8l-.7 2.4c-.2.7-.9 1.2-1.6 1.2C10.6 21 3 13.4 2.8 4.9c0-.7.5-1.4 1.2-1.6l2.4-.7Z"/><path fill="none" stroke="#F09018" stroke-width="1.7" stroke-linecap="round" d="M14.5 5.3a5 5 0 0 1 4.2 4.2M15 1.9a8.4 8.4 0 0 1 7.1 7.1"/></svg>',
     wechat:
-      '<svg viewBox="0 0 24 24" width="34" height="34" fill="#4ec9a5"><ellipse cx="9" cy="10" rx="7" ry="6"/><ellipse cx="16" cy="15" rx="6" ry="5" opacity=".85"/><circle cx="6.5" cy="9" r="1" fill="#fff"/><circle cx="11.5" cy="9" r="1" fill="#fff"/><circle cx="14" cy="14" r=".9" fill="#fff"/><circle cx="18" cy="14" r=".9" fill="#fff"/></svg>',
-    mail: '<svg viewBox="0 0 24 24" width="34" height="34" fill="none" stroke="#9aa6b2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>',
-    pin: '<svg viewBox="0 0 24 24" width="34" height="34" fill="#e23b3b"><path d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>',
+      '<svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#1AAD19" d="M9.2 3.4c-3.9 0-7 2.6-7 5.9 0 1.9 1 3.5 2.6 4.6l-.7 2.2 2.5-1.3c.6.2 1.3.3 2 .3.2 0 .5 0 .7-.1a5.3 5.3 0 0 1-.3-1.7c0-3.2 3-5.8 6.6-5.8h.4c-.7-2.4-3.4-4.1-6.8-4.1Z"/><path fill="#3FC33E" d="M21.8 13.3c0-2.7-2.6-4.9-5.8-4.9s-5.8 2.2-5.8 4.9 2.6 4.9 5.8 4.9c.6 0 1.2-.1 1.7-.2l2.1 1.1-.6-1.9c1.6-.9 2.6-2.3 2.6-3.9Z"/><circle cx="6.8" cy="8" r="1" fill="#fff"/><circle cx="11.4" cy="8" r="1" fill="#fff"/><circle cx="13.9" cy="12.7" r=".9" fill="#fff"/><circle cx="18" cy="12.7" r=".9" fill="#fff"/></svg>',
+    mail: '<svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><rect x="2.4" y="4.6" width="19.2" height="14.8" rx="2.6" fill="#0E7DB8"/><path fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="m4.8 7.6 7.2 5.2 7.2-5.2"/><circle cx="19.4" cy="6.4" r="2.9" fill="#F09018"/></svg>',
+    pin: '<svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#0E7DB8" d="M12 1.8a7.4 7.4 0 0 0-7.4 7.4c0 5.3 7.4 13 7.4 13s7.4-7.7 7.4-13A7.4 7.4 0 0 0 12 1.8Z"/><circle cx="12" cy="9.1" r="2.9" fill="#F09018"/></svg>',
   };
 
   window.contactChannels = function (lang, opts) {
