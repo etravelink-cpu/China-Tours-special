@@ -76,6 +76,7 @@
           // 校准：hunyuan 输出 机头-X/顶+Y → 规格 机头+X/顶+Z（朝相机）
           // ZYX：先绕 X 立起（顶转向 +Z），再绕 Z 掉头（机头转向 +X）
           model.rotation.set(Math.PI / 2, 0, Math.PI, "ZYX");
+          model.scale.y = 0.55; // 本地 Y = 机身厚度轴：压扁玩具感，创始人嫌太厚 2026-07-18
 
           var inner = new THREE.Group(); // 滚转（banking）绕机头轴
           inner.add(model);
