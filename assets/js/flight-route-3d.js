@@ -42,7 +42,10 @@
         function (gltf) {
           if (dead) return;
           var route = document.querySelector(".flight-route");
-          if (!route) return;
+          if (!route) {
+            teardown = null; // 释放 boot 锁，断点回跳时可重启
+            return;
+          }
 
           var canvas = document.createElement("canvas");
           canvas.className = "fr-canvas";
@@ -99,6 +102,7 @@
           function resize() {
             W = window.innerWidth;
             H = window.innerHeight;
+            renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
             renderer.setSize(W, H);
             cam.left = -W / 2;
             cam.right = W / 2;
@@ -108,19 +112,22 @@
           }
           resize();
           window.addEventListener("resize", resize);
-          route.classList.add("fr-3d");
 
           var plane2d = null,
             lastH = 0,
             bank = 0,
             flip = 0,
-            raf = 0;
+            raf = 0,
+            firstFrame = true;
           function frame(t) {
             if (dead) return;
             raf = requestAnimationFrame(frame);
             if (!plane2d || !plane2d.isConnected)
               plane2d = document.querySelector(".flight-route .fr-plane");
-            if (!plane2d) return;
+            if (!plane2d) {
+              renderer.clear();
+              return;
+            }
             var r = plane2d.getBoundingClientRect();
             var cx = r.left + r.width / 2,
               cy = r.top + r.height / 2;
@@ -133,6 +140,7 @@
             var flipTarget = plane2d.classList.contains("rev") ? Math.PI : 0;
             flip += (flipTarget - flip) * 0.12;
             var h = -rot + flip; // css 顺时针为正 → three 逆时针为正
+            if (firstFrame) lastH = h; // 首帧不产生 dh，避免开场滚转猛拍
             var dh = h - lastH;
             if (dh > Math.PI) dh -= 2 * Math.PI;
             if (dh < -Math.PI) dh += 2 * Math.PI;
@@ -146,6 +154,10 @@
               0,
             );
             renderer.render(scene, cam);
+            if (firstFrame) {
+              firstFrame = false;
+              route.classList.add("fr-3d"); // 首帧已画完才藏 2D 贴纸：瞬时接棒，无双机窗口
+            }
           }
           raf = requestAnimationFrame(frame);
 
@@ -154,7 +166,15 @@
             cancelAnimationFrame(raf);
             window.removeEventListener("resize", resize);
             route.classList.remove("fr-3d");
+            scene.traverse(function (n) {
+              if (n.isMesh) {
+                n.geometry.dispose();
+                if (n.material.map) n.material.map.dispose();
+                n.material.dispose();
+              }
+            });
             renderer.dispose();
+            renderer.forceContextLoss();
             canvas.remove();
             teardown = null;
           };
