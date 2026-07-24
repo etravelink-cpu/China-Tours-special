@@ -88,7 +88,7 @@ button,input,select,textarea{font:inherit}
 .btn:active{transform:translateY(2px);box-shadow:0 1px 0 var(--btn-edge,transparent)}
 .btn-primary{--btn-edge:#085E8A;background:var(--sky-deep);color:#fff}
 .btn-primary:hover{background:var(--sky-deep);box-shadow:0 6px 0 var(--btn-edge),0 12px 22px rgba(14,125,184,.22)}
-.btn-gold{--btn-edge:#C06E00;background:var(--btn-orange);color:#fff;font-size:16px;
+.btn-gold{--btn-edge:#C06E00;background:var(--btn-orange);color:var(--ink);font-size:16px;
   box-shadow:0 4px 0 var(--btn-edge),0 10px 22px rgba(240,144,24,.28)}
 .btn-gold:hover{background:var(--btn-orange);box-shadow:0 6px 0 var(--btn-edge),0 14px 26px rgba(240,144,24,.34)}
 .btn-gold:active{box-shadow:0 1px 0 var(--btn-edge),0 6px 14px rgba(240,144,24,.3)}
@@ -311,9 +311,6 @@ main .container{position:relative;z-index:2}
 .fr-pin-core{fill:var(--orange)}
 .fr-plane{position:absolute;top:0;left:0;width:96px;will-change:transform;z-index:3}
 .fr-plane img{width:100%;display:block;transition:transform .35s var(--ease-pop)}
-/* 3D 首帧画完才加 fr-3d：双向瞬时切换（同锚点同位置，淡入淡出反而造成双机窗口） */
-.flight-route.fr-3d .fr-plane img{opacity:0}
-.fr-canvas{position:fixed;inset:0;z-index:4;pointer-events:none}
 .fr-plane.rev img{transform:rotate(180deg)}  /* 回滚时机头朝上，不倒飞 */
 @media(max-width:1080px){.fr-plane{width:56px}.fr-svg #fr-path{stroke-width:2}}
 
@@ -392,7 +389,7 @@ main .container{position:relative;z-index:2}
   mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 6 9 17l-5-5'/%3E%3C/svg%3E")}
 .enquiry-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}
 .btn-enquire{display:inline-block;padding:14px 30px;border-radius:var(--pill);
-  background:var(--btn-orange);color:#fff;font-size:16px;font-weight:800;
+  background:var(--btn-orange);color:var(--ink);font-size:16px;font-weight:800;
   transition:.18s var(--ease-pop);box-shadow:0 4px 0 #C06E00,0 12px 26px rgba(240,144,24,.28)}
 .btn-enquire:hover{background:var(--btn-orange);transform:translateY(-2px);
   box-shadow:0 6px 0 #C06E00,0 16px 30px rgba(240,144,24,.34)}
@@ -432,7 +429,7 @@ main .container{position:relative;z-index:2}
   background:var(--sky-deep);line-height:1.2;font-weight:800;border:none;
   transition:transform .2s var(--ease-pop)}
 .float-btn:hover{transform:translateY(-3px) scale(1.04)}
-.float-btn.gold{background:var(--btn-orange);color:#fff}
+.float-btn.gold{background:var(--btn-orange);color:var(--ink)}
 .float-btn.wechat{background:var(--wechat);color:#fff;font-size:15px}
 .float-btn.wechat img{width:30px;height:30px;border-radius:8px;background:#fff;padding:1px}
 .wx-pop{position:fixed;right:84px;bottom:96px;z-index:901;background:var(--white);
