@@ -4,6 +4,9 @@
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="assets/img/logo.png">
   <title>Etrips 国安易游 | 易行天下，奔赴山海 · 定制游</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&family=Noto+Sans+SC:wght@500;700;900&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -11,11 +14,11 @@
   <div class="float-bar" id="float-bar"></div>
   <section class="section" style="padding-top:80px">
     <div class="container">
-      <h2 class="section-title" data-i18n="custom.title">定制游需求</h2>
+      <h1 class="section-title" data-i18n="custom.title">定制游需求</h1>
       <div class="form-card">
         <form onsubmit="return CustomForm.submit(event)">
           <div class="form-row"><label data-i18n="form.name">姓名</label><input required name="name"></div>
-          <div class="form-row"><label data-i18n="form.phone">电话</label><input required name="phone"></div>
+          <div class="form-row"><label data-i18n="form.phone">电话</label><input name="phone"></div>
           <div class="form-row"><label data-i18n="form.email">邮箱</label><input name="email" type="email" placeholder="name@example.com"></div>
           <div class="form-row"><label data-i18n="form.dest">目的地</label>
             <select name="dest"><option>澳洲境内</option><option>新西兰</option><option>中国全境</option><option>亚洲</option><option>欧洲</option><option>美加</option><option>邮轮</option><option>特别行程</option></select></div>
@@ -73,7 +76,7 @@
           tip.textContent = l==='zh' ? '邮件组件加载失败，请检查网络后重试，或扫描页脚二维码加微信客服。' : 'Email module failed to load. Check network or scan footer QR.';
           return false;
         }
-        tip.style.color='#1B9FE0'; tip.textContent = l==='zh' ? '正在发送…' : 'Sending…';
+        tip.style.color='#0B6A9E'; tip.textContent = l==='zh' ? '正在发送…' : 'Sending…';
         emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
           route: '定制游需求', date: date, name: name, phone: phone, email: email,
           remark: (pref ? ('偏好：'+pref+'\n') : '') + '目的地：'+dest+' / 预算：'+budget+' / 人数：'+pax,
@@ -85,7 +88,7 @@
             }).catch(()=>{});
           }
           tip.style.color='#1aa06b';
-          tip.textContent = l==='zh' ? '✅ 定制需求已发送！顾问会尽快与您联系可扫码添加微信。' : '✅ Request sent! An advisor will contact you soon.';
+          tip.textContent = l==='zh' ? '定制需求已发送！顾问会尽快与您联系可扫码添加微信。' : 'Request sent! An advisor will contact you soon.';
           f.reset();
         }).catch((err)=>{
           tip.style.color='#e23b3b';
@@ -96,5 +99,6 @@
       }
     };
   </script>
+  <script src="assets/js/motion.js"></script>
 </body>
 </html>
