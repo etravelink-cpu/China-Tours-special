@@ -2297,7 +2297,7 @@ window.REGION_PLANS.australia = `
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
 
-                                window.REGION_PLANS.asia = `
+                                  window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -2371,7 +2371,7 @@ window.REGION_PLANS.australia = `
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="as-cm02552" data-p-adult="638" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="as-cm0255" data-p-adult="638" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 玩转台湾 轻松环岛6日</h3>
@@ -2401,7 +2401,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02572" data-p-adult="738" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0257" data-p-adult="738" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 玩转台湾 精华环岛7日</h3>
@@ -2431,7 +2431,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02592" data-p-adult="1018" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0259" data-p-adult="1018" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 玩转台湾 全景环岛8日</h3>
@@ -2461,7 +2461,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02612" data-p-adult="919" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0261" data-p-adult="919" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 韩国6日</h3>
@@ -2491,7 +2491,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02632" data-p-adult="498" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0263" data-p-adult="498" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 越南双龙湾豪华美食6日</h3>
@@ -2521,7 +2521,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftfticnns52" data-p-adult="1198" data-p-child="698" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftfticnns5" data-p-adult="1198" data-p-child="698" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩韩韵流光*首尔5日沉浸之旅</h3>
@@ -2551,7 +2551,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftvn52" data-p-adult="1049" data-p-child="749" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftvn5" data-p-adult="1049" data-p-child="749" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩越南河内下龙湾5天</h3>
@@ -2581,7 +2581,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftvnsgn102" data-p-adult="2498" data-p-child="1799" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftvnsgn10" data-p-adult="2498" data-p-child="1799" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩越南河内下龙湾岘港会安顺化10天</h3>
@@ -2611,7 +2611,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftpnh62" data-p-adult="1299" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftpnh6" data-p-adult="1299" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩柬埔寨金边吴哥6天</h3>
@@ -2641,7 +2641,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftvnpnh102" data-p-adult="2399" data-p-child="1499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftvnpnh10" data-p-adult="2399" data-p-child="1499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩越南下龙湾柬埔寨吴哥10天</h3>
@@ -2671,7 +2671,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftbkkns52" data-p-adult="1299" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftbkkns5" data-p-adult="1299" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩泰国曼谷芭提雅5天</h3>
@@ -2701,7 +2701,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftjp62" data-p-adult="588" data-p-child="498" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftjp6" data-p-adult="588" data-p-child="498" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本关东关西纯玩6天</h3>
@@ -2731,7 +2731,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftfttyo3d2" data-p-adult="1199" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftfttyo3d" data-p-adult="1199" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本东京镰仓横滨纯玩3天游</h3>
@@ -2761,7 +2761,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftosa3d2" data-p-adult="1199" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftosa3d" data-p-adult="1199" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本大阪和歌山神户纯玩3天游</h3>
@@ -2791,7 +2791,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftsg32" data-p-adult="969" data-p-child="879" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftsg3" data-p-adult="969" data-p-child="879" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 2025-2026（3月） 新加坡顺道游纯玩3天</h3>
@@ -2821,7 +2821,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftfttpe3d2" data-p-adult="849" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftfttpe3d" data-p-adult="849" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魅力台北顺道游纯玩3天</h3>
@@ -2851,7 +2851,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftfttpe4d2" data-p-adult="1099" data-p-child="999" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftfttpe4d" data-p-adult="1099" data-p-child="999" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魅力台北顺道游纯玩4天</h3>
@@ -2881,7 +2881,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftkul42" data-p-adult="969" data-p-child="669" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftkul4" data-p-adult="969" data-p-child="669" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 吉隆坡顺道游纯玩4天</h3>
@@ -2911,7 +2911,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftfttwns82" data-p-adult="1898" data-p-child="1598" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftfttwns8" data-p-adult="1898" data-p-child="1598" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩印象台湾环岛深度8天</h3>
@@ -2941,7 +2941,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftfttyo3jp62" data-p-adult="2098" data-p-child="1998" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftfttyo3jp6" data-p-adult="2098" data-p-child="1998" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本东京镰仓横滨京都大阪纯玩8天</h3>
@@ -2971,7 +2971,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftjp6osa3d2" data-p-adult="2098" data-p-child="1998" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftjp6osa3d" data-p-adult="2098" data-p-child="1998" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本东京京都大阪和歌山神户纯玩8天</h3>
@@ -3001,7 +3001,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftnstw5d2" data-p-adult="998" data-p-child="698" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftnstw5d" data-p-adult="998" data-p-child="698" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩台湾西线5天</h3>
@@ -3031,7 +3031,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftnstw6d2" data-p-adult="1098" data-p-child="798" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftnstw6d" data-p-adult="1098" data-p-child="798" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩台湾西线6天</h3>
@@ -3061,7 +3061,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftnstw8d2" data-p-adult="1198" data-p-child="898" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftnstw8d" data-p-adult="1198" data-p-child="898" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩台湾西线8天</h3>
@@ -3091,7 +3091,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftkulsinns62" data-p-adult="1498" data-p-child="898" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftkulsinns6" data-p-adult="1498" data-p-child="898" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩吉隆坡马六甲新加坡6天</h3>
@@ -3121,7 +3121,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftcts052" data-p-adult="598" data-p-child="498" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftcts05" data-p-adult="598" data-p-child="498" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本北海道纯玩5日</h3>
@@ -3151,7 +3151,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftjp6cts052" data-p-adult="1998" data-p-child="1798" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftjp6cts05" data-p-adult="1998" data-p-child="1798" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本东京大阪北海道纯玩10天</h3>
@@ -3181,7 +3181,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-ftftsgn52" data-p-adult="1049" data-p-child="849" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-ftftsgn5" data-p-adult="1049" data-p-child="849" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 纯玩南越魅力之旅5天</h3>
@@ -3211,7 +3211,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02432" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0243" data-p-adult="1198" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）韩国首尔江原道5日</h3>
@@ -3241,7 +3241,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02452" data-p-adult="2599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0245" data-p-adult="2599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 白色圣诞浪漫新年缤纷日本9日游</h3>
@@ -3271,7 +3271,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02472" data-p-adult="5399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0247" data-p-adult="5399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 白色圣诞浪漫新年缤纷日本11日游 (包机票)</h3>
@@ -3301,7 +3301,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02492" data-p-adult="1058" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0249" data-p-adult="1058" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）缤纷日本6日</h3>
@@ -3331,7 +3331,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02512" data-p-adult="1058" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0251" data-p-adult="1058" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）日本北海道5日</h3>
@@ -3361,7 +3361,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02532" data-p-adult="2098" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0253" data-p-adult="2098" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）日本东京富士山北海道10日</h3>
@@ -3391,7 +3391,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02652" data-p-adult="998" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0265" data-p-adult="998" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）台湾5日</h3>
@@ -3421,7 +3421,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02672" data-p-adult="1098" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0267" data-p-adult="1098" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）台湾6日</h3>
@@ -3451,7 +3451,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02692" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0269" data-p-adult="1198" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/asia.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）台湾8日</h3>
@@ -3481,7 +3481,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02712" data-p-adult="1199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0271" data-p-adult="1199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新加坡马来西亚6天-新进马出</h3>
@@ -3511,7 +3511,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="as-cm02732" data-p-adult="1498" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="as-cm0273" data-p-adult="1498" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/japan.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）马来西亚新加坡6天-马进新出</h3>
@@ -3544,7 +3544,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;
 
 
 
@@ -3560,7 +3560,7 @@ window.REGION_PLANS.australia = `
 
 
 
-                  window.REGION_PLANS.europe = `
+                    window.REGION_PLANS.europe = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/europe.jpg')"></div>
@@ -3617,7 +3617,7 @@ window.REGION_PLANS.australia = `
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="eu-cm03412" data-p-adult="9999" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="eu-cm0341" data-p-adult="9999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲定制团</h3>
@@ -3647,7 +3647,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03432" data-p-adult="9699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0343" data-p-adult="9699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】冬日暖阳圣诞环地中海六国16日亲子之旅</h3>
@@ -3677,7 +3677,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03452" data-p-adult="4999" data-p-child="1999" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0345" data-p-adult="4999" data-p-child="1999" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【包机票】欧洲七国纵览精华之旅德荷比法意瑞奥7国21日</h3>
@@ -3707,7 +3707,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03462" data-p-adult="5999" data-p-child="2499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0346" data-p-adult="5999" data-p-child="2499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】北欧七国极光峡湾22日全景游</h3>
@@ -3737,7 +3737,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03472" data-p-adult="6888" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0347" data-p-adult="6888" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】金秋十月东欧六国文化自然全景精华之旅</h3>
@@ -3767,7 +3767,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03492" data-p-adult="6888" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0349" data-p-adult="6888" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】东欧六国文化自然全景精华之旅</h3>
@@ -3797,7 +3797,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03512" data-p-adult="8499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0351" data-p-adult="8499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】西葡安摩四国伊比利亚摩洛哥环游之旅22日游</h3>
@@ -3827,7 +3827,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03532" data-p-adult="8699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0353" data-p-adult="8699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】欧洲七国德荷比法意瑞奥纵览精华之旅21日</h3>
@@ -3857,7 +3857,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03552" data-p-adult="8999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0355" data-p-adult="8999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】畅游荷德法瑞列奥意圣八国世纪河轮莱茵之旅17天</h3>
@@ -3887,7 +3887,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03572" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0357" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【红线】德国法国荷兰比利时卢森堡五国9日游</h3>
@@ -3917,7 +3917,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03592" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0359" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【红线】德国法国荷兰比利时卢森堡五国7日游</h3>
@@ -3947,7 +3947,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03612" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0361" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【黄线】西班牙葡萄牙9日游</h3>
@@ -3977,7 +3977,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03632" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0363" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【黄线】西班牙葡萄牙7日游</h3>
@@ -4007,7 +4007,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03652" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0365" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【绿线】法国意大利瑞士畅游三国9日游</h3>
@@ -4037,7 +4037,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03672" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0367" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【绿线】法国意大利瑞士畅游三国7日游</h3>
@@ -4067,7 +4067,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03692" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0369" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【蓝线】德国捷克匈牙利奥地利瑞士9日游</h3>
@@ -4097,7 +4097,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03712" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0371" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【蓝线】德国捷克匈牙利奥地利瑞士7日游</h3>
@@ -4127,7 +4127,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03732" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0373" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【棕线】匈牙利克罗地亚赛尔维波黑9日游</h3>
@@ -4157,7 +4157,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03752" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0375" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【棕线】匈牙利克罗地亚赛尔维波黑7日游</h3>
@@ -4187,7 +4187,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03772" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0377" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【紫线A】英格兰+苏格兰9日游</h3>
@@ -4217,7 +4217,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03792" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0379" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【紫线A】英格兰+苏格兰7日游</h3>
@@ -4247,7 +4247,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03812" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0381" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【紫线B】英格兰+苏格兰9日游</h3>
@@ -4277,7 +4277,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03832" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0383" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【紫线B】英格兰+苏格兰7日游</h3>
@@ -4307,7 +4307,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03852" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0385" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【橙线】法国西班牙9日游</h3>
@@ -4337,7 +4337,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03872" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0387" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【橙线】法国西班牙7日游</h3>
@@ -4367,7 +4367,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03892" data-p-adult="3999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0389" data-p-adult="3999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>蓝红绿欧洲21天10国游【不含接送机】</h3>
@@ -4397,7 +4397,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03912" data-p-adult="4498" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0391" data-p-adult="4498" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>蓝红绿欧洲23天10国游【含接送机】</h3>
@@ -4427,7 +4427,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03932" data-p-adult="1339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0393" data-p-adult="1339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【金线】意大利一地7日游</h3>
@@ -4457,7 +4457,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03952" data-p-adult="1829" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0395" data-p-adult="1829" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/paris.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【金线】意大利一地9日游</h3>
@@ -4487,7 +4487,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03972" data-p-adult="1449" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0397" data-p-adult="1449" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/greece.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【粉线】丹麦瑞典挪威三国7日游</h3>
@@ -4517,7 +4517,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="eu-cm03992" data-p-adult="2079" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="eu-cm0399" data-p-adult="2079" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/europe.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>欧洲【粉线】丹麦瑞典挪威三国9日游</h3>
@@ -4550,7 +4550,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;
 
   window.REGION_PLANS.cruise = `
 <div class="rp-banner">
@@ -4668,7 +4668,7 @@ window.REGION_PLANS.australia = `
   </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-                                window.REGION_PLANS.china = `
+                                  window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -5057,34 +5057,22 @@ window.REGION_PLANS.australia = `
       </div>
       <div class="rp-cat" data-cat="含机票特别订制团">
         <div class="rp-cat-title">含机票特别订制团 <span class="rp-arrow">▶</span></div>
-        <div class="rp-group" data-group="西北">
-          <div class="rp-group-title">西北 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group" data-group="全部行程">
+          <div class="rp-group-title">全部行程 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
         <div class="rp-route" data-route="ch-cm0017">中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）</div>
+        <div class="rp-route" data-route="ch-cm0023">中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票</div>
+        <div class="rp-route" data-route="ch-cm0025">中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团12日-包机票</div>
         <div class="rp-route" data-route="ch-cm0027">中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</div>
         <div class="rp-route" data-route="ch-cm0029">中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</div>
         <div class="rp-route" data-route="ch-cm0105">中国超值特惠团 · （澳洲包机票）川藏15天西藏团</div>
-        <div class="rp-custom" data-custom="1" data-board="西北">✨ 私人订制（西北）</div>
-          </div>
-        </div>
-        <div class="rp-group" data-group="西南">
-          <div class="rp-group-title">西南 <span class="rp-arrow">▶</span></div>
-          <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-cm0023">中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票</div>
-        <div class="rp-custom" data-custom="1" data-board="西南">✨ 私人订制（西南）</div>
-          </div>
-        </div>
-        <div class="rp-group" data-group="华北中原">
-          <div class="rp-group-title">华北中原 <span class="rp-arrow">▶</span></div>
-          <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-cm0025">中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团12日-包机票</div>
-        <div class="rp-custom" data-custom="1" data-board="华北中原">✨ 私人订制（华北中原）</div>
+        <div class="rp-custom" data-custom="1" data-board="全部行程">✨ 私人订制（全部行程）</div>
           </div>
         </div>
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="ch-cm00012" data-p-adult="0" data-p-child="1298" data-p-infant="0">
+    <div class="rp-route-pane" data-route="ch-cm0001" data-p-adult="0" data-p-child="1298" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 铂金江南，穿越胡杨林喀什南疆秘境14日（金秋特别团）</h3>
@@ -5133,7 +5121,7 @@ window.REGION_PLANS.australia = `
 8. 旅行社有權適當調整行程及酒店、用餐，以實際走團為准。
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00112" data-p-adult="1098" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0011" data-p-adult="1098" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团</h3>
@@ -5163,7 +5151,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00132" data-p-adult="1098" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0013" data-p-adult="1098" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 穿越胡杨林 喀什南疆秘境 8 日（金秋特别团）</h3>
@@ -5193,7 +5181,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00212" data-p-adult="2798" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0021" data-p-adult="2798" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 史诗画卷 醉美新疆 世界级绝美风光之旅14日（旺季特别团）</h3>
@@ -5223,7 +5211,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00312" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0031" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 绿野仙踪 新疆阿勒泰喀纳斯醉美8日</h3>
@@ -5253,7 +5241,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00332" data-p-adult="798" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0033" data-p-adult="798" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 爱达花城号首航海上丝绸之路 中国+越南+马来西亚+汶莱四国漫游17天</h3>
@@ -5283,7 +5271,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00412" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0041" data-p-adult="1198" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 醉美新疆 禾木喀纳斯可可托海魔鬼城8日（旺季特别团）</h3>
@@ -5313,7 +5301,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00432" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0043" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 铂金江南，醉美新疆 禾木喀纳斯可可托海魔鬼城14日（旺季特别团）</h3>
@@ -5343,7 +5331,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01012" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0101" data-p-adult="2499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 醉美川藏 成都西藏深度11日</h3>
@@ -5373,7 +5361,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01032" data-p-adult="2999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0103" data-p-adult="2999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 醉美川藏 成都西藏深度14日</h3>
@@ -5403,7 +5391,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjil082" data-p-adult="1099" data-p-child="849" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjil08" data-p-adult="1099" data-p-child="849" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 伊犁赛里木草原北疆8天</h3>
@@ -5433,7 +5421,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnsxj142" data-p-adult="1949" data-p-child="1399" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnsxj14" data-p-adult="1949" data-p-child="1399" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 穿越南北疆喀纳斯喀什帕米尔14天</h3>
@@ -5463,7 +5451,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxj082" data-p-adult="1099" data-p-child="849" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxj08" data-p-adult="1099" data-p-child="849" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 喀纳斯可可托海魔鬼城北疆8天</h3>
@@ -5493,7 +5481,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftsxj082" data-p-adult="999" data-p-child="849" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftsxj08" data-p-adult="999" data-p-child="849" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 喀什帕米尔南疆秘境8天</h3>
@@ -5523,7 +5511,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjil132" data-p-adult="1799" data-p-child="1049" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjil13" data-p-adult="1799" data-p-child="1049" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 伊犁喀纳斯全景北疆13天</h3>
@@ -5553,7 +5541,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnsxjil142" data-p-adult="1949" data-p-child="1399" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnsxjil14" data-p-adult="1949" data-p-child="1399" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 南北疆伊犁喀什大环线14天</h3>
@@ -5583,7 +5571,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7xnnsr082" data-p-adult="99" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7xnnsr08" data-p-adult="99" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南・青海梵音丝路14天</h3>
@@ -5613,7 +5601,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxnnsr082" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxnnsr08" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 甘岭天色・青海梵音丝路8天</h3>
@@ -5643,7 +5631,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftsxj0810152" data-p-adult="1098" data-p-child="898" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftsxj081015" data-p-adult="1098" data-p-child="898" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金秋限定买一送一 穿越胡杨林喀什南疆秘境8天</h3>
@@ -5673,7 +5661,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7sxj0810092" data-p-adult="0" data-p-child="1298" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7sxj081009" data-p-adult="0" data-p-child="1298" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 鎏金双域 水韵江南胡杨林喀什南疆14天</h3>
@@ -5703,7 +5691,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj08sp2" data-p-adult="0" data-p-child="1398" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj08sp" data-p-adult="0" data-p-child="1398" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 灿夏秋序 水韵江南阿勒泰喀纳斯北疆14 天-7-9月</h3>
@@ -5733,7 +5721,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxj08sp2" data-p-adult="1198" data-p-child="1098" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxj08sp" data-p-adult="1198" data-p-child="1098" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 夏秋光影 阿勒泰喀纳斯北疆仙境 8 天-7-9月买一送一</h3>
@@ -5763,7 +5751,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxz082" data-p-adult="898" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxz08" data-p-adult="898" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 邂逅南迦巴瓦·圣湖宫殿全览 金秋西藏秘境朝圣8天</h3>
@@ -5793,7 +5781,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7xz082" data-p-adult="198" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7xz08" data-p-adult="198" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 左手烟雨·右手雪山｜横跨东西·世界之巅 水韵江南圣地西藏14天 深度全览</h3>
@@ -5823,7 +5811,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj082" data-p-adult="199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj08" data-p-adult="199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 暑期限定 | 水韵江南喀纳斯魔鬼城北疆14 天</h3>
@@ -5853,7 +5841,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnadhc172" data-p-adult="898" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnadhc17" data-p-adult="898" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 一路向南·爱达花城号四国海上丝路漫游 中国+越南芽庄+马来西亚沙巴+汶莱首航17天</h3>
@@ -5883,7 +5871,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjspnj142" data-p-adult="2798" data-p-child="1699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjspnj14" data-p-adult="2798" data-p-child="1699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 南北疆14日世界级风光绝美之旅【买一送一】</h3>
@@ -5913,7 +5901,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxj0810122" data-p-adult="598" data-p-child="598" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxj081012" data-p-adult="598" data-p-child="598" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 撞色多巴胺！金秋伊犁那拉提·北疆8天 买一送一</h3>
@@ -5943,7 +5931,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj0810122" data-p-adult="0" data-p-child="898" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj081012" data-p-adult="0" data-p-child="898" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 撞色双城记！金秋江南·伊犁那拉提北疆14天</h3>
@@ -5973,7 +5961,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00032" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0003" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 铂金江南 长江新船王极光号/揽月号12日</h3>
@@ -6003,7 +5991,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00052" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0005" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 奢华江南和平饭店-长江新船王揽月号/极光号13日AB团</h3>
@@ -6033,7 +6021,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00072" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0007" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 奢华江南和平饭店-长江新船王揽月号/极光号13日AA团</h3>
@@ -6063,7 +6051,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00532" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0053" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟 长江三峡12日(超豪华洲际酒店升级版)</h3>
@@ -6093,7 +6081,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00672" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0067" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 江南 长江三峡11日</h3>
@@ -6123,7 +6111,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00932" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0093" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 珠江美食，长江美景10日</h3>
@@ -6153,7 +6141,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00952" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0095" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区美食，长江三峡10日</h3>
@@ -6183,7 +6171,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00992" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0099" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 张家界，长江三峡11日</h3>
@@ -6213,7 +6201,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01152" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0115" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 桂林 长江三峡11日</h3>
@@ -6243,7 +6231,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01212" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0121" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门 长江三峡11日</h3>
@@ -6273,7 +6261,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01252" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0125" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 重庆大足石刻 长江三峡10日</h3>
@@ -6303,7 +6291,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyz12h2" data-p-adult="699" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyz12h" data-p-adult="699" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟峨眉乐山都江堰·长江三峡12天 旺季9-10月</h3>
@@ -6333,7 +6321,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthnyz11b2" data-p-adult="899" data-p-child="399" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthnyz11b" data-p-adult="899" data-p-child="399" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 【两个自费】凤凰张家界长江三峡精品11日</h3>
@@ -6363,7 +6351,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnyz112" data-p-adult="49" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnyz11" data-p-adult="49" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·长江三峡11日</h3>
@@ -6393,7 +6381,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcanyu10b2" data-p-adult="999" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcanyu10b" data-p-adult="999" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区 广东长江三峡10天游</h3>
@@ -6423,7 +6411,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcqyz102" data-p-adult="1099" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcqyz10" data-p-adult="1099" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魅力重庆大足武隆长江三峡10天游</h3>
@@ -6453,7 +6441,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyz122" data-p-adult="599" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyz12" data-p-adult="599" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟峨眉乐山都江堰·长江三峡12天</h3>
@@ -6483,7 +6471,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftglyu112" data-p-adult="1099" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftglyu11" data-p-adult="1099" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 山水桂林长江三峡11天</h3>
@@ -6513,7 +6501,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxmnyu112" data-p-adult="1099" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxmnyu11" data-p-adult="1099" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门永定泉州·长江三峡11天</h3>
@@ -6543,7 +6531,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcanyu102" data-p-adult="999" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcanyu10" data-p-adult="999" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味岭南 广东长江三峡10天游</h3>
@@ -6573,7 +6561,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhabyz13ab2" data-p-adult="799" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhabyz13ab" data-p-adult="799" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AB团)至臻江南五星长江行揽月号奢华三峡13天</h3>
@@ -6603,7 +6591,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhabyz13aa2" data-p-adult="899" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhabyz13aa" data-p-adult="899" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AA团)至臻江南五星长江行揽月号奢华三峡13天</h3>
@@ -6633,7 +6621,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyzvh133" data-p-adult="899" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyzvh13" data-p-adult="899" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟重庆洲际悦榕庄揽月/极光号三峡13天-5/11月</h3>
@@ -6663,7 +6651,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyzvh1322" data-p-adult="999" data-p-child="999" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyzvh132" data-p-adult="999" data-p-child="999" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟重庆洲际悦榕庄揽月/极光号三峡13天-9/10月</h3>
@@ -6693,7 +6681,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhva13ab2" data-p-adult="799" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhva13ab" data-p-adult="799" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AB团)至臻江南五星长江行·极光号奢华三峡13天</h3>
@@ -6723,7 +6711,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhva13aa2" data-p-adult="899" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhva13aa" data-p-adult="899" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AA团)至臻江南五星长江行·极光号奢华三峡13天</h3>
@@ -6753,7 +6741,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnyzva122" data-p-adult="599" data-p-child="749" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnyzva12" data-p-adult="599" data-p-child="749" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南五星长江行·极光号壮美三峡12天</h3>
@@ -6783,7 +6771,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12ab2" data-p-adult="299" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12ab" data-p-adult="299" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （AB团）至臻江南和平饭店·长江三峡12天</h3>
@@ -6813,7 +6801,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12aa2" data-p-adult="449" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12aa" data-p-adult="449" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （AA团）至臻江南和平饭店·长江三峡12天</h3>
@@ -6843,7 +6831,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12a2" data-p-adult="249" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12a" data-p-adult="249" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （A团)至臻江南和平饭店·长江三峡12天</h3>
@@ -6873,7 +6861,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00092" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0009" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟成都重庆长新船王揽月号/极光号13日</h3>
@@ -6903,7 +6891,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00512" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0051" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 成都 九寨沟8日(超豪华洲际酒店升级版）</h3>
@@ -6933,7 +6921,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00972" data-p-adult="299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0097" data-p-adult="299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 张家界，凤凰古城7日</h3>
@@ -6963,7 +6951,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01132" data-p-adult="199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0113" data-p-adult="199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 桂林6日</h3>
@@ -6993,7 +6981,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01232" data-p-adult="399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0123" data-p-adult="399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 山城重庆 大足石刻武隆6日</h3>
@@ -7023,7 +7011,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01272" data-p-adult="299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0127" data-p-adult="299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 云南 昆明大理丽江6日</h3>
@@ -7053,7 +7041,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01292" data-p-adult="459" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0129" data-p-adult="459" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 云南 昆明大理丽江 石林7日</h3>
@@ -7083,7 +7071,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzh8h2" data-p-adult="89" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzh8h" data-p-adult="89" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 悦享川西 洲际悦榕庄九寨双遗产奢华8天-9-10月</h3>
@@ -7113,7 +7101,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcq62" data-p-adult="399" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcq6" data-p-adult="399" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魔幻重庆大足武隆天坑双遗6天</h3>
@@ -7143,7 +7131,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftgl62" data-p-adult="189" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftgl6" data-p-adult="189" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 山水桂林阳朔龙腾风情6天</h3>
@@ -7173,7 +7161,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthn7b2" data-p-adult="299" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthn7b" data-p-adult="299" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 【两个自费】凤凰古城张家界精品7天（B线）</h3>
@@ -7203,7 +7191,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftyn62" data-p-adult="299" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftyn6" data-p-adult="299" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 七彩云南大理丽江6天</h3>
@@ -7233,7 +7221,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftyn72" data-p-adult="449" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftyn7" data-p-adult="449" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 七彩云南大理丽江7天</h3>
@@ -7263,7 +7251,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzh82" data-p-adult="0" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzh8" data-p-adult="0" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 悦享川西 洲际悦榕庄九寨双遗产奢华8天（2026年3月起）</h3>
@@ -7293,7 +7281,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhcq62" data-p-adult="299" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhcq6" data-p-adult="299" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 洲际悦榕庄-九寨成都重庆大足武隆12天</h3>
@@ -7323,7 +7311,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyn63" data-p-adult="299" data-p-child="679" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyn6" data-p-adult="299" data-p-child="679" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉昆明大理丽江13天（淡）</h3>
@@ -7353,7 +7341,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyn622" data-p-adult="389" data-p-child="779" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyn62" data-p-adult="389" data-p-child="779" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉昆明大理丽江13天（旺）</h3>
@@ -7383,7 +7371,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhhn7b3" data-p-adult="399" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhhn7b" data-p-adult="399" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉张家界凤凰14天（淡）</h3>
@@ -7413,7 +7401,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhhn7b22" data-p-adult="489" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhhn7b2" data-p-adult="489" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉张家界凤凰14天（旺）</h3>
@@ -7443,7 +7431,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcan6gl62" data-p-adult="399" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcan6gl6" data-p-adult="399" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味岭南桂林阳朔粤桂双秀11天</h3>
@@ -7473,7 +7461,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftckgjzh103" data-p-adult="399" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftckgjzh10" data-p-adult="399" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魔幻重庆・洲际悦榕庄・九寨沟童话 10 天 -淡季</h3>
@@ -7503,7 +7491,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftckgjzh1022" data-p-adult="489" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftckgjzh102" data-p-adult="489" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魔幻重庆・洲际悦榕庄・九寨沟童话 10 天 -9-10月</h3>
@@ -7533,7 +7521,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00352" data-p-adult="798" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0035" data-p-adult="798" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (金钻江南，深圳机器人)马来西亚-文莱-越南-中国香港爱达魔都号游轮16日</h3>
@@ -7563,7 +7551,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00392" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0039" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 铂金江南7日</h3>
@@ -7593,7 +7581,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00452" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0045" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 璀璨金钻~江南奢华8日(A团)</h3>
@@ -7623,7 +7611,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00472" data-p-adult="99" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0047" data-p-adult="99" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 璀璨金钻~江南奢华8日(AA团)</h3>
@@ -7653,7 +7641,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00492" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0049" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 璀璨金钻~江南奢华8日(AB团)</h3>
@@ -7683,7 +7671,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00552" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0055" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，黄山千岛湖9日</h3>
@@ -7713,7 +7701,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00572" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0057" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，婺源望仙谷9日</h3>
@@ -7743,7 +7731,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00592" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0059" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际 海天佛国普陀山9日</h3>
@@ -7773,7 +7761,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00612" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0061" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，九华山9日</h3>
@@ -7803,7 +7791,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00632" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0063" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，泰山曲阜9日</h3>
@@ -7833,7 +7821,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00652" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0065" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，庐山9日</h3>
@@ -7863,7 +7851,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00692" data-p-adult="49" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0069" data-p-adult="49" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金钻江南，爱达魔都号游轮11 日 (A团)</h3>
@@ -7893,7 +7881,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00712" data-p-adult="249" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0071" data-p-adult="249" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金钻江南，爱达魔都号游轮11 日(AA团)</h3>
@@ -7923,7 +7911,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn72" data-p-adult="0" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7" data-p-adult="0" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·美景美食7日游</h3>
@@ -7953,7 +7941,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhs9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhs9a" data-p-adult="49" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·千岛湖黄山9天</h3>
@@ -7983,7 +7971,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aa2" data-p-adult="99" data-p-child="399" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aa" data-p-adult="99" data-p-child="399" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · AA团：深坑洲际/和平饭店-至臻江南美景美食8天</h3>
@@ -8013,7 +8001,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnad113" data-p-adult="249" data-p-child="1298" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnad11" data-p-adult="249" data-p-child="1298" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （AA团）水韵江南爱达魔都号11天</h3>
@@ -8043,7 +8031,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnad1122" data-p-adult="49" data-p-child="1098" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnad112" data-p-adult="49" data-p-child="1098" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （A团）水韵江南爱达魔都号11天</h3>
@@ -8073,7 +8061,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aab2" data-p-adult="0" data-p-child="399" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aab" data-p-adult="0" data-p-child="399" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · AB团：北外滩索菲特/和平饭店-至臻江南美景美食8天</h3>
@@ -8103,7 +8091,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhs9ab2" data-p-adult="49" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnhs9ab" data-p-adult="49" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 外滩索菲特黄山婺源望仙谷九华山九日游</h3>
@@ -8133,7 +8121,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnls9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnls9a" data-p-adult="49" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·奇秀庐山9天</h3>
@@ -8163,7 +8151,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnts9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnts9a" data-p-adult="49" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·泰山曲阜9天</h3>
@@ -8193,7 +8181,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnpu9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnpu9a" data-p-adult="49" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·海天佛国普陀山9天</h3>
@@ -8223,7 +8211,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnjhs9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnjhs9a" data-p-adult="49" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·佛教名山九华山9天</h3>
@@ -8253,7 +8241,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnwy9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnwy9a" data-p-adult="49" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·婺源望仙谷9天</h3>
@@ -8283,7 +8271,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjpjn122" data-p-adult="398" data-p-child="998" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjpjn12" data-p-adult="398" data-p-child="998" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本关东关西水韵江南12天（含日本段自费）</h3>
@@ -8313,7 +8301,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aabcsgd7mi2" data-p-adult="199" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aabcsgd7mi" data-p-adult="199" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金牌米其林-至臻江南广东潮汕奢华美食14天-A团</h3>
@@ -8343,7 +8331,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aabvn62" data-p-adult="199" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aabvn6" data-p-adult="199" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 至臻江南越南双龙湾奢华美食13天</h3>
@@ -8373,7 +8361,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7cq62" data-p-adult="99" data-p-child="548" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7cq6" data-p-adult="99" data-p-child="548" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·魔幻重庆11天</h3>
@@ -8403,7 +8391,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7yn62" data-p-adult="99" data-p-child="549" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjn7yn6" data-p-adult="99" data-p-child="549" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·七彩云南12天</h3>
@@ -8433,7 +8421,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnad162" data-p-adult="798" data-p-child="898" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnad16" data-p-adult="798" data-p-child="898" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 马来西亚 文莱 越南 香港 水韵江南深圳机器人 亚洲巡礼 爱达魔都号 16 天</h3>
@@ -8463,7 +8451,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00372" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0037" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · VIP特别订制团</h3>
@@ -8493,7 +8481,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00732" data-p-adult="259" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0073" data-p-adult="259" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 舌尖广东，珠江美食6日</h3>
@@ -8523,7 +8511,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00752" data-p-adult="169" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0075" data-p-adult="169" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区美食，机器人奇观6日</h3>
@@ -8553,7 +8541,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00772" data-p-adult="179" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0077" data-p-adult="179" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区美食，机器人奇观7日</h3>
@@ -8583,7 +8571,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00792" data-p-adult="259" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0079" data-p-adult="259" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区，广东美食6日</h3>
@@ -8613,7 +8601,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00812" data-p-adult="269" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0081" data-p-adult="269" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区，广东美食7日</h3>
@@ -8643,7 +8631,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00832" data-p-adult="269" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0083" data-p-adult="269" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 潮汕高铁，广东美食7日</h3>
@@ -8673,7 +8661,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00852" data-p-adult="279" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0085" data-p-adult="279" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 潮汕风情，珠江美食8日</h3>
@@ -8703,7 +8691,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00872" data-p-adult="689" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0087" data-p-adult="689" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 香港大湾区 珠江美食8日</h3>
@@ -8733,7 +8721,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00892" data-p-adult="699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0089" data-p-adult="699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 香港潮汕，珠江美食10日</h3>
@@ -8763,7 +8751,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00912" data-p-adult="399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0091" data-p-adult="399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 珠江美食，越南下龙湾10日</h3>
@@ -8793,7 +8781,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01172" data-p-adult="199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0117" data-p-adult="199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门泉州土楼6日</h3>
@@ -8823,7 +8811,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01192" data-p-adult="369" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0119" data-p-adult="369" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门土楼武夷山8日</h3>
@@ -8853,7 +8841,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01312" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0131" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 海南 海口三亚6日</h3>
@@ -8883,7 +8871,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthkcan82" data-p-adult="689" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthkcan8" data-p-adult="689" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 舌尖上的大湾区·香港广东8天</h3>
@@ -8913,7 +8901,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcan62" data-p-adult="259" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcan6" data-p-adult="259" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味岭南 情系珠江广东美食6天</h3>
@@ -8943,7 +8931,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthak62" data-p-adult="599" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthak6" data-p-adult="599" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 天涯海角 海南海口三亚6天</h3>
@@ -8973,7 +8961,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcsgd72" data-p-adult="269" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcsgd7" data-p-adult="269" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 潮汕故里·广东美食高铁7日</h3>
@@ -9003,7 +8991,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcan6b2" data-p-adult="259" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcan6b" data-p-adult="259" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区·广东美食6天</h3>
@@ -9033,7 +9021,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcancs82" data-p-adult="269" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcancs8" data-p-adult="269" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 情归故里·广东珠江潮汕美食8天 含广州-汕头往返高铁</h3>
@@ -9063,7 +9051,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthkcancs102" data-p-adult="689" data-p-child="799" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthkcancs10" data-p-adult="689" data-p-child="799" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 香港大湾区·广东潮汕美食10天 (含香港-广州-汕头-广州高铁)</h3>
@@ -9093,7 +9081,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcan7b2" data-p-adult="269" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcan7b" data-p-adult="269" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区·广东美食7天</h3>
@@ -9123,7 +9111,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxmn62" data-p-adult="199" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxmn6" data-p-adult="199" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 闵韵侨乡·厦门鼓浪屿永定泉州6天</h3>
@@ -9153,7 +9141,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxmn82" data-p-adult="369" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxmn8" data-p-adult="369" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 闵韵世遗·厦门武夷山永定泉州8天</h3>
@@ -9183,7 +9171,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcsgd7mi2" data-p-adult="599" data-p-child="799" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcsgd7mi" data-p-adult="599" data-p-child="799" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金牌米其林广东珠江潮汕游 美食7天</h3>
@@ -9213,7 +9201,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcan6jp62" data-p-adult="588" data-p-child="798" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcan6jp6" data-p-adult="588" data-p-child="798" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 和风粤韵广东日本美食美景11天</h3>
@@ -9243,7 +9231,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01072" data-p-adult="169" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0107" data-p-adult="169" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 北京5日</h3>
@@ -9273,7 +9261,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01092" data-p-adult="199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0109" data-p-adult="199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 北京6日</h3>
@@ -9303,7 +9291,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01112" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0111" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 北京 长江三峡 9日</h3>
@@ -9333,7 +9321,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbj52" data-p-adult="169" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbj5" data-p-adult="169" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 圆梦北京轻松5天</h3>
@@ -9363,7 +9351,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbj62" data-p-adult="199" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbj6" data-p-adult="199" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 圆梦北京轻松6天</h3>
@@ -9393,7 +9381,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbjyu92" data-p-adult="1099" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbjyu9" data-p-adult="1099" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 皇城北京长江三峡9天</h3>
@@ -9423,7 +9411,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbj5xiyns42" data-p-adult="998" data-p-child="898" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbj5xiyns4" data-p-adult="998" data-p-child="898" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 圆梦北京古都西安8天-含北京西安高铁</h3>
@@ -9453,7 +9441,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbjnmg092" data-p-adult="498" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbjnmg09" data-p-adult="498" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 驰骋草原 大漠星辰 北京内蒙古狂欢9天</h3>
@@ -9483,7 +9471,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbjnmg09bj52" data-p-adult="598" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbjnmg09bj5" data-p-adult="598" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 驰骋草原・纵览皇城 北京内蒙古狂欢12天</h3>
@@ -9513,7 +9501,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00152" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0015" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团 10日</h3>
@@ -9543,7 +9531,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01952" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0195" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山东6日</h3>
@@ -9573,7 +9561,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01972" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0197" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）河南5日</h3>
@@ -9603,7 +9591,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01992" data-p-adult="1199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0199" data-p-adult="1199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山西7日</h3>
@@ -9633,7 +9621,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02012" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0201" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）东北四大名城 长白山6日</h3>
@@ -9663,7 +9651,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02032" data-p-adult="1299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0203" data-p-adult="1299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）东北五大名城 长白山7日</h3>
@@ -9693,7 +9681,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02052" data-p-adult="1399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0205" data-p-adult="1399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）东北名城 长白山 漠河9日</h3>
@@ -9723,7 +9711,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftsdns72" data-p-adult="899" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftsdns7" data-p-adult="899" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 好客山东纯玩7日游</h3>
@@ -9753,7 +9741,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftsxns72" data-p-adult="1199" data-p-child="799" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftsxns7" data-p-adult="1199" data-p-child="799" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山西五台山壶口瀑布7天</h3>
@@ -9783,7 +9771,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftdbns62" data-p-adult="999" data-p-child="549" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftdbns6" data-p-adult="999" data-p-child="549" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩长白山东北四大名城6天</h3>
@@ -9813,7 +9801,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftdbns92" data-p-adult="1399" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftdbns9" data-p-adult="1399" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩东北全景长白山漠河北极村9天</h3>
@@ -9843,7 +9831,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftdbsnow10d2" data-p-adult="1798" data-p-child="1398" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftdbsnow10d" data-p-adult="1798" data-p-child="1398" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 2027 冰雪奇缘 东北全景梦幻纯玩10天-长春·吉林·长白山·延吉·雪乡·哈尔滨</h3>
@@ -9873,7 +9861,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00192" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0019" data-p-adult="2499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·金秋揽胜16天</h3>
@@ -9903,7 +9891,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01332" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0133" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）九寨沟 成都乐山峨眉7日（九寨沟高铁体验特别版）</h3>
@@ -9933,7 +9921,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01572" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0157" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界6日</h3>
@@ -9963,7 +9951,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01592" data-p-adult="1099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0159" data-p-adult="1099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界凤凰古城7日</h3>
@@ -9993,7 +9981,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01712" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0171" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）桂林 漓江阳朔5日</h3>
@@ -10023,7 +10011,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01752" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0175" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州黄果树5日</h3>
@@ -10053,7 +10041,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01772" data-p-adult="1499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0177" data-p-adult="1499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州桂林阳朔8日</h3>
@@ -10083,7 +10071,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01792" data-p-adult="1699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0179" data-p-adult="1699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州凤凰张家界9日</h3>
@@ -10113,7 +10101,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01812" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0181" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南香格里拉6日</h3>
@@ -10143,7 +10131,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01832" data-p-adult="1199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0183" data-p-adult="1199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 昆明大理丽江香格里拉7日</h3>
@@ -10173,7 +10161,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01852" data-p-adult="1299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0185" data-p-adult="1299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 昆明大理丽江香格里拉8日</h3>
@@ -10203,7 +10191,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01872" data-p-adult="1199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0187" data-p-adult="1199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 丽江香格里拉泸沽湖9日</h3>
@@ -10233,7 +10221,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01892" data-p-adult="1399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0189" data-p-adult="1399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 丽江香格里拉泸沽湖石林10日</h3>
@@ -10263,7 +10251,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01912" data-p-adult="1699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0191" data-p-adult="1699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州云南 云贵高原9日</h3>
@@ -10293,7 +10281,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01932" data-p-adult="1999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0193" data-p-adult="1999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州云南 云贵高原12日</h3>
@@ -10323,7 +10311,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02252" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0225" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩) 成都5日(超豪华洲际酒店升级版)</h3>
@@ -10353,7 +10341,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02292" data-p-adult="549" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0229" data-p-adult="549" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山城重庆3日</h3>
@@ -10383,7 +10371,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02312" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0231" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山城重庆 武隆天生三桥5日</h3>
@@ -10413,7 +10401,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthnns72" data-p-adult="1099" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthnns7" data-p-adult="1099" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩高铁张家界凤凰7天</h3>
@@ -10443,7 +10431,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthnns6b2" data-p-adult="899" data-p-child="569" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthnns6b" data-p-adult="899" data-p-child="569" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩张家界凤凰6日B线</h3>
@@ -10473,7 +10461,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftkwglns82" data-p-adult="1499" data-p-child="999" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftkwglns8" data-p-adult="1499" data-p-child="999" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩秀丽贵州山水桂林8天</h3>
@@ -10503,7 +10491,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftglns52" data-p-adult="789" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftglns5" data-p-adult="789" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山水桂林画中漓江5日游</h3>
@@ -10533,7 +10521,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftctuns52" data-p-adult="799" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftctuns5" data-p-adult="799" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际 成都都江堰峨眉5天</h3>
@@ -10563,7 +10551,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftkwhnns92" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftkwhnns9" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩秀丽贵州张家界凤凰9天</h3>
@@ -10593,7 +10581,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftkwynns92" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftkwynns9" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云贵高原贵州云南9天</h3>
@@ -10623,7 +10611,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftkwynns122" data-p-adult="1999" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftkwynns12" data-p-adult="1999" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云贵高原贵州云南12天</h3>
@@ -10653,7 +10641,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftkwe52" data-p-adult="999" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftkwe5" data-p-adult="999" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩秀丽贵州5天</h3>
@@ -10683,7 +10671,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns52" data-p-adult="899" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5" data-p-adult="899" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山城重庆武隆天生三桥5天</h3>
@@ -10713,7 +10701,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns32" data-p-adult="549" data-p-child="299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns3" data-p-adult="549" data-p-child="299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山城重庆3天</h3>
@@ -10743,7 +10731,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns62" data-p-adult="999" data-p-child="849" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns6" data-p-adult="999" data-p-child="849" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南昆明大理丽江香格里拉6天</h3>
@@ -10773,7 +10761,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns92" data-p-adult="1199" data-p-child="949" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns9" data-p-adult="1199" data-p-child="949" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南丽江泸沽湖香格里拉9天</h3>
@@ -10803,7 +10791,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns102" data-p-adult="1399" data-p-child="1099" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns10" data-p-adult="1399" data-p-child="1099" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南丽江泸沽湖香格里拉石林10天</h3>
@@ -10833,7 +10821,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhns72" data-p-adult="1099" data-p-child="549" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhns7" data-p-adult="1099" data-p-child="549" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨·峨眉川西环线7天（淡季）</h3>
@@ -10863,7 +10851,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhns7h2" data-p-adult="1249" data-p-child="549" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzhns7h" data-p-adult="1249" data-p-child="549" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨·峨眉川西环线7天（旺季）</h3>
@@ -10893,7 +10881,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5hnns6b2" data-p-adult="1698" data-p-child="1298" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5hnns6b" data-p-adult="1698" data-p-child="1298" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆张家界凤凰10天</h3>
@@ -10923,7 +10911,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5jzhns73" data-p-adult="1698" data-p-child="998" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5jzhns7" data-p-adult="1698" data-p-child="998" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆成都九寨沟高铁11天（淡）</h3>
@@ -10953,7 +10941,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5jzhns722" data-p-adult="1898" data-p-child="998" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5jzhns72" data-p-adult="1898" data-p-child="998" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆成都九寨沟高铁11天（旺）</h3>
@@ -10983,7 +10971,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns72" data-p-adult="1199" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns7" data-p-adult="1199" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南昆明大理丽江香格里拉7日游</h3>
@@ -11013,7 +11001,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns82" data-p-adult="1299" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftynxns8" data-p-adult="1299" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南昆明大理丽江香格里拉石林8日游</h3>
@@ -11043,7 +11031,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftynns132" data-p-adult="2899" data-p-child="2299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftynns13" data-p-adult="2899" data-p-child="2299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【6人成团】2026 云南·全景大满贯13天深度游</h3>
@@ -11073,7 +11061,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftgyjx16d2" data-p-adult="2298" data-p-child="1198" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftgyjx16d" data-p-adult="2298" data-p-child="1198" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 16天穿越两省十六城！ 揽尽金秋贵州，醉美诗意江西</h3>
@@ -11103,7 +11091,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftengl42" data-p-adult="899" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftengl4" data-p-adult="899" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Guilin & Yangshuo 4D3N</h3>
@@ -11133,7 +11121,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftenct32" data-p-adult="830" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftenct3" data-p-adult="830" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Chengdu Panda City 3D2N Tour Tour</h3>
@@ -11163,7 +11151,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftenzj52" data-p-adult="980" data-p-child="820" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftenzj5" data-p-adult="980" data-p-child="820" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Zhangjiajie National Park Adventure 5D4N</h3>
@@ -11193,7 +11181,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01352" data-p-adult="1699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0135" data-p-adult="1699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）九寨沟 长江三峡11日</h3>
@@ -11223,7 +11211,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01612" data-p-adult="1399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0161" data-p-adult="1399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界长江三峡9日</h3>
@@ -11253,7 +11241,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01632" data-p-adult="1699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0163" data-p-adult="1699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界长江三峡11日</h3>
@@ -11283,7 +11271,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01652" data-p-adult="1299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0165" data-p-adult="1299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山城重庆 三峡游轮6日</h3>
@@ -11313,7 +11301,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01672" data-p-adult="1299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0167" data-p-adult="1299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）武汉黄鹤楼 三峡游轮6日</h3>
@@ -11343,7 +11331,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01692" data-p-adult="1299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0169" data-p-adult="1299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）宜昌重庆 三峡游轮6日</h3>
@@ -11373,7 +11361,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01732" data-p-adult="1399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0173" data-p-adult="1399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）桂林 长江三峡9日</h3>
@@ -11403,7 +11391,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02392" data-p-adult="1" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0239" data-p-adult="1" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）世纪游轮“江山如此多娇·山河颂”长江全览11日游</h3>
@@ -11433,7 +11421,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02412" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0241" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）世纪游轮“江山如此多娇·山河颂”长江全览12日游</h3>
@@ -11463,7 +11451,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftwhyz62" data-p-adult="1199" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftwhyz6" data-p-adult="1199" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩武汉黄鹤楼长江三峡（阳台房）6天</h3>
@@ -11493,7 +11481,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcqyz62" data-p-adult="1199" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcqyz6" data-p-adult="1199" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆长江三峡游轮（阳台房）6天游</h3>
@@ -11523,7 +11511,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz112" data-p-adult="1699" data-p-child="1299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz11" data-p-adult="1699" data-p-child="1299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩高铁张家界长江三峡 11 日</h3>
@@ -11553,7 +11541,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz10b2" data-p-adult="1599" data-p-child="1299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz10b" data-p-adult="1599" data-p-child="1299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩精品张家界凤凰长江三峡10天</h3>
@@ -11583,7 +11571,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftglyzns92" data-p-adult="1389" data-p-child="899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftglyzns9" data-p-adult="1389" data-p-child="899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山水桂林长江三峡9天</h3>
@@ -11613,7 +11601,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftycyz62" data-p-adult="1199" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftycyz6" data-p-adult="1199" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩宜昌重庆长江三峡邮轮（阳台房）6天</h3>
@@ -11643,7 +11631,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz9b2" data-p-adult="1399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz9b" data-p-adult="1399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩精品张家界凤凰长江三峡9日</h3>
@@ -11673,7 +11661,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzyzns112" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzyzns11" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨沟长江三峡11天（淡）</h3>
@@ -11703,7 +11691,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjzyzns11h2" data-p-adult="1849" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjzyzns11h" data-p-adult="1849" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨沟长江三峡11天（旺）</h3>
@@ -11733,7 +11721,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftenyz52" data-p-adult="1049" data-p-child="849" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftenyz5" data-p-adult="1049" data-p-child="849" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Yangtze River Cruise 5D4N</h3>
@@ -11763,7 +11751,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01372" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0137" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）大湾区精品美食6日</h3>
@@ -11793,7 +11781,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01392" data-p-adult="2499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0139" data-p-adult="2499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩） 香港潮汕韶关佛山广州超级美食10日游</h3>
@@ -11823,7 +11811,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02332" data-p-adult="879" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0233" data-p-adult="879" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)厦门土楼潮汕6日</h3>
@@ -11853,7 +11841,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02352" data-p-adult="939" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0235" data-p-adult="939" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)厦门土楼潮汕7日</h3>
@@ -11883,7 +11871,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02372" data-p-adult="898" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0237" data-p-adult="898" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）海南岛三亚5天</h3>
@@ -11913,7 +11901,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthk3d2" data-p-adult="599" data-p-child="449" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthk3d" data-p-adult="599" data-p-child="449" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 寻迹香江 纯玩香港精华3天</h3>
@@ -11943,7 +11931,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfthakns52" data-p-adult="898" data-p-child="748" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfthakns5" data-p-adult="898" data-p-child="748" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩椰风海韵·海南度假天堂5天</h3>
@@ -11973,7 +11961,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxmnns62" data-p-adult="749" data-p-child="479" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxmnns6" data-p-adult="749" data-p-child="479" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩海上花园厦门永定土楼潮汕6天</h3>
@@ -12003,7 +11991,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxmnns72" data-p-adult="789" data-p-child="479" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxmnns7" data-p-adult="789" data-p-child="479" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩海上花园厦门永定土楼潮汕7天</h3>
@@ -12033,7 +12021,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftgzans62" data-p-adult="799" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftgzans6" data-p-adult="799" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩粤美大湾区广东美食6天</h3>
@@ -12063,7 +12051,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01412" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0141" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）北京4日</h3>
@@ -12093,7 +12081,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01432" data-p-adult="1299" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0143" data-p-adult="1299" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩）北京西安6日</h3>
@@ -12123,7 +12111,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01452" data-p-adult="1699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0145" data-p-adult="1699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）北京西安上海8日</h3>
@@ -12153,7 +12141,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01472" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0147" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)北京，西安，长江三峡10日</h3>
@@ -12183,7 +12171,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01492" data-p-adult="2399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0149" data-p-adult="2399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）北京西安上海长江三峡12日</h3>
@@ -12213,7 +12201,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01512" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0151" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西安4日</h3>
@@ -12243,7 +12231,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01532" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0153" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)西安，华山5日</h3>
@@ -12273,7 +12261,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01552" data-p-adult="1399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0155" data-p-adult="1399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩）西安，长江三峡8日</h3>
@@ -12303,7 +12291,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns42" data-p-adult="799" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns4" data-p-adult="799" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩古都西安4日游</h3>
@@ -12333,7 +12321,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns52" data-p-adult="999" data-p-child="699" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns5" data-p-adult="999" data-p-child="699" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩古都西安5日游</h3>
@@ -12363,7 +12351,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbjns42" data-p-adult="799" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbjns4" data-p-adult="799" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩皇城古都北京4日</h3>
@@ -12393,7 +12381,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbjns4xiyns42" data-p-adult="1398" data-p-child="998" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbjns4xiyns4" data-p-adult="1398" data-p-child="998" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩双古都北京西安7天（含北京西安高铁二等座）</h3>
@@ -12423,7 +12411,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbxsns82" data-p-adult="1688" data-p-child="1098" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbxsns8" data-p-adult="1688" data-p-child="1098" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京西安上海8天</h3>
@@ -12453,7 +12441,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbjyzns82" data-p-adult="1599" data-p-child="1299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbjyzns8" data-p-adult="1599" data-p-child="1299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京长江三峡8天</h3>
@@ -12483,7 +12471,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns82" data-p-adult="1398" data-p-child="898" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns8" data-p-adult="1398" data-p-child="898" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩古都西安长江三峡8天</h3>
@@ -12513,7 +12501,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbxyzns102" data-p-adult="1898" data-p-child="1098" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbxyzns10" data-p-adult="1898" data-p-child="1098" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京西安长江三峡10天</h3>
@@ -12543,7 +12531,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftbxsyzns122" data-p-adult="2278" data-p-child="1698" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftbxsyzns12" data-p-adult="2278" data-p-child="1698" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京西安上海长江三峡12天</h3>
@@ -12573,7 +12561,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftenxy32" data-p-adult="749" data-p-child="649" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftenxy3" data-p-adult="749" data-p-child="649" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Xi'an 3D2N Tour</h3>
@@ -12603,7 +12591,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02072" data-p-adult="1599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0207" data-p-adult="1599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西藏5日-洲际酒店特别版</h3>
@@ -12633,7 +12621,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02092" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0209" data-p-adult="1899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路 传奇东方高铁7日</h3>
@@ -12663,7 +12651,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02112" data-p-adult="2099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0211" data-p-adult="2099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西安，丝绸之路9日</h3>
@@ -12693,7 +12681,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02132" data-p-adult="2099" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0213" data-p-adult="2099" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路，茶卡盐湖青海湖9日</h3>
@@ -12723,7 +12711,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02152" data-p-adult="2699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0215" data-p-adult="2699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路 青藏铁路 西藏10日</h3>
@@ -12753,7 +12741,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02172" data-p-adult="1799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0217" data-p-adult="1799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆北疆8日</h3>
@@ -12783,7 +12771,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02192" data-p-adult="1799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0219" data-p-adult="1799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆南疆8日</h3>
@@ -12813,7 +12801,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02212" data-p-adult="3399" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0221" data-p-adult="3399" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆南疆北疆全景15日</h3>
@@ -12843,7 +12831,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa62" data-p-adult="1899" data-p-child="1599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa6" data-p-adult="1899" data-p-child="1599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩6天</h3>
@@ -12873,7 +12861,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftlhwlxa102" data-p-adult="2699" data-p-child="1899" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftlhwlxa10" data-p-adult="2699" data-p-child="1899" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路敦煌张掖青海湖西藏10天</h3>
@@ -12903,7 +12891,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfturcns72" data-p-adult="1899" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftfturcns7" data-p-adult="1899" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路新疆传奇西域高铁7天</h3>
@@ -12933,7 +12921,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxnnurcns92" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxnnurcns9" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路茶卡盐湖青海新疆9天</h3>
@@ -12963,7 +12951,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjns082" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjns08" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩乐游北疆 喀纳斯禾木可可托海8天</h3>
@@ -12993,7 +12981,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa52" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa5" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩5天</h3>
@@ -13023,7 +13011,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyurcns92" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyurcns9" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路西安敦煌莫高窟新疆9天</h3>
@@ -13053,7 +13041,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxiylxa112" data-p-adult="3299" data-p-child="2299" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxiylxa11" data-p-adult="3299" data-p-child="2299" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩西安敦煌张掖青海湖西藏11天</h3>
@@ -13083,7 +13071,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftsxjns102" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftsxjns10" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩西域南疆喀什卡湖盘龙古道10天</h3>
@@ -13113,7 +13101,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxjns16d2" data-p-adult="2599" data-p-child="2199" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxjns16d" data-p-adult="2599" data-p-child="2199" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩穿越南北疆全景16天</h3>
@@ -13143,7 +13131,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxjdkns08d2" data-p-adult="1699" data-p-child="1099" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxjdkns08d" data-p-adult="1699" data-p-child="1099" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩新疆独库公路空中草原史诗8天</h3>
@@ -13173,7 +13161,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02232" data-p-adult="599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0223" data-p-adult="599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团·样例</h3>
@@ -13203,7 +13191,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02272" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0227" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩）江南水乡6天</h3>
@@ -13233,7 +13221,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcentury112" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcentury11" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · “世纪游轮”山河颂重庆上海11日游</h3>
@@ -13263,7 +13251,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftcentury122" data-p-adult="0" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftcentury12" data-p-adult="0" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · “世纪游轮”山河颂上海重庆12日游</h3>
@@ -13293,7 +13281,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftjnns62" data-p-adult="999" data-p-child="799" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftftjnns6" data-p-adult="999" data-p-child="799" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩水韵江南逍遥6天</h3>
@@ -13323,7 +13311,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftensh32" data-p-adult="899" data-p-child="749" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftensh3" data-p-adult="899" data-p-child="749" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Shanghai 3D2N Tour</h3>
@@ -13353,7 +13341,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftenhs32" data-p-adult="530" data-p-child="349" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-ftenhs3" data-p-adult="530" data-p-child="349" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Huangshan (Yellow Mt) 3D2N Tour</h3>
@@ -13383,7 +13371,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00172" data-p-adult="2168" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0017" data-p-adult="2168" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">含机票特别订制团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）</h3>
@@ -13413,97 +13401,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00272" data-p-adult="4299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">含机票特别订制团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>18天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00292" data-p-adult="4299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">含机票特别订制团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>17天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01052" data-p-adult="3299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">含机票特别订制团</span>
-        <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （澳洲包机票）川藏15天西藏团</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 3299</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2999</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00232" data-p-adult="3599" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0023" data-p-adult="3599" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">含机票特别订制团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票</h3>
@@ -13533,7 +13431,7 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00252" data-p-adult="3799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ch-cm0025" data-p-adult="3799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">含机票特别订制团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团12日-包机票</h3>
@@ -13563,10 +13461,100 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm0027" data-p-adult="4299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>18天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm0029" data-p-adult="4299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>17天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm0105" data-p-adult="3299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （澳洲包机票）川藏15天西藏团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2999</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;
 
 
 
@@ -13584,7 +13572,7 @@ window.REGION_PLANS.australia = `
 })();
 PROBE_SENTINEL_20260715
 
-                                window.REGION_PLANS.island = `
+                                  window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -13619,7 +13607,7 @@ PROBE_SENTINEL_20260715
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="is-cm03232" data-p-adult="9999" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="is-cm0323" data-p-adult="9999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>斐济定制团</h3>
@@ -13649,7 +13637,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03252" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0325" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>经典豪华巴厘岛5天游</h3>
@@ -13679,7 +13667,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03272" data-p-adult="699" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0327" data-p-adult="699" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>经典巴厘岛4天游-海边四星</h3>
@@ -13709,7 +13697,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03292" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0329" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>经典巴厘岛4天游-海边五星</h3>
@@ -13739,7 +13727,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03312" data-p-adult="799" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0331" data-p-adult="799" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>经典巴厘岛5天游-海边四星</h3>
@@ -13769,7 +13757,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03332" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0333" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>经典巴厘岛5天游-海边五星</h3>
@@ -13799,7 +13787,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03352" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0335" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/island.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>经典巴厘岛6天游-海边四星</h3>
@@ -13829,7 +13817,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03372" data-p-adult="999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0337" data-p-adult="999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/bali.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>经典巴厘岛6天游-海边五星</h3>
@@ -13859,7 +13847,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="is-cm03392" data-p-adult="1999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="is-cm0339" data-p-adult="1999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/fiji.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅</h3>
@@ -13892,7 +13880,7 @@ PROBE_SENTINEL_20260715
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;
 
 
 
@@ -13908,7 +13896,7 @@ PROBE_SENTINEL_20260715
 
 
 
-                                window.REGION_PLANS.america = `
+                                  window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -13956,19 +13944,19 @@ PROBE_SENTINEL_20260715
       </div>
       <div class="rp-cat" data-cat="含机票特别订制团">
         <div class="rp-cat-title">含机票特别订制团 <span class="rp-arrow">▶</span></div>
-        <div class="rp-group" data-group="含机票特别团">
-          <div class="rp-group-title">含机票特别团 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group" data-group="全部行程">
+          <div class="rp-group-title">全部行程 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
         <div class="rp-route" data-route="am-cm0281">【澳洲包机票】美国东西海岸经典17天游</div>
         <div class="rp-route" data-route="am-cm0283">【澳洲包机票】南美七国全景精华24日游</div>
         <div class="rp-route" data-route="am-cm0285">【澳洲包机票】南美经典五国16日狂欢之旅</div>
-        <div class="rp-custom" data-custom="1" data-board="含机票特别团">✨ 私人订制（含机票特别团）</div>
+        <div class="rp-custom" data-custom="1" data-board="全部行程">✨ 私人订制（全部行程）</div>
           </div>
         </div>
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="am-cm02752" data-p-adult="9999" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="am-cm0275" data-p-adult="9999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国加拿大定制团</h3>
@@ -13998,7 +13986,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02772" data-p-adult="9999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0277" data-p-adult="9999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>南美定制团</h3>
@@ -14028,7 +14016,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02792" data-p-adult="8580" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0279" data-p-adult="8580" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】加拿大落基山+美国阿拉斯加15天全景之旅</h3>
@@ -14058,7 +14046,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02872" data-p-adult="1088" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0287" data-p-adult="1088" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国东海岸经典6日</h3>
@@ -14088,7 +14076,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02892" data-p-adult="1288" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0289" data-p-adult="1288" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国东海岸经典7日</h3>
@@ -14118,7 +14106,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02912" data-p-adult="2078" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0291" data-p-adult="2078" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国加拿大东部8日游</h3>
@@ -14148,7 +14136,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02932" data-p-adult="2428" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0293" data-p-adult="2428" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>2025美国加拿大东海岸9日</h3>
@@ -14178,7 +14166,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02952" data-p-adult="1898" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0295" data-p-adult="1898" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国西部经典8日游</h3>
@@ -14208,7 +14196,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02972" data-p-adult="2618" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0297" data-p-adult="2618" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>2025美国加拿大东海岸10日</h3>
@@ -14238,7 +14226,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02992" data-p-adult="2058" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0299" data-p-adult="2058" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国西部经典9日游</h3>
@@ -14268,7 +14256,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03012" data-p-adult="2198" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0301" data-p-adult="2198" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国西部经典10日游</h3>
@@ -14298,7 +14286,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03032" data-p-adult="2228" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0303" data-p-adult="2228" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国西部黄石峡谷9日游</h3>
@@ -14328,7 +14316,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03052" data-p-adult="2398" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0305" data-p-adult="2398" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国西部黄石峡谷10日游</h3>
@@ -14358,7 +14346,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03072" data-p-adult="2758" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0307" data-p-adult="2758" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国东西海岸精华14日游</h3>
@@ -14388,7 +14376,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03092" data-p-adult="3498" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0309" data-p-adult="3498" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美国东西海岸黄石经典15日</h3>
@@ -14418,7 +14406,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03112" data-p-adult="2199" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0311" data-p-adult="2199" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游</h3>
@@ -14448,7 +14436,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03132" data-p-adult="1299" data-p-child="499" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0313" data-p-adult="1299" data-p-child="499" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>加拿大落基山脉6日游</h3>
@@ -14478,7 +14466,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03142" data-p-adult="1499" data-p-child="599" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0314" data-p-adult="1499" data-p-child="599" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>加拿大落基山脉7日游</h3>
@@ -14508,7 +14496,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03152" data-p-adult="1539" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0315" data-p-adult="1539" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>加拿大加东精品6日游-A团</h3>
@@ -14538,7 +14526,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03172" data-p-adult="899" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0317" data-p-adult="899" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>加拿大加东精品6日游-B团</h3>
@@ -14568,7 +14556,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03192" data-p-adult="2339" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0319" data-p-adult="2339" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>美加东名城瀑布9日游</h3>
@@ -14598,7 +14586,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm03212" data-p-adult="9999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0321" data-p-adult="9999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>加拿大定制团</h3>
@@ -14628,7 +14616,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02812" data-p-adult="5999" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0281" data-p-adult="5999" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/canada.jpg')">
         <span class="rp-badge">含机票特别订制团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】美国东西海岸经典17天游</h3>
@@ -14658,7 +14646,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02832" data-p-adult="23499" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0283" data-p-adult="23499" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/usa.jpg')">
         <span class="rp-badge">含机票特别订制团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】南美七国全景精华24日游</h3>
@@ -14688,7 +14676,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="am-cm02852" data-p-adult="16888" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="am-cm0285" data-p-adult="16888" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/america.jpg')">
         <span class="rp-badge">含机票特别订制团</span>
         <div class="rp-detail-hero-in"><h3>【澳洲包机票】南美经典五国16日狂欢之旅</h3>
@@ -14721,7 +14709,7 @@ PROBE_SENTINEL_20260715
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;
 
 
 
@@ -14735,7 +14723,7 @@ PROBE_SENTINEL_20260715
 
 
 
-                              window.REGION_PLANS.other = `
+                                window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -14782,7 +14770,7 @@ PROBE_SENTINEL_20260715
       </div>
   </nav>
   <div class="rp-detail-area">
-    <div class="rp-route-pane" data-route="ot-cm04072" data-p-adult="280" data-p-child="0" data-p-infant="0">
+    <div class="rp-route-pane" data-route="ot-cm0407" data-p-adult="280" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>申根签证</h3>
@@ -14812,7 +14800,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04152" data-p-adult="230" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0415" data-p-adult="230" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/custom.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>台湾入台证-悉尼办理</h3>
@@ -14842,7 +14830,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04252" data-p-adult="300" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0425" data-p-adult="300" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>巴西签证</h3>
@@ -14872,7 +14860,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04012" data-p-adult="200" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0401" data-p-adult="200" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/custom.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>中国签证</h3>
@@ -14902,7 +14890,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04032" data-p-adult="330" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0403" data-p-adult="330" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>日本单次签证</h3>
@@ -14932,7 +14920,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04052" data-p-adult="200" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0405" data-p-adult="200" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/custom.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>韩国签证</h3>
@@ -14962,7 +14950,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04092" data-p-adult="520" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0409" data-p-adult="520" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>英国签证</h3>
@@ -14992,7 +14980,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04112" data-p-adult="540" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0411" data-p-adult="540" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/custom.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>美国签证</h3>
@@ -15022,7 +15010,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04132" data-p-adult="490" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0413" data-p-adult="490" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>加拿大签证</h3>
@@ -15052,7 +15040,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04172" data-p-adult="500" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0417" data-p-adult="500" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/custom.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>澳大利亚签证</h3>
@@ -15082,7 +15070,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04192" data-p-adult="700" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0419" data-p-adult="700" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>新西兰签证</h3>
@@ -15112,7 +15100,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04212" data-p-adult="250" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0421" data-p-adult="250" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/custom.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>土耳其签证</h3>
@@ -15142,7 +15130,7 @@ PROBE_SENTINEL_20260715
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ot-cm04232" data-p-adult="240" data-p-child="0" data-p-infant="0">
+    </div>    <div class="rp-route-pane" data-route="ot-cm0423" data-p-adult="240" data-p-child="0" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/other.jpg')">
         <span class="rp-badge">签证·其他</span>
         <div class="rp-detail-hero-in"><h3>越南签证</h3>
@@ -15175,7 +15163,7 @@ PROBE_SENTINEL_20260715
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;
 
 
 

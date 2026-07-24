@@ -45,11 +45,10 @@ def days_from(d, name):
     m=re.search(r'(\d+)\s*日', str(name)); return (m.group(1)+'天') if m else '待确认'
 
 def rid(region, name, code):
-    base = region[:2] + '-' + (slug(name) if not code else re.sub(r'[^a-z0-9]','', str(code).lower()))
-    r=base; i=1
-    while r in rid.seen: i+=1; r=base+str(i)
-    rid.seen[r]=True; return r
-rid.seen={}
+    # 幂等: route id 直接由 region前缀 + 产品code 决定 (code 唯一), 多次调用返回同一值
+    # 避免 nav 与 pane 各算一次导致 data-route 不一致(右侧空白 bug)
+    code = re.sub(r'[^a-z0-9]','', str(code or '').lower()) if code else re.sub(r'[^一-龥a-zA-Z0-9]','', str(name or ''))[:18]
+    return region[:2] + '-' + code
 
 def board_of(item):
     # 中国用 Web_Category3(板块); 其他大区用 Web_Category2(城市/区域)
@@ -119,7 +118,11 @@ def build_block(region, items):
         cat=it['cat'] or '超值特惠团'
         if cat not in CAT_ORDER: cat='超值特惠团'
         cats.setdefault(cat, OrderedDict())
-        b=board_of(it) or '其他'
+        # 含机票特别订制团: 不按区域板块分, 全部平列到一个组
+        if cat == '含机票特别订制团':
+            b = '全部行程'
+        else:
+            b = board_of(it) or '其他'
         cats[cat].setdefault(b, []).append(it)
     nav=''; panes=''; idx=0
     for cat in CAT_ORDER:
