@@ -99,7 +99,7 @@ def pane(region, item, idx):
     return (
     '    <div class="rp-route-pane" data-route="'+ridv+'" data-p-adult="'+str(int(pa) if pa else 0)+'" data-p-child="'+str(int(pc) if pc else 0)+'" data-p-infant="0">\n'
     '      <div class="rp-detail-hero" style="background-image:url(\''+img+'\')">\n'
-    '        <span class="rp-badge">'+item['cat']+'</span>\n'
+    '        <span class="rp-badge">'+item['cat']+'</span>\n'\
     '        <div class="rp-detail-hero-in"><h3>'+name+'</h3>\n'
     '          <div class="rp-price-row">\n'
     '            <span class="rp-price-item"><b>大人</b> '+pax+'</span>\n'
@@ -223,7 +223,7 @@ feat_line = "window.FEATURED = " + str(feat).replace("'",'"') + ";\n"
 # --- 全量写出 region-plans.js(不依赖旧文件, 避免损坏残留) ---
 # 每个 blocks[k] 已是 '  window.REGION_PLANS.xxx = `...`;' 形式
 body = '\n'.join(blocks[k] for k in MANAGED if k in blocks)
-s = vis_line + feat_line + body + '\n'
+s = "window.REGION_PLANS = window.REGION_PLANS || {};\n" + vis_line + feat_line + body + '\n'
 io.open(JS,'w',encoding='utf-8').write(s)
 
 # 验证写入结果

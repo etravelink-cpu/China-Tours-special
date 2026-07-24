@@ -1,3 +1,4 @@
+window.REGION_PLANS = window.REGION_PLANS || {};
 window.REGION_VISIBLE = ['china', 'asia', 'nz'];
 window.FEATURED = [{"id": "CM-0071", "nameZh": "金钻江南，爱达魔都号游轮11 日(AA团)", "dest": "china", "destZh": "中国", "days": 11, "price": "A$249", "img": "assets/img/destinations/china.jpg", "blurbZh": "中国超值特惠团 · 金钻江南，爱达魔都号游轮11 日(AA团)"}, {"id": "CM-0075", "nameZh": "大湾区美食，机器人奇观6日", "dest": "china", "destZh": "中国", "days": 6, "price": "A$169", "img": "assets/img/destinations/china.jpg", "blurbZh": "中国超值特惠团 · 大湾区美食，机器人奇观6日"}];
   window.REGION_PLANS.china = `
