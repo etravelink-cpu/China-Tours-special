@@ -351,14 +351,14 @@ window.REGION_PLANS.australia = `
         <div><div class="rp-time">13:30 午餐自理</div><div>小镇内自行安排午餐，推荐当地炸鱼薯条、澳式牛排与咖啡甜点。</div></div>
         <div><div class="rp-time">14:30 Featherdale 野生动物园</div><div>澳洲本土生态动物园；特别安排早茶点心，可免费与考拉拍照，近距离接触袋鼠、袋熊等。</div></div>
         <div><div class="rp-time">18:00 返回悉尼市区</div><div>结束行程，送回唐人街/市区酒店解散。</div></div>
-        <div style="font-size:12px;color:#4E6076;margin-top:8px">* 具体行程顺序可能因当天交通、天气情况微调，以导游实际安排为准。</div>
+        <div style="font-size:12px;color:#999;margin-top:8px">* 具体行程顺序可能因当天交通、天气情况微调，以导游实际安排为准。</div>
       </div></section>
       <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#123252">费用包含</strong></p>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
         <ul><li>悉尼市区指定地点往返接送</li><li>11人精品奔驰商务车交通</li><li>全程中文导游服务</li><li>蓝山国家公园门票</li><li>Featherdale 动物园门票</li><li>动物园早茶点心一份</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#123252">费用不含</strong></p>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>全程午餐、个人消费</li><li>景观缆车、索道等自费项目</li><li>导游小费（建议每人5澳元）</li><li>其他一切未提及的费用</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#8F6A1D">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 成团人数：2人成团，11人满团。</p>
@@ -370,7 +370,7 @@ window.REGION_PLANS.australia = `
     <!-- 路线2：史蒂芬港 -->
     <div class="rp-route-pane" data-route="au-stephens">
       <div class="rp-detail-hero" style="background-image:url('assets/img/hero-sydney.jpg')">
-        <span class="rp-badge" style="background:#123252">每周二/四/日发团</span>
+        <span class="rp-badge" style="background:#1B9FE0">每周二/四/日发团</span>
         <div class="rp-detail-hero-in">
           <h3>史蒂芬港观海豚+安娜海湾沙漠一日游</h3>
           <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含游船观光+沙滩体验</span></div>
@@ -402,11 +402,11 @@ window.REGION_PLANS.australia = `
         <div><div class="rp-time">18:30 返回悉尼市区</div><div>结束行程，送回市区集合点解散。</div></div>
       </div></section>
       <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#123252">费用包含</strong></p>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
         <ul><li>悉尼市区往返空调大巴</li><li>海豚观赏游船船票</li><li>全程中文导游服务</li><li>安娜海湾沙丘入场费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#123252">费用不含</strong></p>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>全程午餐、个人消费</li><li>滑沙体验项目费用</li><li>导游小费（建议每人5澳元）</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#8F6A1D">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 发团时间：每周二、周四、周日固定发团，节假日加开班次。</p>
@@ -449,11 +449,11 @@ window.REGION_PLANS.australia = `
         <div><div class="rp-time">17:00 返回悉尼</div><div>结束品酒之旅，送回市区酒店。</div></div>
       </div></section>
       <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#123252">费用包含</strong></p>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
         <ul><li>市区往返交通</li><li>3家酒庄品酒费用</li><li>芝士拼盘一份</li><li>中文导游服务</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#123252">费用不含</strong></p>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>午餐费用</li><li>购酒费用、个人消费</li><li>导游小费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#8F6A1D">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 饮酒需年满18周岁，未满18岁可替换为无酒精饮品。</p>
@@ -464,7 +464,7 @@ window.REGION_PLANS.australia = `
     <!-- 路线4：悉尼市区 -->
     <div class="rp-route-pane" data-route="au-sydney-city">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
-        <span class="rp-badge" style="background:#123252">天天出发 新手首选</span>
+        <span class="rp-badge" style="background:#1B9FE0">天天出发 新手首选</span>
         <div class="rp-detail-hero-in">
           <h3>悉尼市区网红地标打卡一日游</h3>
           <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含渡轮+水族馆门票</span></div>
@@ -497,11 +497,11 @@ window.REGION_PLANS.australia = `
         <div><div class="rp-time">17:30 返回市区解散</div><div>结束行程，送回市中心集合点。</div></div>
       </div></section>
       <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#123252">费用包含</strong></p>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
         <ul><li>全程空调巴士交通</li><li>悉尼水族馆门票</li><li>海港渡轮船票</li><li>中文导游服务</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#123252">费用不含</strong></p>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>全程午餐、个人消费</li><li>歌剧院内部参观</li><li>导游小费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#8F6A1D">参考市场价：</strong>成人 A$139 起（儿童价待核）。</p>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$139 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 天天发团，2人即可成行。</p>
@@ -544,11 +544,11 @@ window.REGION_PLANS.australia = `
         <div><div class="rp-time">22:30 返回悉尼</div><div>结束行程，送回市区酒店。</div></div>
       </div></section>
       <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#123252">费用包含</strong></p>
+        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
         <ul><li>市区往返商务车接送</li><li>专业天文向导服务</li><li>高倍天文望远镜使用</li><li>夜间热饮与小食</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#123252">费用不含</strong></p>
+        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
         <ul><li>晚餐费用</li><li>个人消费</li><li>向导小费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#8F6A1D">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
+        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
       </div></section>
       <section class="rp-sec"><h4>预订须知</h4><div>
         <p style="margin:0 0 6px">1. 每周二、四、六发团，6人满团，建议提前预订。</p>
@@ -2295,9 +2295,9 @@ window.REGION_PLANS.australia = `
   </div>
 
 
-  <p class="rp-banner-credit" style="color:#4E6076;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
 
-                    window.REGION_PLANS.asia = `
+                              window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -3544,7 +3544,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;
 
 
 
@@ -3560,7 +3560,7 @@ window.REGION_PLANS.australia = `
 
 
 
-      window.REGION_PLANS.europe = `
+                window.REGION_PLANS.europe = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/europe.jpg')"></div>
@@ -4550,7 +4550,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;
 
   window.REGION_PLANS.cruise = `
 <div class="rp-banner">
@@ -4574,101 +4574,101 @@ window.REGION_PLANS.australia = `
   </nav>
   <div class="rp-content">
     <div class="rp-panel active" data-rp="0">
-<h3 style="color: #123252; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #123252;">一、短途休闲航线（2-4晚 澳洲本土出发）</h3>
-  <p style="color:#4E6076; margin: 0 0 16px 0;">主打短假期轻松度假，2-4晚短途航程，从悉尼、布里斯班就近出发，覆盖周边海岸、海岛与城市连线，适合周末出行、小长假休闲与邮轮初体验，价格友好、选择丰富。</p>
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">一、短途休闲航线（2-4晚 澳洲本土出发）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">主打短假期轻松度假，2-4晚短途航程，从悉尼、布里斯班就近出发，覆盖周边海岸、海岛与城市连线，适合周末出行、小长假休闲与邮轮初体验，价格友好、选择丰富。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心航线一览</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #123252; color: #fff;">
+    <thead><tr style="background: #279EE6; color: #fff;">
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">航线主题</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">邮轮与出发信息</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 36%;">核心亮点与停靠</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">参考价格 (AUD)</th>
     </tr></thead>
     <tbody>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">悉尼3晚逍遥游</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋圣歌号<br>2026.11.20 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">全新豪华邮轮，海上休闲度假，全程吃喝玩乐一价包含，适合周末短途放松</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $978/人<br>四人房 $786/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">布里斯班3晚逍遥游</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋量子号<br>2026.11.06 布里斯班出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">量子系列豪华邮轮，丰富娱乐设施与餐饮选择，短途海上度假体验佳</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $783/人<br>四人房 $631/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">布里斯班3晚趣味逍遥游</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Encounter<br>2026.09.11 布里斯班出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">欢乐型邮轮，派对氛围浓厚，适合年轻群体、朋友出行，性价比极高</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $632/人<br>四人房 $400/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">布里斯班3晚圣诞逍遥游</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Encounter<br>2026.12.27 布里斯班出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">圣诞主题航次，节日氛围浓郁，海上跨年度假，适合家庭节日出行</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $673/人<br>四人房 $440/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">布里斯班4晚艾尔利海滩航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Encounter<br>2027.01.23 布里斯班出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">停靠艾尔利海滩，可衔接大堡礁圣灵群岛游玩，海岛+邮轮双重体验</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $594/人<br>四人房 $377/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">悉尼4晚霍巴特航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">诺唯真邮轮<br>Norwegian Spirit<br>2027.01.06 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">船费已含小费，停靠塔斯马尼亚霍巴特，体验塔州风光与澳南海岸景色</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1536/人<br>单人房 $2348/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">布里斯班-悉尼 2晚连线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">公主邮轮<br>Crown Princess<br>2026.11.02 布里斯班出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">高端舒适型邮轮，两城海上连线，可搭配两地陆地行程，灵活便捷</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $349/人<br>四人房 $276/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">悉尼-布里斯班 2晚连线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">公主邮轮<br>Grand Princess<br>2026.12.09 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">东海岸海上通勤，公主级优质服务，价格亲民，适合搭配东海岸行程</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $224/人<br>四人房 $178/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">悉尼3晚逍遥游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋圣歌号<br>2026.11.20 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全新豪华邮轮，海上休闲度假，全程吃喝玩乐一价包含，适合周末短途放松</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $978/人<br>四人房 $786/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布里斯班3晚逍遥游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋量子号<br>2026.11.06 布里斯班出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">量子系列豪华邮轮，丰富娱乐设施与餐饮选择，短途海上度假体验佳</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $783/人<br>四人房 $631/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布里斯班3晚趣味逍遥游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Encounter<br>2026.09.11 布里斯班出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">欢乐型邮轮，派对氛围浓厚，适合年轻群体、朋友出行，性价比极高</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $632/人<br>四人房 $400/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布里斯班3晚圣诞逍遥游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Encounter<br>2026.12.27 布里斯班出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">圣诞主题航次，节日氛围浓郁，海上跨年度假，适合家庭节日出行</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $673/人<br>四人房 $440/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布里斯班4晚艾尔利海滩航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Encounter<br>2027.01.23 布里斯班出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">停靠艾尔利海滩，可衔接大堡礁圣灵群岛游玩，海岛+邮轮双重体验</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $594/人<br>四人房 $377/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">悉尼4晚霍巴特航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">诺唯真邮轮<br>Norwegian Spirit<br>2027.01.06 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">船费已含小费，停靠塔斯马尼亚霍巴特，体验塔州风光与澳南海岸景色</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1536/人<br>单人房 $2348/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">布里斯班-悉尼 2晚连线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">公主邮轮<br>Crown Princess<br>2026.11.02 布里斯班出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">高端舒适型邮轮，两城海上连线，可搭配两地陆地行程，灵活便捷</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $349/人<br>四人房 $276/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">悉尼-布里斯班 2晚连线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">公主邮轮<br>Grand Princess<br>2026.12.09 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">东海岸海上通勤，公主级优质服务，价格亲民，适合搭配东海岸行程</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $224/人<br>四人房 $178/人</td></tr>
     </tbody>
   </table>
 
   <!-- 二、中长航线（7-14晚 澳新/南太平洋） -->
     </div>
     <div class="rp-panel" data-rp="1">
-<h3 style="color: #123252; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #123252;">二、中长航线（7-14晚 澳新/南太平洋/昆士兰）</h3>
-  <p style="color:#4E6076; margin: 0 0 16px 0;">7-14晚中长航程，从悉尼、布里斯班出发，覆盖新西兰南岛峡湾、南太平洋海岛、昆士兰海岸、南澳全景等核心目的地，是长假度假、深度邮轮体验的主流选择，覆盖多家主流邮轮公司不同定位。</p>
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">二、中长航线（7-14晚 澳新/南太平洋/昆士兰）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">7-14晚中长航程，从悉尼、布里斯班出发，覆盖新西兰南岛峡湾、南太平洋海岛、昆士兰海岸、南澳全景等核心目的地，是长假度假、深度邮轮体验的主流选择，覆盖多家主流邮轮公司不同定位。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心航线一览</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #123252; color: #fff;">
+    <thead><tr style="background: #279EE6; color: #fff;">
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">航线主题</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">邮轮与出发信息</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 36%;">核心亮点与停靠</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">参考价格 (AUD)</th>
     </tr></thead>
     <tbody>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">9晚南太平洋群岛</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋圣歌号<br>2026.11.23 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">停靠维拉港、努美阿、神秘岛，热带海岛风情，海水澄澈，适合休闲度假</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1665/人<br>四人房 $1471/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">9晚新西兰峡湾航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋圣歌号<br>2026.12.28 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">停靠皮克顿、基督城，穿越米尔福德峡湾、神奇峡湾、达斯奇峡湾，自然风光顶级</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $3135/人<br>四人房 $3027/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">8晚南太平洋群岛</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋量子号<br>2026.12.12 布里斯班出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">南太平洋经典海岛连线，圣诞假期航次，热带海岛度假氛围浓郁</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1469/人<br>四人房 $1801/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">7晚昆士兰海岸航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋量子号<br>2027.02.19 布里斯班出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">沿昆士兰海岸北上，体验热带海岸风光，夏季航次气候舒适</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1322/人<br>四人房 $1255/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">11晚昆士兰航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">精致邮轮<br>Celebrity Edge<br>2026.12.01 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">高端奢华邮轮，船费含小费，深度游览昆士兰海岸线，服务与餐饮品质出众</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $2550/人<br>四人房 $1874/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">12晚南太平洋群岛</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">精致邮轮<br>Celebrity Edge<br>2027.01.02 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">高端邮轮体验，船费含小费，深度巡游南太平洋多岛，新年假期专属航次</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $2684/人<br>四人房 $2206/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">10晚南太平洋群岛</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Adventure<br>2027.11.15 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">欢乐型邮轮，高性价比，南太平洋多海岛停靠，适合家庭度假出行</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1069/人<br>四人房 $845/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">9晚南太平洋群岛</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Splendor<br>2027.02.04 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">夏季航次，热带海岛度假，娱乐设施丰富，性价比之选</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $971/人<br>四人房 $707/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">11晚南澳全景航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">诺唯真邮轮<br>Norwegian Spirit<br>2027.01.10 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">船费含小费，环游南澳大利亚海岸，深度体验南部海岸风光</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $3169/人<br>单人房 $4525/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">9晚昆士兰航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">公主邮轮<br>Grand Princess<br>2026.11.30 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">经典高端邮轮，优质服务与餐饮，北上昆士兰海岸，行程舒适舒缓</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1371/人<br>四人房 $924/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">14晚南澳探索航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">荷美邮轮<br>ms Noordam<br>2026.12.20 悉尼出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">高端典雅邮轮，深度探索南澳大利亚全境，圣诞假期专属长航线</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">三人房 $3327/人<br>四人房 $3273/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">9晚南太平洋群岛</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋圣歌号<br>2026.11.23 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">停靠维拉港、努美阿、神秘岛，热带海岛风情，海水澄澈，适合休闲度假</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1665/人<br>四人房 $1471/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">9晚新西兰峡湾航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋圣歌号<br>2026.12.28 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">停靠皮克顿、基督城，穿越米尔福德峡湾、神奇峡湾、达斯奇峡湾，自然风光顶级</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $3135/人<br>四人房 $3027/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">8晚南太平洋群岛</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋量子号<br>2026.12.12 布里斯班出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">南太平洋经典海岛连线，圣诞假期航次，热带海岛度假氛围浓郁</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1469/人<br>四人房 $1801/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7晚昆士兰海岸航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">皇家加勒比<br>海洋量子号<br>2027.02.19 布里斯班出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">沿昆士兰海岸北上，体验热带海岸风光，夏季航次气候舒适</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1322/人<br>四人房 $1255/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">11晚昆士兰航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">精致邮轮<br>Celebrity Edge<br>2026.12.01 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">高端奢华邮轮，船费含小费，深度游览昆士兰海岸线，服务与餐饮品质出众</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $2550/人<br>四人房 $1874/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">12晚南太平洋群岛</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">精致邮轮<br>Celebrity Edge<br>2027.01.02 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">高端邮轮体验，船费含小费，深度巡游南太平洋多岛，新年假期专属航次</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $2684/人<br>四人房 $2206/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">10晚南太平洋群岛</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Adventure<br>2027.11.15 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">欢乐型邮轮，高性价比，南太平洋多海岛停靠，适合家庭度假出行</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1069/人<br>四人房 $845/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">9晚南太平洋群岛</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">嘉年华邮轮<br>Carnival Splendor<br>2027.02.04 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">夏季航次，热带海岛度假，娱乐设施丰富，性价比之选</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $971/人<br>四人房 $707/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">11晚南澳全景航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">诺唯真邮轮<br>Norwegian Spirit<br>2027.01.10 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">船费含小费，环游南澳大利亚海岸，深度体验南部海岸风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $3169/人<br>单人房 $4525/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">9晚昆士兰航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">公主邮轮<br>Grand Princess<br>2026.11.30 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">经典高端邮轮，优质服务与餐饮，北上昆士兰海岸，行程舒适舒缓</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1371/人<br>四人房 $924/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">14晚南澳探索航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">荷美邮轮<br>ms Noordam<br>2026.12.20 悉尼出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">高端典雅邮轮，深度探索南澳大利亚全境，圣诞假期专属长航线</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">三人房 $3327/人<br>四人房 $3273/人</td></tr>
     </tbody>
   </table>
 
   <!-- 三、国际远洋航线（全球目的地） -->
     </div>
     <div class="rp-panel" data-rp="2">
-<h3 style="color: #123252; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #123252;">三、国际远洋航线（全球目的地）</h3>
-  <p style="color:#4E6076; margin: 0 0 16px 0;">覆盖欧洲、阿拉斯加、东南亚、地中海等全球热门邮轮目的地，包含小型奢华邮轮、顶级远洋邮轮与新锐品牌，适配深度邮轮玩家、环球度假与小众目的地体验需求。</p>
+<h3 style="color: #279EE6; font-size: 20px; margin: 36px 0 8px 0; padding-bottom: 6px; border-bottom: 2px solid #279EE6;">三、国际远洋航线（全球目的地）</h3>
+  <p style="color: #666; margin: 0 0 16px 0;">覆盖欧洲、阿拉斯加、东南亚、地中海等全球热门邮轮目的地，包含小型奢华邮轮、顶级远洋邮轮与新锐品牌，适配深度邮轮玩家、环球度假与小众目的地体验需求。</p>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">核心航线一览</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #123252; color: #fff;">
+    <thead><tr style="background: #279EE6; color: #fff;">
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">航线主题</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 22%;">邮轮与出发信息</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 36%;">核心亮点与停靠</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">参考价格 (AUD)</th>
     </tr></thead>
     <tbody>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">7晚土耳其&希腊</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">Azamara精钻邮轮<br>Azamara Onward<br>2026.09.12 雅典出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">小型奢华邮轮，深度停靠地中海小众港口，体验爱琴海与土耳其风情</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $3144/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">11晚里斯本-巴塞罗那</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">Azamara精钻邮轮<br>Azamara Onward<br>2026.11.17 里斯本出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">伊比利亚半岛西海岸巡游，小型邮轮停靠小众港口，深度体验伊比利亚文化</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $4873/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">10晚阿拉斯加&加拿大</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">冠达邮轮<br>Queen Elizabeth<br>2026.08.10 西雅图出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">顶级英式奢华邮轮，阿拉斯加冰川与加拿大西海岸风光，夏季赏冰川最佳</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1841/人<br>四人房 $1543/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">7晚挪威峡湾</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">冠达邮轮<br>Queen Anne<br>2027.09.24 南安普顿出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">全新旗舰邮轮，巡游挪威峡湾，体验北欧山海奇观与英式邮轮服务</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1619/人<br>四人房 $1567/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">14晚香港-新加坡</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">荷美邮轮<br>ms Westerdam<br>2026.12.20 香港出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">东南亚南洋航线，串联南海多国港口，圣诞假期航次，体验东南亚风情</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $2889/人<br>四人房 $2442/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">14晚阿拉斯加&加拿大</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">荷美邮轮<br>ms Noordam<br>2027.08.22 西雅图出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">深度阿拉斯加航线，更长时间体验冰川、峡湾与北美西北海岸风光</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1331/人<br>四人房 $2078/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">7晚法国/意大利/突尼斯</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">MSC地中海邮轮<br>MSC Euribia<br>2026.12.12 巴塞罗那出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">地中海环线，覆盖南法、意大利与北非突尼斯，体验多元地中海文化</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1013/人<br>四人房 $935/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">7晚希腊爱琴海</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">MSC地中海邮轮<br>MSC Sinfonia<br>2026.09.19 巴里出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">爱琴海列岛巡游，打卡希腊多座经典海岛，体验蓝白地中海风情</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1559/人<br>四人房 $1306/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">7晚意/马/西/法地中海</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">MSC地中海邮轮<br>MSC Seaview<br>2027.06.23 那不勒斯出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">地中海四国连线，可上岸游览庞贝、卡普里岛等知名景点，夏季航次体验佳</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $2269/人<br>四人房 $1964/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">6晚百慕大</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">维珍邮轮<br>Valiant Lady<br>2026.10.07 纽约出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">新锐成人向邮轮，主打潮流度假体验，百慕大粉色沙滩与海岛度假</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $1203/人<br>单人房 $1970/人</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">11晚希腊&土耳其</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">维珍邮轮<br>Scarlet Lady<br>2027.07.21 雅典出发</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">潮流奢华邮轮，深度爱琴海与土耳其海岸巡游，夏季度假体验出众</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">双人房 $2813/人<br>单人房 $5026/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7晚土耳其&希腊</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Azamara精钻邮轮<br>Azamara Onward<br>2026.09.12 雅典出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">小型奢华邮轮，深度停靠地中海小众港口，体验爱琴海与土耳其风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $3144/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">11晚里斯本-巴塞罗那</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">Azamara精钻邮轮<br>Azamara Onward<br>2026.11.17 里斯本出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">伊比利亚半岛西海岸巡游，小型邮轮停靠小众港口，深度体验伊比利亚文化</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $4873/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">10晚阿拉斯加&加拿大</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冠达邮轮<br>Queen Elizabeth<br>2026.08.10 西雅图出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">顶级英式奢华邮轮，阿拉斯加冰川与加拿大西海岸风光，夏季赏冰川最佳</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1841/人<br>四人房 $1543/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7晚挪威峡湾</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">冠达邮轮<br>Queen Anne<br>2027.09.24 南安普顿出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全新旗舰邮轮，巡游挪威峡湾，体验北欧山海奇观与英式邮轮服务</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1619/人<br>四人房 $1567/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">14晚香港-新加坡</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">荷美邮轮<br>ms Westerdam<br>2026.12.20 香港出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">东南亚南洋航线，串联南海多国港口，圣诞假期航次，体验东南亚风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $2889/人<br>四人房 $2442/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">14晚阿拉斯加&加拿大</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">荷美邮轮<br>ms Noordam<br>2027.08.22 西雅图出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度阿拉斯加航线，更长时间体验冰川、峡湾与北美西北海岸风光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1331/人<br>四人房 $2078/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7晚法国/意大利/突尼斯</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">MSC地中海邮轮<br>MSC Euribia<br>2026.12.12 巴塞罗那出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">地中海环线，覆盖南法、意大利与北非突尼斯，体验多元地中海文化</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1013/人<br>四人房 $935/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7晚希腊爱琴海</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">MSC地中海邮轮<br>MSC Sinfonia<br>2026.09.19 巴里出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">爱琴海列岛巡游，打卡希腊多座经典海岛，体验蓝白地中海风情</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1559/人<br>四人房 $1306/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">7晚意/马/西/法地中海</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">MSC地中海邮轮<br>MSC Seaview<br>2027.06.23 那不勒斯出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">地中海四国连线，可上岸游览庞贝、卡普里岛等知名景点，夏季航次体验佳</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $2269/人<br>四人房 $1964/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">6晚百慕大</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">维珍邮轮<br>Valiant Lady<br>2026.10.07 纽约出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">新锐成人向邮轮，主打潮流度假体验，百慕大粉色沙滩与海岛度假</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $1203/人<br>单人房 $1970/人</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">11晚希腊&土耳其</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">维珍邮轮<br>Scarlet Lady<br>2027.07.21 雅典出发</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">潮流奢华邮轮，深度爱琴海与土耳其海岸巡游，夏季度假体验出众</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">双人房 $2813/人<br>单人房 $5026/人</td></tr>
     </tbody>
   </table>
   <h4 style="font-size: 16px; margin: 20px 0 10px 0;">经典选线组合</h4>
   <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-    <thead><tr style="background: #F2EDE3; color: #123252;">
+    <thead><tr style="background: #f0f7fc; color: #279EE6;">
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 20%;">方案名称</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 55%;">行程安排</th>
       <th style="padding: 10px 12px; text-align: left; font-weight: normal; width: 25%;">适配场景</th>
     </tr></thead>
     <tbody>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">周末短途体验款</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">3-4晚悉尼/布里斯班出发短途航线 → 可衔接出发城市1-2天陆地观光</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">小长假、周末出行、邮轮初体验</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">海岛度假休闲款</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">9-12晚南太平洋群岛航线 → 可延伸出发城市陆地行程</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">长假度假、家庭出行、热带海岛休闲</td></tr>
-      <tr><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">全景深度环球款</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">10+晚国际远洋航线（欧洲/阿拉斯加/东南亚）→ 可搭配目的地陆地深度游</td><td style="border: 1px solid #E5DFD3; padding: 10px 12px; vertical-align: top;">深度邮轮玩家、环球度假、小众目的地体验</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">周末短途体验款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">3-4晚悉尼/布里斯班出发短途航线 → 可衔接出发城市1-2天陆地观光</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">小长假、周末出行、邮轮初体验</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">海岛度假休闲款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">9-12晚南太平洋群岛航线 → 可延伸出发城市陆地行程</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">长假度假、家庭出行、热带海岛休闲</td></tr>
+      <tr><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">全景深度环球款</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">10+晚国际远洋航线（欧洲/阿拉斯加/东南亚）→ 可搭配目的地陆地深度游</td><td style="border: 1px solid #e0e0e0; padding: 10px 12px; vertical-align: top;">深度邮轮玩家、环球度假、小众目的地体验</td></tr>
     </tbody>
   </table>
     </div>
   </div>
 
-  <p class="rp-banner-credit" style="color:#4E6076;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-                    window.REGION_PLANS.china = `
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
+                              window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -4691,7 +4691,6 @@ window.REGION_PLANS.australia = `
         <div class="rp-route" data-route="ch-cm0001">中国超值特惠团 · 铂金江南，穿越胡杨林喀什南疆秘境14日（金秋特别团）</div>
         <div class="rp-route" data-route="ch-cm0011">中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团</div>
         <div class="rp-route" data-route="ch-cm0013">中国超值特惠团 · 穿越胡杨林 喀什南疆秘境 8 日（金秋特别团）</div>
-        <div class="rp-route" data-route="ch-cm0017">中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）</div>
         <div class="rp-route" data-route="ch-cm0021">中国超值特惠团 · 史诗画卷 醉美新疆 世界级绝美风光之旅14日（旺季特别团）</div>
         <div class="rp-route" data-route="ch-cm0031">中国超值特惠团 · 绿野仙踪 新疆阿勒泰喀纳斯醉美8日</div>
         <div class="rp-route" data-route="ch-cm0033">中国超值特惠团 · 爱达花城号首航海上丝绸之路 中国+越南+马来西亚+汶莱四国漫游17天</div>
@@ -4699,7 +4698,6 @@ window.REGION_PLANS.australia = `
         <div class="rp-route" data-route="ch-cm0043">中国超值特惠团 · 铂金江南，醉美新疆 禾木喀纳斯可可托海魔鬼城14日（旺季特别团）</div>
         <div class="rp-route" data-route="ch-cm0101">中国超值特惠团 · 醉美川藏 成都西藏深度11日</div>
         <div class="rp-route" data-route="ch-cm0103">中国超值特惠团 · 醉美川藏 成都西藏深度14日</div>
-        <div class="rp-route" data-route="ch-cm0105">中国超值特惠团 · （澳洲包机票）川藏15天西藏团</div>
         <div class="rp-route" data-route="ch-ftftnxjil08">中国超值特惠团 · 伊犁赛里木草原北疆8天</div>
         <div class="rp-route" data-route="ch-ftftnsxj14">中国超值特惠团 · 穿越南北疆喀纳斯喀什帕米尔14天</div>
         <div class="rp-route" data-route="ch-ftftnxj08">中国超值特惠团 · 喀纳斯可可托海魔鬼城北疆8天</div>
@@ -4883,7 +4881,6 @@ window.REGION_PLANS.australia = `
           <div class="rp-group-title">华北中原 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
         <div class="rp-route" data-route="ch-cm0015">中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团 10日</div>
-        <div class="rp-route" data-route="ch-cm0025">中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团12日-包机票</div>
         <div class="rp-route" data-route="ch-cm0195">中国纯玩无购物团 · （纯玩）山东6日</div>
         <div class="rp-route" data-route="ch-cm0197">中国纯玩无购物团 · （纯玩）河南5日</div>
         <div class="rp-route" data-route="ch-cm0199">中国纯玩无购物团 · （纯玩）山西7日</div>
@@ -4902,7 +4899,6 @@ window.REGION_PLANS.australia = `
           <div class="rp-group-title">西南 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
         <div class="rp-route" data-route="ch-cm0019">中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·金秋揽胜16天</div>
-        <div class="rp-route" data-route="ch-cm0023">中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票</div>
         <div class="rp-route" data-route="ch-cm0133">中国纯玩无购物团 · （纯玩）九寨沟 成都乐山峨眉7日（九寨沟高铁体验特别版）</div>
         <div class="rp-route" data-route="ch-cm0157">中国纯玩无购物团 · （纯玩）张家界6日</div>
         <div class="rp-route" data-route="ch-cm0159">中国纯玩无购物团 · （纯玩）张家界凤凰古城7日</div>
@@ -4947,33 +4943,6 @@ window.REGION_PLANS.australia = `
         <div class="rp-route" data-route="ch-ftenct3">中国纯玩无购物团 · Chengdu Panda City 3D2N Tour Tour</div>
         <div class="rp-route" data-route="ch-ftenzj5">中国纯玩无购物团 · Zhangjiajie National Park Adventure 5D4N</div>
         <div class="rp-custom" data-custom="1" data-board="西南">✨ 私人订制（西南）</div>
-          </div>
-        </div>
-        <div class="rp-group" data-group="西北">
-          <div class="rp-group-title">西北 <span class="rp-arrow">▶</span></div>
-          <div class="rp-group-list">
-        <div class="rp-route" data-route="ch-cm0027">中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</div>
-        <div class="rp-route" data-route="ch-cm0029">中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</div>
-        <div class="rp-route" data-route="ch-cm0207">中国纯玩无购物团 · （纯玩）西藏5日-洲际酒店特别版</div>
-        <div class="rp-route" data-route="ch-cm0209">中国纯玩无购物团 · （纯玩）丝绸之路 传奇东方高铁7日</div>
-        <div class="rp-route" data-route="ch-cm0211">中国纯玩无购物团 · （纯玩）西安，丝绸之路9日</div>
-        <div class="rp-route" data-route="ch-cm0213">中国纯玩无购物团 · （纯玩）丝绸之路，茶卡盐湖青海湖9日</div>
-        <div class="rp-route" data-route="ch-cm0215">中国纯玩无购物团 · （纯玩）丝绸之路 青藏铁路 西藏10日</div>
-        <div class="rp-route" data-route="ch-cm0217">中国纯玩无购物团 · （纯玩）新疆北疆8日</div>
-        <div class="rp-route" data-route="ch-cm0219">中国纯玩无购物团 · （纯玩）新疆南疆8日</div>
-        <div class="rp-route" data-route="ch-cm0221">中国纯玩无购物团 · （纯玩）新疆南疆北疆全景15日</div>
-        <div class="rp-route" data-route="ch-ftftlxa6">中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩6天</div>
-        <div class="rp-route" data-route="ch-ftftlhwlxa10">中国纯玩无购物团 · 纯玩丝路敦煌张掖青海湖西藏10天</div>
-        <div class="rp-route" data-route="ch-ftfturcns7">中国纯玩无购物团 · 纯玩丝路新疆传奇西域高铁7天</div>
-        <div class="rp-route" data-route="ch-ftftxnnurcns9">中国纯玩无购物团 · 纯玩丝路茶卡盐湖青海新疆9天</div>
-        <div class="rp-route" data-route="ch-ftftnxjns08">中国纯玩无购物团 · 纯玩乐游北疆 喀纳斯禾木可可托海8天</div>
-        <div class="rp-route" data-route="ch-ftftlxa5">中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩5天</div>
-        <div class="rp-route" data-route="ch-ftftxiyurcns9">中国纯玩无购物团 · 纯玩丝路西安敦煌莫高窟新疆9天</div>
-        <div class="rp-route" data-route="ch-ftftxiylxa11">中国纯玩无购物团 · 纯玩西安敦煌张掖青海湖西藏11天</div>
-        <div class="rp-route" data-route="ch-ftftsxjns10">中国纯玩无购物团 · 纯玩西域南疆喀什卡湖盘龙古道10天</div>
-        <div class="rp-route" data-route="ch-ftftxjns16d">中国纯玩无购物团 · 纯玩穿越南北疆全景16天</div>
-        <div class="rp-route" data-route="ch-ftftxjdkns08d">中国纯玩无购物团 · 纯玩新疆独库公路空中草原史诗8天</div>
-        <div class="rp-custom" data-custom="1" data-board="西北">✨ 私人订制（西北）</div>
           </div>
         </div>
         <div class="rp-group" data-group="长江三峡">
@@ -5041,6 +5010,31 @@ window.REGION_PLANS.australia = `
         <div class="rp-custom" data-custom="1" data-board="北京西安">✨ 私人订制（北京西安）</div>
           </div>
         </div>
+        <div class="rp-group" data-group="西北">
+          <div class="rp-group-title">西北 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="ch-cm0207">中国纯玩无购物团 · （纯玩）西藏5日-洲际酒店特别版</div>
+        <div class="rp-route" data-route="ch-cm0209">中国纯玩无购物团 · （纯玩）丝绸之路 传奇东方高铁7日</div>
+        <div class="rp-route" data-route="ch-cm0211">中国纯玩无购物团 · （纯玩）西安，丝绸之路9日</div>
+        <div class="rp-route" data-route="ch-cm0213">中国纯玩无购物团 · （纯玩）丝绸之路，茶卡盐湖青海湖9日</div>
+        <div class="rp-route" data-route="ch-cm0215">中国纯玩无购物团 · （纯玩）丝绸之路 青藏铁路 西藏10日</div>
+        <div class="rp-route" data-route="ch-cm0217">中国纯玩无购物团 · （纯玩）新疆北疆8日</div>
+        <div class="rp-route" data-route="ch-cm0219">中国纯玩无购物团 · （纯玩）新疆南疆8日</div>
+        <div class="rp-route" data-route="ch-cm0221">中国纯玩无购物团 · （纯玩）新疆南疆北疆全景15日</div>
+        <div class="rp-route" data-route="ch-ftftlxa6">中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩6天</div>
+        <div class="rp-route" data-route="ch-ftftlhwlxa10">中国纯玩无购物团 · 纯玩丝路敦煌张掖青海湖西藏10天</div>
+        <div class="rp-route" data-route="ch-ftfturcns7">中国纯玩无购物团 · 纯玩丝路新疆传奇西域高铁7天</div>
+        <div class="rp-route" data-route="ch-ftftxnnurcns9">中国纯玩无购物团 · 纯玩丝路茶卡盐湖青海新疆9天</div>
+        <div class="rp-route" data-route="ch-ftftnxjns08">中国纯玩无购物团 · 纯玩乐游北疆 喀纳斯禾木可可托海8天</div>
+        <div class="rp-route" data-route="ch-ftftlxa5">中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩5天</div>
+        <div class="rp-route" data-route="ch-ftftxiyurcns9">中国纯玩无购物团 · 纯玩丝路西安敦煌莫高窟新疆9天</div>
+        <div class="rp-route" data-route="ch-ftftxiylxa11">中国纯玩无购物团 · 纯玩西安敦煌张掖青海湖西藏11天</div>
+        <div class="rp-route" data-route="ch-ftftsxjns10">中国纯玩无购物团 · 纯玩西域南疆喀什卡湖盘龙古道10天</div>
+        <div class="rp-route" data-route="ch-ftftxjns16d">中国纯玩无购物团 · 纯玩穿越南北疆全景16天</div>
+        <div class="rp-route" data-route="ch-ftftxjdkns08d">中国纯玩无购物团 · 纯玩新疆独库公路空中草原史诗8天</div>
+        <div class="rp-custom" data-custom="1" data-board="西北">✨ 私人订制（西北）</div>
+          </div>
+        </div>
         <div class="rp-group" data-group="其他">
           <div class="rp-group-title">其他 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
@@ -5058,6 +5052,33 @@ window.REGION_PLANS.australia = `
         <div class="rp-route" data-route="ch-ftensh3">中国纯玩无购物团 · Shanghai 3D2N Tour</div>
         <div class="rp-route" data-route="ch-ftenhs3">中国纯玩无购物团 · Huangshan (Yellow Mt) 3D2N Tour</div>
         <div class="rp-custom" data-custom="1" data-board="江南上海">✨ 私人订制（江南上海）</div>
+          </div>
+        </div>
+      </div>
+      <div class="rp-cat" data-cat="含机票特别订制团">
+        <div class="rp-cat-title">含机票特别订制团 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group" data-group="西北">
+          <div class="rp-group-title">西北 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="ch-cm0017">中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）</div>
+        <div class="rp-route" data-route="ch-cm0027">中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</div>
+        <div class="rp-route" data-route="ch-cm0029">中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</div>
+        <div class="rp-route" data-route="ch-cm0105">中国超值特惠团 · （澳洲包机票）川藏15天西藏团</div>
+        <div class="rp-custom" data-custom="1" data-board="西北">✨ 私人订制（西北）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="西南">
+          <div class="rp-group-title">西南 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="ch-cm0023">中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票</div>
+        <div class="rp-custom" data-custom="1" data-board="西南">✨ 私人订制（西南）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="华北中原">
+          <div class="rp-group-title">华北中原 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="ch-cm0025">中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团12日-包机票</div>
+        <div class="rp-custom" data-custom="1" data-board="华北中原">✨ 私人订制（华北中原）</div>
           </div>
         </div>
       </div>
@@ -5172,38 +5193,8 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00172" data-p-adult="2168" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">超值特惠团</span>
-        <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2168</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2168</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2468</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">850</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00212" data-p-adult="2798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 史诗画卷 醉美新疆 世界级绝美风光之旅14日（旺季特别团）</h3>
           <div class="rp-price-row">
@@ -5233,7 +5224,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00312" data-p-adult="599" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 绿野仙踪 新疆阿勒泰喀纳斯醉美8日</h3>
           <div class="rp-price-row">
@@ -5263,7 +5254,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00332" data-p-adult="798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 爱达花城号首航海上丝绸之路 中国+越南+马来西亚+汶莱四国漫游17天</h3>
           <div class="rp-price-row">
@@ -5293,7 +5284,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00412" data-p-adult="1198" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 醉美新疆 禾木喀纳斯可可托海魔鬼城8日（旺季特别团）</h3>
           <div class="rp-price-row">
@@ -5323,7 +5314,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00432" data-p-adult="0" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 铂金江南，醉美新疆 禾木喀纳斯可可托海魔鬼城14日（旺季特别团）</h3>
           <div class="rp-price-row">
@@ -5353,7 +5344,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01012" data-p-adult="2499" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 醉美川藏 成都西藏深度11日</h3>
           <div class="rp-price-row">
@@ -5383,7 +5374,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01032" data-p-adult="2999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 醉美川藏 成都西藏深度14日</h3>
           <div class="rp-price-row">
@@ -5412,38 +5403,8 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm01052" data-p-adult="3299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">超值特惠团</span>
-        <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （澳洲包机票）川藏15天西藏团</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 3299</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2999</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnxjil082" data-p-adult="1099" data-p-child="849" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 伊犁赛里木草原北疆8天</h3>
           <div class="rp-price-row">
@@ -5473,7 +5434,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnsxj142" data-p-adult="1949" data-p-child="1399" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 穿越南北疆喀纳斯喀什帕米尔14天</h3>
           <div class="rp-price-row">
@@ -5503,7 +5464,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnxj082" data-p-adult="1099" data-p-child="849" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 喀纳斯可可托海魔鬼城北疆8天</h3>
           <div class="rp-price-row">
@@ -5533,7 +5494,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftsxj082" data-p-adult="999" data-p-child="849" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 喀什帕米尔南疆秘境8天</h3>
           <div class="rp-price-row">
@@ -5563,7 +5524,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnxjil132" data-p-adult="1799" data-p-child="1049" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 伊犁喀纳斯全景北疆13天</h3>
           <div class="rp-price-row">
@@ -5593,7 +5554,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnsxjil142" data-p-adult="1949" data-p-child="1399" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 南北疆伊犁喀什大环线14天</h3>
           <div class="rp-price-row">
@@ -5623,7 +5584,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7xnnsr082" data-p-adult="99" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南・青海梵音丝路14天</h3>
           <div class="rp-price-row">
@@ -5653,7 +5614,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxnnsr082" data-p-adult="599" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 甘岭天色・青海梵音丝路8天</h3>
           <div class="rp-price-row">
@@ -5683,7 +5644,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftsxj0810152" data-p-adult="1098" data-p-child="898" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金秋限定买一送一 穿越胡杨林喀什南疆秘境8天</h3>
           <div class="rp-price-row">
@@ -5713,7 +5674,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7sxj0810092" data-p-adult="0" data-p-child="1298" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 鎏金双域 水韵江南胡杨林喀什南疆14天</h3>
           <div class="rp-price-row">
@@ -5743,7 +5704,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj08sp2" data-p-adult="0" data-p-child="1398" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 灿夏秋序 水韵江南阿勒泰喀纳斯北疆14 天-7-9月</h3>
           <div class="rp-price-row">
@@ -5773,7 +5734,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnxj08sp2" data-p-adult="1198" data-p-child="1098" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 夏秋光影 阿勒泰喀纳斯北疆仙境 8 天-7-9月买一送一</h3>
           <div class="rp-price-row">
@@ -5803,7 +5764,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxz082" data-p-adult="898" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 邂逅南迦巴瓦·圣湖宫殿全览 金秋西藏秘境朝圣8天</h3>
           <div class="rp-price-row">
@@ -5833,7 +5794,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7xz082" data-p-adult="198" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 左手烟雨·右手雪山｜横跨东西·世界之巅 水韵江南圣地西藏14天 深度全览</h3>
           <div class="rp-price-row">
@@ -5863,7 +5824,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj082" data-p-adult="199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 暑期限定 | 水韵江南喀纳斯魔鬼城北疆14 天</h3>
           <div class="rp-price-row">
@@ -5893,7 +5854,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnadhc172" data-p-adult="898" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 一路向南·爱达花城号四国海上丝路漫游 中国+越南芽庄+马来西亚沙巴+汶莱首航17天</h3>
           <div class="rp-price-row">
@@ -5923,7 +5884,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnxjspnj142" data-p-adult="2798" data-p-child="1699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 南北疆14日世界级风光绝美之旅【买一送一】</h3>
           <div class="rp-price-row">
@@ -5953,7 +5914,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftnxj0810122" data-p-adult="598" data-p-child="598" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 撞色多巴胺！金秋伊犁那拉提·北疆8天 买一送一</h3>
           <div class="rp-price-row">
@@ -5983,7 +5944,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7nxj0810122" data-p-adult="0" data-p-child="898" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 撞色双城记！金秋江南·伊犁那拉提北疆14天</h3>
           <div class="rp-price-row">
@@ -6013,7 +5974,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00032" data-p-adult="599" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 铂金江南 长江新船王极光号/揽月号12日</h3>
           <div class="rp-price-row">
@@ -6043,7 +6004,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00052" data-p-adult="799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 奢华江南和平饭店-长江新船王揽月号/极光号13日AB团</h3>
           <div class="rp-price-row">
@@ -6073,7 +6034,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00072" data-p-adult="899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 奢华江南和平饭店-长江新船王揽月号/极光号13日AA团</h3>
           <div class="rp-price-row">
@@ -6103,7 +6064,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00532" data-p-adult="599" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟 长江三峡12日(超豪华洲际酒店升级版)</h3>
           <div class="rp-price-row">
@@ -6133,7 +6094,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00672" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 江南 长江三峡11日</h3>
           <div class="rp-price-row">
@@ -6163,7 +6124,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00932" data-p-adult="999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 珠江美食，长江美景10日</h3>
           <div class="rp-price-row">
@@ -6193,7 +6154,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00952" data-p-adult="999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区美食，长江三峡10日</h3>
           <div class="rp-price-row">
@@ -6223,7 +6184,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00992" data-p-adult="899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 张家界，长江三峡11日</h3>
           <div class="rp-price-row">
@@ -6253,7 +6214,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01152" data-p-adult="1099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 桂林 长江三峡11日</h3>
           <div class="rp-price-row">
@@ -6283,7 +6244,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01212" data-p-adult="1099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门 长江三峡11日</h3>
           <div class="rp-price-row">
@@ -6313,7 +6274,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01252" data-p-adult="1099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 重庆大足石刻 长江三峡10日</h3>
           <div class="rp-price-row">
@@ -6343,7 +6304,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyz12h2" data-p-adult="699" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟峨眉乐山都江堰·长江三峡12天 旺季9-10月</h3>
           <div class="rp-price-row">
@@ -6373,7 +6334,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthnyz11b2" data-p-adult="899" data-p-child="399" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 【两个自费】凤凰张家界长江三峡精品11日</h3>
           <div class="rp-price-row">
@@ -6403,7 +6364,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnyz112" data-p-adult="49" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·长江三峡11日</h3>
           <div class="rp-price-row">
@@ -6433,7 +6394,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcanyu10b2" data-p-adult="999" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区 广东长江三峡10天游</h3>
           <div class="rp-price-row">
@@ -6463,7 +6424,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcqyz102" data-p-adult="1099" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魅力重庆大足武隆长江三峡10天游</h3>
           <div class="rp-price-row">
@@ -6493,7 +6454,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyz122" data-p-adult="599" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟峨眉乐山都江堰·长江三峡12天</h3>
           <div class="rp-price-row">
@@ -6523,7 +6484,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftglyu112" data-p-adult="1099" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 山水桂林长江三峡11天</h3>
           <div class="rp-price-row">
@@ -6553,7 +6514,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxmnyu112" data-p-adult="1099" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门永定泉州·长江三峡11天</h3>
           <div class="rp-price-row">
@@ -6583,7 +6544,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcanyu102" data-p-adult="999" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味岭南 广东长江三峡10天游</h3>
           <div class="rp-price-row">
@@ -6613,7 +6574,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhabyz13ab2" data-p-adult="799" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AB团)至臻江南五星长江行揽月号奢华三峡13天</h3>
           <div class="rp-price-row">
@@ -6643,7 +6604,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhabyz13aa2" data-p-adult="899" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AA团)至臻江南五星长江行揽月号奢华三峡13天</h3>
           <div class="rp-price-row">
@@ -6673,7 +6634,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyzvh133" data-p-adult="899" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟重庆洲际悦榕庄揽月/极光号三峡13天-5/11月</h3>
           <div class="rp-price-row">
@@ -6703,7 +6664,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyzvh1322" data-p-adult="999" data-p-child="999" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟重庆洲际悦榕庄揽月/极光号三峡13天-9/10月</h3>
           <div class="rp-price-row">
@@ -6733,7 +6694,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhva13ab2" data-p-adult="799" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AB团)至臻江南五星长江行·极光号奢华三峡13天</h3>
           <div class="rp-price-row">
@@ -6763,7 +6724,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhva13aa2" data-p-adult="899" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (AA团)至臻江南五星长江行·极光号奢华三峡13天</h3>
           <div class="rp-price-row">
@@ -6793,7 +6754,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnyzva122" data-p-adult="599" data-p-child="749" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南五星长江行·极光号壮美三峡12天</h3>
           <div class="rp-price-row">
@@ -6823,7 +6784,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12ab2" data-p-adult="299" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （AB团）至臻江南和平饭店·长江三峡12天</h3>
           <div class="rp-price-row">
@@ -6853,7 +6814,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12aa2" data-p-adult="449" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （AA团）至臻江南和平饭店·长江三峡12天</h3>
           <div class="rp-price-row">
@@ -6883,7 +6844,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhyz12a2" data-p-adult="249" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （A团)至臻江南和平饭店·长江三峡12天</h3>
           <div class="rp-price-row">
@@ -6913,7 +6874,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00092" data-p-adult="899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟成都重庆长新船王揽月号/极光号13日</h3>
           <div class="rp-price-row">
@@ -6943,7 +6904,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00512" data-p-adult="0" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 成都 九寨沟8日(超豪华洲际酒店升级版）</h3>
           <div class="rp-price-row">
@@ -6973,7 +6934,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00972" data-p-adult="299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 张家界，凤凰古城7日</h3>
           <div class="rp-price-row">
@@ -7003,7 +6964,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01132" data-p-adult="199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 桂林6日</h3>
           <div class="rp-price-row">
@@ -7033,7 +6994,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01232" data-p-adult="399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 山城重庆 大足石刻武隆6日</h3>
           <div class="rp-price-row">
@@ -7063,7 +7024,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01272" data-p-adult="299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 云南 昆明大理丽江6日</h3>
           <div class="rp-price-row">
@@ -7093,7 +7054,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01292" data-p-adult="459" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 云南 昆明大理丽江 石林7日</h3>
           <div class="rp-price-row">
@@ -7123,7 +7084,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzh8h2" data-p-adult="89" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 悦享川西 洲际悦榕庄九寨双遗产奢华8天-9-10月</h3>
           <div class="rp-price-row">
@@ -7153,7 +7114,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcq62" data-p-adult="399" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魔幻重庆大足武隆天坑双遗6天</h3>
           <div class="rp-price-row">
@@ -7183,7 +7144,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftgl62" data-p-adult="189" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 山水桂林阳朔龙腾风情6天</h3>
           <div class="rp-price-row">
@@ -7213,7 +7174,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthn7b2" data-p-adult="299" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 【两个自费】凤凰古城张家界精品7天（B线）</h3>
           <div class="rp-price-row">
@@ -7243,7 +7204,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftyn62" data-p-adult="299" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 七彩云南大理丽江6天</h3>
           <div class="rp-price-row">
@@ -7273,7 +7234,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftyn72" data-p-adult="449" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 七彩云南大理丽江7天</h3>
           <div class="rp-price-row">
@@ -7303,7 +7264,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzh82" data-p-adult="0" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 悦享川西 洲际悦榕庄九寨双遗产奢华8天（2026年3月起）</h3>
           <div class="rp-price-row">
@@ -7333,7 +7294,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhcq62" data-p-adult="299" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 洲际悦榕庄-九寨成都重庆大足武隆12天</h3>
           <div class="rp-price-row">
@@ -7363,7 +7324,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyn63" data-p-adult="299" data-p-child="679" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉昆明大理丽江13天（淡）</h3>
           <div class="rp-price-row">
@@ -7393,7 +7354,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhyn622" data-p-adult="389" data-p-child="779" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉昆明大理丽江13天（旺）</h3>
           <div class="rp-price-row">
@@ -7423,7 +7384,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhhn7b3" data-p-adult="399" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉张家界凤凰14天（淡）</h3>
           <div class="rp-price-row">
@@ -7453,7 +7414,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhhn7b22" data-p-adult="489" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 九寨沟乐山峨眉张家界凤凰14天（旺）</h3>
           <div class="rp-price-row">
@@ -7483,7 +7444,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcan6gl62" data-p-adult="399" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味岭南桂林阳朔粤桂双秀11天</h3>
           <div class="rp-price-row">
@@ -7513,7 +7474,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftckgjzh103" data-p-adult="399" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魔幻重庆・洲际悦榕庄・九寨沟童话 10 天 -淡季</h3>
           <div class="rp-price-row">
@@ -7543,7 +7504,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftckgjzh1022" data-p-adult="489" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 魔幻重庆・洲际悦榕庄・九寨沟童话 10 天 -9-10月</h3>
           <div class="rp-price-row">
@@ -7573,7 +7534,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00352" data-p-adult="798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · (金钻江南，深圳机器人)马来西亚-文莱-越南-中国香港爱达魔都号游轮16日</h3>
           <div class="rp-price-row">
@@ -7603,7 +7564,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00392" data-p-adult="0" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 铂金江南7日</h3>
           <div class="rp-price-row">
@@ -7633,7 +7594,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00452" data-p-adult="0" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 璀璨金钻~江南奢华8日(A团)</h3>
           <div class="rp-price-row">
@@ -7663,7 +7624,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00472" data-p-adult="99" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 璀璨金钻~江南奢华8日(AA团)</h3>
           <div class="rp-price-row">
@@ -7693,7 +7654,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00492" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 璀璨金钻~江南奢华8日(AB团)</h3>
           <div class="rp-price-row">
@@ -7723,7 +7684,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00552" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，黄山千岛湖9日</h3>
           <div class="rp-price-row">
@@ -7753,7 +7714,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00572" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，婺源望仙谷9日</h3>
           <div class="rp-price-row">
@@ -7783,7 +7744,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00592" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际 海天佛国普陀山9日</h3>
           <div class="rp-price-row">
@@ -7813,7 +7774,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00612" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，九华山9日</h3>
           <div class="rp-price-row">
@@ -7843,7 +7804,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00632" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，泰山曲阜9日</h3>
           <div class="rp-price-row">
@@ -7873,7 +7834,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00652" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑洲际，庐山9日</h3>
           <div class="rp-price-row">
@@ -7903,7 +7864,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00692" data-p-adult="49" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金钻江南，爱达魔都号游轮11 日 (A团)</h3>
           <div class="rp-price-row">
@@ -7933,7 +7894,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00712" data-p-adult="249" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金钻江南，爱达魔都号游轮11 日(AA团)</h3>
           <div class="rp-price-row">
@@ -7963,7 +7924,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn72" data-p-adult="0" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·美景美食7日游</h3>
           <div class="rp-price-row">
@@ -7993,7 +7954,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhs9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·千岛湖黄山9天</h3>
           <div class="rp-price-row">
@@ -8023,7 +7984,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aa2" data-p-adult="99" data-p-child="399" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · AA团：深坑洲际/和平饭店-至臻江南美景美食8天</h3>
           <div class="rp-price-row">
@@ -8053,7 +8014,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnad113" data-p-adult="249" data-p-child="1298" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （AA团）水韵江南爱达魔都号11天</h3>
           <div class="rp-price-row">
@@ -8083,7 +8044,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnad1122" data-p-adult="49" data-p-child="1098" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （A团）水韵江南爱达魔都号11天</h3>
           <div class="rp-price-row">
@@ -8113,7 +8074,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aab2" data-p-adult="0" data-p-child="399" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · AB团：北外滩索菲特/和平饭店-至臻江南美景美食8天</h3>
           <div class="rp-price-row">
@@ -8143,7 +8104,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnhs9ab2" data-p-adult="49" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 外滩索菲特黄山婺源望仙谷九华山九日游</h3>
           <div class="rp-price-row">
@@ -8173,7 +8134,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnls9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·奇秀庐山9天</h3>
           <div class="rp-price-row">
@@ -8203,7 +8164,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnts9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·泰山曲阜9天</h3>
           <div class="rp-price-row">
@@ -8233,7 +8194,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnpu9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·海天佛国普陀山9天</h3>
           <div class="rp-price-row">
@@ -8263,7 +8224,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnjhs9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·佛教名山九华山9天</h3>
           <div class="rp-price-row">
@@ -8293,7 +8254,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnwy9a2" data-p-adult="49" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 深坑江南·婺源望仙谷9天</h3>
           <div class="rp-price-row">
@@ -8323,7 +8284,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjpjn122" data-p-adult="398" data-p-child="998" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 日本关东关西水韵江南12天（含日本段自费）</h3>
           <div class="rp-price-row">
@@ -8353,7 +8314,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aabcsgd7mi2" data-p-adult="199" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金牌米其林-至臻江南广东潮汕奢华美食14天-A团</h3>
           <div class="rp-price-row">
@@ -8383,7 +8344,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnh8aabvn62" data-p-adult="199" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 至臻江南越南双龙湾奢华美食13天</h3>
           <div class="rp-price-row">
@@ -8413,7 +8374,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7cq62" data-p-adult="99" data-p-child="548" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·魔幻重庆11天</h3>
           <div class="rp-price-row">
@@ -8443,7 +8404,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjn7yn62" data-p-adult="99" data-p-child="549" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 水韵江南·七彩云南12天</h3>
           <div class="rp-price-row">
@@ -8473,7 +8434,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjnad162" data-p-adult="798" data-p-child="898" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 马来西亚 文莱 越南 香港 水韵江南深圳机器人 亚洲巡礼 爱达魔都号 16 天</h3>
           <div class="rp-price-row">
@@ -8503,7 +8464,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00372" data-p-adult="999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · VIP特别订制团</h3>
           <div class="rp-price-row">
@@ -8533,7 +8494,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00732" data-p-adult="259" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 舌尖广东，珠江美食6日</h3>
           <div class="rp-price-row">
@@ -8563,7 +8524,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00752" data-p-adult="169" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区美食，机器人奇观6日</h3>
           <div class="rp-price-row">
@@ -8593,7 +8554,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00772" data-p-adult="179" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区美食，机器人奇观7日</h3>
           <div class="rp-price-row">
@@ -8623,7 +8584,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00792" data-p-adult="259" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 大湾区，广东美食6日</h3>
           <div class="rp-price-row">
@@ -8653,7 +8614,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00812" data-p-adult="269" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区，广东美食7日</h3>
           <div class="rp-price-row">
@@ -8683,7 +8644,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00832" data-p-adult="269" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 潮汕高铁，广东美食7日</h3>
           <div class="rp-price-row">
@@ -8713,7 +8674,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00852" data-p-adult="279" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 潮汕风情，珠江美食8日</h3>
           <div class="rp-price-row">
@@ -8743,7 +8704,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00872" data-p-adult="689" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 香港大湾区 珠江美食8日</h3>
           <div class="rp-price-row">
@@ -8773,7 +8734,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00892" data-p-adult="699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 香港潮汕，珠江美食10日</h3>
           <div class="rp-price-row">
@@ -8803,7 +8764,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00912" data-p-adult="399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 珠江美食，越南下龙湾10日</h3>
           <div class="rp-price-row">
@@ -8833,7 +8794,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01172" data-p-adult="199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门泉州土楼6日</h3>
           <div class="rp-price-row">
@@ -8863,7 +8824,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01192" data-p-adult="369" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 厦门土楼武夷山8日</h3>
           <div class="rp-price-row">
@@ -8893,7 +8854,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01312" data-p-adult="599" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 海南 海口三亚6日</h3>
           <div class="rp-price-row">
@@ -8923,7 +8884,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthkcan82" data-p-adult="689" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 舌尖上的大湾区·香港广东8天</h3>
           <div class="rp-price-row">
@@ -8953,7 +8914,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcan62" data-p-adult="259" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味岭南 情系珠江广东美食6天</h3>
           <div class="rp-price-row">
@@ -8983,7 +8944,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthak62" data-p-adult="599" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 天涯海角 海南海口三亚6天</h3>
           <div class="rp-price-row">
@@ -9013,7 +8974,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcsgd72" data-p-adult="269" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 潮汕故里·广东美食高铁7日</h3>
           <div class="rp-price-row">
@@ -9043,7 +9004,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcan6b2" data-p-adult="259" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区·广东美食6天</h3>
           <div class="rp-price-row">
@@ -9073,7 +9034,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcancs82" data-p-adult="269" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 情归故里·广东珠江潮汕美食8天 含广州-汕头往返高铁</h3>
           <div class="rp-price-row">
@@ -9103,7 +9064,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthkcancs102" data-p-adult="689" data-p-child="799" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 香港大湾区·广东潮汕美食10天 (含香港-广州-汕头-广州高铁)</h3>
           <div class="rp-price-row">
@@ -9133,7 +9094,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcan7b2" data-p-adult="269" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 寻味大湾区·广东美食7天</h3>
           <div class="rp-price-row">
@@ -9163,7 +9124,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxmn62" data-p-adult="199" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 闵韵侨乡·厦门鼓浪屿永定泉州6天</h3>
           <div class="rp-price-row">
@@ -9193,7 +9154,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxmn82" data-p-adult="369" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 闵韵世遗·厦门武夷山永定泉州8天</h3>
           <div class="rp-price-row">
@@ -9223,7 +9184,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcsgd7mi2" data-p-adult="599" data-p-child="799" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 金牌米其林广东珠江潮汕游 美食7天</h3>
           <div class="rp-price-row">
@@ -9253,7 +9214,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcan6jp62" data-p-adult="588" data-p-child="798" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 和风粤韵广东日本美食美景11天</h3>
           <div class="rp-price-row">
@@ -9283,7 +9244,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01072" data-p-adult="169" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 北京5日</h3>
           <div class="rp-price-row">
@@ -9313,7 +9274,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01092" data-p-adult="199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 北京6日</h3>
           <div class="rp-price-row">
@@ -9343,7 +9304,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01112" data-p-adult="1099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 北京 长江三峡 9日</h3>
           <div class="rp-price-row">
@@ -9373,7 +9334,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbj52" data-p-adult="169" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 圆梦北京轻松5天</h3>
           <div class="rp-price-row">
@@ -9403,7 +9364,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbj62" data-p-adult="199" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 圆梦北京轻松6天</h3>
           <div class="rp-price-row">
@@ -9433,7 +9394,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbjyu92" data-p-adult="1099" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 皇城北京长江三峡9天</h3>
           <div class="rp-price-row">
@@ -9463,7 +9424,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbj5xiyns42" data-p-adult="998" data-p-child="898" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 圆梦北京古都西安8天-含北京西安高铁</h3>
           <div class="rp-price-row">
@@ -9493,7 +9454,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbjnmg092" data-p-adult="498" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 驰骋草原 大漠星辰 北京内蒙古狂欢9天</h3>
           <div class="rp-price-row">
@@ -9523,7 +9484,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbjnmg09bj52" data-p-adult="598" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">超值特惠团</span>
         <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 驰骋草原・纵览皇城 北京内蒙古狂欢12天</h3>
           <div class="rp-price-row">
@@ -9553,7 +9514,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm00152" data-p-adult="1899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团 10日</h3>
           <div class="rp-price-row">
@@ -9572,36 +9533,6 @@ window.REGION_PLANS.australia = `
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
 <table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1000</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00252" data-p-adult="3799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团12日-包机票</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 3799</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3799</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1000</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
@@ -9972,38 +9903,8 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00232" data-p-adult="3599" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 3599</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3599</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1300</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01332" data-p-adult="1099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）九寨沟 成都乐山峨眉7日（九寨沟高铁体验特别版）</h3>
           <div class="rp-price-row">
@@ -10033,7 +9934,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01572" data-p-adult="899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界6日</h3>
           <div class="rp-price-row">
@@ -10063,7 +9964,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01592" data-p-adult="1099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界凤凰古城7日</h3>
           <div class="rp-price-row">
@@ -10093,7 +9994,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01712" data-p-adult="799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）桂林 漓江阳朔5日</h3>
           <div class="rp-price-row">
@@ -10123,7 +10024,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01752" data-p-adult="999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州黄果树5日</h3>
           <div class="rp-price-row">
@@ -10153,7 +10054,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01772" data-p-adult="1499" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州桂林阳朔8日</h3>
           <div class="rp-price-row">
@@ -10183,7 +10084,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01792" data-p-adult="1699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州凤凰张家界9日</h3>
           <div class="rp-price-row">
@@ -10213,7 +10114,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01812" data-p-adult="999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南香格里拉6日</h3>
           <div class="rp-price-row">
@@ -10243,7 +10144,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01832" data-p-adult="1199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 昆明大理丽江香格里拉7日</h3>
           <div class="rp-price-row">
@@ -10273,7 +10174,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01852" data-p-adult="1299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 昆明大理丽江香格里拉8日</h3>
           <div class="rp-price-row">
@@ -10303,7 +10204,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01872" data-p-adult="1199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 丽江香格里拉泸沽湖9日</h3>
           <div class="rp-price-row">
@@ -10333,7 +10234,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01892" data-p-adult="1399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）云南 丽江香格里拉泸沽湖石林10日</h3>
           <div class="rp-price-row">
@@ -10363,7 +10264,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01912" data-p-adult="1699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州云南 云贵高原9日</h3>
           <div class="rp-price-row">
@@ -10393,7 +10294,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01932" data-p-adult="1999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）贵州云南 云贵高原12日</h3>
           <div class="rp-price-row">
@@ -10423,7 +10324,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02252" data-p-adult="899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩) 成都5日(超豪华洲际酒店升级版)</h3>
           <div class="rp-price-row">
@@ -10453,7 +10354,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02292" data-p-adult="549" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山城重庆3日</h3>
           <div class="rp-price-row">
@@ -10483,7 +10384,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02312" data-p-adult="999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山城重庆 武隆天生三桥5日</h3>
           <div class="rp-price-row">
@@ -10513,7 +10414,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthnns72" data-p-adult="1099" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩高铁张家界凤凰7天</h3>
           <div class="rp-price-row">
@@ -10543,7 +10444,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthnns6b2" data-p-adult="899" data-p-child="569" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩张家界凤凰6日B线</h3>
           <div class="rp-price-row">
@@ -10573,7 +10474,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftkwglns82" data-p-adult="1499" data-p-child="999" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩秀丽贵州山水桂林8天</h3>
           <div class="rp-price-row">
@@ -10603,7 +10504,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftglns52" data-p-adult="789" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山水桂林画中漓江5日游</h3>
           <div class="rp-price-row">
@@ -10633,7 +10534,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftctuns52" data-p-adult="799" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际 成都都江堰峨眉5天</h3>
           <div class="rp-price-row">
@@ -10663,7 +10564,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftkwhnns92" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩秀丽贵州张家界凤凰9天</h3>
           <div class="rp-price-row">
@@ -10693,7 +10594,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftkwynns92" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云贵高原贵州云南9天</h3>
           <div class="rp-price-row">
@@ -10723,7 +10624,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftkwynns122" data-p-adult="1999" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云贵高原贵州云南12天</h3>
           <div class="rp-price-row">
@@ -10753,7 +10654,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftkwe52" data-p-adult="999" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩秀丽贵州5天</h3>
           <div class="rp-price-row">
@@ -10783,7 +10684,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcqns52" data-p-adult="899" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山城重庆武隆天生三桥5天</h3>
           <div class="rp-price-row">
@@ -10813,7 +10714,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcqns32" data-p-adult="549" data-p-child="299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山城重庆3天</h3>
           <div class="rp-price-row">
@@ -10843,7 +10744,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftynxns62" data-p-adult="999" data-p-child="849" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南昆明大理丽江香格里拉6天</h3>
           <div class="rp-price-row">
@@ -10873,7 +10774,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftynxns92" data-p-adult="1199" data-p-child="949" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南丽江泸沽湖香格里拉9天</h3>
           <div class="rp-price-row">
@@ -10903,7 +10804,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftynxns102" data-p-adult="1399" data-p-child="1099" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南丽江泸沽湖香格里拉石林10天</h3>
           <div class="rp-price-row">
@@ -10933,7 +10834,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhns72" data-p-adult="1099" data-p-child="549" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨·峨眉川西环线7天（淡季）</h3>
           <div class="rp-price-row">
@@ -10963,7 +10864,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzhns7h2" data-p-adult="1249" data-p-child="549" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨·峨眉川西环线7天（旺季）</h3>
           <div class="rp-price-row">
@@ -10993,7 +10894,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5hnns6b2" data-p-adult="1698" data-p-child="1298" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆张家界凤凰10天</h3>
           <div class="rp-price-row">
@@ -11023,7 +10924,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5jzhns73" data-p-adult="1698" data-p-child="998" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆成都九寨沟高铁11天（淡）</h3>
           <div class="rp-price-row">
@@ -11053,7 +10954,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcqns5jzhns722" data-p-adult="1898" data-p-child="998" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆成都九寨沟高铁11天（旺）</h3>
           <div class="rp-price-row">
@@ -11083,7 +10984,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftynxns72" data-p-adult="1199" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南昆明大理丽江香格里拉7日游</h3>
           <div class="rp-price-row">
@@ -11113,7 +11014,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftynxns82" data-p-adult="1299" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩云南昆明大理丽江香格里拉石林8日游</h3>
           <div class="rp-price-row">
@@ -11143,7 +11044,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftynns132" data-p-adult="2899" data-p-child="2299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【6人成团】2026 云南·全景大满贯13天深度游</h3>
           <div class="rp-price-row">
@@ -11173,7 +11074,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftgyjx16d2" data-p-adult="2298" data-p-child="1198" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 16天穿越两省十六城！ 揽尽金秋贵州，醉美诗意江西</h3>
           <div class="rp-price-row">
@@ -11203,7 +11104,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftengl42" data-p-adult="899" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Guilin & Yangshuo 4D3N</h3>
           <div class="rp-price-row">
@@ -11233,7 +11134,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftenct32" data-p-adult="830" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Chengdu Panda City 3D2N Tour Tour</h3>
           <div class="rp-price-row">
@@ -11263,7 +11164,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftenzj52" data-p-adult="980" data-p-child="820" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Zhangjiajie National Park Adventure 5D4N</h3>
           <div class="rp-price-row">
@@ -11292,638 +11193,8 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00272" data-p-adult="4299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>18天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm00292" data-p-adult="4299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>17天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02072" data-p-adult="1599" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西藏5日-洲际酒店特别版</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1599</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1599</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">450</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02092" data-p-adult="1899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路 传奇东方高铁7日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1899</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">700</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02112" data-p-adult="2099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西安，丝绸之路9日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02132" data-p-adult="2099" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路，茶卡盐湖青海湖9日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02152" data-p-adult="2699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路 青藏铁路 西藏10日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2699</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2699</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2699</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">800</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02172" data-p-adult="1799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆北疆8日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1799</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1799</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">600</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02192" data-p-adult="1799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆南疆8日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1799</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1799</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">600</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-cm02212" data-p-adult="3399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆南疆北疆全景15日</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 3399</span>
-            <span class="rp-price-item"><b>儿童</b> 待确认</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>15天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3399</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3399</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa62" data-p-adult="1899" data-p-child="1599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩6天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1899</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1599</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1599</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">560</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">160</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftlhwlxa102" data-p-adult="2699" data-p-child="1899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路敦煌张掖青海湖西藏10天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2699</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1899</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1899</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">800</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">225</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftfturcns72" data-p-adult="1899" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路新疆传奇西域高铁7天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1899</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1199</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">700</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxnnurcns92" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路茶卡盐湖青海新疆9天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1399</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1399</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">225</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjns082" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩乐游北疆 喀纳斯禾木可可托海8天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1499</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1199</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1499</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">470</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa52" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩5天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1599</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1099</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">450</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyurcns92" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路西安敦煌莫高窟新疆9天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1399</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1399</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">225</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxiylxa112" data-p-adult="3299" data-p-child="2299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩西安敦煌张掖青海湖西藏11天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 3299</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 2299</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3299</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">2299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">980</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">300</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftsxjns102" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩西域南疆喀什卡湖盘龙古道10天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1499</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1199</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1499</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">470</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">190</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxjns16d2" data-p-adult="2599" data-p-child="2199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩穿越南北疆全景16天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 2599</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 2199</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">2199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">930</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">310</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
-    </div>    <div class="rp-route-pane" data-route="ch-ftftxjdkns08d2" data-p-adult="1699" data-p-child="1099" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
-        <span class="rp-badge">纯玩无购物团</span>
-        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩新疆独库公路空中草原史诗8天</h3>
-          <div class="rp-price-row">
-            <span class="rp-price-item"><b>大人</b> A$ 1699</span>
-            <span class="rp-price-item"><b>儿童</b> A$ 1099</span>
-            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
-          </div>
-        </div>
-      </div>
-      <div class="rp-tabs">
-        <div class="rp-tab active" data-tab="price">日期和价格</div>
-        <div class="rp-tab" data-tab="itinerary">行程安排</div>
-        <div class="rp-tab" data-tab="notes">参团须知</div>
-        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
-      </div>
-      <div class="rp-tab-panel active" data-tab="price">
-        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
-<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1699</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">540</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
-      </div>
-      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【行程安排】
-请在此处粘贴行程安排内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
-【参团须知】
-请在此处粘贴参团须知内容...
-</pre></div>
-      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01352" data-p-adult="1699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）九寨沟 长江三峡11日</h3>
           <div class="rp-price-row">
@@ -11953,7 +11224,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01612" data-p-adult="1399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界长江三峡9日</h3>
           <div class="rp-price-row">
@@ -11983,7 +11254,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01632" data-p-adult="1699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）张家界长江三峡11日</h3>
           <div class="rp-price-row">
@@ -12013,7 +11284,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01652" data-p-adult="1299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）山城重庆 三峡游轮6日</h3>
           <div class="rp-price-row">
@@ -12043,7 +11314,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01672" data-p-adult="1299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）武汉黄鹤楼 三峡游轮6日</h3>
           <div class="rp-price-row">
@@ -12073,7 +11344,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01692" data-p-adult="1299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）宜昌重庆 三峡游轮6日</h3>
           <div class="rp-price-row">
@@ -12103,7 +11374,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01732" data-p-adult="1399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）桂林 长江三峡9日</h3>
           <div class="rp-price-row">
@@ -12133,7 +11404,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02392" data-p-adult="1" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）世纪游轮“江山如此多娇·山河颂”长江全览11日游</h3>
           <div class="rp-price-row">
@@ -12163,7 +11434,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02412" data-p-adult="0" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）世纪游轮“江山如此多娇·山河颂”长江全览12日游</h3>
           <div class="rp-price-row">
@@ -12193,7 +11464,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftwhyz62" data-p-adult="1199" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩武汉黄鹤楼长江三峡（阳台房）6天</h3>
           <div class="rp-price-row">
@@ -12223,7 +11494,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftcqyz62" data-p-adult="1199" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩魔幻重庆长江三峡游轮（阳台房）6天游</h3>
           <div class="rp-price-row">
@@ -12253,7 +11524,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz112" data-p-adult="1699" data-p-child="1299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩高铁张家界长江三峡 11 日</h3>
           <div class="rp-price-row">
@@ -12283,7 +11554,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz10b2" data-p-adult="1599" data-p-child="1299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩精品张家界凤凰长江三峡10天</h3>
           <div class="rp-price-row">
@@ -12313,7 +11584,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftglyzns92" data-p-adult="1389" data-p-child="899" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩山水桂林长江三峡9天</h3>
           <div class="rp-price-row">
@@ -12343,7 +11614,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftycyz62" data-p-adult="1199" data-p-child="599" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩宜昌重庆长江三峡邮轮（阳台房）6天</h3>
           <div class="rp-price-row">
@@ -12373,7 +11644,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthnnsyz9b2" data-p-adult="1399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【无自费】纯玩精品张家界凤凰长江三峡9日</h3>
           <div class="rp-price-row">
@@ -12403,7 +11674,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzyzns112" data-p-adult="1699" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨沟长江三峡11天（淡）</h3>
           <div class="rp-price-row">
@@ -12433,7 +11704,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftjzyzns11h2" data-p-adult="1849" data-p-child="1199" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩洲际九寨沟长江三峡11天（旺）</h3>
           <div class="rp-price-row">
@@ -12463,7 +11734,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftenyz52" data-p-adult="1049" data-p-child="849" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Yangtze River Cruise 5D4N</h3>
           <div class="rp-price-row">
@@ -12493,7 +11764,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01372" data-p-adult="799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）大湾区精品美食6日</h3>
           <div class="rp-price-row">
@@ -12523,7 +11794,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01392" data-p-adult="2499" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩） 香港潮汕韶关佛山广州超级美食10日游</h3>
           <div class="rp-price-row">
@@ -12553,7 +11824,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02332" data-p-adult="879" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)厦门土楼潮汕6日</h3>
           <div class="rp-price-row">
@@ -12583,7 +11854,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02352" data-p-adult="939" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)厦门土楼潮汕7日</h3>
           <div class="rp-price-row">
@@ -12613,7 +11884,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm02372" data-p-adult="898" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）海南岛三亚5天</h3>
           <div class="rp-price-row">
@@ -12643,7 +11914,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthk3d2" data-p-adult="599" data-p-child="449" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 寻迹香江 纯玩香港精华3天</h3>
           <div class="rp-price-row">
@@ -12673,7 +11944,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftfthakns52" data-p-adult="898" data-p-child="748" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩椰风海韵·海南度假天堂5天</h3>
           <div class="rp-price-row">
@@ -12703,7 +11974,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxmnns62" data-p-adult="749" data-p-child="479" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩海上花园厦门永定土楼潮汕6天</h3>
           <div class="rp-price-row">
@@ -12733,7 +12004,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxmnns72" data-p-adult="789" data-p-child="479" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩海上花园厦门永定土楼潮汕7天</h3>
           <div class="rp-price-row">
@@ -12763,7 +12034,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftgzans62" data-p-adult="799" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩粤美大湾区广东美食6天</h3>
           <div class="rp-price-row">
@@ -12793,7 +12064,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01412" data-p-adult="799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）北京4日</h3>
           <div class="rp-price-row">
@@ -12823,7 +12094,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01432" data-p-adult="1299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩）北京西安6日</h3>
           <div class="rp-price-row">
@@ -12853,7 +12124,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01452" data-p-adult="1699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）北京西安上海8日</h3>
           <div class="rp-price-row">
@@ -12883,7 +12154,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01472" data-p-adult="1899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)北京，西安，长江三峡10日</h3>
           <div class="rp-price-row">
@@ -12913,7 +12184,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01492" data-p-adult="2399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）北京西安上海长江三峡12日</h3>
           <div class="rp-price-row">
@@ -12943,7 +12214,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01512" data-p-adult="799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西安4日</h3>
           <div class="rp-price-row">
@@ -12973,7 +12244,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01532" data-p-adult="999" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩)西安，华山5日</h3>
           <div class="rp-price-row">
@@ -13003,7 +12274,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-cm01552" data-p-adult="1399" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · (纯玩）西安，长江三峡8日</h3>
           <div class="rp-price-row">
@@ -13033,7 +12304,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns42" data-p-adult="799" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩古都西安4日游</h3>
           <div class="rp-price-row">
@@ -13063,7 +12334,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns52" data-p-adult="999" data-p-child="699" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩古都西安5日游</h3>
           <div class="rp-price-row">
@@ -13093,7 +12364,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbjns42" data-p-adult="799" data-p-child="499" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩皇城古都北京4日</h3>
           <div class="rp-price-row">
@@ -13123,7 +12394,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbjns4xiyns42" data-p-adult="1398" data-p-child="998" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩双古都北京西安7天（含北京西安高铁二等座）</h3>
           <div class="rp-price-row">
@@ -13153,7 +12424,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbxsns82" data-p-adult="1688" data-p-child="1098" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京西安上海8天</h3>
           <div class="rp-price-row">
@@ -13183,7 +12454,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbjyzns82" data-p-adult="1599" data-p-child="1299" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京长江三峡8天</h3>
           <div class="rp-price-row">
@@ -13213,7 +12484,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftxiyns82" data-p-adult="1398" data-p-child="898" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩古都西安长江三峡8天</h3>
           <div class="rp-price-row">
@@ -13243,7 +12514,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbxyzns102" data-p-adult="1898" data-p-child="1098" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京西安长江三峡10天</h3>
           <div class="rp-price-row">
@@ -13273,7 +12544,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftftbxsyzns122" data-p-adult="2278" data-p-child="1698" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩北京西安上海长江三峡12天</h3>
           <div class="rp-price-row">
@@ -13303,7 +12574,7 @@ window.REGION_PLANS.australia = `
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>    <div class="rp-route-pane" data-route="ch-ftenxy32" data-p-adult="749" data-p-child="649" data-p-infant="0">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
         <span class="rp-badge">纯玩无购物团</span>
         <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · Xi'an 3D2N Tour</h3>
           <div class="rp-price-row">
@@ -13322,6 +12593,576 @@ window.REGION_PLANS.australia = `
       <div class="rp-tab-panel active" data-tab="price">
         <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
 <table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">749</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">649</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">749</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">150</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">45</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02072" data-p-adult="1599" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西藏5日-洲际酒店特别版</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1599</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1599</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">450</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02092" data-p-adult="1899" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路 传奇东方高铁7日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1899</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">700</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02112" data-p-adult="2099" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）西安，丝绸之路9日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02132" data-p-adult="2099" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路，茶卡盐湖青海湖9日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02152" data-p-adult="2699" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）丝绸之路 青藏铁路 西藏10日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2699</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2699</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2699</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">800</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02172" data-p-adult="1799" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆北疆8日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1799</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1799</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">600</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02192" data-p-adult="1799" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆南疆8日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1799</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1799</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">600</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm02212" data-p-adult="3399" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （纯玩）新疆南疆北疆全景15日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3399</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>15天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3399</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3399</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa62" data-p-adult="1899" data-p-child="1599" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩6天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1899</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1599</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1599</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">560</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">160</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftlhwlxa102" data-p-adult="2699" data-p-child="1899" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路敦煌张掖青海湖西藏10天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2699</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1899</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1899</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">800</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">225</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftfturcns72" data-p-adult="1899" data-p-child="1199" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路新疆传奇西域高铁7天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1899</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1199</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1899</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">700</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxnnurcns92" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路茶卡盐湖青海新疆9天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1399</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1399</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">225</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftnxjns082" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩乐游北疆 喀纳斯禾木可可托海8天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1499</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1199</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1499</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">470</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftlxa52" data-p-adult="1599" data-p-child="1099" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 西藏布达拉宫羊卓雍湖卡若拉冰川纯玩5天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1599</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1099</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">450</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">140</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxiyurcns92" data-p-adult="2099" data-p-child="1399" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩丝路西安敦煌莫高窟新疆9天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2099</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1399</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2099</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1399</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2099</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">750</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">225</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxiylxa112" data-p-adult="3299" data-p-child="2299" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩西安敦煌张掖青海湖西藏11天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3299</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 2299</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3299</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">2299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">980</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">300</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftsxjns102" data-p-adult="1499" data-p-child="1199" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩西域南疆喀什卡湖盘龙古道10天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1499</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1199</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1499</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">470</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">190</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxjns16d2" data-p-adult="2599" data-p-child="2199" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩穿越南北疆全景16天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2599</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 2199</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">2199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">930</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">310</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-ftftxjdkns08d2" data-p-adult="1699" data-p-child="1099" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">纯玩无购物团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 纯玩新疆独库公路空中草原史诗8天</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1699</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1099</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1099</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">1699</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">540</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">150</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
       <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
 【行程安排】
@@ -13542,10 +13383,190 @@ window.REGION_PLANS.australia = `
 请在此处粘贴参团须知内容...
 </pre></div>
       <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm00172" data-p-adult="2168" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国超值特惠团 · 横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2168</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2168</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2468</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">850</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm00272" data-p-adult="4299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>18天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm00292" data-p-adult="4299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 4299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>17天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">4299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">4299</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm01052" data-p-adult="3299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/china.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国超值特惠团 · （澳洲包机票）川藏15天西藏团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">2999</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1100</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm00232" data-p-adult="3599" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-westlake.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3599</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3599</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1300</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="ch-cm00252" data-p-adult="3799" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/cn-greatwall.jpg')">
+        <span class="rp-badge">含机票特别订制团</span>
+        <div class="rp-detail-hero-in"><h3>中国纯玩无购物团 · 冰雪奇缘东北新年狂欢团12日-包机票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3799</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>12天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3799</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">3799</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1000</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;
 
 
 
@@ -13561,8 +13582,9 @@ window.REGION_PLANS.australia = `
 
 
 })();
+PROBE_SENTINEL_20260715
 
-                    window.REGION_PLANS.island = `
+                              window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -13870,7 +13892,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;
 
 
 
@@ -13886,7 +13908,7 @@ window.REGION_PLANS.australia = `
 
 
 
-                    window.REGION_PLANS.america = `
+                              window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -14699,7 +14721,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;
 
 
 
@@ -14713,7 +14735,7 @@ window.REGION_PLANS.australia = `
 
 
 
-                  window.REGION_PLANS.other = `
+                            window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -15153,7 +15175,8 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;
+
 
 
 

@@ -61,9 +61,14 @@
       const ta = document.getElementById('c-msg');
       if(route){
         let pre = '我想咨询：【' + route + '】';
-        if(date) pre += '\n意向出发日期：' + date;
-        pre += '\n\n';
+        if(date) pre += '\\n意向出发日期：' + date;
+        pre += '\\n\\n';
         ta.value = pre;
+        ta.focus();
+      }
+      const custom = q.get('custom') || '';
+      if(custom && !route){
+        ta.value = '我想私人订制：【' + custom + '】线路\\n\\n（请告诉我们出行人数、日期与偏好，客服将为您定制行程）';
         ta.focus();
       }
       if(typeof emailjs !== 'undefined'){ try{ emailjs.init('nZv17YnCO1xz5uLPZ'); }catch(e){} }
