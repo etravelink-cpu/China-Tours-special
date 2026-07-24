@@ -18,7 +18,7 @@ import sqlite3, re, io, os
 
 DB = r"D:/Hermes Agent/etrips-universal-db/etrips_product.db"
 JS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'assets','js','region-plans.js')
-MANAGED = ['china','asia','island','america','europe','other']
+MANAGED = ['china','asia','island','america','europe','other','australia','nz']
 
 # 大区 key -> (中文标题, 英文副标, 图片池)
 REGION_META = {
@@ -28,8 +28,10 @@ REGION_META = {
  'america': (('美国 · 加拿大 · 南美','America & Canada'),          ['america.jpg','canada.jpg','usa.jpg']),
  'europe':  (('欧洲 · 经典环游','Europe Tours'),                   ['europe.jpg','paris.jpg','greece.jpg']),
  'other':   (('其他 · 更多目的地','Other Destinations'),           ['other.jpg','custom.jpg']),
+ 'australia': (('澳大利亚 · 全景旅游','Australia Region Tours'),   ['hero-sydney.jpg','au-sydney.jpg','au-uluru.jpg','au-apostles.jpg']),
+ 'nz':      (('新西兰 · 纯净之旅','New Zealand Tours'),            ['nz.jpg','nz-queenstown.jpg','nz-lake.jpg']),
 }
-REGION_KEY = {'中国':'china','亚洲':'asia','海岛':'island','美加':'america','欧洲':'europe','其他':'other'}
+REGION_KEY = {'中国':'china','亚洲':'asia','海岛':'island','美加':'america','欧洲':'europe','其他':'other','澳洲':'australia','新西兰':'nz'}
 
 # 标准类目固定顺序(全局统一); 空则隐藏
 CAT_ORDER = ['超值特惠团','纯玩无购物团','含机票特别订制团','单门票·单项体验','私人订制','签证·其他']

@@ -3,10 +3,10 @@
 (function(){
   window.REGION_PLANS = window.REGION_PLANS || {};
 
-window.REGION_PLANS.australia = `
+  window.REGION_PLANS.australia = `
 <div class="rp-banner">
   <div class="rp-slides">
-    <div class="rp-slide active" style="background-image:url('assets/img/hero-sydney.jpg')"></div>
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/hero-sydney.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/au-sydney.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/au-uluru.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/au-apostles.jpg')"></div>
@@ -14,2290 +14,6982 @@ window.REGION_PLANS.australia = `
   <div class="rp-banner-in">
     <h1>澳大利亚 · 全景旅游</h1>
     <div class="rp-sub">Australia Region Tours</div>
-    <p class="rp-desc">9 大目的地全覆盖 · 一日游 / 多日团 / 定制行程 · 纯玩无购物 · 中文导游</p>
+    <p class="rp-desc">点击左侧区域，查看各地核心行程。详情与班期以客服查询为准。</p>
   </div>
 </div>
 <div class="rp-layout">
-  <nav class="rp-nav2" aria-label="澳洲目的地">
-    <div class="rp-group open" data-group="sydney">
-      <div class="rp-group-title">悉尼及周边 <span class="rp-arrow">▼</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route active" data-route="au-blue-mountain">蓝山有氧+动物园一日游</div>
-        <div class="rp-route" data-route="au-stephens">史蒂芬港观海豚一日游</div>
-        <div class="rp-route" data-route="au-hunter">猎人谷品酒一日游</div>
-        <div class="rp-route" data-route="au-sydney-city">悉尼市区网红地标一日游</div>
-        <div class="rp-route" data-route="au-blue-star">蓝山日落观星精品小团</div>
+  <nav class="rp-nav2" aria-label="australia 目的地">
+      <div class="rp-cat" data-cat="超值特惠团">
+        <div class="rp-cat-title">超值特惠团 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group" data-group="跨地区多地联游">
+          <div class="rp-group-title">跨地区多地联游 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novacnsoolmel">凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】</div>
+        <div class="rp-route" data-route="au-novasydcnsool">悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】</div>
+        <div class="rp-route" data-route="au-novasydcnsmel">悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】</div>
+        <div class="rp-route" data-route="au-novasydmel8pg">悉尼墨尔本 8 日游</div>
+        <div class="rp-route" data-route="au-novasydmel7pg">悉尼墨尔本 7 日游</div>
+        <div class="rp-route" data-route="au-novasydmel6pg">悉尼墨尔本 6 日游</div>
+        <div class="rp-route" data-route="au-novacnsool">凯恩斯 - 黄金海岸 6 日游</div>
+        <div class="rp-custom" data-custom="1" data-board="跨地区多地联游">✨ 私人订制（跨地区多地联游）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="悉尼及周边">
+          <div class="rp-group-title">悉尼及周边 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novasyd4d">悉尼四天三晚经典之旅</div>
+        <div class="rp-route" data-route="au-novahun2d">猎人谷热气球 + 中央海岸 2 日游</div>
+        <div class="rp-route" data-route="au-novasydhun">【精品小团】猎人谷品酒豪华之旅一日游</div>
+        <div class="rp-route" data-route="au-novasydbms">悉尼蓝山日落+观星精品小团</div>
+        <div class="rp-route" data-route="au-novasydpst">【每周二、四、日固定出发】史蒂芬港观海豚一日游</div>
+        <div class="rp-route" data-route="au-novasydbmts">【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】</div>
+        <div class="rp-route" data-route="au-novasydjvs">蓝色海洋路 & 杰维斯湾一日游</div>
+        <div class="rp-route" data-route="au-novasydzjg">复古铁路蓝山风光一日游</div>
+        <div class="rp-route" data-route="au-novasydcbr">首都堪培拉一日游【每周六，日出发】</div>
+        <div class="rp-route" data-route="au-novasydbmt">【天天出发】蓝山有氧一日游</div>
+        <div class="rp-route" data-route="au-novasydsct">【四人成团 天天出发】悉尼网红地标一日游</div>
+        <div class="rp-route" data-route="au-pvsn002">2026热卖雪山团</div>
+        <div class="rp-route" data-route="au-suppv0003">乌鲁鲁卡塔丘塔经典之旅3日游 Uluru Classic</div>
+        <div class="rp-custom" data-custom="1" data-board="悉尼及周边">✨ 私人订制（悉尼及周边）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="凯恩斯(大堡礁)">
+          <div class="rp-group-title">凯恩斯(大堡礁) <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novacnsxmas26">【圣诞】2026 年凯恩斯豪华圣诞 4 日航空团</div>
+        <div class="rp-route" data-route="au-novacns3d4d">凯恩斯 3/4 日经典游</div>
+        <div class="rp-route" data-route="au-novacnssegd">【Evolution 蜕变号】豪华游船超值一日游</div>
+        <div class="rp-route" data-route="au-novacnsdbl">【大冒险号】绝代双礁一日游</div>
+        <div class="rp-route" data-route="au-novacnssga">【银梭号】阿金考特大堡礁一日游</div>
+        <div class="rp-route" data-route="au-novacnsgbr01">【梦幻丽礁号】凯恩斯摩尔外大堡礁一日游</div>
+        <div class="rp-route" data-route="au-novacnsnga">【大冒险号】诺曼 / 摩尔外海大堡礁一日游船</div>
+        <div class="rp-route" data-route="au-novacnssrc02">【太阳恋人号】摩尔外海大堡礁一日游</div>
+        <div class="rp-route" data-route="au-novacnss02">凯恩斯 15000 英尺海景高空跳伞</div>
+        <div class="rp-route" data-route="au-novawsi1dt">白天堂沙滩双舒适游船一日游</div>
+        <div class="rp-route" data-route="au-novacwcsd1d">卡米拉帆船航海一日游</div>
+        <div class="rp-route" data-route="au-novacnstrr">塔利河漂流一日游 (含凯恩斯往返接送)</div>
+        <div class="rp-route" data-route="au-novarctwb">【雷霆猫号】白天堂沙滩一日游</div>
+        <div class="rp-route" data-route="au-novacnsrfd">热带雨林土著文化一日游</div>
+        <div class="rp-route" data-route="au-novacnsdm1d">棕榈湾 + 鳄鱼园 + 道格拉斯港一日游</div>
+        <div class="rp-route" data-route="au-novacnsppd">阿瑟顿高原 - 天空之城一日游</div>
+        <div class="rp-route" data-route="au-novacnsbr">巴伦河半日漂流（含凯恩斯往返接送）</div>
+        <div class="rp-route" data-route="au-novacnsgbg">【大猫号】绿岛体验一日游船</div>
+        <div class="rp-custom" data-custom="1" data-board="凯恩斯(大堡礁)">✨ 私人订制（凯恩斯(大堡礁)）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="墨尔本及周边">
+          <div class="rp-group-title">墨尔本及周边 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novamel5days">墨尔本 5 日全景之旅</div>
+        <div class="rp-route" data-route="au-novamel4days">墨尔本 4 日经典之旅</div>
+        <div class="rp-route" data-route="au-novamel3days">墨尔本 3 日休闲之旅</div>
+        <div class="rp-route" data-route="au-novamelpbpi">【精致奔驰小团】蒸汽火车 & 企鹅岛一日游</div>
+        <div class="rp-route" data-route="au-novamelppc">【重磅经典必玩】蒸汽小火车 + 企鹅岛 天天出发！一日游</div>
+        <div class="rp-route" data-route="au-novamelmpt">【重磅】墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游</div>
+        <div class="rp-route" data-route="au-novamelsvh">【體驗淘金熱】疏芬山淘金鎮—週三/週六出發！</div>
+        <div class="rp-route" data-route="au-novamelpbi">【菲利普岛必玩】彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</div>
+        <div class="rp-route" data-route="au-novamelgori">【天天出发】经典大洋路一日游</div>
+        <div class="rp-route" data-route="au-suppv0007">墨尔本4天巴士团</div>
+        <div class="rp-custom" data-custom="1" data-board="墨尔本及周边">✨ 私人订制（墨尔本及周边）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="昆士兰 黄金海岸&布里斯班">
+          <div class="rp-group-title">昆士兰 黄金海岸&布里斯班 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novaool3dk">【全新】黄金海岸 4 日游</div>
+        <div class="rp-route" data-route="au-novatang3d">海豚岛全新趣味 3 天 2 晚</div>
+        <div class="rp-route" data-route="au-novabnem2">【天阁露玛】摩顿海豚岛三天两夜套餐</div>
+        <div class="rp-route" data-route="au-novaoolcct">可伦宾动物园 + 翠儿河捉蟹一日游</div>
+        <div class="rp-route" data-route="au-novaool4o3">【特价】黄金海岸四大主题公园 3 日套票</div>
+        <div class="rp-route" data-route="au-novaoolby">【全新】拜伦湾一日游</div>
+        <div class="rp-route" data-route="au-novaooltro">热带水果园 + 危险角一日游</div>
+        <div class="rp-route" data-route="au-novaooltam">天宝林山 + 蓝光萤火虫自然风光一日游</div>
+        <div class="rp-route" data-route="au-novabnetgl">布里斯班摩顿海豚岛一日游套餐（多种选择）</div>
+        <div class="rp-route" data-route="au-novaoolgwn">黄金海岸蓝光萤火虫中文夜游</div>
+        <div class="rp-route" data-route="au-novaoolcrb">黄金海岸翠儿河捉蟹 + 生蚝农场半日游</div>
+        <div class="rp-route" data-route="au-suppv0008">黄金海岸巴士团</div>
+        <div class="rp-custom" data-custom="1" data-board="昆士兰 黄金海岸&布里斯班">✨ 私人订制（昆士兰 黄金海岸&布里斯班）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="圣灵群岛(汉密尔顿/艾尔利海滩)">
+          <div class="rp-group-title">圣灵群岛(汉密尔顿/艾尔利海滩) <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novahi4dpack">汉密尔顿岛自助游套餐</div>
+        <div class="rp-route" data-route="au-novawsifcg">【汉密尔顿岛出发】心形大堡礁直升机 + 游船一日游</div>
+        <div class="rp-route" data-route="au-novarcjet">艾尔利滩海上摩托自驾 [英文]</div>
+        <div class="rp-route" data-route="au-novarcsail">圣灵群岛帆船一日游</div>
+        <div class="rp-custom" data-custom="1" data-board="圣灵群岛(汉密尔顿/艾尔利海滩)">✨ 私人订制（圣灵群岛(汉密尔顿/艾尔利海滩)）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="珀斯/西澳">
+          <div class="rp-group-title">珀斯/西澳 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novasspl7d26">西澳粉色海洋心动 7 日游 (粉红湖 / 自然之窗 / 龙虾美食等)</div>
+        <div class="rp-route" data-route="au-novasspl6d26">西澳粉色海洋微笑 6 日游 (粉红湖 / 自然之窗 / 龙虾美食等)</div>
+        <div class="rp-route" data-route="au-novasspl5d26">西澳粉色海洋小火车灯塔童话 5 日游</div>
+        <div class="rp-route" data-route="au-novassplb4d">西澳粉红湖小火车浪漫 4 日游</div>
+        <div class="rp-route" data-route="au-novasspl3d26">西澳粉红湖自然之窗龙虾美食经典 3 日游</div>
+        <div class="rp-route" data-route="au-novaperpin">尖峰石阵品质一日游（每周三、六出发）</div>
+        <div class="rp-route" data-route="au-novapermrt">玛格利特河一日游（每周四出发）</div>
+        <div class="rp-route" data-route="au-novaperwrd">波浪岩品质一日游（每周五出发）</div>
+        <div class="rp-route" data-route="au-novapersvd">天鹅河谷美食美酒一日游（每周日出发）</div>
+        <div class="rp-route" data-route="au-novaperrot">罗特尼斯岛一日游 (Rottnest Express)</div>
+        <div class="rp-route" data-route="au-suppv0004">2026-2027 nologo 玩轉西澳(289)</div>
+        <div class="rp-custom" data-custom="1" data-board="珀斯/西澳">✨ 私人订制（珀斯/西澳）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="乌鲁鲁/北领地">
+          <div class="rp-group-title">乌鲁鲁/北领地 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novaatvauk5">乌鲁鲁帝王谷精品五日游（维珍团）四人起成团</div>
+        <div class="rp-route" data-route="au-novaatusp4">乌鲁鲁精品中文 4 日游</div>
+        <div class="rp-route" data-route="au-novaatuk3">乌鲁鲁帝王谷探索之旅 3 日游 [四人成团]</div>
+        <div class="rp-route" data-route="au-novaatuw3">乌鲁鲁卡塔丘塔经典之旅三日游</div>
+        <div class="rp-route" data-route="au-novaatvw3">乌鲁鲁经典之旅三日游（维珍团）天天出发</div>
+        <div class="rp-route" data-route="au-novaatay03">帝王谷一日游</div>
+        <div class="rp-route" data-route="au-novaayqe04">寂静之声晚宴</div>
+        <div class="rp-route" data-route="au-novaatay04">卡塔丘塔日出及风之谷徒步之旅</div>
+        <div class="rp-route" data-route="au-novaatay01">卡塔丘塔和乌鲁鲁日落之旅</div>
+        <div class="rp-route" data-route="au-novaatay02">乌鲁鲁日出，圣迹寻踪及岩石环游之旅</div>
+        <div class="rp-route" data-route="au-novaatay07">乌鲁鲁摄影观星之旅</div>
+        <div class="rp-route" data-route="au-novaatay06">乌鲁鲁马拉文化徒步之旅</div>
+        <div class="rp-route" data-route="au-novaayqecr">红土中心骑骆驼之旅 [英文]</div>
+        <div class="rp-route" data-route="au-novaayqe03">极致浪漫日落原野星光展 (含接送无导游)</div>
+        <div class="rp-custom" data-custom="1" data-board="乌鲁鲁/北领地">✨ 私人订制（乌鲁鲁/北领地）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="塔斯马尼亚">
+          <div class="rp-group-title">塔斯马尼亚 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novatas6dt">塔斯马尼亚深度 6 日游</div>
+        <div class="rp-route" data-route="au-novatas5dt">塔斯马尼亚全景 5 日游</div>
+        <div class="rp-route" data-route="au-novatas5dts">塔斯马尼亚南部 5 日游</div>
+        <div class="rp-route" data-route="au-novatas4dt">塔斯马尼亚 4 日精华游</div>
+        <div class="rp-route" data-route="au-novatas3dt">塔斯马尼亚 3 日精华游</div>
+        <div class="rp-route" data-route="au-novaptagfe">塔斯马尼亚海鲜盛宴一日游船</div>
+        <div class="rp-route" data-route="au-novatasf">塔斯马尼亚海钓</div>
+        <div class="rp-route" data-route="au-novatasmar">玛丽亚岛纯净之美一日游</div>
+        <div class="rp-route" data-route="au-novataspot">亚瑟港一日游</div>
+        <div class="rp-route" data-route="au-novapcbpue">塔斯曼岛游船 [英文]</div>
+        <div class="rp-route" data-route="au-novap40ycu">塔斯马尼亚布鲁尼岛游船 [英文]</div>
+        <div class="rp-route" data-route="au-novapbry5s">酒杯湾游船 [英文]</div>
+        <div class="rp-route" data-route="au-novataswgb">酒杯湾一日游</div>
+        <div class="rp-route" data-route="au-novatasmfl">费尔德山一日游</div>
+        <div class="rp-route" data-route="au-novapecyla">亚瑟港英文一日游套票</div>
+        <div class="rp-route" data-route="au-novatashba">霍巴特周边 + 里奇蒙小镇一日游</div>
+        <div class="rp-custom" data-custom="1" data-board="塔斯马尼亚">✨ 私人订制（塔斯马尼亚）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="阿德莱德/南澳">
+          <div class="rp-group-title">阿德莱德/南澳 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novaadlkid">袋鼠岛精华一日游（中文）</div>
+        <div class="rp-route" data-route="au-novaadlmrd">穆理河仙履奇缘一日游</div>
+        <div class="rp-route" data-route="au-novaadlbvd">红酒之乡巴罗莎谷一日游</div>
+        <div class="rp-route" data-route="au-novaadlhmv">阿德莱德市区与汗道夫德国村一日游</div>
+        <div class="rp-route" data-route="au-novaadlfpd">菲尔半岛一日游</div>
+        <div class="rp-route" data-route="au-suppv0006">2026-2027_nologo 南澳阿德萊德(191)</div>
+        <div class="rp-custom" data-custom="1" data-board="阿德莱德/南澳">✨ 私人订制（阿德莱德/南澳）</div>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="rp-group" data-group="melbourne">
-      <div class="rp-group-title">墨尔本及周边 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-melbourne-mel5days">墨尔本 5 日全景之旅</div>
-        <div class="rp-route" data-route="au-melbourne-mel4days">墨尔本 4 日经典之旅</div>
-        <div class="rp-route" data-route="au-melbourne-mel3days">墨尔本 3 日休闲之旅</div>
-        <div class="rp-route" data-route="au-melbourne-melpbpr">蒸汽火车 & 企鹅岛一日游</div>
-        <div class="rp-route" data-route="au-melbourne-melppc">蒸汽小火车 + 企鹅岛 天天出发！一日游</div>
-        <div class="rp-route" data-route="au-melbourne-melmpt">墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游</div>
-        <div class="rp-route" data-route="au-melbourne-melsvh">疏芬山淘金镇一日游</div>
-        <div class="rp-route" data-route="au-melbourne-melpbi">彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</div>
-        <div class="rp-route" data-route="au-melbourne-melgori">经典大洋路一日游</div>
+      <div class="rp-cat" data-cat="单门票·单项体验">
+        <div class="rp-cat-title">单门票·单项体验 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group" data-group="单门票 / 单项体验">
+          <div class="rp-group-title">单门票 / 单项体验 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-novasyd2101">【瑞皮科】悉尼海港午 / 晚餐游船</div>
+        <div class="rp-route" data-route="au-novasdigi">悉尼数字沉浸娱乐乐园</div>
+        <div class="rp-route" data-route="au-novaoolsdb">拜伦湾高空跳伞 15000 英尺</div>
+        <div class="rp-route" data-route="au-novasydsdw">悉尼卧龙岗海景高空跳伞 15000 英尺</div>
+        <div class="rp-route" data-route="au-novasydsdn">悉尼北部纽卡斯尔 15000 英尺海景高空跳伞</div>
+        <div class="rp-route" data-route="au-novasydcha">悉尼卡姆登谷 60 分钟热气球飞行 (含特色早餐)</div>
+        <div class="rp-route" data-route="au-novasydhha">悉尼猎人谷 60 分钟热气球飞行 (含特色早餐)</div>
+        <div class="rp-route" data-route="au-novasydcsb">悉尼晚餐歌舞表演游轮</div>
+        <div class="rp-route" data-route="au-novasydcvc">2 小时豪华 360° 观景玻璃船晚餐配餐酒</div>
+        <div class="rp-route" data-route="au-novasyd8sw">蓝山景观世界缆车通票</div>
+        <div class="rp-route" data-route="au-novasydszt">悉尼动物园门票</div>
+        <div class="rp-route" data-route="au-novasydctz">悉尼塔龙加动物园门票</div>
+        <div class="rp-route" data-route="au-novasydarp">悉尼中央海岸爬虫公园门票</div>
+        <div class="rp-route" data-route="au-novasydjdc">悉尼南部杰维斯湾观海豚 / 观鲸游船</div>
+        <div class="rp-route" data-route="au-novasydbpw">悉尼费瑟戴尔野生动物园门票</div>
+        <div class="rp-route" data-route="au-novasydsym">西姆比欧野生动物园门票</div>
+        <div class="rp-route" data-route="au-novasydsbt">悉尼史蒂芬港滑沙门票</div>
+        <div class="rp-route" data-route="au-novasydpdc">史蒂芬港海豚 / 观鲸游船票</div>
+        <div class="rp-route" data-route="au-novasydcsl">悉尼水族馆门票</div>
+        <div class="rp-route" data-route="au-novasydpse">史蒂芬港鲨鱼馆 鲨鱼与鳐鱼亲密接触</div>
+        <div class="rp-route" data-route="au-novasydoph">悉尼歌剧院内部解说文化探索之旅</div>
+        <div class="rp-route" data-route="au-novasydcwl">悉尼情人港室内野生动物园门票</div>
+        <div class="rp-route" data-route="au-novasydcmt">悉尼杜莎夫人蜡像馆门票</div>
+        <div class="rp-route" data-route="au-novasydfry">1 小时悉尼海港观光游船</div>
+        <div class="rp-route" data-route="au-novasydcmm">悉尼海事博物馆通票</div>
+        <div class="rp-route" data-route="au-novasydcst">悉尼蜡像馆门票 + 4D 电影体验</div>
+        <div class="rp-route" data-route="au-novaactgg">堪培拉全金小人国门票</div>
+        <div class="rp-route" data-route="au-novasyd404">悉尼精华景点四选一套票</div>
+        <div class="rp-route" data-route="au-novasyd304">悉尼精华景点四选三套票</div>
+        <div class="rp-route" data-route="au-novasyd204">悉尼精华景点四选二套票</div>
+        <div class="rp-route" data-route="au-novasydww2">悉尼观鲸 2.5 小时刺激快艇</div>
+        <div class="rp-route" data-route="au-novasydlc1">Magistic 悉尼海港自助午餐游船</div>
+        <div class="rp-route" data-route="au-novasydpqb">史蒂芬港四驱车体验</div>
+        <div class="rp-route" data-route="au-novasyddc1">悉尼海港 1 小时暮光晚餐巡游</div>
+        <div class="rp-route" data-route="au-novasydww4">悉尼 4 小时含餐观鲸游船</div>
+        <div class="rp-route" data-route="au-novasydstb">悉尼塔天空旋转餐厅自助餐</div>
+        <div class="rp-route" data-route="au-novasydww3">悉尼 2 小时快捷 / 2.5 小时探索观鲸游船</div>
+        <div class="rp-route" data-route="au-novasydjet">悉尼喷射快艇探险体验</div>
+        <div class="rp-route" data-route="au-novasydctf">塔龙加动物园 + 悉尼海港渡轮票</div>
+        <div class="rp-route" data-route="au-novasydbig">悉尼陆上 + 水下双巴士通票</div>
+        <div class="rp-route" data-route="au-novameljab">墨尔本城市中心 60 分钟热气球飞行体验</div>
+        <div class="rp-route" data-route="au-novamelzoo">墨尔本动物园门票</div>
+        <div class="rp-route" data-route="au-novamelsh">疏芬山金矿门票</div>
+        <div class="rp-route" data-route="au-novamelslt">墨尔本水族馆门票</div>
+        <div class="rp-route" data-route="au-novamelmar">墨尔本 Maru 考拉动物园门票</div>
+        <div class="rp-route" data-route="au-novamelcho">菲利普岛巧克力工厂门票</div>
+        <div class="rp-route" data-route="au-novaoolhab">黄金海岸热气球体验</div>
+        <div class="rp-route" data-route="au-novaoolobs">黄金海岸狂野奇观表演入场券</div>
+        <div class="rp-route" data-route="au-novaoolwww">黄金海岸狂野水世界门票</div>
+        <div class="rp-route" data-route="au-novaoolswa">黄金海岸海洋世界门票</div>
+        <div class="rp-route" data-route="au-novaoolmva">黄金海岸华纳电影世界门票</div>
+        <div class="rp-route" data-route="au-novaooldwa">黄金海岸梦幻世界主题公园门票</div>
+        <div class="rp-route" data-route="au-novaoolczt">可伦宾野生动物园门票 (可选抱考拉)</div>
+        <div class="rp-route" data-route="au-novaoolfrt">热带水果园门票</div>
+        <div class="rp-route" data-route="au-novapqagc">黄金海岸鸭子船</div>
+        <div class="rp-route" data-route="au-novaoolpca">天堂农庄门票</div>
+        <div class="rp-route" data-route="au-novaoolq1a">Q1 大厦 360 度观景台门票</div>
+        <div class="rp-route" data-route="au-novarfs7">库兰达热带雨林单程缆车 + 单程观光火车</div>
+        <div class="rp-route" data-route="au-novacnstube">凯恩斯半日 Tubing 漂流 (含往返接送)</div>
+        <div class="rp-route" data-route="au-novacnsktr">库兰达热带雨林缆车票</div>
+        <div class="rp-route" data-route="au-novacnsrfs">库兰达热带雨林公园套票</div>
+        <div class="rp-route" data-route="au-novacnspdw">道格拉斯港野生动物栖息地动物园</div>
+        <div class="rp-route" data-route="au-novacnskbg">库兰达小镇蝴蝶园门票</div>
+        <div class="rp-custom" data-custom="1" data-board="单门票 / 单项体验">✨ 私人订制（单门票 / 单项体验）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="悉尼及周边">
+          <div class="rp-group-title">悉尼及周边 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-aus">史蒂芬港观海豚一日游</div>
+        <div class="rp-route" data-route="au-aus">猎人谷品酒一日游</div>
+        <div class="rp-route" data-route="au-aus">悉尼市区网红地标一日游</div>
+        <div class="rp-route" data-route="au-aus">蓝山日落观星精品小团</div>
+        <div class="rp-custom" data-custom="1" data-board="悉尼及周边">✨ 私人订制（悉尼及周边）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="墨尔本及周边">
+          <div class="rp-group-title">墨尔本及周边 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-aus">蒸汽火车 & 企鹅岛一日游</div>
+        <div class="rp-route" data-route="au-aus">蒸汽小火车 + 企鹅岛 天天出发！一日游</div>
+        <div class="rp-route" data-route="au-aus">墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游</div>
+        <div class="rp-route" data-route="au-aus">疏芬山淘金镇一日游</div>
+        <div class="rp-route" data-route="au-aus">彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</div>
+        <div class="rp-route" data-route="au-aus">经典大洋路一日游</div>
+        <div class="rp-custom" data-custom="1" data-board="墨尔本及周边">✨ 私人订制（墨尔本及周边）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="昆士兰 黄金海岸&布里斯班">
+          <div class="rp-group-title">昆士兰 黄金海岸&布里斯班 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-aus34">黄金海岸 3/4 日游</div>
+        <div class="rp-route" data-route="au-aus">摩顿海豚岛三天两夜套餐</div>
+        <div class="rp-route" data-route="au-aus3">黄金海岸四大主题公园 3 日套票</div>
+        <div class="rp-route" data-route="au-aus">拜伦湾一日游</div>
+        <div class="rp-custom" data-custom="1" data-board="昆士兰 黄金海岸&布里斯班">✨ 私人订制（昆士兰 黄金海岸&布里斯班）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="凯恩斯(大堡礁)">
+          <div class="rp-group-title">凯恩斯(大堡礁) <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-aus">心形大堡礁直升机 + 游船一日游</div>
+        <div class="rp-route" data-route="au-aus">豪华游船超值一日游</div>
+        <div class="rp-route" data-route="au-aus">绝代双礁一日游</div>
+        <div class="rp-route" data-route="au-aus">阿金考特大堡礁一日游</div>
+        <div class="rp-route" data-route="au-aus">凯恩斯摩尔外大堡礁一日游</div>
+        <div class="rp-route" data-route="au-aus">诺曼 / 摩尔外海大堡礁一日游船</div>
+        <div class="rp-route" data-route="au-aus">摩尔外海大堡礁一日游</div>
+        <div class="rp-route" data-route="au-aus">白天堂沙滩一日游</div>
+        <div class="rp-route" data-route="au-aus">绿岛体验一日游船</div>
+        <div class="rp-custom" data-custom="1" data-board="凯恩斯(大堡礁)">✨ 私人订制（凯恩斯(大堡礁)）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="珀斯/西澳">
+          <div class="rp-group-title">珀斯/西澳 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-aus7">西澳粉色海洋心动7日游</div>
+        <div class="rp-route" data-route="au-aus6">西澳粉色海洋微笑6日游</div>
+        <div class="rp-route" data-route="au-aus5">西澳粉色海洋小火车灯塔童话5日游</div>
+        <div class="rp-route" data-route="au-aus4">西澳粉红湖小火车浪漫4日游</div>
+        <div class="rp-route" data-route="au-aus3">西澳粉红湖自然之窗龙虾美食经典3日游</div>
+        <div class="rp-route" data-route="au-aus">尖峰石阵品质一日游</div>
+        <div class="rp-route" data-route="au-aus">玛格利特河一日游</div>
+        <div class="rp-route" data-route="au-aus">波浪岩品质一日游</div>
+        <div class="rp-route" data-route="au-aus">天鹅河谷美食美酒一日游</div>
+        <div class="rp-route" data-route="au-aus">罗特尼斯岛一日游</div>
+        <div class="rp-custom" data-custom="1" data-board="珀斯/西澳">✨ 私人订制（珀斯/西澳）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="塔斯马尼亚">
+          <div class="rp-group-title">塔斯马尼亚 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-aus5">塔斯马尼亚全景5日游</div>
+        <div class="rp-route" data-route="au-aus6">塔斯马尼亚深度6日游</div>
+        <div class="rp-route" data-route="au-aus5">塔斯马尼亚南部5日游</div>
+        <div class="rp-route" data-route="au-aus4">塔斯马尼亚4日精华游</div>
+        <div class="rp-route" data-route="au-aus3">塔斯马尼亚3日精华游</div>
+        <div class="rp-route" data-route="au-aus">霍巴特周边+里奇蒙小镇一日游</div>
+        <div class="rp-custom" data-custom="1" data-board="塔斯马尼亚">✨ 私人订制（塔斯马尼亚）</div>
+          </div>
+        </div>
+        <div class="rp-group" data-group="阿德莱德/南澳">
+          <div class="rp-group-title">阿德莱德/南澳 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="au-aus">袋鼠岛精华一日游</div>
+        <div class="rp-custom" data-custom="1" data-board="阿德莱德/南澳">✨ 私人订制（阿德莱德/南澳）</div>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="rp-group" data-group="qld">
-      <div class="rp-group-title">黄金海岸&布里斯班 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-qld-ool3dk">黄金海岸 3/4 日游</div>
-        <div class="rp-route" data-route="au-qld-tang3d">海豚岛全新趣味 3 天 2 晚</div>
-        <div class="rp-route" data-route="au-qld-bnem2">摩顿海豚岛三天两夜套餐</div>
-        <div class="rp-route" data-route="au-qld-oolcct">可伦宾动物园 + 翠儿河捉蟹一日游</div>
-        <div class="rp-route" data-route="au-qld-ool403">黄金海岸四大主题公园 3 日套票</div>
-        <div class="rp-route" data-route="au-qld-oolby">拜伦湾一日游</div>
-        <div class="rp-route" data-route="au-qld-ooltro">热带水果园 + 危险角一日游</div>
-        <div class="rp-route" data-route="au-qld-ooltam">天宝林山 + 蓝光萤火虫自然风光一日游</div>
-        <div class="rp-route" data-route="au-qld-bhetgl">布里斯班摩顿海豚岛一日游套餐（多种选择）</div>
-        <div class="rp-route" data-route="au-qld-oolgwn">黄金海岸蓝光萤火虫中文夜游</div>
-        <div class="rp-route" data-route="au-qld-oolcrb">黄金海岸翠儿河捉蟹 + 生蚝农场半日游</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="cairns">
-      <div class="rp-group-title">凯恩斯（大堡礁） <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-cairns-cns3d4d">凯恩斯 3/4 日经典游</div>
-        <div class="rp-route" data-route="au-cairns-hi4dpack">汉密尔顿岛自助游套餐</div>
-        <div class="rp-route" data-route="au-cairns-wsifcg">心形大堡礁直升机 + 游船一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnssegd">豪华游船超值一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnsdbl">绝代双礁一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnssga">阿金考特大堡礁一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnsgbr01">凯恩斯摩尔外大堡礁一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnsnga">诺曼 / 摩尔外海大堡礁一日游船</div>
-        <div class="rp-route" data-route="au-cairns-cnssrc02">摩尔外海大堡礁一日游</div>
-        <div class="rp-route" data-route="au-cairns-wsi1dt">白天堂沙滩双舒适游船一日游</div>
-        <div class="rp-route" data-route="au-cairns-cwcsd1d">卡米拉帆船航海一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnstrr">塔利河漂流一日游 (含凯恩斯往返接送)</div>
-        <div class="rp-route" data-route="au-cairns-rctwb">白天堂沙滩一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnsrfd">热带雨林土著文化一日游</div>
-        <div class="rp-route" data-route="au-cairns-rcsail">圣灵群岛帆船一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnsdm1d">棕榈湾 + 鳄鱼园 + 道格拉斯港一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnsppd">阿瑟顿高原 - 天空之城一日游</div>
-        <div class="rp-route" data-route="au-cairns-cnsbr">巴伦河半日漂流（含凯恩斯往返接送）</div>
-        <div class="rp-route" data-route="au-cairns-cnsgbg">绿岛体验一日游船</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="whitsunday">
-      <div class="rp-group-title">圣灵群岛 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list"><div class="rp-route rp-coming" data-route="au-whitsunday" data-p-adult="1699" data-p-child="0" data-p-infant="0">汉密尔顿岛 / 心形礁（见凯恩斯大堡礁组）</div></div>
-    </div>
-    <div class="rp-group" data-group="multi">
-      <div class="rp-group-title">澳洲跨地区联游 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-multi-cnsoolmel">凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】</div>
-        <div class="rp-route" data-route="au-multi-sydcnsool">悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】</div>
-        <div class="rp-route" data-route="au-multi-sydcnsmel">悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】</div>
-        <div class="rp-route" data-route="au-multi-sydmel8pg">悉尼墨尔本 8 日游</div>
-        <div class="rp-route" data-route="au-multi-sydmel7pg">悉尼墨尔本 7 日游</div>
-        <div class="rp-route" data-route="au-multi-sydmel6pg">悉尼墨尔本 6 日游</div>
-        <div class="rp-route" data-route="au-multi-cnsool">凯恩斯 - 黄金海岸 6 日游</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="perth">
-      <div class="rp-group-title">西澳 / 珀斯 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-perth-7d">西澳粉色海洋心动7日游</div>
-        <div class="rp-route" data-route="au-perth-6d" data-p-adult="1499" data-p-child="0" data-p-infant="0">西澳粉色海洋微笑6日游</div>
-        <div class="rp-route" data-route="au-perth-5d">西澳粉色海洋小火车灯塔童话5日游</div>
-        <div class="rp-route" data-route="au-perth-4d">西澳粉红湖小火车浪漫4日游</div>
-        <div class="rp-route" data-route="au-perth-3d">西澳粉红湖自然之窗龙虾美食经典3日游</div>
-        <div class="rp-route" data-route="au-perth-pinnacles" data-p-adult="200" data-p-child="0" data-p-infant="0">尖峰石阵品质一日游</div>
-        <div class="rp-route" data-route="au-perth-margaret" data-p-adult="198" data-p-child="0" data-p-infant="0">玛格利特河一日游</div>
-        <div class="rp-route" data-route="au-perth-wave" data-p-adult="195" data-p-child="0" data-p-infant="0">波浪岩品质一日游</div>
-        <div class="rp-route" data-route="au-perth-swamp" data-p-adult="165" data-p-child="0" data-p-infant="0">天鹅河谷美食美酒一日游</div>
-        <div class="rp-route" data-route="au-perth-rottnest" data-p-adult="85" data-p-child="0" data-p-infant="0">罗特尼斯岛一日游</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="tas">
-      <div class="rp-group-title">塔斯马尼亚 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-tas-5dt">塔斯马尼亚全景5日游</div>
-        <div class="rp-route" data-route="au-tas-6dt">塔斯马尼亚深度6日游</div>
-        <div class="rp-route" data-route="au-tas-5dts">塔斯马尼亚南部5日游</div>
-        <div class="rp-route" data-route="au-tas-4dt">塔斯马尼亚4日精华游</div>
-        <div class="rp-route" data-route="au-tas-3dt">塔斯马尼亚3日精华游</div>
-        <div class="rp-route" data-route="au-tas-seafood">塔斯马尼亚海鲜盛宴一日游船</div>
-        <div class="rp-route" data-route="au-tas-fish">塔斯马尼亚海钓</div>
-        <div class="rp-route" data-route="au-tas-maria">玛丽亚岛纯净之美一日游</div>
-        <div class="rp-route" data-route="au-tas-pot">亚瑟港一日游</div>
-        <div class="rp-route" data-route="au-tas-wgb">酒杯湾一日游</div>        <div class="rp-route" data-route="au-tas-field">费尔德山一日游</div>        <div class="rp-route" data-route="au-tas-hobart">霍巴特周边+里奇蒙小镇一日游</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="adelaide">
-      <div class="rp-group-title">阿德莱德 / 南澳 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-adl-kid">袋鼠岛精华一日游</div>
-        <div class="rp-route" data-route="au-adl-mrd">穆理河仙履奇缘一日游</div>
-        <div class="rp-route" data-route="au-adl-bvd">红酒之乡巴罗莎谷一日游</div>
-        <div class="rp-route" data-route="au-adl-hmv">阿德莱德市区与汗道夫德国村一日游</div>
-        <div class="rp-route" data-route="au-adl-fpd">菲尔半岛一日游</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="uluru">
-      <div class="rp-group-title">乌鲁鲁 / 北领地 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route" data-route="au-uluru-atvauk5">乌鲁鲁帝王谷精品五日游（维珍团）四人起成团</div>
-        <div class="rp-route" data-route="au-uluru-atusp4">乌鲁鲁精品中文 4 日游</div>
-        <div class="rp-route" data-route="au-uluru-atuk3">乌鲁鲁帝王谷探索之旅 3 日游 [四人成团]</div>
-        <div class="rp-route" data-route="au-uluru-atuw3">乌鲁鲁卡塔丘塔经典之旅三日游</div>
-        <div class="rp-route" data-route="au-uluru-atvw3">乌鲁鲁经典之旅三日游（维珍团）天天出发</div>
-        <div class="rp-route" data-route="au-uluru-atay03">帝王谷一日游</div>
-        <div class="rp-route" data-route="au-uluru-ayqe04">寂静之声晚宴</div>
-        <div class="rp-route" data-route="au-uluru-atay04">卡塔丘塔日出及风之谷徒步之旅</div>
-        <div class="rp-route" data-route="au-uluru-atay01">卡塔丘塔和乌鲁鲁日落之旅</div>
-        <div class="rp-route" data-route="au-uluru-atay02">乌鲁鲁日出，圣迹寻踪及岩石环游之旅</div>
-        <div class="rp-route" data-route="au-uluru-atay07">乌鲁鲁摄影观星之旅</div>
-        <div class="rp-route" data-route="au-uluru-atay06">乌鲁鲁马拉文化徒步之旅</div>
-        <div class="rp-route" data-route="au-uluru-ayqe03">极致浪漫日落原野星光展 (含接送无导游)</div>
-      </div>
-    </div>
   </nav>
-  
-    <div class="rp-route-pane" data-route="au-syd4d" data-p-adult="899" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼四天三晚经典之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cnsxmas26" data-p-adult="1799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【圣诞】2026 年凯恩斯豪华圣诞 4 日航空团</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydhun" data-p-adult="199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【精品小团】猎人谷品酒豪华之旅一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydbms" data-p-adult="199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼蓝山日落 + 观星精品小团【一价全含】</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydpst" data-p-adult="179" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【每周二、四、日固定出发】史蒂芬港观海豚一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydjvs" data-p-adult="179" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>蓝色海洋路 & 杰维斯湾一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydzjg" data-p-adult="159" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>复古铁路蓝山风光一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydcbr" data-p-adult="149" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>首都堪培拉一日游【每周六，日出发】</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydbmt" data-p-adult="159" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【天天出发】蓝山有氧一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydsct" data-p-adult="139" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>【四人成团 天天出发】悉尼网红地标一日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-ayqecr" data-p-adult="98" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>红土中心骑骆驼之旅 [英文]</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydcsb" data-p-adult="220" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼晚餐歌舞表演游轮</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydpse" data-p-adult="41" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>史蒂芬港鲨鱼馆 鲨鱼与鳐鱼亲密接触</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydoph" data-p-adult="37" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼歌剧院内部解说文化探索之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydww2" data-p-adult="127" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼观鲸 2.5 小时刺激快艇</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydpqb" data-p-adult="119" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>史蒂芬港四驱车体验</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-syddc1" data-p-adult="115" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼海港 1 小时暮光晚餐巡游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydstb" data-p-adult="99" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼塔天空旋转餐厅自助餐</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydstat" data-p-adult="88" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼塔下午茶 Bar 83</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-sydjet" data-p-adult="89" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>悉尼喷射快艇探险体验</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-oolobs" data-p-adult="119" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>黄金海岸狂野奇观表演入场券</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-pqagc" data-p-adult="65" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>黄金海岸鸭子船</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cnstube" data-p-adult="119" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>凯恩斯半日 Tubing 漂流 (含往返接送)</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div><div class="rp-detail-area">
-    <!-- 路线1：蓝山有氧+动物园 -->
-    <div class="rp-route-pane active" data-route="au-blue-mountain" data-p-adult="179" data-p-child="179" data-p-infant="89">
+  <div class="rp-detail-area">
+    <div class="rp-route-pane" data-route="au-novacnsoolmel" data-p-adult="3026" data-p-child="840" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 3026</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 840</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">3026</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">840</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1305</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcnsool" data-p-adult="2959" data-p-child="2839" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
-        <span class="rp-badge">天天出发 · 精品奔驰小团</span>
-        <div class="rp-detail-hero-in">
-          <h3>【精品小团】蓝山有氧+动物园精品11人小团一日游【天天出发】</h3>
-          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>悉尼市区免费接送</span></div>
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2959</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 2839</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
-        <div class="rp-date-row">
-          <select class="rp-date-select" onchange="onRouteDateChange(this)">
-            <option value="">请选择出发日期</option>
-            <option value="__custom__">自选具体日期…</option>
-          </select>
-          <input type="date" class="rp-date-input" hidden min="">
-        </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2959</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">2839</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1155</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <section class="rp-sec"><h4>产品简介</h4><div><p>精选蓝山国家公园核心景观，搭配澳洲本土野生动物园，11人精品奔驰小团出行，市区酒店免费接送，全程中文导游讲解。</p><p>一站打卡三姐妹峰、网红景观缆车、英伦卢拉小镇与 Featherdale 野生动物园，可近距离抱考拉合影，适合家庭出行与休闲观光。</p></div></section>
-      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
-        <div><div class="rp-time">09:00 唐人街/市区酒店集合出发</div><div>专业中文导游接团，乘坐豪华奔驰商务车前往蓝山国家公园，车程约1.5小时。</div></div>
-        <div><div class="rp-time">10:30 回音谷观景台</div><div>拍摄经典三姐妹峰全景；可自费乘坐倾斜52度的矿山轨道缆车，体验山谷穿越。</div></div>
-        <div><div class="rp-time">11:30 卡通巴小镇 + 卢拉小镇漫步</div><div>游览主街精品店、工艺品店与咖啡馆，感受英伦小镇风光。</div></div>
-        <div><div class="rp-time">13:30 午餐自理</div><div>小镇内自行安排午餐，推荐当地炸鱼薯条、澳式牛排与咖啡甜点。</div></div>
-        <div><div class="rp-time">14:30 Featherdale 野生动物园</div><div>澳洲本土生态动物园；特别安排早茶点心，可免费与考拉拍照，近距离接触袋鼠、袋熊等。</div></div>
-        <div><div class="rp-time">18:00 返回悉尼市区</div><div>结束行程，送回唐人街/市区酒店解散。</div></div>
-        <div style="font-size:12px;color:#999;margin-top:8px">* 具体行程顺序可能因当天交通、天气情况微调，以导游实际安排为准。</div>
-      </div></section>
-      <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
-        <ul><li>悉尼市区指定地点往返接送</li><li>11人精品奔驰商务车交通</li><li>全程中文导游服务</li><li>蓝山国家公园门票</li><li>Featherdale 动物园门票</li><li>动物园早茶点心一份</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
-        <ul><li>全程午餐、个人消费</li><li>景观缆车、索道等自费项目</li><li>导游小费（建议每人5澳元）</li><li>其他一切未提及的费用</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
-      </div></section>
-      <section class="rp-sec"><h4>预订须知</h4><div>
-        <p style="margin:0 0 6px">1. 成团人数：2人成团，11人满团。</p>
-        <p style="margin:0 0 6px">2. 预订后24小时内发送电子确认单，凭电子票出行。</p>
-        <p style="margin:0 0 6px">3. 因交通、天气、景点停业等不可抗力造成的行程变更，旅行社保留调整权利，费用差额多退少补。</p>
-        <p style="margin:0">4. 退改政策：出发前3天以上取消可全额退款；3天内取消收取100%损失费用。</p>
-      </div></section>
-    </div>
-    <!-- 路线2：史蒂芬港 -->
-    <div class="rp-route-pane" data-route="au-stephens">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/hero-sydney.jpg')">
-        <span class="rp-badge" style="background:#1B9FE0">每周二/四/日发团</span>
-        <div class="rp-detail-hero-in">
-          <h3>史蒂芬港观海豚+安娜海湾沙漠一日游</h3>
-          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含游船观光+沙滩体验</span></div>
-        </div>
-      </div>
-      <div class="rp-detail-date">
-        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
-        <div class="rp-date-row">
-          <select class="rp-date-select" onchange="onRouteDateChange(this)">
-            <option value="">请选择出发日期</option>
-            <option value="__custom__">自选具体日期…</option>
-          </select>
-          <input type="date" class="rp-date-input" hidden min="">
-        </div>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
-      </div>
-      <section class="rp-sec"><h4>产品简介</h4><div>
-        <p>史蒂芬港被誉为"澳洲海豚之都"，常年栖息超150只宽吻海豚，遇见率高达99%。</p>
-        <p>行程搭配安娜海湾沙丘滑沙、海滨小镇漫步，一次体验海洋萌宠与沙漠奇观，适合家庭休闲与海滨度假。</p>
-      </div></section>
-      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
-        <div><div class="rp-time">07:30 悉尼市区集合出发</div><div>市区指定地点集合，乘坐空调旅游大巴前往史蒂芬港，车程约2.5小时。</div></div>
-        <div><div class="rp-time">10:30 海豚观赏游船</div><div>乘坐专业观海豚游船出海，近距离观赏野生海豚群嬉戏，船员全程讲解海洋生态知识。</div></div>
-        <div><div class="rp-time">12:30 尼尔森湾小镇午餐</div><div>海滨小镇自行用餐，推荐炸鱼薯条、海鲜拼盘，可漫步沙滩休闲。</div></div>
-        <div><div class="rp-time">14:00 安娜海湾沙丘滑沙</div><div>体验南半球最大的海岸沙丘，可自费参与滑沙项目，感受沙漠与海洋交汇的奇观。</div></div>
-        <div><div class="rp-time">18:30 返回悉尼市区</div><div>结束行程，送回市区集合点解散。</div></div>
-      </div></section>
-      <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
-        <ul><li>悉尼市区往返空调大巴</li><li>海豚观赏游船船票</li><li>全程中文导游服务</li><li>安娜海湾沙丘入场费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
-        <ul><li>全程午餐、个人消费</li><li>滑沙体验项目费用</li><li>导游小费（建议每人5澳元）</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$179 起（儿童价待核）。</p>
-      </div></section>
-      <section class="rp-sec"><h4>预订须知</h4><div>
-        <p style="margin:0 0 6px">1. 发团时间：每周二、周四、周日固定发团，节假日加开班次。</p>
-        <p style="margin:0 0 6px">2. 海豚观赏为自然生态项目，不保证100%遇见，如未看到不做退款。</p>
-        <p style="margin:0">3. 出发前1天晚上发送集合通知，含具体时间地点与导游联系方式。</p>
-      </div></section>
-    </div>
-    <!-- 路线3：猎人谷 -->
-    <div class="rp-route-pane" data-route="au-hunter">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
-        <span class="rp-badge" style="background:#5a8a3e">精品小团 含品鉴</span>
-        <div class="rp-detail-hero-in">
-          <h3>猎人谷精品酒庄品酒一日游（含3家酒庄品鉴）</h3>
-          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含酒庄品鉴+芝士拼盘</span></div>
-        </div>
-      </div>
-      <div class="rp-detail-date">
-        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
-        <div class="rp-date-row">
-          <select class="rp-date-select" onchange="onRouteDateChange(this)">
-            <option value="">请选择出发日期</option>
-            <option value="__custom__">自选具体日期…</option>
-          </select>
-          <input type="date" class="rp-date-input" hidden min="">
-        </div>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
-      </div>
-      <section class="rp-sec"><h4>产品简介</h4><div>
-        <p>澳洲历史最悠久的葡萄酒产区，精选3家特色精品酒庄，品鉴西拉、赛美蓉等经典酒款。</p>
-        <p>搭配芝士拼盘、乡村美食与田园风光，是红酒爱好者、情侣休闲的经典选择。</p>
-      </div></section>
-      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
-        <div><div class="rp-time">08:30 市区集合出发</div><div>市区指定酒店接人，前往猎人谷产区，车程约2小时。</div></div>
-        <div><div class="rp-time">10:30 第一家精品酒庄品鉴</div><div>到访家族传承酒庄，品鉴4款经典酒款，酿酒师讲解产区历史与酿酒工艺。</div></div>
-        <div><div class="rp-time">12:30 酒庄午餐</div><div>酒庄餐厅享用澳式乡村午餐，搭配葡萄酒与田园景致。</div></div>
-        <div><div class="rp-time">14:00 第二家+第三家酒庄品鉴</div><div>探访两家不同风格酒庄，涵盖红葡萄酒、白葡萄酒与甜酒，搭配芝士拼盘。</div></div>
-        <div><div class="rp-time">17:00 返回悉尼</div><div>结束品酒之旅，送回市区酒店。</div></div>
-      </div></section>
-      <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
-        <ul><li>市区往返交通</li><li>3家酒庄品酒费用</li><li>芝士拼盘一份</li><li>中文导游服务</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
-        <ul><li>午餐费用</li><li>购酒费用、个人消费</li><li>导游小费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
-      </div></section>
-      <section class="rp-sec"><h4>预订须知</h4><div>
-        <p style="margin:0 0 6px">1. 饮酒需年满18周岁，未满18岁可替换为无酒精饮品。</p>
-        <p style="margin:0 0 6px">2. 酒庄可能根据当日营业情况微调，保证品鉴数量与品质。</p>
-        <p style="margin:0">3. 建议适量饮酒，酒后请勿驾车。</p>
-      </div></section>
-    </div>
-    <!-- 路线4：悉尼市区 -->
-    <div class="rp-route-pane" data-route="au-sydney-city">
-      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
-        <span class="rp-badge" style="background:#1B9FE0">天天出发 新手首选</span>
-        <div class="rp-detail-hero-in">
-          <h3>悉尼市区网红地标打卡一日游</h3>
-          <div class="rp-meta"><span>游玩时长：1天</span><span>行程凭证：电子票</span><span>含渡轮+水族馆门票</span></div>
-        </div>
-      </div>
-      <div class="rp-detail-date">
-        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
-        <div class="rp-date-row">
-          <select class="rp-date-select" onchange="onRouteDateChange(this)">
-            <option value="">请选择出发日期</option>
-            <option value="__custom__">自选具体日期…</option>
-          </select>
-          <input type="date" class="rp-date-input" hidden min="">
-        </div>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
-      </div>
-      <section class="rp-sec"><h4>产品简介</h4><div>
-        <p>覆盖悉尼全部经典地标，海港渡轮+市区观光结合，一站式打卡歌剧院、海港大桥、岩石区、邦迪海滩。</p>
-        <p>中文导游全程讲解，适合首次到访悉尼、希望快速了解城市的游客。</p>
-      </div></section>
-      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
-        <div><div class="rp-time">09:00 市区集合</div><div>导游带队游览岩石区历史街区，讲解悉尼殖民历史与人文故事。</div></div>
-        <div><div class="rp-time">10:30 悉尼歌剧院外观+海港大桥</div><div>歌剧院外景打卡，麦考利夫人座椅拍摄经典角度，漫步海港步道。</div></div>
-        <div><div class="rp-time">12:00 达令港午餐</div><div>达令港自由午餐，可选择海鲜餐厅或快餐。</div></div>
-        <div><div class="rp-time">13:30 悉尼水族馆</div><div>参观悉尼水族馆，观赏大堡礁生态缸、鸭嘴兽、企鹅等澳洲特色生物。</div></div>
-        <div><div class="rp-time">15:30 邦迪海滩</div><div>前往邦迪海滩，漫步海滨步道，体验澳洲海滩文化。</div></div>
-        <div><div class="rp-time">17:30 返回市区解散</div><div>结束行程，送回市中心集合点。</div></div>
-      </div></section>
-      <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
-        <ul><li>全程空调巴士交通</li><li>悉尼水族馆门票</li><li>海港渡轮船票</li><li>中文导游服务</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
-        <ul><li>全程午餐、个人消费</li><li>歌剧院内部参观</li><li>导游小费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$139 起（儿童价待核）。</p>
-      </div></section>
-      <section class="rp-sec"><h4>预订须知</h4><div>
-        <p style="margin:0 0 6px">1. 天天发团，2人即可成行。</p>
-        <p style="margin:0 0 6px">2. 如遇恶劣天气，海滩行程可能调整为室内景点。</p>
-        <p style="margin:0">3. 请穿舒适步行鞋，做好防晒准备。</p>
-      </div></section>
-    </div>
-    <!-- 路线5：蓝山日落观星 -->
-    <div class="rp-route-pane" data-route="au-blue-star">
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcnsmel" data-p-adult="2839" data-p-child="2729" data-p-infant="0">
       <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
-        <span class="rp-badge" style="background:#9254de">精品6人小团</span>
-        <div class="rp-detail-hero-in">
-          <h3>蓝山日落+星空观测精品小团（专业天文向导）</h3>
-          <div class="rp-meta"><span>游玩时长：半天</span><span>行程凭证：电子票</span><span>含专业望远镜+热饮</span></div>
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 2839</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 2729</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label class="rp-date-label">出发日期<span class="rp-date-req">*</span></label>
-        <div class="rp-date-row">
-          <select class="rp-date-select" onchange="onRouteDateChange(this)">
-            <option value="">请选择出发日期</option>
-            <option value="__custom__">自选具体日期…</option>
-          </select>
-          <input type="date" class="rp-date-input" hidden min="">
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>11天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">2839</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">2729</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">1425</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydmel8pg" data-p-adult="1868" data-p-child="1049" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>悉尼墨尔本 8 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1868</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1049</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="window.printRoute(this)">下载行程单</a>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <section class="rp-sec"><h4>产品简介</h4><div>
-        <p>避开日间人流，下午出发欣赏蓝山金色日落，夜间在专业天文向导带领下观测南半球星空。</p>
-        <p>6人精品小团，配备高倍天文望远镜，提供热饮与小食，适合情侣、摄影爱好者与深度体验客。</p>
-      </div></section>
-      <section class="rp-sec"><h4>行程介绍</h4><div class="rp-timeline">
-        <div><div class="rp-time">14:30 悉尼市区集合出发</div><div>市区酒店接人，乘坐商务车前往蓝山。</div></div>
-        <div><div class="rp-time">16:00 观景台日落观赏</div><div>抵达林肯岩观景台，等待日落，拍摄蓝山金色峡谷与三姐妹峰黄昏景致。</div></div>
-        <div><div class="rp-time">18:30 山间晚餐</div><div>小镇餐厅享用晚餐，补充体力。</div></div>
-        <div><div class="rp-time">20:00 专业星空观测</div><div>天文向导讲解南半球星座，使用高倍望远镜观测月球、行星与星云，提供热饮与小食。</div></div>
-        <div><div class="rp-time">22:30 返回悉尼</div><div>结束行程，送回市区酒店。</div></div>
-      </div></section>
-      <section class="rp-sec"><h4>费用说明</h4><div>
-        <p style="margin:0 0 6px"><strong style="color:#1B9FE0">✅ 费用包含</strong></p>
-        <ul><li>市区往返商务车接送</li><li>专业天文向导服务</li><li>高倍天文望远镜使用</li><li>夜间热饮与小食</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#1B9FE0">❌ 费用不含</strong></p>
-        <ul><li>晚餐费用</li><li>个人消费</li><li>向导小费</li></ul>
-        <p style="margin:10px 0 6px"><strong style="color:#FF9F1C">参考市场价：</strong>成人 A$199 起（儿童价待核）。</p>
-      </div></section>
-      <section class="rp-sec"><h4>预订须知</h4><div>
-        <p style="margin:0 0 6px">1. 每周二、四、六发团，6人满团，建议提前预订。</p>
-        <p style="margin:0 0 6px">2. 观星受天气影响较大，如遇阴天可视情况改期或全额退款。</p>
-        <p style="margin:0">3. 夜间山区气温较低，请携带保暖外套。</p>
-      </div></section>
-    </div>
-    <!-- 占位：其余分组 -->
-    <div class="rp-route-pane" data-route="au-whitsunday"><div class="rp-coming-box">该分组线路正在整理上线，敬请期待。<br>欢迎 <a href="contact.html">在线咨询</a> 获取最新行程与报价。</div></div>
-    <div class="rp-route-pane" data-route="au-perth-7d">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉色海洋心动7日游</h3><div class="rp-detail-meta">7日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>纵览西澳粉红湖、自然之窗、波浪岩、罗特尼斯岛小袋鼠与海角灯塔，龙虾美食贯穿全程，海岸童话一站尽收。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 自然之窗 → 波浪岩 → 罗特尼斯岛 → 海上小火车 → 珀斯散团。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1699 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；粉红湖为季节性自然景观；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-6d">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉色海洋微笑6日游</h3><div class="rp-detail-meta">6日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖、自然之窗、波浪岩与海角灯塔经典串联，龙虾美食品鉴，6日轻松巡游西澳海岸。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 自然之窗 → 波浪岩 → 海角灯塔 → 珀斯。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1499 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-5d" data-p-adult="1199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉色海洋小火车灯塔童话5日游</h3><div class="rp-detail-meta">5日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖、海上小火车与海岸灯塔童话之旅，5日浓缩西澳最梦幻海岸线。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 海上小火车 → 海角灯塔 → 珀斯。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、小火车票、部分餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1199 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；小火车班次受限；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-4d" data-p-adult="949" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉红湖小火车浪漫4日游</h3><div class="rp-detail-meta">4日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖与浪漫小火车4日短假线，节奏舒缓，适合情侣与周末出行。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 小火车体验 → 珀斯。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、小火车票。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$949 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-3d" data-p-adult="699" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>西澳粉红湖自然之窗龙虾美食经典3日游</h3><div class="rp-detail-meta">3日游 · 珀斯进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>粉红湖、自然之窗与西澳龙虾美食品鉴，3日经典体验西澳招牌景观。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯 → 粉红湖 → 自然之窗 → 龙虾美食品尝 → 珀斯。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、龙虾餐。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$699 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-pinnacles">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>尖峰石阵品质一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周三、六出发</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>探访沙漠奇观尖峰石阵，亿万年风化石柱矗立黄沙，落日光影最是震撼。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 尖峰石阵 → 自由活动 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、公园门票。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$200 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>周三、六固定出发；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-margaret">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>玛格利特河一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周四出发</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>西澳知名酒乡玛格利特河，酒庄品鉴、海岸峭壁与灯塔风光一日尽览。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 玛格利特河酒庄 → 海岸风光 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、酒庄参观。<br><b>价格不含：</b>品酒费、个人消费。<br><b>参考市场价：</b>成人 A$198 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>周四固定出发；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-wave">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>波浪岩品质一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周五出发</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>天然波浪岩奇观，亿年地质杰作形如巨浪凝固，沿途草原小镇风光宜人。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 波浪岩 → 自由活动 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、景点门票。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$195 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>周五固定出发；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-swamp">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>天鹅河谷美食美酒一日游</h3><div class="rp-detail-meta">1日游 · 珀斯周边 · 中文司导 · 每周日出发</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>天鹅河谷酒庄与美食之旅，品西澳佳酿、享田园风味，周末轻松一日。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 天鹅河谷酒庄与美食体验 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、酒庄美食参观。<br><b>价格不含：</b>品鉴费、个人消费。<br><b>参考市场价：</b>成人 A$165 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>周日固定出发；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-perth-rottnest">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>罗特尼斯岛一日游</h3><div class="rp-detail-meta">1日游 · 珀斯出海 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>登罗特尼斯岛邂逅世界最开心动物短尾矮袋鼠（quokka），环岛骑行赏碧海白沙。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>珀斯接送 → 渡轮上岛 → 环岛观光 → 返程（Rottnest Express）。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、渡轮、中文司导。<br><b>价格不含：</b>岛上自行车租赁、个人消费。<br><b>参考市场价：</b>成人 A$85 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>受船期影响；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-5dt" data-p-adult="1028" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚全景5日游</h3><div class="rp-detail-meta">5日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>环游塔州精华，摇篮山、酒杯湾、亚瑟港、里奇蒙古镇一线串联，纵览世界自然遗产与流放史迹。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特集合 → 摇篮山国家公园 → 酒杯湾 → 亚瑟港历史遗址 → 里奇蒙古镇 → 霍巴特散团。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1028 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；季节影响路况；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-6dt" data-p-adult="1198" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚深度6日游</h3><div class="rp-detail-meta">6日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>深度漫游塔州，增加西海岸与高原湖泊，节奏舒缓，适合摄影与慢游客群。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 摇篮山 → 西部荒野 → 酒杯湾 → 亚瑟港 → 里奇蒙 → 霍巴特。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$1198 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-5dts" data-p-adult="998" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚南部5日游</h3><div class="rp-detail-meta">5日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>聚焦塔州南部，霍巴特、亚瑟港、酒杯湾、里奇蒙经典环线，时间紧凑不赶路。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 亚瑟港 → 酒杯湾 → 里奇蒙 → 霍巴特。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$998 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-4dt" data-p-adult="848" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚4日精华游</h3><div class="rp-detail-meta">4日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>塔州4日精华，摇篮山、酒杯湾、亚瑟港核心三站，短假首选。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 摇篮山 → 酒杯湾 → 亚瑟港 → 霍巴特。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$848 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-3dt" data-p-adult="658" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚3日精华游</h3><div class="rp-detail-meta">3日游 · 霍巴特进出 · 中文司导 · 纯玩无购物</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>塔州3日快览，霍巴特、摇篮山、亚瑟港浓缩体验，适合周末出行。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特 → 摇篮山 → 亚瑟港 → 霍巴特。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>住宿、中文司导、旅游车、部分门票餐食。<br><b>价格不含：</b>机票、个人消费、小费。<br><b>参考市场价：</b>成人 A$658 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-seafood" data-p-adult="700" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚海鲜盛宴一日游船</h3><div class="rp-detail-meta">1日游 · 霍巴特出海 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>登船畅享塔州生蚝、龙虾、鲍鱼等现捞海鲜盛宴，边赏海岸风光边品鲜。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特码头登船 → 外海巡游 + 海鲜自助 → 返港。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>游船票、海鲜餐、中文司导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$700 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>受天气与海况影响；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-fish" data-p-adult="299" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>塔斯马尼亚海钓</h3><div class="rp-detail-meta">1日游 · 霍巴特出海 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>专业向导带领外海垂钓，装备齐全，收获可现场处理，享受塔州纯净海域渔趣。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特码头登船 → 钓点垂钓 → 返港。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>船票、钓具、中文向导。<br><b>价格不含：</b>接送、个人消费。<br><b>参考市场价：</b>成人 A$299 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>受天气海况影响；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-maria" data-p-adult="208" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>玛丽亚岛纯净之美一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>世界自然遗产玛丽亚岛，邂逅野生袋獾与海岸奇观，徒步探秘监狱遗迹。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 渡轮上岛 → 徒步观光 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、渡轮、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$208 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>受天气与船期影响；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-pot" data-p-adult="168" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>亚瑟港一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>探访澳洲最具历史的流放监狱遗址亚瑟港，含巡游与遗址通票，沉浸殖民往事。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 亚瑟港遗址参观 + 港口游船 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、门票通票、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$168 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-wgb" data-p-adult="148" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>酒杯湾一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>前往被誉全球最美海湾之一的酒杯湾，徒步观景台俯瞰白沙碧海，邂逅野生动物。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 酒杯湾观景台徒步 → 自由活动 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>游船票、个人消费。<br><b>参考市场价：</b>成人 A$148 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-field" data-p-adult="138" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>费尔德山一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>探访塔州最高瀑布与温带雨林，费尔德山国家公园徒步，赏三瀑与高山湖泊。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特接送 → 费尔德山三瀑徒步 → 自由活动 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$138 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-tas-hobart" data-p-adult="98" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>霍巴特周边+里奇蒙小镇一日游</h3><div class="rp-detail-meta">1日游 · 霍巴特周边 · 中文司导</div></div></div>
-      <div class="rp-detail-date"><label>出发日期<span class="req">*</span></label><select class="rp-date-select" onchange="onRouteDateChange(this)"><option value="">请选择出发日期</option><option value="__custom__">自选具体日期…</option></select><input type="date" class="rp-date-input" hidden></div>
-      <div class="rp-detail-cta"><a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a><a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>霍巴特市区观光 + 百年德式里奇蒙古镇，跨越时空的塔州人文半日闲。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>霍巴特市区 → 里奇蒙古镇 → 返程。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导。<br><b>价格不含：</b>个人消费。<br><b>参考市场价：</b>成人 A$98 起（儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-adl-kid" data-p-adult="388" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero">
-        <div class="rp-detail-hero-in">
-          <h3>袋鼠岛精华一日游（中文）</h3>
-          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>8天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1868</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1049</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydmel7pg" data-p-adult="1698" data-p-child="999" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>悉尼墨尔本 7 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1698</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 999</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1698</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">999</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>探访澳洲 Wildlife 宝库袋鼠岛，近距离观赏野生袋鼠、考拉、海狮与企鹅，漫步神奇岩石与旗舰拱门，沉浸原始海岸与自然保护区。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 渡轮/车经杰维斯角 → 袋鼠岛野生动物保护区 → 神奇岩石 → 旗舰拱门 → 傍晚返回市区。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、景区门票、部分餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差（一日游无）。<br><b>参考市场价：</b>成人 A$388 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；出海与野生动物受季节与天气影响，行程顺序可能调整；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-adl-mrd" data-p-adult="185" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero">
-        <div class="rp-detail-hero-in">
-          <h3>穆理河仙履奇缘一日游</h3>
-          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydmel6pg" data-p-adult="1548" data-p-child="929" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>悉尼墨尔本 6 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1548</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 929</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1548</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">929</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>畅游南澳母亲河穆理河，乘特色游船赏河畔风光与野生生态，童话小镇慢游，体验"仙履奇缘"般的田园诗意。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 穆理河游船 → 河畔酒庄品鉴 → 童话小镇自由活动 → 傍晚返回市区。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、游船票、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；游船受水位与天气影响；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-adl-bvd" data-p-adult="185" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero">
-        <div class="rp-detail-hero-in">
-          <h3>红酒之乡巴罗莎谷一日游</h3>
-          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物（仅限1-3月；4-12月走粉湖）</div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsool" data-p-adult="1939" data-p-child="1859" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>凯恩斯 - 黄金海岸 6 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1939</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1859</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1939</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1859</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">625</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>探访澳洲最负盛名红酒产区巴罗莎谷，多家名庄品鉴设拉子，领略葡萄园山谷风光；4-12月班期改走粉湖（粉红湖）奇观。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 巴罗莎谷酒庄巡礼 → 品酒午餐 →（季节）粉湖或峡谷 → 傍晚返回市区。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、酒庄品鉴、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>1-3月走巴罗莎谷，4-12月走粉湖；四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-adl-hmv" data-p-adult="185" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero">
-        <div class="rp-detail-hero-in">
-          <h3>阿德莱德市区与汗道夫德国村一日游</h3>
-          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasyd4d" data-p-adult="899" data-p-child="599" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>悉尼四天三晚经典之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 599</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">599</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">420</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>游览阿德莱德市区地标与维多利亚风格建筑，深入澳洲最古老德国移民村汗道夫，品德式猪手香肠，感受欧洲风情。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区观光（议会大厦/维多利亚广场）→ 德国村汗道夫自由活动与午餐 → 傍晚返回市区。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-adl-fpd" data-p-adult="185" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero">
-        <div class="rp-detail-hero-in">
-          <h3>菲尔半岛一日游</h3>
-          <div class="rp-detail-meta">1日游 · 阿德莱德进出 · 中文司导 · 纯玩无购物</div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novahun2d" data-p-adult="699" data-p-child="639" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>猎人谷热气球 + 中央海岸 2 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 699</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 639</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>驰骋菲尔半岛，搭乘复古观光小火车，探访海岸小镇与葡萄酒庄，享受南澳最惬意的海滨一日。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>阿德莱德市区接送 → 菲尔半岛观光小火车 → 酒庄/海岸小镇 → 傍晚返回市区。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>往返交通、中文司导、小火车票、部分餐食。<br><b>价格不含：</b>个人消费、自费项目、司导小费。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>四人成团；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-mel5days" data-p-adult="969" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>墨尔本 5 日全景之旅</h3>
-        <div class="rp-detail-meta">多日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>墨尔本 5 日全景之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$969 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-mel4days" data-p-adult="799" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>墨尔本 4 日经典之旅</h3>
-        <div class="rp-detail-meta">多日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>墨尔本 4 日经典之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$799 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-mel3days" data-p-adult="649" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>墨尔本 3 日休闲之旅</h3>
-        <div class="rp-detail-meta">多日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>墨尔本 3 日休闲之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$649 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melpbpr" data-p-adult="229" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【精致奔驰小团】蒸汽火车 & 企鹅岛一日游</h3>
-        <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>蒸汽火车 & 企鹅岛一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$229 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melppc" data-p-adult="185" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【重磅经典必玩】蒸汽小火车 + 企鹅岛 天天出发！一日游</h3>
-        <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>蒸汽小火车 + 企鹅岛 天天出发！一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$185 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melmpt" data-p-adult="169" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【重磅】墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游</h3>
-        <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$169 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melsvh" data-p-adult="119" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【畅游淘金】疏芬山淘金镇一日游</h3>
-        <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>疏芬山淘金镇一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$119 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melpbi" data-p-adult="119" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【菲利普岛必玩】彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</h3>
-        <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>彩虹小屋 + 神仙企鹅归巢 天天出发！一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$119 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-melbourne-melgori" data-p-adult="79" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【天天出发】经典大洋路一日游</h3>
-        <div class="rp-detail-meta">1日游 · 墨尔本进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>经典大洋路一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$79 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-ool3dk" data-p-adult="969" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【全新】黄金海岸 3/4 日游</h3>
-        <div class="rp-detail-meta">多日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>黄金海岸 3/4 日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$969 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-tang3d" data-p-adult="1120" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>海豚岛全新趣味 3 天 2 晚</h3>
-        <div class="rp-detail-meta">多日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>海豚岛全新趣味 3 天 2 晚，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1120 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-bnem2" data-p-adult="578" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【天阁露玛】摩顿海豚岛三天两夜套餐</h3>
-        <div class="rp-detail-meta">多日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>摩顿海豚岛三天两夜套餐，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$578 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-oolcct" data-p-adult="259" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>可伦宾动物园 + 翠儿河捉蟹一日游</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>可伦宾动物园 + 翠儿河捉蟹一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$259 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-ool403" data-p-adult="179" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【特价】黄金海岸四大主题公园 3 日套票</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>黄金海岸四大主题公园 3 日套票，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$179 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-oolby" data-p-adult="179" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【全新】拜伦湾一日游</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>拜伦湾一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$179 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-ooltro" data-p-adult="179" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>热带水果园 + 危险角一日游</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>热带水果园 + 危险角一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$179 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-ooltam" data-p-adult="175" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>天宝林山 + 蓝光萤火虫自然风光一日游</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>天宝林山 + 蓝光萤火虫自然风光一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$175 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-bhetgl" data-p-adult="99" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>布里斯班摩顿海豚岛一日游套餐（多种选择）</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>布里斯班摩顿海豚岛一日游套餐（多种选择），中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$99 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-oolgwn" data-p-adult="99" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>黄金海岸蓝光萤火虫中文夜游</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>黄金海岸蓝光萤火虫中文夜游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$99 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-qld-oolcrb" data-p-adult="95" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>黄金海岸翠儿河捉蟹 + 生蚝农场半日游</h3>
-        <div class="rp-detail-meta">1日游 · 黄金海岸/布里斯班进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>黄金海岸翠儿河捉蟹 + 生蚝农场半日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$95 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cns3d4d" data-p-adult="818" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>凯恩斯 3/4 日经典游</h3>
-        <div class="rp-detail-meta">多日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>凯恩斯 3/4 日经典游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$818 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-hi4dpack" data-p-adult="1856" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>汉密尔顿岛自助游套餐</h3>
-        <div class="rp-detail-meta">多日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>汉密尔顿岛自助游套餐，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1856 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-wsifcg" data-p-adult="720" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【汉密尔顿岛出发】心形大堡礁直升机 + 游船一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>心形大堡礁直升机 + 游船一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$720 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnssegd" data-p-adult="395" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【Evolution 蜕变号】豪华游船超值一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>豪华游船超值一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$395 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsdbl" data-p-adult="353" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【大冒险号】绝代双礁一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>绝代双礁一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$353 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnssga" data-p-adult="348" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【银梭号】阿金考特大堡礁一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>阿金考特大堡礁一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$348 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsgbr01" data-p-adult="325" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【梦幻丽礁号】凯恩斯摩尔外大堡礁一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>凯恩斯摩尔外大堡礁一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$325 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsnga" data-p-adult="322" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【大冒险号】诺曼 / 摩尔外海大堡礁一日游船</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>诺曼 / 摩尔外海大堡礁一日游船，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$322 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnssrc02" data-p-adult="317" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【太阳恋人号】摩尔外海大堡礁一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>摩尔外海大堡礁一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$317 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-wsi1dt" data-p-adult="279" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>白天堂沙滩双舒适游船一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>白天堂沙滩双舒适游船一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$279 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cwcsd1d" data-p-adult="259" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>卡米拉帆船航海一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>卡米拉帆船航海一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$259 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnstrr" data-p-adult="240" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>塔利河漂流一日游 (含凯恩斯往返接送)</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>塔利河漂流一日游 (含凯恩斯往返接送)，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$240 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-rctwb" data-p-adult="230" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【雷霆猫号】白天堂沙滩一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>白天堂沙滩一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$230 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsrfd" data-p-adult="228" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>热带雨林土著文化一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>热带雨林土著文化一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$228 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-rcsail" data-p-adult="199" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>圣灵群岛帆船一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>圣灵群岛帆船一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$199 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsdm1d" data-p-adult="190" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>棕榈湾 + 鳄鱼园 + 道格拉斯港一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>棕榈湾 + 鳄鱼园 + 道格拉斯港一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$190 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsppd" data-p-adult="190" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>阿瑟顿高原 - 天空之城一日游</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>阿瑟顿高原 - 天空之城一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$190 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsbr" data-p-adult="184" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>巴伦河半日漂流（含凯恩斯往返接送）</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>巴伦河半日漂流（含凯恩斯往返接送），中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$184 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-cairns-cnsgbg" data-p-adult="162" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>【大猫号】绿岛体验一日游船</h3>
-        <div class="rp-detail-meta">1日游 · 凯恩斯进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>绿岛体验一日游船，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$162 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atvauk5" data-p-adult="1230" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁帝王谷精品五日游（维珍团）四人起成团</h3>
-        <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁帝王谷精品五日游（维珍团）四人起成团，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1230 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atusp4" data-p-adult="1180" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁精品中文 4 日游</h3>
-        <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁精品中文 4 日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1180 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atuk3" data-p-adult="998" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁帝王谷探索之旅 3 日游 [四人成团]</h3>
-        <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁帝王谷探索之旅 3 日游 [四人成团]，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$998 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atuw3" data-p-adult="868" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁卡塔丘塔经典之旅三日游</h3>
-        <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁卡塔丘塔经典之旅三日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$868 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atvw3" data-p-adult="748" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁经典之旅三日游（维珍团）天天出发</h3>
-        <div class="rp-detail-meta">多日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁经典之旅三日游（维珍团）天天出发，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$748 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含住宿餐食以产品说明为准；请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay03" data-p-adult="355" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>帝王谷一日游</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>帝王谷一日游，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$355 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-ayqe04" data-p-adult="295" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>寂静之声晚宴</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>寂静之声晚宴，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$295 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay04" data-p-adult="239" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>卡塔丘塔日出及风之谷徒步之旅</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>卡塔丘塔日出及风之谷徒步之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$239 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay01" data-p-adult="219" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>卡塔丘塔和乌鲁鲁日落之旅</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>卡塔丘塔和乌鲁鲁日落之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$219 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay02" data-p-adult="209" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁日出，圣迹寻踪及岩石环游之旅</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁日出，圣迹寻踪及岩石环游之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$209 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay07" data-p-adult="139" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁摄影观星之旅</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁摄影观星之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$139 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-atay06" data-p-adult="139" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>乌鲁鲁马拉文化徒步之旅</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>乌鲁鲁马拉文化徒步之旅，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$139 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-uluru-ayqe03" data-p-adult="50" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>极致浪漫日落原野星光展 (含接送无导游)</h3>
-        <div class="rp-detail-meta">1日游 · 乌鲁鲁进出 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>极致浪漫日落原野星光展 (含接送无导游)，中文司导、纯玩无购物，行程轻松舒适，适合家庭与休闲出游。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专业中文司导随行；具体行程顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内交通、中文司导、指定景点门票（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费（一日游无单房差）。<br><b>参考市场价：</b>成人 A$50 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>请以客服确认的团期与报价为准；受季节与天气影响，行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-multi-cnsoolmel" data-p-adult="3026" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】</h3>
-        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$3026 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-multi-sydcnsool" data-p-adult="2959" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】</h3>
-        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>悉尼 - 凯恩斯 - 黄金海岸 10 日游【周二，周五，周日出发】，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$2959 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-multi-sydcnsmel" data-p-adult="2839" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】</h3>
-        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$2839 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-multi-sydmel8pg" data-p-adult="1868" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>悉尼墨尔本 8 日游</h3>
-        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>悉尼墨尔本 8 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1868 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-multi-sydmel7pg" data-p-adult="1698" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>悉尼墨尔本 7 日游</h3>
-        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>悉尼墨尔本 7 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1698 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-multi-sydmel6pg" data-p-adult="1548" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>悉尼墨尔本 6 日游</h3>
-        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>悉尼墨尔本 6 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1548 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="au-multi-cnsool" data-p-adult="1939" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in">
-        <h3>凯恩斯 - 黄金海岸 6 日游</h3>
-        <div class="rp-detail-meta">多日游 · 跨州联游 · 中文司导 · 纯玩无购物</div>
-      </div></div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
-      </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
-      </div>
-      <div class="rp-sec"><h4>产品简介</h4><p>凯恩斯 - 黄金海岸 6 日游，跨州串联精华目的地，中文司导、纯玩无购物，一程多游省心高效。</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>指定地点集合出发，专车中文司导随行；具体经停城市与顺序以当天实际安排为准，详情请咨询客服。</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p><b>价格包含：</b>行程内跨州交通、中文司导、指定景点门票与住宿餐食（以实际产品为准）。<br><b>价格不含：</b>个人消费、自费项目、司导小费、单房差。<br><b>参考市场价：</b>成人 A$1939 起（最终以确认为准，儿童价待核）。</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>多日游含跨州住宿与接送；受季节与天气影响行程顺序可能微调；退改以合同为准。</p></div>
-    </div>
-  </div>
-</div>`;
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>2天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">639</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">110</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydhun" data-p-adult="199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【精品小团】猎人谷品酒豪华之旅一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 199</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">199</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydbms" data-p-adult="199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>悉尼蓝山日落+观星精品小团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 199</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">199</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+俯瞰壮丽的三姐妹峰，感受澳大利亚大峡谷的震撼风光；回音谷、卡希尔观景台欣赏蓝山日落；卡通巴小镇晚餐；夜间于无光污染观星点欣赏南半球星空与银河。
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydpst" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【每周二、四、日固定出发】史蒂芬港观海豚一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 179</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">179</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydbmts" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 179</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">179</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydjvs" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>蓝色海洋路 & 杰维斯湾一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 179</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">179</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydzjg" data-p-adult="159" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>复古铁路蓝山风光一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 159</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">159</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcbr" data-p-adult="149" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>首都堪培拉一日游【每周六，日出发】</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 149</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">149</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydbmt" data-p-adult="159" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【天天出发】蓝山有氧一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 159</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">159</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydsct" data-p-adult="139" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【四人成团 天天出发】悉尼网红地标一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 139</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">139</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-pvsn002" data-p-adult="299" data-p-child="99" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>2026热卖雪山团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 299</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 99</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">299</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">99</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">199</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-suppv0003" data-p-adult="899" data-p-child="399" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁卡塔丘塔经典之旅3日游 Uluru Classic</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 899</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 399</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">899</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">399</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">699</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+测试行程
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsxmas26" data-p-adult="1799" data-p-child="1499" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【圣诞】2026 年凯恩斯豪华圣诞 4 日航空团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1799</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1499</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1799</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1499</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">540</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacns3d4d" data-p-adult="818" data-p-child="160" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>凯恩斯 3/4 日经典游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 818</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 160</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">818</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">160</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">270</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnssegd" data-p-adult="395" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【Evolution 蜕变号】豪华游船超值一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 395</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">395</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsdbl" data-p-adult="353" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【大冒险号】绝代双礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 353</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">353</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnssga" data-p-adult="348" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【银梭号】阿金考特大堡礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 348</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">348</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsgbr01" data-p-adult="325" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【梦幻丽礁号】凯恩斯摩尔外大堡礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 325</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">325</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsnga" data-p-adult="322" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【大冒险号】诺曼 / 摩尔外海大堡礁一日游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 322</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">322</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnssrc02" data-p-adult="317" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【太阳恋人号】摩尔外海大堡礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 317</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">317</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnss02" data-p-adult="349" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>凯恩斯 15000 英尺海景高空跳伞</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 349</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">349</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novawsi1dt" data-p-adult="279" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>白天堂沙滩双舒适游船一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 279</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">279</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacwcsd1d" data-p-adult="259" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>卡米拉帆船航海一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 259</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">259</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnstrr" data-p-adult="240" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔利河漂流一日游 (含凯恩斯往返接送)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 240</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">240</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novarctwb" data-p-adult="230" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【雷霆猫号】白天堂沙滩一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 230</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">230</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsrfd" data-p-adult="228" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>热带雨林土著文化一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 228</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">228</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsdm1d" data-p-adult="190" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>棕榈湾 + 鳄鱼园 + 道格拉斯港一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 190</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">190</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsppd" data-p-adult="190" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>阿瑟顿高原 - 天空之城一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 190</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">190</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsbr" data-p-adult="184" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>巴伦河半日漂流（含凯恩斯往返接送）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 184</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">184</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsgbg" data-p-adult="162" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【大猫号】绿岛体验一日游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 162</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">162</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamel5days" data-p-adult="969" data-p-child="450" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本 5 日全景之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 969</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 450</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">969</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">450</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">600</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamel4days" data-p-adult="799" data-p-child="400" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本 4 日经典之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 799</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 400</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">799</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">400</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">450</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamel3days" data-p-adult="649" data-p-child="350" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本 3 日休闲之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 649</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 350</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">649</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">350</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">300</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelpbpi" data-p-adult="229" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【精致奔驰小团】蒸汽火车 & 企鹅岛一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 229</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">229</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelppc" data-p-adult="185" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【重磅经典必玩】蒸汽小火车 + 企鹅岛 天天出发！一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 185</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">185</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelmpt" data-p-adult="169" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【重磅】墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 169</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">169</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelsvh" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【體驗淘金熱】疏芬山淘金鎮—週三/週六出發！</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 119</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">119</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelpbi" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【菲利普岛必玩】彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 119</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">119</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelgori" data-p-adult="79" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【天天出发】经典大洋路一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 79</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">79</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-suppv0007" data-p-adult="599" data-p-child="199" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本4天巴士团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 599</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 199</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">599</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">199</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">399</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaool3dk" data-p-adult="999" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【全新】黄金海岸 4 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 999</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">999</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">220</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatang3d" data-p-adult="1120" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>海豚岛全新趣味 3 天 2 晚</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1120</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1120</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novabnem2" data-p-adult="578" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【天阁露玛】摩顿海豚岛三天两夜套餐</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 578</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">578</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolcct" data-p-adult="259" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>可伦宾动物园 + 翠儿河捉蟹一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 259</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">259</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaool4o3" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【特价】黄金海岸四大主题公园 3 日套票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 179</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">179</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolby" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【全新】拜伦湾一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 179</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">179</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaooltro" data-p-adult="179" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>热带水果园 + 危险角一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 179</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">179</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaooltam" data-p-adult="175" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>天宝林山 + 蓝光萤火虫自然风光一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 175</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">175</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novabnetgl" data-p-adult="99" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>布里斯班摩顿海豚岛一日游套餐（多种选择）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 99</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">99</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolgwn" data-p-adult="99" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸蓝光萤火虫中文夜游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 99</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">99</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolcrb" data-p-adult="95" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸翠儿河捉蟹 + 生蚝农场半日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 95</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">95</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-suppv0008" data-p-adult="499" data-p-child="149" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸巴士团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 499</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 149</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">499</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">149</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">299</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novahi4dpack" data-p-adult="992" data-p-child="52" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>汉密尔顿岛自助游套餐</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 992</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 52</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">992</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">52</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">864</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novawsifcg" data-p-adult="720" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>【汉密尔顿岛出发】心形大堡礁直升机 + 游船一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 720</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">720</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novarcjet" data-p-adult="259" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>艾尔利滩海上摩托自驾 [英文]</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 259</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">259</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novarcsail" data-p-adult="199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>圣灵群岛帆船一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 199</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">199</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasspl7d26" data-p-adult="1699" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉色海洋心动 7 日游 (粉红湖 / 自然之窗 / 龙虾美食等)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1699</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1699</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">720</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasspl6d26" data-p-adult="1499" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉色海洋微笑 6 日游 (粉红湖 / 自然之窗 / 龙虾美食等)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1499</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1499</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">660</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasspl5d26" data-p-adult="1199" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉色海洋小火车灯塔童话 5 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1199</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1199</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">480</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novassplb4d" data-p-adult="949" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉红湖小火车浪漫 4 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 949</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">949</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">360</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasspl3d26" data-p-adult="699" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉红湖自然之窗龙虾美食经典 3 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 699</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">699</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">180</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaperpin" data-p-adult="200" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>尖峰石阵品质一日游（每周三、六出发）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 200</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">200</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novapermrt" data-p-adult="198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>玛格利特河一日游（每周四出发）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">198</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaperwrd" data-p-adult="195" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>波浪岩品质一日游（每周五出发）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 195</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">195</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novapersvd" data-p-adult="165" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>天鹅河谷美食美酒一日游（每周日出发）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 165</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">165</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaperrot" data-p-adult="85" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>罗特尼斯岛一日游 (Rottnest Express)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 85</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">85</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-suppv0004" data-p-adult="1299" data-p-child="599" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>2026-2027 nologo 玩轉西澳(289)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1299</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 599</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1299</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">599</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">999</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatvauk5" data-p-adult="1818" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁帝王谷精品五日游（维珍团）四人起成团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1818</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1818</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">900</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatusp4" data-p-adult="1618" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁精品中文 4 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1618</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1618</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">700</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatuk3" data-p-adult="1368" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁帝王谷探索之旅 3 日游 [四人成团]</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1368</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1368</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">485</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatuw3" data-p-adult="1118" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁卡塔丘塔经典之旅三日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1118</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1118</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">485</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatvw3" data-p-adult="998" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁经典之旅三日游（维珍团）天天出发</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 998</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">998</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">485</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatay03" data-p-adult="355" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>帝王谷一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 355</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">355</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaayqe04" data-p-adult="295" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>寂静之声晚宴</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 295</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">295</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatay04" data-p-adult="239" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>卡塔丘塔日出及风之谷徒步之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 239</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">239</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatay01" data-p-adult="219" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>卡塔丘塔和乌鲁鲁日落之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 219</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">219</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatay02" data-p-adult="209" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁日出，圣迹寻踪及岩石环游之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 209</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">209</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatay07" data-p-adult="139" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁摄影观星之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 139</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">139</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaatay06" data-p-adult="139" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>乌鲁鲁马拉文化徒步之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 139</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">139</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaayqecr" data-p-adult="98" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>红土中心骑骆驼之旅 [英文]</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 98</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">98</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaayqe03" data-p-adult="50" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>极致浪漫日落原野星光展 (含接送无导游)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 50</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">50</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatas6dt" data-p-adult="1198" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚深度 6 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1198</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1198</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">525</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatas5dt" data-p-adult="1028" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚全景 5 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1028</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1028</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">420</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatas5dts" data-p-adult="998" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚南部 5 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 998</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">998</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">420</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatas4dt" data-p-adult="848" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚 4 日精华游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 848</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">848</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">315</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatas3dt" data-p-adult="658" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚 3 日精华游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 658</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">658</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">210</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaptagfe" data-p-adult="700" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚海鲜盛宴一日游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 700</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">700</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatasf" data-p-adult="299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚海钓</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">299</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatasmar" data-p-adult="208" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>玛丽亚岛纯净之美一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 208</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">208</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novataspot" data-p-adult="168" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>亚瑟港一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 168</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">168</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novapcbpue" data-p-adult="180" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯曼岛游船 [英文]</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 180</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">180</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novap40ycu" data-p-adult="175" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚布鲁尼岛游船 [英文]</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 175</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">175</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novapbry5s" data-p-adult="155" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>酒杯湾游船 [英文]</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 155</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">155</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novataswgb" data-p-adult="148" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>酒杯湾一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 148</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">148</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatasmfl" data-p-adult="138" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>费尔德山一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 138</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">138</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novapecyla" data-p-adult="99" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>亚瑟港英文一日游套票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 99</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">99</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novatashba" data-p-adult="98" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>霍巴特周边 + 里奇蒙小镇一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 98</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">98</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaadlkid" data-p-adult="388" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>袋鼠岛精华一日游（中文）</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 388</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">388</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaadlmrd" data-p-adult="185" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>穆理河仙履奇缘一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 185</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">185</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaadlbvd" data-p-adult="185" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>红酒之乡巴罗莎谷一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 185</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">185</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaadlhmv" data-p-adult="185" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>阿德莱德市区与汗道夫德国村一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 185</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">185</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaadlfpd" data-p-adult="185" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>菲尔半岛一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 185</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">185</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-suppv0006" data-p-adult="699" data-p-child="299" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>2026-2027_nologo 南澳阿德萊德(191)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 699</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 299</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">699</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">299</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">499</td></tr><tr><td class="item">综合服务费 Service fee<span class="en">Service</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasyd2101" data-p-adult="215" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>【瑞皮科】悉尼海港午 / 晚餐游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 215</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">215</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasdigi" data-p-adult="39" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼数字沉浸娱乐乐园</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 39</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">39.2</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolsdb" data-p-adult="419" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>拜伦湾高空跳伞 15000 英尺</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 419</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">419</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydsdw" data-p-adult="399" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼卧龙岗海景高空跳伞 15000 英尺</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 399</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">399</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydsdn" data-p-adult="399" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼北部纽卡斯尔 15000 英尺海景高空跳伞</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 399</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">399</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcha" data-p-adult="299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼卡姆登谷 60 分钟热气球飞行 (含特色早餐)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">299</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydhha" data-p-adult="299" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼猎人谷 60 分钟热气球飞行 (含特色早餐)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 299</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">299</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcsb" data-p-adult="220" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼晚餐歌舞表演游轮</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 220</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">220</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcvc" data-p-adult="230" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>2 小时豪华 360° 观景玻璃船晚餐配餐酒</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 230</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">230</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasyd8sw" data-p-adult="64" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>蓝山景观世界缆车通票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 64</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">64</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydszt" data-p-adult="59" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼动物园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 59</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">59.9</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydctz" data-p-adult="55" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼塔龙加动物园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 55</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">55</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydarp" data-p-adult="54" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼中央海岸爬虫公园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 54</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">54.99</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydjdc" data-p-adult="59" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼南部杰维斯湾观海豚 / 观鲸游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 59</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">59</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydbpw" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼费瑟戴尔野生动物园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydsym" data-p-adult="47" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>西姆比欧野生动物园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 47</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">47</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydsbt" data-p-adult="43" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼史蒂芬港滑沙门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 43</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">43</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydpdc" data-p-adult="45" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>史蒂芬港海豚 / 观鲸游船票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 45</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">45</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcsl" data-p-adult="55" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼水族馆门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 55</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">55</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydpse" data-p-adult="41" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>史蒂芬港鲨鱼馆 鲨鱼与鳐鱼亲密接触</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 41</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">41</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydoph" data-p-adult="37" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼歌剧院内部解说文化探索之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 37</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">37</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcwl" data-p-adult="48" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼情人港室内野生动物园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 48</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">48</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcmt" data-p-adult="49" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼杜莎夫人蜡像馆门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 49</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">49</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydfry" data-p-adult="35" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>1 小时悉尼海港观光游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 35</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">35</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcmm" data-p-adult="35" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼海事博物馆通票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 35</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">35</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydcst" data-p-adult="40" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼蜡像馆门票 + 4D 电影体验</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 40</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">40</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaactgg" data-p-adult="25" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>堪培拉全金小人国门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 25</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">25</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasyd404" data-p-adult="85" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼精华景点四选一套票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 85</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">85</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasyd304" data-p-adult="75" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼精华景点四选三套票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 75</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">75</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasyd204" data-p-adult="65" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼精华景点四选二套票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 65</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">65</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydww2" data-p-adult="125" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼观鲸 2.5 小时刺激快艇</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 125</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">125</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydlc1" data-p-adult="120" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>Magistic 悉尼海港自助午餐游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 120</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">120</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydpqb" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>史蒂芬港四驱车体验</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 119</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">119</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasyddc1" data-p-adult="115" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼海港 1 小时暮光晚餐巡游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 115</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">115</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydww4" data-p-adult="104" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼 4 小时含餐观鲸游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 104</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">104</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydstb" data-p-adult="99" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼塔天空旋转餐厅自助餐</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 99</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">99</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydww3" data-p-adult="91" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼 2 小时快捷 / 2.5 小时探索观鲸游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 91</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">91</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydjet" data-p-adult="89" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼喷射快艇探险体验</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 89</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">89</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydctf" data-p-adult="83" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>塔龙加动物园 + 悉尼海港渡轮票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 83</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">83</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novasydbig" data-p-adult="75" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼陆上 + 水下双巴士通票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 75</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">75</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novameljab" data-p-adult="605" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本城市中心 60 分钟热气球飞行体验</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 605</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">605</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelzoo" data-p-adult="61" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本动物园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 61</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">61</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelsh" data-p-adult="52" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>疏芬山金矿门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 52</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">52.5</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelslt" data-p-adult="51" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本水族馆门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 51</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">51</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelmar" data-p-adult="33" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本 Maru 考拉动物园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 33</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">33</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novamelcho" data-p-adult="23" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>菲利普岛巧克力工厂门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 23</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">23</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolhab" data-p-adult="329" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸热气球体验</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 329</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">329</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolobs" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸狂野奇观表演入场券</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 119</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">119</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolwww" data-p-adult="114" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸狂野水世界门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 114</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">114</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolswa" data-p-adult="114" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸海洋世界门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 114</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">114</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolmva" data-p-adult="114" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸华纳电影世界门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 114</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">114</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaooldwa" data-p-adult="109" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸梦幻世界主题公园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 109</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">109</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolczt" data-p-adult="70" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>可伦宾野生动物园门票 (可选抱考拉)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 70</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">70</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolfrt" data-p-adult="78" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>热带水果园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 78</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">78</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novapqagc" data-p-adult="65" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸鸭子船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 65</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">65</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolpca" data-p-adult="59" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>天堂农庄门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 59</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">59</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novaoolq1a" data-p-adult="36" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>Q1 大厦 360 度观景台门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 36</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">36</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novarfs7" data-p-adult="132" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>库兰达热带雨林单程缆车 + 单程观光火车</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 132</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">132</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnstube" data-p-adult="119" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>凯恩斯半日 Tubing 漂流 (含往返接送)</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 119</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">119</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsktr" data-p-adult="74" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>库兰达热带雨林缆车票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 74</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">74</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnsrfs" data-p-adult="71" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>库兰达热带雨林公园套票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 71</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">71</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnspdw" data-p-adult="50" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>道格拉斯港野生动物栖息地动物园</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 50</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">50</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-novacnskbg" data-p-adult="25" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>库兰达小镇蝴蝶园门票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 25</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>1天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">25</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>史蒂芬港观海豚一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>猎人谷品酒一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>悉尼市区网红地标一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>蓝山日落观星精品小团</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>蒸汽火车 & 企鹅岛一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>蒸汽小火车 + 企鹅岛 天天出发！一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>墨尔本绵羊 + 吉朗朗斯戴尔小镇一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>疏芬山淘金镇一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>经典大洋路一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus34" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸 3/4 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>摩顿海豚岛三天两夜套餐</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus3" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>黄金海岸四大主题公园 3 日套票</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>拜伦湾一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>心形大堡礁直升机 + 游船一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>豪华游船超值一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>绝代双礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>阿金考特大堡礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>凯恩斯摩尔外大堡礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>诺曼 / 摩尔外海大堡礁一日游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>摩尔外海大堡礁一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>白天堂沙滩一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>绿岛体验一日游船</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus7" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉色海洋心动7日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus6" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉色海洋微笑6日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus5" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉色海洋小火车灯塔童话5日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus4" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉红湖小火车浪漫4日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus3" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>西澳粉红湖自然之窗龙虾美食经典3日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>尖峰石阵品质一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>玛格利特河一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>波浪岩品质一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>天鹅河谷美食美酒一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>罗特尼斯岛一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus5" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚全景5日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus6" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚深度6日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>6天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus5" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚南部5日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>5天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus4" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-uluru.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚4日精华游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus3" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-apostles.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>塔斯马尼亚3日精华游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>3天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/hero-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>霍巴特周边+里奇蒙小镇一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="au-aus" data-p-adult="0" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/au-sydney.jpg')">
+        <span class="rp-badge">单门票·单项体验</span>
+        <div class="rp-detail-hero-in"><h3>袋鼠岛精华一日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> 待确认</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>待确认</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">待确认</td></tr><tr><td class="item">儿童占床 Child with bed<span class="en">Child with bed</span></td><td class="price">待确认</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>  </div>
+</div>
 
-  window.REGION_PLANS.nz = `
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;
+
+    window.REGION_PLANS.nz = `
 <div class="rp-banner">
   <div class="rp-slides">
-    <div class="rp-slide active" style="background-image:url('assets/img/nz-hero.webp')"></div>
-    <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-milford.jpg')"></div>
+    <div class="rp-slide active" style="background-image:url('assets/img/destinations/nz.jpg')"></div>
     <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-queenstown.jpg')"></div>
-    <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-cook.jpg')"></div>
+    <div class="rp-slide" style="background-image:url('assets/img/destinations/nz-lake.jpg')"></div>
   </div>
   <div class="rp-banner-in">
-    <h1>新西兰 · 分区行程规划</h1>
-    <div class="rp-sub">New Zealand Region Tours</div>
-    <p class="rp-desc">从北岛火山地热到南岛冰川峡湾，3 大分区一图读懂。点击左侧分区，查看各地核心行程品类与经典连游组合。</p>
+    <h1>新西兰 · 纯净之旅</h1>
+    <div class="rp-sub">New Zealand Tours</div>
+    <p class="rp-desc">点击左侧区域，查看各地核心行程。详情与班期以客服查询为准。</p>
   </div>
 </div>
 <div class="rp-layout">
-  <nav class="rp-nav2" aria-label="新西兰目的地">
-    <div class="rp-group open" data-group="south">
-      <div class="rp-group-title">新西兰南岛 <span class="rp-arrow">▼</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route active" data-route="nz-south7">南岛7日湖光山色之旅</div>
-        <div class="rp-route rp-coming" data-route="nz-south9">南岛全景9日游</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="north">
-      <div class="rp-group-title">新西兰北岛 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route rp-coming" data-route="nz-north4">北岛4日中土风情之旅</div>
-        <div class="rp-route rp-coming" data-route="nz-north4b">北岛4日探索之旅</div>
-      </div>
-    </div>
-    <div class="rp-group" data-group="both">
-      <div class="rp-group-title">南北岛连线 <span class="rp-arrow">▶</span></div>
-      <div class="rp-group-list">
-        <div class="rp-route rp-coming" data-route="nz-10a">南北岛10日精华之旅</div>
-        <div class="rp-route rp-coming" data-route="nz-10b">南北岛风光10日游</div>
-      </div>
-    </div>
-  </nav>
-  
-    <div class="rp-route-pane" data-route="nz-nzn4da" data-p-adult="1798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰北岛 4 日中土风情之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="nz-nzs9dd" data-p-adult="1798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰南岛全景 9 日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="nz-nanat4" data-p-adult="1798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰北岛 4 日探索之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="nz-nzan4a7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰南北岛 10 日精华之旅</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div>
-    <div class="rp-route-pane" data-route="nz-nzat4a7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero"><div class="rp-detail-hero-in"><h3>新西兰南北岛风光 10 日游</h3><div class="rp-detail-meta">详情稍后更新</div></div></div>
-      <div class="rp-sec"><h4>产品简介</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>行程介绍</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>费用说明</h4><p>详情稍后更新</p></div>
-      <div class="rp-sec"><h4>预订须知</h4><p>详情稍后更新</p></div>
-    </div><div class="rp-detail-area">
-    <div class="rp-route-pane active" data-route="nz-south7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
-      <div class="rp-detail-hero">
-        <div class="rp-detail-hero-in">
-          <h3>【南岛全景】新西兰南岛7日湖光山色之旅</h3>
-          <div class="rp-detail-meta">7天6晚 · 基督城进出 · 中文司导 · 纯玩无购物</div>
+  <nav class="rp-nav2" aria-label="nz 目的地">
+      <div class="rp-cat" data-cat="超值特惠团">
+        <div class="rp-cat-title">超值特惠团 <span class="rp-arrow">▶</span></div>
+        <div class="rp-group" data-group="新西兰全境">
+          <div class="rp-group-title">新西兰全境 <span class="rp-arrow">▶</span></div>
+          <div class="rp-group-list">
+        <div class="rp-route" data-route="nz-novanzs7d23">新西兰南岛 7 日湖光山色之旅</div>
+        <div class="rp-route" data-route="nz-novanzn4da">新西兰北岛 4 日中土风情之旅</div>
+        <div class="rp-route" data-route="nz-novanzs9dd">新西兰南岛全景 9 日游</div>
+        <div class="rp-route" data-route="nz-novananat4">新西兰北岛 4 日探索之旅</div>
+        <div class="rp-route" data-route="nz-novanzan4a7">新西兰南北岛 10 日精华之旅</div>
+        <div class="rp-route" data-route="nz-novanzat4a7">新西兰南北岛风光 10 日游</div>
+        <div class="rp-custom" data-custom="1" data-board="新西兰全境">✨ 私人订制（新西兰全境）</div>
+          </div>
         </div>
       </div>
-      <div class="rp-detail-date">
-        <label>出发日期<span class="req">*</span></label>
-        <select class="rp-date-select" onchange="onRouteDateChange(this)">
-          <option value="">请选择出发日期</option>
-          <option value="__custom__">自选具体日期…</option>
-        </select>
-        <input type="date" class="rp-date-input" hidden>
+  </nav>
+  <div class="rp-detail-area">
+    <div class="rp-route-pane" data-route="nz-novanzs7d23" data-p-adult="1858" data-p-child="1100" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/nz.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>新西兰南岛 7 日湖光山色之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1858</span>
+            <span class="rp-price-item"><b>儿童</b> A$ 1100</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
       </div>
-      <div class="rp-detail-cta">
-        <a href="javascript:void(0)" class="btn btn-primary" onclick="goBook(this)">提交预订申请</a>
-        <a href="javascript:void(0)" class="btn btn-outline" onclick="printRoute(this)">下载行程单</a>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <div class="rp-sec">
-        <h4>产品简介</h4>
-        <p>★ 星空保护区 ★ 绝美冰湖 ★ 库克山顶级步道体验 ★ 格林诺奇小镇 ★ 复古箭镇 ★ 米尔福德峡湾（含游船）★ 皇后镇自由探索 ★ 摩拉基巨型圆石 ★ 夜观蓝企鹅归巢（含）</p>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>7天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1858</td></tr><tr><td class="item">儿童不占床 Child no bed<span class="en">Child no bed</span></td><td class="price">1100</td></tr><tr><td class="item">单房差 Single suppl.<span class="en">Single</span></td><td class="price">450</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-      <div class="rp-sec">
-        <h4>行程介绍</h4>
-        <p><b>第1天</b> 抵达基督城，专车接机送酒店休息。<br><b>第2天</b> 基督城→蒂卡波湖→冰河湖区，夜宿星空保护区。<br><b>第3天</b> 冰河湖区→库克山→克伦威尔→皇后镇。<br><b>第4天</b> 皇后镇→格林诺奇→箭镇→皇后镇。<br><b>第5天</b> 皇后镇→米尔福德峡湾游船→蒂阿瑙。<br><b>第6天</b> 皇后镇→但尼丁→奥马鲁，夜观蓝企鹅归巢。<br><b>第7天</b> 奥马鲁→基督城，送机返程。</p>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="nz-novanzn4da" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/nz-queenstown.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>新西兰北岛 4 日中土风情之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1798</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
       </div>
-      <div class="rp-sec">
-        <h4>费用说明</h4>
-        <p><b>价格包含：</b>3-4星级酒店双人标准间、中文司机兼导游、旅游车、行程所列餐食、行程列明★景区门票（含米尔福德峡湾游船、蓝企鹅归巢）。<br><b>价格不含：</b>国际机票、签证、个人消费、自费项目、司导小费（约 AUD5/人/天）、单房差。</p>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
       </div>
-      <div class="rp-sec">
-        <h4>预订须知</h4>
-        <p>出发前 3 天发出团通知；四人成团；新西兰住宿设施有限，酒店可能根据实际情况调整；三人间默认一大床加一小床。退改：出发前 7 天以上免费，7 天内按比例收取损失。</p>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1798</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
       </div>
-    </div>
-    <div class="rp-route-pane rp-coming" data-route="nz-south9"><div class="rp-coming-tip">该路线详情整理中，敬请期待 · 南岛全景9日游</div></div>
-    <div class="rp-route-pane rp-coming" data-route="nz-north4"><div class="rp-coming-tip">该路线详情整理中，敬请期待 · 北岛4日中土风情之旅</div></div>
-    <div class="rp-route-pane rp-coming" data-route="nz-north4b"><div class="rp-coming-tip">该路线详情整理中，敬请期待 · 北岛4日探索之旅</div></div>
-    <div class="rp-route-pane rp-coming" data-route="nz-10a"><div class="rp-coming-tip">该路线详情整理中，敬请期待 · 南北岛10日精华之旅</div></div>
-    <div class="rp-route-pane rp-coming" data-route="nz-10b"><div class="rp-coming-tip">该路线详情整理中，敬请期待 · 南北岛风光10日游</div></div>
-  </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="nz-novanzs9dd" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/nz-lake.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>新西兰南岛全景 9 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1798</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>9天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1798</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="nz-novananat4" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/nz.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>新西兰北岛 4 日探索之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1798</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>4天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1798</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="nz-novanzan4a7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/nz-queenstown.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>新西兰南北岛 10 日精华之旅</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1798</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1798</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>    <div class="rp-route-pane" data-route="nz-novanzat4a7" data-p-adult="1798" data-p-child="0" data-p-infant="0">
+      <div class="rp-detail-hero" style="background-image:url('assets/img/destinations/nz-lake.jpg')">
+        <span class="rp-badge">超值特惠团</span>
+        <div class="rp-detail-hero-in"><h3>新西兰南北岛风光 10 日游</h3>
+          <div class="rp-price-row">
+            <span class="rp-price-item"><b>大人</b> A$ 1798</span>
+            <span class="rp-price-item"><b>儿童</b> 待确认</span>
+            <span class="rp-price-item"><b>婴儿</b> 待确认</span>
+          </div>
+        </div>
+      </div>
+      <div class="rp-tabs">
+        <div class="rp-tab active" data-tab="price">日期和价格</div>
+        <div class="rp-tab" data-tab="itinerary">行程安排</div>
+        <div class="rp-tab" data-tab="notes">参团须知</div>
+        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>
+      </div>
+      <div class="rp-tab-panel active" data-tab="price">
+        <div class="rp-summary"><div><b>行程天数</b>10天</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>
+<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody><tr><td class="item">成人报名费 Tour Fee<span class="en">Adult</span></td><td class="price">1798</td></tr></tbody></table>        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>
+      </div>
+      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【行程安排】
+请在此处粘贴行程安排内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="notes"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">
+【参团须知】
+请在此处粘贴参团须知内容...
+</pre></div>
+      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>
+    </div>  </div>
+</div>
 
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：西海岸公路 © 实拍；米尔福德峡湾 © Lindsey Costa, CC0；皇后镇瓦卡蒂普湖 © Bernard Spragg, CC0；库克山 © Bernard Spragg, CC0.</p></div>`;
-
-                                        window.REGION_PLANS.asia = `
+                                          window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -3544,7 +8236,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;
 
 
 
@@ -3560,7 +8252,7 @@ window.REGION_PLANS.australia = `
 
 
 
-                          window.REGION_PLANS.europe = `
+                            window.REGION_PLANS.europe = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/europe.jpg')"></div>
@@ -4550,7 +9242,7 @@ window.REGION_PLANS.australia = `
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;
 
   window.REGION_PLANS.cruise = `
 <div class="rp-banner">
@@ -4668,7 +9360,7 @@ window.REGION_PLANS.australia = `
   </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-                                        window.REGION_PLANS.china = `
+                                          window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -14187,7 +18879,7 @@ USD$150/
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;
 
 
 
@@ -14205,7 +18897,7 @@ USD$150/
 })();
 PROBE_SENTINEL_20260715
 
-                                        window.REGION_PLANS.island = `
+                                          window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -14513,7 +19205,7 @@ PROBE_SENTINEL_20260715
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;
 
 
 
@@ -14529,7 +19221,7 @@ PROBE_SENTINEL_20260715
 
 
 
-                                        window.REGION_PLANS.america = `
+                                          window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -15342,7 +20034,7 @@ PROBE_SENTINEL_20260715
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;
 
 
 
@@ -15356,7 +20048,7 @@ PROBE_SENTINEL_20260715
 
 
 
-                                      window.REGION_PLANS.other = `
+                                        window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -15796,7 +20488,7 @@ PROBE_SENTINEL_20260715
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;
 
 
 
