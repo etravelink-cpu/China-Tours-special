@@ -52,10 +52,11 @@
             <option value="australia" data-i18n="dest.australia">澳洲</option>
             <option value="nz" data-i18n="dest.nz">新西兰</option>
             <option value="china" data-i18n="dest.china">中国</option>
-            <option value="europe" data-i18n="dest.europe">欧洲</option>
             <option value="asia" data-i18n="dest.asia">亚洲</option>
+            <option value="europe" data-i18n="dest.europe">欧洲</option>
+            <option value="america" data-i18n="dest.america">美加</option>
             <option value="cruise" data-i18n="dest.cruise">邮轮</option>
-            <option value="other" data-i18n="dest.other">其他</option>
+            <option value="special" data-i18n="dest.special">特别</option>
             <option value="custom" data-i18n="dest.custom">私人订制</option>
           </select>
           <button class="h-search" id="h-search" data-i18n="search.find">寻找</button>
@@ -128,12 +129,11 @@
           <a href="list.html?d=australia">澳洲</a><span>|</span>
           <a href="list.html?d=nz">新西兰</a><span>|</span>
           <a href="list.html?d=china">中国</a><span>|</span>
-          <a href="list.html?d=europe">欧洲</a><span>|</span>
           <a href="list.html?d=asia">亚洲</a><span>|</span>
-          <a href="list.html?d=island">海岛</a><span>|</span>
+          <a href="list.html?d=europe">欧洲</a><span>|</span>
           <a href="list.html?d=america">美加</a><span>|</span>
           <a href="list.html?d=cruise">邮轮</a><span>|</span>
-          <a href="custom.html">私人订制</a><span>|</span>
+          <a href="list.html?d=special">特别</a><span>|</span>
           <a href="about.html" data-i18n="about.title">${I18N[lang]['about.title']}</a><span>|</span>
           <a href="contact.html" data-i18n="contact.title">${I18N[lang]['contact.title']}</a><span>|</span>
           <a href="faq.html" data-i18n="faq.title">${I18N[lang]['faq.title']}</a><span>|</span>
