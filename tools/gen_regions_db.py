@@ -171,8 +171,16 @@ for _k in MANAGED:
     if _k not in blocks:
         blocks[_k]=build_block(_k, [])
 
+# 仅含"有显示产品"的大区(供前端导航联动隐藏空大区)
+VISIBLE = list(by_region.keys())
+vis_line = "window.REGION_VISIBLE = " + str(VISIBLE) + ";\n"
+
 # --- 替换 region-plans.js 中受管块 ---
 s=io.open(JS,encoding='utf-8').read()
+# 确保文件顶部注入 REGION_VISIBLE(覆盖旧行)
+if "window.REGION_VISIBLE" in s:
+    s = re.sub(r"window\.REGION_VISIBLE\s*=\s*\[[^\]]*\];\n?", "", s)
+s = vis_line + s
 for k in MANAGED:
     if k not in blocks: continue
     marker='window.REGION_PLANS.'+k+' = `'

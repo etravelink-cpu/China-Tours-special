@@ -1,9 +1,10 @@
+window.REGION_VISIBLE = ['china', 'asia'];
 // Etrips 国安易游 — 目的地分区行程规划（可复用模板）
 // 新增子页只需在此对象加一个 key（如 nz / china），list.js 按 ?d= 自动取用
 (function(){
   window.REGION_PLANS = window.REGION_PLANS || {};
 
-    window.REGION_PLANS.australia = `
+      window.REGION_PLANS.australia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/hero-sydney.jpg')"></div>
@@ -24,9 +25,9 @@
   </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;
 
-      window.REGION_PLANS.nz = `
+        window.REGION_PLANS.nz = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/nz.jpg')"></div>
@@ -46,9 +47,9 @@
   </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;
 
-                                                      window.REGION_PLANS.asia = `
+                                                        window.REGION_PLANS.asia = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/asia.jpg')"></div>
@@ -582,7 +583,7 @@
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;;;;;;
 
 
 
@@ -598,7 +599,7 @@
 
 
 
-                              window.REGION_PLANS.europe = `
+                                window.REGION_PLANS.europe = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/europe.jpg')"></div>
@@ -618,7 +619,7 @@
   </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;
 
   window.REGION_PLANS.cruise = `
 <div class="rp-banner">
@@ -736,7 +737,7 @@
   </div>
 
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：邮轮编队 © 实拍；远洋邮轮 © Spielvogel, CC BY-SA 4.0；威尼斯邮轮码头 © Mariordo, CC BY-SA 4.0；Costa Fortuna 甲板 © MustangJoe, CC0.</p></div>`;
-                                                      window.REGION_PLANS.china = `
+                                                        window.REGION_PLANS.china = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/china.jpg')"></div>
@@ -5264,7 +5265,7 @@ USD$150/
     </div>  </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;;;;;;
 
 
 
@@ -5282,7 +5283,7 @@ USD$150/
 })();
 PROBE_SENTINEL_20260715
 
-                                            window.REGION_PLANS.island = `
+                                              window.REGION_PLANS.island = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/island.jpg')"></div>
@@ -5302,7 +5303,7 @@ PROBE_SENTINEL_20260715
   </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;
 
 
 
@@ -5318,7 +5319,7 @@ PROBE_SENTINEL_20260715
 
 
 
-                                            window.REGION_PLANS.america = `
+                                              window.REGION_PLANS.america = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/america.jpg')"></div>
@@ -5338,7 +5339,7 @@ PROBE_SENTINEL_20260715
   </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;
 
 
 
@@ -5352,7 +5353,7 @@ PROBE_SENTINEL_20260715
 
 
 
-                                          window.REGION_PLANS.other = `
+                                            window.REGION_PLANS.other = `
 <div class="rp-banner">
   <div class="rp-slides">
     <div class="rp-slide active" style="background-image:url('assets/img/destinations/other.jpg')"></div>
@@ -5371,7 +5372,7 @@ PROBE_SENTINEL_20260715
   </div>
 </div>
 
-  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;
+  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;;;;;;;;;;;;;;;;
 
 
 
