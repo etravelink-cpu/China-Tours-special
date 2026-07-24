@@ -152,7 +152,7 @@ from collections import OrderedDict
 # --- 读 DB ---
 conn=sqlite3.connect(DB); c=conn.cursor()
 c.execute("""SELECT Internal_Product_Code,Product_Name_CN,Product_Category,Web_Category1,Web_Category2,Web_Category3,Duration_Days,Itinerary,Participation_Notice,Online_Visible,Status
-FROM Product_Master WHERE (Online_Visible=1 OR Status='Active')""")
+FROM Product_Master WHERE (Online_Visible=1 AND Status='Active')""")
 rows=c.fetchall(); conn.close()
 items=[]
 for r in rows:
@@ -166,6 +166,10 @@ for it in items:
     by_region.setdefault(REGION_KEY[it['wc1']],[]).append(it)
 
 blocks={rg:build_block(rg, its) for rg,its in by_region.items()}
+# 预置所有 MANAGED 大区(即使无显示产品也生成空块, 确保隐藏大区被清空)
+for _k in MANAGED:
+    if _k not in blocks:
+        blocks[_k]=build_block(_k, [])
 
 # --- 替换 region-plans.js 中受管块 ---
 s=io.open(JS,encoding='utf-8').read()
@@ -180,6 +184,13 @@ for k in MANAGED:
     end=i
     s=s[:st]+blocks[k]+s[end:]
 io.open(JS,'w',encoding='utf-8').write(s)
+
+# 验证写入结果
+_v=io.open(JS,encoding='utf-8').read()
+for _k in ['australia','nz','china']:
+    _m=re.search(r'window\.REGION_PLANS\.'+_k+r' = ', _v); _st=_m.end(); _nx=_v.find('window.REGION_PLANS.', _st)
+    _seg=_v[_st:_nx]
+    print('写入核实 %s 产品数:'%_k, len(re.findall(r'class="rp-route" data-route=', _seg)))
 
 # 验证
 for k in MANAGED:
