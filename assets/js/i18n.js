@@ -11,7 +11,7 @@ window.I18N = {
     "nav.asia": "亚洲",
     "nav.nz": "新西兰",
     "nav.europe": "欧洲",
-    "nav.island": "海岛",     "nav.special": "特别",
+    "nav.island": "海岛",
     "nav.america": "美加",
     "nav.cruise": "邮轮",
     "nav.dest": "目的地",
