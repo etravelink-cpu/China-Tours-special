@@ -214,6 +214,10 @@
             activateRoute(r.dataset.route);
           }),
         );
+        // 私人订制入口(每板块): 点击跳联系/订制页, 带板块参数
+        rp.querySelectorAll('.rp-custom').forEach(el=>{
+          el.addEventListener('click', ()=>{ location.href = 'contact.html?custom=' + encodeURIComponent(el.dataset.board || ''); });
+        });
         // 详情卡内 tab 切换（借鉴 echinatours 产品页 tab 布局）
         panes.forEach((p) => {
           const tabs = p.querySelectorAll(".rp-tab");
