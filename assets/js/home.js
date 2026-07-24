@@ -242,22 +242,28 @@ window.EtripsForm = {
         href: "list.html?d=china",
       },
       {
-        zh: "欧洲",
-        en: "EUROPE",
-        img: "assets/img/destinations/europe.jpg",
-        href: "list.html?d=europe",
-      },
-      {
         zh: "亚洲",
         en: "ASIA",
         img: "assets/img/destinations/asia.jpg",
         href: "list.html?d=asia",
       },
       {
+        zh: "欧洲",
+        en: "EUROPE",
+        img: "assets/img/destinations/europe.jpg",
+        href: "list.html?d=europe",
+      },
+      {
         zh: "邮轮",
         en: "CRUISE",
         img: "assets/img/destinations/cruise.jpg",
         href: "list.html?d=cruise",
+      },
+      {
+        zh: "特别订制",
+        en: "SPECIAL CUSTOM",
+        img: "assets/img/destinations/special.jpg",
+        href: "list.html?d=special",
       },
       {
         zh: "私人订制",
