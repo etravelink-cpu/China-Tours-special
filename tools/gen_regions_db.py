@@ -18,7 +18,7 @@ import sqlite3, re, io, os
 
 DB = r"D:/Hermes Agent/etrips-universal-db/etrips_product.db"
 JS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'assets','js','region-plans.js')
-MANAGED = ['china','asia','island','america','europe','other','australia','nz']
+MANAGED = ['china','asia','island','america','europe','other','australia','nz','special','cruise']
 
 # 大区 key -> (中文标题, 英文副标, 图片池)
 REGION_META = {
@@ -30,8 +30,10 @@ REGION_META = {
  'other':   (('其他 · 更多目的地','Other Destinations'),           ['other.jpg','custom.jpg']),
  'australia': (('澳大利亚 · 全景旅游','Australia Region Tours'),   ['hero-sydney.jpg','au-sydney.jpg','au-uluru.jpg','au-apostles.jpg']),
  'nz':      (('新西兰 · 纯净之旅','New Zealand Tours'),            ['nz.jpg','nz-queenstown.jpg','nz-lake.jpg']),
+ 'special': (('特别 · 特殊行程','Special Tours'),                 ['special.jpg','antarctica.jpg']),
+ 'cruise':  (('邮轮 · 环球航线','Cruise Tours'),                 ['cruise.jpg','cruise2.jpg']),
 }
-REGION_KEY = {'中国':'china','亚洲':'asia','海岛':'island','美加':'america','欧洲':'europe','其他':'other','澳洲':'australia','新西兰':'nz'}
+REGION_KEY = {'中国':'china','亚洲':'asia','海岛':'island','美加':'america','欧洲':'europe','其他':'other','澳洲':'australia','新西兰':'nz','特别':'special','邮轮':'cruise'}
 
 # 标准类目固定顺序(全局统一); 空则隐藏
 CAT_ORDER = ['超值特惠团','纯玩无购物团','含机票特别订制团','单门票·单项体验','私人订制','签证·其他']
@@ -71,7 +73,16 @@ def pane(region, item, idx):
     days=days_from(item['days'], name)
     pa,pc,cw,single,tips = price_for(code)
     ridv=rid(region,name,code)
-    img='assets/img/destinations/'+ REGION_META[region][1][idx%len(REGION_META[region][1])]
+    # hero 图: SUP-CM 中国产品按类目用专属 banner; 其余用大区 banner 池
+    if item.get('sup')=='SUP-CM' and region=='china':
+        if item['cat']=='超值特惠团':
+            img='assets/img/sup-cm/chaozhi_%02d.jpg'%(idx%5+1)
+        elif item['cat']=='纯玩无购物团':
+            img='assets/img/sup-cm/chunwan_%02d.jpg'%(idx%5+1)
+        else:
+            img='assets/img/sup-cm/chunwan_%02d.jpg'%(idx%5+1)
+    else:
+        img='assets/img/destinations/'+ REGION_META[region][1][idx%len(REGION_META[region][1])]
     pax=('A$ '+str(int(pa))) if pa else '待确认'
     pcx=('A$ '+str(int(pc))) if pc else '待确认'
     # 仅展示有值的价格项
@@ -113,6 +124,17 @@ def pane(region, item, idx):
     '      <div class="rp-tab-panel" data-tab="brochure"><p>彩页下载：请咨询客服获取 PDF 彩页。</p></div>\n'
     '    </div>')
 
+def board_order(region, b):
+    # 特定大区的板块固定排序(其余按原样)
+    if region == 'nz':
+        order = ['北岛', '南岛', '南北岛']
+        return order.index(b) if b in order else 99
+    if region == 'australia':
+        # 城市排前, 跨地区多地联游排后
+        if b == '跨地区多地联游': return 99
+        return 0
+    return 0
+
 def build_block(region, items):
     # 按 类目 -> 板块 两级分组
     cats=OrderedDict()
@@ -151,15 +173,16 @@ def build_block(region, items):
 from collections import OrderedDict
 # --- 读 DB ---
 conn=sqlite3.connect(DB); c=conn.cursor()
-c.execute("""SELECT Internal_Product_Code,Product_Name_CN,Product_Category,Web_Category1,Web_Category2,Web_Category3,Duration_Days,Itinerary,Participation_Notice,Online_Visible,Status
+c.execute("""SELECT Internal_Product_Code,Product_Name_CN,Product_Category,Web_Category1,Web_Category2,Web_Category3,Duration_Days,Itinerary,Participation_Notice,Online_Visible,Status,Supplier_ID
 FROM Product_Master WHERE (Online_Visible=1 AND Status='Active')""")
 rows=c.fetchall(); conn.close()
 items=[]
 for r in rows:
-    code,name,cat,wc1,wc2,wc3,days,itin,notice,ov,st=r
+    code,name,cat,wc1,wc2,wc3,days,itin,notice,ov,st,sid=r
     rk=REGION_KEY.get(wc1)
     if not rk: continue
-    items.append({'code':code,'name':name,'cat':cat,'wc1':wc1,'wc2':wc2,'wc3':wc3,'days':days,'itin':itin,'notice':notice})
+    items.append({'code':code,'name':name,'cat':cat,'wc1':wc1,'wc2':wc2,'wc3':wc3,
+                  'days':days,'itin':itin,'notice':notice,'sup':sid})
 
 by_region=OrderedDict()
 for it in items:
@@ -175,22 +198,32 @@ for _k in MANAGED:
 VISIBLE = list(by_region.keys())
 vis_line = "window.REGION_VISIBLE = " + str(VISIBLE) + ";\n"
 
-# --- 替换 region-plans.js 中受管块 ---
-s=io.open(JS,encoding='utf-8').read()
-# 确保文件顶部注入 REGION_VISIBLE(覆盖旧行)
-if "window.REGION_VISIBLE" in s:
-    s = re.sub(r"window\.REGION_VISIBLE\s*=\s*\[[^\]]*\];\n?", "", s)
-s = vis_line + s
-for k in MANAGED:
-    if k not in blocks: continue
-    marker='window.REGION_PLANS.'+k+' = `'
-    st=s.index(marker)
-    i=s.index('`', st)+1; depth=1
-    while i<len(s) and depth>0:
-        if s[i]=='`': depth-=1
-        i+=1
-    end=i
-    s=s[:st]+blocks[k]+s[end:]
+# --- 热门线路(Is_Featured, 最多9, 按 Featured_Order) -> 供首页"最受欢迎线路" ---
+fconn = sqlite3.connect(DB); fc = fconn.cursor()
+fc.execute("""SELECT Internal_Product_Code,Product_Name_CN,Web_Category1,Web_Category2,Duration_Days,
+                    (SELECT COALESCE(MIN(Adult_Price_AUD),0) FROM Departure_Pricing WHERE Internal_Product_Code=Product_Master.Internal_Product_Code) as ad
+             FROM Product_Master WHERE Is_Featured=1 AND Online_Visible=1 AND Status='Active'
+             ORDER BY Featured_Order ASC, Internal_Product_Code ASC LIMIT 9""")
+DEST_KEY = {'中国':'china','亚洲':'asia','澳洲':'australia','新西兰':'nz','欧洲':'europe','美加':'america','特别':'special','海岛':'island','其他':'other','邮轮':'cruise'}
+IMG_POOL = {'china':['china.jpg','cn-westlake.jpg','cn-greatwall.jpg'],'asia':['asia.jpg','japan.jpg','bali.jpg'],
+            'australia':['hero-sydney.jpg','au-sydney.jpg','au-uluru.jpg'],'nz':['nz.jpg','nz-queenstown.jpg'],
+            'europe':['europe.jpg','paris.jpg','greece.jpg'],'america':['america.jpg','canada.jpg','usa.jpg'],
+            'special':['special.jpg','antarctica.jpg'],'island':['island.jpg','fiji.jpg'],'other':['other.jpg'],'cruise':['cruise.jpg','cruise2.jpg']}
+feat=[]
+for code,name,wc1,wc2,days,ad in fc.fetchall():
+    dk = DEST_KEY.get(wc1,'other')
+    img = 'assets/img/destinations/' + IMG_POOL.get(dk,['other.jpg'])[0]
+    price = ('A$%d'%int(ad)) if ad and int(ad)>0 else '待确认'
+    feat.append({'id':code,'nameZh':(name or '').replace('中国超值特惠团 · ','')[:28],
+                 'dest':dk,'destZh':wc1,'days':days or 0,'price':price,'img':img,
+                 'blurbZh':(name or '')[:40]})
+fconn.close()
+feat_line = "window.FEATURED = " + str(feat).replace("'",'"') + ";\n"
+
+# --- 全量写出 region-plans.js(不依赖旧文件, 避免损坏残留) ---
+# 每个 blocks[k] 已是 '  window.REGION_PLANS.xxx = `...`;' 形式
+body = '\n'.join(blocks[k] for k in MANAGED if k in blocks)
+s = vis_line + feat_line + body + '\n'
 io.open(JS,'w',encoding='utf-8').write(s)
 
 # 验证写入结果
