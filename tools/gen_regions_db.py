@@ -70,11 +70,15 @@ def price_for(code):
     if not r: return (0,0,0,None,None)
     return r
 
+def clean_name(n):
+    # 去掉 SUP-CM 产品名写死的类目前缀, 如 "中国超值特惠团 · " / "中国纯玩无购物团 · "
+    return re.sub(r'^中国[^·]*·\s*', '', n or '')
+
 def pane(region, item, idx):
     def esc(t):
         # 转义会破坏外层模板字符串(反引号)与模板插值(${)的字符
         return (t or '').replace('`', "'").replace('${', '\\${')
-    name=esc(item['name'] or '')
+    name=esc(clean_name(item['name'] or ''))
     code=item['code'] or ''
     days=days_from(item['days'], name)
     pa,pc,cw,single,tips = price_for(code)
@@ -176,7 +180,7 @@ def build_block(region, items):
         boards = sorted(cats[cat].items(), key=lambda kv: board_order(region, kv[0]))
         for b, its in boards:
             b_display = '全部行程' if b == cat else b
-            routes=''.join('        <div class="rp-route" data-route="'+rid(region,(x['name'] or ''),x['code'] or '')+'">'+(x['name'] or '')+'</div>\n' for x in its)
+            routes=''.join('        <div class="rp-route" data-route="'+rid(region,clean_name(x['name'] or ''),x['code'] or '')+'">'+clean_name(x['name'] or '')+'</div>\n' for x in its)
             cat_routes+=('        <div class="rp-group" data-group="'+b+'">\n          <div class="rp-group-title">'+b_display+' <span class="rp-arrow">▶</span></div>\n          <div class="rp-group-list">\n'+routes+'          </div>\n        </div>\n')
         nav+=('      <div class="rp-cat" data-cat="'+cat+'">\n        <div class="rp-cat-title">'+cat+' <span class="rp-arrow">▶</span></div>\n'+cat_routes+'      </div>\n')
         for b, its in boards:
@@ -270,23 +274,36 @@ for code,name,wc1,wc2,days,ad in fc.fetchall():
 fconn.close()
 feat_line = "window.FEATURED = " + str(feat).replace("'",'"') + ";\n"
 
-# --- 全量写出 region-plans.js(不依赖旧文件, 避免损坏残留) ---
-# 每个 blocks[k] 已是 '  window.REGION_PLANS.xxx = `...`;' 形式
-body = '\n'.join(blocks[k] for k in MANAGED if k in blocks)
-s = "window.REGION_PLANS = window.REGION_PLANS || {};\n" + vis_line + feat_line + body + '\n'
-io.open(JS,'w',encoding='utf-8').write(s)
+# --- 拆分写出: 每个大区独立小文件 region-<k>.js(避免单一2.5MB大文件被浏览器分段解析滞后) ---
+import os
+OUTDIR = os.path.dirname(JS)
+# 聚合文件 region-plans.js: 仅声明变量 + 可见大区 + 热门线路
+agg = "window.REGION_PLANS = window.REGION_PLANS || {};\n" + vis_line + feat_line
+io.open(JS,'w',encoding='utf-8').write(agg)
+REGION_FILES = []
+for k in MANAGED:
+    if k not in blocks: continue
+    fn = os.path.join(OUTDIR, 'region-%s.js'%k)
+    io.open(fn,'w',encoding='utf-8').write(blocks[k] + '\n')
+    REGION_FILES.append('region-%s.js'%k)
+print("已拆出子文件:", REGION_FILES)
 
 # 验证写入结果
 _v=io.open(JS,encoding='utf-8').read()
 for _k in ['australia','nz','china']:
-    _m=re.search(r'window\.REGION_PLANS\.'+_k+r' = ', _v); _st=_m.end(); _nx=_v.find('window.REGION_PLANS.', _st)
-    _seg=_v[_st:_nx]
+    fn = os.path.join(OUTDIR, 'region-%s.js'%_k)
+    _seg = io.open(fn,encoding='utf-8').read()
     print('写入核实 %s 产品数:'%_k, len(re.findall(r'class="rp-route" data-route=', _seg)))
 
 # 验证
 for k in MANAGED:
-    assert ('window.REGION_PLANS.'+k+' = [') in s, k
-print("region-plans.js 已重建(DB版). 受管板块产品数:", {k:len(by_region.get(k,[])) for k in MANAGED})
+    fn = os.path.join(OUTDIR, 'region-%s.js'%k)
+    assert os.path.exists(fn), k
+print("region-plans.js 已重建(DB版, 多文件). 受管板块产品数:", {k:len(by_region.get(k,[])) for k in MANAGED})
 import subprocess
-r=subprocess.run(['node','-e',"new Function(require('fs').readFileSync(process.argv[1],'utf8'))",JS],capture_output=True,text=True)
-print("node 语法:", 'OK' if r.returncode==0 else r.stderr[:120])
+for k in MANAGED:
+    if k not in blocks: continue
+    fn = os.path.join(OUTDIR, 'region-%s.js'%k)
+    r=subprocess.run(['node','-e',"new Function(require('fs').readFileSync(process.argv[1],'utf8'))",fn],capture_output=True,text=True)
+    if r.returncode!=0:
+        print("node 语法错误 %s:"%k, r.stderr[:120])
