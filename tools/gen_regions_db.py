@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+import json
+import sqlite3, re, os, sys
+from collections import OrderedDict
 """
 gen_regions v2 (DB 版): 读后台 Product_Master + Departure_Pricing
 -> 重建 region-plans.js 中 china/asia/island/america/europe/other 六个受管块
@@ -68,7 +71,10 @@ def price_for(code):
     return r
 
 def pane(region, item, idx):
-    name=item['name'] or ''
+    def esc(t):
+        # 转义会破坏外层模板字符串(反引号)与模板插值(${)的字符
+        return (t or '').replace('`', "'").replace('${', '\\${')
+    name=esc(item['name'] or '')
     code=item['code'] or ''
     days=days_from(item['days'], name)
     pa,pc,cw,single,tips = price_for(code)
@@ -94,8 +100,8 @@ def pane(region, item, idx):
     if tips: price_rows.append(('综合服务费 Service fee','Service',tips))
     body=''.join('<tr><td class="item">%s<span class="en">%s</span></td><td class="price">%s</td></tr>'%(z,en,fmt_price(p)) for z,en,p in price_rows if p is not None)
     price_html='<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody>%s</tbody></table>'%body
-    iti=item['itin'] or '【行程安排】\n请在此处粘贴行程安排内容...'
-    notes=item['notice'] or '【参团须知】\n请在此处粘贴参团须知内容...'
+    iti=esc(item['itin'] or '【行程安排】\n请在此处粘贴行程安排内容...')
+    notes=esc(item['notice'] or '【参团须知】\n请在此处粘贴参团须知内容...')
     return (
     '    <div class="rp-route-pane" data-route="'+ridv+'" data-p-adult="'+str(int(pa) if pa else 0)+'" data-p-child="'+str(int(pc) if pc else 0)+'" data-p-infant="0">\n'
     '      <div class="rp-detail-hero" style="background-image:url(\''+img+'\')">\n'
@@ -169,8 +175,9 @@ def build_block(region, items):
         # 板块按 board_order 固定排序
         boards = sorted(cats[cat].items(), key=lambda kv: board_order(region, kv[0]))
         for b, its in boards:
+            b_display = '全部行程' if b == cat else b
             routes=''.join('        <div class="rp-route" data-route="'+rid(region,(x['name'] or ''),x['code'] or '')+'">'+(x['name'] or '')+'</div>\n' for x in its)
-            cat_routes+=('        <div class="rp-group" data-group="'+b+'">\n          <div class="rp-group-title">'+b+' <span class="rp-arrow">▶</span></div>\n          <div class="rp-group-list">\n'+routes+'          </div>\n        </div>\n')
+            cat_routes+=('        <div class="rp-group" data-group="'+b+'">\n          <div class="rp-group-title">'+b_display+' <span class="rp-arrow">▶</span></div>\n          <div class="rp-group-list">\n'+routes+'          </div>\n        </div>\n')
         nav+=('      <div class="rp-cat" data-cat="'+cat+'">\n        <div class="rp-cat-title">'+cat+' <span class="rp-arrow">▶</span></div>\n'+cat_routes+'      </div>\n')
         for b, its in boards:
             for x in its: panes+=pane(region,x,idx); idx+=1
@@ -199,15 +206,19 @@ def build_block(region, items):
       '  </div>\n'
     )
     (t,sub)=REGION_META[region][0]
-    slides=''.join('    <div class="rp-slide'+((' active' if i==0 else '')+'\" style="background-image:url(\'assets/img/destinations/'+b+'\')"></div>\n') for i,b in enumerate(REGION_META[region][1]))
-    return ('  window.REGION_PLANS.'+region+' = `\n'
-    '<div class="rp-banner">\n  <div class="rp-slides">\n'+slides+'  </div>\n'
+    slides=''.join('    <div class="rp-slide'+(' active' if i==0 else '')+'" style="background-image:url(\'assets/img/destinations/'+b+'\')"></div>\n' for i,b in enumerate(REGION_META[region][1]))
+    block = ('<div class="rp-banner">\n  <div class="rp-slides">\n'+slides+'  </div>\n'
     '  <div class="rp-banner-in">\n    <h1>'+t+'</h1>\n    <div class="rp-sub">'+sub+'</div>\n'
     '    <p class="rp-desc">点击左侧区域，查看各地核心行程。详情与班期以客服查询为准。</p>\n  </div>\n</div>\n'
     '<div class="rp-layout">\n  <nav class="rp-nav2" aria-label="'+region+' 目的地">\n'+nav+'  </nav>\n'
     '  <div class="rp-detail-area">\n'+panes+'  </div>\n</div>\n\n'
     + form_block +
-    '  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;')
+    '  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>')
+    # 分块输出: 避免单一超大模板字符串被浏览器解析截断(中国块约970KB会触发该问题)
+    CHUNK=40000
+    chunks=[block[i:i+CHUNK] for i in range(0,len(block),CHUNK)]
+    chunk_str=',\n'.join(json.dumps(c, ensure_ascii=False) for c in chunks)
+    return '  window.REGION_PLANS.'+region+' = [\n'+chunk_str+'\n].join(\'\');'
 
 from collections import OrderedDict
 # --- 读 DB ---
@@ -274,7 +285,7 @@ for _k in ['australia','nz','china']:
 
 # 验证
 for k in MANAGED:
-    assert ('window.REGION_PLANS.'+k+' = `') in s, k
+    assert ('window.REGION_PLANS.'+k+' = [') in s, k
 print("region-plans.js 已重建(DB版). 受管板块产品数:", {k:len(by_region.get(k,[])) for k in MANAGED})
 import subprocess
 r=subprocess.run(['node','-e',"new Function(require('fs').readFileSync(process.argv[1],'utf8'))",JS],capture_output=True,text=True)

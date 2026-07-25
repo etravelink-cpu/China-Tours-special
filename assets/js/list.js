@@ -36,9 +36,21 @@
     const rp = document.getElementById("region-plan");
     const hasPlan = !!(window.REGION_PLANS && q && window.REGION_PLANS[q]);
     if (rp) {
-      rp.innerHTML = hasPlan ? window.REGION_PLANS[q] : "";
-      rp.hidden = !hasPlan;
-      if (!hasPlan) document.documentElement.classList.remove("has-region");
+      // region-plans.js 已拆为各 region 小文件, 但 china 单文件仍较大;
+      // 浏览器可能在其完整执行前触发 load, 导致初次 window.REGION_PLANS[q]
+      // 不完整。这里延迟注入, 并比较源变量与已注入DOM长度, 源更长则下一帧重注入。
+      let _tries = 0;
+      const _apply = () => {
+        rp.innerHTML = hasPlan ? window.REGION_PLANS[q] : "";
+        rp.hidden = !hasPlan;
+        if (!hasPlan) document.documentElement.classList.remove("has-region");
+        const _src = hasPlan ? window.REGION_PLANS[q] : "";
+        if (_src.length > rp.innerHTML.length + 1000 && _tries < 80) {
+          _tries++;
+          setTimeout(_apply, 200);
+        }
+      };
+      setTimeout(_apply, 300);
       // 在每个路线详情卡 hero 区显示 大人/儿童/婴儿 三项价
       rp.querySelectorAll(".rp-route-pane").forEach((p) => {
         const pa = parseFloat(p.getAttribute("data-p-adult")) || 0;
