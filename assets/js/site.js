@@ -37,7 +37,7 @@
     return `<li${sub ? ' class="has-sub"' : ""}><a href="${BASE}${href}" data-i18n="${key}">${I18N[lang][key] || key}</a>${subHtml}</li>`;
   }
 
-  // 目的地顺序(创始人裁定): 澳洲/新西兰/中国/亚洲/欧洲/邮轮/特别订制
+  // 目的地顺序(创始人裁定): 澳洲/新西兰/中国/亚洲/欧洲/邮轮/特别订制/私人订制
   const DESTS = [
     { key: "nav.australia", href: "list.html?d=australia" },
     { key: "nav.nz", href: "list.html?d=nz" },
@@ -46,6 +46,7 @@
     { key: "nav.europe", href: "list.html?d=europe" },
     { key: "nav.cruise", href: "list.html?d=cruise" },
     { key: "nav.special", href: "list.html?d=special" },
+    { key: "nav.custom", href: "contact.html" },
   ];
   const NAV = [
     navItem("nav.home", "index.html"),
@@ -129,6 +130,7 @@
       b.addEventListener("click", () => {
         hDestVal = b.dataset.d;
         hDestKey = b.dataset.i18n;
+        if (hDestVal === "custom") { location.href = BASE + "contact.html"; return; }
         const lb = document.getElementById("h-dest-label");
         lb.dataset.i18n = hDestKey;
         lb.textContent = b.textContent;
