@@ -36,7 +36,7 @@ REGION_META = {
 REGION_KEY = {'中国':'china','亚洲':'asia','海岛':'island','美加':'america','欧洲':'europe','其他':'other','澳洲':'australia','新西兰':'nz','特别':'special','邮轮':'cruise'}
 
 # 标准类目固定顺序(全局统一); 空则隐藏
-CAT_ORDER = ['超值特惠团','纯玩无购物团','含机票特别订制团','单门票·单项体验','私人订制','签证·其他']
+CAT_ORDER = ['超值特惠团','纯玩无购物团','含机票特别订制团','单门票·单项体验','全部行程','私人订制','签证·其他']
 
 def norm(s): return re.sub(r'\s+','', str(s)).strip()
 def slug(name): return re.sub(r'[^一-龥a-zA-Z0-9]','', str(name))[:18]
@@ -143,10 +143,18 @@ def board_order(region, b):
 
 def build_block(region, items):
     # 按 类目 -> 板块 两级分组
+    # 这些大区左侧导航隐藏"超值特惠团"(其产品未按超值/纯玩区分, 统一归入"全部行程"显示)
+    HIDE_SUPER = {'australia','nz','europe','america','cruise','special'}
     cats=OrderedDict()
     for it in items:
         cat=it['cat'] or '超值特惠团'
-        if cat not in CAT_ORDER: cat='超值特惠团'
+        if region in HIDE_SUPER:
+            if cat == '超值特惠团':
+                cat = '全部行程'
+            elif cat == '含机票特别团':
+                cat = '含机票特别订制团'
+            elif cat not in CAT_ORDER:
+                cat = '全部行程'
         cats.setdefault(cat, OrderedDict())
         # 含机票特别订制团: 不按区域板块分, 全部平列到一个组
         if cat == '含机票特别订制团':
