@@ -71,8 +71,14 @@ def price_for(code):
     return r
 
 def clean_name(n):
-    # 去掉 SUP-CM 产品名写死的类目前缀, 如 "中国超值特惠团 · " / "中国纯玩无购物团 · "
-    return re.sub(r'^中国[^·]*·\s*', '', n or '')
+    # 去掉 SUP-CM 产品名写死的类目前缀:
+    #  - 中国块: "中国超值特惠团 · " / "中国纯玩无购物团 · " (圆点)
+    #  - 欧洲块: "【澳洲包机票】" / "【包机票】" (方括号)
+    # 注意: 欧洲【红线】/【黄线】等线路标签不含"包机票", 不误删
+    n = n or ''
+    n = re.sub(r'^中国[^·]*·\s*', '', n)
+    n = re.sub(r'^【[^】]*包机票】', '', n)
+    return n
 
 def pane(region, item, idx):
     def esc(t):
@@ -157,7 +163,7 @@ def build_block(region, items):
     HIDE_SUPER = {'australia','nz','europe','america','cruise','special'}
     cats=OrderedDict()
     for it in items:
-        cat=it['cat'] or '超值特惠团'
+        cat=it['cat'] or '纯玩无购物团'  # 空白(未选类别)默认纯玩无购物团
         if region in HIDE_SUPER:
             if cat in ('超值特惠团','单门票·单项体验'):
                 cat = '全部行程'
@@ -240,7 +246,9 @@ for r in rows:
 
 by_region=OrderedDict()
 for it in items:
-    by_region.setdefault(REGION_KEY[it['wc1']],[]).append(it)
+    # 含机票特别订制团(包机票行程)统一归入"特别订制"大区(放在签证·其他之前)
+    rk = 'special' if it['cat'] == '含机票特别订制团' else REGION_KEY[it['wc1']]
+    by_region.setdefault(rk,[]).append(it)
 
 blocks={rg:build_block(rg, its) for rg,its in by_region.items()}
 # 预置所有 MANAGED 大区(即使无显示产品也生成空块, 确保隐藏大区被清空)
