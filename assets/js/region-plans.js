@@ -52,7 +52,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftjn7cq6">中国超值特惠团 · 水韵江南·魔幻重庆11天</div>
         <div class="rp-route" data-route="ch-ftftjn7yn6">中国超值特惠团 · 水韵江南·七彩云南12天</div>
         <div class="rp-route" data-route="ch-ftftjnad16">中国超值特惠团 · 马来西亚 文莱 越南 香港 水韵江南深圳机器人 亚洲巡礼 爱达魔都号 16 天</div>
-        <div class="rp-custom" data-custom="1" data-board="江南上海">✨ 私人订制（江南上海）</div>
           </div>
         </div>
         <div class="rp-group" data-group="北京西安">
@@ -67,7 +66,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftbj5xiyns4">中国超值特惠团 · 圆梦北京古都西安8天-含北京西安高铁</div>
         <div class="rp-route" data-route="ch-ftftbjnmg09">中国超值特惠团 · 驰骋草原 大漠星辰 北京内蒙古狂欢9天</div>
         <div class="rp-route" data-route="ch-ftftbjnmg09bj5">中国超值特惠团 · 驰骋草原・纵览皇城 北京内蒙古狂欢12天</div>
-        <div class="rp-custom" data-custom="1" data-board="北京西安">✨ 私人订制（北京西安）</div>
           </div>
         </div>
         <div class="rp-group" data-group="华南">
@@ -98,7 +96,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftxmn8">中国超值特惠团 · 闵韵世遗·厦门武夷山永定泉州8天</div>
         <div class="rp-route" data-route="ch-ftftcsgd7mi">中国超值特惠团 · 金牌米其林广东珠江潮汕游 美食7天</div>
         <div class="rp-route" data-route="ch-ftftcan6jp6">中国超值特惠团 · 和风粤韵广东日本美食美景11天</div>
-        <div class="rp-custom" data-custom="1" data-board="华南">✨ 私人订制（华南）</div>
           </div>
         </div>
         <div class="rp-group" data-group="西南">
@@ -126,7 +123,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftcan6gl6">中国超值特惠团 · 寻味岭南桂林阳朔粤桂双秀11天</div>
         <div class="rp-route" data-route="ch-ftftckgjzh10">中国超值特惠团 · 魔幻重庆・洲际悦榕庄・九寨沟童话 10 天 -淡季</div>
         <div class="rp-route" data-route="ch-ftftckgjzh102">中国超值特惠团 · 魔幻重庆・洲际悦榕庄・九寨沟童话 10 天 -9-10月</div>
-        <div class="rp-custom" data-custom="1" data-board="西南">✨ 私人订制（西南）</div>
           </div>
         </div>
         <div class="rp-group" data-group="长江三峡">
@@ -162,7 +158,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftjnhyz12ab">中国超值特惠团 · （AB团）至臻江南和平饭店·长江三峡12天</div>
         <div class="rp-route" data-route="ch-ftftjnhyz12aa">中国超值特惠团 · （AA团）至臻江南和平饭店·长江三峡12天</div>
         <div class="rp-route" data-route="ch-ftftjnhyz12a">中国超值特惠团 · （A团)至臻江南和平饭店·长江三峡12天</div>
-        <div class="rp-custom" data-custom="1" data-board="长江三峡">✨ 私人订制（长江三峡）</div>
           </div>
         </div>
         <div class="rp-group" data-group="西北">
@@ -197,14 +192,12 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftnxjspnj14">中国超值特惠团 · 南北疆14日世界级风光绝美之旅【买一送一】</div>
         <div class="rp-route" data-route="ch-ftftnxj081012">中国超值特惠团 · 撞色多巴胺！金秋伊犁那拉提·北疆8天 买一送一</div>
         <div class="rp-route" data-route="ch-ftftjn7nxj081012">中国超值特惠团 · 撞色双城记！金秋江南·伊犁那拉提北疆14天</div>
-        <div class="rp-custom" data-custom="1" data-board="西北">✨ 私人订制（西北）</div>
           </div>
         </div>
         <div class="rp-group" data-group="其他">
           <div class="rp-group-title">其他 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
         <div class="rp-route" data-route="ch-cm0037">中国超值特惠团 · VIP特别订制团</div>
-        <div class="rp-custom" data-custom="1" data-board="其他">✨ 私人订制（其他）</div>
           </div>
         </div>
       </div>
@@ -219,7 +212,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftjnns6">中国纯玩无购物团 · 纯玩水韵江南逍遥6天</div>
         <div class="rp-route" data-route="ch-ftensh3">中国纯玩无购物团 · Shanghai 3D2N Tour</div>
         <div class="rp-route" data-route="ch-ftenhs3">中国纯玩无购物团 · Huangshan (Yellow Mt) 3D2N Tour</div>
-        <div class="rp-custom" data-custom="1" data-board="江南上海">✨ 私人订制（江南上海）</div>
           </div>
         </div>
         <div class="rp-group" data-group="北京西安">
@@ -243,7 +235,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftbxyzns10">中国纯玩无购物团 · 纯玩北京西安长江三峡10天</div>
         <div class="rp-route" data-route="ch-ftftbxsyzns12">中国纯玩无购物团 · 纯玩北京西安上海长江三峡12天</div>
         <div class="rp-route" data-route="ch-ftenxy3">中国纯玩无购物团 · Xi'an 3D2N Tour</div>
-        <div class="rp-custom" data-custom="1" data-board="北京西安">✨ 私人订制（北京西安）</div>
           </div>
         </div>
         <div class="rp-group" data-group="华南">
@@ -259,7 +250,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftxmnns6">中国纯玩无购物团 · 纯玩海上花园厦门永定土楼潮汕6天</div>
         <div class="rp-route" data-route="ch-ftftxmnns7">中国纯玩无购物团 · 纯玩海上花园厦门永定土楼潮汕7天</div>
         <div class="rp-route" data-route="ch-ftftgzans6">中国纯玩无购物团 · 纯玩粤美大湾区广东美食6天</div>
-        <div class="rp-custom" data-custom="1" data-board="华南">✨ 私人订制（华南）</div>
           </div>
         </div>
         <div class="rp-group" data-group="西南">
@@ -309,7 +299,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftengl4">中国纯玩无购物团 · Guilin & Yangshuo 4D3N</div>
         <div class="rp-route" data-route="ch-ftenct3">中国纯玩无购物团 · Chengdu Panda City 3D2N Tour Tour</div>
         <div class="rp-route" data-route="ch-ftenzj5">中国纯玩无购物团 · Zhangjiajie National Park Adventure 5D4N</div>
-        <div class="rp-custom" data-custom="1" data-board="西南">✨ 私人订制（西南）</div>
           </div>
         </div>
         <div class="rp-group" data-group="长江三峡">
@@ -334,7 +323,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftjzyzns11">中国纯玩无购物团 · 纯玩洲际九寨沟长江三峡11天（淡）</div>
         <div class="rp-route" data-route="ch-ftftjzyzns11h">中国纯玩无购物团 · 纯玩洲际九寨沟长江三峡11天（旺）</div>
         <div class="rp-route" data-route="ch-ftenyz5">中国纯玩无购物团 · Yangtze River Cruise 5D4N</div>
-        <div class="rp-custom" data-custom="1" data-board="长江三峡">✨ 私人订制（长江三峡）</div>
           </div>
         </div>
         <div class="rp-group" data-group="西北">
@@ -359,7 +347,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftsxjns10">中国纯玩无购物团 · 纯玩西域南疆喀什卡湖盘龙古道10天</div>
         <div class="rp-route" data-route="ch-ftftxjns16d">中国纯玩无购物团 · 纯玩穿越南北疆全景16天</div>
         <div class="rp-route" data-route="ch-ftftxjdkns08d">中国纯玩无购物团 · 纯玩新疆独库公路空中草原史诗8天</div>
-        <div class="rp-custom" data-custom="1" data-board="西北">✨ 私人订制（西北）</div>
           </div>
         </div>
         <div class="rp-group" data-group="华北中原">
@@ -377,14 +364,12 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-ftftdbns6">中国纯玩无购物团 · 纯玩长白山东北四大名城6天</div>
         <div class="rp-route" data-route="ch-ftftdbns9">中国纯玩无购物团 · 纯玩东北全景长白山漠河北极村9天</div>
         <div class="rp-route" data-route="ch-ftftdbsnow10d">中国纯玩无购物团 · 2027 冰雪奇缘 东北全景梦幻纯玩10天-长春·吉林·长白山·延吉·雪乡·哈尔滨</div>
-        <div class="rp-custom" data-custom="1" data-board="华北中原">✨ 私人订制（华北中原）</div>
           </div>
         </div>
         <div class="rp-group" data-group="其他">
           <div class="rp-group-title">其他 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
         <div class="rp-route" data-route="ch-cm0223">中国纯玩无购物团·样例</div>
-        <div class="rp-custom" data-custom="1" data-board="其他">✨ 私人订制（其他）</div>
           </div>
         </div>
       </div>
@@ -399,7 +384,6 @@ window.FEATURED = [{"id": "CM-0315", "nameZh": "加拿大加东精品6日游-A�
         <div class="rp-route" data-route="ch-cm0027">中国纯玩无购物团 · （澳洲包机票） 新疆南疆北疆全景18日</div>
         <div class="rp-route" data-route="ch-cm0029">中国纯玩无购物团 · （澳洲包机票）新疆南疆北疆全景17日</div>
         <div class="rp-route" data-route="ch-cm0105">中国超值特惠团 · （澳洲包机票）川藏15天西藏团</div>
-        <div class="rp-custom" data-custom="1" data-board="全部行程">✨ 私人订制（全部行程）</div>
           </div>
         </div>
       </div>
@@ -30407,6 +30391,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
     </div>  </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的中国 · 分区行程规划？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="china">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.asia = `
 <div class="rp-banner">
@@ -30456,7 +30460,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="as-ftftcts05">中国超值特惠团 · 日本北海道纯玩5日</div>
         <div class="rp-route" data-route="as-ftftjp6cts05">中国超值特惠团 · 日本东京大阪北海道纯玩10天</div>
         <div class="rp-route" data-route="as-ftftsgn5">中国超值特惠团 · 纯玩南越魅力之旅5天</div>
-        <div class="rp-custom" data-custom="1" data-board="超值特惠团">✨ 私人订制（超值特惠团）</div>
           </div>
         </div>
       </div>
@@ -30476,7 +30479,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="as-cm0269">中国纯玩无购物团 · （纯玩）台湾8日</div>
         <div class="rp-route" data-route="as-cm0271">中国纯玩无购物团 · （纯玩）新加坡马来西亚6天-新进马出</div>
         <div class="rp-route" data-route="as-cm0273">中国纯玩无购物团 · （纯玩）马来西亚新加坡6天-马进新出</div>
-        <div class="rp-custom" data-custom="1" data-board="纯玩无购物团">✨ 私人订制（纯玩无购物团）</div>
           </div>
         </div>
       </div>
@@ -31655,6 +31657,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
     </div>  </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的亚洲 · 分区行程规划？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="asia">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.island = `
 <div class="rp-banner">
@@ -31676,6 +31698,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
   </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的海岛假日 · 度假天堂？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="island">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.america = `
 <div class="rp-banner">
@@ -31719,7 +31761,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="am-cm0317">加拿大加东精品6日游-B团</div>
         <div class="rp-route" data-route="am-cm0319">美加东名城瀑布9日游</div>
         <div class="rp-route" data-route="am-cm0321">加拿大定制团</div>
-        <div class="rp-custom" data-custom="1" data-board="美国/加拿大">✨ 私人订制（美国/加拿大）</div>
           </div>
         </div>
       </div>
@@ -31731,7 +31772,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="am-cm0281">【澳洲包机票】美国东西海岸经典17天游</div>
         <div class="rp-route" data-route="am-cm0283">【澳洲包机票】南美七国全景精华24日游</div>
         <div class="rp-route" data-route="am-cm0285">【澳洲包机票】南美经典五国16日狂欢之旅</div>
-        <div class="rp-custom" data-custom="1" data-board="全部行程">✨ 私人订制（全部行程）</div>
           </div>
         </div>
       </div>
@@ -32490,6 +32530,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
     </div>  </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的美国 · 加拿大 · 南美？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="america">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.europe = `
 <div class="rp-banner">
@@ -32542,7 +32602,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="eu-cm0395">欧洲【金线】意大利一地9日游</div>
         <div class="rp-route" data-route="eu-cm0397">欧洲【粉线】丹麦瑞典挪威三国7日游</div>
         <div class="rp-route" data-route="eu-cm0399">欧洲【粉线】丹麦瑞典挪威三国9日游</div>
-        <div class="rp-custom" data-custom="1" data-board="欧洲游">✨ 私人订制（欧洲游）</div>
           </div>
         </div>
       </div>
@@ -33481,6 +33540,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
     </div>  </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的欧洲 · 经典环游？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="europe">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.other = `
 <div class="rp-banner">
@@ -33501,6 +33580,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
   </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的其他 · 更多目的地？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="other">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.australia = `
 <div class="rp-banner">
@@ -33536,7 +33635,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novasydsct">【四人成团 天天出发】悉尼网红地标一日游</div>
         <div class="rp-route" data-route="au-pvsn002">2026热卖雪山团</div>
         <div class="rp-route" data-route="au-suppv0003">乌鲁鲁卡塔丘塔经典之旅3日游 Uluru Classic</div>
-        <div class="rp-custom" data-custom="1" data-board="悉尼及周边">✨ 私人订制（悉尼及周边）</div>
           </div>
         </div>
         <div class="rp-group" data-group="墨尔本及周边">
@@ -33552,7 +33650,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novamelpbi">【菲利普岛必玩】彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</div>
         <div class="rp-route" data-route="au-novamelgori">【天天出发】经典大洋路一日游</div>
         <div class="rp-route" data-route="au-suppv0007">墨尔本4天巴士团</div>
-        <div class="rp-custom" data-custom="1" data-board="墨尔本及周边">✨ 私人订制（墨尔本及周边）</div>
           </div>
         </div>
         <div class="rp-group" data-group="凯恩斯(大堡礁)">
@@ -33576,7 +33673,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novacnsppd">阿瑟顿高原 - 天空之城一日游</div>
         <div class="rp-route" data-route="au-novacnsbr">巴伦河半日漂流（含凯恩斯往返接送）</div>
         <div class="rp-route" data-route="au-novacnsgbg">【大猫号】绿岛体验一日游船</div>
-        <div class="rp-custom" data-custom="1" data-board="凯恩斯(大堡礁)">✨ 私人订制（凯恩斯(大堡礁)）</div>
           </div>
         </div>
         <div class="rp-group" data-group="昆士兰 黄金海岸&布里斯班">
@@ -33594,7 +33690,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novaoolgwn">黄金海岸蓝光萤火虫中文夜游</div>
         <div class="rp-route" data-route="au-novaoolcrb">黄金海岸翠儿河捉蟹 + 生蚝农场半日游</div>
         <div class="rp-route" data-route="au-suppv0008">黄金海岸巴士团</div>
-        <div class="rp-custom" data-custom="1" data-board="昆士兰 黄金海岸&布里斯班">✨ 私人订制（昆士兰 黄金海岸&布里斯班）</div>
           </div>
         </div>
         <div class="rp-group" data-group="圣灵群岛(汉密尔顿/艾尔利海滩)">
@@ -33604,7 +33699,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novawsifcg">【汉密尔顿岛出发】心形大堡礁直升机 + 游船一日游</div>
         <div class="rp-route" data-route="au-novarcjet">艾尔利滩海上摩托自驾 [英文]</div>
         <div class="rp-route" data-route="au-novarcsail">圣灵群岛帆船一日游</div>
-        <div class="rp-custom" data-custom="1" data-board="圣灵群岛(汉密尔顿/艾尔利海滩)">✨ 私人订制（圣灵群岛(汉密尔顿/艾尔利海滩)）</div>
           </div>
         </div>
         <div class="rp-group" data-group="珀斯/西澳">
@@ -33621,7 +33715,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novapersvd">天鹅河谷美食美酒一日游（每周日出发）</div>
         <div class="rp-route" data-route="au-novaperrot">罗特尼斯岛一日游 (Rottnest Express)</div>
         <div class="rp-route" data-route="au-suppv0004">2026-2027 nologo 玩轉西澳(289)</div>
-        <div class="rp-custom" data-custom="1" data-board="珀斯/西澳">✨ 私人订制（珀斯/西澳）</div>
           </div>
         </div>
         <div class="rp-group" data-group="塔斯马尼亚">
@@ -33643,7 +33736,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novatasmfl">费尔德山一日游</div>
         <div class="rp-route" data-route="au-novapecyla">亚瑟港英文一日游套票</div>
         <div class="rp-route" data-route="au-novatashba">霍巴特周边 + 里奇蒙小镇一日游</div>
-        <div class="rp-custom" data-custom="1" data-board="塔斯马尼亚">✨ 私人订制（塔斯马尼亚）</div>
           </div>
         </div>
         <div class="rp-group" data-group="阿德莱德/南澳">
@@ -33655,7 +33747,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novaadlhmv">阿德莱德市区与汗道夫德国村一日游</div>
         <div class="rp-route" data-route="au-novaadlfpd">菲尔半岛一日游</div>
         <div class="rp-route" data-route="au-suppv0006">2026-2027_nologo 南澳阿德萊德(191)</div>
-        <div class="rp-custom" data-custom="1" data-board="阿德莱德/南澳">✨ 私人订制（阿德莱德/南澳）</div>
           </div>
         </div>
         <div class="rp-group" data-group="乌鲁鲁/北领地">
@@ -33675,7 +33766,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novaatay06">乌鲁鲁马拉文化徒步之旅</div>
         <div class="rp-route" data-route="au-novaayqecr">红土中心骑骆驼之旅 [英文]</div>
         <div class="rp-route" data-route="au-novaayqe03">极致浪漫日落原野星光展 (含接送无导游)</div>
-        <div class="rp-custom" data-custom="1" data-board="乌鲁鲁/北领地">✨ 私人订制（乌鲁鲁/北领地）</div>
           </div>
         </div>
         <div class="rp-group" data-group="跨地区多地联游">
@@ -33688,7 +33778,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novasydmel7pg">悉尼墨尔本 7 日游</div>
         <div class="rp-route" data-route="au-novasydmel6pg">悉尼墨尔本 6 日游</div>
         <div class="rp-route" data-route="au-novacnsool">凯恩斯 - 黄金海岸 6 日游</div>
-        <div class="rp-custom" data-custom="1" data-board="跨地区多地联游">✨ 私人订制（跨地区多地联游）</div>
           </div>
         </div>
       </div>
@@ -33701,7 +33790,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-aus">猎人谷品酒一日游</div>
         <div class="rp-route" data-route="au-aus">悉尼市区网红地标一日游</div>
         <div class="rp-route" data-route="au-aus">蓝山日落观星精品小团</div>
-        <div class="rp-custom" data-custom="1" data-board="悉尼及周边">✨ 私人订制（悉尼及周边）</div>
           </div>
         </div>
         <div class="rp-group" data-group="墨尔本及周边">
@@ -33713,7 +33801,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-aus">疏芬山淘金镇一日游</div>
         <div class="rp-route" data-route="au-aus">彩虹小屋 + 神仙企鹅归巢 天天出发！一日游</div>
         <div class="rp-route" data-route="au-aus">经典大洋路一日游</div>
-        <div class="rp-custom" data-custom="1" data-board="墨尔本及周边">✨ 私人订制（墨尔本及周边）</div>
           </div>
         </div>
         <div class="rp-group" data-group="凯恩斯(大堡礁)">
@@ -33728,7 +33815,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-aus">摩尔外海大堡礁一日游</div>
         <div class="rp-route" data-route="au-aus">白天堂沙滩一日游</div>
         <div class="rp-route" data-route="au-aus">绿岛体验一日游船</div>
-        <div class="rp-custom" data-custom="1" data-board="凯恩斯(大堡礁)">✨ 私人订制（凯恩斯(大堡礁)）</div>
           </div>
         </div>
         <div class="rp-group" data-group="昆士兰 黄金海岸&布里斯班">
@@ -33738,7 +33824,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-aus">摩顿海豚岛三天两夜套餐</div>
         <div class="rp-route" data-route="au-aus3">黄金海岸四大主题公园 3 日套票</div>
         <div class="rp-route" data-route="au-aus">拜伦湾一日游</div>
-        <div class="rp-custom" data-custom="1" data-board="昆士兰 黄金海岸&布里斯班">✨ 私人订制（昆士兰 黄金海岸&布里斯班）</div>
           </div>
         </div>
         <div class="rp-group" data-group="珀斯/西澳">
@@ -33754,7 +33839,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-aus">波浪岩品质一日游</div>
         <div class="rp-route" data-route="au-aus">天鹅河谷美食美酒一日游</div>
         <div class="rp-route" data-route="au-aus">罗特尼斯岛一日游</div>
-        <div class="rp-custom" data-custom="1" data-board="珀斯/西澳">✨ 私人订制（珀斯/西澳）</div>
           </div>
         </div>
         <div class="rp-group" data-group="塔斯马尼亚">
@@ -33766,14 +33850,12 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-aus4">塔斯马尼亚4日精华游</div>
         <div class="rp-route" data-route="au-aus3">塔斯马尼亚3日精华游</div>
         <div class="rp-route" data-route="au-aus">霍巴特周边+里奇蒙小镇一日游</div>
-        <div class="rp-custom" data-custom="1" data-board="塔斯马尼亚">✨ 私人订制（塔斯马尼亚）</div>
           </div>
         </div>
         <div class="rp-group" data-group="阿德莱德/南澳">
           <div class="rp-group-title">阿德莱德/南澳 <span class="rp-arrow">▶</span></div>
           <div class="rp-group-list">
         <div class="rp-route" data-route="au-aus">袋鼠岛精华一日游</div>
-        <div class="rp-custom" data-custom="1" data-board="阿德莱德/南澳">✨ 私人订制（阿德莱德/南澳）</div>
           </div>
         </div>
         <div class="rp-group" data-group="单门票 / 单项体验">
@@ -33842,7 +33924,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="au-novacnsrfs">库兰达热带雨林公园套票</div>
         <div class="rp-route" data-route="au-novacnspdw">道格拉斯港野生动物栖息地动物园</div>
         <div class="rp-route" data-route="au-novacnskbg">库兰达小镇蝴蝶园门票</div>
-        <div class="rp-custom" data-custom="1" data-board="单门票 / 单项体验">✨ 私人订制（单门票 / 单项体验）</div>
           </div>
         </div>
       </div>
@@ -40269,6 +40350,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
     </div>  </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的澳大利亚 · 全景旅游？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="australia">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.nz = `
 <div class="rp-banner">
@@ -40292,7 +40393,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
           <div class="rp-group-list">
         <div class="rp-route" data-route="nz-novanzn4da">新西兰北岛 4 日中土风情之旅</div>
         <div class="rp-route" data-route="nz-novananat4">新西兰北岛 4 日探索之旅</div>
-        <div class="rp-custom" data-custom="1" data-board="北岛">✨ 私人订制（北岛）</div>
           </div>
         </div>
         <div class="rp-group" data-group="南岛">
@@ -40300,7 +40400,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
           <div class="rp-group-list">
         <div class="rp-route" data-route="nz-novanzs7d23">新西兰南岛 7 日湖光山色之旅</div>
         <div class="rp-route" data-route="nz-novanzs9dd">新西兰南岛全景 9 日游</div>
-        <div class="rp-custom" data-custom="1" data-board="南岛">✨ 私人订制（南岛）</div>
           </div>
         </div>
         <div class="rp-group" data-group="南北岛">
@@ -40308,7 +40407,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
           <div class="rp-group-list">
         <div class="rp-route" data-route="nz-novanzan4a7">新西兰南北岛 10 日精华之旅</div>
         <div class="rp-route" data-route="nz-novanzat4a7">新西兰南北岛风光 10 日游</div>
-        <div class="rp-custom" data-custom="1" data-board="南北岛">✨ 私人订制（南北岛）</div>
           </div>
         </div>
       </div>
@@ -40497,6 +40595,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
     </div>  </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的新西兰 · 纯净之旅？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="nz">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.special = `
 <div class="rp-banner">
@@ -40526,7 +40644,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="sp-cm0335">经典巴厘岛6天游-海边四星</div>
         <div class="rp-route" data-route="sp-cm0337">经典巴厘岛6天游-海边五星</div>
         <div class="rp-route" data-route="sp-cm0339">巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅</div>
-        <div class="rp-custom" data-custom="1" data-board="海岛游">✨ 私人订制（海岛游）</div>
           </div>
         </div>
         <div class="rp-group" data-group="签证/其他">
@@ -40535,7 +40652,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="sp-cm0407">申根签证</div>
         <div class="rp-route" data-route="sp-cm0415">台湾入台证-悉尼办理</div>
         <div class="rp-route" data-route="sp-cm0425">巴西签证</div>
-        <div class="rp-custom" data-custom="1" data-board="签证/其他">✨ 私人订制（签证/其他）</div>
           </div>
         </div>
       </div>
@@ -40554,7 +40670,6 @@ Day0抵达乌鲁木齐 Arrive Urumqi
         <div class="rp-route" data-route="sp-cm0419">新西兰签证</div>
         <div class="rp-route" data-route="sp-cm0421">土耳其签证</div>
         <div class="rp-route" data-route="sp-cm0423">越南签证</div>
-        <div class="rp-custom" data-custom="1" data-board="签证">✨ 私人订制（签证）</div>
           </div>
         </div>
       </div>
@@ -41223,6 +41338,26 @@ Day0抵达乌鲁木齐 Arrive Urumqi
     </div>  </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的特别 · 特殊行程？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="special">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;
   window.REGION_PLANS.cruise = `
 <div class="rp-banner">
@@ -41243,4 +41378,24 @@ Day0抵达乌鲁木齐 Arrive Urumqi
   </div>
 </div>
 
+  <div class="rp-enquiry">
+    <div class="form-card" style="max-width:680px;margin:24px auto 0;">
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的邮轮 · 环球航线？立即咨询</h3>
+      <form class="rp-enquiry-form" action="contact.html" method="get">
+        <input type="hidden" name="dest" value="cruise">
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">
+          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
+          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">
+          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">
+        </div>
+        <div class="form-row">
+          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>
+        </div>
+        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>
+      </form>
+    </div>
+  </div>
   <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;

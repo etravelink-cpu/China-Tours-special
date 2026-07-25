@@ -162,12 +162,34 @@ def build_block(region, items):
         boards = sorted(cats[cat].items(), key=lambda kv: board_order(region, kv[0]))
         for b, its in boards:
             routes=''.join('        <div class="rp-route" data-route="'+rid(region,(x['name'] or ''),x['code'] or '')+'">'+(x['name'] or '')+'</div>\n' for x in its)
-            # 每板块末尾挂私人订制入口(不挂 rp-route 类, 避免点击触发空白; 后续可接 contact 跳转)
-            custom='        <div class="rp-custom" data-custom="1" data-board="'+b+'">✨ 私人订制（'+b+'）</div>\n'
-            cat_routes+=('        <div class="rp-group" data-group="'+b+'">\n          <div class="rp-group-title">'+b+' <span class="rp-arrow">▶</span></div>\n          <div class="rp-group-list">\n'+routes+custom+'          </div>\n        </div>\n')
+            cat_routes+=('        <div class="rp-group" data-group="'+b+'">\n          <div class="rp-group-title">'+b+' <span class="rp-arrow">▶</span></div>\n          <div class="rp-group-list">\n'+routes+'          </div>\n        </div>\n')
         nav+=('      <div class="rp-cat" data-cat="'+cat+'">\n        <div class="rp-cat-title">'+cat+' <span class="rp-arrow">▶</span></div>\n'+cat_routes+'      </div>\n')
         for b, its in boards:
             for x in its: panes+=pane(region,x,idx); idx+=1
+    # 分区最下方统一咨询表单(所有指向表单集中于此, 不再散在每个分组); 复用全站 form-card/form-row/btn-gold 样式
+    t = REGION_META[region][0][0]
+    form_block = (
+      '  <div class="rp-enquiry">\n'
+      '    <div class="form-card" style="max-width:680px;margin:24px auto 0;">\n'
+      '      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的'+t+'？立即咨询</h3>\n'
+      '      <form class="rp-enquiry-form" action="contact.html" method="get">\n'
+      '        <input type="hidden" name="dest" value="'+region+'">\n'
+      '        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">\n'
+      '          <input type="text" name="name" placeholder="您的称呼" required style="flex:1;min-width:160px;">\n'
+      '          <input type="tel" name="phone" placeholder="联系电话" required style="flex:1;min-width:160px;">\n'
+      '        </div>\n'
+      '        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">\n'
+      '          <input type="date" name="depart" placeholder="出发日期" style="flex:1;min-width:160px;">\n'
+      '          <input type="number" name="pax" placeholder="出行人数" min="1" style="flex:1;min-width:160px;">\n'
+      '        </div>\n'
+      '        <div class="form-row">\n'
+      '          <textarea name="msg" placeholder="留言（想去的城市/偏好/预算等）" style="min-height:90px;"></textarea>\n'
+      '        </div>\n'
+      '        <button type="submit" class="btn-gold" style="border:none;cursor:pointer;padding:12px 28px;">提交咨询</button>\n'
+      '      </form>\n'
+      '    </div>\n'
+      '  </div>\n'
+    )
     (t,sub)=REGION_META[region][0]
     slides=''.join('    <div class="rp-slide'+((' active' if i==0 else '')+'\" style="background-image:url(\'assets/img/destinations/'+b+'\')"></div>\n') for i,b in enumerate(REGION_META[region][1]))
     return ('  window.REGION_PLANS.'+region+' = `\n'
@@ -176,6 +198,7 @@ def build_block(region, items):
     '    <p class="rp-desc">点击左侧区域，查看各地核心行程。详情与班期以客服查询为准。</p>\n  </div>\n</div>\n'
     '<div class="rp-layout">\n  <nav class="rp-nav2" aria-label="'+region+' 目的地">\n'+nav+'  </nav>\n'
     '  <div class="rp-detail-area">\n'+panes+'  </div>\n</div>\n\n'
+    + form_block +
     '  <p class="rp-banner-credit" style="color:#999;font-size:12px;margin:14px 0 0 0;">Banner 图片：© Wikimedia (Public Domain / CC).</p>`;')
 
 from collections import OrderedDict
