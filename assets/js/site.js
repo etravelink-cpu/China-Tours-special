@@ -37,7 +37,7 @@
     return `<li${sub ? ' class="has-sub"' : ""}><a href="${BASE}${href}" data-i18n="${key}">${I18N[lang][key] || key}</a>${subHtml}</li>`;
   }
 
-  // 目的地顺序(创始人裁定): 澳洲/新西兰/中国/亚洲/欧洲/邮轮/特别订制/私人订制
+  // 目的地顺序(创始人裁定): 澳洲/新西兰/中国/亚洲/欧洲/邮轮/特别订制/美加
   const DESTS = [
     { key: "nav.australia", href: "list.html?d=australia" },
     { key: "nav.nz", href: "list.html?d=nz" },
@@ -46,12 +46,12 @@
     { key: "nav.europe", href: "list.html?d=europe" },
     { key: "nav.cruise", href: "list.html?d=cruise" },
     { key: "nav.special", href: "list.html?d=special" },
-    { key: "nav.custom", href: "contact.html" },
+    { key: "nav.america", href: "list.html?d=america" },
   ];
   const NAV = [
     navItem("nav.home", "index.html"),
     navItem("nav.dest", "list.html", DESTS),
-    navItem("nav.custom", "custom.html"),
+    navItem("nav.custom", "contact.html"),
     navItem("nav.about", "about.html"),
     navItem("nav.contact", "contact.html"),
   ];
@@ -97,7 +97,7 @@
             <li><button type="button" data-d="europe" data-i18n="dest.europe">${I18N[lang]["dest.europe"]}</button></li>
             <li><button type="button" data-d="cruise" data-i18n="dest.cruise">${I18N[lang]["dest.cruise"]}</button></li>
             <li><button type="button" data-d="special" data-i18n="dest.special">${I18N[lang]["dest.special"]}</button></li>
-            <li><button type="button" data-d="custom" data-i18n="dest.custom">${I18N[lang]["dest.custom"]}</button></li>
+            <li><button type="button" data-d="america" data-i18n="dest.america">${I18N[lang]["dest.america"]}</button></li>
           </ul>
           <button class="h-search" id="h-search" data-i18n="search.find">寻找</button>
         </div>
@@ -130,7 +130,6 @@
       b.addEventListener("click", () => {
         hDestVal = b.dataset.d;
         hDestKey = b.dataset.i18n;
-        if (hDestVal === "custom") { location.href = BASE + "contact.html"; return; }
         const lb = document.getElementById("h-dest-label");
         lb.dataset.i18n = hDestKey;
         lb.textContent = b.textContent;
@@ -241,6 +240,7 @@
           <a href="${BASE}list.html?d=europe">${I18N[lang]["nav.europe"]}</a><span>|</span>
           <a href="${BASE}list.html?d=cruise">${I18N[lang]["nav.cruise"]}</a><span>|</span>
           <a href="${BASE}list.html?d=special">${I18N[lang]["nav.special"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=america">${I18N[lang]["nav.america"]}</a><span>|</span>
           <a href="${BASE}custom.html">${I18N[lang]["nav.custom"]}</a><span>|</span>
           <a href="${BASE}about.html" data-i18n="about.title">${I18N[lang]["about.title"]}</a><span>|</span>
           <a href="${BASE}contact.html" data-i18n="contact.title">${I18N[lang]["contact.title"]}</a><span>|</span>

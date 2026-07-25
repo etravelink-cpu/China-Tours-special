@@ -266,10 +266,10 @@ window.EtripsForm = {
         href: "list.html?d=special",
       },
       {
-        zh: "私人订制",
-        en: "PRIVATE TOUR",
-        img: "assets/img/destinations/custom.jpg",
-        href: "custom.html",
+        zh: "美加",
+        en: "USA & CANADA",
+        img: "assets/img/destinations/america.jpg",
+        href: "list.html?d=america",
       },
     ];
     document.getElementById("biz-grid").innerHTML =
