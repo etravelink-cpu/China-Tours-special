@@ -130,9 +130,15 @@ def board_order(region, b):
         order = ['北岛', '南岛', '南北岛']
         return order.index(b) if b in order else 99
     if region == 'australia':
-        # 城市排前, 跨地区多地联游排后
-        if b == '跨地区多地联游': return 99
-        return 0
+        # 城市按固定顺序, 跨地区多地联游排最后
+        order = ['悉尼及周边', '墨尔本及周边', '凯恩斯(大堡礁)', '昆士兰 黄金海岸&布里斯班',
+                 '圣灵群岛(汉密尔顿/艾尔利海滩)', '珀斯/西澳', '塔斯马尼亚', '阿德莱德/南澳',
+                 '乌鲁鲁/北领地', '跨地区多地联游']
+        return order.index(b) if b in order else 50
+    if region == 'china':
+        # 超值/纯玩共用同一城市顺序: 上海江南→北京西安→广东广西福建海南→九寨沟张家界云南贵州→长江三峡→新疆西藏青海→山东山西东北河南
+        order = ['江南上海', '北京西安', '华南', '西南', '长江三峡', '西北', '华北中原']
+        return order.index(b) if b in order else 50
     return 0
 
 def build_block(region, items):
@@ -152,13 +158,15 @@ def build_block(region, items):
     for cat in CAT_ORDER:
         if cat not in cats: continue
         cat_routes=''
-        for b, its in cats[cat].items():
+        # 板块按 board_order 固定排序
+        boards = sorted(cats[cat].items(), key=lambda kv: board_order(region, kv[0]))
+        for b, its in boards:
             routes=''.join('        <div class="rp-route" data-route="'+rid(region,(x['name'] or ''),x['code'] or '')+'">'+(x['name'] or '')+'</div>\n' for x in its)
             # 每板块末尾挂私人订制入口(不挂 rp-route 类, 避免点击触发空白; 后续可接 contact 跳转)
             custom='        <div class="rp-custom" data-custom="1" data-board="'+b+'">✨ 私人订制（'+b+'）</div>\n'
             cat_routes+=('        <div class="rp-group" data-group="'+b+'">\n          <div class="rp-group-title">'+b+' <span class="rp-arrow">▶</span></div>\n          <div class="rp-group-list">\n'+routes+custom+'          </div>\n        </div>\n')
         nav+=('      <div class="rp-cat" data-cat="'+cat+'">\n        <div class="rp-cat-title">'+cat+' <span class="rp-arrow">▶</span></div>\n'+cat_routes+'      </div>\n')
-        for b, its in cats[cat].items():
+        for b, its in boards:
             for x in its: panes+=pane(region,x,idx); idx+=1
     (t,sub)=REGION_META[region][0]
     slides=''.join('    <div class="rp-slide'+((' active' if i==0 else '')+'\" style="background-image:url(\'assets/img/destinations/'+b+'\')"></div>\n') for i,b in enumerate(REGION_META[region][1]))

@@ -260,16 +260,16 @@ window.EtripsForm = {
         href: "list.html?d=cruise",
       },
       {
-        zh: "特别订制",
-        en: "SPECIAL CUSTOM",
-        img: "assets/img/destinations/special.jpg",
-        href: "list.html?d=special",
-      },
-      {
         zh: "美加",
         en: "USA & CANADA",
         img: "assets/img/destinations/america.jpg",
         href: "list.html?d=america",
+      },
+      {
+        zh: "特别订制",
+        en: "SPECIAL CUSTOM",
+        img: "assets/img/destinations/special.jpg",
+        href: "list.html?d=special",
       },
     ];
     document.getElementById("biz-grid").innerHTML =

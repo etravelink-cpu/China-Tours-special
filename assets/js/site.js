@@ -37,7 +37,7 @@
     return `<li${sub ? ' class="has-sub"' : ""}><a href="${BASE}${href}" data-i18n="${key}">${I18N[lang][key] || key}</a>${subHtml}</li>`;
   }
 
-  // 目的地顺序(创始人裁定): 澳洲/新西兰/中国/亚洲/欧洲/邮轮/特别订制/美加
+  // 目的地顺序(创始人裁定): 澳洲/新西兰/中国/亚洲/欧洲/邮轮/美加/特别订制(特别订制排最后)
   const DESTS = [
     { key: "nav.australia", href: "list.html?d=australia" },
     { key: "nav.nz", href: "list.html?d=nz" },
@@ -45,8 +45,8 @@
     { key: "nav.asia", href: "list.html?d=asia" },
     { key: "nav.europe", href: "list.html?d=europe" },
     { key: "nav.cruise", href: "list.html?d=cruise" },
-    { key: "nav.special", href: "list.html?d=special" },
     { key: "nav.america", href: "list.html?d=america" },
+    { key: "nav.special", href: "list.html?d=special" },
   ];
   const NAV = [
     navItem("nav.home", "index.html"),
@@ -96,8 +96,8 @@
             <li><button type="button" data-d="asia" data-i18n="dest.asia">${I18N[lang]["dest.asia"]}</button></li>
             <li><button type="button" data-d="europe" data-i18n="dest.europe">${I18N[lang]["dest.europe"]}</button></li>
             <li><button type="button" data-d="cruise" data-i18n="dest.cruise">${I18N[lang]["dest.cruise"]}</button></li>
-            <li><button type="button" data-d="special" data-i18n="dest.special">${I18N[lang]["dest.special"]}</button></li>
             <li><button type="button" data-d="america" data-i18n="dest.america">${I18N[lang]["dest.america"]}</button></li>
+            <li><button type="button" data-d="special" data-i18n="dest.special">${I18N[lang]["dest.special"]}</button></li>
           </ul>
           <button class="h-search" id="h-search" data-i18n="search.find">寻找</button>
         </div>
@@ -239,8 +239,8 @@
           <a href="${BASE}list.html?d=asia">${I18N[lang]["nav.asia"]}</a><span>|</span>
           <a href="${BASE}list.html?d=europe">${I18N[lang]["nav.europe"]}</a><span>|</span>
           <a href="${BASE}list.html?d=cruise">${I18N[lang]["nav.cruise"]}</a><span>|</span>
-          <a href="${BASE}list.html?d=special">${I18N[lang]["nav.special"]}</a><span>|</span>
           <a href="${BASE}list.html?d=america">${I18N[lang]["nav.america"]}</a><span>|</span>
+          <a href="${BASE}list.html?d=special">${I18N[lang]["nav.special"]}</a><span>|</span>
           <a href="${BASE}custom.html">${I18N[lang]["nav.custom"]}</a><span>|</span>
           <a href="${BASE}about.html" data-i18n="about.title">${I18N[lang]["about.title"]}</a><span>|</span>
           <a href="${BASE}contact.html" data-i18n="contact.title">${I18N[lang]["contact.title"]}</a><span>|</span>
