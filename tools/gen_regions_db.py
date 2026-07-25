@@ -58,10 +58,9 @@ def rid(region, name, code):
     return region[:2] + '-' + code
 
 def board_of(item):
-    # 中国用 Web_Category3(板块); 其他大区用 Web_Category2(城市/区域)
-    if item['wc1']=='中国':
-        return item['wc3'] or ''
-    return item['wc2'] or ''
+    # 板块键: 区域(wc3) 优先, 其次 城市(wc2), 空白则其他
+    # 这样大区下产品按 区域→城市 两级统一排序主导划分
+    return item['wc3'] or item['wc2'] or ''
 
 def price_for(code):
     conn=sqlite3.connect(DB); c=conn.cursor()
@@ -141,20 +140,19 @@ def pane(region, item, idx):
     '    </div>')
 
 def board_order(region, b):
-    # 特定大区的板块固定排序(其余按原样)
+    # 板块键现为 区域(wc3), 各区域固定排序(其余按原样)
     if region == 'nz':
         order = ['北岛', '南岛', '南北岛']
         return order.index(b) if b in order else 99
     if region == 'australia':
-        # 城市按固定顺序, 跨地区多地联游排最后
-        order = ['悉尼及周边', '墨尔本及周边', '凯恩斯(大堡礁)', '昆士兰 黄金海岸&布里斯班',
-                 '圣灵群岛(汉密尔顿/艾尔利海滩)', '珀斯/西澳', '塔斯马尼亚', '阿德莱德/南澳',
-                 '乌鲁鲁/北领地', '跨地区多地联游']
+        # 州/区域固定顺序, 跨地区多地联游排最后
+        order = ['新南威尔士州', '维多利亚州', '昆士兰', '西澳', '南澳', '北领地', '塔斯马尼亚', '跨地区多地']
         return order.index(b) if b in order else 50
     if region == 'china':
-        # 超值/纯玩共用同一城市顺序: 上海江南→北京西安→广东广西福建海南→九寨沟张家界云南贵州→长江三峡→新疆西藏青海→山东山西东北河南
+        # 区域顺序: 江南上海→北京西安→华南→西南→长江三峡→西北→华北中原
         order = ['江南上海', '北京西安', '华南', '西南', '长江三峡', '西北', '华北中原']
         return order.index(b) if b in order else 50
+    # 美加/欧洲/亚洲: 区域单一, 顺序无关
     return 0
 
 def build_block(region, items):
