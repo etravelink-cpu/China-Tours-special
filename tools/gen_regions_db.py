@@ -143,13 +143,13 @@ def board_order(region, b):
 
 def build_block(region, items):
     # 按 类目 -> 板块 两级分组
-    # 这些大区左侧导航隐藏"超值特惠团"(其产品未按超值/纯玩区分, 统一归入"全部行程"显示)
+    # 这些大区左侧导航隐藏"超值特惠团"和"单门票·单项体验"(产品未按类目区分, 统一归入"全部行程"按城市合并, 避免城市重复)
     HIDE_SUPER = {'australia','nz','europe','america','cruise','special'}
     cats=OrderedDict()
     for it in items:
         cat=it['cat'] or '超值特惠团'
         if region in HIDE_SUPER:
-            if cat == '超值特惠团':
+            if cat in ('超值特惠团','单门票·单项体验'):
                 cat = '全部行程'
             elif cat == '含机票特别团':
                 cat = '含机票特别订制团'
