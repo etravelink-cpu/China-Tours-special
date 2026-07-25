@@ -30393,7 +30393,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的中国 · 分区行程规划？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的中国？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="china">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -31659,7 +31659,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的亚洲 · 分区行程规划？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的亚洲？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="asia">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -31700,7 +31700,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的海岛假日 · 度假天堂？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的海岛假日？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="island">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -32532,7 +32532,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的美国 · 加拿大 · 南美？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的美国？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="america">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -33542,7 +33542,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的欧洲 · 经典环游？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的欧洲？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="europe">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -33582,7 +33582,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的其他 · 更多目的地？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的其他？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="other">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -40352,7 +40352,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的澳大利亚 · 全景旅游？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的澳大利亚？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="australia">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -40597,7 +40597,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的新西兰 · 纯净之旅？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的新西兰？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="nz">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -41340,7 +41340,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的特别 · 特殊行程？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的特别？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="special">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">
@@ -41380,7 +41380,7 @@ Day0抵达乌鲁木齐 Arrive Urumqi
 
   <div class="rp-enquiry">
     <div class="form-card" style="max-width:680px;margin:24px auto 0;">
-      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的邮轮 · 环球航线？立即咨询</h3>
+      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的邮轮？立即咨询</h3>
       <form class="rp-enquiry-form" action="contact.html" method="get">
         <input type="hidden" name="dest" value="cruise">
         <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">

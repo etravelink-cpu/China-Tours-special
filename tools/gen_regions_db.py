@@ -171,7 +171,7 @@ def build_block(region, items):
     form_block = (
       '  <div class="rp-enquiry">\n'
       '    <div class="form-card" style="max-width:680px;margin:24px auto 0;">\n'
-      '      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的'+t+'？立即咨询</h3>\n'
+      '      <h3 style="font-family:var(--font-display);font-size:22px;margin:0 0 14px;">✨ 计划你的'+t.split(' · ')[0]+'？立即咨询</h3>\n'
       '      <form class="rp-enquiry-form" action="contact.html" method="get">\n'
       '        <input type="hidden" name="dest" value="'+region+'">\n'
       '        <div class="form-row" style="display:flex;gap:14px;flex-wrap:wrap;">\n'
