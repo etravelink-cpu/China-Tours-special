@@ -12,7 +12,7 @@
 import openpyxl, re, os
 
 SRC = r"D:/Hermes Agent/对话备份/.hermes/desktop-attachments/中国美 price list 2026.xlsx"
-OUT = r"D:/Hermes Agent/etrips-universal-db/中国美_price_cleaned.xlsx"
+OUT = r"D:/Hermes Agent/etrips-universal-db/中国美_price_cleaned_v2.xlsx"
 
 PROP_MAP = {
     "超值特价": "超值特惠团", "超值特惠": "超值特惠团", "超值": "超值特惠团",
@@ -24,7 +24,7 @@ SHEET_CFG = {
     "亚洲":   ("亚洲", "by_prop"),
     "美加":   ("美加", "pure_play_default"),
     "欧洲":   ("欧洲", "pure_play_default"),
-    "海岛":   ("海岛", "visa_other"),     # 放"其他"
+    "海岛":   ("海岛", "island_special"),  # 地区=海岛(独立板块), 类目归"含机票特别订制团"(special)
     "全球签证": ("其他", "visa_other"),    # 放"其他"
 }
 OUT_COLS = ["Supplier","Supplier_Product_Code","Internal_Product_Code","Product_Category",
@@ -122,6 +122,8 @@ for sheet,(wc1,cat_mode) in SHEET_CFG.items():
                 row[OUT_COLS.index("Product_Category")]="纯玩无购物团"
             elif cat_mode=="visa_other":
                 row[OUT_COLS.index("Product_Category")]="签证·其他"
+            elif cat_mode=="island_special":
+                row[OUT_COLS.index("Product_Category")]="含机票特别订制团"
             if "包机票" in nm_str or "含机票" in nm_str:
                 row[OUT_COLS.index("Product_Category")]="含机票特别订制团"
             pending=row

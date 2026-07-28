@@ -4814,8 +4814,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0186",
-  "nameZh": "经典豪华巴厘岛5天游[签证]",
-  "nameEn": "经典豪华巴厘岛5天游[签证]",
+  "nameZh": "经典豪华巴厘岛5天游[含机票]",
+  "nameEn": "经典豪华巴厘岛5天游[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -4823,10 +4823,10 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
@@ -4840,8 +4840,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0187",
-  "nameZh": "经典巴厘岛4天游-海边四星[签证]",
-  "nameEn": "经典巴厘岛4天游-海边四星[签证]",
+  "nameZh": "经典巴厘岛4天游-海边四星[含机票]",
+  "nameEn": "经典巴厘岛4天游-海边四星[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -4849,10 +4849,10 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
@@ -4866,8 +4866,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0188",
-  "nameZh": "经典巴厘岛4天游-海边五星[签证]",
-  "nameEn": "经典巴厘岛4天游-海边五星[签证]",
+  "nameZh": "经典巴厘岛4天游-海边五星[含机票]",
+  "nameEn": "经典巴厘岛4天游-海边五星[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -4875,10 +4875,10 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
@@ -4892,8 +4892,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0189",
-  "nameZh": "经典巴厘岛5天游-海边四星[签证]",
-  "nameEn": "经典巴厘岛5天游-海边四星[签证]",
+  "nameZh": "经典巴厘岛5天游-海边四星[含机票]",
+  "nameEn": "经典巴厘岛5天游-海边四星[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -4901,10 +4901,10 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
@@ -4918,8 +4918,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0190",
-  "nameZh": "经典巴厘岛5天游-海边五星[签证]",
-  "nameEn": "经典巴厘岛5天游-海边五星[签证]",
+  "nameZh": "经典巴厘岛5天游-海边五星[含机票]",
+  "nameEn": "经典巴厘岛5天游-海边五星[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -4927,10 +4927,10 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
@@ -4944,8 +4944,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0191",
-  "nameZh": "经典巴厘岛6天游-海边四星[签证]",
-  "nameEn": "经典巴厘岛6天游-海边四星[签证]",
+  "nameZh": "经典巴厘岛6天游-海边四星[含机票]",
+  "nameEn": "经典巴厘岛6天游-海边四星[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -4953,10 +4953,10 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
@@ -4970,8 +4970,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0192",
-  "nameZh": "经典巴厘岛6天游-海边五星[签证]",
-  "nameEn": "经典巴厘岛6天游-海边五星[签证]",
+  "nameZh": "经典巴厘岛6天游-海边五星[含机票]",
+  "nameEn": "经典巴厘岛6天游-海边五星[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -4979,10 +4979,10 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
@@ -4996,8 +4996,8 @@ window.TOURS = [
  },
  {
   "id": "SUP-CM-0193",
-  "nameZh": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[签证]",
-  "nameEn": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[签证]",
+  "nameZh": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[含机票]",
+  "nameEn": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[含机票]",
   "dest": "island",
   "destZh": "海岛",
   "destEn": "island",
@@ -5005,10 +5005,10 @@ window.TOURS = [
   "priceEn": "A$1999",
   "days": 0,
   "tags": [
-   "签证"
+   "含机票"
   ],
   "tagsEn": [
-   "Visa"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/island.jpg",
   "itinerary": [],
