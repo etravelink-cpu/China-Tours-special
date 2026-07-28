@@ -3,7 +3,7 @@
 
 window.TOURS = [
  {
-  "id": "CM-0001",
+  "id": "SUP-CM-0001",
   "nameZh": "铂金江南，穿越胡杨林喀什南疆秘境14日（金秋特别团）[超值]",
   "nameEn": "铂金江南，穿越胡杨林喀什南疆秘境14日（金秋特别团）[超值]",
   "dest": "china",
@@ -11,7 +11,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 14,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -29,7 +29,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0003",
+  "id": "SUP-CM-0002",
   "nameZh": "铂金江南 长江新船王极光号/揽月号12日[超值]",
   "nameEn": "铂金江南 长江新船王极光号/揽月号12日[超值]",
   "dest": "china",
@@ -37,7 +37,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$599",
   "priceEn": "A$599",
-  "days": 12,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -55,7 +55,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0005",
+  "id": "SUP-CM-0003",
   "nameZh": "奢华江南和平饭店-长江新船王揽月号/极光号13日AB团[超值]",
   "nameEn": "奢华江南和平饭店-长江新船王揽月号/极光号13日AB团[超值]",
   "dest": "china",
@@ -63,7 +63,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$799",
   "priceEn": "A$799",
-  "days": 13,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -81,7 +81,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0007",
+  "id": "SUP-CM-0004",
   "nameZh": "奢华江南和平饭店-长江新船王揽月号/极光号13日AA团[超值]",
   "nameEn": "奢华江南和平饭店-长江新船王揽月号/极光号13日AA团[超值]",
   "dest": "china",
@@ -89,7 +89,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$899",
   "priceEn": "A$899",
-  "days": 13,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -107,7 +107,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0009",
+  "id": "SUP-CM-0005",
   "nameZh": "九寨沟成都重庆长新船王揽月号/极光号13日[超值]",
   "nameEn": "九寨沟成都重庆长新船王揽月号/极光号13日[超值]",
   "dest": "china",
@@ -115,7 +115,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$899",
   "priceEn": "A$899",
-  "days": 13,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -133,7 +133,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0011",
+  "id": "SUP-CM-0006",
   "nameZh": "横贯中国・纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团[超值]",
   "nameEn": "横贯中国・纵览山河：吴越水乡西域大漠 17 天传奇丝路特别团[超值]",
   "dest": "china",
@@ -159,7 +159,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0013",
+  "id": "SUP-CM-0007",
   "nameZh": "穿越胡杨林 喀什南疆秘境 8 日（金秋特别团）[超值]",
   "nameEn": "穿越胡杨林 喀什南疆秘境 8 日（金秋特别团）[超值]",
   "dest": "china",
@@ -167,7 +167,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1098",
   "priceEn": "A$1098",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -185,7 +185,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0015",
+  "id": "SUP-CM-0008",
   "nameZh": "冰雪奇缘东北新年狂欢团 10日[纯玩]",
   "nameEn": "冰雪奇缘东北新年狂欢团 10日[纯玩]",
   "dest": "china",
@@ -193,7 +193,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1899",
   "priceEn": "A$1899",
-  "days": 10,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -211,7 +211,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0017",
+  "id": "SUP-CM-0009",
   "nameZh": "横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）[超值]",
   "nameEn": "横贯中国・纵览山河：吴越水乡西域大漠 18 天传奇丝路特别团（澳洲包机票）[超值]",
   "dest": "china",
@@ -237,7 +237,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0019",
+  "id": "SUP-CM-0010",
   "nameZh": "【锦绣中华】多彩贵州·大美江西·金秋揽胜16天[纯玩]",
   "nameEn": "【锦绣中华】多彩贵州·大美江西·金秋揽胜16天[纯玩]",
   "dest": "china",
@@ -263,7 +263,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0021",
+  "id": "SUP-CM-0011",
   "nameZh": "史诗画卷 醉美新疆 世界级绝美风光之旅14日（旺季特别团）[超值]",
   "nameEn": "史诗画卷 醉美新疆 世界级绝美风光之旅14日（旺季特别团）[超值]",
   "dest": "china",
@@ -271,7 +271,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2798",
   "priceEn": "A$2798",
-  "days": 14,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -289,7 +289,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0023",
+  "id": "SUP-CM-0012",
   "nameZh": "【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票[纯玩]",
   "nameEn": "【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票[纯玩]",
   "dest": "china",
@@ -315,7 +315,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0025",
+  "id": "SUP-CM-0013",
   "nameZh": "冰雪奇缘东北新年狂欢团12日-包机票[纯玩]",
   "nameEn": "冰雪奇缘东北新年狂欢团12日-包机票[纯玩]",
   "dest": "china",
@@ -323,7 +323,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$3799",
   "priceEn": "A$3799",
-  "days": 12,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -341,7 +341,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0027",
+  "id": "SUP-CM-0014",
   "nameZh": "（澳洲包机票） 新疆南疆北疆全景18日[纯玩]",
   "nameEn": "（澳洲包机票） 新疆南疆北疆全景18日[纯玩]",
   "dest": "china",
@@ -349,7 +349,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$4299",
   "priceEn": "A$4299",
-  "days": 18,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -367,7 +367,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0029",
+  "id": "SUP-CM-0015",
   "nameZh": "（澳洲包机票）新疆南疆北疆全景17日[纯玩]",
   "nameEn": "（澳洲包机票）新疆南疆北疆全景17日[纯玩]",
   "dest": "china",
@@ -375,7 +375,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$4299",
   "priceEn": "A$4299",
-  "days": 17,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -393,7 +393,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0031",
+  "id": "SUP-CM-0016",
   "nameZh": "绿野仙踪 新疆阿勒泰喀纳斯醉美8日[超值]",
   "nameEn": "绿野仙踪 新疆阿勒泰喀纳斯醉美8日[超值]",
   "dest": "china",
@@ -401,7 +401,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$599",
   "priceEn": "A$599",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -419,7 +419,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0033",
+  "id": "SUP-CM-0017",
   "nameZh": "爱达花城号首航海上丝绸之路 中国+越南+马来西亚+汶莱四国漫游17天[超值]",
   "nameEn": "爱达花城号首航海上丝绸之路 中国+越南+马来西亚+汶莱四国漫游17天[超值]",
   "dest": "china",
@@ -445,7 +445,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0035",
+  "id": "SUP-CM-0018",
   "nameZh": "(金钻江南，深圳机器人)马来西亚-文莱-越南-中国香港爱达魔都号游轮16日[超值]",
   "nameEn": "(金钻江南，深圳机器人)马来西亚-文莱-越南-中国香港爱达魔都号游轮16日[超值]",
   "dest": "china",
@@ -453,7 +453,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$798",
   "priceEn": "A$798",
-  "days": 16,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -471,7 +471,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0037",
+  "id": "SUP-CM-0019",
   "nameZh": "VIP特别订制团[超值]",
   "nameEn": "VIP特别订制团[超值]",
   "dest": "china",
@@ -497,7 +497,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0039",
+  "id": "SUP-CM-0020",
   "nameZh": "铂金江南7日[超值]",
   "nameEn": "铂金江南7日[超值]",
   "dest": "china",
@@ -505,7 +505,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 7,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -523,7 +523,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0041",
+  "id": "SUP-CM-0021",
   "nameZh": "醉美新疆 禾木喀纳斯可可托海魔鬼城8日（旺季特别团）[超值]",
   "nameEn": "醉美新疆 禾木喀纳斯可可托海魔鬼城8日（旺季特别团）[超值]",
   "dest": "china",
@@ -531,7 +531,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1198",
   "priceEn": "A$1198",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -549,7 +549,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0043",
+  "id": "SUP-CM-0022",
   "nameZh": "铂金江南，醉美新疆 禾木喀纳斯可可托海魔鬼城14日（旺季特别团）[超值]",
   "nameEn": "铂金江南，醉美新疆 禾木喀纳斯可可托海魔鬼城14日（旺季特别团）[超值]",
   "dest": "china",
@@ -557,7 +557,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 14,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -575,7 +575,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0045",
+  "id": "SUP-CM-0023",
   "nameZh": "璀璨金钻~江南奢华8日(A团)[超值]",
   "nameEn": "璀璨金钻~江南奢华8日(A团)[超值]",
   "dest": "china",
@@ -583,7 +583,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -601,7 +601,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0047",
+  "id": "SUP-CM-0024",
   "nameZh": "璀璨金钻~江南奢华8日(AA团)[超值]",
   "nameEn": "璀璨金钻~江南奢华8日(AA团)[超值]",
   "dest": "china",
@@ -609,7 +609,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$99",
   "priceEn": "A$99",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -627,7 +627,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0049",
+  "id": "SUP-CM-0025",
   "nameZh": "璀璨金钻~江南奢华8日(AB团)[超值]",
   "nameEn": "璀璨金钻~江南奢华8日(AB团)[超值]",
   "dest": "china",
@@ -635,7 +635,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -653,7 +653,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0051",
+  "id": "SUP-CM-0026",
   "nameZh": "成都 九寨沟8日(超豪华洲际酒店升级版）[超值]",
   "nameEn": "成都 九寨沟8日(超豪华洲际酒店升级版）[超值]",
   "dest": "china",
@@ -661,7 +661,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -679,7 +679,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0053",
+  "id": "SUP-CM-0027",
   "nameZh": "九寨沟 长江三峡12日(超豪华洲际酒店升级版)[超值]",
   "nameEn": "九寨沟 长江三峡12日(超豪华洲际酒店升级版)[超值]",
   "dest": "china",
@@ -687,7 +687,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$599",
   "priceEn": "A$599",
-  "days": 12,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -705,7 +705,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0055",
+  "id": "SUP-CM-0028",
   "nameZh": "深坑洲际，黄山千岛湖9日[超值]",
   "nameEn": "深坑洲际，黄山千岛湖9日[超值]",
   "dest": "china",
@@ -713,7 +713,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 9,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -731,7 +731,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0057",
+  "id": "SUP-CM-0029",
   "nameZh": "深坑洲际，婺源望仙谷9日[超值]",
   "nameEn": "深坑洲际，婺源望仙谷9日[超值]",
   "dest": "china",
@@ -739,7 +739,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 9,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -757,7 +757,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0059",
+  "id": "SUP-CM-0030",
   "nameZh": "深坑洲际 海天佛国普陀山9日[超值]",
   "nameEn": "深坑洲际 海天佛国普陀山9日[超值]",
   "dest": "china",
@@ -765,7 +765,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 9,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -783,7 +783,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0061",
+  "id": "SUP-CM-0031",
   "nameZh": "深坑洲际，九华山9日[超值]",
   "nameEn": "深坑洲际，九华山9日[超值]",
   "dest": "china",
@@ -791,7 +791,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 9,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -809,7 +809,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0063",
+  "id": "SUP-CM-0032",
   "nameZh": "深坑洲际，泰山曲阜9日[超值]",
   "nameEn": "深坑洲际，泰山曲阜9日[超值]",
   "dest": "china",
@@ -817,7 +817,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 9,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -835,7 +835,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0065",
+  "id": "SUP-CM-0033",
   "nameZh": "深坑洲际，庐山9日[超值]",
   "nameEn": "深坑洲际，庐山9日[超值]",
   "dest": "china",
@@ -843,7 +843,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 9,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -861,7 +861,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0067",
+  "id": "SUP-CM-0034",
   "nameZh": "江南 长江三峡11日[超值]",
   "nameEn": "江南 长江三峡11日[超值]",
   "dest": "china",
@@ -869,7 +869,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 11,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -887,7 +887,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0069",
+  "id": "SUP-CM-0035",
   "nameZh": "金钻江南，爱达魔都号游轮11 日 (A团)[超值]",
   "nameEn": "金钻江南，爱达魔都号游轮11 日 (A团)[超值]",
   "dest": "china",
@@ -895,7 +895,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$49",
   "priceEn": "A$49",
-  "days": 11,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -913,7 +913,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0071",
+  "id": "SUP-CM-0036",
   "nameZh": "金钻江南，爱达魔都号游轮11 日(AA团)[超值]",
   "nameEn": "金钻江南，爱达魔都号游轮11 日(AA团)[超值]",
   "dest": "china",
@@ -921,7 +921,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$249",
   "priceEn": "A$249",
-  "days": 11,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -939,7 +939,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0073",
+  "id": "SUP-CM-0037",
   "nameZh": "舌尖广东，珠江美食6日[超值]",
   "nameEn": "舌尖广东，珠江美食6日[超值]",
   "dest": "china",
@@ -947,7 +947,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$259",
   "priceEn": "A$259",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -965,7 +965,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0075",
+  "id": "SUP-CM-0038",
   "nameZh": "大湾区美食，机器人奇观6日[超值]",
   "nameEn": "大湾区美食，机器人奇观6日[超值]",
   "dest": "china",
@@ -973,7 +973,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$169",
   "priceEn": "A$169",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -991,7 +991,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0077",
+  "id": "SUP-CM-0039",
   "nameZh": "大湾区美食，机器人奇观7日[超值]",
   "nameEn": "大湾区美食，机器人奇观7日[超值]",
   "dest": "china",
@@ -999,7 +999,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$179",
   "priceEn": "A$179",
-  "days": 7,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1017,7 +1017,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0079",
+  "id": "SUP-CM-0040",
   "nameZh": "大湾区，广东美食6日[超值]",
   "nameEn": "大湾区，广东美食6日[超值]",
   "dest": "china",
@@ -1025,7 +1025,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$259",
   "priceEn": "A$259",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1043,7 +1043,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0081",
+  "id": "SUP-CM-0041",
   "nameZh": "寻味大湾区，广东美食7日[超值]",
   "nameEn": "寻味大湾区，广东美食7日[超值]",
   "dest": "china",
@@ -1051,7 +1051,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$269",
   "priceEn": "A$269",
-  "days": 7,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1069,7 +1069,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0083",
+  "id": "SUP-CM-0042",
   "nameZh": "潮汕高铁，广东美食7日[超值]",
   "nameEn": "潮汕高铁，广东美食7日[超值]",
   "dest": "china",
@@ -1077,7 +1077,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$269",
   "priceEn": "A$269",
-  "days": 7,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1095,7 +1095,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0085",
+  "id": "SUP-CM-0043",
   "nameZh": "潮汕风情，珠江美食8日[超值]",
   "nameEn": "潮汕风情，珠江美食8日[超值]",
   "dest": "china",
@@ -1103,7 +1103,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$279",
   "priceEn": "A$279",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1121,7 +1121,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0087",
+  "id": "SUP-CM-0044",
   "nameZh": "香港大湾区 珠江美食8日[超值]",
   "nameEn": "香港大湾区 珠江美食8日[超值]",
   "dest": "china",
@@ -1129,7 +1129,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$689",
   "priceEn": "A$689",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1147,7 +1147,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0089",
+  "id": "SUP-CM-0045",
   "nameZh": "香港潮汕，珠江美食10日[超值]",
   "nameEn": "香港潮汕，珠江美食10日[超值]",
   "dest": "china",
@@ -1155,7 +1155,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$699",
   "priceEn": "A$699",
-  "days": 10,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1173,7 +1173,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0091",
+  "id": "SUP-CM-0046",
   "nameZh": "珠江美食，越南下龙湾10日[超值]",
   "nameEn": "珠江美食，越南下龙湾10日[超值]",
   "dest": "china",
@@ -1181,7 +1181,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$399",
   "priceEn": "A$399",
-  "days": 10,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1199,7 +1199,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0093",
+  "id": "SUP-CM-0047",
   "nameZh": "珠江美食，长江美景10日[超值]",
   "nameEn": "珠江美食，长江美景10日[超值]",
   "dest": "china",
@@ -1207,7 +1207,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$999",
   "priceEn": "A$999",
-  "days": 10,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1225,7 +1225,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0095",
+  "id": "SUP-CM-0048",
   "nameZh": "大湾区美食，长江三峡10日[超值]",
   "nameEn": "大湾区美食，长江三峡10日[超值]",
   "dest": "china",
@@ -1233,7 +1233,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$999",
   "priceEn": "A$999",
-  "days": 10,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1251,7 +1251,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0097",
+  "id": "SUP-CM-0049",
   "nameZh": "张家界，凤凰古城7日[超值]",
   "nameEn": "张家界，凤凰古城7日[超值]",
   "dest": "china",
@@ -1259,7 +1259,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$299",
   "priceEn": "A$299",
-  "days": 7,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1277,7 +1277,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0099",
+  "id": "SUP-CM-0050",
   "nameZh": "张家界，长江三峡11日[超值]",
   "nameEn": "张家界，长江三峡11日[超值]",
   "dest": "china",
@@ -1285,7 +1285,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$899",
   "priceEn": "A$899",
-  "days": 11,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1303,7 +1303,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0101",
+  "id": "SUP-CM-0051",
   "nameZh": "醉美川藏 成都西藏深度11日[超值]",
   "nameEn": "醉美川藏 成都西藏深度11日[超值]",
   "dest": "china",
@@ -1311,7 +1311,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2499",
   "priceEn": "A$2499",
-  "days": 11,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1329,7 +1329,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0103",
+  "id": "SUP-CM-0052",
   "nameZh": "醉美川藏 成都西藏深度14日[超值]",
   "nameEn": "醉美川藏 成都西藏深度14日[超值]",
   "dest": "china",
@@ -1337,7 +1337,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2999",
   "priceEn": "A$2999",
-  "days": 14,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1355,7 +1355,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0105",
+  "id": "SUP-CM-0053",
   "nameZh": "（澳洲包机票）川藏15天西藏团[超值]",
   "nameEn": "（澳洲包机票）川藏15天西藏团[超值]",
   "dest": "china",
@@ -1381,7 +1381,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0107",
+  "id": "SUP-CM-0054",
   "nameZh": "北京5日[超值]",
   "nameEn": "北京5日[超值]",
   "dest": "china",
@@ -1389,7 +1389,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$169",
   "priceEn": "A$169",
-  "days": 5,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1407,7 +1407,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0109",
+  "id": "SUP-CM-0055",
   "nameZh": "北京6日[超值]",
   "nameEn": "北京6日[超值]",
   "dest": "china",
@@ -1415,7 +1415,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$199",
   "priceEn": "A$199",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1433,7 +1433,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0111",
+  "id": "SUP-CM-0056",
   "nameZh": "北京 长江三峡 9日[超值]",
   "nameEn": "北京 长江三峡 9日[超值]",
   "dest": "china",
@@ -1441,7 +1441,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1099",
   "priceEn": "A$1099",
-  "days": 9,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1459,7 +1459,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0113",
+  "id": "SUP-CM-0057",
   "nameZh": "桂林6日[超值]",
   "nameEn": "桂林6日[超值]",
   "dest": "china",
@@ -1467,7 +1467,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$199",
   "priceEn": "A$199",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1485,7 +1485,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0115",
+  "id": "SUP-CM-0058",
   "nameZh": "桂林 长江三峡11日[超值]",
   "nameEn": "桂林 长江三峡11日[超值]",
   "dest": "china",
@@ -1493,7 +1493,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1099",
   "priceEn": "A$1099",
-  "days": 11,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1511,7 +1511,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0117",
+  "id": "SUP-CM-0059",
   "nameZh": "厦门泉州土楼6日[超值]",
   "nameEn": "厦门泉州土楼6日[超值]",
   "dest": "china",
@@ -1519,7 +1519,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$199",
   "priceEn": "A$199",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1537,7 +1537,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0119",
+  "id": "SUP-CM-0060",
   "nameZh": "厦门土楼武夷山8日[超值]",
   "nameEn": "厦门土楼武夷山8日[超值]",
   "dest": "china",
@@ -1545,7 +1545,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$369",
   "priceEn": "A$369",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1563,7 +1563,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0121",
+  "id": "SUP-CM-0061",
   "nameZh": "厦门 长江三峡11日[超值]",
   "nameEn": "厦门 长江三峡11日[超值]",
   "dest": "china",
@@ -1571,7 +1571,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1099",
   "priceEn": "A$1099",
-  "days": 11,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1589,7 +1589,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0123",
+  "id": "SUP-CM-0062",
   "nameZh": "山城重庆 大足石刻武隆6日[超值]",
   "nameEn": "山城重庆 大足石刻武隆6日[超值]",
   "dest": "china",
@@ -1597,7 +1597,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$399",
   "priceEn": "A$399",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1615,7 +1615,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0125",
+  "id": "SUP-CM-0063",
   "nameZh": "重庆大足石刻 长江三峡10日[超值]",
   "nameEn": "重庆大足石刻 长江三峡10日[超值]",
   "dest": "china",
@@ -1623,7 +1623,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1099",
   "priceEn": "A$1099",
-  "days": 10,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1641,7 +1641,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0127",
+  "id": "SUP-CM-0064",
   "nameZh": "云南 昆明大理丽江6日[超值]",
   "nameEn": "云南 昆明大理丽江6日[超值]",
   "dest": "china",
@@ -1649,7 +1649,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$299",
   "priceEn": "A$299",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1667,7 +1667,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0129",
+  "id": "SUP-CM-0065",
   "nameZh": "云南 昆明大理丽江 石林7日[超值]",
   "nameEn": "云南 昆明大理丽江 石林7日[超值]",
   "dest": "china",
@@ -1675,7 +1675,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$459",
   "priceEn": "A$459",
-  "days": 7,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1693,7 +1693,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0131",
+  "id": "SUP-CM-0066",
   "nameZh": "海南 海口三亚6日[超值]",
   "nameEn": "海南 海口三亚6日[超值]",
   "dest": "china",
@@ -1701,7 +1701,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$599",
   "priceEn": "A$599",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
@@ -1719,7 +1719,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0133",
+  "id": "SUP-CM-0067",
   "nameZh": "（纯玩）九寨沟 成都乐山峨眉7日（九寨沟高铁体验特别版）[纯玩]",
   "nameEn": "（纯玩）九寨沟 成都乐山峨眉7日（九寨沟高铁体验特别版）[纯玩]",
   "dest": "china",
@@ -1727,7 +1727,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1099",
   "priceEn": "A$1099",
-  "days": 7,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1745,7 +1745,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0135",
+  "id": "SUP-CM-0068",
   "nameZh": "（纯玩）九寨沟 长江三峡11日[纯玩]",
   "nameEn": "（纯玩）九寨沟 长江三峡11日[纯玩]",
   "dest": "china",
@@ -1753,7 +1753,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1699",
   "priceEn": "A$1699",
-  "days": 11,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1771,7 +1771,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0137",
+  "id": "SUP-CM-0069",
   "nameZh": "（纯玩）大湾区精品美食6日[纯玩]",
   "nameEn": "（纯玩）大湾区精品美食6日[纯玩]",
   "dest": "china",
@@ -1779,7 +1779,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$799",
   "priceEn": "A$799",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1797,7 +1797,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0139",
+  "id": "SUP-CM-0070",
   "nameZh": "（纯玩） 香港潮汕韶关佛山广州超级美食10日游[纯玩]",
   "nameEn": "（纯玩） 香港潮汕韶关佛山广州超级美食10日游[纯玩]",
   "dest": "china",
@@ -1805,7 +1805,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2499",
   "priceEn": "A$2499",
-  "days": 10,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1823,7 +1823,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0141",
+  "id": "SUP-CM-0071",
   "nameZh": "（纯玩）北京4日[纯玩]",
   "nameEn": "（纯玩）北京4日[纯玩]",
   "dest": "china",
@@ -1831,7 +1831,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$799",
   "priceEn": "A$799",
-  "days": 4,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1849,7 +1849,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0143",
+  "id": "SUP-CM-0072",
   "nameZh": "(纯玩）北京西安6日[纯玩]",
   "nameEn": "(纯玩）北京西安6日[纯玩]",
   "dest": "china",
@@ -1857,7 +1857,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1299",
   "priceEn": "A$1299",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1875,7 +1875,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0145",
+  "id": "SUP-CM-0073",
   "nameZh": "（纯玩）北京西安上海8日[纯玩]",
   "nameEn": "（纯玩）北京西安上海8日[纯玩]",
   "dest": "china",
@@ -1883,7 +1883,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1699",
   "priceEn": "A$1699",
-  "days": 8,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1901,7 +1901,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0147",
+  "id": "SUP-CM-0074",
   "nameZh": "(纯玩)北京，西安，长江三峡10日[纯玩]",
   "nameEn": "(纯玩)北京，西安，长江三峡10日[纯玩]",
   "dest": "china",
@@ -1909,7 +1909,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1899",
   "priceEn": "A$1899",
-  "days": 10,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1927,7 +1927,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0149",
+  "id": "SUP-CM-0075",
   "nameZh": "（纯玩）北京西安上海长江三峡12日[纯玩]",
   "nameEn": "（纯玩）北京西安上海长江三峡12日[纯玩]",
   "dest": "china",
@@ -1935,7 +1935,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2399",
   "priceEn": "A$2399",
-  "days": 12,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1953,7 +1953,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0151",
+  "id": "SUP-CM-0076",
   "nameZh": "（纯玩）西安4日[纯玩]",
   "nameEn": "（纯玩）西安4日[纯玩]",
   "dest": "china",
@@ -1961,7 +1961,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$799",
   "priceEn": "A$799",
-  "days": 4,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -1979,7 +1979,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0153",
+  "id": "SUP-CM-0077",
   "nameZh": "(纯玩)西安，华山5日[纯玩]",
   "nameEn": "(纯玩)西安，华山5日[纯玩]",
   "dest": "china",
@@ -1987,7 +1987,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$999",
   "priceEn": "A$999",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2005,7 +2005,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0155",
+  "id": "SUP-CM-0078",
   "nameZh": "(纯玩）西安，长江三峡8日[纯玩]",
   "nameEn": "(纯玩）西安，长江三峡8日[纯玩]",
   "dest": "china",
@@ -2013,7 +2013,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1399",
   "priceEn": "A$1399",
-  "days": 8,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2031,7 +2031,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0157",
+  "id": "SUP-CM-0079",
   "nameZh": "（纯玩）张家界6日[纯玩]",
   "nameEn": "（纯玩）张家界6日[纯玩]",
   "dest": "china",
@@ -2039,7 +2039,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$899",
   "priceEn": "A$899",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2057,7 +2057,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0159",
+  "id": "SUP-CM-0080",
   "nameZh": "（纯玩）张家界凤凰古城7日[纯玩]",
   "nameEn": "（纯玩）张家界凤凰古城7日[纯玩]",
   "dest": "china",
@@ -2065,7 +2065,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1099",
   "priceEn": "A$1099",
-  "days": 7,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2083,7 +2083,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0161",
+  "id": "SUP-CM-0081",
   "nameZh": "（纯玩）张家界长江三峡9日[纯玩]",
   "nameEn": "（纯玩）张家界长江三峡9日[纯玩]",
   "dest": "china",
@@ -2091,7 +2091,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1399",
   "priceEn": "A$1399",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2109,7 +2109,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0163",
+  "id": "SUP-CM-0082",
   "nameZh": "（纯玩）张家界长江三峡11日[纯玩]",
   "nameEn": "（纯玩）张家界长江三峡11日[纯玩]",
   "dest": "china",
@@ -2117,7 +2117,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1699",
   "priceEn": "A$1699",
-  "days": 11,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2135,7 +2135,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0165",
+  "id": "SUP-CM-0083",
   "nameZh": "（纯玩）山城重庆 三峡游轮6日[纯玩]",
   "nameEn": "（纯玩）山城重庆 三峡游轮6日[纯玩]",
   "dest": "china",
@@ -2143,7 +2143,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1299",
   "priceEn": "A$1299",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2161,7 +2161,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0167",
+  "id": "SUP-CM-0084",
   "nameZh": "（纯玩）武汉黄鹤楼 三峡游轮6日[纯玩]",
   "nameEn": "（纯玩）武汉黄鹤楼 三峡游轮6日[纯玩]",
   "dest": "china",
@@ -2169,7 +2169,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1299",
   "priceEn": "A$1299",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2187,7 +2187,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0169",
+  "id": "SUP-CM-0085",
   "nameZh": "（纯玩）宜昌重庆 三峡游轮6日[纯玩]",
   "nameEn": "（纯玩）宜昌重庆 三峡游轮6日[纯玩]",
   "dest": "china",
@@ -2195,7 +2195,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1299",
   "priceEn": "A$1299",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2213,7 +2213,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0171",
+  "id": "SUP-CM-0086",
   "nameZh": "（纯玩）桂林 漓江阳朔5日[纯玩]",
   "nameEn": "（纯玩）桂林 漓江阳朔5日[纯玩]",
   "dest": "china",
@@ -2221,7 +2221,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$799",
   "priceEn": "A$799",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2239,7 +2239,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0173",
+  "id": "SUP-CM-0087",
   "nameZh": "（纯玩）桂林 长江三峡9日[纯玩]",
   "nameEn": "（纯玩）桂林 长江三峡9日[纯玩]",
   "dest": "china",
@@ -2247,7 +2247,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1399",
   "priceEn": "A$1399",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2265,7 +2265,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0175",
+  "id": "SUP-CM-0088",
   "nameZh": "（纯玩）贵州黄果树5日[纯玩]",
   "nameEn": "（纯玩）贵州黄果树5日[纯玩]",
   "dest": "china",
@@ -2273,7 +2273,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$999",
   "priceEn": "A$999",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2291,7 +2291,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0177",
+  "id": "SUP-CM-0089",
   "nameZh": "（纯玩）贵州桂林阳朔8日[纯玩]",
   "nameEn": "（纯玩）贵州桂林阳朔8日[纯玩]",
   "dest": "china",
@@ -2299,7 +2299,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1499",
   "priceEn": "A$1499",
-  "days": 8,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2317,7 +2317,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0179",
+  "id": "SUP-CM-0090",
   "nameZh": "（纯玩）贵州凤凰张家界9日[纯玩]",
   "nameEn": "（纯玩）贵州凤凰张家界9日[纯玩]",
   "dest": "china",
@@ -2325,7 +2325,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1699",
   "priceEn": "A$1699",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2343,7 +2343,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0181",
+  "id": "SUP-CM-0091",
   "nameZh": "（纯玩）云南香格里拉6日[纯玩]",
   "nameEn": "（纯玩）云南香格里拉6日[纯玩]",
   "dest": "china",
@@ -2351,7 +2351,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$999",
   "priceEn": "A$999",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2369,7 +2369,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0183",
+  "id": "SUP-CM-0092",
   "nameZh": "（纯玩）云南 昆明大理丽江香格里拉7日[纯玩]",
   "nameEn": "（纯玩）云南 昆明大理丽江香格里拉7日[纯玩]",
   "dest": "china",
@@ -2377,7 +2377,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1199",
   "priceEn": "A$1199",
-  "days": 7,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2395,7 +2395,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0185",
+  "id": "SUP-CM-0093",
   "nameZh": "（纯玩）云南 昆明大理丽江香格里拉8日[纯玩]",
   "nameEn": "（纯玩）云南 昆明大理丽江香格里拉8日[纯玩]",
   "dest": "china",
@@ -2403,7 +2403,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1299",
   "priceEn": "A$1299",
-  "days": 8,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2421,7 +2421,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0187",
+  "id": "SUP-CM-0094",
   "nameZh": "（纯玩）云南 丽江香格里拉泸沽湖9日[纯玩]",
   "nameEn": "（纯玩）云南 丽江香格里拉泸沽湖9日[纯玩]",
   "dest": "china",
@@ -2429,7 +2429,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1199",
   "priceEn": "A$1199",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2447,7 +2447,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0189",
+  "id": "SUP-CM-0095",
   "nameZh": "（纯玩）云南 丽江香格里拉泸沽湖石林10日[纯玩]",
   "nameEn": "（纯玩）云南 丽江香格里拉泸沽湖石林10日[纯玩]",
   "dest": "china",
@@ -2455,7 +2455,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1399",
   "priceEn": "A$1399",
-  "days": 10,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2473,7 +2473,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0191",
+  "id": "SUP-CM-0096",
   "nameZh": "（纯玩）贵州云南 云贵高原9日[纯玩]",
   "nameEn": "（纯玩）贵州云南 云贵高原9日[纯玩]",
   "dest": "china",
@@ -2481,7 +2481,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1699",
   "priceEn": "A$1699",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2499,7 +2499,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0193",
+  "id": "SUP-CM-0097",
   "nameZh": "（纯玩）贵州云南 云贵高原12日[纯玩]",
   "nameEn": "（纯玩）贵州云南 云贵高原12日[纯玩]",
   "dest": "china",
@@ -2507,7 +2507,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1999",
   "priceEn": "A$1999",
-  "days": 12,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2525,7 +2525,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0195",
+  "id": "SUP-CM-0098",
   "nameZh": "（纯玩）山东6日[纯玩]",
   "nameEn": "（纯玩）山东6日[纯玩]",
   "dest": "china",
@@ -2533,7 +2533,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$899",
   "priceEn": "A$899",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2551,7 +2551,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0197",
+  "id": "SUP-CM-0099",
   "nameZh": "（纯玩）河南5日[纯玩]",
   "nameEn": "（纯玩）河南5日[纯玩]",
   "dest": "china",
@@ -2559,7 +2559,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$899",
   "priceEn": "A$899",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2577,7 +2577,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0199",
+  "id": "SUP-CM-0100",
   "nameZh": "（纯玩）山西7日[纯玩]",
   "nameEn": "（纯玩）山西7日[纯玩]",
   "dest": "china",
@@ -2585,7 +2585,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1199",
   "priceEn": "A$1199",
-  "days": 7,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2603,7 +2603,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0201",
+  "id": "SUP-CM-0101",
   "nameZh": "（纯玩）东北四大名城 长白山6日[纯玩]",
   "nameEn": "（纯玩）东北四大名城 长白山6日[纯玩]",
   "dest": "china",
@@ -2611,7 +2611,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$999",
   "priceEn": "A$999",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2629,7 +2629,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0203",
+  "id": "SUP-CM-0102",
   "nameZh": "（纯玩）东北五大名城 长白山7日[纯玩]",
   "nameEn": "（纯玩）东北五大名城 长白山7日[纯玩]",
   "dest": "china",
@@ -2637,7 +2637,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1299",
   "priceEn": "A$1299",
-  "days": 7,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2655,7 +2655,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0205",
+  "id": "SUP-CM-0103",
   "nameZh": "（纯玩）东北名城 长白山 漠河9日[纯玩]",
   "nameEn": "（纯玩）东北名城 长白山 漠河9日[纯玩]",
   "dest": "china",
@@ -2663,7 +2663,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1399",
   "priceEn": "A$1399",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2681,7 +2681,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0207",
+  "id": "SUP-CM-0104",
   "nameZh": "（纯玩）西藏5日-洲际酒店特别版[纯玩]",
   "nameEn": "（纯玩）西藏5日-洲际酒店特别版[纯玩]",
   "dest": "china",
@@ -2689,7 +2689,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1599",
   "priceEn": "A$1599",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2707,7 +2707,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0209",
+  "id": "SUP-CM-0105",
   "nameZh": "（纯玩）丝绸之路 传奇东方高铁7日[纯玩]",
   "nameEn": "（纯玩）丝绸之路 传奇东方高铁7日[纯玩]",
   "dest": "china",
@@ -2715,7 +2715,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1899",
   "priceEn": "A$1899",
-  "days": 7,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2733,7 +2733,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0211",
+  "id": "SUP-CM-0106",
   "nameZh": "（纯玩）西安，丝绸之路9日[纯玩]",
   "nameEn": "（纯玩）西安，丝绸之路9日[纯玩]",
   "dest": "china",
@@ -2741,7 +2741,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2099",
   "priceEn": "A$2099",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2759,7 +2759,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0213",
+  "id": "SUP-CM-0107",
   "nameZh": "（纯玩）丝绸之路，茶卡盐湖青海湖9日[纯玩]",
   "nameEn": "（纯玩）丝绸之路，茶卡盐湖青海湖9日[纯玩]",
   "dest": "china",
@@ -2767,7 +2767,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2099",
   "priceEn": "A$2099",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2785,7 +2785,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0215",
+  "id": "SUP-CM-0108",
   "nameZh": "（纯玩）丝绸之路 青藏铁路 西藏10日[纯玩]",
   "nameEn": "（纯玩）丝绸之路 青藏铁路 西藏10日[纯玩]",
   "dest": "china",
@@ -2793,7 +2793,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$2699",
   "priceEn": "A$2699",
-  "days": 10,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2811,7 +2811,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0217",
+  "id": "SUP-CM-0109",
   "nameZh": "（纯玩）新疆北疆8日[纯玩]",
   "nameEn": "（纯玩）新疆北疆8日[纯玩]",
   "dest": "china",
@@ -2819,7 +2819,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1799",
   "priceEn": "A$1799",
-  "days": 8,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2837,7 +2837,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0219",
+  "id": "SUP-CM-0110",
   "nameZh": "（纯玩）新疆南疆8日[纯玩]",
   "nameEn": "（纯玩）新疆南疆8日[纯玩]",
   "dest": "china",
@@ -2845,7 +2845,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1799",
   "priceEn": "A$1799",
-  "days": 8,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2863,7 +2863,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0221",
+  "id": "SUP-CM-0111",
   "nameZh": "（纯玩）新疆南疆北疆全景15日[纯玩]",
   "nameEn": "（纯玩）新疆南疆北疆全景15日[纯玩]",
   "dest": "china",
@@ -2871,7 +2871,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$3399",
   "priceEn": "A$3399",
-  "days": 15,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2889,7 +2889,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0223",
+  "id": "SUP-CM-0112",
   "nameZh": "（纯玩）香港3日[纯玩]",
   "nameEn": "（纯玩）香港3日[纯玩]",
   "dest": "china",
@@ -2897,7 +2897,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$599",
   "priceEn": "A$599",
-  "days": 3,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2915,7 +2915,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0225",
+  "id": "SUP-CM-0113",
   "nameZh": "(纯玩) 成都5日(超豪华洲际酒店升级版)[纯玩]",
   "nameEn": "(纯玩) 成都5日(超豪华洲际酒店升级版)[纯玩]",
   "dest": "china",
@@ -2923,7 +2923,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$899",
   "priceEn": "A$899",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2941,7 +2941,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0227",
+  "id": "SUP-CM-0114",
   "nameZh": "(纯玩）江南水乡6天[纯玩]",
   "nameEn": "(纯玩）江南水乡6天[纯玩]",
   "dest": "china",
@@ -2967,7 +2967,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0229",
+  "id": "SUP-CM-0115",
   "nameZh": "（纯玩）山城重庆3日[纯玩]",
   "nameEn": "（纯玩）山城重庆3日[纯玩]",
   "dest": "china",
@@ -2975,7 +2975,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$549",
   "priceEn": "A$549",
-  "days": 3,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -2993,7 +2993,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0231",
+  "id": "SUP-CM-0116",
   "nameZh": "（纯玩）山城重庆 武隆天生三桥5日[纯玩]",
   "nameEn": "（纯玩）山城重庆 武隆天生三桥5日[纯玩]",
   "dest": "china",
@@ -3001,7 +3001,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$999",
   "priceEn": "A$999",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -3019,7 +3019,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0233",
+  "id": "SUP-CM-0117",
   "nameZh": "(纯玩)厦门土楼潮汕6日[纯玩]",
   "nameEn": "(纯玩)厦门土楼潮汕6日[纯玩]",
   "dest": "china",
@@ -3027,7 +3027,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$879",
   "priceEn": "A$879",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -3045,7 +3045,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0235",
+  "id": "SUP-CM-0118",
   "nameZh": "(纯玩)厦门土楼潮汕7日[纯玩]",
   "nameEn": "(纯玩)厦门土楼潮汕7日[纯玩]",
   "dest": "china",
@@ -3053,7 +3053,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$939",
   "priceEn": "A$939",
-  "days": 7,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -3071,7 +3071,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0237",
+  "id": "SUP-CM-0119",
   "nameZh": "（纯玩）海南岛三亚5天[纯玩]",
   "nameEn": "（纯玩）海南岛三亚5天[纯玩]",
   "dest": "china",
@@ -3097,7 +3097,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0239",
+  "id": "SUP-CM-0120",
   "nameZh": "（纯玩）世纪游轮“江山如此多娇·山河颂”长江全览11日游[纯玩]",
   "nameEn": "（纯玩）世纪游轮“江山如此多娇·山河颂”长江全览11日游[纯玩]",
   "dest": "china",
@@ -3105,7 +3105,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "A$1",
   "priceEn": "A$1",
-  "days": 11,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -3123,7 +3123,7 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0241",
+  "id": "SUP-CM-0121",
   "nameZh": "（纯玩）世纪游轮“江山如此多娇·山河颂”长江全览12日游[纯玩]",
   "nameEn": "（纯玩）世纪游轮“江山如此多娇·山河颂”长江全览12日游[纯玩]",
   "dest": "china",
@@ -3131,7 +3131,7 @@ window.TOURS = [
   "destEn": "china",
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 12,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
@@ -3149,22 +3149,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0243",
+  "id": "SUP-CM-0122",
   "nameZh": "（纯玩）韩国首尔江原道5日[纯玩]",
   "nameEn": "（纯玩）韩国首尔江原道5日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1198",
   "priceEn": "A$1198",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3175,22 +3175,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0245",
+  "id": "SUP-CM-0123",
   "nameZh": "白色圣诞浪漫新年缤纷日本9日游[纯玩]",
   "nameEn": "白色圣诞浪漫新年缤纷日本9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$2599",
   "priceEn": "A$2599",
-  "days": 9,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3201,22 +3201,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0247",
+  "id": "SUP-CM-0124",
   "nameZh": "白色圣诞浪漫新年缤纷日本11日游 (包机票)[纯玩]",
   "nameEn": "白色圣诞浪漫新年缤纷日本11日游 (包机票)[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$5399",
   "priceEn": "A$5399",
-  "days": 11,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3227,22 +3227,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0249",
+  "id": "SUP-CM-0125",
   "nameZh": "（纯玩）缤纷日本6日[纯玩]",
   "nameEn": "（纯玩）缤纷日本6日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1058",
   "priceEn": "A$1058",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3253,22 +3253,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0251",
+  "id": "SUP-CM-0126",
   "nameZh": "（纯玩）日本北海道5日[纯玩]",
   "nameEn": "（纯玩）日本北海道5日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1058",
   "priceEn": "A$1058",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3279,22 +3279,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0253",
+  "id": "SUP-CM-0127",
   "nameZh": "（纯玩）日本东京富士山北海道10日[纯玩]",
   "nameEn": "（纯玩）日本东京富士山北海道10日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$2098",
   "priceEn": "A$2098",
-  "days": 10,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3305,22 +3305,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0255",
+  "id": "SUP-CM-0128",
   "nameZh": "玩转台湾 轻松环岛6日[超值]",
   "nameEn": "玩转台湾 轻松环岛6日[超值]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$638",
   "priceEn": "A$638",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3331,22 +3331,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0257",
+  "id": "SUP-CM-0129",
   "nameZh": "玩转台湾 精华环岛7日[超值]",
   "nameEn": "玩转台湾 精华环岛7日[超值]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$738",
   "priceEn": "A$738",
-  "days": 7,
+  "days": 0,
   "tags": [
    "超值"
   ],
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3357,22 +3357,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0259",
+  "id": "SUP-CM-0130",
   "nameZh": "玩转台湾 全景环岛8日[超值]",
   "nameEn": "玩转台湾 全景环岛8日[超值]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1018",
   "priceEn": "A$1018",
-  "days": 8,
+  "days": 0,
   "tags": [
    "超值"
   ],
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3383,22 +3383,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0261",
+  "id": "SUP-CM-0131",
   "nameZh": "韩国6日[超值]",
   "nameEn": "韩国6日[超值]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$919",
   "priceEn": "A$919",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3409,22 +3409,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0263",
+  "id": "SUP-CM-0132",
   "nameZh": "越南双龙湾豪华美食6日[超值]",
   "nameEn": "越南双龙湾豪华美食6日[超值]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$498",
   "priceEn": "A$498",
-  "days": 6,
+  "days": 0,
   "tags": [
    "超值"
   ],
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3435,22 +3435,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0265",
+  "id": "SUP-CM-0133",
   "nameZh": "（纯玩）台湾5日[纯玩]",
   "nameEn": "（纯玩）台湾5日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$998",
   "priceEn": "A$998",
-  "days": 5,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3461,22 +3461,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0267",
+  "id": "SUP-CM-0134",
   "nameZh": "（纯玩）台湾6日[纯玩]",
   "nameEn": "（纯玩）台湾6日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1098",
   "priceEn": "A$1098",
-  "days": 6,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3487,22 +3487,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0269",
+  "id": "SUP-CM-0135",
   "nameZh": "（纯玩）台湾8日[纯玩]",
   "nameEn": "（纯玩）台湾8日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1198",
   "priceEn": "A$1198",
-  "days": 8,
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3513,12 +3513,12 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0271",
+  "id": "SUP-CM-0136",
   "nameZh": "（纯玩）新加坡马来西亚6天-新进马出[纯玩]",
   "nameEn": "（纯玩）新加坡马来西亚6天-新进马出[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -3528,7 +3528,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3539,12 +3539,12 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0273",
+  "id": "SUP-CM-0137",
   "nameZh": "（纯玩）马来西亚新加坡6天-马进新出[纯玩]",
   "nameEn": "（纯玩）马来西亚新加坡6天-马进新出[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "price": "A$1498",
   "priceEn": "A$1498",
   "days": 0,
@@ -3554,7 +3554,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3565,22 +3565,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0275",
-  "nameZh": "美国加拿大定制团[纯玩]",
-  "nameEn": "美国加拿大定制团[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0138",
+  "nameZh": "【澳洲包机票】加拿大落基山+美国阿拉斯加15天全景之旅[含机票]",
+  "nameEn": "【澳洲包机票】加拿大落基山+美国阿拉斯加15天全景之旅[含机票]",
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$8580",
+  "priceEn": "A$8580",
   "days": 0,
   "tags": [
-   "纯玩"
+   "含机票"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3591,64 +3591,12 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0277",
-  "nameZh": "南美定制团[纯玩]",
-  "nameEn": "南美定制团[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0279",
-  "nameZh": "【澳洲包机票】加拿大落基山+美国阿拉斯加15天全景之旅[纯玩]",
-  "nameEn": "【澳洲包机票】加拿大落基山+美国阿拉斯加15天全景之旅[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0281",
+  "id": "SUP-CM-0139",
   "nameZh": "【澳洲包机票】美国东西海岸经典17天游[含机票]",
   "nameEn": "【澳洲包机票】美国东西海岸经典17天游[含机票]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
   "price": "A$5999",
   "priceEn": "A$5999",
   "days": 0,
@@ -3658,7 +3606,7 @@ window.TOURS = [
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3669,22 +3617,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0283",
+  "id": "SUP-CM-0140",
   "nameZh": "【澳洲包机票】南美七国全景精华24日游[含机票]",
   "nameEn": "【澳洲包机票】南美七国全景精华24日游[含机票]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
   "price": "A$23499",
   "priceEn": "A$23499",
-  "days": 24,
+  "days": 0,
   "tags": [
    "含机票"
   ],
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3695,22 +3643,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0285",
+  "id": "SUP-CM-0141",
   "nameZh": "【澳洲包机票】南美经典五国16日狂欢之旅[含机票]",
   "nameEn": "【澳洲包机票】南美经典五国16日狂欢之旅[含机票]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
   "price": "A$16888",
   "priceEn": "A$16888",
-  "days": 16,
+  "days": 0,
   "tags": [
    "含机票"
   ],
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3721,22 +3669,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0287",
+  "id": "SUP-CM-0142",
   "nameZh": "美国东海岸经典6日[纯玩]",
   "nameEn": "美国东海岸经典6日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 6,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$1088",
+  "priceEn": "A$1088",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3747,22 +3695,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0289",
+  "id": "SUP-CM-0143",
   "nameZh": "美国东海岸经典7日[纯玩]",
   "nameEn": "美国东海岸经典7日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$1288",
+  "priceEn": "A$1288",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3773,22 +3721,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0291",
+  "id": "SUP-CM-0144",
   "nameZh": "美国加拿大东部8日游[纯玩]",
   "nameEn": "美国加拿大东部8日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 8,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2078",
+  "priceEn": "A$2078",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3799,22 +3747,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0293",
+  "id": "SUP-CM-0145",
   "nameZh": "美国加拿大东海岸9日[纯玩]",
   "nameEn": "美国加拿大东海岸9日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2428",
+  "priceEn": "A$2428",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3825,22 +3773,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0295",
+  "id": "SUP-CM-0146",
   "nameZh": "美国西部经典8日游[纯玩]",
   "nameEn": "美国西部经典8日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 8,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$1898",
+  "priceEn": "A$1898",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3851,22 +3799,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0297",
+  "id": "SUP-CM-0147",
   "nameZh": "美国加拿大东海岸10日[纯玩]",
   "nameEn": "美国加拿大东海岸10日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 10,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2618",
+  "priceEn": "A$2618",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3877,22 +3825,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0299",
+  "id": "SUP-CM-0148",
   "nameZh": "美国西部经典9日游[纯玩]",
   "nameEn": "美国西部经典9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2058",
+  "priceEn": "A$2058",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3903,22 +3851,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0301",
+  "id": "SUP-CM-0149",
   "nameZh": "美国西部经典10日游[纯玩]",
   "nameEn": "美国西部经典10日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 10,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2198",
+  "priceEn": "A$2198",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3929,22 +3877,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0303",
+  "id": "SUP-CM-0150",
   "nameZh": "美国西部黄石峡谷9日游[纯玩]",
   "nameEn": "美国西部黄石峡谷9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2228",
+  "priceEn": "A$2228",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3955,22 +3903,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0305",
+  "id": "SUP-CM-0151",
   "nameZh": "美国西部黄石峡谷10日游[纯玩]",
   "nameEn": "美国西部黄石峡谷10日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 10,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2398",
+  "priceEn": "A$2398",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -3981,22 +3929,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0307",
+  "id": "SUP-CM-0152",
   "nameZh": "美国东西海岸精华14日游[纯玩]",
   "nameEn": "美国东西海岸精华14日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 14,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2758",
+  "priceEn": "A$2758",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4007,22 +3955,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0309",
+  "id": "SUP-CM-0153",
   "nameZh": "美国东西海岸黄石经典15日[纯玩]",
   "nameEn": "美国东西海岸黄石经典15日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 15,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$3498",
+  "priceEn": "A$3498",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4033,22 +3981,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0311",
+  "id": "SUP-CM-0154",
   "nameZh": "夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游[纯玩]",
   "nameEn": "夏威夷檀香山欧胡岛+茂宜岛/火山岛6日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 6,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2199",
+  "priceEn": "A$2199",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4059,74 +4007,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0313",
-  "nameZh": "加拿大落基山脉6日游[纯玩]",
-  "nameEn": "加拿大落基山脉6日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 6,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0314",
-  "nameZh": "加拿大落基山脉7日游[纯玩]",
-  "nameEn": "加拿大落基山脉7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0315",
+  "id": "SUP-CM-0155",
   "nameZh": "加拿大加东精品6日游-A团[纯玩]",
   "nameEn": "加拿大加东精品6日游-A团[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 6,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$1539",
+  "priceEn": "A$1539",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4137,22 +4033,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0317",
+  "id": "SUP-CM-0156",
   "nameZh": "加拿大加东精品6日游-B团[纯玩]",
   "nameEn": "加拿大加东精品6日游-B团[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 6,
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$899",
+  "priceEn": "A$899",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4163,40 +4059,14 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0319",
+  "id": "SUP-CM-0157",
   "nameZh": "美加东名城瀑布9日游[纯玩]",
   "nameEn": "美加东名城瀑布9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0321",
-  "nameZh": "加拿大定制团[纯玩]",
-  "nameEn": "加拿大定制团[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "price": "A$2339",
+  "priceEn": "A$2339",
   "days": 0,
   "tags": [
    "纯玩"
@@ -4204,7 +4074,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/america.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4215,22 +4085,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0323",
-  "nameZh": "斐济定制团[纯玩]",
-  "nameEn": "斐济定制团[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0158",
+  "nameZh": "【澳洲包机票】冬日暖阳圣诞环地中海六国16日亲子之旅[含机票]",
+  "nameEn": "【澳洲包机票】冬日暖阳圣诞环地中海六国16日亲子之旅[含机票]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$9699",
+  "priceEn": "A$9699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "含机票"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4241,22 +4111,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0325",
-  "nameZh": "经典豪华巴厘岛5天游[纯玩]",
-  "nameEn": "经典豪华巴厘岛5天游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0159",
+  "nameZh": "【澳洲包机票】金秋十月东欧六国文化自然全景精华之旅[含机票]",
+  "nameEn": "【澳洲包机票】金秋十月东欧六国文化自然全景精华之旅[含机票]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$6888",
+  "priceEn": "A$6888",
   "days": 0,
   "tags": [
-   "纯玩"
+   "含机票"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4267,22 +4137,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0327",
-  "nameZh": "经典巴厘岛4天游-海边四星[纯玩]",
-  "nameEn": "经典巴厘岛4天游-海边四星[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0160",
+  "nameZh": "【澳洲包机票】东欧六国文化自然全景精华之旅[含机票]",
+  "nameEn": "【澳洲包机票】东欧六国文化自然全景精华之旅[含机票]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$6888",
+  "priceEn": "A$6888",
   "days": 0,
   "tags": [
-   "纯玩"
+   "含机票"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4293,22 +4163,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0329",
-  "nameZh": "经典巴厘岛4天游-海边五星[纯玩]",
-  "nameEn": "经典巴厘岛4天游-海边五星[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0161",
+  "nameZh": "【澳洲包机票】西葡安摩四国伊比利亚摩洛哥环游之旅22日游[含机票]",
+  "nameEn": "【澳洲包机票】西葡安摩四国伊比利亚摩洛哥环游之旅22日游[含机票]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$8499",
+  "priceEn": "A$8499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "含机票"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4319,22 +4189,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0331",
-  "nameZh": "经典巴厘岛5天游-海边四星[纯玩]",
-  "nameEn": "经典巴厘岛5天游-海边四星[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0162",
+  "nameZh": "【澳洲包机票】欧洲七国德荷比法意瑞奥纵览精华之旅21日[含机票]",
+  "nameEn": "【澳洲包机票】欧洲七国德荷比法意瑞奥纵览精华之旅21日[含机票]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$8699",
+  "priceEn": "A$8699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "含机票"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4345,22 +4215,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0333",
-  "nameZh": "经典巴厘岛5天游-海边五星[纯玩]",
-  "nameEn": "经典巴厘岛5天游-海边五星[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0163",
+  "nameZh": "【澳洲包机票】畅游荷德法瑞列奥意圣八国世纪河轮莱茵之旅17天[含机票]",
+  "nameEn": "【澳洲包机票】畅游荷德法瑞列奥意圣八国世纪河轮莱茵之旅17天[含机票]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$8999",
+  "priceEn": "A$8999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "含机票"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4371,334 +4241,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0335",
-  "nameZh": "经典巴厘岛6天游-海边四星[纯玩]",
-  "nameEn": "经典巴厘岛6天游-海边四星[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0337",
-  "nameZh": "经典巴厘岛6天游-海边五星[纯玩]",
-  "nameEn": "经典巴厘岛6天游-海边五星[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0339",
-  "nameZh": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[纯玩]",
-  "nameEn": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0341",
-  "nameZh": "欧洲定制团[纯玩]",
-  "nameEn": "欧洲定制团[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0343",
-  "nameZh": "【澳洲包机票】冬日暖阳圣诞环地中海六国16日亲子之旅[纯玩]",
-  "nameEn": "【澳洲包机票】冬日暖阳圣诞环地中海六国16日亲子之旅[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 16,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0345",
-  "nameZh": "【包机票】欧洲七国纵览精华之旅德荷比法意瑞奥7国21日[纯玩]",
-  "nameEn": "【包机票】欧洲七国纵览精华之旅德荷比法意瑞奥7国21日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 21,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0346",
-  "nameZh": "【澳洲包机票】北欧七国极光峡湾22日全景游[纯玩]",
-  "nameEn": "【澳洲包机票】北欧七国极光峡湾22日全景游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 22,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0347",
-  "nameZh": "【澳洲包机票】金秋十月东欧六国文化自然全景精华之旅[纯玩]",
-  "nameEn": "【澳洲包机票】金秋十月东欧六国文化自然全景精华之旅[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0349",
-  "nameZh": "【澳洲包机票】东欧六国文化自然全景精华之旅[纯玩]",
-  "nameEn": "【澳洲包机票】东欧六国文化自然全景精华之旅[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0351",
-  "nameZh": "【澳洲包机票】西葡安摩四国伊比利亚摩洛哥环游之旅22日游[纯玩]",
-  "nameEn": "【澳洲包机票】西葡安摩四国伊比利亚摩洛哥环游之旅22日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 22,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0353",
-  "nameZh": "【澳洲包机票】欧洲七国德荷比法意瑞奥纵览精华之旅21日[纯玩]",
-  "nameEn": "【澳洲包机票】欧洲七国德荷比法意瑞奥纵览精华之旅21日[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 21,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0355",
-  "nameZh": "【澳洲包机票】畅游荷德法瑞列奥意圣八国世纪河轮莱茵之旅17天[纯玩]",
-  "nameEn": "【澳洲包机票】畅游荷德法瑞列奥意圣八国世纪河轮莱茵之旅17天[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "tags": [
-   "纯玩"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0357",
+  "id": "SUP-CM-0164",
   "nameZh": "欧洲【红线】德国法国荷兰比利时卢森堡五国9日游[纯玩]",
   "nameEn": "欧洲【红线】德国法国荷兰比利时卢森堡五国9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4709,22 +4267,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0359",
+  "id": "SUP-CM-0165",
   "nameZh": "欧洲【红线】德国法国荷兰比利时卢森堡五国7日游[纯玩]",
   "nameEn": "欧洲【红线】德国法国荷兰比利时卢森堡五国7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4735,22 +4293,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0361",
+  "id": "SUP-CM-0166",
   "nameZh": "欧洲【黄线】西班牙葡萄牙9日游[纯玩]",
   "nameEn": "欧洲【黄线】西班牙葡萄牙9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4761,22 +4319,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0363",
+  "id": "SUP-CM-0167",
   "nameZh": "欧洲【黄线】西班牙葡萄牙7日游[纯玩]",
   "nameEn": "欧洲【黄线】西班牙葡萄牙7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4787,22 +4345,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0365",
+  "id": "SUP-CM-0168",
   "nameZh": "欧洲【绿线】法国意大利瑞士畅游三国9日游[纯玩]",
   "nameEn": "欧洲【绿线】法国意大利瑞士畅游三国9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4813,22 +4371,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0367",
+  "id": "SUP-CM-0169",
   "nameZh": "欧洲【绿线】法国意大利瑞士畅游三国7日游[纯玩]",
   "nameEn": "欧洲【绿线】法国意大利瑞士畅游三国7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4839,22 +4397,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0369",
+  "id": "SUP-CM-0170",
   "nameZh": "欧洲【蓝线】德国捷克匈牙利奥地利瑞士9日游[纯玩]",
   "nameEn": "欧洲【蓝线】德国捷克匈牙利奥地利瑞士9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4865,22 +4423,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0371",
+  "id": "SUP-CM-0171",
   "nameZh": "欧洲【蓝线】德国捷克匈牙利奥地利瑞士7日游[纯玩]",
   "nameEn": "欧洲【蓝线】德国捷克匈牙利奥地利瑞士7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4891,22 +4449,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0373",
+  "id": "SUP-CM-0172",
   "nameZh": "欧洲【棕线】匈牙利克罗地亚赛尔维波黑9日游[纯玩]",
   "nameEn": "欧洲【棕线】匈牙利克罗地亚赛尔维波黑9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4917,22 +4475,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0375",
+  "id": "SUP-CM-0173",
   "nameZh": "欧洲【棕线】匈牙利克罗地亚赛尔维波黑7日游[纯玩]",
   "nameEn": "欧洲【棕线】匈牙利克罗地亚赛尔维波黑7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4943,22 +4501,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0377",
+  "id": "SUP-CM-0174",
   "nameZh": "欧洲【紫线A】英格兰+苏格兰9日游[纯玩]",
   "nameEn": "欧洲【紫线A】英格兰+苏格兰9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4969,22 +4527,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0379",
+  "id": "SUP-CM-0175",
   "nameZh": "欧洲【紫线A】英格兰+苏格兰7日游[纯玩]",
   "nameEn": "欧洲【紫线A】英格兰+苏格兰7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -4995,22 +4553,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0381",
+  "id": "SUP-CM-0176",
   "nameZh": "欧洲【紫线B】英格兰+苏格兰9日游[纯玩]",
   "nameEn": "欧洲【紫线B】英格兰+苏格兰9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5021,22 +4579,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0383",
+  "id": "SUP-CM-0177",
   "nameZh": "欧洲【紫线B】英格兰+苏格兰7日游[纯玩]",
   "nameEn": "欧洲【紫线B】英格兰+苏格兰7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5047,22 +4605,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0385",
+  "id": "SUP-CM-0178",
   "nameZh": "欧洲【橙线】法国西班牙9日游[纯玩]",
   "nameEn": "欧洲【橙线】法国西班牙9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5073,22 +4631,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0387",
+  "id": "SUP-CM-0179",
   "nameZh": "欧洲【橙线】法国西班牙7日游[纯玩]",
   "nameEn": "欧洲【橙线】法国西班牙7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5099,14 +4657,14 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0389",
+  "id": "SUP-CM-0180",
   "nameZh": "蓝红绿欧洲21天10国游【不含接送机】[纯玩]",
   "nameEn": "蓝红绿欧洲21天10国游【不含接送机】[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$3999",
+  "priceEn": "A$3999",
   "days": 0,
   "tags": [
    "纯玩"
@@ -5114,7 +4672,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5125,14 +4683,14 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0391",
+  "id": "SUP-CM-0181",
   "nameZh": "蓝红绿欧洲23天10国游【含接送机】[纯玩]",
   "nameEn": "蓝红绿欧洲23天10国游【含接送机】[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$4498",
+  "priceEn": "A$4498",
   "days": 0,
   "tags": [
    "纯玩"
@@ -5140,7 +4698,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5151,22 +4709,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0393",
+  "id": "SUP-CM-0182",
   "nameZh": "欧洲【金线】意大利一地7日游[纯玩]",
   "nameEn": "欧洲【金线】意大利一地7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1339",
+  "priceEn": "A$1339",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5177,22 +4735,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0395",
+  "id": "SUP-CM-0183",
   "nameZh": "欧洲【金线】意大利一地9日游[纯玩]",
   "nameEn": "欧洲【金线】意大利一地9日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1829",
+  "priceEn": "A$1829",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5203,22 +4761,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0397",
+  "id": "SUP-CM-0184",
   "nameZh": "欧洲【粉线】丹麦瑞典挪威三国7日游[纯玩]",
   "nameEn": "欧洲【粉线】丹麦瑞典挪威三国7日游[纯玩]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 7,
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$1449",
+  "priceEn": "A$1449",
+  "days": 0,
   "tags": [
    "纯玩"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5229,22 +4787,22 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0399",
-  "nameZh": "欧洲【粉线】丹麦瑞典挪威三国9日游[签证]",
-  "nameEn": "欧洲【粉线】丹麦瑞典挪威三国9日游[签证]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
+  "id": "SUP-CM-0185",
+  "nameZh": "欧洲【粉线】丹麦瑞典挪威三国9日游[纯玩]",
+  "nameEn": "欧洲【粉线】丹麦瑞典挪威三国9日游[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "price": "A$2079",
+  "priceEn": "A$2079",
+  "days": 0,
   "tags": [
-   "签证"
+   "纯玩"
   ],
   "tagsEn": [
-   "Visa"
+   "No-shopping"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -5255,40 +4813,14 @@ window.TOURS = [
   "notesEn": []
  },
  {
-  "id": "CM-0403",
-  "nameZh": "日本单次签证[签证]",
-  "nameEn": "日本单次签证[签证]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "A$330",
-  "priceEn": "A$330",
-  "days": 2026,
-  "tags": [
-   "签证"
-  ],
-  "tagsEn": [
-   "Visa"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": []
- },
- {
-  "id": "CM-0415",
-  "nameZh": "台湾入台证-悉尼办理[签证]",
-  "nameEn": "台湾入台证-悉尼办理[签证]",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "price": "待确认",
-  "priceEn": "待确认",
+  "id": "SUP-CM-0186",
+  "nameZh": "经典豪华巴厘岛5天游[签证]",
+  "nameEn": "经典豪华巴厘岛5天游[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$899",
+  "priceEn": "A$899",
   "days": 0,
   "tags": [
    "签证"
@@ -5296,7 +4828,215 @@ window.TOURS = [
   "tagsEn": [
    "Visa"
   ],
-  "img": "assets/img/destinations/china.jpg",
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0187",
+  "nameZh": "经典巴厘岛4天游-海边四星[签证]",
+  "nameEn": "经典巴厘岛4天游-海边四星[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$699",
+  "priceEn": "A$699",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0188",
+  "nameZh": "经典巴厘岛4天游-海边五星[签证]",
+  "nameEn": "经典巴厘岛4天游-海边五星[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$799",
+  "priceEn": "A$799",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0189",
+  "nameZh": "经典巴厘岛5天游-海边四星[签证]",
+  "nameEn": "经典巴厘岛5天游-海边四星[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$799",
+  "priceEn": "A$799",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0190",
+  "nameZh": "经典巴厘岛5天游-海边五星[签证]",
+  "nameEn": "经典巴厘岛5天游-海边五星[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$899",
+  "priceEn": "A$899",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0191",
+  "nameZh": "经典巴厘岛6天游-海边四星[签证]",
+  "nameEn": "经典巴厘岛6天游-海边四星[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$899",
+  "priceEn": "A$899",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0192",
+  "nameZh": "经典巴厘岛6天游-海边五星[签证]",
+  "nameEn": "经典巴厘岛6天游-海边五星[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$999",
+  "priceEn": "A$999",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0193",
+  "nameZh": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[签证]",
+  "nameEn": "巴厘岛+科莫多双岛阿雅娜酒店5天奢华之旅[签证]",
+  "dest": "island",
+  "destZh": "海岛",
+  "destEn": "island",
+  "price": "A$1999",
+  "priceEn": "A$1999",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/island.jpg",
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": []
+ },
+ {
+  "id": "SUP-CM-0194",
+  "nameZh": "日本单次签证[签证]",
+  "nameEn": "日本单次签证[签证]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "price": "A$330",
+  "priceEn": "A$330",
+  "days": 0,
+  "tags": [
+   "签证"
+  ],
+  "tagsEn": [
+   "Visa"
+  ],
+  "img": "assets/img/destinations/other.jpg",
   "itinerary": [],
   "hotels": [],
   "includes": [],
