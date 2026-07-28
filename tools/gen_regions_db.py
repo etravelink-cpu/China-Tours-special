@@ -244,9 +244,12 @@ for r in rows:
 
 by_region=OrderedDict()
 for it in items:
-    # 含机票特别订制团(包机票行程)统一归入"特别订制"大区(放在签证·其他之前)
-    rk = 'special' if it['cat'] == '含机票特别订制团' else REGION_KEY[it['wc1']]
-    by_region.setdefault(rk,[]).append(it)
+    # 含机票特别订制团(包机票行程)保留在各自大区板块(按类目分tab显示),
+    # 同时复制一份到 special 板块作集中汇总(两处都显示, 不丢数据)
+    rk = REGION_KEY[it['wc1']]
+    by_region.setdefault(rk, []).append(it)
+    if it['cat'] == '含机票特别订制团':
+        by_region.setdefault('special', []).append(it)
 
 blocks={rg:build_block(rg, its) for rg,its in by_region.items()}
 # 预置所有 MANAGED 大区(即使无显示产品也生成空块, 确保隐藏大区被清空)
@@ -310,6 +313,10 @@ import subprocess
 for k in MANAGED:
     if k not in blocks: continue
     fn = os.path.join(OUTDIR, 'region-%s.js'%k)
-    r=subprocess.run(['node','-e',"new Function(require('fs').readFileSync(process.argv[1],'utf8'))",fn],capture_output=True,text=True)
-    if r.returncode!=0:
-        print("node 语法错误 %s:"%k, r.stderr[:120])
+    try:
+        r=subprocess.run(['node','-e',"new Function(require('fs').readFileSync(process.argv[1],'utf8'))",fn],capture_output=True,text=True)
+        if r.returncode!=0:
+            print("node 语法错误 %s:"%k, r.stderr[:120])
+    except Exception as e:
+        # 环境无 node 时跳过语法校验(不影响文件生成)
+        pass
