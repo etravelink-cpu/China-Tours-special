@@ -18,9 +18,7 @@
       <div class="muted" style="color:#cdd8e3">${I[lang]['detail.tourid']}: <b>${t.id}</b></div>
       <div class="detail-tags">${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
       <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
-      <p style="margin-top:10px">
-        <button class="btn btn-gold" onclick="EtripsDetail.downloadPDF()">${I[lang]['btn.download']}</button>
-      </p>`;
+    </div>`;
   }
 
   function renderItinerary(t){
@@ -118,11 +116,12 @@
     const panel = document.getElementById('panel-brochure');
     if(!panel) return;
     const list = t.brochures||[];
+    const dlBtn = `<p style="margin:0 0 14px"><button class="btn btn-gold" onclick="EtripsDetail.downloadPDF()">${I[lang]['btn.download']}</button></p>`;
     if(!list.length){
-      panel.innerHTML = `<p class="muted">暂无彩页下载</p>`;
+      panel.innerHTML = dlBtn + `<p class="muted">暂无彩页下载</p>`;
       return;
     }
-    panel.innerHTML = `<ul class="includes">${list.map(b=>`<li><a href="${b.url}" target="_blank" rel="noopener">${b.file}</a></li>`).join('')}</ul>`;
+    panel.innerHTML = dlBtn + `<ul class="includes">${list.map(b=>`<li><a href="${b.url}" target="_blank" rel="noopener">${b.file}</a></li>`).join('')}</ul>`;
   }
 
   function hasContent(arr){ return Array.isArray(arr) && arr.length>0; }
