@@ -595,6 +595,13 @@ main .container{position:relative;z-index:2}
 .rp-group-list{display:none;padding:2px 4px 6px}
 .rp-group.open>.rp-group-list{display:block}
 .rp-arrow{color:var(--sky-deep);font-size:11px}
+/* 列表页两栏树: 嵌套 group 折叠体(.rp-group-body) 沿用 .rp-group-list 折叠行为 */
+.rp-group-body{display:none;padding:2px 4px 6px}
+.rp-group.open>.rp-group-body{display:block}
+/* 三层嵌套缩进: 地区 > 类目 > 子区域 > 产品 */
+.rp-dest>.rp-group-body>.rp-cat>.rp-group-body{padding-left:6px}
+.rp-cat>.rp-group-body>.rp-group>.rp-group-title{padding-left:24px;font-size:14px}
+.rp-cat>.rp-group-body>.rp-group>.rp-group-body .rp-route{padding-left:36px}
 .rp-route{padding:9px 15px 9px 28px;font-size:14px;color:var(--muted);cursor:pointer;
   border-radius:var(--pill);line-height:1.4;transition:background .15s,color .15s;position:relative;font-weight:500}
 .rp-route:hover{background:var(--cream);color:var(--sky-text)}

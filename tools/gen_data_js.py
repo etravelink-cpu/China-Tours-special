@@ -84,6 +84,79 @@ def to_itinerary(txt):
             cur["descEn"] = cur["descZh"]
     return out
 
+def derive_subregion(name, dk, category):
+    """从产品名关键词推导子区域(供左栏树末级分组)。地区 dk 决定分组表。"""
+    s = name or ''
+    # 中国: 长江游轮(长江新船王/揽月/极光/爱达魔都/邮轮) -> 邮轮; 否则按地域关键词
+    if dk == 'china':
+        if any(k in s for k in ['长江新船王', '攬月號', '揽月号', '极光号', '爱达魔都', '爱达花城', '邮轮', '游轮', '海上絲綢', '海上丝绸', '克努克', 'MSC', '世纪传奇', '黄金海岸号']):
+            return '邮轮'
+        if any(k in s for k in ['江南', '上海', '苏州', '杭州', '无锡', '南京', '乌镇', '千岛湖', '西湖', '婺源', '黄山', '普陀', '九华', '泰山', '庐山', '深坑']):
+            return '江南上海'
+        if any(k in s for k in ['北京', '西安', '西安', '延安']):
+            return '北京西安'
+        if any(k in s for k in ['长江三峡', '三峡', '重庆', '宜昌', '瞿塘', '巫峡', '西陵']):
+            return '长江三峡'
+        if any(k in s for k in ['九寨', '张家界', '云南', '贵州', '丽江', '大理', '昆明', '西双版纳', '黔']):
+            return '九寨张家界云南贵州'
+        if any(k in s for k in ['广东', '广西', '福建', '海南', '大湾区', '珠江', '潮汕', '香港', '深圳', '广州', '桂林', '阳朔']):
+            return '广东广西福建海南'
+        if any(k in s for k in ['山东', '山西', '东北', '河南', '哈尔滨', '沈阳', '大连', '青岛', '泰山', '曲阜']):
+            return '山东山西东北河南'
+        if any(k in s for k in ['新疆', '甘肃', '西藏', '青海', '丝绸之路', '丝路', '喀什', '喀纳斯', '阿勒泰', '胡杨', '南疆', '北疆']):
+            return '新疆甘肃西藏青海丝绸之路'
+        return '其他中国'
+    if dk == 'australia':
+        if '悉尼' in s or 'SYD' in s.upper(): return '悉尼'
+        if '墨尔本' in s or 'MEL' in s.upper(): return '墨尔本'
+        if '黄金海岸' in s or 'OOL' in s.upper() or '布里斯班' in s or 'BNE' in s.upper(): return '黄金海岸'
+        if '凯恩斯' in s or 'CNS' in s.upper(): return '凯恩斯'
+        if '西澳' in s or '佩斯' in s or 'PER' in s.upper() or '粉红湖' in s: return '西澳'
+        if '乌鲁鲁' in s or 'AT' in s.upper() or '红土' in s: return '乌鲁鲁'
+        if '塔斯马' in s or 'TAS' in s.upper(): return '塔斯马尼亚'
+        if '阿德莱德' in s or 'ADL' in s.upper(): return '阿德莱德'
+        return '澳洲其他'
+    if dk == 'asia':
+        if '日本' in s or '东京' in s or '大阪' in s or '北海道' in s or '富士' in s or 'JP' in s.upper(): return '日本'
+        if '韩国' in s or '首尔' in s or '江原道' in s: return '韩国'
+        if '台湾' in s or '台北' in s or '环岛' in s or 'TPE' in s.upper(): return '台湾'
+        if '越南' in s or '下龙湾' in s or '河内' in s or '岘港' in s: return '越南'
+        if '泰国' in s or '曼谷' in s or '芭提雅' in s: return '泰国'
+        if '柬埔寨' in s or '吴哥' in s: return '柬埔寨'
+        if '新加坡' in s or '马来西亚' in s or '吉隆坡' in s or '马六甲' in s: return '新加坡马来西亚'
+        return '亚洲其他'
+    if dk == 'europe':
+        for line in ['红线', '黄线', '绿线', '蓝线', '棕线', '紫线', '橙线', '金线', '粉线']:
+            if line in s: return line + '线路'
+        if '任你行' in s: return '任你行'
+        if any(k in s for k in ['巴尔干', '南欧', '西欧', '东欧', '北欧', '中欧', '多国', '八国', '七国', '六国', '九国', '十国', '河轮', '莱茵', '地中海']): return '多国连线'
+        return '欧洲其他'
+    if dk == 'america':
+        if any(k in s for k in ['东海岸', '美国东', '加拿大东', '纽约', '华盛顿', '波士顿', '美东']): return '东岸'
+        if any(k in s for k in ['西海岸', '美国西', '黄石', '洛杉矶', '旧金山', '拉斯维加斯', '美西', '加拿大西']): return '西岸'
+        if any(k in s for k in ['东西海岸', '美国东', '美国西', '全景', '环美']): return '东西岸'
+        if '南美' in s or '南极' in s or '秘鲁' in s or '巴西' in s: return '南美'
+        return '美加其他'
+    if dk == 'island':
+        if '巴厘岛' in s or '科莫多' in s: return '巴厘岛'
+        if '斐济' in s: return '斐济'
+        return '海岛其他'
+    if dk == 'nz':
+        if '南岛' in s and '北岛' not in s: return '南岛'
+        if '南北岛' in s or ('南岛' in s and '北岛' in s): return '南北岛'
+        if '北岛' in s: return '北岛'
+        return '新西兰其他'
+    if dk == 'other':
+        if '签证' in s: return '签证'
+        if '南极' in s: return '南极'
+        if '南美' in s: return '南美'
+        if '非洲' in s or '肯尼' in s or '南非' in s or '摩洛哥' in s or '高加索' in s: return '非洲中东'
+        if '不丹' in s or '尼泊尔' in s: return '不丹尼泊尔'
+        if '土耳其' in s or '希腊' in s: return '土耳其希腊'
+        if '冰岛' in s or '芬兰' in s or '挪威' in s: return '北欧'
+        return '其他'
+    return '其他'
+
 tours = []
 for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, notice, ad) in rows:
     dk = DEST_KEY.get(wc1, 'other')
@@ -93,6 +166,9 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
     cat_en = CAT_EN.get(cat, cat or '')
     tags = [cat_zh] if cat_zh else []
     tagsEn = [cat_en] if cat_en else []
+    # 结构化类目(category) + 子区域(subRegion), 供列表页左栏树分组(与后台 Product_Category 一致)
+    category = cat or ''
+    subRegion = derive_subregion(name or '', dk, category)
     itinerary = to_itinerary(itin)
     introZh = (intro or '').strip()
     introEn = introZh  # 暂无英文, 复用中文
@@ -130,6 +206,8 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         "dest": dk,
         "destZh": wc1 or '',
         "destEn": dk,
+        "category": category,
+        "subRegion": subRegion,
         "price": price,
         "priceEn": price,
         "days": days or 0,

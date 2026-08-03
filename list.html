@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&family=Noto+Sans+SC:wght@500;700;900&display=swap">
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/style.css?v=20260803e">
   <script>if(/[?&]d=/.test(location.search))document.documentElement.classList.add("has-region");</script>
 </head>
 <body>
@@ -18,15 +18,18 @@
   <section class="section" style="padding-top:80px">
     <div class="container">
       <a href="javascript:void(0)" id="back-btn" class="back-btn" hidden onclick="goBack()" data-i18n="btn.back">← 返回</a>
-      <h2 class="section-title" id="hot-title" data-i18n="home.hot.title">爆款精选行程</h2>
+      <h2 class="section-title" id="hot-title" data-i18n="home.hot.title">线路列表</h2>
       <div class="trust-line"><span data-i18n="list.trust1">中文领队</span><span data-i18n="list.trust2">悉尼持牌旅行社</span><span data-i18n="list.trust3">小团与私人订制</span><span data-i18n="list.trust4">微信一对一客服</span></div>
 
-      <!-- 目的地分区行程规划（按 ?d= 自动取用，统一格式） -->
-      <div id="region-plan" class="region-plan" hidden></div>
+      <!-- 两栏：左 list 地区分类树 + 右 detail 内联产品详情(=后台预览形态) -->
+      <div class="rp-layout" id="rp-layout">
+        <nav class="rp-nav2" id="list-tree" aria-label="线路分类"></nav>
+        <div class="rp-detail-area" id="list-detail">
+          <div class="rp-coming-box">请选择左侧线路查看详情</div>
+        </div>
+      </div>
 
-      <div class="grid grid-3" id="list-grid"></div>
-
-      <!-- 智能筛选栏（移至底部） -->
+      <!-- 智能筛选栏（底部） -->
       <div class="form-card" id="filter-bar" style="margin:36px 0 28px">
         <div class="grid grid-3" style="gap:14px">
           <div class="form-row" style="margin:0">
@@ -64,7 +67,7 @@
   <footer class="site-footer" id="site-footer"></footer>
 
   <script src="assets/js/i18n.js"></script>
-  <script src="assets/js/data.js?v=20260803c"></script>
+  <script src="assets/js/data.js?v=20260803d"></script>
   <script src="assets/js/region-plans.js"></script>
   <script src="assets/js/region-china.js?v=20260726"></script>
   <script src="assets/js/region-australia.js?v=20260726"></script>
@@ -77,7 +80,7 @@
   <script src="assets/js/region-island.js?v=20260726"></script>
   <script src="assets/js/region-other.js?v=20260726"></script>
   <script src="assets/js/site.js?v=20260803c"></script>
-  <script src="assets/js/list.js?v=20260803b"></script>
+  <script src="assets/js/list.js?v=20260803e"></script>
   <script src="assets/js/motion.js"></script>
 </body>
 </html>
