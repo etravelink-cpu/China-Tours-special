@@ -34,7 +34,9 @@
     }
     // 目的地分区行程规划（统一格式，按 ?d= 取用）
     const rp = document.getElementById("region-plan");
-    const hasPlan = !!(window.REGION_PLANS && q && window.REGION_PLANS[q]);
+    // region-plan(路线组合内联详情) 仅在显式 ?plan=1 时启用, 默认列表页直接显示产品卡片网格
+    const usePlan = !!(window.REGION_PLANS && q && window.REGION_PLANS[q] && new URLSearchParams(location.search).get("plan"));
+    const hasPlan = usePlan;
     if (rp) {
       // region-plans.js 已拆为各 region 小文件, 但 china 单文件仍较大;
       // 浏览器可能在其完整执行前触发 load, 导致初次 window.REGION_PLANS[q]

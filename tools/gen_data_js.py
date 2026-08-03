@@ -159,6 +159,148 @@ conn.close()
 header = "// Etrips 国安易游 — 产品数据 (由 gen_data_js.py 从 etrips_product.db 自动生成)\n"
 header += "// 单一真相: DB 中 Online_Visible=1 AND Status='Active' 的产品。请勿手改, 重跑生成器。\n\n"
 body = "window.TOURS = " + json.dumps(tours, ensure_ascii=False, indent=1) + ";\n"
-io.open(JS, 'w', encoding='utf-8').write(header + body)
+
+# 运营内容(非DB字段, 静态): 客户短评 + 出行小贴士
+# 历史数据源: etrips-site-backups/etrips-site-deploy_20260725_0616.zip 的 data.js
+REVIEWS_JS = '''window.REVIEWS = [
+  {
+    nameZh: "王女士（悉尼）",
+    nameEn: "Ms. Wang (Sydney)",
+    titleZh: "领队特别贴心",
+    titleEn: "Our guide looked after everyone",
+    textZh: "中文领队太贴心，全程无购物，老人孩子都轻松。",
+    textEn:
+      "Chinese guide was so caring, no shopping, easy for the whole family.",
+    tourZh: "澳洲经典团",
+    tourEn: "Australia Classic Tour",
+    date: "2026-07",
+    stars: 5,
+  },
+  {
+    nameZh: "张先生（布里斯班）",
+    nameEn: "Mr. Zhang (Brisbane)",
+    titleZh: "父母走得不累",
+    titleEn: "Easy pace for my parents",
+    textZh: "带爸妈去悉尼蓝山和黄金海岸，司机在机场举牌等我们，行李都帮忙搬上车。三姊妹岩那站停了很久，老人家慢慢拍照也不催。",
+    textEn:
+      "Took my parents to Sydney, the Blue Mountains and the Gold Coast. The driver was waiting at arrivals with a sign and helped load our bags. We had plenty of time at the Three Sisters lookout, no rushing while they took photos.",
+    tourZh: "悉尼蓝山黄金海岸8日游",
+    tourEn: "Sydney, Blue Mountains & Gold Coast 8D",
+    date: "2026-07",
+    stars: 5,
+  },
+  {
+    nameZh: "李先生（墨尔本）",
+    nameEn: "Mr. Li (Melbourne)",
+    titleZh: "浪漫到心里",
+    titleEn: "Still talking about the stargazing",
+    textZh: "新西兰蜜月安排得超浪漫，星空那晚终生难忘。",
+    textEn:
+      "The whole NZ honeymoon was romantic, but the stargazing night is what we still talk about!",
+    tourZh: "新西兰12日蜜月团",
+    tourEn: "NZ 12D Honeymoon Tour",
+    date: "2026-06",
+    stars: 5,
+  },
+  {
+    nameZh: "陈同学（留学生）",
+    nameEn: "Chen (Student)",
+    titleZh: "探亲路线很省心",
+    titleEn: "Easy trip home",
+    textZh: "返乡探亲路线很顺，机票酒店全包省心。",
+    textEn: "Hometown visit route was smooth, flights and hotel all sorted.",
+    tourZh: "回国探亲套餐",
+    tourEn: "China Homeland Visit Package",
+    date: "2026-06",
+    stars: 5,
+  },
+  {
+    nameZh: "周小姐（车士活）",
+    nameEn: "Ms. Zhou (Chatswood)",
+    titleZh: "小团很自在",
+    titleEn: "Small group, easy going",
+    textZh: "云南大理丽江七日团只有十二个人，导游带我们去了本地人开的米线店，比景区餐厅好吃太多。到玉龙雪山前特地提醒高反，还准备了氧气瓶，挺贴心的。",
+    textEn:
+      "Our Yunnan Dali and Lijiang 7 day tour only had twelve people. The guide took us to a local rice noodle place that was much better than the tourist restaurants. Before Jade Dragon Snow Mountain she warned us about altitude and had oxygen canisters ready.",
+    tourZh: "云南大理丽江7日小团",
+    tourEn: "Yunnan Dali & Lijiang 7D Small Group",
+    date: "2026-05",
+    stars: 5,
+  },
+  {
+    nameZh: "刘先生（悉尼）",
+    nameEn: "Mr. Liu (Sydney)",
+    titleZh: "富士山温泉夜太治愈",
+    titleEn: "Worth it for the onsen night alone",
+    textZh: "一个人参加本州六日团，本来担心尴尬，结果大家都很聊得来。富士山那晚住的旅馆有露天温泉，晚饭是怀石料理，一道一道上，吃得很慢很舒服。",
+    textEn:
+      "Went on the Honshu 6 day tour solo and worried it might be awkward, but everyone got along well. The ryokan by Mt Fuji had an open-air onsen, and dinner was a kaiseki course served one dish at a time, slow and relaxing.",
+    tourZh: "本州6日富士山温泉团",
+    tourEn: "Honshu 6D Mt Fuji Ryokan Tour",
+    date: "2026-04",
+    stars: 5,
+  },
+  {
+    nameZh: "黄太太（好市围）",
+    nameEn: "Mrs. Huang (Hurstville)",
+    titleZh: "孩子也照顾得很好",
+    titleEn: "They looked after our kid too",
+    textZh: "带十岁儿子去张家界深度游，他一开始不敢走玻璃桥，导游一直陪着他慢慢走，还帮忙背包。孩子挑食，每餐都特意问他要不要单独点，微信群里还发照片给在家的奶奶看，很用心。",
+    textEn:
+      "Took my ten year old son on the Zhangjiajie deep tour. He was scared to walk the glass bridge at first, so the guide stayed with him and carried his backpack. My son is a picky eater and they checked with him at every meal, and sent photos to the WeChat group so his grandma at home could see too. He still talks about the glass bridge.",
+    tourZh: "张家界深度游",
+    tourEn: "Zhangjiajie Deep China Tour",
+    date: "2026-03",
+    stars: 5,
+  },
+  {
+    nameZh: "赵先生赵太太（阿德莱德）",
+    nameEn: "Mr. & Mrs. Zhao (Adelaide)",
+    titleZh: "航班延误也不慌",
+    titleEn: "Flight delay, no stress",
+    textZh: "南太平洋邮轮团出发那天飞机延误了三个多小时。还担心赶不上登船，旅行社直接帮我们改了接驳车时间，上船一切正常。船上晚上有表演，老两口每天散步看海，很放松。",
+    textEn:
+      "Our flight was delayed over three hours on the day the South Pacific cruise departed. We worried about missing boarding, but the agency rearranged our transfer and we made the ship with time to spare. There were shows in the evenings, but mostly the two of us walked the deck and watched the sea.",
+    tourZh: "南太平洋邮轮团",
+    tourEn: "South Pacific Cruise",
+    date: "2026-02",
+    stars: 5,
+  },
+  {
+    nameZh: "孙先生（墨尔本）",
+    nameEn: "Mr. Sun (Melbourne)",
+    titleZh: "路途远但值得",
+    titleEn: "Long road, worth it",
+    textZh: "新疆长线团路上确实比较辛苦，天山那段山路开了快五个小时，不过司机开得很稳，风景也确实好。中途在一户维吾尔族人家吃了顿家常饭，是这趟印象最深的一顿。",
+    textEn:
+      "The Xinjiang tour is a lot of driving, no way around it, almost five hours on the mountain road through Tianshan. The driver was steady and the scenery made up for it. The home cooked meal at a Uyghur family's house was the best thing we ate all trip.",
+    tourZh: "新疆长线团",
+    tourEn: "Xinjiang Long Tour",
+    date: "2026-01",
+    stars: 4,
+  },
+];
+
+window.TIPS = [
+  {
+    zh: "澳洲入境需提前填好 DPD 数字旅客声明。",
+    en: "Complete the Digital Passenger Declaration (DPD) before entering Australia.",
+  },
+  {
+    zh: "新西兰自驾需国际驾照，靠左行驶。",
+    en: "International license required for self-drive in NZ; drive on the left.",
+  },
+  {
+    zh: "中国长线建议提前办理签证与疫苗。",
+    en: "Arrange visa and vaccinations ahead for China long tours.",
+  },
+  {
+    zh: "海岛游注意防晒与浮潜安全。",
+    en: "Island trips: sun protection and snorkel safety matter.",
+  },
+];
+'''
+
+io.open(JS, 'w', encoding='utf-8').write(header + body + REVIEWS_JS)
 print("已生成 data.js: %d 个产品 (Online_Visible=1 AND Status='Active')" % len(tours))
 print("输出:", os.path.abspath(JS))
