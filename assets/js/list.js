@@ -366,13 +366,6 @@
     window.Etrips.applyLang({ emit: false });
   }
 
-  ["f-days", "f-month", "f-budget"].forEach((id) => {
-    document.addEventListener("DOMContentLoaded", () => {
-      const el = document.getElementById(id);
-      if (el) el.addEventListener("change", render);
-    });
-  });
-
   document.addEventListener("DOMContentLoaded", render);
   window.addEventListener("langchange", render);
 
