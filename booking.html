@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="assets/img/logo.png">
   <title>预订请求 · Etrips 国安易游</title>
-  <link rel="stylesheet" href="assets/css/style.css?v=20260803g">
+  <link rel="stylesheet" href="assets/css/style.css?v=20260803h">
   <style>
     .bk-wrap{max-width:680px;margin:0 auto}
     .bk-card{background:#fff;border:1px solid #e6eef5;border-radius:14px;padding:22px;box-shadow:0 4px 14px rgba(14,42,71,.06)}
@@ -34,10 +34,7 @@
     .bk-detail-body .rp-sec h4{font-size:15px;color:#222;margin:0 0 8px;padding-left:10px;border-left:3px solid #1B9FE0}
     .bk-detail-body .rp-sec p,.bk-detail-body .rp-sec li{color:#444;font-size:14px;line-height:1.7}
     .bk-detail-empty{color:#999;font-size:13px;text-align:center;padding:10px 0}
-    .bk-cal{margin-top:10px;display:flex;flex-wrap:wrap;gap:14px}
-    .bk-cal .cal{width:220px;flex:0 0 auto}
-    .bk-cal .cal-has{cursor:pointer}
-    .bk-cal .cal-cell.cal-sel{outline:3px solid #F09018;outline-offset:-3px}
+    .bk-cal{margin-top:10px}
     @media(max-width:760px){.bk-actions{flex-direction:column}}
   </style>
 </head>
@@ -119,7 +116,7 @@
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/data.js"></script>
   <script src="assets/js/region-plans.js"></script>
-  <script src="assets/js/site.js?v=20260803f"></script>
+  <script src="assets/js/site.js?v=20260803g"></script>
   <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
   <script>
     (function(){
@@ -193,20 +190,11 @@
           return;
         }
         cal.style.display = 'block';
-        if(presetDate) bkDate.value = presetDate;
         if(window.EtripsCalendar){
-          window.EtripsCalendar.render(cal, ds, { restrict: true });
-          // 预填高亮
-          if(presetDate){
-            const pre = cal.querySelector('.cal-cell[data-date="'+presetDate+'"]');
-            if(pre) pre.classList.add('cal-sel');
-          }
-          cal.querySelectorAll('.cal-cell[data-date]').forEach(function(cell){
-            cell.addEventListener('click', function(){
-              cal.querySelectorAll('.cal-sel').forEach(function(c){ c.classList.remove('cal-sel'); });
-              cell.classList.add('cal-sel');
-              bkDate.value = cell.getAttribute('data-date');
-            });
+          window.EtripsCalendar.render(cal, ds, {
+            restrict: true,
+            presetDate: presetDate || '',
+            onSelect: function(dateStr){ bkDate.value = dateStr; }
           });
         }
       }

@@ -664,20 +664,25 @@ main .container{position:relative;z-index:2}
 .rp-sec ul{margin:6px 0 0;padding-left:20px}
 .rp-sec li{margin:4px 0;color:var(--muted);font-size:14px;line-height:1.65}
 .rp-sec p{margin:0 0 8px;color:var(--muted);font-size:14px;line-height:1.85}
-/* 出发日历: 月历网格 + 出发日高亮 */
-.rp-cal{display:flex;flex-wrap:wrap;gap:14px}
-.cal{width:220px;flex:0 0 auto}
-.cal-title{font-size:13px;font-weight:800;color:var(--sky-text);margin-bottom:6px;text-align:center}
-.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px}
+/* 出发日历: 单月视图 + 左右进退(紧凑型) */
+.cal{width:248px;max-width:100%;margin:0 auto}
+.cal-nav{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+.cal-nav button{width:30px;height:30px;border:1px solid #e3ebf2;border-radius:50%;background:#fff;color:var(--orange);font-size:17px;line-height:1;cursor:pointer;transition:.15s}
+.cal-nav button:hover:not(:disabled){background:var(--orange);color:#fff;border-color:var(--orange)}
+.cal-nav button:disabled{opacity:.3;cursor:not-allowed}
+.cal-ym{font-size:14px;font-weight:800;color:var(--sky-text)}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px}
 .cal-dow{font-size:11px;text-align:center;color:var(--muted);padding:2px 0}
-.cal-cell{position:relative;text-align:center;font-size:12.5px;padding:6px 0;border-radius:6px;color:var(--ink);background:#f4f7fa}
+.cal-cell{text-align:center;font-size:12.5px;padding:7px 0;border-radius:7px;color:var(--ink);background:#f4f7fa;cursor:default;transition:.12s}
+.cal-cell:not(.cal-empty):not(.cal-disabled):hover{background:#e3f0fa}
 .cal-empty{background:transparent}
 .cal-has{background:var(--sky);color:#fff;font-weight:700}
-.cal-has .cal-dot{display:none}
+.cal-has:hover{background:var(--sky)}
 .cal-soldout{background:#e9edf1;color:#aab4bf;text-decoration:line-through;cursor:not-allowed}
 .cal-limited{background:#fff0dd;color:#c8741a;font-weight:700}
 .cal-disabled{opacity:.35;cursor:not-allowed}
-.cal-empty-hint{font-size:13px;color:var(--muted);padding:6px 0}
+.cal-sel{background:var(--orange)!important;color:#fff!important;font-weight:800;box-shadow:0 2px 6px rgba(240,144,24,.4)}
+.cal-empty-hint{font-size:13px;color:var(--muted);padding:6px 0;text-align:center}
 .rp-sec [style*="#999"],.rp-timeline [style*="#999"],.rp-tab-panel [style*="#999"]{color:var(--muted)!important}
 .rp-timeline>div{margin-bottom:13px;padding-left:18px;position:relative}
 .rp-timeline>div::before{content:"";position:absolute;left:0;top:7px;width:8px;height:8px;

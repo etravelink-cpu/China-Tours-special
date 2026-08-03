@@ -407,7 +407,8 @@
   };
 
   // ---------- Shared departure calendar (list.js + booking.html) ----------
-  // 出发日高亮: 蓝底圆点(.cal-has); 售罄=soldout, 余位紧张=limited, 报名中/可订=open
+  // 单月视图 + 左右进退箭头(紧凑型, 参考航空/酒店日期选择器)
+  // 出发日高亮: 蓝底圆点(.cal-has); 售罄=soldout, 余位紧张=limited, 报名中/可订=open; 选中=cal-sel(浅橙块)
   window.EtripsCalendar = {
     statusOf(dateStr, departureDates) {
       if (!departureDates || !departureDates.length) return null;
@@ -416,19 +417,26 @@
       const s = (d.status || '').toLowerCase();
       if (s === 'soldout') return 'soldout';
       if (s === 'limited') return 'limited';
-      return 'open'; // open / available / 其他
+      return 'open';
     },
-    renderMonth(ym, departureDates, opts) {
+    // 收集有班期的年月范围
+    monthRange(departureDates) {
+      const set = {};
+      (departureDates || []).forEach((d) => { const ym = (d.date || '').slice(0, 7); if (ym) set[ym] = true; });
+      const yms = Object.keys(set).sort();
+      return yms;
+    },
+    // 渲染单个月视图(纯 HTML 字符串); viewDate=Date(显示该月); presetDate=预选高亮
+    renderMonth(viewDate, departureDates, opts) {
       opts = opts || {};
-      const [y, m] = ym.split('-').map(Number);
+      const y = viewDate.getFullYear();
+      const m = viewDate.getMonth() + 1;
+      const ym = `${y}-${String(m).padStart(2, '0')}`;
       const first = new Date(y, m - 1, 1);
       const startDow = first.getDay(); // 0=日
       const daysIn = new Date(y, m, 0).getDate();
       const wk = ['日', '一', '二', '三', '四', '五', '六'];
-      let cells = '';
-      // 头部星期
-      cells += wk.map((w) => `<div class="cal-dow">${w}</div>`).join('');
-      // 前置空白
+      let cells = wk.map((w) => `<div class="cal-dow">${w}</div>`).join('');
       for (let i = 0; i < startDow; i++) cells += `<div class="cal-cell cal-empty"></div>`;
       for (let d = 1; d <= daysIn; d++) {
         const ds = `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
@@ -437,25 +445,53 @@
         const cls = ['cal-cell'];
         if (st) cls.push('cal-has', 'cal-' + st);
         if (!selectable) cls.push('cal-disabled');
+        if (opts.presetDate === ds) cls.push('cal-sel');
         const attr = selectable ? ` data-date="${ds}"` : '';
-        cells += `<div class="${cls.join(' ')}"${attr}>${d}${st ? `<span class="cal-dot"></span>` : ''}</div>`;
+        cells += `<div class="${cls.join(' ')}"${attr}>${d}</div>`;
       }
-      return `<div class="cal"><div class="cal-title">${y}年${m}月</div><div class="cal-grid">${cells}</div></div>`;
+      return `<div class="cal-nav"><button type="button" class="cal-prev" aria-label="上一月">‹</button>` +
+        `<div class="cal-ym">${y}年${m}月</div>` +
+        `<button type="button" class="cal-next" aria-label="下一月">›</button></div>` +
+        `<div class="cal-grid">${cells}</div>`;
     },
-    // container: DOM节点; departureDates: [{date,status}]; opts.restrict=仅可选有班期日
+    // container: DOM节点; departureDates: [{date,status}]; opts: {restrict, presetDate, onSelect}
     render(container, departureDates, opts) {
       opts = opts || {};
-      const months = {};
-      (departureDates || []).forEach((d) => {
-        const ym = (d.date || '').slice(0, 7);
-        if (ym) months[ym] = true;
-      });
-      const yms = Object.keys(months).sort();
+      const yms = this.monthRange(departureDates);
       if (!yms.length) {
         container.innerHTML = `<div class="cal-empty-hint">暂未公布班期，出发日期请与客服确认。</div>`;
         return;
       }
-      container.innerHTML = yms.map((ym) => this.renderMonth(ym, departureDates, opts)).join('');
+      // 默认显示: 预选月 → 首月有班期月
+      let initYm = yms[0];
+      if (opts.presetDate) {
+        const pm = (opts.presetDate || '').slice(0, 7);
+        if (yms.indexOf(pm) >= 0) initYm = pm;
+      }
+      const [iy, im] = initYm.split('-').map(Number);
+      let view = new Date(iy, im - 1, 1);
+      const self = this;
+      const minYm = yms[0], maxYm = yms[yms.length - 1];
+      function draw() {
+        const curYm = `${view.getFullYear()}-${String(view.getMonth() + 1).padStart(2, '0')}`;
+        container.innerHTML = self.renderMonth(view, departureDates, opts);
+        // 边界禁用箭头
+        container.querySelector('.cal-prev').disabled = curYm <= minYm;
+        container.querySelector('.cal-next').disabled = curYm >= maxYm;
+        container.querySelector('.cal-prev').onclick = () => { view.setMonth(view.getMonth() - 1); draw(); };
+        container.querySelector('.cal-next').onclick = () => { view.setMonth(view.getMonth() + 1); draw(); };
+        // 点击选日
+        if (opts.restrict || opts.onSelect) {
+          container.querySelectorAll('.cal-cell[data-date]').forEach((cell) => {
+            cell.onclick = () => {
+              container.querySelectorAll('.cal-sel').forEach((c) => c.classList.remove('cal-sel'));
+              cell.classList.add('cal-sel');
+              if (typeof opts.onSelect === 'function') opts.onSelect(cell.getAttribute('data-date'));
+            };
+          });
+        }
+      }
+      draw();
     },
   };
 
