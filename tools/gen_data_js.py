@@ -107,14 +107,23 @@ def derive_subregion(name, dk, category):
             return '新疆甘肃西藏青海丝绸之路'
         return '其他中国'
     if dk == 'australia':
-        if '悉尼' in s or 'SYD' in s.upper(): return '悉尼'
-        if '墨尔本' in s or 'MEL' in s.upper(): return '墨尔本'
-        if '黄金海岸' in s or 'OOL' in s.upper() or '布里斯班' in s or 'BNE' in s.upper(): return '黄金海岸'
-        if '凯恩斯' in s or 'CNS' in s.upper(): return '凯恩斯'
-        if '西澳' in s or '佩斯' in s or 'PER' in s.upper() or '粉红湖' in s: return '西澳'
-        if '乌鲁鲁' in s or 'AT' in s.upper() or '红土' in s: return '乌鲁鲁'
-        if '塔斯马' in s or 'TAS' in s.upper(): return '塔斯马尼亚'
-        if '阿德莱德' in s or 'ADL' in s.upper(): return '阿德莱德'
+        # 跨地区联游: 含≥2个城市的团(悉尼墨尔本/悉尼凯恩斯墨尔本/环澳等)
+        city_kw = ['悉尼', '墨尔本', '黄金海岸', '布里斯班', '凯恩斯', '西澳', '珀斯', '阿德莱德', '塔斯马尼亚', '乌鲁鲁', '圣灵']
+        cnt = sum(1 for c in city_kw if c in s)
+        if cnt >= 2: return '澳洲跨地区联游'
+        if any(k in s for k in ['圣灵', '艾尔利', '汉密尔顿岛']) or 'Whitsunday' in s: return '圣灵群岛'
+        if any(k in s for k in ['悉尼', '蓝山', '史蒂芬港', '猎人谷', '卧龙岗', '杰维斯湾', '蓝色海洋路', '中央海岸', '市区', '歌剧院']): return '悉尼及周边'
+        if any(k in s for k in ['墨尔本', '企鹅岛', '菲利普岛', '大洋路', '蒸汽火车', '疏芬山', '莫宁顿', '企鹅', '彩虹小屋']): return '墨尔本及周边'
+        if any(k in s for k in ['黄金海岸', '布里斯班', '可伦宾', '拜伦湾', '天宝林山', '翠儿河', '摩顿', '海豚岛', '大堡礁', '危险角', '热带水果']): return '黄金海岸&布里斯班'
+        if any(k in s for k in ['凯恩斯', '大堡礁', '白天堂', '绿岛', '道格拉斯港', '棕榈湾', '阿瑟顿', '热带雨林', '游船', '蜕变号', '大冒险号', '银梭', '太阳恋人', '梦幻丽礁']): return '凯恩斯（大堡礁）'
+        if any(k in s for k in ['西澳', '珀斯', '粉红湖', '尖峰石阵', '玛格利特', '波浪岩', '天鹅河', '罗特尼斯', '巴内']): return '西澳/珀斯'
+        if any(k in s for k in ['乌鲁鲁', '帝王谷', '卡塔丘塔', '红土', '原野星光', '寂静之声', '艾尔斯']): return '乌鲁鲁/北领地'
+        if any(k in s for k in ['塔斯马', '亚瑟港', '酒杯湾', '霍巴特', '里奇蒙', '费尔德山', '玛丽亚岛', '塔斯曼', '布鲁尼']): return '塔斯马尼亚'
+        if any(k in s for k in ['阿德莱德', '袋鼠岛', '巴罗莎', '菲尔半岛', '穆理河', '红酒之乡', '阿德雷德']): return '阿德莱德/南澳'
+        if any(k in s for k in ['堪培拉', '雪山', '滑雪', '雪梨', '新州']): return '悉尼及周边'
+        if any(k in s for k in ['玛格丽特', '葡萄酒', '天鹅', '罗特尼', '巴内']): return '西澳/珀斯'
+        if any(k in s for k in ['仙人掌', '天堂农庄', '电影世界', '梦幻世界', '华纳']): return '黄金海岸&布里斯班'
+        if any(k in s for k in ['卡米拉', '帆船', '游艇']): return '凯恩斯（大堡礁）'
         return '澳洲其他'
     if dk == 'asia':
         if '日本' in s or '东京' in s or '大阪' in s or '北海道' in s or '富士' in s or 'JP' in s.upper(): return '日本'
