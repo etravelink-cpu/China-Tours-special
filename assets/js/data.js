@@ -20283,13 +20283,7 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [
-   {
-    "supplier": "SUP-FUNT",
-    "file": "SGJN1226AABAAaud.pdf",
-    "url": "/assets/suppliers/SUP-FUNT/SGJN1226AABAAaud.pdf"
-   }
-  ],
+  "brochures": [],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -20340,13 +20334,7 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [
-   {
-    "supplier": "SUP-FUNT",
-    "file": "SGJN1226AABAAaud.pdf",
-    "url": "/assets/suppliers/SUP-FUNT/SGJN1226AABAAaud.pdf"
-   }
-  ],
+  "brochures": [],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -20397,13 +20385,7 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [
-   {
-    "supplier": "SUP-FUNT",
-    "file": "SGJN1226AABAAaud.pdf",
-    "url": "/assets/suppliers/SUP-FUNT/SGJN1226AABAAaud.pdf"
-   }
-  ],
+  "brochures": [],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -34699,6 +34681,67 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "NOVA-OOL5D4N_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/NOVA-OOL5D4N_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "FUNT-FTJN7+INCNS6",
+  "nameZh": "2026 跨越2500公里光影诗篇 江南宁夏12天",
+  "nameEn": "2026 跨越2500公里光影诗篇 江南宁夏12天",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
+  "category": "超值特价",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
+  "price": "A$798",
+  "priceEn": "A$798",
+  "days": 12,
+  "tags": [
+   "超值特价"
+  ],
+  "tagsEn": [
+   "超值特价"
+  ],
+  "img": "assets/img/destinations/china.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [
+   {
+    "date": "2026-11-03",
+    "status": "available"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "上海",
+    "adult": 798.0,
+    "childbed": 0.0,
+    "childnobed": 0.0,
+    "infant": 0.0,
+    "single": 0.0,
+    "transfer": 0.0,
+    "tip": 0.0,
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-FUNT",
+    "file": "FTJN7INCNS6aud.pdf",
+    "url": "/assets/suppliers/SUP-FUNT/FTJN7INCNS6aud.pdf"
    }
   ],
   "itinerary": [],
