@@ -154,6 +154,20 @@
     const catKeys = CAT_ORDER.filter((k) => k in cats).concat(Object.keys(cats).filter((k) => !CAT_ORDER.includes(k)));
     catKeys.forEach((c) => {
       const subs = cats[c];
+      // 机票套餐类目: 直接全部平铺(不按地区子类分组)
+      if (c === "机票套餐") {
+        const allItems = [];
+        Object.values(subs).forEach((arr) => arr.forEach((t) => allItems.push(t)));
+        allItems.sort((a, b) => (a.days || 0) - (b.days || 0));
+        const flatHtml = allItems
+          .map(
+            (t) =>
+              `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`,
+          )
+          .join("");
+        catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${flatHtml}</div></div>`;
+        return;
+      }
       const order = subOrder(activeDest);
       const subKeys = order
         ? order.filter((k) => k in subs).concat(Object.keys(subs).filter((k) => !order.includes(k)))
