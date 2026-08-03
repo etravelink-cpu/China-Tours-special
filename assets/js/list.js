@@ -29,14 +29,24 @@
   // 构建树数据(仅按当前目的地)
   function buildTree() {
     const tree = {}; // destZh -> cat -> sub -> [tours]
-    T.forEach((t) => {
-      const d = t.destZh || t.dest || "其他";
+    const put = (d, t) => {
       const c = catShort(t.category);
       const s = t.subRegion || "其他";
       tree[d] = tree[d] || {};
       tree[d][c] = tree[d][c] || {};
       tree[d][c][s] = tree[d][c][s] || [];
       tree[d][c][s].push(t);
+    };
+    T.forEach((t) => {
+      const d = t.destZh || t.dest || "其他";
+      // 海岛合并进亚洲(用户要求); 邮轮/特别订制从"其他"桶拆分
+      if (t.dest === "island") { put("亚洲", t); return; }
+      if (t.dest === "other") {
+        const nm = t.nameZh || "";
+        if (/邮轮|游轮/.test(nm)) { put("邮轮", t); return; }
+        put("特别订制", t); return;
+      }
+      put(d, t);
     });
     return tree;
   }
@@ -210,7 +220,7 @@
     const q = new URLSearchParams(location.search).get("d");
     const tree = buildTree();
     // ?d= 支持英文键(australia)或中文(澳洲); 默认中国
-    const DEST_KEY_ZH = { australia: "澳洲", nz: "新西兰", china: "中国", asia: "亚洲", europe: "欧洲", america: "美加", special: "其他", cruise: "邮轮", other: "其他" };
+    const DEST_KEY_ZH = { australia: "澳洲", nz: "新西兰", china: "中国", asia: "亚洲", europe: "欧洲", america: "美加", special: "特别订制", cruise: "邮轮", other: "其他", island: "亚洲" };
     const activeDest = (q && tree[q]) ? q : (DEST_KEY_ZH[q] && tree[DEST_KEY_ZH[q]]) ? DEST_KEY_ZH[q] : (tree["中国"] ? "中国" : Object.keys(tree)[0]);
     // 标题直接显示目的地(不走 i18n 以免被覆盖)
     const titleEl = document.getElementById("hot-title");
