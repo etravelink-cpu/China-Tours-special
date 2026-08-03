@@ -263,9 +263,9 @@
         "<tr><td>" + esc(p.city || "") + "</td><td>" + cell(p.adult) + "</td><td>" + cell(p.childbed) + "</td><td>" + cell(p.childnobed) + "</td><td>" + cell(p.infant) + "</td><td>" + cell(p.single) + "</td><td>" + cell(p.service) + "</td><td>" + cell(p.tip) + "</td><td>" + cell(p.transfer) + "</td></tr>" +
         "</tbody></table><p style='margin-top:8px;font-size:12px;color:#8a97a6'>备注：部分行程设有淡旺季价格，请以产品彩页所列适用日期及价格为准。</p>";
     }
-    // 出发日历(仅澳新): 可视化月历, 出发日高亮
+    // 出发日历(有班期即显示): 可视化月历, 出发日高亮
     let depHtml = "";
-    if ((t.dest === "australia" || t.dest === "nz") && (t.departureDates || []).length) {
+    if ((t.departureDates || []).length) {
       depHtml =
         "<div class='rp-sec'><h4>出发日历</h4>" +
         "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（出发日已高亮，库存随时变化，下单前请二次确认）</p>" +
@@ -340,7 +340,7 @@
       });
     });
     // 渲染出发日历(月历网格 + 出发日高亮)
-    if ((t.dest === "australia" || t.dest === "nz") && (t.departureDates || []).length) {
+    if ((t.departureDates || []).length) {
       const calBox = box.querySelector("#rp-cal-" + CSS.escape(t.id));
       if (calBox && window.EtripsCalendar) {
         window.EtripsCalendar.render(calBox, t.departureDates, { restrict: true });

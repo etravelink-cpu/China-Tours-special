@@ -80,7 +80,6 @@
   function renderDeparture(t){
     const box = document.getElementById('detail-dep');
     if(!box) return;
-    if(!(t.dest==='australia'||t.dest==='nz')){ box.style.display='none'; return; }
     const ds = t.departureDates||[];
     if(!ds.length){ box.style.display='none'; return; }
     box.style.display='';
