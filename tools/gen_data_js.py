@@ -25,6 +25,8 @@ JS = os.path.join(HERE, "..", "assets", "js", "data.js")
 
 DEST_KEY = {'中国':'china','亚洲':'asia','澳洲':'australia','新西兰':'nz','欧洲':'europe',
             '美加':'america','特别':'special','海岛':'island','其他':'other','邮轮':'cruise'}
+DK_ZH = {'china':'中国','asia':'亚洲','australia':'澳洲','nz':'新西兰','europe':'欧洲',
+         'america':'美加','special':'特别','island':'海岛','other':'其他','cruise':'邮轮'}
 IMG_POOL = {'china':['china.jpg','cn-westlake.jpg','cn-greatwall.jpg'],
             'asia':['asia.jpg','japan.jpg','bali.jpg'],
             'australia':['hero-sydney.jpg','au-sydney.jpg','au-uluru.jpg'],
@@ -151,9 +153,9 @@ def derive_subregion(name, dk, category):
         if '斐济' in s: return '斐济'
         return '海岛其他'
     if dk == 'nz':
-        if '南岛' in s and '北岛' not in s: return '南岛'
-        if '南北岛' in s or ('南岛' in s and '北岛' in s): return '南北岛'
-        if '北岛' in s: return '北岛'
+        if '南北岛' in s or ('南岛' in s and '北岛' in s): return '南北岛连线'
+        if '北岛' in s and '南岛' not in s: return '新西兰北岛'
+        if '南岛' in s: return '新西兰南岛'
         return '新西兰其他'
     if dk == 'other':
         if '签证' in s: return '签证'
@@ -169,6 +171,9 @@ def derive_subregion(name, dk, category):
 tours = []
 for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, notice, ad) in rows:
     dk = DEST_KEY.get(wc1, 'other')
+    # 内容层修正: 名称含"新西兰"但 Web_Category1 误标为澳洲的产品, 归回新西兰树(不改 DB, 可逆)
+    if '新西兰' in (name or ''):
+        dk = 'nz'
     img = 'assets/img/destinations/' + IMG_POOL.get(dk, ['other.jpg'])[0]
     price = ('A$%d' % int(ad)) if ad and int(ad) > 0 else '待确认'
     cat_zh = CAT_ZH.get(cat, cat or '')
@@ -213,7 +218,7 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         "nameZh": name or '',
         "nameEn": name or '',   # 占位: 暂无英文, 后续补
         "dest": dk,
-        "destZh": wc1 or '',
+        "destZh": DK_ZH.get(dk, wc1 or ''),
         "destEn": dk,
         "category": category,
         "subRegion": subRegion,
