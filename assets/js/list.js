@@ -325,8 +325,7 @@
       "<div class='rp-tab-panel' data-tab='itinerary'>" + itinHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='cost'>" + costHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='notes'>" + noticeHtml + "</div>" +
-      "<div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div>" +
-      "<div style='padding:18px 24px'><a href='detail.html?id=" + encodeURIComponent(t.id) + "' class='btn btn-primary' style='width:100%;text-align:center'>查看完整详情页</a></div>";
+      "<div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div>";
 
     box.querySelectorAll(".rp-tab").forEach((tab) => {
       tab.addEventListener("click", () => {
