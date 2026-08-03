@@ -185,7 +185,6 @@ window.I18N = {
     "enquiry.card.desc":
       "告诉我们出发城市、想去的地方与同行人数。我们会由真实顾问为你整理合适的建议。",
     "enquiry.card.l1": "联系顾问 →",
-    "enquiry.card.l2": "查看团期与价格 →",
 
     "home.biz.au": "澳洲境内旅行",
     "home.biz.nz": "新西兰南北岛",
@@ -232,7 +231,6 @@ window.I18N = {
     "custom.title": "定制游需求",
     "custom.budget": "预算",
     "custom.pref": "出行偏好",
-    "dep.title": "团期价格查询",
     "faq.title": "常见问题",
     "about.title": "关于我们",
     "contact.title": "联系我们",
@@ -430,7 +428,6 @@ window.I18N = {
     "enquiry.card.desc":
       "Tell us your departure city, destinations and group size. A real advisor will put together the right suggestions.",
     "enquiry.card.l1": "Talk to an advisor →",
-    "enquiry.card.l2": "Departures & pricing →",
 
     "home.biz.au": "Australia Tours",
     "home.biz.nz": "New Zealand",
@@ -481,7 +478,6 @@ window.I18N = {
     "custom.title": "Custom Tour Request",
     "custom.budget": "Budget",
     "custom.pref": "Travel Preferences",
-    "dep.title": "Departure Date & Pricing",
     "faq.title": "Frequently Asked Questions",
     "about.title": "About Us",
     "contact.title": "Contact Us",
