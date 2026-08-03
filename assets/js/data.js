@@ -289,7 +289,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0003",
@@ -813,7 +813,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0004",
@@ -1445,7 +1445,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0006",
@@ -1553,7 +1553,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0007",
@@ -1661,7 +1661,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0008",
@@ -1769,7 +1769,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0010",
@@ -1877,7 +1877,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0011",
@@ -20400,7 +20400,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "Nova-SYDCNSOOL",

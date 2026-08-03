@@ -1,261 +1,409 @@
-// Etrips 国安易游 — List page (左 list 地区分类树 + 右 detail 内联产品详情)
-// 树结构: 地区(destZh) -> 类目(category 短名=tags[0]) -> 子区域(subRegion) -> 产品
-// 右 detail 形态与后台产品预览页一致(hero+标签+标题+meta+产品介绍+ tabs)
+// Etrips 国安易游 — List page (filters + grid)
 (function () {
   const T = window.TOURS,
     I = window.I18N;
   let lang = "zh";
 
-  // 地区顺序(与导航/原型一致)
-  const DEST_ORDER = ["中国", "澳洲", "亚洲", "欧洲", "美加", "海岛", "新西兰", "其他"];
-  // 类目短名映射(后台 Product_Category 全名 -> 树显示短名)
-  // 前台统一 3 类: 超值特价 / 纯玩无购物 / 机票套餐
-  const CAT_SHORT = {
-    "超值特惠团": "超值特价",
-    "超值精品": "超值特价",
-    "纯玩无购物团": "纯玩无购物",
-    "含机票特别订制团": "机票套餐",
-    "签证·其他": "签证",
-    "": "其他",
-  };
-  function catShort(c) {
-    return CAT_SHORT[c] || c || "其他";
-  }
-
-  function esc(s) {
-    return String(s == null ? "" : s).replace(/[&<>"]/g, (c) =>
-      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])
-    );
-  }
-
-  // 构建树数据
-  function buildTree() {
-    const tree = {}; // destZh -> cat -> sub -> [tours]
-    T.forEach((t) => {
-      const d = t.destZh || t.dest || "其他";
-      const c = catShort(t.category);
-      const s = t.subRegion || "其他";
-      tree[d] = tree[d] || {};
-      tree[d][c] = tree[d][c] || {};
-      tree[d][c][s] = tree[d][c][s] || [];
-      tree[d][c][s].push(t);
-    });
-    return tree;
-  }
-
-  // 渲染左栏树
-  function renderTree(tree, activeId) {
-    const nav = document.getElementById("list-tree");
-    const dests = DEST_ORDER.filter((d) => tree[d]).concat(
-      Object.keys(tree).filter((d) => !DEST_ORDER.includes(d)),
-    );
-    let html = "";
-    dests.forEach((d) => {
-      const cats = tree[d];
-      let catHtml = "";
-      Object.keys(cats).forEach((c) => {
-        const subs = cats[c];
-        let subHtml = "";
-        Object.keys(subs).forEach((s) => {
-          const items = subs[s];
-          let itemHtml = items
-            .map(
-              (t) =>
-                `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`,
-            )
-            .join("");
-          subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${itemHtml}</div></div>`;
-        });
-        catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${subHtml}</div></div>`;
-      });
-      html += `<div class="rp-group rp-dest"><div class="rp-group-title" tabindex="0" role="button">${esc(d)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${catHtml}</div></div>`;
-    });
-    nav.innerHTML = html;
-    // 默认展开第一个地区 + 其第一个类目
-    const firstDest = nav.querySelector(".rp-dest");
-    if (firstDest) {
-      firstDest.classList.add("open");
-      const ar = firstDest.querySelector(":scope > .rp-group-title .rp-arrow");
-      if (ar) ar.textContent = "▼";
-      const firstCat = firstDest.querySelector(".rp-cat");
-      if (firstCat) {
-        firstCat.classList.add("open");
-        const ar2 = firstCat.querySelector(":scope > .rp-group-title .rp-arrow");
-        if (ar2) ar2.textContent = "▼";
-      }
+  function match(t) {
+    const d = document.getElementById("f-days").value;
+    const m = document.getElementById("f-month").value;
+    const b = document.getElementById("f-budget").value;
+    if (d) {
+      if (d === "s" && !(t.days <= 7)) return false;
+      if (d === "m" && !(t.days >= 8 && t.days <= 10)) return false;
+      if (d === "l" && !(t.days >= 11)) return false;
     }
-    // 绑定展开/收起
-    nav.querySelectorAll(".rp-group-title").forEach((ti) => {
-      ti.addEventListener("click", () => {
-        const g = ti.closest(".rp-group");
-        const open = g.classList.toggle("open");
-        const ar = ti.querySelector(".rp-arrow");
-        if (ar) ar.textContent = open ? "▼" : "▶";
-      });
-      ti.addEventListener("keydown", (e) => {
-        if (e.key === "Enter" || e.key === " ") {
-          e.preventDefault();
-          ti.click();
-        }
-      });
-    });
-    // 绑定产品点击 -> 右侧内联渲染
-    nav.querySelectorAll(".rp-route").forEach((r) => {
-      r.addEventListener("click", () => {
-        const id = r.dataset.tour;
-        nav.querySelectorAll(".rp-route.active").forEach((x) => x.classList.remove("active"));
-        r.classList.add("active");
-        renderDetail(id);
-        if (window.innerWidth <= 820) {
-          document.getElementById("list-detail").scrollIntoView({ behavior: "smooth", block: "start" });
-        }
-      });
-      r.addEventListener("keydown", (e) => {
-        if (e.key === "Enter" || e.key === " ") {
-          e.preventDefault();
-          r.click();
-        }
-      });
-    });
-  }
-
-  // 右 detail: 与后台预览页一致
-  function renderDetail(id) {
-    const t = T.find((x) => x.id === id);
-    const box = document.getElementById("list-detail");
-    if (!t) {
-      box.innerHTML = '<div class="rp-coming-box">未找到该产品</div>';
-      return;
-    }
-    const heroImg = t.img || "assets/img/destinations/other.jpg";
-    const tags = (lang === "zh" ? t.tags : t.tagsEn).filter(Boolean);
-    const price = lang === "zh" ? t.price : t.priceEn;
-    const rows = t.priceTable || [];
-    const days = t.days || 0;
-    // 价格表首行
-    let priceHtml = '<p class="muted">无出发班期</p>';
-    if (rows.length) {
-      const p = rows[0];
-      const cell = (v) => (v === "" || v == null ? "—" : "A$" + v);
-      priceHtml =
-        '<table class="pt rp-pricetable"><thead><tr><th>城市</th><th>成人</th><th>儿童占床</th><th>儿童不占床</th><th>婴儿</th><th>单房差</th><th>综合服务费</th><th>小费预付</th><th>额外接送机</th></tr></thead><tbody>' +
-        '<tr><td>' + esc(p.city || "") + "</td><td>" + cell(p.adult) + "</td><td>" + cell(p.childbed) + "</td><td>" + cell(p.childnobed) + "</td><td>" + cell(p.infant) + "</td><td>" + cell(p.single) + "</td><td>" + cell(p.service) + "</td><td>" + cell(p.tip) + "</td><td>" + cell(p.transfer) + "</td></tr>" +
-        "</tbody></table><p style='margin-top:8px;font-size:12px;color:#8a97a6'>备注：部分行程设有淡旺季价格，请以产品彩页所列适用日期及价格为准。</p>";
-    }
-    // 出发日历(仅澳新)
-    let depHtml = "";
-    if ((t.dest === "australia" || t.dest === "nz") && (t.departureDates || []).length) {
-      const ds = t.departureDates;
-      const groups = {};
-      ds.forEach((d) => {
-        const ym = d.date.slice(0, 7);
-        (groups[ym] = groups[ym] || []).push(d);
-      });
-      const parts = Object.keys(groups).sort().map((ym) => {
-        const m = parseInt(ym.split("-")[1], 10);
-        const items = groups[ym]
-          .map((d) => {
-            const day = d.date.slice(8, 10) + "日";
-            if (d.status === "soldout") return day + "（售罄）";
-            if (d.status === "limited") return day + "（余位紧张）";
-            if (d.status === "open") return day + "（报名中）";
-            return day;
-          })
-          .join("、");
-        return "<div style='margin:4px 0'><b>" + m + "月：</b>" + items + "</div>";
-      }).join("");
-      depHtml =
-        "<div class='rp-sec'><h4>出发日历</h4><p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（库存随时变化，下单前请二次确认）</p>" + parts + "</div>";
-    }
-    // 行程
-    const itin = (t.itinerary || [])
-      .map(
-        (d) =>
-          "<div class='rp-timeline'><div class='rp-time'>" + esc(d.d) + " " + esc(lang === "zh" ? d.titleZh : d.titleEn) + "</div><div>" + esc(lang === "zh" ? d.descZh : d.descEn).replace(/\n/g, "<br>") + "</div></div>",
-      )
-      .join("");
-    const itinHtml = itin
-      ? "<div class='rp-sec'><h4>行程安排</h4>" + itin + "</div>"
-      : "";
-    // 费用说明
-    const inc = (t.includes || []).filter(Boolean);
-    const costHtml = inc.length
-      ? "<div class='rp-sec'><h4>费用说明</h4><ul class='includes'>" + inc.map((x) => "<li>" + esc(x) + "</li>").join("") + "</ul></div>"
-      : "";
-    // 参团须知
-    const notice = (t.participationNotice || "").trim();
-    const noticeHtml = notice
-      ? "<div class='rp-sec'><h4>参团须知</h4><p class='muted' style='white-space:pre-wrap;line-height:1.85'>" + esc(notice) + "</p></div>"
-      : "";
-    // 彩页
-    const bro = (t.brochures || []).filter(Boolean);
-    const broHtml = bro.length
-      ? "<div class='rp-sec'><h4>彩页下载</h4><ul class='includes'>" + bro.map((b) => "<li><a href='" + esc(b.url) + "' target='_blank' rel='noopener'>" + esc(b.file) + "</a></li>").join("") + "</ul></div>"
-      : "";
-
-    box.innerHTML =
-      "<div class='rp-detail-hero' style=\"background-image:url('" + esc(heroImg) + "')\"><div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
-      "<div class='rp-meta'><span>" + esc(t.destZh || t.dest) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div></div></div>" +
-      "<div class='rp-detail-cta'><a href='booking.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-gold'>预约占位</a><a href='contact.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-primary'>在线咨询</a></div>" +
-      "<div class='rp-tabs'>" +
-      "<div class='rp-tab active' data-tab='price'>日期和价格</div>" +
-      "<div class='rp-tab' data-tab='itinerary'>行程安排</div>" +
-      "<div class='rp-tab' data-tab='cost'>费用说明</div>" +
-      "<div class='rp-tab' data-tab='notes'>参团须知</div>" +
-      "<div class='rp-tab' data-tab='brochure'>彩页下载</div>" +
-      "</div>" +
-      "<div class='rp-tab-panel active' data-tab='price'><div class='rp-summary'><div><b>行程天数</b>" + days + " 天</div>" + (price && price !== "待确认" ? "<div><b>起价</b>" + esc(price) + "</div>" : "") + "</div>" + priceHtml + depHtml + "</div>" +
-      "<div class='rp-tab-panel' data-tab='itinerary'>" + itinHtml + "</div>" +
-      "<div class='rp-tab-panel' data-tab='cost'>" + costHtml + "</div>" +
-      "<div class='rp-tab-panel' data-tab='notes'>" + noticeHtml + "</div>" +
-      "<div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div>" +
-      "<div style='padding:18px 24px'><a href='detail.html?id=" + encodeURIComponent(t.id) + "' class='btn btn-primary' style='width:100%;text-align:center'>查看完整详情页</a></div>";
-
-    // tab 切换
-    box.querySelectorAll(".rp-tab").forEach((tab) => {
-      tab.addEventListener("click", () => {
-        const tid = tab.dataset.tab;
-        box.querySelectorAll(".rp-tab").forEach((x) => x.classList.toggle("active", x === tab));
-        box.querySelectorAll(".rp-tab-panel").forEach((x) => x.classList.toggle("active", x.dataset.tab === tid));
-      });
-    });
-    box.scrollTop = 0;
+    if (m && t.monthEn !== "Year-round" && m === "summer" && t.month !== "夏季")
+      return false;
+    if (b && t.budget !== b) return false;
+    return true;
   }
 
   function render() {
     lang = window.Etrips.getLang();
     const q = new URLSearchParams(location.search).get("d");
-    const tree = buildTree();
-    // 默认选中: ?d= 对应地区第一个产品, 否则中国第一个产品
-    let activeId = null;
-    const destList = Object.keys(tree);
-    const targetDest = q && tree[q] ? q : (tree["中国"] ? "中国" : destList[0]);
-    if (targetDest && tree[targetDest]) {
-      const cats = Object.keys(tree[targetDest]);
-      outer: for (const c of cats) {
-        for (const s of Object.keys(tree[targetDest][c])) {
-          if (tree[targetDest][c][s].length) {
-            activeId = tree[targetDest][c][s][0].id;
-            break outer;
+    const qt = new URLSearchParams(location.search).get("type");
+    const grid = document.getElementById("list-grid");
+    let list = T.filter(match);
+    if (q) list = list.filter((t) => t.dest === q);
+    if (qt) list = list.filter((t) => t.type === decodeURIComponent(qt));
+    if (!list.length) {
+      grid.innerHTML = '<p class="muted">暂无符合条件的线路。</p>';
+    } else {
+      grid.innerHTML = list.map((t) => window.tourCard(t, lang)).join("");
+    }
+    // 目的地分区行程规划（统一格式，按 ?d= 取用）
+    const rp = document.getElementById("region-plan");
+    const hasPlan = !!(window.REGION_PLANS && q && window.REGION_PLANS[q]);
+    if (rp) {
+      // region-plans.js 已拆为各 region 小文件, 但 china 单文件仍较大;
+      // 浏览器可能在其完整执行前触发 load, 导致初次 window.REGION_PLANS[q]
+      // 不完整。这里延迟注入, 并比较源变量与已注入DOM长度, 源更长则下一帧重注入。
+      let _tries = 0;
+      const _apply = () => {
+        rp.innerHTML = hasPlan ? window.REGION_PLANS[q] : "";
+        rp.hidden = !hasPlan;
+        if (!hasPlan) document.documentElement.classList.remove("has-region");
+        const _src = hasPlan ? window.REGION_PLANS[q] : "";
+        if (_src.length > rp.innerHTML.length + 1000 && _tries < 80) {
+          _tries++;
+          setTimeout(_apply, 200);
+        }
+      };
+      setTimeout(_apply, 300);
+      // 初始默认激活第一条路线（否则右侧详情区全空，用户看到空白）
+      setTimeout(() => {
+        const firstRoute = rp.querySelector(".rp-route");
+        if (firstRoute && !rp.querySelector(".rp-route.active")) {
+          activateRoute(firstRoute.dataset.route);
+        }
+      }, 350);
+      // 在每个路线详情卡 hero 区显示 大人/儿童/婴儿 三项价
+      rp.querySelectorAll(".rp-route-pane").forEach((p) => {
+        const pa = parseFloat(p.getAttribute("data-p-adult")) || 0;
+        const pc = parseFloat(p.getAttribute("data-p-child")) || 0;
+        const pi = parseFloat(p.getAttribute("data-p-infant")) || 0;
+        const hero = p.querySelector(".rp-detail-hero-in");
+        if (!hero) return;
+        const fmt = (v) =>
+          v > 0 ? "A$ " + v : window.I18N[window.Etrips.getLang()]["label.tbc"];
+        let box = hero.querySelector(".rp-price-row");
+        if (!box) {
+          box = document.createElement("div");
+          box.className = "rp-price-row";
+          hero.appendChild(box);
+        }
+        box.innerHTML =
+          '<span class="rp-price-item"><b>' +
+          window.I18N[window.Etrips.getLang()]["label.adult"] +
+          "</b> " +
+          fmt(pa) +
+          "</span>" +
+          '<span class="rp-price-item"><b>' +
+          window.I18N[window.Etrips.getLang()]["label.child"] +
+          "</b> " +
+          fmt(pc) +
+          "</span>" +
+          '<span class="rp-price-item"><b>' +
+          window.I18N[window.Etrips.getLang()]["label.infant"] +
+          "</b> " +
+          fmt(pi) +
+          "</span>";
+      });
+      // Excel 行程列未填时，生成数据带草稿占位串（“请在此处粘贴/第N天：待补充”）
+      // → 渲染时换成客户可读提示；生成文件本身不动
+      rp.querySelectorAll(".rp-tab-panel pre").forEach((pre) => {
+        const t = pre.textContent;
+        if (
+          t.indexOf("请在此处粘贴") !== -1 ||
+          t.indexOf("待补充（景点/用餐/住宿）") !== -1
+        ) {
+          const d = document.createElement("p");
+          d.className = "rp-draft-note";
+          d.textContent = window.I18N[window.Etrips.getLang()]["rp.draft"];
+          pre.replaceWith(d);
+        }
+      });
+      // 子页新布局 v2：2级分组导航 + 路线详情卡（.rp-nav2）
+      const nav2 = rp.querySelector(".rp-nav2");
+      if (nav2) {
+        const groups = nav2.querySelectorAll(".rp-group");
+        groups.forEach((g) => {
+          const title = g.querySelector(".rp-group-title");
+          const arrow = g.querySelector(".rp-arrow");
+          title.addEventListener("click", () => {
+            const open = g.classList.toggle("open");
+            title.setAttribute("aria-expanded", open ? "true" : "false");
+            if (arrow) arrow.textContent = open ? "▼" : "▶";
+          });
+        });
+        const routes = nav2.querySelectorAll(".rp-route");
+        const panes = rp.querySelectorAll(".rp-route-pane");
+        let userNavigated = false;
+        const activateRoute = (rid) => {
+          routes.forEach((r) =>
+            r.classList.toggle("active", r.dataset.route === rid),
+          );
+          panes.forEach((p) =>
+            p.classList.toggle("active", p.dataset.route === rid),
+          );
+          // 确保选中路线所在分组展开（默认折叠的区域也能看到当前选中）
+          const act = rp.querySelector('.rp-route[data-route="' + rid + '"]');
+          const grp = act && act.closest(".rp-group");
+          if (grp && !grp.classList.contains("open")) {
+            grp.classList.add("open");
+            const ar = grp.querySelector(".rp-arrow");
+            if (ar) ar.textContent = "▼";
+          }
+          if (userNavigated && window.innerWidth <= 760) {
+            const da = rp.querySelector(".rp-detail-area");
+            if (da) da.scrollIntoView({ behavior: "smooth", block: "start" });
+          }
+          updateRouteBar();
+        };
+        // 键盘可达性：生成的 div 侧栏/标签补 tabindex+role+键盘激活
+        rp.querySelectorAll(".rp-route, .rp-group-title, .rp-tab").forEach(
+          (el) => {
+            el.setAttribute("tabindex", "0");
+            el.setAttribute("role", "button");
+            el.addEventListener("keydown", (ev) => {
+              if (ev.key === "Enter" || ev.key === " ") {
+                ev.preventDefault();
+                el.click();
+              }
+            });
+          },
+        );
+        rp.querySelectorAll(".rp-group").forEach((g) => {
+          const ti = g.querySelector(".rp-group-title");
+          if (ti)
+            ti.setAttribute(
+              "aria-expanded",
+              g.classList.contains("open") ? "true" : "false",
+            );
+        });
+        rp.querySelectorAll(".rp-date-select").forEach((sel) =>
+          sel.setAttribute(
+            "aria-label",
+            "选择出发日期 / Select departure date",
+          ),
+        );
+        // 底部吸附预订条（Jacada 模式）：当前路线名 + 起价 + 立即预订
+        let bar = document.getElementById("route-bar");
+        if (!bar) {
+          bar = document.createElement("div");
+          bar.id = "route-bar";
+          bar.className = "route-bar";
+          bar.innerHTML =
+            '<div class="container"><div class="route-bar-name"></div>' +
+            '<div class="route-bar-price"></div>' +
+            '<button type="button" class="btn btn-gold">' +
+            window.I18N[window.Etrips.getLang()]["bar.book"] +
+            "</button></div>";
+          document.body.appendChild(bar);
+          bar.querySelector(".btn").onclick = function () {
+            const pane = bar.__pane;
+            if (pane) {
+              window.goBook({ closest: () => pane });
+            } else location.href = "booking.html";
+          };
+        }
+        function updateRouteBar() {
+          const p = rp.querySelector(".rp-route-pane.active");
+          if (!p) {
+            bar.classList.remove("on");
+            return;
+          }
+          bar.__pane = p;
+          const h = p.querySelector(".rp-detail-hero-in h3");
+          const pa = parseFloat(p.getAttribute("data-p-adult")) || 0;
+          bar.querySelector(".route-bar-name").textContent = h
+            ? h.textContent
+            : "";
+          const L = window.I18N[window.Etrips.getLang()];
+          bar.querySelector(".route-bar-price").textContent =
+            pa > 0 ? "A$ " + pa + " " + L["label.from"] : L["bar.price.tbc"];
+          bar.querySelector(".btn").textContent = L["bar.book"];
+          bar.classList.add("on");
+        }
+        routes.forEach((r) =>
+          r.addEventListener("click", () => {
+            userNavigated = true;
+            const grp = r.closest(".rp-group");
+            if (grp && !grp.classList.contains("open")) {
+              grp.classList.add("open");
+              const ar = grp.querySelector(".rp-arrow");
+              if (ar) ar.textContent = "▼";
+            }
+            activateRoute(r.dataset.route);
+          }),
+        );
+        // 详情卡内 tab 切换（借鉴 echinatours 产品页 tab 布局）
+        panes.forEach((p) => {
+          const tabs = p.querySelectorAll(".rp-tab");
+          tabs.forEach((t) =>
+            t.addEventListener("click", () => {
+              const tid = t.dataset.tab;
+              p.querySelectorAll(".rp-tab").forEach((x) =>
+                x.classList.toggle("active", x === t),
+              );
+              p.querySelectorAll(".rp-tab-panel").forEach((x) =>
+                x.classList.toggle("active", x.dataset.tab === tid),
+              );
+            }),
+          );
+          const ft = p.querySelector(".rp-tab");
+          if (ft) ft.click();
+        });
+        // 默认激活第一条“内容完整”的路线（跳过占位 pane，避免着陆即见草稿）
+        const isStub = (rid) => {
+          const p = rp.querySelector(
+            '.rp-route-pane[data-route="' + rid + '"]',
+          );
+          if (!p) return true;
+          const txt = p.textContent;
+          return (
+            txt.indexOf("请在此处粘贴") !== -1 ||
+            txt.indexOf("详情稍后更新") !== -1
+          );
+        };
+        let first = null;
+        for (const r of routes) {
+          if (!isStub(r.dataset.route)) {
+            first = r;
+            break;
           }
         }
+        if (!first) first = routes[0];
+        if (first) activateRoute(first.dataset.route);
+      } else {
+        // 子页旧布局：分区 tab → 面板（.rp-nav / .rp-panel）
+        const nav = rp.querySelector(".rp-nav");
+        if (nav) {
+          const btns = nav.querySelectorAll("button[data-rp]");
+          const panels = rp.querySelectorAll(".rp-panel[data-rp]");
+          const activate = (idx) => {
+            btns.forEach((b) =>
+              b.classList.toggle("active", b.dataset.rp === idx),
+            );
+            panels.forEach((p) =>
+              p.classList.toggle("active", p.dataset.rp === idx),
+            );
+          };
+          btns.forEach((b) =>
+            b.addEventListener("click", () => activate(b.dataset.rp)),
+          );
+          activate("0");
+        }
+      }
+      // 子页 Banner 轮播（仅 europe 等含 .rp-slides 的块）
+      const slides = rp.querySelectorAll(".rp-slide");
+      if (slides.length > 1) {
+        let si = 0;
+        setInterval(() => {
+          slides[si].classList.remove("active");
+          si = (si + 1) % slides.length;
+          slides[si].classList.add("active");
+        }, 4500);
       }
     }
-    renderTree(tree, activeId);
-    if (activeId) renderDetail(activeId);
+    // 子页模式：隐藏「最受欢迎线路」标题+推荐卡+筛选栏，仅留分区规划+FAQ
+    const subpage = !!q && hasPlan;
+    const hotTitle = document.getElementById("hot-title");
+    const listGrid = document.getElementById("list-grid");
+    const filterBar = document.getElementById("filter-bar");
+    if (hotTitle) hotTitle.hidden = subpage;
+    if (listGrid) listGrid.hidden = subpage;
+    if (filterBar) filterBar.hidden = subpage;
+    const backBtn = document.getElementById("back-btn");
+    if (backBtn) backBtn.hidden = !subpage;
+    // re-apply labels on cards after render (detail/btn)
     window.Etrips.applyLang({ emit: false });
   }
 
   ["f-days", "f-month", "f-budget"].forEach((id) => {
     document.addEventListener("DOMContentLoaded", () => {
-      const el = document.getElementById(id);
-      if (el) el.addEventListener("change", render);
+      document.getElementById(id).addEventListener("change", render);
     });
   });
 
-  document.addEventListener("DOMContentLoaded", render);
+  document.addEventListener("DOMContentLoaded", () => {
+    // preset destination filter from URL
+    render();
+  });
   window.addEventListener("langchange", render);
 
+  // 下载行程单：仅打印当前激活路线详情卡为带 logo 单页 PDF
+  window.printRoute = function (btn) {
+    const pane = btn.closest(".rp-route-pane");
+    if (!pane) return;
+    const title =
+      (pane.querySelector(".rp-detail-hero-in h3") || {}).textContent || "";
+    let ph = document.getElementById("print-header");
+    if (!ph) {
+      ph = document.createElement("div");
+      ph.id = "print-header";
+      document.body.appendChild(ph);
+    }
+    ph.innerHTML =
+      '<div class="ph-logo"><img src="assets/img/logo.png" alt="Etrips 国安易游"></div>' +
+      '<div class="ph-co"><div class="ph-name">Etrips 国安易游</div>' +
+      '<div class="ph-slogan">易行天下，奔赴山海</div></div>' +
+      '<div class="ph-title">' +
+      title +
+      "</div>" +
+      '<div class="ph-meta">电话 ' +
+      (window.CONTACT.hotline || "") +
+      (window.CONTACT.hotline2 ? " / " + window.CONTACT.hotline2 : "") +
+      " · 邮箱 " +
+      (window.CONTACT.email || "") +
+      " · 微信 " +
+      (window.CONTACT.wechat || "") +
+      (window.CONTACT.addressZh ? "<br>门店 " + window.CONTACT.addressZh : "") +
+      "</div>";
+    document.body.classList.add("printing-route");
+    const onAfter = () => {
+      document.body.classList.remove("printing-route");
+      window.removeEventListener("afterprint", onAfter);
+    };
+    window.addEventListener("afterprint", onAfter);
+    window.print();
+  };
+
+  // 路线详情：出发日期选择联动
+  window.onRouteDateChange = function (sel) {
+    const pane = sel.closest(".rp-route-pane");
+    const inp = pane.querySelector(".rp-date-input");
+    if (sel.value === "__custom__") {
+      if (!inp.getAttribute("min"))
+        inp.setAttribute("min", new Date().toISOString().slice(0, 10));
+      inp.hidden = false;
+      setTimeout(() => inp.focus(), 50);
+    } else {
+      inp.hidden = true;
+      inp.value = "";
+    }
+  };
+
+  // 立即预订：带团名 + 出发日期跳 booking.html
+  window.goBook = function (btn) {
+    const pane = btn.closest(".rp-route-pane");
+    if (!pane) {
+      location.href = "booking.html";
+      return;
+    }
+    const title =
+      (pane.querySelector(".rp-detail-hero-in h3") || {}).textContent || "";
+    const sel = pane.querySelector(".rp-date-select");
+    const inp = pane.querySelector(".rp-date-input");
+    let date = sel ? sel.value : "";
+    if (date === "__custom__") date = inp && inp.value ? inp.value : "";
+    const params = new URLSearchParams();
+    params.set("route", title);
+    if (date) params.set("date", date);
+    location.href = "booking.html?" + params.toString();
+  };
+
+  // 在线咨询：带团名 + 出发日期跳 contact.html
+  window.goConsult = function (btn) {
+    const pane = btn.closest(".rp-route-pane");
+    if (!pane) {
+      location.href = "contact.html";
+      return;
+    }
+    const title =
+      (pane.querySelector(".rp-detail-hero-in h3") || {}).textContent || "";
+    const sel = pane.querySelector(".rp-date-select");
+    const inp = pane.querySelector(".rp-date-input");
+    let date = sel ? sel.value : "";
+    if (date === "__custom__") date = inp && inp.value ? inp.value : "";
+    const params = new URLSearchParams();
+    params.set("route", title);
+    if (date) params.set("date", date);
+    location.href = "contact.html?" + params.toString();
+  };
+
+  // 返回：固定回本站主页（避免从外链直进时 history.back 跳出本站）
   window.goBack = function () {
     location.href = "index.html";
   };
