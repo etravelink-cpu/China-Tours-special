@@ -713,7 +713,10 @@ main .container{position:relative;z-index:2}
 .contact-card-cyan .cc-qr-cap{font-size:11px;color:rgba(255,255,255,.95);margin:0;text-align:center}
 
 /* ---------- Detail page ---------- */
-.detail-hero{background:linear-gradient(150deg,#0E7DB8,#1793CC);color:#fff;padding:44px 0}
+.detail-hero{background:linear-gradient(150deg,#0E7DB8,#1793CC);background-size:cover;background-position:center;color:#fff;padding:44px 0;position:relative}
+.detail-hero.has-hero{background-color:#0E2A47}
+.detail-hero.has-hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,42,71,.35),rgba(14,42,71,.6));z-index:1}
+.detail-hero .container{position:relative;z-index:2}
 .detail-hero h1{font-family:var(--font-display);font-size:clamp(24px,3vw,34px);margin-bottom:10px;font-weight:700}
 .detail-tags{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 .detail-tags .tag{background:rgba(255,255,255,.2);color:#fff}
