@@ -34,6 +34,10 @@
     .bk-detail-body .rp-sec h4{font-size:15px;color:#222;margin:0 0 8px;padding-left:10px;border-left:3px solid #1B9FE0}
     .bk-detail-body .rp-sec p,.bk-detail-body .rp-sec li{color:#444;font-size:14px;line-height:1.7}
     .bk-detail-empty{color:#999;font-size:13px;text-align:center;padding:10px 0}
+    .bk-cal{margin-top:10px;display:flex;flex-wrap:wrap;gap:14px}
+    .bk-cal .cal{width:220px;flex:0 0 auto}
+    .bk-cal .cal-has{cursor:pointer}
+    .bk-cal .cal-cell.cal-sel{outline:3px solid #F09018;outline-offset:-3px}
     @media(max-width:760px){.bk-actions{flex-direction:column}}
   </style>
 </head>
@@ -55,7 +59,8 @@
           </div>
           <div class="bk-row">
             <label>出发日期 / Date<span class="req">*</span></label>
-            <input id="bk-date" class="bk-input" type="date">
+            <input id="bk-date" class="bk-input" type="text" placeholder="请选择出发日期" readonly>
+            <div id="bk-cal" class="bk-cal"></div>
           </div>
 
           <div class="bk-row">
@@ -114,7 +119,7 @@
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/data.js"></script>
   <script src="assets/js/region-plans.js"></script>
-  <script src="assets/js/site.js?v=20260803c"></script>
+  <script src="assets/js/site.js?v=20260803f"></script>
   <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
   <script>
     (function(){
@@ -129,8 +134,8 @@
       }
       if(product){ routeName = product.nameZh || product.nameEn || product.id; }
       if(routeName) document.getElementById('bk-route').value = routeName;
-      if(date) document.getElementById('bk-date').value = date;
       renderDetail(routeName, product);
+      initBkCal(product, date);
       if(typeof emailjs !== 'undefined'){ try{ emailjs.init('nZv17YnCO1xz5uLPZ'); }catch(e){} }
 
       function renderDetail(routeName, product){
@@ -173,6 +178,39 @@
         box.style.display = 'block';
       }
 
+      // 出发日期自定义日历: 澳新且有班期->可点月历高亮; 其他->恢复手填
+      function initBkCal(product, presetDate){
+        const cal = document.getElementById('bk-cal');
+        const bkDate = document.getElementById('bk-date');
+        if(!cal || !bkDate) return;
+        const ds = (product && product.departureDates) ? product.departureDates : [];
+        if(!ds.length){
+          // 无班期产品: 恢复手填, 不渲染自定义日历
+          bkDate.readOnly = false;
+          bkDate.placeholder = '请填写出发日期(如 2026-08-15)';
+          cal.style.display = 'none';
+          if(presetDate) bkDate.value = presetDate;
+          return;
+        }
+        cal.style.display = 'block';
+        if(presetDate) bkDate.value = presetDate;
+        if(window.EtripsCalendar){
+          window.EtripsCalendar.render(cal, ds, { restrict: true });
+          // 预填高亮
+          if(presetDate){
+            const pre = cal.querySelector('.cal-cell[data-date="'+presetDate+'"]');
+            if(pre) pre.classList.add('cal-sel');
+          }
+          cal.querySelectorAll('.cal-cell[data-date]').forEach(function(cell){
+            cell.addEventListener('click', function(){
+              cal.querySelectorAll('.cal-sel').forEach(function(c){ c.classList.remove('cal-sel'); });
+              cell.classList.add('cal-sel');
+              bkDate.value = cell.getAttribute('data-date');
+            });
+          });
+        }
+      }
+
       // 用产品库数据渲染行程单 + 注入价格到乘客步进器
       function injectProductDetail(p){
         const body = document.getElementById('bk-detail-body');
@@ -185,12 +223,33 @@
           pa = num(row.adult); pc = num(row.childbed)||num(row.childnobed); pi = num(row.infant);
         }
         applyPaxPrices([pa,pc,pi]);
-        // 2) 行程单：产品介绍 + 行程 + 价格表
+        // 2) 行程单：产品介绍 + 行程(统一 .itin-day 卡片) + 价格表
         const secs = [];
         if(p.introZh){ secs.push({h:'产品介绍', p:p.introZh}); }
         if(p.itinerary){
           const it = (typeof p.itinerary === 'string') ? JSON.parse(p.itinerary) : p.itinerary;
-          if(Array.isArray(it)){ it.slice(0,12).forEach(function(d){ secs.push({h:(d.titleZh||d.d||''), p:(d.descZh||'')}); }); }
+          if(Array.isArray(it)){
+            const itinCards = it.slice(0,12).map(function(d){
+              const theme = d.titleZh || '';
+              const overview = d.descZh || '';
+              const spots = (d.spotsZh || []);
+              const foot = [];
+              if(d.transportZh) foot.push('<span>🚗 '+d.transportZh+'</span>');
+              if(d.mealZh) foot.push('<span>🍽 '+d.mealZh+'</span>');
+              if(d.hotelZh) foot.push('<span>🏨 '+d.hotelZh+'</span>');
+              return "<div class='itin-day'>"+
+                "<div class='d-side'><div class='d-no'>"+(d.d||'')+"</div>"+
+                (theme?"<div class='d-theme'>"+theme+"</div>":"")+
+                "</div>"+
+                "<div class='d-body'>"+
+                  (overview?"<div class='d-overview'>"+overview.replace(/\n/g,'<br>')+"</div>":"")+
+                  (spots.length?"<div class='d-spots'>"+spots.join('　')+"</div>":"")+
+                  (foot.length?"<div class='d-foot'>"+foot.join('')+"</div>":"")+
+                "</div>"+
+              "</div>";
+            }).join('');
+            secs.push({h:'行程安排', html: itinCards});
+          }
         }
         if(Array.isArray(pt) && pt.length){
           const lines = pt.map(function(r){
@@ -202,8 +261,9 @@
           const el = document.createElement('div');
           el.className = 'rp-sec';
           const h = document.createElement('h4'); h.textContent = s.h;
-          const pEl = document.createElement('p'); pEl.textContent = s.p;
-          el.appendChild(h); el.appendChild(pEl);
+          el.appendChild(h);
+          if(s.html){ const wrap=document.createElement('div'); wrap.innerHTML = s.html; while(wrap.firstChild) el.appendChild(wrap.firstChild); }
+          else { const pEl = document.createElement('p'); pEl.textContent = s.p; el.appendChild(pEl); }
           body.appendChild(el);
         });
       }

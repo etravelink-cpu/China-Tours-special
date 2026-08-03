@@ -406,6 +406,59 @@
     return `<div class="contact-grid">${cards}</div>`;
   };
 
+  // ---------- Shared departure calendar (list.js + booking.html) ----------
+  // 出发日高亮: 蓝底圆点(.cal-has); 售罄=soldout, 余位紧张=limited, 报名中/可订=open
+  window.EtripsCalendar = {
+    statusOf(dateStr, departureDates) {
+      if (!departureDates || !departureDates.length) return null;
+      const d = departureDates.find((x) => x.date === dateStr);
+      if (!d) return null;
+      const s = (d.status || '').toLowerCase();
+      if (s === 'soldout') return 'soldout';
+      if (s === 'limited') return 'limited';
+      return 'open'; // open / available / 其他
+    },
+    renderMonth(ym, departureDates, opts) {
+      opts = opts || {};
+      const [y, m] = ym.split('-').map(Number);
+      const first = new Date(y, m - 1, 1);
+      const startDow = first.getDay(); // 0=日
+      const daysIn = new Date(y, m, 0).getDate();
+      const wk = ['日', '一', '二', '三', '四', '五', '六'];
+      let cells = '';
+      // 头部星期
+      cells += wk.map((w) => `<div class="cal-dow">${w}</div>`).join('');
+      // 前置空白
+      for (let i = 0; i < startDow; i++) cells += `<div class="cal-cell cal-empty"></div>`;
+      for (let d = 1; d <= daysIn; d++) {
+        const ds = `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+        const st = this.statusOf(ds, departureDates);
+        const selectable = opts.restrict ? !!st : true;
+        const cls = ['cal-cell'];
+        if (st) cls.push('cal-has', 'cal-' + st);
+        if (!selectable) cls.push('cal-disabled');
+        const attr = selectable ? ` data-date="${ds}"` : '';
+        cells += `<div class="${cls.join(' ')}"${attr}>${d}${st ? `<span class="cal-dot"></span>` : ''}</div>`;
+      }
+      return `<div class="cal"><div class="cal-title">${y}年${m}月</div><div class="cal-grid">${cells}</div></div>`;
+    },
+    // container: DOM节点; departureDates: [{date,status}]; opts.restrict=仅可选有班期日
+    render(container, departureDates, opts) {
+      opts = opts || {};
+      const months = {};
+      (departureDates || []).forEach((d) => {
+        const ym = (d.date || '').slice(0, 7);
+        if (ym) months[ym] = true;
+      });
+      const yms = Object.keys(months).sort();
+      if (!yms.length) {
+        container.innerHTML = `<div class="cal-empty-hint">暂未公布班期，出发日期请与客服确认。</div>`;
+        return;
+      }
+      container.innerHTML = yms.map((ym) => this.renderMonth(ym, departureDates, opts)).join('');
+    },
+  };
+
   // ---------- Minimal centered store info bar (hours / address / phone + WeChat icons) ----------
   window.storeInfo = function (lang) {
     const c = window.CONTACT;

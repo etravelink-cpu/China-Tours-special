@@ -664,6 +664,20 @@ main .container{position:relative;z-index:2}
 .rp-sec ul{margin:6px 0 0;padding-left:20px}
 .rp-sec li{margin:4px 0;color:var(--muted);font-size:14px;line-height:1.65}
 .rp-sec p{margin:0 0 8px;color:var(--muted);font-size:14px;line-height:1.85}
+/* 出发日历: 月历网格 + 出发日高亮 */
+.rp-cal{display:flex;flex-wrap:wrap;gap:14px}
+.cal{width:220px;flex:0 0 auto}
+.cal-title{font-size:13px;font-weight:800;color:var(--sky-text);margin-bottom:6px;text-align:center}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px}
+.cal-dow{font-size:11px;text-align:center;color:var(--muted);padding:2px 0}
+.cal-cell{position:relative;text-align:center;font-size:12.5px;padding:6px 0;border-radius:6px;color:var(--ink);background:#f4f7fa}
+.cal-empty{background:transparent}
+.cal-has{background:var(--sky);color:#fff;font-weight:700}
+.cal-has .cal-dot{display:none}
+.cal-soldout{background:#e9edf1;color:#aab4bf;text-decoration:line-through;cursor:not-allowed}
+.cal-limited{background:#fff0dd;color:#c8741a;font-weight:700}
+.cal-disabled{opacity:.35;cursor:not-allowed}
+.cal-empty-hint{font-size:13px;color:var(--muted);padding:6px 0}
 .rp-sec [style*="#999"],.rp-timeline [style*="#999"],.rp-tab-panel [style*="#999"]{color:var(--muted)!important}
 .rp-timeline>div{margin-bottom:13px;padding-left:18px;position:relative}
 .rp-timeline>div::before{content:"";position:absolute;left:0;top:7px;width:8px;height:8px;
