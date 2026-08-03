@@ -37,8 +37,19 @@
       tree[d][c][s] = tree[d][c][s] || [];
       tree[d][c][s].push(t);
     };
+    // 新西兰: 不显示类目层, 直接按地理分组(北岛/南岛/南北岛连线), 丢弃"新西兰其他"
+    const putNZ = (t) => {
+      const sub = (t.subRegion || "").replace(/^新西兰/, ""); // 新西兰南岛 -> 南岛
+      if (!sub || sub === "其他") return; // 不要"新西兰其他"
+      const label = { "南岛": "南岛", "北岛": "北岛", "南北岛连线": "南北岛连线" }[sub] || sub;
+      tree["新西兰"] = tree["新西兰"] || {};
+      tree["新西兰"]["__nz__"] = tree["新西兰"]["__nz__"] || {};
+      tree["新西兰"]["__nz__"][label] = tree["新西兰"]["__nz__"][label] || [];
+      tree["新西兰"]["__nz__"][label].push(t);
+    };
     T.forEach((t) => {
       const d = t.destZh || t.dest || "其他";
+      if (t.dest === "nz") { putNZ(t); return; }
       // 海岛合并进亚洲(用户要求); 邮轮/特别订制从"其他"桶拆分
       if (t.dest === "island") { put("亚洲", t); return; }
       if (t.dest === "other") {
@@ -59,6 +70,7 @@
       return;
     }
     const cats = tree[activeDest];
+    const isNZ = cats["__nz__"] && Object.keys(cats).length === 1; // 新西兰无类目层
     let catHtml = "";
     Object.keys(cats).forEach((c) => {
       const subs = cats[c];
@@ -73,14 +85,19 @@
           .join("");
         subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${itemHtml}</div></div>`;
       });
-      catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${subHtml}</div></div>`;
+      // 新西兰: 不渲染类目层(隐藏 __nz__ 占位), 直接显示地理子类
+      if (isNZ) {
+        catHtml += subHtml;
+      } else {
+        catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${subHtml}</div></div>`;
+      }
     });
     nav.innerHTML = catHtml;
-    // 默认展开第一个类目
-    const firstCat = nav.querySelector(".rp-cat");
-    if (firstCat) {
-      firstCat.classList.add("open");
-      const ar = firstCat.querySelector(":scope > .rp-group-title .rp-arrow");
+    // 默认展开第一个类目/子类
+    const firstOpen = isNZ ? nav.querySelector(".rp-group") : nav.querySelector(".rp-cat");
+    if (firstOpen) {
+      firstOpen.classList.add("open");
+      const ar = firstOpen.querySelector(":scope > .rp-group-title .rp-arrow");
       if (ar) ar.textContent = "▼";
     }
     // 绑定展开/收起
