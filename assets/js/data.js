@@ -15,7 +15,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -304,7 +304,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 13,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -828,7 +828,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -1352,7 +1352,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -1460,7 +1460,7 @@ window.TOURS = [
   "priceEn": "A$1098",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -1568,7 +1568,7 @@ window.TOURS = [
   "priceEn": "A$1098",
   "days": 0,
   "tags": [
-   "超值精品"
+   "超值特价"
   ],
   "tagsEn": [
    "超值精品"
@@ -1676,7 +1676,7 @@ window.TOURS = [
   "priceEn": "A$1899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -1784,7 +1784,7 @@ window.TOURS = [
   "priceEn": "A$2499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -1892,7 +1892,7 @@ window.TOURS = [
   "priceEn": "A$2798",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2000,7 +2000,7 @@ window.TOURS = [
   "priceEn": "A$3799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -2108,7 +2108,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2216,7 +2216,7 @@ window.TOURS = [
   "priceEn": "A$798",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2324,7 +2324,7 @@ window.TOURS = [
   "priceEn": "A$798",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2432,7 +2432,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2534,7 +2534,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2642,7 +2642,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2765,7 +2765,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2878,7 +2878,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -2986,7 +2986,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3094,7 +3094,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3202,7 +3202,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3310,7 +3310,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3418,7 +3418,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3526,7 +3526,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3634,7 +3634,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3742,7 +3742,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3850,7 +3850,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -3958,7 +3958,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4066,7 +4066,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4174,7 +4174,7 @@ window.TOURS = [
   "priceEn": "A$249",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4282,7 +4282,7 @@ window.TOURS = [
   "priceEn": "A$259",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4390,7 +4390,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4498,7 +4498,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4606,7 +4606,7 @@ window.TOURS = [
   "priceEn": "A$259",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4714,7 +4714,7 @@ window.TOURS = [
   "priceEn": "A$269",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4822,7 +4822,7 @@ window.TOURS = [
   "priceEn": "A$269",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -4930,7 +4930,7 @@ window.TOURS = [
   "priceEn": "A$279",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5038,7 +5038,7 @@ window.TOURS = [
   "priceEn": "A$689",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5146,7 +5146,7 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5254,7 +5254,7 @@ window.TOURS = [
   "priceEn": "A$399",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5362,7 +5362,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5470,7 +5470,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5578,7 +5578,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5686,7 +5686,7 @@ window.TOURS = [
   "priceEn": "A$2499",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5794,7 +5794,7 @@ window.TOURS = [
   "priceEn": "A$2999",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -5902,7 +5902,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6010,7 +6010,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6118,7 +6118,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6226,7 +6226,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6334,7 +6334,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6442,7 +6442,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6550,7 +6550,7 @@ window.TOURS = [
   "priceEn": "A$369",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6658,7 +6658,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6766,7 +6766,7 @@ window.TOURS = [
   "priceEn": "A$399",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6874,7 +6874,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -6982,7 +6982,7 @@ window.TOURS = [
   "priceEn": "A$299",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -7090,7 +7090,7 @@ window.TOURS = [
   "priceEn": "A$459",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -7198,7 +7198,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -7306,7 +7306,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -7414,7 +7414,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -7522,7 +7522,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -7630,7 +7630,7 @@ window.TOURS = [
   "priceEn": "A$2499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -7738,7 +7738,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -7846,7 +7846,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -7954,7 +7954,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8062,7 +8062,7 @@ window.TOURS = [
   "priceEn": "A$1899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8170,7 +8170,7 @@ window.TOURS = [
   "priceEn": "A$2399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8278,7 +8278,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8386,7 +8386,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8494,7 +8494,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8602,7 +8602,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8710,7 +8710,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8818,7 +8818,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -8926,7 +8926,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9034,7 +9034,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9142,7 +9142,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9250,7 +9250,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9358,7 +9358,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9466,7 +9466,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9574,7 +9574,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9682,7 +9682,7 @@ window.TOURS = [
   "priceEn": "A$1499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9790,7 +9790,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -9898,7 +9898,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10006,7 +10006,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10114,7 +10114,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10222,7 +10222,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10330,7 +10330,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10438,7 +10438,7 @@ window.TOURS = [
   "priceEn": "A$1999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10546,7 +10546,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10654,7 +10654,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10762,7 +10762,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10870,7 +10870,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -10978,7 +10978,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11086,7 +11086,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11194,7 +11194,7 @@ window.TOURS = [
   "priceEn": "A$1599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11302,7 +11302,7 @@ window.TOURS = [
   "priceEn": "A$1899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11410,7 +11410,7 @@ window.TOURS = [
   "priceEn": "A$2099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11518,7 +11518,7 @@ window.TOURS = [
   "priceEn": "A$2099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11626,7 +11626,7 @@ window.TOURS = [
   "priceEn": "A$2699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11734,7 +11734,7 @@ window.TOURS = [
   "priceEn": "A$1799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11842,7 +11842,7 @@ window.TOURS = [
   "priceEn": "A$1799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -11950,7 +11950,7 @@ window.TOURS = [
   "priceEn": "A$3399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12058,7 +12058,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12166,7 +12166,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12274,7 +12274,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12382,7 +12382,7 @@ window.TOURS = [
   "priceEn": "A$549",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12490,7 +12490,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12598,7 +12598,7 @@ window.TOURS = [
   "priceEn": "A$879",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12706,7 +12706,7 @@ window.TOURS = [
   "priceEn": "A$939",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12814,7 +12814,7 @@ window.TOURS = [
   "priceEn": "A$898",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -12922,7 +12922,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -13024,7 +13024,7 @@ window.TOURS = [
   "priceEn": "A$2599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -13126,7 +13126,7 @@ window.TOURS = [
   "priceEn": "A$5399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -13228,7 +13228,7 @@ window.TOURS = [
   "priceEn": "A$1058",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -13330,7 +13330,7 @@ window.TOURS = [
   "priceEn": "A$1058",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -13432,7 +13432,7 @@ window.TOURS = [
   "priceEn": "A$2098",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -13534,7 +13534,7 @@ window.TOURS = [
   "priceEn": "A$638",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -13636,7 +13636,7 @@ window.TOURS = [
   "priceEn": "A$738",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -13738,7 +13738,7 @@ window.TOURS = [
   "priceEn": "A$1018",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -13840,7 +13840,7 @@ window.TOURS = [
   "priceEn": "A$919",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -13942,7 +13942,7 @@ window.TOURS = [
   "priceEn": "A$498",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -14044,7 +14044,7 @@ window.TOURS = [
   "priceEn": "A$998",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -14146,7 +14146,7 @@ window.TOURS = [
   "priceEn": "A$1098",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -14248,7 +14248,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -14350,7 +14350,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -14452,7 +14452,7 @@ window.TOURS = [
   "priceEn": "A$1498",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -14554,7 +14554,7 @@ window.TOURS = [
   "priceEn": "A$8580",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -14656,7 +14656,7 @@ window.TOURS = [
   "priceEn": "A$5999",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -14758,7 +14758,7 @@ window.TOURS = [
   "priceEn": "A$23499",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -14860,7 +14860,7 @@ window.TOURS = [
   "priceEn": "A$16888",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -14962,7 +14962,7 @@ window.TOURS = [
   "priceEn": "A$1088",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15064,7 +15064,7 @@ window.TOURS = [
   "priceEn": "A$1288",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15166,7 +15166,7 @@ window.TOURS = [
   "priceEn": "A$2078",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15268,7 +15268,7 @@ window.TOURS = [
   "priceEn": "A$2428",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15370,7 +15370,7 @@ window.TOURS = [
   "priceEn": "A$1898",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15472,7 +15472,7 @@ window.TOURS = [
   "priceEn": "A$2618",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15574,7 +15574,7 @@ window.TOURS = [
   "priceEn": "A$2058",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15676,7 +15676,7 @@ window.TOURS = [
   "priceEn": "A$2198",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15778,7 +15778,7 @@ window.TOURS = [
   "priceEn": "A$2228",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15880,7 +15880,7 @@ window.TOURS = [
   "priceEn": "A$2398",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -15982,7 +15982,7 @@ window.TOURS = [
   "priceEn": "A$2758",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16084,7 +16084,7 @@ window.TOURS = [
   "priceEn": "A$3498",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16186,7 +16186,7 @@ window.TOURS = [
   "priceEn": "A$2199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16288,7 +16288,7 @@ window.TOURS = [
   "priceEn": "A$1539",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16390,7 +16390,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16492,7 +16492,7 @@ window.TOURS = [
   "priceEn": "A$2339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16594,7 +16594,7 @@ window.TOURS = [
   "priceEn": "A$9699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16696,7 +16696,7 @@ window.TOURS = [
   "priceEn": "A$6888",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16798,7 +16798,7 @@ window.TOURS = [
   "priceEn": "A$6888",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -16900,7 +16900,7 @@ window.TOURS = [
   "priceEn": "A$8499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17002,7 +17002,7 @@ window.TOURS = [
   "priceEn": "A$8699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17104,7 +17104,7 @@ window.TOURS = [
   "priceEn": "A$8999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17206,7 +17206,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17308,7 +17308,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17410,7 +17410,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17512,7 +17512,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17614,7 +17614,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17716,7 +17716,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17818,7 +17818,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -17920,7 +17920,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18022,7 +18022,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18124,7 +18124,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18226,7 +18226,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18328,7 +18328,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18430,7 +18430,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18532,7 +18532,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18634,7 +18634,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18736,7 +18736,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18838,7 +18838,7 @@ window.TOURS = [
   "priceEn": "A$3999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -18940,7 +18940,7 @@ window.TOURS = [
   "priceEn": "A$4498",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -19042,7 +19042,7 @@ window.TOURS = [
   "priceEn": "A$1339",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -19144,7 +19144,7 @@ window.TOURS = [
   "priceEn": "A$1829",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -19246,7 +19246,7 @@ window.TOURS = [
   "priceEn": "A$1449",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -19348,7 +19348,7 @@ window.TOURS = [
   "priceEn": "A$2079",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -19450,7 +19450,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -19552,7 +19552,7 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -19654,7 +19654,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -19756,7 +19756,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -19858,7 +19858,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -19960,7 +19960,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -20062,7 +20062,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "含机票"
+   "机票套餐"
   ],
   "tagsEn": [
    "Flight-incl"
@@ -20164,7 +20164,7 @@ window.TOURS = [
   "priceEn": "A$1999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20368,7 +20368,7 @@ window.TOURS = [
   "priceEn": "A$3026",
   "days": 11,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20415,7 +20415,7 @@ window.TOURS = [
   "priceEn": "A$2959",
   "days": 10,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20462,7 +20462,7 @@ window.TOURS = [
   "priceEn": "A$2839",
   "days": 11,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20509,7 +20509,7 @@ window.TOURS = [
   "priceEn": "A$1868",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20562,7 +20562,7 @@ window.TOURS = [
   "priceEn": "A$1698",
   "days": 7,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20615,7 +20615,7 @@ window.TOURS = [
   "priceEn": "A$1548",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20668,7 +20668,7 @@ window.TOURS = [
   "priceEn": "A$1939",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20715,7 +20715,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20768,7 +20768,7 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 2,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20821,7 +20821,7 @@ window.TOURS = [
   "priceEn": "A$1799",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20868,7 +20868,7 @@ window.TOURS = [
   "priceEn": "A$969",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20915,7 +20915,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -20968,7 +20968,7 @@ window.TOURS = [
   "priceEn": "A$649",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21015,7 +21015,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21068,7 +21068,7 @@ window.TOURS = [
   "priceEn": "A$1120",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21115,7 +21115,7 @@ window.TOURS = [
   "priceEn": "A$578",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21162,7 +21162,7 @@ window.TOURS = [
   "priceEn": "A$818",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21215,7 +21215,7 @@ window.TOURS = [
   "priceEn": "A$992",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21268,7 +21268,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 7,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21321,7 +21321,7 @@ window.TOURS = [
   "priceEn": "A$1499",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21374,7 +21374,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21427,7 +21427,7 @@ window.TOURS = [
   "priceEn": "A$949",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21474,7 +21474,7 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21521,7 +21521,7 @@ window.TOURS = [
   "priceEn": "A$1818",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21568,7 +21568,7 @@ window.TOURS = [
   "priceEn": "A$1618",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21615,7 +21615,7 @@ window.TOURS = [
   "priceEn": "A$1368",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21662,7 +21662,7 @@ window.TOURS = [
   "priceEn": "A$1118",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21709,7 +21709,7 @@ window.TOURS = [
   "priceEn": "A$998",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21756,7 +21756,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21803,7 +21803,7 @@ window.TOURS = [
   "priceEn": "A$1028",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21856,7 +21856,7 @@ window.TOURS = [
   "priceEn": "A$998",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21903,7 +21903,7 @@ window.TOURS = [
   "priceEn": "A$848",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -21956,7 +21956,7 @@ window.TOURS = [
   "priceEn": "A$658",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22009,7 +22009,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22115,7 +22115,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22168,7 +22168,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22221,7 +22221,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22321,7 +22321,7 @@ window.TOURS = [
   "priceEn": "A$159",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22368,7 +22368,7 @@ window.TOURS = [
   "priceEn": "A$149",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22444,7 +22444,7 @@ window.TOURS = [
   "priceEn": "A$139",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22497,7 +22497,7 @@ window.TOURS = [
   "priceEn": "A$229",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22544,7 +22544,7 @@ window.TOURS = [
   "priceEn": "A$185",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22591,7 +22591,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22685,7 +22685,7 @@ window.TOURS = [
   "priceEn": "A$119",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22732,7 +22732,7 @@ window.TOURS = [
   "priceEn": "A$79",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22779,7 +22779,7 @@ window.TOURS = [
   "priceEn": "A$259",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22873,7 +22873,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22926,7 +22926,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -22973,7 +22973,7 @@ window.TOURS = [
   "priceEn": "A$175",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23026,7 +23026,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23167,7 +23167,7 @@ window.TOURS = [
   "priceEn": "A$720",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23214,7 +23214,7 @@ window.TOURS = [
   "priceEn": "A$395",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23261,7 +23261,7 @@ window.TOURS = [
   "priceEn": "A$353",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23314,7 +23314,7 @@ window.TOURS = [
   "priceEn": "A$348",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23367,7 +23367,7 @@ window.TOURS = [
   "priceEn": "A$325",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23420,7 +23420,7 @@ window.TOURS = [
   "priceEn": "A$322",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23473,7 +23473,7 @@ window.TOURS = [
   "priceEn": "A$317",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23573,7 +23573,7 @@ window.TOURS = [
   "priceEn": "A$279",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23667,7 +23667,7 @@ window.TOURS = [
   "priceEn": "A$259",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23714,7 +23714,7 @@ window.TOURS = [
   "priceEn": "A$240",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23761,7 +23761,7 @@ window.TOURS = [
   "priceEn": "A$230",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23808,7 +23808,7 @@ window.TOURS = [
   "priceEn": "A$228",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23861,7 +23861,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23908,7 +23908,7 @@ window.TOURS = [
   "priceEn": "A$190",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -23961,7 +23961,7 @@ window.TOURS = [
   "priceEn": "A$190",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24061,7 +24061,7 @@ window.TOURS = [
   "priceEn": "A$162",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24108,7 +24108,7 @@ window.TOURS = [
   "priceEn": "A$388",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24155,7 +24155,7 @@ window.TOURS = [
   "priceEn": "A$185",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24202,7 +24202,7 @@ window.TOURS = [
   "priceEn": "A$185",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24249,7 +24249,7 @@ window.TOURS = [
   "priceEn": "A$185",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24296,7 +24296,7 @@ window.TOURS = [
   "priceEn": "A$185",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24343,7 +24343,7 @@ window.TOURS = [
   "priceEn": "A$200",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24390,7 +24390,7 @@ window.TOURS = [
   "priceEn": "A$198",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24437,7 +24437,7 @@ window.TOURS = [
   "priceEn": "A$195",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24484,7 +24484,7 @@ window.TOURS = [
   "priceEn": "A$165",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24531,7 +24531,7 @@ window.TOURS = [
   "priceEn": "A$85",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24578,7 +24578,7 @@ window.TOURS = [
   "priceEn": "A$355",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24672,7 +24672,7 @@ window.TOURS = [
   "priceEn": "A$239",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24719,7 +24719,7 @@ window.TOURS = [
   "priceEn": "A$219",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24766,7 +24766,7 @@ window.TOURS = [
   "priceEn": "A$209",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24813,7 +24813,7 @@ window.TOURS = [
   "priceEn": "A$139",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24860,7 +24860,7 @@ window.TOURS = [
   "priceEn": "A$139",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -24907,7 +24907,7 @@ window.TOURS = [
   "priceEn": "A$98",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25001,7 +25001,7 @@ window.TOURS = [
   "priceEn": "A$700",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25095,7 +25095,7 @@ window.TOURS = [
   "priceEn": "A$208",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25142,7 +25142,7 @@ window.TOURS = [
   "priceEn": "A$168",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25330,7 +25330,7 @@ window.TOURS = [
   "priceEn": "A$148",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25377,7 +25377,7 @@ window.TOURS = [
   "priceEn": "A$138",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25424,7 +25424,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25471,7 +25471,7 @@ window.TOURS = [
   "priceEn": "A$98",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25518,7 +25518,7 @@ window.TOURS = [
   "priceEn": "A$1858",
   "days": 7,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25571,7 +25571,7 @@ window.TOURS = [
   "priceEn": "A$1798",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25618,7 +25618,7 @@ window.TOURS = [
   "priceEn": "A$1798",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25665,7 +25665,7 @@ window.TOURS = [
   "priceEn": "A$1798",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25712,7 +25712,7 @@ window.TOURS = [
   "priceEn": "A$1798",
   "days": 10,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25759,7 +25759,7 @@ window.TOURS = [
   "priceEn": "A$1798",
   "days": 10,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25806,7 +25806,7 @@ window.TOURS = [
   "priceEn": "A$37",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -25864,7 +25864,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -25966,7 +25966,7 @@ window.TOURS = [
   "priceEn": "A$89",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26068,7 +26068,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26170,7 +26170,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26272,7 +26272,7 @@ window.TOURS = [
   "priceEn": "A$689",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26374,7 +26374,7 @@ window.TOURS = [
   "priceEn": "A$259",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26476,7 +26476,7 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26578,7 +26578,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26680,7 +26680,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26782,7 +26782,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26884,7 +26884,7 @@ window.TOURS = [
   "priceEn": "A$399",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -26986,7 +26986,7 @@ window.TOURS = [
   "priceEn": "A$189",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27088,7 +27088,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27190,7 +27190,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27292,7 +27292,7 @@ window.TOURS = [
   "priceEn": "A$998",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27394,7 +27394,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27496,7 +27496,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27598,7 +27598,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27700,7 +27700,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27802,7 +27802,7 @@ window.TOURS = [
   "priceEn": "A$269",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -27904,7 +27904,7 @@ window.TOURS = [
   "priceEn": "A$299",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28006,7 +28006,7 @@ window.TOURS = [
   "priceEn": "A$249",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28108,7 +28108,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28210,7 +28210,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28312,7 +28312,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28414,7 +28414,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28516,7 +28516,7 @@ window.TOURS = [
   "priceEn": "A$259",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28618,7 +28618,7 @@ window.TOURS = [
   "priceEn": "A$269",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28720,7 +28720,7 @@ window.TOURS = [
   "priceEn": "A$689",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28822,7 +28822,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -28924,7 +28924,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29026,7 +29026,7 @@ window.TOURS = [
   "priceEn": "A$299",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29128,7 +29128,7 @@ window.TOURS = [
   "priceEn": "A$449",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29230,7 +29230,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29332,7 +29332,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29434,7 +29434,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29536,7 +29536,7 @@ window.TOURS = [
   "priceEn": "A$1949",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29638,7 +29638,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29740,7 +29740,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29842,7 +29842,7 @@ window.TOURS = [
   "priceEn": "A$1799",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -29944,7 +29944,7 @@ window.TOURS = [
   "priceEn": "A$1949",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30046,7 +30046,7 @@ window.TOURS = [
   "priceEn": "A$49",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30148,7 +30148,7 @@ window.TOURS = [
   "priceEn": "A$269",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30250,7 +30250,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30352,7 +30352,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30454,7 +30454,7 @@ window.TOURS = [
   "priceEn": "A$369",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30556,7 +30556,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30658,7 +30658,7 @@ window.TOURS = [
   "priceEn": "A$398",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30760,7 +30760,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30862,7 +30862,7 @@ window.TOURS = [
   "priceEn": "A$299",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -30964,7 +30964,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31066,7 +31066,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31168,7 +31168,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31270,7 +31270,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31372,7 +31372,7 @@ window.TOURS = [
   "priceEn": "A$299",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31474,7 +31474,7 @@ window.TOURS = [
   "priceEn": "A$399",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31576,7 +31576,7 @@ window.TOURS = [
   "priceEn": "A$399",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31678,7 +31678,7 @@ window.TOURS = [
   "priceEn": "A$588",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31780,7 +31780,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31882,7 +31882,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -31984,7 +31984,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32086,7 +32086,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32188,7 +32188,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32290,7 +32290,7 @@ window.TOURS = [
   "priceEn": "A$1098",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32392,7 +32392,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32494,7 +32494,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32596,7 +32596,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32698,7 +32698,7 @@ window.TOURS = [
   "priceEn": "A$498",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32800,7 +32800,7 @@ window.TOURS = [
   "priceEn": "A$598",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -32902,7 +32902,7 @@ window.TOURS = [
   "priceEn": "A$399",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33004,7 +33004,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33106,7 +33106,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33208,7 +33208,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33310,7 +33310,7 @@ window.TOURS = [
   "priceEn": "A$299",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33418,7 +33418,7 @@ window.TOURS = [
   "priceEn": "A$449",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33526,7 +33526,7 @@ window.TOURS = [
   "priceEn": "A$249",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33634,7 +33634,7 @@ window.TOURS = [
   "priceEn": "A$898",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33736,7 +33736,7 @@ window.TOURS = [
   "priceEn": "A$198",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33838,7 +33838,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -33940,7 +33940,7 @@ window.TOURS = [
   "priceEn": "A$798",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -34042,7 +34042,7 @@ window.TOURS = [
   "priceEn": "A$898",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -34144,7 +34144,7 @@ window.TOURS = [
   "priceEn": "A$2798",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -34246,7 +34246,7 @@ window.TOURS = [
   "priceEn": "A$598",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -34348,7 +34348,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -34450,7 +34450,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -34552,7 +34552,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -34654,7 +34654,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -34756,7 +34756,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -34858,7 +34858,7 @@ window.TOURS = [
   "priceEn": "A$1899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -34960,7 +34960,7 @@ window.TOURS = [
   "priceEn": "A$2699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35062,7 +35062,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35164,7 +35164,7 @@ window.TOURS = [
   "priceEn": "A$1899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35266,7 +35266,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35368,7 +35368,7 @@ window.TOURS = [
   "priceEn": "A$2099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35470,7 +35470,7 @@ window.TOURS = [
   "priceEn": "A$898",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35572,7 +35572,7 @@ window.TOURS = [
   "priceEn": "A$1398",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35674,7 +35674,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35776,7 +35776,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35878,7 +35878,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -35980,7 +35980,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36082,7 +36082,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36184,7 +36184,7 @@ window.TOURS = [
   "priceEn": "A$1599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36286,7 +36286,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36388,7 +36388,7 @@ window.TOURS = [
   "priceEn": "A$1499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36490,7 +36490,7 @@ window.TOURS = [
   "priceEn": "A$1688",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36592,7 +36592,7 @@ window.TOURS = [
   "priceEn": "A$1599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36694,7 +36694,7 @@ window.TOURS = [
   "priceEn": "A$1398",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36796,7 +36796,7 @@ window.TOURS = [
   "priceEn": "A$1898",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -36898,7 +36898,7 @@ window.TOURS = [
   "priceEn": "A$1599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37000,7 +37000,7 @@ window.TOURS = [
   "priceEn": "A$2099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37102,7 +37102,7 @@ window.TOURS = [
   "priceEn": "A$3299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37204,7 +37204,7 @@ window.TOURS = [
   "priceEn": "A$749",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37306,7 +37306,7 @@ window.TOURS = [
   "priceEn": "A$789",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37408,7 +37408,7 @@ window.TOURS = [
   "priceEn": "A$1499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37510,7 +37510,7 @@ window.TOURS = [
   "priceEn": "A$2278",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37612,7 +37612,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37714,7 +37714,7 @@ window.TOURS = [
   "priceEn": "A$789",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37816,7 +37816,7 @@ window.TOURS = [
   "priceEn": "A$1389",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -37918,7 +37918,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38020,7 +38020,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38122,7 +38122,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38224,7 +38224,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38326,7 +38326,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38428,7 +38428,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38530,7 +38530,7 @@ window.TOURS = [
   "priceEn": "A$1999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38632,7 +38632,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38734,7 +38734,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38836,7 +38836,7 @@ window.TOURS = [
   "priceEn": "A$549",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -38938,7 +38938,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39040,7 +39040,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39142,7 +39142,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39244,7 +39244,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39346,7 +39346,7 @@ window.TOURS = [
   "priceEn": "A$1249",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39448,7 +39448,7 @@ window.TOURS = [
   "priceEn": "A$1849",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39550,7 +39550,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39652,7 +39652,7 @@ window.TOURS = [
   "priceEn": "A$1499",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39754,7 +39754,7 @@ window.TOURS = [
   "priceEn": "A$2599",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39856,7 +39856,7 @@ window.TOURS = [
   "priceEn": "A$1698",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -39958,7 +39958,7 @@ window.TOURS = [
   "priceEn": "A$1698",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40060,7 +40060,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40162,7 +40162,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40264,7 +40264,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40366,7 +40366,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40468,7 +40468,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40570,7 +40570,7 @@ window.TOURS = [
   "priceEn": "A$2899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40672,7 +40672,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40774,7 +40774,7 @@ window.TOURS = [
   "priceEn": "A$1798",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40876,7 +40876,7 @@ window.TOURS = [
   "priceEn": "A$2298",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -40978,7 +40978,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41080,7 +41080,7 @@ window.TOURS = [
   "priceEn": "A$1049",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41182,7 +41182,7 @@ window.TOURS = [
   "priceEn": "A$2498",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41284,7 +41284,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41386,7 +41386,7 @@ window.TOURS = [
   "priceEn": "A$2399",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41488,7 +41488,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41590,7 +41590,7 @@ window.TOURS = [
   "priceEn": "A$588",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41692,7 +41692,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41794,7 +41794,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41896,7 +41896,7 @@ window.TOURS = [
   "priceEn": "A$969",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -41998,7 +41998,7 @@ window.TOURS = [
   "priceEn": "A$849",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42100,7 +42100,7 @@ window.TOURS = [
   "priceEn": "A$1099",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42202,7 +42202,7 @@ window.TOURS = [
   "priceEn": "A$969",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42304,7 +42304,7 @@ window.TOURS = [
   "priceEn": "A$1898",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42406,7 +42406,7 @@ window.TOURS = [
   "priceEn": "A$2098",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42508,7 +42508,7 @@ window.TOURS = [
   "priceEn": "A$2098",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42610,7 +42610,7 @@ window.TOURS = [
   "priceEn": "A$998",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42712,7 +42712,7 @@ window.TOURS = [
   "priceEn": "A$1098",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42814,7 +42814,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -42916,7 +42916,7 @@ window.TOURS = [
   "priceEn": "A$1498",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43018,7 +43018,7 @@ window.TOURS = [
   "priceEn": "A$598",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43120,7 +43120,7 @@ window.TOURS = [
   "priceEn": "A$1998",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43222,7 +43222,7 @@ window.TOURS = [
   "priceEn": "A$1049",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43324,7 +43324,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43426,7 +43426,7 @@ window.TOURS = [
   "priceEn": "A$749",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43528,7 +43528,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43630,7 +43630,7 @@ window.TOURS = [
   "priceEn": "A$530",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43732,7 +43732,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43834,7 +43834,7 @@ window.TOURS = [
   "priceEn": "A$830",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -43936,7 +43936,7 @@ window.TOURS = [
   "priceEn": "A$1049",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44038,7 +44038,7 @@ window.TOURS = [
   "priceEn": "A$980",
   "days": 0,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44140,7 +44140,7 @@ window.TOURS = [
   "priceEn": "A$189",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44248,7 +44248,7 @@ window.TOURS = [
   "priceEn": "A$159",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44356,7 +44356,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44409,7 +44409,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44462,7 +44462,7 @@ window.TOURS = [
   "priceEn": "A$149",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44515,7 +44515,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44568,7 +44568,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44676,7 +44676,7 @@ window.TOURS = [
   "priceEn": "A$139",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44729,7 +44729,7 @@ window.TOURS = [
   "priceEn": "A$149",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44782,7 +44782,7 @@ window.TOURS = [
   "priceEn": "A$159",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44835,7 +44835,7 @@ window.TOURS = [
   "priceEn": "A$1788",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44888,7 +44888,7 @@ window.TOURS = [
   "priceEn": "A$1698",
   "days": 7,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44941,7 +44941,7 @@ window.TOURS = [
   "priceEn": "A$2688",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -44994,7 +44994,7 @@ window.TOURS = [
   "priceEn": "A$2599",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45047,7 +45047,7 @@ window.TOURS = [
   "priceEn": "A$3888",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45100,7 +45100,7 @@ window.TOURS = [
   "priceEn": "A$1149",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45153,7 +45153,7 @@ window.TOURS = [
   "priceEn": "A$749",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45200,7 +45200,7 @@ window.TOURS = [
   "priceEn": "A$949",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45247,7 +45247,7 @@ window.TOURS = [
   "priceEn": "A$3720",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45300,7 +45300,7 @@ window.TOURS = [
   "priceEn": "A$3690",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45353,7 +45353,7 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45406,7 +45406,7 @@ window.TOURS = [
   "priceEn": "A$669",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45459,7 +45459,7 @@ window.TOURS = [
   "priceEn": "A$949",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45512,7 +45512,7 @@ window.TOURS = [
   "priceEn": "A$1189",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45565,7 +45565,7 @@ window.TOURS = [
   "priceEn": "A$739",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45618,7 +45618,7 @@ window.TOURS = [
   "priceEn": "A$499",
   "days": 2,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45671,7 +45671,7 @@ window.TOURS = [
   "priceEn": "A$1589",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45724,7 +45724,7 @@ window.TOURS = [
   "priceEn": "A$1899",
   "days": 7,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45777,7 +45777,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45830,7 +45830,7 @@ window.TOURS = [
   "priceEn": "A$518",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45877,7 +45877,7 @@ window.TOURS = [
   "priceEn": "A$127",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45924,7 +45924,7 @@ window.TOURS = [
   "priceEn": "A$91",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -45971,7 +45971,7 @@ window.TOURS = [
   "priceEn": "A$518",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46018,7 +46018,7 @@ window.TOURS = [
   "priceEn": "A$518",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46065,7 +46065,7 @@ window.TOURS = [
   "priceEn": "A$518",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46112,7 +46112,7 @@ window.TOURS = [
   "priceEn": "A$91",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46159,7 +46159,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46212,7 +46212,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46265,7 +46265,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46318,7 +46318,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46359,7 +46359,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46412,7 +46412,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46465,7 +46465,7 @@ window.TOURS = [
   "priceEn": "A$185",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46518,7 +46518,7 @@ window.TOURS = [
   "priceEn": "A$185",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46571,7 +46571,7 @@ window.TOURS = [
   "priceEn": "A$4",
   "days": 7,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46624,7 +46624,7 @@ window.TOURS = [
   "priceEn": "A$4",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46677,7 +46677,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 2,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46730,7 +46730,7 @@ window.TOURS = [
   "priceEn": "A$4",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46783,7 +46783,7 @@ window.TOURS = [
   "priceEn": "A$4",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46836,7 +46836,7 @@ window.TOURS = [
   "priceEn": "A$4",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46889,7 +46889,7 @@ window.TOURS = [
   "priceEn": "A$4",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46942,7 +46942,7 @@ window.TOURS = [
   "priceEn": "A$1600",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -46995,7 +46995,7 @@ window.TOURS = [
   "priceEn": "A$4",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47048,7 +47048,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47101,7 +47101,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47154,7 +47154,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47207,7 +47207,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47260,7 +47260,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47313,7 +47313,7 @@ window.TOURS = [
   "priceEn": "A$858",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47366,7 +47366,7 @@ window.TOURS = [
   "priceEn": "A$140",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47413,7 +47413,7 @@ window.TOURS = [
   "priceEn": "A$110",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47460,7 +47460,7 @@ window.TOURS = [
   "priceEn": "A$130",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47507,7 +47507,7 @@ window.TOURS = [
   "priceEn": "A$1199",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47560,7 +47560,7 @@ window.TOURS = [
   "priceEn": "A$599",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47607,7 +47607,7 @@ window.TOURS = [
   "priceEn": "A$1149",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47654,7 +47654,7 @@ window.TOURS = [
   "priceEn": "A$699",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47701,7 +47701,7 @@ window.TOURS = [
   "priceEn": "A$799",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47754,7 +47754,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47807,7 +47807,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47854,7 +47854,7 @@ window.TOURS = [
   "priceEn": "A$160",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47901,7 +47901,7 @@ window.TOURS = [
   "priceEn": "A$170",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -47948,7 +47948,7 @@ window.TOURS = [
   "priceEn": "A$173",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48001,7 +48001,7 @@ window.TOURS = [
   "priceEn": "A$69",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48048,7 +48048,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48095,7 +48095,7 @@ window.TOURS = [
   "priceEn": "A$120",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48142,7 +48142,7 @@ window.TOURS = [
   "priceEn": "A$201",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48189,7 +48189,7 @@ window.TOURS = [
   "priceEn": "A$193",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48236,7 +48236,7 @@ window.TOURS = [
   "priceEn": "A$218",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48283,7 +48283,7 @@ window.TOURS = [
   "priceEn": "A$160",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48330,7 +48330,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48377,7 +48377,7 @@ window.TOURS = [
   "priceEn": "A$188",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48424,7 +48424,7 @@ window.TOURS = [
   "priceEn": "A$99",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48471,7 +48471,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48518,7 +48518,7 @@ window.TOURS = [
   "priceEn": "A$888",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48565,7 +48565,7 @@ window.TOURS = [
   "priceEn": "A$139",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48612,7 +48612,7 @@ window.TOURS = [
   "priceEn": "A$109",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48659,7 +48659,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48706,7 +48706,7 @@ window.TOURS = [
   "priceEn": "A$179",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48753,7 +48753,7 @@ window.TOURS = [
   "priceEn": "A$219",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48800,7 +48800,7 @@ window.TOURS = [
   "priceEn": "A$219",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48847,7 +48847,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48894,7 +48894,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48941,7 +48941,7 @@ window.TOURS = [
   "priceEn": "A$199",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -48988,7 +48988,7 @@ window.TOURS = [
   "priceEn": "A$248",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49035,7 +49035,7 @@ window.TOURS = [
   "priceEn": "A$175",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49082,7 +49082,7 @@ window.TOURS = [
   "priceEn": "A$139",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49129,7 +49129,7 @@ window.TOURS = [
   "priceEn": "A$939",
   "days": 3,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49176,7 +49176,7 @@ window.TOURS = [
   "priceEn": "A$1299",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49223,7 +49223,7 @@ window.TOURS = [
   "priceEn": "A$1599",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49270,7 +49270,7 @@ window.TOURS = [
   "priceEn": "A$169",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49317,7 +49317,7 @@ window.TOURS = [
   "priceEn": "A$225",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49364,7 +49364,7 @@ window.TOURS = [
   "priceEn": "A$175",
   "days": 1,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49411,7 +49411,7 @@ window.TOURS = [
   "priceEn": "A$18990",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49464,7 +49464,7 @@ window.TOURS = [
   "priceEn": "A$14388",
   "days": 20,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49517,7 +49517,7 @@ window.TOURS = [
   "priceEn": "A$15599",
   "days": 22,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49570,7 +49570,7 @@ window.TOURS = [
   "priceEn": "A$5999",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49623,7 +49623,7 @@ window.TOURS = [
   "priceEn": "A$2880",
   "days": 14,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49676,7 +49676,7 @@ window.TOURS = [
   "priceEn": "A$1198",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49729,7 +49729,7 @@ window.TOURS = [
   "priceEn": "A$3348",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49782,7 +49782,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -49817,7 +49817,7 @@ window.TOURS = [
   "priceEn": "A$2899",
   "days": 15,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49870,7 +49870,7 @@ window.TOURS = [
   "priceEn": "A$5770",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49923,7 +49923,7 @@ window.TOURS = [
   "priceEn": "A$3299",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -49976,7 +49976,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 0,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50011,7 +50011,7 @@ window.TOURS = [
   "priceEn": "A$3999",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50064,7 +50064,7 @@ window.TOURS = [
   "priceEn": "A$6550",
   "days": 11,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50117,7 +50117,7 @@ window.TOURS = [
   "priceEn": "A$1808",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50170,7 +50170,7 @@ window.TOURS = [
   "priceEn": "A$1808",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50223,7 +50223,7 @@ window.TOURS = [
   "priceEn": "A$2070",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50276,7 +50276,7 @@ window.TOURS = [
   "priceEn": "A$1808",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50329,7 +50329,7 @@ window.TOURS = [
   "priceEn": "A$1808",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50382,7 +50382,7 @@ window.TOURS = [
   "priceEn": "A$1808",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50435,7 +50435,7 @@ window.TOURS = [
   "priceEn": "A$1808",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50488,7 +50488,7 @@ window.TOURS = [
   "priceEn": "A$1808",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -50541,7 +50541,7 @@ window.TOURS = [
   "priceEn": "A$489",
   "days": 3,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50594,7 +50594,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 3,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50647,7 +50647,7 @@ window.TOURS = [
   "priceEn": "A$849",
   "days": 5,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50700,7 +50700,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 5,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50753,7 +50753,7 @@ window.TOURS = [
   "priceEn": "A$1699",
   "days": 5,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50806,7 +50806,7 @@ window.TOURS = [
   "priceEn": "A$1399",
   "days": 4,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50859,7 +50859,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 4,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50912,7 +50912,7 @@ window.TOURS = [
   "priceEn": "A$729",
   "days": 4,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -50965,7 +50965,7 @@ window.TOURS = [
   "priceEn": "A$999",
   "days": 4,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51018,7 +51018,7 @@ window.TOURS = [
   "priceEn": "A$2735",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51071,7 +51071,7 @@ window.TOURS = [
   "priceEn": "A$735",
   "days": 2,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51124,7 +51124,7 @@ window.TOURS = [
   "priceEn": "A$1736",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51177,7 +51177,7 @@ window.TOURS = [
   "priceEn": "A$1900",
   "days": 7,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51230,7 +51230,7 @@ window.TOURS = [
   "priceEn": "A$3390",
   "days": 11,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51283,7 +51283,7 @@ window.TOURS = [
   "priceEn": "A$2391",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51336,7 +51336,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 10,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51371,7 +51371,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 9,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51406,7 +51406,7 @@ window.TOURS = [
   "priceEn": "A$830",
   "days": 3,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -51453,7 +51453,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 4,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -51500,7 +51500,7 @@ window.TOURS = [
   "priceEn": "A$749",
   "days": 3,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -51547,7 +51547,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 4,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -51594,7 +51594,7 @@ window.TOURS = [
   "priceEn": "A$530",
   "days": 3,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -51641,7 +51641,7 @@ window.TOURS = [
   "priceEn": "A$899",
   "days": 3,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -51688,7 +51688,7 @@ window.TOURS = [
   "priceEn": "A$980",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51735,7 +51735,7 @@ window.TOURS = [
   "priceEn": "A$1049",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51782,7 +51782,7 @@ window.TOURS = [
   "priceEn": "A$3",
   "days": 10,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51829,7 +51829,7 @@ window.TOURS = [
   "priceEn": "A$3988",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51876,7 +51876,7 @@ window.TOURS = [
   "priceEn": "A$26800",
   "days": 17,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51923,7 +51923,7 @@ window.TOURS = [
   "priceEn": "A$6988",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -51970,7 +51970,7 @@ window.TOURS = [
   "priceEn": "A$9680",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52017,7 +52017,7 @@ window.TOURS = [
   "priceEn": "A$1499",
   "days": 8,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52064,7 +52064,7 @@ window.TOURS = [
   "priceEn": "A$5850",
   "days": 20,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52111,7 +52111,7 @@ window.TOURS = [
   "priceEn": "A$1888",
   "days": 11,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52158,7 +52158,7 @@ window.TOURS = [
   "priceEn": "A$3899",
   "days": 15,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52205,7 +52205,7 @@ window.TOURS = [
   "priceEn": "A$12680",
   "days": 16,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52252,7 +52252,7 @@ window.TOURS = [
   "priceEn": "A$26800",
   "days": 17,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52299,7 +52299,7 @@ window.TOURS = [
   "priceEn": "A$4780",
   "days": 6,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52346,7 +52346,7 @@ window.TOURS = [
   "priceEn": "A$4988",
   "days": 16,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52393,7 +52393,7 @@ window.TOURS = [
   "priceEn": "A$6399",
   "days": 25,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52440,7 +52440,7 @@ window.TOURS = [
   "priceEn": "A$5688",
   "days": 18,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52487,7 +52487,7 @@ window.TOURS = [
   "priceEn": "A$7999",
   "days": 16,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52534,7 +52534,7 @@ window.TOURS = [
   "priceEn": "A$7999",
   "days": 16,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52581,7 +52581,7 @@ window.TOURS = [
   "priceEn": "A$2888",
   "days": 15,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52628,7 +52628,7 @@ window.TOURS = [
   "priceEn": "A$5488",
   "days": 15,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52675,7 +52675,7 @@ window.TOURS = [
   "priceEn": "A$4999",
   "days": 12,
   "tags": [
-   "超值"
+   "超值特价"
   ],
   "tagsEn": [
    "Value"
@@ -52722,7 +52722,7 @@ window.TOURS = [
   "priceEn": "A$3688",
   "days": 12,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52769,7 +52769,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
@@ -52828,7 +52828,7 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 5,
   "tags": [
-   "纯玩"
+   "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"

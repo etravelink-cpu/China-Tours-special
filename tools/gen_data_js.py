@@ -35,7 +35,7 @@ IMG_POOL = {'china':['china.jpg','cn-westlake.jpg','cn-greatwall.jpg'],
             'america':['america.jpg','canada.jpg','usa.jpg'],
             'special':['special.jpg','antarctica.jpg'],
             'island':['island.jpg','fiji.jpg'],'other':['other.jpg'],'cruise':['cruise.jpg']}
-CAT_ZH = {'超值特惠团':'超值','纯玩无购物团':'纯玩','含机票特别订制团':'含机票',
+CAT_ZH = {'超值特惠团':'超值特价','超值精品':'超值特价','纯玩无购物团':'纯玩无购物','含机票特别订制团':'机票套餐',
           '单门票·单项体验':'单门票','签证·其他':'签证'}
 CAT_EN = {'超值特惠团':'Value','纯玩无购物团':'No-shopping','含机票特别订制团':'Flight-incl',
           '单门票·单项体验':'Ticket','签证·其他':'Visa'}
