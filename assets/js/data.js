@@ -47687,9 +47687,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
+  "subRegion": "悉尼及周边",
   "subRegions": [
-   "澳洲其他"
+   "悉尼及周边"
   ],
   "price": "A$499",
   "priceEn": "A$499",
@@ -48061,9 +48061,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
+  "subRegion": "悉尼及周边",
   "subRegions": [
-   "澳洲其他"
+   "悉尼及周边"
   ],
   "price": "A$518",
   "priceEn": "A$518",
@@ -48111,9 +48111,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
+  "subRegion": "悉尼及周边",
   "subRegions": [
-   "澳洲其他"
+   "悉尼及周边"
   ],
   "price": "A$518",
   "priceEn": "A$518",
@@ -48161,9 +48161,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
+  "subRegion": "悉尼及周边",
   "subRegions": [
-   "澳洲其他"
+   "悉尼及周边"
   ],
   "price": "A$518",
   "priceEn": "A$518",
@@ -49637,9 +49637,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
+  "subRegion": "塔斯马尼亚",
   "subRegions": [
-   "澳洲其他"
+   "塔斯马尼亚"
   ],
   "price": "A$130",
   "priceEn": "A$130",
@@ -51711,9 +51711,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
+  "subRegion": "黄金海岸&布里斯班",
   "subRegions": [
-   "澳洲其他"
+   "黄金海岸&布里斯班"
   ],
   "price": "A$175",
   "priceEn": "A$175",
@@ -53681,13 +53681,13 @@ window.TOURS = [
   "id": "PV-NZSN11",
   "nameZh": "南北岛双火车11天 冰川大环线8天+北岛4天[纯玩]",
   "nameEn": "南北岛双火车11天 冰川大环线8天+北岛4天[纯玩]",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
+  "dest": "nz",
+  "destZh": "新西兰",
+  "destEn": "nz",
   "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
+  "subRegion": "南北岛连线",
   "subRegions": [
-   "澳洲其他"
+   "南北岛连线"
   ],
   "price": "A$3390",
   "priceEn": "A$3390",
@@ -53698,7 +53698,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/nz.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -55307,68 +55307,6 @@ window.TOURS = [
   "itinerary": [],
   "hotels": [],
   "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "SUP-PV-0173",
-  "nameZh": "测试团PV",
-  "nameEn": "测试团PV",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "澳洲其他",
-  "subRegions": [
-   "澳洲其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 5,
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
-  "introZh": "i",
-  "introEn": "i",
-  "participationNotice": "n",
-  "departureDates": [],
-  "priceTable": [],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "SUP-PV-s45063s-20260801.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-s45063s-20260801.pdf"
-   }
-  ],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "t",
-    "descEn": "t",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "c"
-  ],
   "includesEn": [],
   "excludes": [],
   "excludesEn": [],

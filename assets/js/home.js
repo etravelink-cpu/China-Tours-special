@@ -286,8 +286,11 @@ function rebuild() {
         .join("") +
       `</div>`;
 
-    // 板块3 爆款6卡（横向滚动）
-    const HOT = T.filter((t) => t.featured).slice(0, 9);
+    // 板块3 爆款6卡（横向滚动）— 按全站区域展示顺序排序(与左树/footer一致), 不改设计
+    const HOT_ORDER = ["australia", "nz", "china", "asia", "europe", "cruise", "america", "special"];
+    const HOT = T.filter((t) => t.featured)
+      .sort((a, b) => HOT_ORDER.indexOf(a.dest) - HOT_ORDER.indexOf(b.dest))
+      .slice(0, 9);
     const hotWrap = document.getElementById("hot-grid");
     hotWrap.className = "grid grid-3";
     hotWrap.innerHTML = HOT.map((t) => window.tourCard(t, lang)).join("");
