@@ -2019,7 +2019,7 @@ window.TOURS = [
   "dest": "china",
   "destZh": "中国",
   "destEn": "china",
-  "category": "纯玩无购物团",
+  "category": "含机票特别订制团",
   "subRegion": "山东山西东北河南",
   "subRegions": [
    "山东山西东北河南"
@@ -2028,10 +2028,10 @@ window.TOURS = [
   "priceEn": "A$3799",
   "days": 0,
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/china.jpg",
   "introZh": "",
