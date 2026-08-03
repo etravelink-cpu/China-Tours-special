@@ -24,15 +24,29 @@
   }
 
   function renderItinerary(t){
-    document.getElementById('panel-itinerary').innerHTML = t.itinerary.map(d=>`
-      <div class="day">
-        <div class="d">${d.d} · ${lang==='zh'?d.titleZh:d.titleEn}</div>
-        <div class="line">${lang==='zh'?d.descZh:d.descEn}</div>
-        <div class="spots">● ${lang==='zh'?d.spotsZh.join('　'):d.spotsEn.join('  ')}</div>
-        <div class="line">🚗 ${lang==='zh'?d.transportZh:d.transportEn}</div>
-        <div class="line">🍽 ${lang==='zh'?d.mealZh:d.mealEn}</div>
-        <div class="line">🏨 ${lang==='zh'?d.hotelZh:d.hotelEn}</div>
-      </div>`).join('');
+    document.getElementById('panel-itinerary').innerHTML = t.itinerary.map(d=>{
+      const zh = lang==='zh';
+      const theme = zh ? d.titleZh : d.titleEn;
+      const overview = (zh ? d.descZh : d.descEn) || '';
+      const spots = (zh ? d.spotsZh : d.spotsEn) || [];
+      const foot = [];
+      const tr = zh ? d.transportZh : d.transportEn;
+      const me = zh ? d.mealZh : d.mealEn;
+      const ho = zh ? d.hotelZh : d.hotelEn;
+      if (tr) foot.push("<span>🚗 "+tr+"</span>");
+      if (me) foot.push("<span>🍽 "+me+"</span>");
+      if (ho) foot.push("<span>🏨 "+ho+"</span>");
+      return "<div class='itin-day'>"+
+        "<div class='d-side'><div class='d-no'>"+d.d+"</div>"+
+        (theme?"<div class='d-theme'>"+theme+"</div>":"")+
+        "</div>"+
+        "<div class='d-body'>"+
+          (overview?"<div class='d-overview'>"+overview.replace(/\n/g,'<br>')+"</div>":"")+
+          (spots.length?"<div class='d-spots'>"+spots.join('　')+"</div>":"")+
+          (foot.length?"<div class='d-foot'>"+foot.join('')+"</div>":"")+
+        "</div>"+
+      "</div>";
+    }).join('');
   }
 
   function renderHotel(t){

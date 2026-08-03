@@ -712,6 +712,17 @@ main .container{position:relative;z-index:2}
 .day .d{font-weight:800;color:var(--sky-text);font-size:17px;font-family:var(--font-display)}
 .day .spots{color:var(--sky-deep);font-size:14px;margin:6px 0;font-weight:600}
 .day .line{font-size:14px;color:var(--muted)}
+/* 行程每日卡片(sublic 风格: 左蓝天数块 + 右内容 + 底部交通/餐饮/住宿图标行); list.js与detail.js共用 */
+.itin-day{display:flex;gap:0;margin-bottom:14px;border:1px solid var(--line-cool);border-radius:var(--radius-sm);overflow:hidden;background:#fff}
+.itin-day .d-side{flex:0 0 116px;background:linear-gradient(160deg,var(--sky),var(--sky-deep));color:#fff;padding:16px 12px;display:flex;flex-direction:column;justify-content:center;text-align:center}
+.itin-day .d-side .d-no{font-family:var(--font-display);font-size:22px;font-weight:800;line-height:1}
+.itin-day .d-side .d-theme{font-size:12.5px;margin-top:6px;opacity:.92;line-height:1.4}
+.itin-day .d-body{flex:1;padding:14px 16px;min-width:0}
+.itin-day .d-overview{font-size:14px;color:var(--ink);line-height:1.7;margin-bottom:8px}
+.itin-day .d-spots{font-size:13.5px;color:var(--sky-deep);font-weight:600;margin-bottom:8px}
+.itin-day .d-spots::before{content:"● ";color:var(--orange)}
+.itin-day .d-foot{display:flex;flex-wrap:wrap;gap:10px 18px;padding-top:8px;border-top:1px dashed var(--line);font-size:13px;color:var(--muted)}
+.itin-day .d-foot span{display:inline-flex;align-items:center;gap:5px}
 .includes li,.excludes li,.notes li{margin:6px 0 6px 18px}
 .includes li{color:var(--ink)}
 .includes li::marker{color:var(--sky)}

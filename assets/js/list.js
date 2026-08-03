@@ -289,10 +289,31 @@
         "<div class='rp-sec'><h4>出发日历</h4><p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（库存随时变化，下单前请二次确认）</p>" + parts + "</div>";
     }
     const itin = (t.itinerary || [])
-      .map(
-        (d) =>
-          "<div class='rp-timeline'><div class='rp-time'>" + esc(d.d) + " " + esc(lang === "zh" ? d.titleZh : d.titleEn) + "</div><div>" + esc(lang === "zh" ? d.descZh : d.descEn).replace(/\n/g, "<br>") + "</div></div>",
-      )
+      .map((d) => {
+        const zh = lang === "zh";
+        const theme = zh ? d.titleZh : d.titleEn;
+        const overview = (zh ? d.descZh : d.descEn) || "";
+        const spots = (zh ? d.spotsZh : d.spotsEn) || [];
+        const foot = [];
+        const tr = zh ? d.transportZh : d.transportEn;
+        const me = zh ? d.mealZh : d.mealEn;
+        const ho = zh ? d.hotelZh : d.hotelEn;
+        if (tr) foot.push("<span>🚗 " + esc(tr) + "</span>");
+        if (me) foot.push("<span>🍽 " + esc(me) + "</span>");
+        if (ho) foot.push("<span>🏨 " + esc(ho) + "</span>");
+        return (
+          "<div class='itin-day'>" +
+            "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
+            (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
+            "</div>" +
+            "<div class='d-body'>" +
+              (overview ? "<div class='d-overview'>" + esc(overview).replace(/\n/g, "<br>") + "</div>" : "") +
+              (spots.length ? "<div class='d-spots'>" + spots.map(esc).join("　") + "</div>" : "") +
+              (foot.length ? "<div class='d-foot'>" + foot.join("") + "</div>" : "") +
+            "</div>" +
+          "</div>"
+        );
+      })
       .join("");
     const itinHtml = itin
       ? "<div class='rp-sec'><h4>行程安排</h4>" + itin + "</div>"
