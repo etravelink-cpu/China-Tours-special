@@ -34,6 +34,8 @@
   const ASIA_ORDER = ["日本", "韩国", "台湾", "越南", "泰国", "柬埔寨", "新加坡马来西亚", "亚洲其他"];
   // 美加区子类固定顺序(隐藏类目层; 机票套餐/其他置后, 方便扩展)
   const NA_ORDER = ["东岸", "西岸", "东西岸", "南美", "美加其他", "机票套餐"];
+  // 澳洲区子类固定顺序(隐藏类目层, 单门票置后)
+  const AU_ORDER = ["悉尼及周边", "墨尔本及周边", "黄金海岸&布里斯班", "凯恩斯（大堡礁）", "圣灵群岛", "西澳/珀斯", "乌鲁鲁/北领地", "塔斯马尼亚", "阿德莱德/南澳", "澳洲跨地区联游", "澳洲其他", "单门票·单项体验"];
 
   // 构建树数据(仅按当前目的地)
   function buildTree() {
@@ -102,12 +104,21 @@
       tree["美加"]["__na__"][s] = tree["美加"]["__na__"][s] || [];
       tree["美加"]["__na__"][s].push(t);
     };
+    // 澳洲: 隐藏类目层; 按 AU_ORDER 固定顺序平铺子类
+    const putAU = (t) => {
+      const s = t.subRegion || "澳洲其他";
+      tree["澳洲"] = tree["澳洲"] || {};
+      tree["澳洲"]["__au__"] = tree["澳洲"]["__au__"] || {};
+      tree["澳洲"]["__au__"][s] = tree["澳洲"]["__au__"][s] || [];
+      tree["澳洲"]["__au__"][s].push(t);
+    };
     T.forEach((t) => {
       const d = t.destZh || t.dest || "其他";
       if (t.dest === "nz") { putNZ(t); return; }
       if (t.dest === "china") { putCN(t); return; }
       if (t.dest === "europe") { putEU(t); return; }
       if (t.dest === "america") { putNA(t); return; }
+      if (t.dest === "australia") { putAU(t); return; }
       // 海岛合并进亚洲(用户要求); 邮轮/特别订制从"其他"桶拆分
       if (t.dest === "island") { putAsia(t); return; }
       if (t.dest === "other") {
@@ -132,11 +143,12 @@
     const isFlat = (cats["__nz__"] && Object.keys(cats).length === 1) ||
                    (cats["__sp__"] && Object.keys(cats).length === 1) ||
                    (cats["__eu__"] && Object.keys(cats).length === 1) ||
-                   (cats["__na__"] && Object.keys(cats).length === 1); // 新西兰/特别订制/欧洲/美加 无类目层
+                   (cats["__na__"] && Object.keys(cats).length === 1) ||
+                   (cats["__au__"] && Object.keys(cats).length === 1); // 新西兰/特别订制/欧洲/美加/澳洲 无类目层
     let catHtml = "";
-    // 子类排序(中国按 CN_ORDER, 欧洲按 EU_ORDER, 亚洲按 ASIA_ORDER, 美加按 NA_ORDER, 其余按插入序)
+    // 子类排序(中国按 CN_ORDER, 欧洲按 EU_ORDER, 亚洲按 ASIA_ORDER, 美加按 NA_ORDER, 澳洲按 AU_ORDER, 其余按插入序)
     const subOrder = (dest) =>
-      dest === "中国" ? CN_ORDER : dest === "欧洲" ? EU_ORDER : dest === "亚洲" ? ASIA_ORDER : dest === "美加" ? NA_ORDER : null;
+      dest === "中国" ? CN_ORDER : dest === "欧洲" ? EU_ORDER : dest === "亚洲" ? ASIA_ORDER : dest === "美加" ? NA_ORDER : dest === "澳洲" ? AU_ORDER : null;
     // 类目层排序(超值特价 -> 纯玩无购物 -> 机票套餐 -> 其他)
     const CAT_ORDER = ["超值特价", "纯玩无购物", "机票套餐", "签证", "其他"];
     const catKeys = CAT_ORDER.filter((k) => k in cats).concat(Object.keys(cats).filter((k) => !CAT_ORDER.includes(k)));
