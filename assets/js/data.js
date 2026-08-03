@@ -10,7 +10,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -299,7 +302,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 13,
@@ -823,7 +829,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -1347,7 +1356,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -1455,7 +1467,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 0,
@@ -1564,6 +1577,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值精品",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 0,
@@ -1672,6 +1688,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
@@ -1780,6 +1799,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$2499",
   "priceEn": "A$2499",
   "days": 0,
@@ -1888,6 +1910,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2798",
   "priceEn": "A$2798",
   "days": 0,
@@ -1996,6 +2021,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$3799",
   "priceEn": "A$3799",
   "days": 0,
@@ -2104,6 +2132,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -2211,7 +2242,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$798",
   "priceEn": "A$798",
   "days": 0,
@@ -2319,7 +2353,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "广东广西福建海南"
+  ],
   "price": "A$798",
   "priceEn": "A$798",
   "days": 0,
@@ -2427,7 +2465,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -2530,6 +2569,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -2638,6 +2680,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 0,
@@ -2761,6 +2806,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -2874,6 +2923,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -2982,6 +3034,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 0,
@@ -3090,6 +3145,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -3198,6 +3256,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -3306,6 +3367,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -3414,6 +3478,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -3522,6 +3589,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -3630,6 +3700,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -3738,6 +3811,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "山东山西东北河南"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -3846,6 +3923,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -3954,6 +4034,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -4061,7 +4144,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -4169,7 +4255,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$249",
   "priceEn": "A$249",
   "days": 0,
@@ -4278,6 +4367,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$259",
   "priceEn": "A$259",
   "days": 0,
@@ -4386,6 +4478,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 0,
@@ -4494,6 +4589,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 0,
@@ -4601,7 +4699,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$259",
   "priceEn": "A$259",
   "days": 0,
@@ -4709,7 +4808,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$269",
   "priceEn": "A$269",
   "days": 0,
@@ -4818,6 +4918,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$269",
   "priceEn": "A$269",
   "days": 0,
@@ -4926,6 +5029,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$279",
   "priceEn": "A$279",
   "days": 0,
@@ -5034,6 +5140,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$689",
   "priceEn": "A$689",
   "days": 0,
@@ -5142,6 +5251,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$699",
   "priceEn": "A$699",
   "days": 0,
@@ -5250,6 +5362,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
@@ -5358,6 +5473,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -5466,6 +5584,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "广东广西福建海南"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -5573,7 +5695,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -5682,6 +5805,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2499",
   "priceEn": "A$2499",
   "days": 0,
@@ -5790,6 +5916,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2999",
   "priceEn": "A$2999",
   "days": 0,
@@ -5898,6 +6027,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 0,
@@ -6006,6 +6138,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -6114,6 +6249,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -6222,6 +6360,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -6330,6 +6471,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -6437,7 +6581,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -6545,7 +6692,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$369",
   "priceEn": "A$369",
   "days": 0,
@@ -6653,7 +6803,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -6761,7 +6912,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
@@ -6869,7 +7021,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -6978,6 +7131,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$299",
   "priceEn": "A$299",
   "days": 0,
@@ -7086,6 +7242,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$459",
   "priceEn": "A$459",
   "days": 0,
@@ -7194,6 +7353,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -7302,6 +7464,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -7410,6 +7575,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -7518,6 +7687,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -7626,6 +7798,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$2499",
   "priceEn": "A$2499",
   "days": 0,
@@ -7734,6 +7909,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -7842,6 +8020,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -7950,6 +8131,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "北京西安"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -8058,6 +8243,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
@@ -8166,6 +8355,11 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$2399",
   "priceEn": "A$2399",
   "days": 0,
@@ -8274,6 +8468,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -8382,6 +8579,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -8490,6 +8690,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -8598,6 +8802,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -8706,6 +8913,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -8814,6 +9024,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -8922,6 +9136,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -9029,7 +9247,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -9137,7 +9359,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -9245,7 +9471,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -9354,6 +9584,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -9462,6 +9695,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "广东广西福建海南"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -9570,6 +9807,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -9678,6 +9918,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州",
+   "广东广西福建海南"
+  ],
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 0,
@@ -9786,6 +10030,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -9894,6 +10141,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -10002,6 +10252,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -10110,6 +10363,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -10218,6 +10474,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -10326,6 +10585,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -10434,6 +10696,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1999",
   "priceEn": "A$1999",
   "days": 0,
@@ -10542,6 +10807,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -10650,6 +10918,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -10758,6 +11029,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -10866,6 +11140,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -10974,6 +11251,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -11082,6 +11362,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -11190,6 +11473,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1599",
   "priceEn": "A$1599",
   "days": 0,
@@ -11298,6 +11584,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
@@ -11406,6 +11695,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2099",
   "priceEn": "A$2099",
   "days": 0,
@@ -11514,6 +11807,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2099",
   "priceEn": "A$2099",
   "days": 0,
@@ -11622,6 +11918,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2699",
   "priceEn": "A$2699",
   "days": 0,
@@ -11730,6 +12029,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1799",
   "priceEn": "A$1799",
   "days": 0,
@@ -11838,6 +12140,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1799",
   "priceEn": "A$1799",
   "days": 0,
@@ -11946,6 +12251,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$3399",
   "priceEn": "A$3399",
   "days": 0,
@@ -12054,6 +12362,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -12161,7 +12472,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -12270,6 +12582,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -12378,6 +12693,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡"
+  ],
   "price": "A$549",
   "priceEn": "A$549",
   "days": 0,
@@ -12486,6 +12804,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -12594,6 +12915,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$879",
   "priceEn": "A$879",
   "days": 0,
@@ -12702,6 +13026,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$939",
   "priceEn": "A$939",
   "days": 0,
@@ -12810,6 +13137,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$898",
   "priceEn": "A$898",
   "days": 0,
@@ -12918,6 +13248,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "韩国",
+  "subRegions": [
+   "韩国"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 0,
@@ -13020,6 +13353,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$2599",
   "priceEn": "A$2599",
   "days": 0,
@@ -13122,6 +13458,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$5399",
   "priceEn": "A$5399",
   "days": 0,
@@ -13224,6 +13563,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$1058",
   "priceEn": "A$1058",
   "days": 0,
@@ -13326,6 +13668,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$1058",
   "priceEn": "A$1058",
   "days": 0,
@@ -13428,6 +13773,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$2098",
   "priceEn": "A$2098",
   "days": 0,
@@ -13530,6 +13878,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$638",
   "priceEn": "A$638",
   "days": 0,
@@ -13632,6 +13983,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$738",
   "priceEn": "A$738",
   "days": 0,
@@ -13734,6 +14088,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$1018",
   "priceEn": "A$1018",
   "days": 0,
@@ -13836,6 +14193,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "韩国",
+  "subRegions": [
+   "韩国"
+  ],
   "price": "A$919",
   "priceEn": "A$919",
   "days": 0,
@@ -13938,6 +14298,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "越南",
+  "subRegions": [
+   "越南"
+  ],
   "price": "A$498",
   "priceEn": "A$498",
   "days": 0,
@@ -14040,6 +14403,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$998",
   "priceEn": "A$998",
   "days": 0,
@@ -14142,6 +14508,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 0,
@@ -14244,6 +14613,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 0,
@@ -14346,6 +14718,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "新加坡马来西亚",
+  "subRegions": [
+   "新加坡马来西亚"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -14448,6 +14823,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "新加坡马来西亚",
+  "subRegions": [
+   "新加坡马来西亚"
+  ],
   "price": "A$1498",
   "priceEn": "A$1498",
   "days": 0,
@@ -14550,6 +14928,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东西岸",
+  "subRegions": [
+   "东西岸"
+  ],
   "price": "A$8580",
   "priceEn": "A$8580",
   "days": 0,
@@ -14652,6 +15033,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "含机票特别订制团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$5999",
   "priceEn": "A$5999",
   "days": 0,
@@ -14754,6 +15138,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "含机票特别订制团",
   "subRegion": "东西岸",
+  "subRegions": [
+   "东西岸"
+  ],
   "price": "A$23499",
   "priceEn": "A$23499",
   "days": 0,
@@ -14856,6 +15243,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "南美",
+  "subRegions": [
+   "南美"
+  ],
   "price": "A$16888",
   "priceEn": "A$16888",
   "days": 0,
@@ -14958,6 +15348,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$1088",
   "priceEn": "A$1088",
   "days": 0,
@@ -15060,6 +15453,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$1288",
   "priceEn": "A$1288",
   "days": 0,
@@ -15162,6 +15558,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$2078",
   "priceEn": "A$2078",
   "days": 0,
@@ -15264,6 +15663,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$2428",
   "priceEn": "A$2428",
   "days": 0,
@@ -15366,6 +15768,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "西岸",
+  "subRegions": [
+   "西岸"
+  ],
   "price": "A$1898",
   "priceEn": "A$1898",
   "days": 0,
@@ -15468,6 +15873,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$2618",
   "priceEn": "A$2618",
   "days": 0,
@@ -15570,6 +15978,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "西岸",
+  "subRegions": [
+   "西岸"
+  ],
   "price": "A$2058",
   "priceEn": "A$2058",
   "days": 0,
@@ -15672,6 +16083,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "西岸",
+  "subRegions": [
+   "西岸"
+  ],
   "price": "A$2198",
   "priceEn": "A$2198",
   "days": 0,
@@ -15774,6 +16188,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "西岸",
+  "subRegions": [
+   "西岸"
+  ],
   "price": "A$2228",
   "priceEn": "A$2228",
   "days": 0,
@@ -15876,6 +16293,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "西岸",
+  "subRegions": [
+   "西岸"
+  ],
   "price": "A$2398",
   "priceEn": "A$2398",
   "days": 0,
@@ -15978,6 +16398,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$2758",
   "priceEn": "A$2758",
   "days": 0,
@@ -16080,6 +16503,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$3498",
   "priceEn": "A$3498",
   "days": 0,
@@ -16182,6 +16608,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$2199",
   "priceEn": "A$2199",
   "days": 0,
@@ -16284,6 +16713,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$1539",
   "priceEn": "A$1539",
   "days": 0,
@@ -16386,6 +16818,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -16488,6 +16923,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$2339",
   "priceEn": "A$2339",
   "days": 0,
@@ -16590,6 +17028,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "subRegions": [
+   "多国连线"
+  ],
   "price": "A$9699",
   "priceEn": "A$9699",
   "days": 0,
@@ -16692,6 +17133,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "subRegions": [
+   "多国连线"
+  ],
   "price": "A$6888",
   "priceEn": "A$6888",
   "days": 0,
@@ -16794,6 +17238,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "subRegions": [
+   "多国连线"
+  ],
   "price": "A$6888",
   "priceEn": "A$6888",
   "days": 0,
@@ -16896,6 +17343,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "欧洲其他",
+  "subRegions": [
+   "欧洲其他"
+  ],
   "price": "A$8499",
   "priceEn": "A$8499",
   "days": 0,
@@ -16998,6 +17448,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "subRegions": [
+   "多国连线"
+  ],
   "price": "A$8699",
   "priceEn": "A$8699",
   "days": 0,
@@ -17100,6 +17553,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "subRegions": [
+   "多国连线"
+  ],
   "price": "A$8999",
   "priceEn": "A$8999",
   "days": 0,
@@ -17202,6 +17658,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "红线线路",
+  "subRegions": [
+   "红线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -17304,6 +17763,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "红线线路",
+  "subRegions": [
+   "红线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -17406,6 +17868,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "黄线线路",
+  "subRegions": [
+   "黄线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -17508,6 +17973,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "黄线线路",
+  "subRegions": [
+   "黄线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -17610,6 +18078,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "绿线线路",
+  "subRegions": [
+   "绿线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -17712,6 +18183,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "绿线线路",
+  "subRegions": [
+   "绿线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -17814,6 +18288,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "蓝线线路",
+  "subRegions": [
+   "蓝线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -17916,6 +18393,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "蓝线线路",
+  "subRegions": [
+   "蓝线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -18018,6 +18498,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "棕线线路",
+  "subRegions": [
+   "棕线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -18120,6 +18603,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "棕线线路",
+  "subRegions": [
+   "棕线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -18222,6 +18708,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "紫线线路",
+  "subRegions": [
+   "紫线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -18324,6 +18813,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "紫线线路",
+  "subRegions": [
+   "紫线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -18426,6 +18918,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "紫线线路",
+  "subRegions": [
+   "紫线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -18528,6 +19023,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "紫线线路",
+  "subRegions": [
+   "紫线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -18630,6 +19128,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "橙线线路",
+  "subRegions": [
+   "橙线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -18732,6 +19233,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "橙线线路",
+  "subRegions": [
+   "橙线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -18834,6 +19338,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "欧洲其他",
+  "subRegions": [
+   "欧洲其他"
+  ],
   "price": "A$3999",
   "priceEn": "A$3999",
   "days": 0,
@@ -18936,6 +19443,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "欧洲其他",
+  "subRegions": [
+   "欧洲其他"
+  ],
   "price": "A$4498",
   "priceEn": "A$4498",
   "days": 0,
@@ -19038,6 +19548,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "金线线路",
+  "subRegions": [
+   "金线线路"
+  ],
   "price": "A$1339",
   "priceEn": "A$1339",
   "days": 0,
@@ -19140,6 +19653,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "金线线路",
+  "subRegions": [
+   "金线线路"
+  ],
   "price": "A$1829",
   "priceEn": "A$1829",
   "days": 0,
@@ -19242,6 +19758,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "粉线线路",
+  "subRegions": [
+   "粉线线路"
+  ],
   "price": "A$1449",
   "priceEn": "A$1449",
   "days": 0,
@@ -19344,6 +19863,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "粉线线路",
+  "subRegions": [
+   "粉线线路"
+  ],
   "price": "A$2079",
   "priceEn": "A$2079",
   "days": 0,
@@ -19446,6 +19968,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "含机票特别订制团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -19548,6 +20073,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "含机票特别订制团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$699",
   "priceEn": "A$699",
   "days": 0,
@@ -19650,6 +20178,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "含机票特别订制团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -19752,6 +20283,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "含机票特别订制团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -19854,6 +20388,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "含机票特别订制团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -19956,6 +20493,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "含机票特别订制团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -20058,6 +20598,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "含机票特别订制团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -20160,6 +20703,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "纯玩无购物团",
   "subRegion": "巴厘岛",
+  "subRegions": [
+   "巴厘岛"
+  ],
   "price": "A$1999",
   "priceEn": "A$1999",
   "days": 0,
@@ -20262,6 +20808,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "签证·其他",
   "subRegion": "签证",
+  "subRegions": [
+   "签证"
+  ],
   "price": "A$330",
   "priceEn": "A$330",
   "days": 0,
@@ -20364,6 +20913,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$3026",
   "priceEn": "A$3026",
   "days": 11,
@@ -20411,6 +20963,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$2959",
   "priceEn": "A$2959",
   "days": 10,
@@ -20458,6 +21013,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$2839",
   "priceEn": "A$2839",
   "days": 11,
@@ -20505,6 +21063,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1868",
   "priceEn": "A$1868",
   "days": 8,
@@ -20558,6 +21119,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1698",
   "priceEn": "A$1698",
   "days": 7,
@@ -20611,6 +21175,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1548",
   "priceEn": "A$1548",
   "days": 6,
@@ -20664,6 +21231,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1939",
   "priceEn": "A$1939",
   "days": 6,
@@ -20711,6 +21281,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
@@ -20764,6 +21337,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$699",
   "priceEn": "A$699",
   "days": 2,
@@ -20817,6 +21393,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$1799",
   "priceEn": "A$1799",
   "days": 4,
@@ -20864,6 +21443,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$969",
   "priceEn": "A$969",
   "days": 5,
@@ -20911,6 +21493,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 4,
@@ -20964,6 +21549,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$649",
   "priceEn": "A$649",
   "days": 3,
@@ -21011,6 +21599,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 4,
@@ -21064,6 +21655,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$1120",
   "priceEn": "A$1120",
   "days": 3,
@@ -21111,6 +21705,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$578",
   "priceEn": "A$578",
   "days": 3,
@@ -21158,6 +21755,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$818",
   "priceEn": "A$818",
   "days": 4,
@@ -21211,6 +21811,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "圣灵群岛",
+  "subRegions": [
+   "圣灵群岛"
+  ],
   "price": "A$992",
   "priceEn": "A$992",
   "days": 4,
@@ -21264,6 +21867,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 7,
@@ -21317,6 +21923,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 6,
@@ -21370,6 +21979,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 5,
@@ -21423,6 +22035,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$949",
   "priceEn": "A$949",
   "days": 4,
@@ -21470,6 +22085,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$699",
   "priceEn": "A$699",
   "days": 3,
@@ -21517,6 +22135,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$1818",
   "priceEn": "A$1818",
   "days": 5,
@@ -21564,6 +22185,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$1618",
   "priceEn": "A$1618",
   "days": 4,
@@ -21611,6 +22235,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$1368",
   "priceEn": "A$1368",
   "days": 3,
@@ -21658,6 +22285,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$1118",
   "priceEn": "A$1118",
   "days": 3,
@@ -21705,6 +22335,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$998",
   "priceEn": "A$998",
   "days": 3,
@@ -21752,6 +22385,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 6,
@@ -21799,6 +22435,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$1028",
   "priceEn": "A$1028",
   "days": 5,
@@ -21852,6 +22491,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$998",
   "priceEn": "A$998",
   "days": 5,
@@ -21899,6 +22541,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$848",
   "priceEn": "A$848",
   "days": 4,
@@ -21952,6 +22597,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$658",
   "priceEn": "A$658",
   "days": 3,
@@ -22005,6 +22653,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 1,
@@ -22058,6 +22709,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -22111,6 +22765,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -22164,6 +22821,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -22217,6 +22877,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$215",
   "priceEn": "A$215",
   "days": 1,
@@ -22264,6 +22927,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$159",
   "priceEn": "A$159",
   "days": 1,
@@ -22311,6 +22977,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$149",
   "priceEn": "A$149",
   "days": 1,
@@ -22387,6 +23056,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
@@ -22440,6 +23112,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$229",
   "priceEn": "A$229",
   "days": 1,
@@ -22487,6 +23162,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
@@ -22534,6 +23212,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -22581,6 +23262,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$119",
   "priceEn": "A$119",
   "days": 1,
@@ -22628,6 +23312,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$119",
   "priceEn": "A$119",
   "days": 1,
@@ -22675,6 +23362,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$79",
   "priceEn": "A$79",
   "days": 1,
@@ -22722,6 +23412,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$259",
   "priceEn": "A$259",
   "days": 1,
@@ -22769,6 +23462,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -22816,6 +23512,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -22869,6 +23568,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -22916,6 +23618,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$175",
   "priceEn": "A$175",
   "days": 1,
@@ -22969,6 +23674,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 1,
@@ -23016,6 +23724,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 1,
@@ -23063,6 +23774,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$95",
   "priceEn": "A$95",
   "days": 1,
@@ -23110,6 +23824,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "圣灵群岛",
+  "subRegions": [
+   "圣灵群岛"
+  ],
   "price": "A$720",
   "priceEn": "A$720",
   "days": 1,
@@ -23157,6 +23874,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$395",
   "priceEn": "A$395",
   "days": 1,
@@ -23204,6 +23924,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$353",
   "priceEn": "A$353",
   "days": 1,
@@ -23257,6 +23980,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$348",
   "priceEn": "A$348",
   "days": 1,
@@ -23310,6 +24036,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$325",
   "priceEn": "A$325",
   "days": 1,
@@ -23363,6 +24092,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$322",
   "priceEn": "A$322",
   "days": 1,
@@ -23416,6 +24148,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$317",
   "priceEn": "A$317",
   "days": 1,
@@ -23469,6 +24204,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$349",
   "priceEn": "A$349",
   "days": 1,
@@ -23516,6 +24254,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$279",
   "priceEn": "A$279",
   "days": 1,
@@ -23563,6 +24304,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "圣灵群岛",
+  "subRegions": [
+   "圣灵群岛"
+  ],
   "price": "A$259",
   "priceEn": "A$259",
   "days": 1,
@@ -23610,6 +24354,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$259",
   "priceEn": "A$259",
   "days": 1,
@@ -23657,6 +24404,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$240",
   "priceEn": "A$240",
   "days": 1,
@@ -23704,6 +24454,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$230",
   "priceEn": "A$230",
   "days": 1,
@@ -23751,6 +24504,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$228",
   "priceEn": "A$228",
   "days": 1,
@@ -23804,6 +24560,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "圣灵群岛",
+  "subRegions": [
+   "圣灵群岛"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 1,
@@ -23851,6 +24610,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$190",
   "priceEn": "A$190",
   "days": 1,
@@ -23904,6 +24666,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$190",
   "priceEn": "A$190",
   "days": 1,
@@ -23957,6 +24722,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$184",
   "priceEn": "A$184",
   "days": 1,
@@ -24004,6 +24772,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$162",
   "priceEn": "A$162",
   "days": 1,
@@ -24051,6 +24822,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$388",
   "priceEn": "A$388",
   "days": 1,
@@ -24098,6 +24872,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
@@ -24145,6 +24922,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
@@ -24192,6 +24972,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
@@ -24239,6 +25022,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
@@ -24286,6 +25072,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$200",
   "priceEn": "A$200",
   "days": 1,
@@ -24333,6 +25122,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$198",
   "priceEn": "A$198",
   "days": 1,
@@ -24380,6 +25172,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$195",
   "priceEn": "A$195",
   "days": 1,
@@ -24427,6 +25222,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$165",
   "priceEn": "A$165",
   "days": 1,
@@ -24474,6 +25272,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$85",
   "priceEn": "A$85",
   "days": 1,
@@ -24521,6 +25322,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$355",
   "priceEn": "A$355",
   "days": 1,
@@ -24568,6 +25372,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$295",
   "priceEn": "A$295",
   "days": 1,
@@ -24615,6 +25422,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$239",
   "priceEn": "A$239",
   "days": 1,
@@ -24662,6 +25472,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$219",
   "priceEn": "A$219",
   "days": 1,
@@ -24709,6 +25522,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$209",
   "priceEn": "A$209",
   "days": 1,
@@ -24756,6 +25572,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
@@ -24803,6 +25622,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
@@ -24850,6 +25672,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$98",
   "priceEn": "A$98",
   "days": 1,
@@ -24897,6 +25722,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$50",
   "priceEn": "A$50",
   "days": 1,
@@ -24944,6 +25772,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$700",
   "priceEn": "A$700",
   "days": 1,
@@ -24991,6 +25822,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$299",
   "priceEn": "A$299",
   "days": 1,
@@ -25038,6 +25872,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$208",
   "priceEn": "A$208",
   "days": 1,
@@ -25085,6 +25922,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$168",
   "priceEn": "A$168",
   "days": 1,
@@ -25132,6 +25972,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$180",
   "priceEn": "A$180",
   "days": 1,
@@ -25179,6 +26022,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$175",
   "priceEn": "A$175",
   "days": 1,
@@ -25226,6 +26072,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$155",
   "priceEn": "A$155",
   "days": 1,
@@ -25273,6 +26122,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$148",
   "priceEn": "A$148",
   "days": 1,
@@ -25320,6 +26172,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$138",
   "priceEn": "A$138",
   "days": 1,
@@ -25367,6 +26222,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 1,
@@ -25414,6 +26272,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$98",
   "priceEn": "A$98",
   "days": 1,
@@ -25461,6 +26322,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "subRegions": [
+   "新西兰南岛"
+  ],
   "price": "A$1858",
   "priceEn": "A$1858",
   "days": 7,
@@ -25514,6 +26378,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰北岛",
+  "subRegions": [
+   "新西兰北岛"
+  ],
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 4,
@@ -25561,6 +26428,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "subRegions": [
+   "新西兰南岛"
+  ],
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 9,
@@ -25608,6 +26478,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰北岛",
+  "subRegions": [
+   "新西兰北岛"
+  ],
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 4,
@@ -25655,6 +26528,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "南北岛连线",
+  "subRegions": [
+   "南北岛连线"
+  ],
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 10,
@@ -25702,6 +26578,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "南北岛连线",
+  "subRegions": [
+   "南北岛连线"
+  ],
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 10,
@@ -25749,6 +26628,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$37",
   "priceEn": "A$37",
   "days": 1,
@@ -25807,6 +26689,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -25909,6 +26794,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$89",
   "priceEn": "A$89",
   "days": 0,
@@ -26011,6 +26899,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 0,
@@ -26113,6 +27004,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -26215,6 +27109,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$689",
   "priceEn": "A$689",
   "days": 0,
@@ -26317,6 +27214,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$259",
   "priceEn": "A$259",
   "days": 0,
@@ -26419,6 +27319,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$699",
   "priceEn": "A$699",
   "days": 0,
@@ -26521,6 +27425,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -26623,6 +27531,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -26725,6 +27637,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -26827,6 +27742,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡"
+  ],
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
@@ -26929,6 +27847,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$189",
   "priceEn": "A$189",
   "days": 0,
@@ -27031,6 +27952,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -27133,6 +28058,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "广东广西福建海南"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -27235,6 +28164,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$998",
   "priceEn": "A$998",
   "days": 0,
@@ -27337,6 +28269,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -27439,6 +28374,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -27541,6 +28479,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 0,
@@ -27643,6 +28584,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -27745,6 +28690,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$269",
   "priceEn": "A$269",
   "days": 0,
@@ -27847,6 +28795,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$299",
   "priceEn": "A$299",
   "days": 0,
@@ -27948,7 +28899,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$249",
   "priceEn": "A$249",
   "days": 0,
@@ -28051,6 +29005,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -28153,6 +29110,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -28255,6 +29215,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -28357,6 +29320,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "山东山西东北河南"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -28459,6 +29426,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$259",
   "priceEn": "A$259",
   "days": 0,
@@ -28561,6 +29531,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$269",
   "priceEn": "A$269",
   "days": 0,
@@ -28663,6 +29636,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$689",
   "priceEn": "A$689",
   "days": 0,
@@ -28765,6 +29741,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -28867,6 +29846,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -28969,6 +29951,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$299",
   "priceEn": "A$299",
   "days": 0,
@@ -29071,6 +30056,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$449",
   "priceEn": "A$449",
   "days": 0,
@@ -29173,6 +30161,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "广东广西福建海南"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -29275,6 +30267,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "广东广西福建海南"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -29377,6 +30373,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -29479,6 +30478,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1949",
   "priceEn": "A$1949",
   "days": 0,
@@ -29581,6 +30583,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -29683,6 +30688,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -29785,6 +30793,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1799",
   "priceEn": "A$1799",
   "days": 0,
@@ -29887,6 +30898,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1949",
   "priceEn": "A$1949",
   "days": 0,
@@ -29989,6 +31003,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
@@ -30091,6 +31108,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$269",
   "priceEn": "A$269",
   "days": 0,
@@ -30193,6 +31213,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "广东广西福建海南"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -30294,7 +31318,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -30396,7 +31423,10 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$369",
   "priceEn": "A$369",
   "days": 0,
@@ -30499,6 +31529,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -30601,6 +31634,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$398",
   "priceEn": "A$398",
   "days": 0,
@@ -30703,6 +31739,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -30805,6 +31844,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$299",
   "priceEn": "A$299",
   "days": 0,
@@ -30907,6 +31950,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "广东广西福建海南"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -31009,6 +32056,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -31111,6 +32161,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 0,
@@ -31213,6 +32267,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 0,
@@ -31315,6 +32373,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$299",
   "priceEn": "A$299",
   "days": 0,
@@ -31417,6 +32478,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
@@ -31519,6 +32583,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
@@ -31621,6 +32688,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$588",
   "priceEn": "A$588",
   "days": 0,
@@ -31722,7 +32792,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -31824,7 +32898,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -31927,6 +33005,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 0,
@@ -32029,6 +33111,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -32130,7 +33215,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -32233,6 +33322,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 0,
@@ -32335,6 +33427,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -32437,6 +33533,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -32539,6 +33639,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 0,
@@ -32641,6 +33744,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$498",
   "priceEn": "A$498",
   "days": 0,
@@ -32743,6 +33849,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$598",
   "priceEn": "A$598",
   "days": 0,
@@ -32845,6 +33954,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
@@ -32946,7 +34059,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -33048,7 +34165,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -33150,7 +34271,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -33253,6 +34378,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$299",
   "priceEn": "A$299",
   "days": 0,
@@ -33361,6 +34490,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$449",
   "priceEn": "A$449",
   "days": 0,
@@ -33469,6 +34602,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$249",
   "priceEn": "A$249",
   "days": 0,
@@ -33577,6 +34714,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$898",
   "priceEn": "A$898",
   "days": 0,
@@ -33679,6 +34819,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$198",
   "priceEn": "A$198",
   "days": 0,
@@ -33781,6 +34925,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
@@ -33882,7 +35030,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "广东广西福建海南"
+  ],
   "price": "A$798",
   "priceEn": "A$798",
   "days": 0,
@@ -33984,7 +35136,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$898",
   "priceEn": "A$898",
   "days": 0,
@@ -34087,6 +35243,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2798",
   "priceEn": "A$2798",
   "days": 0,
@@ -34189,6 +35348,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$598",
   "priceEn": "A$598",
   "days": 0,
@@ -34291,6 +35453,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -34393,6 +35559,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -34495,6 +35664,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -34597,6 +35769,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -34699,6 +35874,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -34801,6 +35979,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
@@ -34903,6 +36084,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2699",
   "priceEn": "A$2699",
   "days": 0,
@@ -35005,6 +36189,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -35107,6 +36294,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
@@ -35209,6 +36399,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
@@ -35311,6 +36504,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2099",
   "priceEn": "A$2099",
   "days": 0,
@@ -35413,6 +36609,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$898",
   "priceEn": "A$898",
   "days": 0,
@@ -35515,6 +36714,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$1398",
   "priceEn": "A$1398",
   "days": 0,
@@ -35616,7 +36818,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -35718,7 +36924,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -35820,7 +37030,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -35923,6 +37137,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -36025,6 +37243,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -36127,6 +37348,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1599",
   "priceEn": "A$1599",
   "days": 0,
@@ -36229,6 +37454,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -36331,6 +37559,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 0,
@@ -36433,6 +37664,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "北京西安"
+  ],
   "price": "A$1688",
   "priceEn": "A$1688",
   "days": 0,
@@ -36535,6 +37770,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$1599",
   "priceEn": "A$1599",
   "days": 0,
@@ -36637,6 +37876,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$1398",
   "priceEn": "A$1398",
   "days": 0,
@@ -36739,6 +37982,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$1898",
   "priceEn": "A$1898",
   "days": 0,
@@ -36841,6 +38088,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1599",
   "priceEn": "A$1599",
   "days": 0,
@@ -36943,6 +38193,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2099",
   "priceEn": "A$2099",
   "days": 0,
@@ -37045,6 +38299,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安",
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$3299",
   "priceEn": "A$3299",
   "days": 0,
@@ -37147,6 +38405,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$749",
   "priceEn": "A$749",
   "days": 0,
@@ -37249,6 +38510,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$789",
   "priceEn": "A$789",
   "days": 0,
@@ -37351,6 +38615,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州",
+   "广东广西福建海南"
+  ],
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 0,
@@ -37453,6 +38721,11 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "北京西安",
+   "长江三峡"
+  ],
   "price": "A$2278",
   "priceEn": "A$2278",
   "days": 0,
@@ -37555,6 +38828,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -37657,6 +38933,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$789",
   "priceEn": "A$789",
   "days": 0,
@@ -37759,6 +39038,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "广东广西福建海南"
+  ],
   "price": "A$1389",
   "priceEn": "A$1389",
   "days": 0,
@@ -37860,7 +39143,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -37962,7 +39249,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
@@ -38065,6 +39353,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -38167,6 +39459,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -38269,6 +39565,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -38371,6 +39670,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -38473,6 +39775,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1999",
   "priceEn": "A$1999",
   "days": 0,
@@ -38575,6 +39880,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -38677,6 +39985,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -38779,6 +40090,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡"
+  ],
   "price": "A$549",
   "priceEn": "A$549",
   "days": 0,
@@ -38881,6 +40195,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -38983,6 +40300,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -39085,6 +40405,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -39187,6 +40510,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -39289,6 +40615,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1249",
   "priceEn": "A$1249",
   "days": 0,
@@ -39391,6 +40720,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1849",
   "priceEn": "A$1849",
   "days": 0,
@@ -39493,6 +40826,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -39595,6 +40931,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 0,
@@ -39697,6 +41036,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$2599",
   "priceEn": "A$2599",
   "days": 0,
@@ -39799,6 +41141,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1698",
   "priceEn": "A$1698",
   "days": 0,
@@ -39901,6 +41247,10 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "subRegions": [
+   "长江三峡",
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1698",
   "priceEn": "A$1698",
   "days": 0,
@@ -40003,6 +41353,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -40105,6 +41458,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -40207,6 +41563,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -40309,6 +41668,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
@@ -40411,6 +41773,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
@@ -40513,6 +41878,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$2899",
   "priceEn": "A$2899",
   "days": 0,
@@ -40615,6 +41983,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
@@ -40717,6 +42088,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "subRegions": [
+   "山东山西东北河南"
+  ],
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 0,
@@ -40819,6 +42193,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$2298",
   "priceEn": "A$2298",
   "days": 0,
@@ -40921,6 +42298,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "韩国",
+  "subRegions": [
+   "韩国"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 0,
@@ -41023,6 +42403,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "越南",
+  "subRegions": [
+   "越南"
+  ],
   "price": "A$1049",
   "priceEn": "A$1049",
   "days": 0,
@@ -41125,6 +42508,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "越南",
+  "subRegions": [
+   "越南"
+  ],
   "price": "A$2498",
   "priceEn": "A$2498",
   "days": 0,
@@ -41227,6 +42613,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "柬埔寨",
+  "subRegions": [
+   "柬埔寨"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -41329,6 +42718,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "越南",
+  "subRegions": [
+   "越南"
+  ],
   "price": "A$2399",
   "priceEn": "A$2399",
   "days": 0,
@@ -41431,6 +42823,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "泰国",
+  "subRegions": [
+   "泰国"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
@@ -41533,6 +42928,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$588",
   "priceEn": "A$588",
   "days": 0,
@@ -41635,6 +43033,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -41737,6 +43138,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
@@ -41839,6 +43243,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "新加坡马来西亚",
+  "subRegions": [
+   "新加坡马来西亚"
+  ],
   "price": "A$969",
   "priceEn": "A$969",
   "days": 0,
@@ -41941,6 +43348,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$849",
   "priceEn": "A$849",
   "days": 0,
@@ -42043,6 +43453,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
@@ -42145,6 +43558,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "新加坡马来西亚",
+  "subRegions": [
+   "新加坡马来西亚"
+  ],
   "price": "A$969",
   "priceEn": "A$969",
   "days": 0,
@@ -42247,6 +43663,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$1898",
   "priceEn": "A$1898",
   "days": 0,
@@ -42349,6 +43768,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$2098",
   "priceEn": "A$2098",
   "days": 0,
@@ -42451,6 +43873,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$2098",
   "priceEn": "A$2098",
   "days": 0,
@@ -42553,6 +43978,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$998",
   "priceEn": "A$998",
   "days": 0,
@@ -42655,6 +44083,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 0,
@@ -42757,6 +44188,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "台湾",
+  "subRegions": [
+   "台湾"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 0,
@@ -42859,6 +44293,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "新加坡马来西亚",
+  "subRegions": [
+   "新加坡马来西亚"
+  ],
   "price": "A$1498",
   "priceEn": "A$1498",
   "days": 0,
@@ -42961,6 +44398,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$598",
   "priceEn": "A$598",
   "days": 0,
@@ -43063,6 +44503,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "subRegions": [
+   "日本"
+  ],
   "price": "A$1998",
   "priceEn": "A$1998",
   "days": 0,
@@ -43165,6 +44608,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$1049",
   "priceEn": "A$1049",
   "days": 0,
@@ -43267,6 +44713,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -43369,6 +44818,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$749",
   "priceEn": "A$749",
   "days": 0,
@@ -43471,6 +44923,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -43573,6 +45028,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$530",
   "priceEn": "A$530",
   "days": 0,
@@ -43675,6 +45133,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
@@ -43777,6 +45238,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$830",
   "priceEn": "A$830",
   "days": 0,
@@ -43879,6 +45343,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$1049",
   "priceEn": "A$1049",
   "days": 0,
@@ -43981,6 +45448,9 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "subRegions": [
+   "亚洲其他"
+  ],
   "price": "A$980",
   "priceEn": "A$980",
   "days": 0,
@@ -44083,6 +45553,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$189",
   "priceEn": "A$189",
   "days": 1,
@@ -44191,6 +45664,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$159",
   "priceEn": "A$159",
   "days": 1,
@@ -44299,6 +45775,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -44352,6 +45831,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -44405,6 +45887,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$149",
   "priceEn": "A$149",
   "days": 1,
@@ -44458,6 +45943,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -44511,6 +45999,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -44619,6 +46110,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
@@ -44672,6 +46166,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$149",
   "priceEn": "A$149",
   "days": 1,
@@ -44725,6 +46222,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$159",
   "priceEn": "A$159",
   "days": 1,
@@ -44778,6 +46278,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1788",
   "priceEn": "A$1788",
   "days": 8,
@@ -44831,6 +46334,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1698",
   "priceEn": "A$1698",
   "days": 7,
@@ -44884,6 +46390,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$2688",
   "priceEn": "A$2688",
   "days": 9,
@@ -44937,6 +46446,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$2599",
   "priceEn": "A$2599",
   "days": 9,
@@ -44990,6 +46502,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$3888",
   "priceEn": "A$3888",
   "days": 12,
@@ -45043,6 +46558,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$1149",
   "priceEn": "A$1149",
   "days": 5,
@@ -45096,6 +46614,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$749",
   "priceEn": "A$749",
   "days": 3,
@@ -45143,6 +46664,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$949",
   "priceEn": "A$949",
   "days": 4,
@@ -45190,6 +46714,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰其他",
+  "subRegions": [
+   "新西兰其他"
+  ],
   "price": "A$3720",
   "priceEn": "A$3720",
   "days": 12,
@@ -45243,6 +46770,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰其他",
+  "subRegions": [
+   "新西兰其他"
+  ],
   "price": "A$3690",
   "priceEn": "A$3690",
   "days": 12,
@@ -45296,6 +46826,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$699",
   "priceEn": "A$699",
   "days": 3,
@@ -45349,6 +46882,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$669",
   "priceEn": "A$669",
   "days": 3,
@@ -45402,6 +46938,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$949",
   "priceEn": "A$949",
   "days": 4,
@@ -45455,6 +46994,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$1189",
   "priceEn": "A$1189",
   "days": 5,
@@ -45508,6 +47050,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$739",
   "priceEn": "A$739",
   "days": 3,
@@ -45561,6 +47106,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$190",
   "priceEn": "A$190",
   "days": 1,
@@ -45614,6 +47162,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "A$499",
   "priceEn": "A$499",
   "days": 2,
@@ -45667,6 +47218,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$1589",
   "priceEn": "A$1589",
   "days": 5,
@@ -45720,6 +47274,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 7,
@@ -45773,6 +47330,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 3,
@@ -45826,6 +47386,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$518",
   "priceEn": "A$518",
   "days": 3,
@@ -45873,6 +47436,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$127",
   "priceEn": "A$127",
   "days": 1,
@@ -45920,6 +47486,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$91",
   "priceEn": "A$91",
   "days": 1,
@@ -45967,6 +47536,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "A$518",
   "priceEn": "A$518",
   "days": 3,
@@ -46014,6 +47586,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "A$518",
   "priceEn": "A$518",
   "days": 3,
@@ -46061,6 +47636,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "A$518",
   "priceEn": "A$518",
   "days": 3,
@@ -46108,6 +47686,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$91",
   "priceEn": "A$91",
   "days": 1,
@@ -46155,6 +47736,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 5,
@@ -46208,6 +47792,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 3,
@@ -46261,6 +47848,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 4,
@@ -46314,6 +47904,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 5,
@@ -46355,6 +47948,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "subRegions": [
+   "阿德莱德/南澳"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 6,
@@ -46408,6 +48004,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 3,
@@ -46461,6 +48060,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
@@ -46514,6 +48116,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
@@ -46567,6 +48172,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$4",
   "priceEn": "A$4",
   "days": 7,
@@ -46620,6 +48228,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$4",
   "priceEn": "A$4",
   "days": 5,
@@ -46673,6 +48284,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 2,
@@ -46726,6 +48340,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$4",
   "priceEn": "A$4",
   "days": 4,
@@ -46779,6 +48396,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$4",
   "priceEn": "A$4",
   "days": 4,
@@ -46832,6 +48452,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$4",
   "priceEn": "A$4",
   "days": 5,
@@ -46885,6 +48508,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$4",
   "priceEn": "A$4",
   "days": 6,
@@ -46938,6 +48564,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$1600",
   "priceEn": "A$1600",
   "days": 6,
@@ -46991,6 +48620,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "subRegions": [
+   "西澳/珀斯"
+  ],
   "price": "A$4",
   "priceEn": "A$4",
   "days": 6,
@@ -47044,6 +48676,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 3,
@@ -47097,6 +48732,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 5,
@@ -47150,6 +48788,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 4,
@@ -47203,6 +48844,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 3,
@@ -47256,6 +48900,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "subRegions": [
+   "乌鲁鲁/北领地"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 3,
@@ -47309,6 +48956,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$858",
   "priceEn": "A$858",
   "days": 5,
@@ -47362,6 +49012,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "subRegions": [
+   "塔斯马尼亚"
+  ],
   "price": "A$140",
   "priceEn": "A$140",
   "days": 1,
@@ -47409,6 +49062,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$110",
   "priceEn": "A$110",
   "days": 1,
@@ -47456,6 +49112,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "A$130",
   "priceEn": "A$130",
   "days": 1,
@@ -47503,6 +49162,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 5,
@@ -47556,6 +49218,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$599",
   "priceEn": "A$599",
   "days": 3,
@@ -47603,6 +49268,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$1149",
   "priceEn": "A$1149",
   "days": 4,
@@ -47650,6 +49318,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "subRegions": [
+   "凯恩斯（大堡礁）"
+  ],
   "price": "A$699",
   "priceEn": "A$699",
   "days": 3,
@@ -47697,6 +49368,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$799",
   "priceEn": "A$799",
   "days": 4,
@@ -47750,6 +49424,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 4,
@@ -47803,6 +49480,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 3,
@@ -47850,6 +49530,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$160",
   "priceEn": "A$160",
   "days": 1,
@@ -47897,6 +49580,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$170",
   "priceEn": "A$170",
   "days": 1,
@@ -47944,6 +49630,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$173",
   "priceEn": "A$173",
   "days": 1,
@@ -47997,6 +49686,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$69",
   "priceEn": "A$69",
   "days": 1,
@@ -48044,6 +49736,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 4,
@@ -48091,6 +49786,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$120",
   "priceEn": "A$120",
   "days": 1,
@@ -48138,6 +49836,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$201",
   "priceEn": "A$201",
   "days": 1,
@@ -48185,6 +49886,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$193",
   "priceEn": "A$193",
   "days": 1,
@@ -48232,6 +49936,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$218",
   "priceEn": "A$218",
   "days": 1,
@@ -48279,6 +49986,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$160",
   "priceEn": "A$160",
   "days": 1,
@@ -48326,6 +50036,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -48373,6 +50086,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$188",
   "priceEn": "A$188",
   "days": 1,
@@ -48420,6 +50136,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$99",
   "priceEn": "A$99",
   "days": 1,
@@ -48467,6 +50186,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "subRegions": [
+   "墨尔本及周边"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 5,
@@ -48514,6 +50236,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$888",
   "priceEn": "A$888",
   "days": 5,
@@ -48561,6 +50286,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 3,
@@ -48608,6 +50336,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
@@ -48655,6 +50386,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$109",
   "priceEn": "A$109",
   "days": 1,
@@ -48702,6 +50436,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -48749,6 +50486,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
@@ -48796,6 +50536,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$219",
   "priceEn": "A$219",
   "days": 1,
@@ -48843,6 +50586,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$219",
   "priceEn": "A$219",
   "days": 1,
@@ -48890,6 +50636,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -48937,6 +50686,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -48984,6 +50736,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$199",
   "priceEn": "A$199",
   "days": 1,
@@ -49031,6 +50786,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$248",
   "priceEn": "A$248",
   "days": 1,
@@ -49078,6 +50836,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$175",
   "priceEn": "A$175",
   "days": 1,
@@ -49125,6 +50886,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
@@ -49172,6 +50936,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$939",
   "priceEn": "A$939",
   "days": 3,
@@ -49219,6 +50986,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 4,
@@ -49266,6 +51036,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "subRegions": [
+   "澳洲跨地区联游"
+  ],
   "price": "A$1599",
   "priceEn": "A$1599",
   "days": 5,
@@ -49313,6 +51086,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
@@ -49360,6 +51136,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "subRegions": [
+   "黄金海岸&布里斯班"
+  ],
   "price": "A$225",
   "priceEn": "A$225",
   "days": 1,
@@ -49407,6 +51186,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "A$175",
   "priceEn": "A$175",
   "days": 1,
@@ -49454,6 +51236,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "南极",
+  "subRegions": [
+   "南极"
+  ],
   "price": "A$18990",
   "priceEn": "A$18990",
   "days": 12,
@@ -49507,6 +51292,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "南美",
+  "subRegions": [
+   "南美"
+  ],
   "price": "A$14388",
   "priceEn": "A$14388",
   "days": 20,
@@ -49560,6 +51348,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "南美",
+  "subRegions": [
+   "南美"
+  ],
   "price": "A$15599",
   "priceEn": "A$15599",
   "days": 22,
@@ -49613,6 +51404,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$5999",
   "priceEn": "A$5999",
   "days": 8,
@@ -49666,6 +51460,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$2880",
   "priceEn": "A$2880",
   "days": 14,
@@ -49719,6 +51516,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 6,
@@ -49772,6 +51572,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$3348",
   "priceEn": "A$3348",
   "days": 8,
@@ -49825,6 +51628,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "超值特惠团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -49860,6 +51666,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "subRegions": [
+   "东岸"
+  ],
   "price": "A$2899",
   "priceEn": "A$2899",
   "days": 15,
@@ -49913,6 +51722,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$5770",
   "priceEn": "A$5770",
   "days": 8,
@@ -49966,6 +51778,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$3299",
   "priceEn": "A$3299",
   "days": 6,
@@ -50019,6 +51834,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "超值特惠团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
@@ -50054,6 +51872,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "subRegions": [
+   "美加其他"
+  ],
   "price": "A$3999",
   "priceEn": "A$3999",
   "days": 8,
@@ -50107,6 +51928,9 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "西岸",
+  "subRegions": [
+   "西岸"
+  ],
   "price": "A$6550",
   "priceEn": "A$6550",
   "days": 11,
@@ -50160,6 +51984,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "subRegions": [
+   "多国连线"
+  ],
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
@@ -50213,6 +52040,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "subRegions": [
+   "任你行"
+  ],
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
@@ -50266,6 +52096,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "subRegions": [
+   "任你行"
+  ],
   "price": "A$2070",
   "priceEn": "A$2070",
   "days": 9,
@@ -50319,6 +52152,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "subRegions": [
+   "任你行"
+  ],
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
@@ -50372,6 +52208,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "subRegions": [
+   "任你行"
+  ],
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
@@ -50425,6 +52264,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "subRegions": [
+   "任你行"
+  ],
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
@@ -50478,6 +52320,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "subRegions": [
+   "任你行"
+  ],
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
@@ -50531,6 +52376,9 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "subRegions": [
+   "任你行"
+  ],
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
@@ -50584,6 +52432,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$489",
   "priceEn": "A$489",
   "days": 3,
@@ -50637,6 +52488,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 3,
@@ -50690,6 +52544,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$849",
   "priceEn": "A$849",
   "days": 5,
@@ -50743,6 +52600,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 5,
@@ -50796,6 +52656,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 5,
@@ -50849,6 +52712,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 4,
@@ -50902,6 +52768,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
@@ -50955,6 +52824,9 @@ window.TOURS = [
   "destEn": "island",
   "category": "超值特惠团",
   "subRegion": "斐济",
+  "subRegions": [
+   "斐济"
+  ],
   "price": "A$729",
   "priceEn": "A$729",
   "days": 4,
@@ -51008,6 +52880,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰北岛",
+  "subRegions": [
+   "新西兰北岛"
+  ],
   "price": "A$999",
   "priceEn": "A$999",
   "days": 4,
@@ -51061,6 +52936,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "subRegions": [
+   "新西兰南岛"
+  ],
   "price": "A$2735",
   "priceEn": "A$2735",
   "days": 9,
@@ -51114,6 +52992,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰北岛",
+  "subRegions": [
+   "新西兰北岛"
+  ],
   "price": "A$735",
   "priceEn": "A$735",
   "days": 2,
@@ -51167,6 +53048,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "subRegions": [
+   "新西兰南岛"
+  ],
   "price": "A$1736",
   "priceEn": "A$1736",
   "days": 6,
@@ -51220,6 +53104,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "subRegions": [
+   "新西兰南岛"
+  ],
   "price": "A$1900",
   "priceEn": "A$1900",
   "days": 7,
@@ -51273,6 +53160,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "A$3390",
   "priceEn": "A$3390",
   "days": 11,
@@ -51326,6 +53216,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "subRegions": [
+   "新西兰南岛"
+  ],
   "price": "A$2391",
   "priceEn": "A$2391",
   "days": 8,
@@ -51379,6 +53272,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "南北岛连线",
+  "subRegions": [
+   "南北岛连线"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 10,
@@ -51414,6 +53310,9 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "南北岛连线",
+  "subRegions": [
+   "南北岛连线"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 9,
@@ -51448,7 +53347,8 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "超值特惠团",
-  "subRegion": "其他中国",
+  "subRegion": "",
+  "subRegions": [],
   "price": "A$830",
   "priceEn": "A$830",
   "days": 3,
@@ -51496,6 +53396,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "subRegions": [
+   "广东广西福建海南"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
@@ -51543,6 +53446,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$749",
   "priceEn": "A$749",
   "days": 3,
@@ -51590,6 +53496,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "subRegions": [
+   "北京西安"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
@@ -51637,6 +53546,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$530",
   "priceEn": "A$530",
   "days": 3,
@@ -51684,6 +53596,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海"
+  ],
   "price": "A$899",
   "priceEn": "A$899",
   "days": 3,
@@ -51731,6 +53646,9 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "subRegions": [
+   "九寨张家界云南贵州"
+  ],
   "price": "A$980",
   "priceEn": "A$980",
   "days": 5,
@@ -51777,7 +53695,11 @@ window.TOURS = [
   "destZh": "中国",
   "destEn": "china",
   "category": "纯玩无购物团",
-  "subRegion": "邮轮",
+  "subRegion": "江南上海",
+  "subRegions": [
+   "江南上海",
+   "长江三峡"
+  ],
   "price": "A$1049",
   "priceEn": "A$1049",
   "days": 5,
@@ -51825,6 +53747,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "不丹尼泊尔",
+  "subRegions": [
+   "不丹尼泊尔"
+  ],
   "price": "A$3",
   "priceEn": "A$3",
   "days": 10,
@@ -51872,6 +53797,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "subRegions": [
+   "非洲中东"
+  ],
   "price": "A$3988",
   "priceEn": "A$3988",
   "days": 12,
@@ -51919,6 +53847,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "subRegions": [
+   "非洲中东"
+  ],
   "price": "A$26800",
   "priceEn": "A$26800",
   "days": 17,
@@ -51966,6 +53897,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "不丹尼泊尔",
+  "subRegions": [
+   "不丹尼泊尔"
+  ],
   "price": "A$6988",
   "priceEn": "A$6988",
   "days": 12,
@@ -52013,6 +53947,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "subRegions": [
+   "非洲中东"
+  ],
   "price": "A$9680",
   "priceEn": "A$9680",
   "days": 12,
@@ -52060,6 +53997,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "subRegions": [
+   "非洲中东"
+  ],
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 8,
@@ -52107,6 +54047,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "其他",
+  "subRegions": [
+   "其他"
+  ],
   "price": "A$5850",
   "priceEn": "A$5850",
   "days": 20,
@@ -52154,6 +54097,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "土耳其希腊",
+  "subRegions": [
+   "土耳其希腊"
+  ],
   "price": "A$1888",
   "priceEn": "A$1888",
   "days": 11,
@@ -52201,6 +54147,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "土耳其希腊",
+  "subRegions": [
+   "土耳其希腊"
+  ],
   "price": "A$3899",
   "priceEn": "A$3899",
   "days": 15,
@@ -52248,6 +54197,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "subRegions": [
+   "非洲中东"
+  ],
   "price": "A$12680",
   "priceEn": "A$12680",
   "days": 16,
@@ -52295,6 +54247,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "subRegions": [
+   "非洲中东"
+  ],
   "price": "A$26800",
   "priceEn": "A$26800",
   "days": 17,
@@ -52342,6 +54297,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "不丹尼泊尔",
+  "subRegions": [
+   "不丹尼泊尔"
+  ],
   "price": "A$4780",
   "priceEn": "A$4780",
   "days": 6,
@@ -52389,6 +54347,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "其他",
+  "subRegions": [
+   "其他"
+  ],
   "price": "A$4988",
   "priceEn": "A$4988",
   "days": 16,
@@ -52436,6 +54397,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "土耳其希腊",
+  "subRegions": [
+   "土耳其希腊"
+  ],
   "price": "A$6399",
   "priceEn": "A$6399",
   "days": 25,
@@ -52483,6 +54447,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "其他",
+  "subRegions": [
+   "其他"
+  ],
   "price": "A$5688",
   "priceEn": "A$5688",
   "days": 18,
@@ -52530,6 +54497,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "北欧",
+  "subRegions": [
+   "北欧"
+  ],
   "price": "A$7999",
   "priceEn": "A$7999",
   "days": 16,
@@ -52577,6 +54547,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "北欧",
+  "subRegions": [
+   "北欧"
+  ],
   "price": "A$7999",
   "priceEn": "A$7999",
   "days": 16,
@@ -52624,6 +54597,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "其他",
+  "subRegions": [
+   "其他"
+  ],
   "price": "A$2888",
   "priceEn": "A$2888",
   "days": 15,
@@ -52671,6 +54647,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "其他",
+  "subRegions": [
+   "其他"
+  ],
   "price": "A$5488",
   "priceEn": "A$5488",
   "days": 15,
@@ -52718,6 +54697,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "超值特惠团",
   "subRegion": "其他",
+  "subRegions": [
+   "其他"
+  ],
   "price": "A$4999",
   "priceEn": "A$4999",
   "days": 12,
@@ -52765,6 +54747,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "土耳其希腊",
+  "subRegions": [
+   "土耳其希腊"
+  ],
   "price": "A$3688",
   "priceEn": "A$3688",
   "days": 12,
@@ -52812,6 +54797,9 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲其他",
+  "subRegions": [
+   "澳洲其他"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 5,
@@ -52871,6 +54859,9 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "其他",
+  "subRegions": [
+   "其他"
+  ],
   "price": "待确认",
   "priceEn": "待确认",
   "days": 5,

@@ -91,23 +91,19 @@ def derive_subregion(name, dk, category):
     s = name or ''
     # 中国: 长江游轮(长江新船王/揽月/极光/爱达魔都/邮轮) -> 邮轮; 否则按地域关键词
     if dk == 'china':
-        if any(k in s for k in ['长江新船王', '攬月號', '揽月号', '极光号', '爱达魔都', '爱达花城', '邮轮', '游轮', '海上絲綢', '海上丝绸', '克努克', 'MSC', '世纪传奇', '黄金海岸号']):
-            return '邮轮'
-        if any(k in s for k in ['江南', '上海', '苏州', '杭州', '无锡', '南京', '乌镇', '千岛湖', '西湖', '婺源', '黄山', '普陀', '九华', '泰山', '庐山', '深坑']):
-            return '江南上海'
-        if any(k in s for k in ['北京', '西安', '西安', '延安']):
-            return '北京西安'
-        if any(k in s for k in ['长江三峡', '三峡', '重庆', '宜昌', '瞿塘', '巫峡', '西陵']):
-            return '长江三峡'
-        if any(k in s for k in ['九寨', '张家界', '云南', '贵州', '丽江', '大理', '昆明', '西双版纳', '黔']):
-            return '九寨张家界云南贵州'
-        if any(k in s for k in ['广东', '广西', '福建', '海南', '大湾区', '珠江', '潮汕', '香港', '深圳', '广州', '桂林', '阳朔']):
-            return '广东广西福建海南'
-        if any(k in s for k in ['山东', '山西', '东北', '河南', '哈尔滨', '沈阳', '大连', '青岛', '泰山', '曲阜']):
-            return '山东山西东北河南'
-        if any(k in s for k in ['新疆', '甘肃', '西藏', '青海', '丝绸之路', '丝路', '喀什', '喀纳斯', '阿勒泰', '胡杨', '南疆', '北疆']):
-            return '新疆甘肃西藏青海丝绸之路'
-        return '其他中国'
+        # 多命中: 同一产品可按地名同时归入多个地区子类(如"北京 长江三峡"→北京西安+长江三峡)
+        # 不单列邮轮: 邮轮产品靠地名自然命中(上海邮轮→江南上海, 长江游轮→长江三峡, 海上丝路→新疆丝绸之路)
+        REGION_KW = [
+            ('江南上海', ['江南', '上海', '苏州', '杭州', '无锡', '南京', '乌镇', '千岛湖', '西湖', '婺源', '黄山', '普陀', '九华', '庐山', '深坑', '爱达魔都', '爱达花城', '邮轮', '游轮']),
+            ('北京西安', ['北京', '西安', '延安']),
+            ('长江三峡', ['长江三峡', '三峡', '重庆', '宜昌', '瞿塘', '巫峡', '西陵']),
+            ('九寨张家界云南贵州', ['九寨', '张家界', '云南', '贵州', '丽江', '大理', '昆明', '西双版纳', '黔']),
+            ('广东广西福建海南', ['广东', '广西', '福建', '海南', '大湾区', '珠江', '潮汕', '香港', '深圳', '广州', '桂林', '阳朔', '厦门', '泉州', '武夷山', '土楼']),
+            ('山东山西东北河南', ['山东', '山西', '东北', '河南', '哈尔滨', '沈阳', '大连', '青岛', '曲阜']),
+            ('新疆甘肃西藏青海丝绸之路', ['新疆', '甘肃', '西藏', '青海', '丝绸之路', '丝路', '喀什', '喀纳斯', '阿勒泰', '胡杨', '南疆', '北疆']),
+        ]
+        hits = [name for name, kws in REGION_KW if any(k in s for k in kws)]
+        return hits if hits else []  # 命中多个则都返回; 无命中则不归入任何子类(不要"其他中国")
     if dk == 'australia':
         # 跨地区联游: 含≥2个城市的团(悉尼墨尔本/悉尼凯恩斯墨尔本/环澳等)
         city_kw = ['悉尼', '墨尔本', '黄金海岸', '布里斯班', '凯恩斯', '西澳', '珀斯', '阿德莱德', '塔斯马尼亚', '乌鲁鲁', '圣灵']
@@ -182,7 +178,9 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
     tagsEn = [cat_en] if cat_en else []
     # 结构化类目(category) + 子区域(subRegion), 供列表页左栏树分组(与后台 Product_Category 一致)
     category = cat or ''
-    subRegion = derive_subregion(name or '', dk, category)
+    _sr = derive_subregion(name or '', dk, category)
+    subRegions = _sr if isinstance(_sr, list) else [_sr]  # 多归属(中国可跨类目重复); 其余单值包成数组
+    subRegion = subRegions[0] if subRegions else ''  # 主子类(向后兼容 detail 等单值消费)
     itinerary = to_itinerary(itin)
     introZh = (intro or '').strip()
     introEn = introZh  # 暂无英文, 复用中文
@@ -222,6 +220,7 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         "destEn": dk,
         "category": category,
         "subRegion": subRegion,
+        "subRegions": subRegions,
         "price": price,
         "priceEn": price,
         "days": days or 0,
