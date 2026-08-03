@@ -26,16 +26,26 @@
     );
   }
 
+  // 中国区子类固定顺序(用户指定: 江南上海-北京西安-长江三峡-九寨张家界云南贵州-广东广西福建海南-山东山西东北河南-新疆甘肃西藏青海丝绸之路)
+  const CN_ORDER = ["江南上海", "北京西安", "长江三峡", "九寨张家界云南贵州", "广东广西福建海南", "山东山西东北河南", "新疆甘肃西藏青海丝绸之路"];
+  // 欧洲区子类固定顺序(隐藏类目层, 任你行前置, 去"欧洲其他")
+  const EU_ORDER = ["任你行", "多国连线", "红线线路", "黄线线路", "绿线线路", "蓝线线路", "棕线线路", "紫线线路", "橙线线路", "金线线路", "粉线线路"];
+  // 亚洲区子类固定顺序(保留类目层; 巴厘岛/斐济归亚洲其他, 不单列)
+  const ASIA_ORDER = ["日本", "韩国", "台湾", "越南", "泰国", "柬埔寨", "新加坡马来西亚", "亚洲其他"];
+
   // 构建树数据(仅按当前目的地)
   function buildTree() {
     const tree = {}; // destZh -> cat -> sub -> [tours]
-    const put = (d, t) => {
-      const c = catShort(t.category);
-      const s = t.subRegion || "其他";
+    const putSub = (d, c, s, t) => {
       tree[d] = tree[d] || {};
       tree[d][c] = tree[d][c] || {};
       tree[d][c][s] = tree[d][c][s] || [];
       tree[d][c][s].push(t);
+    };
+    const put = (d, t) => {
+      const c = catShort(t.category);
+      const s = t.subRegion || "其他";
+      putSub(d, c, s, t);
     };
     // 新西兰: 不显示类目层, 直接按地理分组(北岛/南岛/南北岛连线), 丢弃"新西兰其他"
     const putNZ = (t) => {
@@ -47,16 +57,53 @@
       tree["新西兰"]["__nz__"][label] = tree["新西兰"]["__nz__"][label] || [];
       tree["新西兰"]["__nz__"][label].push(t);
     };
+    // 特别订制: 不显示类目层; 非签证产品平铺, 签证单独留可折叠下拉
+    const putSP = (t) => {
+      const isVisa = (t.category === "签证·其他") || /签证/.test(t.nameZh || "");
+      tree["特别订制"] = tree["特别订制"] || {};
+      tree["特别订制"]["__sp__"] = tree["特别订制"]["__sp__"] || {};
+      if (isVisa) {
+        tree["特别订制"]["__sp__"]["签证"] = tree["特别订制"]["__sp__"]["签证"] || [];
+        tree["特别订制"]["__sp__"]["签证"].push(t);
+      } else {
+        tree["特别订制"]["__sp__"]["__flat__"] = tree["特别订制"]["__sp__"]["__flat__"] || [];
+        tree["特别订制"]["__sp__"]["__flat__"].push(t);
+      }
+    };
+    // 中国: 保留类目层(超值特价/纯玩), 子类按 CN_ORDER 固定顺序; 支持跨类目重复(subRegions 数组)
+    const putCN = (t) => {
+      const c = catShort(t.category);
+      const regs = (t.subRegions && t.subRegions.length) ? t.subRegions : (t.subRegion ? [t.subRegion] : []);
+      regs.forEach((s) => putSub("中国", c, s, t));
+    };
+    // 欧洲: 不显示类目层, 直接按 EU_ORDER 固定顺序平铺; 丢弃"欧洲其他"
+    const putEU = (t) => {
+      const s = t.subRegion || "其他";
+      if (s === "欧洲其他") return;
+      tree["欧洲"] = tree["欧洲"] || {};
+      tree["欧洲"]["__eu__"] = tree["欧洲"]["__eu__"] || {};
+      tree["欧洲"]["__eu__"][s] = tree["欧洲"]["__eu__"][s] || [];
+      tree["欧洲"]["__eu__"][s].push(t);
+    };
+    // 亚洲: 保留类目层; 巴厘岛/斐济/海岛其他 不单列, 归并亚洲其他
+    const putAsia = (t) => {
+      let s = t.subRegion || "亚洲其他";
+      if (["巴厘岛", "斐济", "海岛其他"].includes(s)) s = "亚洲其他";
+      putSub("亚洲", catShort(t.category), s, t);
+    };
     T.forEach((t) => {
       const d = t.destZh || t.dest || "其他";
       if (t.dest === "nz") { putNZ(t); return; }
+      if (t.dest === "china") { putCN(t); return; }
+      if (t.dest === "europe") { putEU(t); return; }
       // 海岛合并进亚洲(用户要求); 邮轮/特别订制从"其他"桶拆分
-      if (t.dest === "island") { put("亚洲", t); return; }
+      if (t.dest === "island") { putAsia(t); return; }
       if (t.dest === "other") {
         const nm = t.nameZh || "";
         if (/邮轮|游轮/.test(nm)) { put("邮轮", t); return; }
-        put("特别订制", t); return;
+        putSP(t); return;
       }
+      if (t.dest === "asia") { putAsia(t); return; }
       put(d, t);
     });
     return tree;
@@ -70,31 +117,51 @@
       return;
     }
     const cats = tree[activeDest];
-    const isNZ = cats["__nz__"] && Object.keys(cats).length === 1; // 新西兰无类目层
+    const isFlat = (cats["__nz__"] && Object.keys(cats).length === 1) ||
+                   (cats["__sp__"] && Object.keys(cats).length === 1) ||
+                   (cats["__eu__"] && Object.keys(cats).length === 1); // 新西兰/特别订制/欧洲 无类目层
     let catHtml = "";
-    Object.keys(cats).forEach((c) => {
+    // 子类排序(中国按 CN_ORDER, 欧洲按 EU_ORDER, 亚洲按 ASIA_ORDER, 其余按插入序)
+    const subOrder = (dest) =>
+      dest === "中国" ? CN_ORDER : dest === "欧洲" ? EU_ORDER : dest === "亚洲" ? ASIA_ORDER : null;
+    // 类目层排序(超值特价 -> 纯玩无购物 -> 机票套餐 -> 其他)
+    const CAT_ORDER = ["超值特价", "纯玩无购物", "机票套餐", "签证", "其他"];
+    const catKeys = CAT_ORDER.filter((k) => k in cats).concat(Object.keys(cats).filter((k) => !CAT_ORDER.includes(k)));
+    catKeys.forEach((c) => {
       const subs = cats[c];
+      const order = subOrder(activeDest);
+      const subKeys = order
+        ? order.filter((k) => k in subs).concat(Object.keys(subs).filter((k) => !order.includes(k)))
+        : Object.keys(subs);
       let subHtml = "";
-      Object.keys(subs).forEach((s) => {
-        const items = subs[s];
+      subKeys.forEach((s) => {
+        const items = (subs[s] || []).slice().sort((a, b) => (a.days || 0) - (b.days || 0)); // 天数升序
         const itemHtml = items
           .map(
             (t) =>
               `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`,
           )
           .join("");
-        subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${itemHtml}</div></div>`;
+        if (s === "__flat__") {
+          // 特别订制: 非签证产品直接平铺(无分组标题)
+          subHtml += itemHtml;
+        } else if (s === "签证") {
+          // 签证: 可折叠下拉(默认收起)
+          subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">签证<span class="rp-arrow">▶</span></div><div class="rp-group-body">${itemHtml}</div></div>`;
+        } else {
+          subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${itemHtml}</div></div>`;
+        }
       });
-      // 新西兰: 不渲染类目层(隐藏 __nz__ 占位), 直接显示地理子类
-      if (isNZ) {
+      // 新西兰/特别订制/欧洲: 不渲染类目层(隐藏 __nz__/__sp__/__eu__ 占位), 直接显示子类
+      if (isFlat) {
         catHtml += subHtml;
       } else {
         catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${subHtml}</div></div>`;
       }
     });
     nav.innerHTML = catHtml;
-    // 默认展开第一个类目/子类
-    const firstOpen = isNZ ? nav.querySelector(".rp-group") : nav.querySelector(".rp-cat");
+    // 默认展开第一个类目/子类(特别订制不强制展开签证下拉)
+    const firstOpen = (isFlat && activeDest !== "特别订制") ? nav.querySelector(".rp-group") : nav.querySelector(".rp-cat");
     if (firstOpen) {
       firstOpen.classList.add("open");
       const ar = firstOpen.querySelector(":scope > .rp-group-title .rp-arrow");
