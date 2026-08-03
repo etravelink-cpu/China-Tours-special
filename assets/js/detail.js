@@ -19,11 +19,11 @@
       <div class="detail-tags">${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
       <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
     </div>`;
-    // hero 同步到单页顶部(与列表页内嵌详情同一张产品图)
+    // 统一 hero: 与列表页内嵌详情同一张产品图(图片背景+遮罩+白字标题)
     const heroSection = document.querySelector('.detail-hero');
     const heroImgUrl = (t.img || '');
     if (heroSection) {
-      if (heroImgUrl) { heroSection.style.backgroundImage = `url('${heroImgUrl}')`; heroSection.classList.add('has-hero'); }
+      if (heroImgUrl) { heroSection.style.backgroundImage = "url('" + heroImgUrl + "')"; heroSection.classList.add('has-hero'); }
       else { heroSection.style.backgroundImage = ''; heroSection.classList.remove('has-hero'); }
     }
   }
