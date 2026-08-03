@@ -51,7 +51,7 @@
   const NAV = [
     navItem("nav.home", "index.html"),
     navItem("nav.dest", "list.html", DESTS),
-    navItem("nav.custom", "contact.html"),
+    navItem("nav.custom", "custom.html"),
     navItem("nav.about", "about.html"),
     navItem("nav.contact", "contact.html"),
   ];

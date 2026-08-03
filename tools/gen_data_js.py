@@ -301,6 +301,29 @@ window.TIPS = [
 ];
 '''
 
-io.open(JS, 'w', encoding='utf-8').write(header + body + REVIEWS_JS)
+CONTACT_BLOCK = '''window.CONTACT = {
+  hotline: "+61 2 9764 6862",
+  hotline2: "+61 2 9764 2911",
+  wechat: "E_travelink",
+  wechatName: "小易",
+  wechatNameEn: "Advisor Xiaoyi",
+  wechatQr: "assets/img/qr/wechat-xiaoyi.png",
+  wechat2: "E-travelink",
+  wechat2Name: "小游",
+  wechat2NameEn: "Advisor Xiaoyou",
+  wechat2Qr: "assets/img/qr/wechat-xiaoyou.png",
+  wechatOfficial: "etrips_au",
+  wechatOfficialQr: "assets/img/qr/wechat-official.png",
+  email: "info@etravelink.com.au",
+  addressZh: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
+  addressEn: "2 HENLEY ROAD, HOMEBUSH WEST, NSW, 2140, AU",
+  hoursZh: "周一至周五 10:00-18:00",
+  hoursEn: "Mon–Fri 10:00-18:00",
+  mapUrl: "https://www.google.com/maps/search/?api=1&query=2+HENLEY+ROAD+HOMEBUSH+WEST+NSW+2140+AU",
+};
+
+'''
+
+io.open(JS, 'w', encoding='utf-8').write(header + body + REVIEWS_JS + "\n\n" + CONTACT_BLOCK)
 print("已生成 data.js: %d 个产品 (Online_Visible=1 AND Status='Active')" % len(tours))
 print("输出:", os.path.abspath(JS))
