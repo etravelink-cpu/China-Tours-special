@@ -244,8 +244,7 @@
           <a href="${BASE}custom.html">${I18N[lang]["nav.custom"]}</a><span>|</span>
           <a href="${BASE}about.html" data-i18n="about.title">${I18N[lang]["about.title"]}</a><span>|</span>
           <a href="${BASE}contact.html" data-i18n="contact.title">${I18N[lang]["contact.title"]}</a><span>|</span>
-          <a href="${BASE}faq.html" data-i18n="faq.title">${I18N[lang]["faq.title"]}</a><span>|</span>
-          <a href="${BASE}departures.html" data-i18n="dep.title">${I18N[lang]["dep.title"]}</a>
+          <a href="${BASE}faq.html" data-i18n="faq.title">${I18N[lang]["faq.title"]}</a>
         </nav>
         <div class="footer-grid footer-grid-2">
           <div>
