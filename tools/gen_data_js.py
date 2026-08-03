@@ -203,8 +203,10 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
     for d, st, city, adult, cb, cnb, inf, single, trans, tip, svc in dep_rows:
         if d:
             departureDates.append({"date": d, "status": st or "available"})
+    # 价格表: 仅取第一条(对齐后台预览页"仅显示第一行，不罗列所有日期"); 避免各班期重复行脏数据
     priceTable = []
-    for d, st, city, adult, cb, cnb, inf, single, trans, tip, svc in dep_rows:
+    if dep_rows:
+        d, st, city, adult, cb, cnb, inf, single, trans, tip, svc = dep_rows[0]
         priceTable.append({
             "city": city or '', "adult": adult if adult is not None else '',
             "childbed": cb if cb is not None else '', "childnobed": cnb if cnb is not None else '',
