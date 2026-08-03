@@ -17552,7 +17552,7 @@ window.TOURS = [
   "dest": "europe",
   "destZh": "欧洲",
   "destEn": "europe",
-  "category": "纯玩无购物团",
+  "category": "含机票特别订制团",
   "subRegion": "多国连线",
   "subRegions": [
    "多国连线"
@@ -17561,10 +17561,10 @@ window.TOURS = [
   "priceEn": "A$9699",
   "days": 0,
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
@@ -17657,7 +17657,7 @@ window.TOURS = [
   "dest": "europe",
   "destZh": "欧洲",
   "destEn": "europe",
-  "category": "纯玩无购物团",
+  "category": "含机票特别订制团",
   "subRegion": "多国连线",
   "subRegions": [
    "多国连线"
@@ -17666,10 +17666,10 @@ window.TOURS = [
   "priceEn": "A$6888",
   "days": 0,
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
@@ -17762,7 +17762,7 @@ window.TOURS = [
   "dest": "europe",
   "destZh": "欧洲",
   "destEn": "europe",
-  "category": "纯玩无购物团",
+  "category": "含机票特别订制团",
   "subRegion": "多国连线",
   "subRegions": [
    "多国连线"
@@ -17771,10 +17771,10 @@ window.TOURS = [
   "priceEn": "A$6888",
   "days": 0,
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
@@ -17867,7 +17867,7 @@ window.TOURS = [
   "dest": "europe",
   "destZh": "欧洲",
   "destEn": "europe",
-  "category": "纯玩无购物团",
+  "category": "含机票特别订制团",
   "subRegion": "欧洲其他",
   "subRegions": [
    "欧洲其他"
@@ -17876,10 +17876,10 @@ window.TOURS = [
   "priceEn": "A$8499",
   "days": 0,
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
@@ -17972,7 +17972,7 @@ window.TOURS = [
   "dest": "europe",
   "destZh": "欧洲",
   "destEn": "europe",
-  "category": "纯玩无购物团",
+  "category": "含机票特别订制团",
   "subRegion": "多国连线",
   "subRegions": [
    "多国连线"
@@ -17981,10 +17981,10 @@ window.TOURS = [
   "priceEn": "A$8699",
   "days": 0,
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
@@ -18077,7 +18077,7 @@ window.TOURS = [
   "dest": "europe",
   "destZh": "欧洲",
   "destEn": "europe",
-  "category": "纯玩无购物团",
+  "category": "含机票特别订制团",
   "subRegion": "多国连线",
   "subRegions": [
    "多国连线"
@@ -18086,10 +18086,10 @@ window.TOURS = [
   "priceEn": "A$8999",
   "days": 0,
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
