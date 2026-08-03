@@ -163,8 +163,8 @@
       if(firstVisible){ firstVisible.classList.add('active'); document.getElementById('panel-'+firstVisible.dataset.tab).classList.add('active'); }
     }
     window.Etrips.applyLang();
-    document.querySelectorAll('a.btn-primary[href="contact.html"],a.btn-gold[href="contact.html"]').forEach(a=>{
-      a.href = 'contact.html?tour=' + encodeURIComponent(cur.id);
+    document.querySelectorAll('a.btn-primary[href="contact.html"],a.btn-gold[href="booking.html"]').forEach(a=>{
+      a.href = (a.classList.contains('btn-primary') ? 'contact.html' : 'booking.html') + '?tour=' + encodeURIComponent(cur.id);
     });
   }
 

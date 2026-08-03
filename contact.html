@@ -54,9 +54,15 @@
   <script>
     (function(){
       const q = new URLSearchParams(location.search);
-      const route = q.get('route') || '';
+      const tour = q.get('tour') || '';
       const date = q.get('date') || '';
       const ta = document.getElementById('c-msg');
+      // 优先用 ?route= 指定路线名；否则用 ?tour=ID 从产品库取产品名
+      let route = q.get('route') || '';
+      if(!route && tour && window.TOURS){
+        const o = window.TOURS.find(function(x){ return x.id === tour; });
+        if(o) route = o.nameZh || o.nameEn || o.id;
+      }
       if(route){
         let pre = '我想咨询：【' + route + '】';
         if(date) pre += '\n意向出发日期：' + date;
@@ -73,11 +79,13 @@
       const phone = document.getElementById('c-phone').value.trim();
       const msg = document.getElementById('c-msg').value.trim();
       const tip = document.getElementById('c-tip');
+      const tourId = new URLSearchParams(location.search).get('tour') || '';
       if(!phone){ tip.style.color='#e23b3b'; tip.textContent='请留下联系电话或微信，方便客服与您确认。'; return; }
       let lines = ['【在线咨询】Etrips 国安易游'];
       if(name) lines.push('称呼：' + name);
       if(email) lines.push('邮箱：' + email);
       lines.push('联系方式：' + phone);
+      if(tourId) lines.push('关联产品ID：' + tourId);
       if(msg) lines.push('咨询内容：\n' + msg);
       const body = lines.join('\n');
       // ---- 真实发送：EmailJS（纯前端）----
@@ -90,12 +98,12 @@
       tip.style.color='#1B9FE0'; tip.textContent='正在发送…';
       try {
         emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
-          route: '在线咨询', date: '', name: name, phone: phone, email: email, remark: msg,
+          route: tourId ? ('产品咨询 '+tourId) : '在线咨询', date: '', name: name, phone: phone, email: email, remark: msg,
           pax: '', body: body
         }).then(()=>{
           if(email && EMAILJS.autoReplyID){
             emailjs.send(EMAILJS.serviceID, EMAILJS.autoReplyID, {
-              name: name, email: email, body: body, route: '在线咨询', date: ''
+              name: name, email: email, body: body, route: tourId ? ('产品咨询 '+tourId) : '在线咨询', date: ''
             }).catch(()=>{});
           }
           tip.style.color='#1aa06b'; tip.textContent='咨询已发送！客服会尽快与您联系可扫码添加微信。';
