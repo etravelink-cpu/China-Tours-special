@@ -1337,7 +1337,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0005",
@@ -1445,7 +1445,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "SUP-CM-0006",
@@ -1553,7 +1553,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "SUP-CM-0007",
@@ -1661,7 +1661,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "SUP-CM-0008",
@@ -1769,7 +1769,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "SUP-CM-0010",
@@ -1877,7 +1877,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "SUP-CM-0011",
@@ -1985,7 +1985,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0013",
@@ -2417,7 +2417,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0019",
@@ -3295,7 +3295,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0028",
@@ -20400,7 +20400,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "Nova-SYDCNSOOL",
@@ -20494,7 +20494,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "Nova-SYDMEL8PG",
@@ -22037,59 +22037,6 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "NOVA-SYDHUN_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDHUN_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-SYDBMS",
-  "nameZh": "悉尼蓝山日落 + 观星精品小团【一价全含】[单门票]",
-  "nameEn": "悉尼蓝山日落 + 观星精品小团【一价全含】[单门票]",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "单门票·单项体验",
-  "subRegion": "悉尼及周边",
-  "price": "A$199",
-  "priceEn": "A$199",
-  "days": 1,
-  "tags": [
-   "单门票"
-  ],
-  "tagsEn": [
-   "Ticket"
-  ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [
-   {
-    "city": "悉尼",
-    "adult": 199.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDBMS_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDBMS_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -25744,7 +25691,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "Nova-NZAT4A7",
@@ -45606,6 +45553,59 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "PV-SN007",
+  "nameZh": "超值雪山1天游[纯玩]",
+  "nameEn": "超值雪山1天游[纯玩]",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "price": "A$190",
+  "priceEn": "A$190",
+  "days": 1,
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/hero-sydney.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "priceTable": [
+   {
+    "city": "",
+    "adult": 190.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SUP-PV-SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SUP-PV-SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "PV-SN008",
   "nameZh": "超值赏雪2天游[纯玩]",
   "nameEn": "超值赏雪2天游[纯玩]",
@@ -47774,7 +47774,7 @@ window.TOURS = [
     "single": "",
     "transfer": "",
     "tip": "",
-    "service": 0.0
+    "service": ""
    }
   ],
   "brochures": [
@@ -48532,6 +48532,53 @@ window.TOURS = [
    {
     "city": "Sydney / Sydney",
     "adult": 888.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-GC3D 2026",
+  "nameZh": "黄金海岸巴士 3 天团",
+  "nameEn": "黄金海岸巴士 3 天团",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "黄金海岸&布里斯班",
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 3,
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/hero-sydney.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "priceTable": [
+   {
+    "city": "",
+    "adult": "",
     "childbed": "",
     "childnobed": "",
     "infant": "",
@@ -50314,7 +50361,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "PV-EU04",
