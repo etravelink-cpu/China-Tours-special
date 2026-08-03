@@ -938,3 +938,7 @@ body.printing-route #print-header{display:block}
   .float-btn.gold{display:none}
 }
 body.nav-open{overflow:hidden}
+
+.featured-tours{padding:48px 0;background:#fff}
+.featured-tours .section-title{margin-bottom:24px}
+.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px}

@@ -217,9 +217,18 @@ window.EtripsForm = {
     armTimer();
   }
 
-  function rebuild() {
+  function renderFeatured(lang) {
+  const grid = document.getElementById("featured-grid");
+  if (!grid || !window.TOURS) return;
+  const list = window.TOURS.filter(t => t.featured).slice(0, 9);
+  if (!list.length) { grid.innerHTML = '<p style="color:#888">暂无热门产品</p>'; return; }
+  grid.innerHTML = list.map(t => window.tourCard(t, lang)).join("");
+}
+
+function rebuild() {
     lang = window.Etrips.getLang();
     renderHero();
+    renderFeatured(lang);
 
     // 板块2 选择你的目的地（竖向长条卡）
     const dest = [

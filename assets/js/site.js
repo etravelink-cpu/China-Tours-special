@@ -324,7 +324,7 @@
     const tags = lang === "zh" ? t.tags : t.tagsEn;
     const price = lang === "zh" ? t.price : t.priceEn;
     const dest = lang === "zh" ? t.destZh : t.destEn;
-    return `<a class="card" href="${BASE}subpage.html?id=${t.id}">
+    return `<a class="card" href="${BASE}detail.html?id=${t.id}">
       <div class="thumb-wrap">
         <img class="thumb" src="${t.img}" alt="${name}" loading="lazy">
         <span class="thumb-chip">${t.days} ${I[lang]["common.days"]}</span>

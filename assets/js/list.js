@@ -51,6 +51,13 @@
         }
       };
       setTimeout(_apply, 300);
+      // 初始默认激活第一条路线（否则右侧详情区全空，用户看到空白）
+      setTimeout(() => {
+        const firstRoute = rp.querySelector(".rp-route");
+        if (firstRoute && !rp.querySelector(".rp-route.active")) {
+          activateRoute(firstRoute.dataset.route);
+        }
+      }, 350);
       // 在每个路线详情卡 hero 区显示 大人/儿童/婴儿 三项价
       rp.querySelectorAll(".rp-route-pane").forEach((p) => {
         const pa = parseFloat(p.getAttribute("data-p-adult")) || 0;
