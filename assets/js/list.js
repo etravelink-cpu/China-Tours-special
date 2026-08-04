@@ -206,13 +206,23 @@
       const ar = firstOpen.querySelector(":scope > .rp-group-title .rp-arrow");
       if (ar) ar.textContent = "▼";
     }
-    // 绑定展开/收起
+    // 绑定展开/收起 (手风琴: 同层级仅保留一个展开)
     nav.querySelectorAll(".rp-group-title").forEach((ti) => {
       ti.addEventListener("click", () => {
         const g = ti.closest(".rp-group");
         const open = g.classList.toggle("open");
         const ar = ti.querySelector(".rp-arrow");
         if (ar) ar.textContent = open ? "▼" : "▶";
+        if (open) {
+          // 关闭整棵树里其他所有已展开的分组(真·手风琴: 点长江三峡, 其他类目全缩回)
+          nav.querySelectorAll(".rp-group.open").forEach((sib) => {
+            if (sib !== g) {
+              sib.classList.remove("open");
+              const sa = sib.querySelector(":scope > .rp-group-title .rp-arrow");
+              if (sa) sa.textContent = "▶";
+            }
+          });
+        }
       });
       ti.addEventListener("keydown", (e) => {
         if (e.key === "Enter" || e.key === " ") {

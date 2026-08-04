@@ -17,7 +17,7 @@ window.TOURS = [
   ],
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 0,
+  "days": 14,
   "tags": [
    "超值特价"
   ],
@@ -1872,7 +1872,7 @@ window.TOURS = [
   ],
   "price": "待确认",
   "priceEn": "待确认",
-  "days": 0,
+  "days": 14,
   "tags": [
    "超值特价"
   ],
@@ -8108,57 +8108,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "SUP-CM-0194",
-  "supplierCode": "CM-0194",
-  "nameZh": "2026 日本单次签证 （其他）",
-  "nameEn": "2026 日本单次签证 （其他）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "签证·其他",
-  "subRegion": "签证",
-  "subRegions": [
-   "签证"
-  ],
-  "price": "A$330",
-  "priceEn": "A$330",
-  "days": 0,
-  "tags": [
-   "签证"
-  ],
-  "tagsEn": [
-   "Visa"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [
-   {
-    "city": "",
-    "adult": 330.0,
-    "childbed": "",
-    "childnobed": 0.0,
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "Nova-CNSOOLMEL",
   "supplierCode": "CNSOOLMEL",
   "nameZh": "凯恩斯 - 黄金海岸 - 墨尔本 11 天游【周二，周五出发】[纯玩]",
@@ -13677,7 +13626,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-FUNT",
+    "file": "FTCQ6aud.pdf",
+    "url": "/assets/suppliers/SUP-FUNT/FTCQ6aud.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
