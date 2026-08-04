@@ -16815,13 +16815,13 @@ window.TOURS = [
   "supplierCode": "FJB3D",
   "nameZh": "斐济超值3天团 (三星)[超值]",
   "nameEn": "斐济超值3天团 (三星)[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$489",
   "priceEn": "A$489",
@@ -16832,7 +16832,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -16872,13 +16872,13 @@ window.TOURS = [
   "supplierCode": "FJD3DD",
   "nameZh": "斐济豪华3天团 (五星)[超值]",
   "nameEn": "斐济豪华3天团 (五星)[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$999",
   "priceEn": "A$999",
@@ -16889,7 +16889,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -16929,13 +16929,13 @@ window.TOURS = [
   "supplierCode": "FJB5DT",
   "nameZh": "斐济超值5天团 (三星)[超值]",
   "nameEn": "斐济超值5天团 (三星)[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$849",
   "priceEn": "A$849",
@@ -16946,7 +16946,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -16986,13 +16986,13 @@ window.TOURS = [
   "supplierCode": "FJL5DT",
   "nameZh": "斐济休闲5天团 (四星)[超值]",
   "nameEn": "斐济休闲5天团 (四星)[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$999",
   "priceEn": "A$999",
@@ -17003,7 +17003,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -17043,13 +17043,13 @@ window.TOURS = [
   "supplierCode": "FJD5DT",
   "nameZh": "斐济豪华5天团 (五星)[超值]",
   "nameEn": "斐济豪华5天团 (五星)[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$1699",
   "priceEn": "A$1699",
@@ -17060,7 +17060,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -17100,13 +17100,13 @@ window.TOURS = [
   "supplierCode": "FJ4DD5",
   "nameZh": "斐济豪华4 天团 ( 5星 )[超值]",
   "nameEn": "斐济豪华4 天团 ( 5星 )[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$1399",
   "priceEn": "A$1399",
@@ -17117,7 +17117,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -17157,13 +17157,13 @@ window.TOURS = [
   "supplierCode": "FJ4DT",
   "nameZh": "斐济休闲４天团 ( 四星 )[超值]",
   "nameEn": "斐济休闲４天团 ( 四星 )[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$899",
   "priceEn": "A$899",
@@ -17174,7 +17174,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -17214,13 +17214,13 @@ window.TOURS = [
   "supplierCode": "FJB4D",
   "nameZh": "斐济超值4天团 ( 3 Star )[超值]",
   "nameEn": "斐济超值4天团 ( 3 Star )[超值]",
-  "dest": "island",
-  "destZh": "海岛",
-  "destEn": "island",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "斐济",
+  "subRegion": "亚洲其他",
   "subRegions": [
-   "斐济"
+   "亚洲其他"
   ],
   "price": "A$729",
   "priceEn": "A$729",
@@ -17231,7 +17231,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/island.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18043,13 +18043,13 @@ window.TOURS = [
   "supplierCode": "MSC20",
   "nameZh": "艺术风格西葡+加泰罗尼亚全景+地中海邮轮巡游 20日[纯玩]",
   "nameEn": "艺术风格西葡+加泰罗尼亚全景+地中海邮轮巡游 20日[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "其他",
+  "subRegion": "多国连线",
   "subRegions": [
-   "其他"
+   "多国连线"
   ],
   "price": "A$5850",
   "priceEn": "A$5850",
@@ -18060,7 +18060,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18349,13 +18349,13 @@ window.TOURS = [
   "supplierCode": "EURS16DT",
   "nameZh": "西班牙葡萄牙南法16天历史文化之旅 【2026 - 2027】[纯玩]",
   "nameEn": "西班牙葡萄牙南法16天历史文化之旅 【2026 - 2027】[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "其他",
+  "subRegion": "欧洲其他",
   "subRegions": [
-   "其他"
+   "欧洲其他"
   ],
   "price": "A$4988",
   "priceEn": "A$4988",
@@ -18366,7 +18366,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18400,13 +18400,13 @@ window.TOURS = [
   "supplierCode": "GEE25",
   "nameZh": "希腊-东欧-大巴尔干九国22-25日游[纯玩]",
   "nameEn": "希腊-东欧-大巴尔干九国22-25日游[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "土耳其希腊",
+  "subRegion": "多国连线",
   "subRegions": [
-   "土耳其希腊"
+   "多国连线"
   ],
   "price": "A$6399",
   "priceEn": "A$6399",
@@ -18417,7 +18417,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18451,13 +18451,13 @@ window.TOURS = [
   "supplierCode": "EURCH01",
   "nameZh": "西欧8国璀璨文化18天 皇牌精选之旅 【2026 - 2027】[纯玩]",
   "nameEn": "西欧8国璀璨文化18天 皇牌精选之旅 【2026 - 2027】[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "其他",
+  "subRegion": "多国连线",
   "subRegions": [
-   "其他"
+   "多国连线"
   ],
   "price": "A$5688",
   "priceEn": "A$5688",
@@ -18468,7 +18468,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18502,13 +18502,13 @@ window.TOURS = [
   "supplierCode": "ISFI16D",
   "nameZh": "冬季追逐幸运之光冰岛 童话世界芬兰16日之旅[纯玩]",
   "nameEn": "冬季追逐幸运之光冰岛 童话世界芬兰16日之旅[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "北欧",
+  "subRegion": "欧洲其他",
   "subRegions": [
-   "北欧"
+   "欧洲其他"
   ],
   "price": "A$7999",
   "priceEn": "A$7999",
@@ -18519,7 +18519,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18553,13 +18553,13 @@ window.TOURS = [
   "supplierCode": "ISNO16D",
   "nameZh": "夏季冰岛挪威峡湾绝美罗弗敦群岛16日之旅[纯玩]",
   "nameEn": "夏季冰岛挪威峡湾绝美罗弗敦群岛16日之旅[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "北欧",
+  "subRegion": "欧洲其他",
   "subRegions": [
-   "北欧"
+   "欧洲其他"
   ],
   "price": "A$7999",
   "priceEn": "A$7999",
@@ -18570,7 +18570,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18604,13 +18604,13 @@ window.TOURS = [
   "supplierCode": "EURCH03",
   "nameZh": "东欧浪漫名城8国15天皇牌精选之旅（特价团）[纯玩]",
   "nameEn": "东欧浪漫名城8国15天皇牌精选之旅（特价团）[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "其他",
+  "subRegion": "多国连线",
   "subRegions": [
-   "其他"
+   "多国连线"
   ],
   "price": "A$2888",
   "priceEn": "A$2888",
@@ -18621,7 +18621,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18655,13 +18655,13 @@ window.TOURS = [
   "supplierCode": "EURCH04",
   "nameZh": "东欧浪漫名城8国15天皇牌精选之旅（尊享团）[纯玩]",
   "nameEn": "东欧浪漫名城8国15天皇牌精选之旅（尊享团）[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "其他",
+  "subRegion": "多国连线",
   "subRegions": [
-   "其他"
+   "多国连线"
   ],
   "price": "A$5488",
   "priceEn": "A$5488",
@@ -18672,7 +18672,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18706,13 +18706,13 @@ window.TOURS = [
   "supplierCode": "GB12",
   "nameZh": "Britain 12 Days Ultimate Tour[超值]",
   "nameEn": "Britain 12 Days Ultimate Tour[超值]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "欧洲其他",
   "subRegions": [
-   "其他"
+   "欧洲其他"
   ],
   "price": "A$4999",
   "priceEn": "A$4999",
@@ -18723,7 +18723,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18757,13 +18757,13 @@ window.TOURS = [
   "supplierCode": "GEE12",
   "nameZh": "希腊 浪漫之旅 12日[纯玩]",
   "nameEn": "希腊 浪漫之旅 12日[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "土耳其希腊",
+  "subRegion": "欧洲其他",
   "subRegions": [
-   "土耳其希腊"
+   "欧洲其他"
   ],
   "price": "A$3688",
   "priceEn": "A$3688",
@@ -18774,7 +18774,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -18808,13 +18808,13 @@ window.TOURS = [
   "supplierCode": "OOL5D4N",
   "nameZh": "【全新】黄金海岸巴士团5日游[纯玩]",
   "nameEn": "【全新】黄金海岸巴士团5日游[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "其他",
+  "subRegion": "黄金海岸&布里斯班",
   "subRegions": [
-   "其他"
+   "黄金海岸&布里斯班"
   ],
   "price": "待确认",
   "priceEn": "待确认",
@@ -18825,7 +18825,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/hero-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
