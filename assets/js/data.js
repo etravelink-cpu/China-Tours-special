@@ -20155,7 +20155,7 @@ window.TOURS = [
   "dest": "other",
   "destZh": "其他",
   "destEn": "other",
-  "category": "超值特惠团",
+  "category": "含机票特别订制团",
   "subRegion": "其他",
   "subRegions": [
    "其他"
@@ -20164,10 +20164,10 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 18,
   "tags": [
-   "超值特价"
+   "机票套餐"
   ],
   "tagsEn": [
-   "Value"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/other.jpg",
   "introZh": "",
@@ -20200,7 +20200,7 @@ window.TOURS = [
   "dest": "other",
   "destZh": "其他",
   "destEn": "other",
-  "category": "超值特惠团",
+  "category": "含机票特别订制团",
   "subRegion": "其他",
   "subRegions": [
    "其他"
@@ -20209,10 +20209,10 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 17,
   "tags": [
-   "超值特价"
+   "机票套餐"
   ],
   "tagsEn": [
-   "Value"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/other.jpg",
   "introZh": "",
@@ -20245,7 +20245,7 @@ window.TOURS = [
   "dest": "other",
   "destZh": "其他",
   "destEn": "other",
-  "category": "超值特惠团",
+  "category": "含机票特别订制团",
   "subRegion": "其他",
   "subRegions": [
    "其他"
@@ -20254,10 +20254,10 @@ window.TOURS = [
   "priceEn": "待确认",
   "days": 18,
   "tags": [
-   "超值特价"
+   "机票套餐"
   ],
   "tagsEn": [
-   "Value"
+   "Flight-incl"
   ],
   "img": "assets/img/destinations/other.jpg",
   "introZh": "",
