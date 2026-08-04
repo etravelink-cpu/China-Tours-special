@@ -214,8 +214,9 @@
         const ar = ti.querySelector(".rp-arrow");
         if (ar) ar.textContent = open ? "▼" : "▶";
         if (open) {
-          // 关闭整棵树里其他所有已展开的分组(真·手风琴: 点长江三峡, 其他类目全缩回)
-          nav.querySelectorAll(".rp-group.open").forEach((sib) => {
+          // 仅关闭同一父级下的同级分组(不波及其他一级类目/其他区域)
+          const parent = g.parentElement;
+          parent.querySelectorAll(":scope > .rp-group.open").forEach((sib) => {
             if (sib !== g) {
               sib.classList.remove("open");
               const sa = sib.querySelector(":scope > .rp-group-title .rp-arrow");
