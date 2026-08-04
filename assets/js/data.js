@@ -17721,7 +17721,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Explore-Bhutan--the-Land-of-Thunder-Dragons--and-Bangkok-10-Day-Tour_EBB10_2026-12-31.pdf",
+    "url": "/assets/suppliers/SUP-PV/Explore-Bhutan--the-Land-of-Thunder-Dragons--and-Bangkok-10-Day-Tour_EBB10_2026-12-31.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -17772,7 +17778,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Caucasus-Three-Countries-12-Days_AAG12_2027-03-17.pdf",
+    "url": "/assets/suppliers/SUP-PV/Caucasus-Three-Countries-12-Days_AAG12_2027-03-17.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -17823,7 +17835,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Magnificent-Africa-Animal-Migration-17-Days_AAM17_2026-09-30.pdf",
+    "url": "/assets/suppliers/SUP-PV/Magnificent-Africa-Animal-Migration-17-Days_AAM17_2026-09-30.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -17874,7 +17892,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Himalayas-_-Ancient-Nepal-and-Blissful-Bhutan-12-Days_NB12_2026-08-11.pdf",
+    "url": "/assets/suppliers/SUP-PV/Himalayas-_-Ancient-Nepal-and-Blissful-Bhutan-12-Days_NB12_2026-08-11.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -17925,7 +17949,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Kenya-s-Great-Migration--Day-12_KGM12_2026-09-25.pdf",
+    "url": "/assets/suppliers/SUP-PV/Kenya-s-Great-Migration--Day-12_KGM12_2026-09-25.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -17976,7 +18006,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Mysterious-Morocco--Charming-8-Days_FTCMN8_2026-12-28.pdf",
+    "url": "/assets/suppliers/SUP-PV/Mysterious-Morocco--Charming-8-Days_FTCMN8_2026-12-28.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -18027,7 +18063,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Spain---Portugal---Catalonia---Mediterranean-Cruise-20-Days_MSC20_2026-12-22.pdf",
+    "url": "/assets/suppliers/SUP-PV/Spain---Portugal---Catalonia---Mediterranean-Cruise-20-Days_MSC20_2026-12-22.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -18078,7 +18120,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Panoramic-Turkey-11-Days_TK11_2026-12-26.pdf",
+    "url": "/assets/suppliers/SUP-PV/Panoramic-Turkey-11-Days_TK11_2026-12-26.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -18129,7 +18177,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Turkiye-and-Greece-15-days_TKG15_2026-12-19.pdf",
+    "url": "/assets/suppliers/SUP-PV/Turkiye-and-Greece-15-days_TKG15_2026-12-19.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -18180,7 +18234,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Africa-4-Countries-Kenya-South-Africa-Zimbabwe-Zambia-Exploration-Tour-16-Days_SAFC16_2026-09-20.pdf",
+    "url": "/assets/suppliers/SUP-PV/Africa-4-Countries-Kenya-South-Africa-Zimbabwe-Zambia-Exploration-Tour-16-Days_SAFC16_2026-09-20.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -18231,7 +18291,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Wilderness-Exploration-Tour-of-Five-Southwestern-African-Countries-17-Days_WEFSA17_2027-09-16.pdf",
+    "url": "/assets/suppliers/SUP-PV/Wilderness-Exploration-Tour-of-Five-Southwestern-African-Countries-17-Days_WEFSA17_2027-09-16.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -18282,7 +18348,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Exploring-the-Pilgrimage-of-Bhutan-6-Days_EPB6_2026-12-29.pdf",
+    "url": "/assets/suppliers/SUP-PV/Exploring-the-Pilgrimage-of-Bhutan-6-Days_EPB6_2026-12-29.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
