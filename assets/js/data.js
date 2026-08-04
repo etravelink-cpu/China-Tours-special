@@ -8218,8 +8218,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDMEL8PG_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDMEL8PG_brochure.pdf"
+    "file": "SYDMEL8PG_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDMEL8PG_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8274,8 +8274,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDMEL7PG_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDMEL7PG_brochure.pdf"
+    "file": "SYDMEL7PG_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDMEL7PG_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8330,8 +8330,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDMEL6PG_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDMEL6PG_brochure.pdf"
+    "file": "SYDMEL6PG_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDMEL6PG_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8436,8 +8436,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYD4D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYD4D_brochure.pdf"
+    "file": "SYD4D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYD4D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8492,8 +8492,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-HUN2D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-HUN2D_brochure.pdf"
+    "file": "HUN2D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/HUN2D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8648,8 +8648,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-MEL4DAYS_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-MEL4DAYS_brochure.pdf"
+    "file": "MEL4DAYS_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/MEL4DAYS_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8754,8 +8754,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-OOL3DK_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-OOL3DK_brochure.pdf"
+    "file": "OOL3DK_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/OOL3DK_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8910,8 +8910,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS3D4D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS3D4D_brochure.pdf"
+    "file": "CNS3D4D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS3D4D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -8966,8 +8966,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-HI4DPACK_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-HI4DPACK_brochure.pdf"
+    "file": "HI4DPACK_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/HI4DPACK_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9022,8 +9022,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SSPL567D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SSPL567D_brochure.pdf"
+    "file": "SSPL567D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SSPL567D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9078,8 +9078,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SSPL567D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SSPL567D_brochure.pdf"
+    "file": "SSPL567D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SSPL567D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9134,8 +9134,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SSPL567D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SSPL567D_brochure.pdf"
+    "file": "SSPL567D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SSPL567D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9590,8 +9590,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-TAS_aurora_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-TAS_aurora_brochure.pdf"
+    "file": "TAS_aurora_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9696,8 +9696,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-TAS_aurora_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-TAS_aurora_brochure.pdf"
+    "file": "TAS_aurora_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9752,8 +9752,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-TAS_aurora_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-TAS_aurora_brochure.pdf"
+    "file": "TAS_aurora_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9808,8 +9808,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDHUN_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDHUN_brochure.pdf"
+    "file": "SYDHUN_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDHUN_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9864,8 +9864,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDPST_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDPST_brochure.pdf"
+    "file": "SYDPST_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDPST_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9920,8 +9920,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDBMTS_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDBMTS_brochure.pdf"
+    "file": "SYDBMTS_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMTS_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -9976,8 +9976,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDJVS_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDJVS_brochure.pdf"
+    "file": "SYDJVS_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDJVS_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -10082,8 +10082,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDBMT_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDBMT_brochure.pdf"
+    "file": "SYDBMT_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMT_brochure.pdf"
    }
   ],
   "itinerary": [
@@ -10161,8 +10161,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-SYDSCT_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-SYDSCT_brochure.pdf"
+    "file": "SYDSCT_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDSCT_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -10517,8 +10517,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-OOLBY_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-OOLBY_brochure.pdf"
+    "file": "OOLBY_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/OOLBY_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -10623,8 +10623,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-OOLTAM_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-OOLTAM_brochure.pdf"
+    "file": "OOLTAM_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/OOLTAM_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -10829,8 +10829,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_cruise_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_cruise_brochure.pdf"
+    "file": "CNS_cruise_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -10885,8 +10885,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_cruise_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_cruise_brochure.pdf"
+    "file": "CNS_cruise_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -10941,8 +10941,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_cruise_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_cruise_brochure.pdf"
+    "file": "CNS_cruise_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -10997,8 +10997,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_cruise_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_cruise_brochure.pdf"
+    "file": "CNS_cruise_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -11053,8 +11053,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_cruise_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_cruise_brochure.pdf"
+    "file": "CNS_cruise_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -11309,8 +11309,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_daytours_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_daytours_brochure.pdf"
+    "file": "CNS_daytours_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_daytours_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -11415,8 +11415,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_daytours_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_daytours_brochure.pdf"
+    "file": "CNS_daytours_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_daytours_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -11471,8 +11471,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-CNS_daytours_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-CNS_daytours_brochure.pdf"
+    "file": "CNS_daytours_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/CNS_daytours_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -12777,8 +12777,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-nzs7d23_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-nzs7d23_brochure.pdf"
+    "file": "nzs7d23_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/nzs7d23_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15580,8 +15580,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-NFCE12_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-NFCE12_brochure.pdf"
+    "file": "NFCE12_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/NFCE12_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15636,8 +15636,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FCSA20_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FCSA20_brochure.pdf"
+    "file": "FCSA20_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FCSA20_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15692,8 +15692,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-SA22_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-SA22_brochure.pdf"
+    "file": "SA22_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SA22_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15748,8 +15748,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-APMCMEG_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-APMCMEG_brochure.pdf"
+    "file": "APMCMEG_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/APMCMEG_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15804,8 +15804,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-USAEW14D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-USAEW14D_brochure.pdf"
+    "file": "USAEW14D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/USAEW14D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15860,8 +15860,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-APNFRN6F_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-APNFRN6F_brochure.pdf"
+    "file": "APNFRN6F_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/APNFRN6F_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15916,8 +15916,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-MIAMC08_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-MIAMC08_brochure.pdf"
+    "file": "MIAMC08_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/MIAMC08_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -15972,8 +15972,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-APWEYB15_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-APWEYB15_brochure.pdf"
+    "file": "APWEYB15_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/APWEYB15_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16028,8 +16028,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-DCSEY8_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-DCSEY8_brochure.pdf"
+    "file": "DCSEY8_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/DCSEY8_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16084,8 +16084,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-HA6_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-HA6_brochure.pdf"
+    "file": "HA6_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/HA6_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16140,8 +16140,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-JSB8_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-JSB8_brochure.pdf"
+    "file": "JSB8_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/JSB8_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16196,8 +16196,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-JSBY11_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-JSBY11_brochure.pdf"
+    "file": "JSBY11_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/JSBY11_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16252,8 +16252,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU22_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU22_brochure.pdf"
+    "file": "EU22_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU22_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16308,8 +16308,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU07_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU07_brochure.pdf"
+    "file": "EU07_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU07_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16364,8 +16364,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU06_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU06_brochure.pdf"
+    "file": "EU06_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU06_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16420,8 +16420,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU05_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU05_brochure.pdf"
+    "file": "EU05_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU05_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16476,8 +16476,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU04_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU04_brochure.pdf"
+    "file": "EU04_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU04_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16532,8 +16532,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU03_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU03_brochure.pdf"
+    "file": "EU03_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU03_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16588,8 +16588,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU01_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU01_brochure.pdf"
+    "file": "EU01_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU01_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16644,8 +16644,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-EU08_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-EU08_brochure.pdf"
+    "file": "EU08_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU08_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16700,8 +16700,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJB3D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJB3D_brochure.pdf"
+    "file": "FJB3D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJB3D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16756,8 +16756,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJD3DD_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJD3DD_brochure.pdf"
+    "file": "FJD3DD_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJD3DD_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16812,8 +16812,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJB5DT_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJB5DT_brochure.pdf"
+    "file": "FJB5DT_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJB5DT_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16868,8 +16868,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJL5DT_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJL5DT_brochure.pdf"
+    "file": "FJL5DT_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJL5DT_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16924,8 +16924,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJD5DT_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJD5DT_brochure.pdf"
+    "file": "FJD5DT_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJD5DT_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -16980,8 +16980,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJ4DD5_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJ4DD5_brochure.pdf"
+    "file": "FJ4DD5_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJ4DD5_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -17036,8 +17036,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJ4DT_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJ4DT_brochure.pdf"
+    "file": "FJ4DT_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJ4DT_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -17092,8 +17092,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-FJB4D_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-FJB4D_brochure.pdf"
+    "file": "FJB4D_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FJB4D_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -17148,8 +17148,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "SUP-PV-NZSN11_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SUP-PV-NZSN11_brochure.pdf"
+    "file": "NZSN11_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/NZSN11_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -18714,8 +18714,8 @@ window.TOURS = [
   "brochures": [
    {
     "supplier": "SUP-NOVA",
-    "file": "NOVA-OOL5D4N_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/NOVA-OOL5D4N_brochure.pdf"
+    "file": "OOL5D4N_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/OOL5D4N_brochure.pdf"
    }
   ],
   "itinerary": [],
