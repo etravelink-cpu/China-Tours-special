@@ -1284,7 +1284,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-CM",
+    "file": "NGGZJX1626AUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/NGGZJX1626AUD.pdf"
+   }
+  ],
   "itinerary": [],
   "hotels": [],
   "includes": [],
