@@ -20160,8 +20160,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$2168",
+  "priceEn": "A$2168",
   "days": 18,
   "tags": [
    "机票套餐"
@@ -20173,8 +20173,29 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-10-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-17",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 2168.0,
+    "childbed": 1398.0,
+    "childnobed": 898.0,
+    "infant": "",
+    "single": 850.0,
+    "transfer": "",
+    "tip": 400.0,
+    "service": 400.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20205,8 +20226,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$4299",
+  "priceEn": "A$4299",
   "days": 17,
   "tags": [
    "机票套餐"
@@ -20218,8 +20239,25 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-08-01",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 4299.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": 1200.0,
+    "transfer": "",
+    "tip": 300.0,
+    "service": 300.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20250,8 +20288,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$4299",
+  "priceEn": "A$4299",
   "days": 18,
   "tags": [
    "机票套餐"
@@ -20263,8 +20301,25 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-08-18",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 4299.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": 1200.0,
+    "transfer": "",
+    "tip": 300.0,
+    "service": 300.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20295,8 +20350,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$1199",
+  "priceEn": "A$1199",
   "days": 6,
   "tags": [
    "超值特价"
@@ -20308,8 +20363,145 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-03-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-26",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-31",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-07",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-14",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-26",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-23",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-20",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-20",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 1199.0,
+    "childbed": 1199.0,
+    "childnobed": 899.0,
+    "infant": "",
+    "single": 450.0,
+    "transfer": "",
+    "tip": "",
+    "service": 150.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20345,8 +20537,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$1498",
+  "priceEn": "A$1498",
   "days": 6,
   "tags": [
    "超值特价"
@@ -20358,8 +20550,133 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-03-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-03",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-14",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-16",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-20",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-27",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-20",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 1498.0,
+    "childbed": 1498.0,
+    "childnobed": 898.0,
+    "infant": "",
+    "single": 780.0,
+    "transfer": "",
+    "tip": 0.0,
+    "service": 100.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20390,8 +20707,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$1018",
+  "priceEn": "A$1018",
   "days": 8,
   "tags": [
    "超值特价"
@@ -20403,8 +20720,173 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-01-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-02-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-03",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-31",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-07",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-28",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-26",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-02",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-16",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-23",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-30",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-13",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 1018.0,
+    "childbed": 1518.0,
+    "childnobed": 1018.0,
+    "infant": "",
+    "single": 500.0,
+    "transfer": "",
+    "tip": "",
+    "service": 130.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20435,8 +20917,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$638",
+  "priceEn": "A$638",
   "days": 7,
   "tags": [
    "超值特价"
@@ -20448,8 +20930,181 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-01-07",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-14",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-28",
+    "status": "Open"
+   },
+   {
+    "date": "2026-02-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-20",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-27",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-03",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-26",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-02",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-16",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-14",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-28",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-02",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-16",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 638.0,
+    "childbed": 1038.0,
+    "childnobed": 738.0,
+    "infant": "",
+    "single": 400.0,
+    "transfer": "",
+    "tip": "",
+    "service": 100.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20480,8 +21135,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$919",
+  "priceEn": "A$919",
   "days": 6,
   "tags": [
    "超值特价"
@@ -20493,8 +21148,209 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-01-02",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-16",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-23",
+    "status": "Open"
+   },
+   {
+    "date": "2026-01-30",
+    "status": "Open"
+   },
+   {
+    "date": "2026-02-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-02-27",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-20",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-27",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-03",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-26",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-03",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-31",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-07",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-28",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-16",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-23",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-30",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-20",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-27",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-25",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 919.0,
+    "childbed": 989.0,
+    "childnobed": 889.0,
+    "infant": "",
+    "single": 380.0,
+    "transfer": "",
+    "tip": "",
+    "service": 90.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20525,8 +21381,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$2098",
+  "priceEn": "A$2098",
   "days": 10,
   "tags": [
    "超值特价"
@@ -20538,8 +21394,145 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-03-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-31",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-07",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-14",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-28",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-23",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-20",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-24",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 2098.0,
+    "childbed": 2098.0,
+    "childnobed": 1498.0,
+    "infant": "",
+    "single": 1200.0,
+    "transfer": "",
+    "tip": "",
+    "service": 300.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20570,8 +21563,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$1058",
+  "priceEn": "A$1058",
   "days": 6,
   "tags": [
    "超值特价"
@@ -20583,8 +21576,145 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-05-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-31",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-07",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-14",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-28",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-05",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-26",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-16",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-23",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-30",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-20",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-27",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-24",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 1058.0,
+    "childbed": 1058.0,
+    "childnobed": 658.0,
+    "infant": "",
+    "single": 600.0,
+    "transfer": "",
+    "tip": "",
+    "service": 150.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20615,8 +21745,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$1198",
+  "priceEn": "A$1198",
   "days": 5,
   "tags": [
    "超值特价"
@@ -20628,8 +21758,173 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-03-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-03-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-04-29",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-06",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-13",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-05-27",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-03",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-10",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-17",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-24",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-08",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-07-22",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-19",
+    "status": "Open"
+   },
+   {
+    "date": "2026-08-26",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-02",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-16",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-30",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-14",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-21",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-28",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-04",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-11",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-18",
+    "status": "Open"
+   },
+   {
+    "date": "2026-11-25",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-02",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-09",
+    "status": "Open"
+   },
+   {
+    "date": "2026-12-16",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 1198.0,
+    "childbed": 1198.0,
+    "childnobed": 698.0,
+    "infant": "",
+    "single": 450.0,
+    "transfer": "",
+    "tip": "",
+    "service": 80.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20660,8 +21955,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$3299",
+  "priceEn": "A$3299",
   "days": 15,
   "tags": [
    "机票套餐"
@@ -20673,8 +21968,37 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-05-12",
+    "status": "Open"
+   },
+   {
+    "date": "2026-06-02",
+    "status": "Open"
+   },
+   {
+    "date": "2026-09-01",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-13",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 3299.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": 1100.0,
+    "transfer": "",
+    "tip": 300.0,
+    "service": 300.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20705,8 +22029,8 @@ window.TOURS = [
   "subRegions": [
    "其他"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$5399",
+  "priceEn": "A$5399",
   "days": 11,
   "tags": [
    "机票套餐"
@@ -20718,8 +22042,25 @@ window.TOURS = [
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [],
+  "departureDates": [
+   {
+    "date": "2026-12-24",
+    "status": "Open"
+   }
+  ],
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 5399.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": 800.0,
+    "transfer": "",
+    "tip": 150.0,
+    "service": 150.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-CM",
