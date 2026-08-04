@@ -15,8 +15,8 @@
     const price = lang==='zh'?t.price:t.priceEn;
     document.getElementById('detail-head').innerHTML = `
       <h1>${lang==='zh'?t.nameZh:t.nameEn}</h1>
-      <div class="muted" style="color:#cdd8e3">${I[lang]['detail.tourid']}: <b>${t.id}</b></div>
-      <div class="detail-tags">${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
+      <div class="muted" style="color:#cdd8e3">${I[lang]['detail.tourid']}: <b>${t.supplierCode||t.id}</b></div>
+      <div class="detail-tags">${t.supplierCode?`<span class="tag tag-code">${t.supplierCode}</span>`:''}${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</
       <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
     </div>`;
     // 统一 hero: 与列表页内嵌详情同一张产品图(图片背景+遮罩+白字标题)
