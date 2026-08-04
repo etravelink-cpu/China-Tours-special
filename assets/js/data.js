@@ -20152,13 +20152,13 @@ window.TOURS = [
   "supplierCode": "AIR-SGJNSR1826",
   "nameZh": "2026 横贯中国·纵览山河：吴越水乡西域大漠 18天传奇丝路 （含机票）",
   "nameEn": "2026 横贯中国·纵览山河：吴越水乡西域大漠 18天传奇丝路 （含机票）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
   "category": "含机票特别订制团",
-  "subRegion": "其他",
+  "subRegion": "新疆甘肃西藏青海丝绸之路",
   "subRegions": [
-   "其他"
+   "新疆甘肃西藏青海丝绸之路"
   ],
   "price": "A$2168",
   "priceEn": "A$2168",
@@ -20169,7 +20169,7 @@ window.TOURS = [
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/china.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -20218,13 +20218,13 @@ window.TOURS = [
   "supplierCode": "AIRNGXJ1726",
   "nameZh": "2026 南北疆全景深度游 17天 （含机票）",
   "nameEn": "2026 南北疆全景深度游 17天 （含机票）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
   "category": "含机票特别订制团",
-  "subRegion": "其他",
+  "subRegion": "新疆甘肃西藏青海丝绸之路",
   "subRegions": [
-   "其他"
+   "新疆甘肃西藏青海丝绸之路"
   ],
   "price": "A$4299",
   "priceEn": "A$4299",
@@ -20235,7 +20235,7 @@ window.TOURS = [
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/china.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -20280,13 +20280,13 @@ window.TOURS = [
   "supplierCode": "AIR-NGXJ1826B",
   "nameZh": "2026 南北疆全景深度游 18天 （含机票）",
   "nameEn": "2026 南北疆全景深度游 18天 （含机票）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
   "category": "含机票特别订制团",
-  "subRegion": "其他",
+  "subRegion": "新疆甘肃西藏青海丝绸之路",
   "subRegions": [
-   "其他"
+   "新疆甘肃西藏青海丝绸之路"
   ],
   "price": "A$4299",
   "priceEn": "A$4299",
@@ -20297,7 +20297,7 @@ window.TOURS = [
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/china.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -20342,13 +20342,13 @@ window.TOURS = [
   "supplierCode": "NGSM0626",
   "nameZh": "2026 新加坡马来西亚6天 （超值）",
   "nameEn": "2026 新加坡马来西亚6天 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "新加坡马来西亚",
   "subRegions": [
-   "其他"
+   "新加坡马来西亚"
   ],
   "price": "A$1199",
   "priceEn": "A$1199",
@@ -20359,7 +20359,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -20529,13 +20529,13 @@ window.TOURS = [
   "supplierCode": "NGMS0626",
   "nameZh": "2026 马来西亚新加坡6天 （超值）",
   "nameEn": "2026 马来西亚新加坡6天 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "新加坡马来西亚",
   "subRegions": [
-   "其他"
+   "新加坡马来西亚"
   ],
   "price": "A$1498",
   "priceEn": "A$1498",
@@ -20546,7 +20546,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -20699,13 +20699,13 @@ window.TOURS = [
   "supplierCode": "SGTW0826",
   "nameZh": "2026 台湾环岛8日 （超值）",
   "nameEn": "2026 台湾环岛8日 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "台湾",
   "subRegions": [
-   "其他"
+   "台湾"
   ],
   "price": "A$1018",
   "priceEn": "A$1018",
@@ -20716,7 +20716,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -20909,13 +20909,13 @@ window.TOURS = [
   "supplierCode": "SGTW0626",
   "nameZh": "2026 台湾环岛6/7日 （超值）",
   "nameEn": "2026 台湾环岛6/7日 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "台湾",
   "subRegions": [
-   "其他"
+   "台湾"
   ],
   "price": "A$638",
   "priceEn": "A$638",
@@ -20926,7 +20926,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -21127,13 +21127,13 @@ window.TOURS = [
   "supplierCode": "SGSK0626",
   "nameZh": "2026 韩国首尔江原道6日 （超值）",
   "nameEn": "2026 韩国首尔江原道6日 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "韩国",
   "subRegions": [
-   "其他"
+   "韩国"
   ],
   "price": "A$919",
   "priceEn": "A$919",
@@ -21144,7 +21144,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -21373,13 +21373,13 @@ window.TOURS = [
   "supplierCode": "NGJP1026",
   "nameZh": "2026 日本富士山东京大阪北海道10日 （超值）",
   "nameEn": "2026 日本富士山东京大阪北海道10日 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "日本",
   "subRegions": [
-   "其他"
+   "日本"
   ],
   "price": "A$2098",
   "priceEn": "A$2098",
@@ -21390,7 +21390,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -21555,13 +21555,13 @@ window.TOURS = [
   "supplierCode": "NGJP0626",
   "nameZh": "2026 日本富士山东京大阪温泉6日 （超值）",
   "nameEn": "2026 日本富士山东京大阪温泉6日 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "日本",
   "subRegions": [
-   "其他"
+   "日本"
   ],
   "price": "A$1058",
   "priceEn": "A$1058",
@@ -21572,7 +21572,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -21737,13 +21737,13 @@ window.TOURS = [
   "supplierCode": "NGSK0526",
   "nameZh": "2026 韩国首尔江原道5日 （超值）",
   "nameEn": "2026 韩国首尔江原道5日 （超值）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "超值特惠团",
-  "subRegion": "其他",
+  "subRegion": "韩国",
   "subRegions": [
-   "其他"
+   "韩国"
   ],
   "price": "A$1198",
   "priceEn": "A$1198",
@@ -21754,7 +21754,7 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -21947,13 +21947,13 @@ window.TOURS = [
   "supplierCode": "AIRSGTB1526",
   "nameZh": "2026 西藏成都精品游15天 （含机票）",
   "nameEn": "2026 西藏成都精品游15天 （含机票）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
   "category": "含机票特别订制团",
-  "subRegion": "其他",
+  "subRegion": "新疆甘肃西藏青海丝绸之路",
   "subRegions": [
-   "其他"
+   "新疆甘肃西藏青海丝绸之路"
   ],
   "price": "A$3299",
   "priceEn": "A$3299",
@@ -21964,7 +21964,7 @@ window.TOURS = [
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/china.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -22021,13 +22021,13 @@ window.TOURS = [
   "supplierCode": "AIR-NGJP1126",
   "nameZh": "2026 缤纷日本11日 白色圣诞浪漫新年 （含机票）",
   "nameEn": "2026 缤纷日本11日 白色圣诞浪漫新年 （含机票）",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
   "category": "含机票特别订制团",
-  "subRegion": "其他",
+  "subRegion": "日本",
   "subRegions": [
-   "其他"
+   "日本"
   ],
   "price": "A$5399",
   "priceEn": "A$5399",
@@ -22038,7 +22038,7 @@ window.TOURS = [
   "tagsEn": [
    "Flight-incl"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
