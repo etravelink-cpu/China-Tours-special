@@ -88,22 +88,90 @@
     const box = document.getElementById('detail-dep');
     if(!box) return;
     const ds = t.departureDates||[];
-    if(!ds.length){ box.style.display='none'; return; }
+    const rule = t.depRule||null;          // 规则型: [0..6] 星期几
+    const vf = t.validFrom||null;          // 有效起 YYYY-MM-DD
+    const vt = t.validTo||null;            // 有效期止 YYYY-MM-DD
+    const hasRule = Array.isArray(rule) && rule.length>0;
+    const hasDates = Array.isArray(ds) && ds.length>0;
+    if(!hasRule && !hasDates){ box.style.display='none'; return; }
     box.style.display='';
-    const groups = {};
-    ds.forEach(d=>{ const ym=d.date.slice(0,7); (groups[ym]=groups[ym]||[]).push(d); });
-    const parts = Object.keys(groups).sort().map(ym=>{
-      const m = parseInt(ym.split('-')[1],10);
-      const items = groups[ym].map(d=>{
-        const day = d.date.slice(8,10)+'日';
-        if(d.status==='soldout') return day+'（售罄）';
-        if(d.status==='limited') return day+'（余位紧张）';
-        if(d.status==='open') return day+'（报名中）';
-        return day;
-      }).join('、');
-      return `<div style="margin:4px 0"><b>${m}月：</b>${items}</div>`;
-    }).join('');
-    box.innerHTML = `<h3 style="color:var(--navy);margin:0 0 10px">出发日期</h3><div class="rp-dep-list"><p style="font-size:12px;color:#8a97a6;margin:0 0 8px">（库存随时变化，下单前请二次确认）</p>${parts}</div>`;
+    const WEEKDAY_CN=['一','二','三','四','五','六','日'];
+    // 规则文案
+    let ruleTxt='';
+    if(hasRule){
+      ruleTxt='每周 '+rule.slice().sort((a,b)=>a-b).map(i=>WEEKDAY_CN[i]).join('、')+' 出发';
+    }
+    let validTxt='';
+    if(vf||vt){ validTxt='有效期：'+(vf||'即日起')+' 至 '+(vt||'无限期'); }
+    // 合并出发日集合: 规则型 + 指定日期型
+    const depSet=new Set();
+    if(hasDates){ ds.forEach(d=>depSet.add(d.date)); }
+    // 构建未来12个月日历
+    const today=new Date(); today.setHours(0,0,0,0);
+    const ymList=[];
+    let cy=today.getFullYear(), cm=today.getMonth();
+    for(let n=0;n<12;n++){
+      const y=cy, m=cm;
+      // 有效期截断
+      if(vt){ const [ty,tm]=vt.split('-').map(Number); if(y>ty||(y===ty&&m+1>tm)) break; }
+      ymList.push([y,m]);
+      if(m===11){cy=y+1;cm=0;}else{cm=m+1;}
+    }
+    function inRule(y,m,d){
+      if(!hasRule) return false;
+      const dt=new Date(y,m,d);
+      const jsW=dt.getDay();              // 0=周日..6=周六 (JS)
+      const backIdx=(jsW+6)%7;            // 转成后台索引: 0=周一..6=周日
+      return rule.includes(backIdx);
+    }
+    function inRange(y,m,d){
+      const dt=new Date(y,m,d);
+      if(vf){ const [fy,fm,fd]=vf.split('-').map(Number); const f=new Date(fy,fm-1,fd); if(dt<f) return false; }
+      if(vt){ const [ty,tm,td]=vt.split('-').map(Number); const t2=new Date(ty,tm-1,td); if(dt>t2) return false; }
+      return true;
+    }
+    let monthsHtml='';
+    ymList.forEach(([y,m])=>{
+      const days=new Date(y,m+1,0).getDate();
+      const lead=new Date(y,m,1).getDay(); // 0=Sun
+      let cells='';
+      for(let i=0;i<lead;i++) cells+='<td class="cal-empty"></td>';
+      for(let d=1;d<=days;d++){
+        const dt=new Date(y,m,d);
+        const isDep = (hasRule && inRule(y,m,d) && inRange(y,m,d)) || depSet.has(y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0'));
+        let cls = isDep ? 'cal-dep' : 'cal-off';
+        if(dt<today) cls+=' cal-past';
+        cells+='<td class="'+cls+'">'+d+'</td>';
+        if(dt.getDay()===6) cells+='</tr><tr>';
+      }
+      while(cells.split('</tr>').length % 1 !==0 && (cells.match(/<td/g)||[]).length %7!==0){
+        cells+='<td class="cal-empty"></td>';
+        if((cells.match(/<td/g)||[]).length%7===0){cells+='</tr><tr>';}
+      }
+      // 补齐最后一行到7格
+      let cnt=(cells.match(/<td/g)||[]).length;
+      while(cnt%7!==0){ cells+='<td class="cal-empty"></td>'; cnt++; }
+      monthsHtml+='<div class="cal-month" data-ym="'+y+'-'+String(m+1).padStart(2,'0')+'"><table class="cal-t"><tr>'+WEEKDAY_CN.map(w=>'<th>'+w+'</th>').join('')+'</tr><tr>'+cells+'</tr></table></div>';
+    });
+    const note = t.surchargeNote ? '<p class="surcharge">⚠ '+t.surchargeNote+'</p>' : '';
+    const head='<div class="cal-head"><button type="button" class="cal-prev">‹</button><span class="cal-cur"></span><button type="button" class="cal-next">›</button></div>';
+    box.innerHTML = '<h3 style="color:var(--navy);margin:0 0 10px">出发日期 / 出团日历</h3>'
+      + (ruleTxt||validTxt ? '<div class="rule-box"><p><b>出发规则：</b>'+(ruleTxt||'按指定日期')+'　<b>'+(validTxt||'')+'</b></p></div>' : '')
+      + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note
+      + '<p style="font-size:12px;color:#8a97a6;margin:8px 0 0">（绿色为可出发日期，库存随时变化，下单前请二次确认）</p>';
+    // 翻月
+    const wrap=box.querySelector('.cal-wrap');
+    const months=[...box.querySelectorAll('.cal-month')];
+    const cur=box.querySelector('.cal-cur');
+    let idx=0;
+    function show(i){
+      idx=Math.max(0,Math.min(months.length-1,i));
+      months.forEach((m,k)=>m.style.display = k===idx?'':'none');
+      if(cur&&months[idx]) cur.textContent=months[idx].getAttribute('data-ym').replace('-','年')+'月';
+    }
+    show(0);
+    box.querySelector('.cal-prev').onclick=()=>show(idx-1);
+    box.querySelector('.cal-next').onclick=()=>show(idx+1);
   }
 
   function renderCancel(t){
