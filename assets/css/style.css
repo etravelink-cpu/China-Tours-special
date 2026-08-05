@@ -982,20 +982,27 @@ body.nav-open{overflow:hidden}
 .featured-tours .section-title{margin-bottom:24px}
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px}
 
-/* 出团日历 (与后台预览同源) */
+/* 出团日历 (logo 配色: 外框蓝 navy, 出发日橙 orange) */
 .cal{margin:10px 0}
 .cal-wrap{position:relative}
-.cal-month{width:248px;border:1px solid #e2e7ee;border-radius:0 0 8px 8px;overflow:hidden;background:#fff;margin:0 auto}
-.cal-head{display:flex;align-items:center;justify-content:space-between;width:248px;margin:0 auto;border:1px solid #1F4E78;border-bottom:0;border-radius:8px 8px 0 0;background:#1F4E78;color:#fff;padding:6px 10px;font-weight:600;font-size:13px}
+.cal-month{width:248px;border:1px solid var(--navy);border-radius:0 0 8px 8px;overflow:hidden;background:#fff;margin:0 auto}
+.cal-head{display:flex;align-items:center;justify-content:space-between;width:248px;margin:0 auto;border:1px solid var(--navy);border-bottom:0;border-radius:8px 8px 0 0;background:var(--navy);color:#fff;padding:6px 10px;font-weight:600;font-size:13px}
 .cal-head button{background:transparent;border:0;color:#fff;font-size:16px;cursor:pointer;line-height:1;padding:0 6px}
 .cal-head button:hover{opacity:.7}
 .cal-cur{flex:1;text-align:center}
 .cal-t{width:100%;border-collapse:collapse;font-size:12px}
-.cal-t th{background:#f3f6fa;color:#5a6878;padding:4px 0;font-weight:600}
-.cal-t td{text-align:center;padding:5px 0;border:1px solid #f0f3f7;height:26px}
-.cal-dep{background:#1F4E78;color:#fff;font-weight:600;border-radius:3px}
+.cal-t th{background:var(--sky-tint);color:var(--navy);padding:4px 0;font-weight:600}
+.cal-t td{text-align:center;padding:5px 0;border:1px solid #eef3f7;height:26px}
+.cal-dep{background:var(--orange);color:#fff;font-weight:600;border-radius:3px}
 .cal-off{color:#b9c2ce}
 .cal-past{opacity:.4}
 .cal-empty{background:#fafbfc}
-.rule-box{background:#f8fafc;border:1px solid #e6ebf2;border-radius:8px;padding:12px;margin:10px 0}
-.surcharge{color:#c0392b;background:#fdecea;padding:8px 10px;border-radius:6px;font-size:13px}
+.rule-box{background:var(--sky-band);border:1px solid var(--line-cool);border-radius:8px;padding:12px;margin:10px 0}
+.surcharge{color:var(--orange-deep);background:var(--orange-tint);padding:8px 10px;border-radius:6px;font-size:13px}
+/* 主视图常驻: 日历与价格并排 (宽屏) */
+@media(min-width:900px){
+  .detail-dep-block{margin:18px 0}
+  .detail-dep-block .cal-layout{display:flex;gap:24px;flex-wrap:wrap;align-items:flex-start}
+  .detail-dep-block .cal-main{flex:0 0 auto}
+  .detail-dep-block .cal-side{flex:1;min-width:220px}
+}
