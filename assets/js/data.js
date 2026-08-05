@@ -10070,9 +10070,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "黄金海岸&布里斯班",
+  "subRegion": "凯恩斯（大堡礁）",
   "subRegions": [
-   "黄金海岸&布里斯班"
+   "凯恩斯（大堡礁）"
   ],
   "price": "A$348",
   "priceEn": "A$348",
@@ -10127,9 +10127,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "黄金海岸&布里斯班",
+  "subRegion": "凯恩斯（大堡礁）",
   "subRegions": [
-   "黄金海岸&布里斯班"
+   "凯恩斯（大堡礁）"
   ],
   "price": "A$325",
   "priceEn": "A$325",
@@ -10184,9 +10184,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "黄金海岸&布里斯班",
+  "subRegion": "凯恩斯（大堡礁）",
   "subRegions": [
-   "黄金海岸&布里斯班"
+   "凯恩斯（大堡礁）"
   ],
   "price": "A$322",
   "priceEn": "A$322",
@@ -10241,9 +10241,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "黄金海岸&布里斯班",
+  "subRegion": "凯恩斯（大堡礁）",
   "subRegions": [
-   "黄金海岸&布里斯班"
+   "凯恩斯（大堡礁）"
   ],
   "price": "A$317",
   "priceEn": "A$317",
@@ -10928,9 +10928,9 @@ window.TOURS = [
   "destZh": "澳洲",
   "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "悉尼及周边",
+  "subRegion": "阿德莱德/南澳",
   "subRegions": [
-   "悉尼及周边"
+   "阿德莱德/南澳"
   ],
   "price": "A$185",
   "priceEn": "A$185",
