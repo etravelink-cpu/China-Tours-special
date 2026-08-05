@@ -10,8 +10,14 @@ function calHTML(t, opts){
     const rule = t.depRule || null;
     const vf = t.validFrom || null;
     const vt = t.validTo || null;
-    const hasRule = Array.isArray(rule) && rule.length > 0;
-    const hasDates = Array.isArray(ds) && ds.length > 0;
+    // 按区域锁死日历类型: 中/亚只用固定日期, 澳新只用规则型(避免两类交叉显示)
+    const _dest = (t.dest || '').toLowerCase();
+    const _fixedDest = (_dest === 'china' || _dest === 'asia');
+    const _ruleDest = (_dest === 'australia' || _dest === 'nz');
+    let hasRule = Array.isArray(rule) && rule.length > 0;
+    let hasDates = Array.isArray(ds) && ds.length > 0;
+    if (_fixedDest) hasRule = false;   // 中/亚: 忽略规则型, 强制固定日期
+    if (_ruleDest) hasDates = false;   // 澳新: 忽略固定日期, 强制规则型
     if(!hasRule && !hasDates) return '';
     const WEEKDAY_CN = ['一','二','三','四','五','六','日'];
     let ruleTxt = '';
