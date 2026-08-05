@@ -190,12 +190,11 @@
     const panel = document.getElementById('panel-brochure');
     if(!panel) return;
     const list = t.brochures||[];
-    const dlBtn = `<p style="margin:0 0 14px"><button class="btn btn-gold" onclick="EtripsDetail.downloadPDF()">${I[lang]['btn.download']}</button></p>`;
     if(!list.length){
-      panel.innerHTML = dlBtn + `<p class="muted">暂无彩页下载</p>`;
+      panel.innerHTML = `<p class="muted">暂无彩页下载</p>`;
       return;
     }
-    panel.innerHTML = dlBtn + `<ul class="includes">${list.map(b=>`<li><a href="${b.url}" target="_blank" rel="noopener">${b.file}</a></li>`).join('')}</ul>`;
+    panel.innerHTML = `<ul class="includes">${list.map(b=>`<li><a href="${b.url}" target="_blank" rel="noopener">${b.file}</a></li>`).join('')}</ul>`;
   }
 
   function hasContent(arr){ return Array.isArray(arr) && arr.length>0; }
