@@ -9164,57 +9164,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "Nova-SYDZJG",
-  "supplierCode": "SYDZJG",
-  "nameZh": "复古铁路蓝山风光一日游[纯玩]",
-  "nameEn": "复古铁路蓝山风光一日游[纯玩]",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "悉尼及周边",
-  "subRegions": [
-   "悉尼及周边"
-  ],
-  "price": "A$159",
-  "priceEn": "A$159",
-  "days": 1,
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "priceTable": [
-   {
-    "city": "悉尼",
-    "adult": 159.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": 89.0,
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "Nova-SYDBMT",
   "supplierCode": "SYDBMT",
   "nameZh": "【天天出发】蓝山有氧一日游[纯玩]",
