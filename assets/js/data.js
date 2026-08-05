@@ -9853,6 +9853,70 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-SYDCBR",
+  "supplierCode": "SYDCBR",
+  "nameZh": "首都堪培拉一日游【每周六，日出发】",
+  "nameEn": "首都堪培拉一日游【每周六，日出发】",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$149",
+  "priceEn": "A$149",
+  "days": 1,
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/hero-sydney.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": [
+   5,
+   6
+  ],
+  "validFrom": "2026-08-06",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 149.0,
+    "childbed": 149.0,
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": 5.0,
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDCBR_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDCBR_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "Nova-SYDBMT",
   "supplierCode": "SYDBMT",
   "nameZh": "【天天出发】蓝山有氧一日游[纯玩]",
