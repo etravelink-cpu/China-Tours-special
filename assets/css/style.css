@@ -999,3 +999,13 @@ body.nav-open{overflow:hidden}
 .cal-empty{background:#fafbfc}
 .rule-box{background:var(--sky-band);border:1px solid var(--line-cool);border-radius:8px;padding:12px;margin:10px 0}
 .surcharge{color:var(--orange-deep);background:var(--orange-tint);padding:8px 10px;border-radius:6px;font-size:13px}
+
+/* 产品卡内日历 (复用出团日历, 当月无翻月) */
+.card-cal{margin-top:12px;border-top:1px solid var(--line);padding-top:12px}
+.card-cal .cal-wrap-single{margin:0 auto}
+.card-cal .cal-month{width:100%;max-width:260px;border-color:var(--navy)}
+.card-cal .cal-head{display:none}
+.card-cal .cal-t{font-size:11px}
+.card-cal .cal-t td{height:22px;padding:3px 0}
+.card-cal .rule-box{font-size:12px;padding:8px 10px;margin:0 0 8px}
+.card-cal .surcharge{font-size:11px;padding:5px 8px}
