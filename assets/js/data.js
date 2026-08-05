@@ -9643,67 +9643,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "Nova-SYDPST",
-  "supplierCode": "SYDPST",
-  "nameZh": "【每周二、四、日固定出发】史蒂芬港观海豚一日游[纯玩]",
-  "nameEn": "【每周二、四、日固定出发】史蒂芬港观海豚一日游[纯玩]",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "悉尼及周边",
-  "subRegions": [
-   "悉尼及周边"
-  ],
-  "price": "A$179",
-  "priceEn": "A$179",
-  "days": 1,
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "悉尼",
-    "adult": 179.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": 89.0,
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-NOVA",
-    "file": "SYDPST_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/SYDPST_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "Nova-SYDBMTS",
   "supplierCode": "SYDBMTS",
   "nameZh": "【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】[纯玩]",
