@@ -993,7 +993,7 @@ body.nav-open{overflow:hidden}
 .cal-t{width:100%;border-collapse:collapse;font-size:12px}
 .cal-t th{background:#f3f6fa;color:#5a6878;padding:4px 0;font-weight:600}
 .cal-t td{text-align:center;padding:5px 0;border:1px solid #f0f3f7;height:26px}
-.cal-dep{background:#2e8b57;color:#fff;font-weight:600;border-radius:3px}
+.cal-dep{background:#1F4E78;color:#fff;font-weight:600;border-radius:3px}
 .cal-off{color:#b9c2ce}
 .cal-past{opacity:.4}
 .cal-empty{background:#fafbfc}
