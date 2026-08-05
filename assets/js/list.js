@@ -206,24 +206,13 @@
       const ar = firstOpen.querySelector(":scope > .rp-group-title .rp-arrow");
       if (ar) ar.textContent = "▼";
     }
-    // 绑定展开/收起 (手风琴: 同层级仅保留一个展开)
+    // 绑定展开/收起 (纯展开/收起: 点击只切换自己, 不影响其他分组/区域)
     nav.querySelectorAll(".rp-group-title").forEach((ti) => {
       ti.addEventListener("click", () => {
         const g = ti.closest(".rp-group");
         const open = g.classList.toggle("open");
         const ar = ti.querySelector(".rp-arrow");
         if (ar) ar.textContent = open ? "▼" : "▶";
-        if (open) {
-          // 仅关闭同一父级下的同级分组(不波及其他一级类目/其他区域)
-          const parent = g.parentElement;
-          parent.querySelectorAll(":scope > .rp-group.open").forEach((sib) => {
-            if (sib !== g) {
-              sib.classList.remove("open");
-              const sa = sib.querySelector(":scope > .rp-group-title .rp-arrow");
-              if (sa) sa.textContent = "▶";
-            }
-          });
-        }
       });
       ti.addEventListener("keydown", (e) => {
         if (e.key === "Enter" || e.key === " ") {
@@ -276,11 +265,16 @@
     }
     // 出发日历(有班期即显示): 可视化月历, 出发日高亮
     let depHtml = "";
-    if ((t.departureDates || []).length) {
+    // 有具体班期(departureDates)或规则型出发(depRule)都显示日历, 与 detail/卡片共用 calendar.js
+    const _hasDep = (t.departureDates && t.departureDates.length) || (t.depRule && t.depRule.length);
+    if (_hasDep) {
+      const _cal = (window.EtripsCalendar && window.EtripsCalendar.calendarHTML)
+        ? window.EtripsCalendar.calendarHTML(t, {full:true})
+        : "<div class='rp-cal' id='rp-cal-" + esc(t.id) + "'></div>";
       depHtml =
         "<div class='rp-sec'><h4>出发日历</h4>" +
         "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（出发日已高亮，库存随时变化，下单前请二次确认）</p>" +
-        "<div class='rp-cal' id='rp-cal-" + esc(t.id) + "'></div></div>";
+        _cal + "</div>";
     }
     const itin = (t.itinerary || [])
       .map((d) => {
