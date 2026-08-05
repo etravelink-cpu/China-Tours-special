@@ -999,10 +999,3 @@ body.nav-open{overflow:hidden}
 .cal-empty{background:#fafbfc}
 .rule-box{background:var(--sky-band);border:1px solid var(--line-cool);border-radius:8px;padding:12px;margin:10px 0}
 .surcharge{color:var(--orange-deep);background:var(--orange-tint);padding:8px 10px;border-radius:6px;font-size:13px}
-/* 主视图常驻: 日历与价格并排 (宽屏) */
-@media(min-width:900px){
-  .detail-dep-block{margin:18px 0}
-  .detail-dep-block .cal-layout{display:flex;gap:24px;flex-wrap:wrap;align-items:flex-start}
-  .detail-dep-block .cal-main{flex:0 0 auto}
-  .detail-dep-block .cal-side{flex:1;min-width:220px}
-}

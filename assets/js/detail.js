@@ -156,12 +156,8 @@
     const note = t.surchargeNote ? '<p class="surcharge">⚠ '+t.surchargeNote+'</p>' : '';
     const head='<div class="cal-head"><button type="button" class="cal-prev">‹</button><span class="cal-cur"></span><button type="button" class="cal-next">›</button></div>';
     box.innerHTML = '<h3 style="color:var(--navy);margin:0 0 10px">出发日期 / 出团日历</h3>'
-      + '<div class="cal-layout">'
-      + '<div class="cal-main">'+head+'<div class="cal-wrap">'+monthsHtml+'</div>'+note+'</div>'
-      + '<div class="cal-side">'
-      + (ruleTxt||validTxt ? '<div class="rule-box"><p><b>出发规则：</b>'+(ruleTxt||'按指定日期')+'</p>'+(validTxt?'<p><b>'+validTxt+'</b></p>':'')+'</div>' : '')
-      + (note?'':'')
-      + '</div></div>' 
+      + (ruleTxt||validTxt ? '<div class="rule-box"><p style="margin:0"><b>出发规则：</b>'+(ruleTxt||'按指定日期')+(validTxt?'　<b>'+validTxt+'</b>':'')+'</p></div>' : '')
+      + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note
       + '<p style="font-size:12px;color:#8a97a6;margin:8px 0 0">（橙色为可出发日期，库存随时变化，下单前请二次确认）</p>';
     // 翻月
     const wrap=box.querySelector('.cal-wrap');
