@@ -141,13 +141,32 @@
       }
       let cnt=(cells.match(/<td/g)||[]).length;
       while(cnt%7!==0){ cells+='<td class="cal-empty"></td>'; cnt++; }
-      monthsHtml+='<div class="cal-month" data-ym="'+y+'-'+String(m+1).padStart(2,'0')+'"><table class="cal-t"><tr>'+WEEKDAY_CN.map(w=>'<th>'+w+'</th>').join('')+'</tr><tr>'+cells+'</tr></table></div>';
+      const mIdx=ymList.findIndex(p=>p[0]===y&&p[1]===m);
+      monthsHtml+='<div class="cal-month" data-ym="'+y+'-'+String(m+1).padStart(2,'0')+'"'+(mIdx>0?' style="display:none"':'')+'><table class="cal-t"><tr>'+WEEKDAY_CN.map(w=>'<th>'+w+'</th>').join('')+'</tr><tr>'+cells+'</tr></table></div>';
     });
     const note = t.surchargeNote ? '<p class="surcharge">⚠ '+t.surchargeNote+'</p>' : '';
-    const head=full?'<div class="cal-head"><button type="button" class="cal-prev">‹</button><span class="cal-cur"></span><button type="button" class="cal-next">›</button></div>':'';
+    const head=full?'<div class="cal-head"><button type="button" class="cal-prev" onclick="if(window.EtripsDetail)window.EtripsDetail._navCal(this,-1)">‹</button><span class="cal-cur"></span><button type="button" class="cal-next" onclick="if(window.EtripsDetail)window.EtripsDetail._navCal(this,1)">›</button></div>':'';
     const ruleBox=(ruleTxt||validTxt)?'<div class="rule-box"><p style="margin:0"><b>出发规则：</b>'+(ruleTxt||'按指定日期')+(validTxt?'　<b>'+validTxt+'</b>':'')+'</p></div>':'';
     const hint=full?'<p style="font-size:12px;color:#8a97a6;margin:8px 0 0">（橙色为可出发日期，库存随时变化，下单前请二次确认）</p>':'';
     return ruleBox + head + '<div class="cal-wrap'+(full?'':' cal-wrap-single')+'">'+monthsHtml+'</div>' + note + hint;
+  }
+
+  // 绑定日历翻月 (detail 与卡片共用)
+  function bindCalendarNav(box){
+    if(!box) return;
+    const months=[...box.querySelectorAll('.cal-month')];
+    const cur=box.querySelector('.cal-cur');
+    if(!months.length) return;
+    let idx=0;
+    function show(i){
+      idx=Math.max(0,Math.min(months.length-1,i));
+      months.forEach((m,k)=>m.style.display = k===idx?'':'none');
+      if(cur&&months[idx]) cur.textContent=months[idx].getAttribute('data-ym').replace('-','年')+'月';
+    }
+    show(0);
+    const pv=box.querySelector('.cal-prev'), nx=box.querySelector('.cal-next');
+    if(pv) pv.onclick=(e)=>{e&&e.stopPropagation();show(idx-1);};
+    if(nx) nx.onclick=(e)=>{e&&e.stopPropagation();show(idx+1);};
   }
 
   function renderDeparture(t){
@@ -222,16 +241,7 @@
     const note = t.surchargeNote ? '<p class="surcharge">⚠ '+t.surchargeNote+'</p>' : '';
     const head='<div class="cal-head"><button type="button" class="cal-prev">‹</button><span class="cal-cur"></span><button type="button" class="cal-next">›</button></div>';
     box.innerHTML = '<h3 style="color:var(--navy);margin:0 0 10px">出发日期 / 出团日历</h3>' + calendarHTML(t, {full:true});
-    // 翻月
-    const months=[...box.querySelectorAll('.cal-month')];
-    const cur=box.querySelector('.cal-cur');
-    let idx=0;
-    function show(i){
-      idx=Math.max(0,Math.min(months.length-1,i));
-      months.forEach((m,k)=>m.style.display = k===idx?'':'none');
-      if(cur&&months[idx]) cur.textContent=months[idx].getAttribute('data-ym').replace('-','年')+'月';
-    }
-    if(months.length){ show(0); const pv=box.querySelector('.cal-prev'), nx=box.querySelector('.cal-next'); if(pv) pv.onclick=()=>show(idx-1); if(nx) nx.onclick=()=>show(idx+1); }
+    // 翻月由 calendarHTML 内联 onclick 处理
   }
 
   function renderCancel(t){
@@ -329,8 +339,24 @@
   window.addEventListener('langchange', renderAll);
 
   // PDF export (print-based, no deps)
-  window.EtripsDetail = {
+  
+  // 日历翻月 (按钮内联调用): dir=-1/1
+  window.EtripsDetail._navCal=function(btn, dir){
+    const wrap=btn.closest('.cal-head').parentElement.querySelector('.cal-wrap');
+    if(!wrap) return;
+    const months=[...wrap.querySelectorAll('.cal-month')];
+    const cur=btn.closest('.cal-head').querySelector('.cal-cur');
+    let idx=parseInt(wrap.getAttribute('data-idx')||'0',10);
+    idx=Math.max(0,Math.min(months.length-1,idx+dir));
+    wrap.setAttribute('data-idx',idx);
+    months.forEach((m,k)=>m.style.display=k===idx?'':'none');
+    if(cur&&months[idx]) cur.textContent=months[idx].getAttribute('data-ym').replace('-','年')+'月';
+  };
+
+window.EtripsDetail = {
     calendarHTML,
+    bindCalendarNav,
+    bindCalendarNav,
     downloadPDF(){
       const t = cur; if(!t) return;
       const lines = [];
