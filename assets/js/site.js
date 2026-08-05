@@ -333,7 +333,7 @@
         <h3>${name}</h3>
         <div class="meta"><span class="price">${price} ${lang === "zh" ? "起" : "from"}</span></div>
         <div>${tags.map((x) => `<span class="tag">${x}</span>`).join("")}</div>
-        <div class="card-cal" onclick="event.stopPropagation();event.preventDefault();">${ (window.EtripsDetail && window.EtripsDetail.calendarHTML) ? window.EtripsDetail.calendarHTML(t,{full:true}) : '' }</div>
+        <div class="card-cal">${ (window.EtripsCalendar && window.EtripsCalendar.calendarHTML) ? window.EtripsCalendar.calendarHTML(t,{full:true}) : '' }</div>
         <p style="margin-top:10px"><span class="btn btn-outline" data-i18n="btn.detail">${I[lang]["btn.detail"]}</span></p>
       </div></a>`;
   };
