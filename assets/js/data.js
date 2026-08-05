@@ -9577,6 +9577,72 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-SYDBMS",
+  "supplierCode": "SYDBMS",
+  "nameZh": "悉尼蓝山日落 + 观星精品小团【一价全含】",
+  "nameEn": "悉尼蓝山日落 + 观星精品小团【一价全含】",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$199",
+  "priceEn": "A$199",
+  "days": 1,
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/hero-sydney.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": [
+   1,
+   3,
+   5,
+   6
+  ],
+  "validFrom": "2026-08-03",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 199.0,
+    "childbed": 199.0,
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDBMS_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMS_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "Nova-SYDPST",
   "supplierCode": "SYDPST",
   "nameZh": "【每周二、四、日固定出发】史蒂芬港观海豚一日游[纯玩]",
@@ -9752,6 +9818,94 @@ window.TOURS = [
   "itinerary": [],
   "hotels": [],
   "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "Nova-SYDZJG",
+  "supplierCode": "SYDZJG",
+  "nameZh": "复古铁路蓝山风光一日游[纯玩]",
+  "nameEn": "复古铁路蓝山风光一日游[纯玩]",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$159",
+  "priceEn": "A$159",
+  "days": 1,
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/hero-sydney.jpg",
+  "introZh": "峡谷观景| 回音谷| 卢拉小镇| 复古蒸汽火车|\r\n\r\n穿越蓝山，邂逅自然与怀旧的浪漫时光",
+  "introEn": "峡谷观景| 回音谷| 卢拉小镇| 复古蒸汽火车|\r\n\r\n穿越蓝山，邂逅自然与怀旧的浪漫时光",
+  "participationNotice": "1. 成团人数：四人成团，\r\n2. 儿童年龄3-16岁，婴儿0-2岁\r\n3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社会协助调整或安排其他代替，损失及额外费用需乘客自行承担。\r\n4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。",
+  "departureDates": [],
+  "depRule": [
+   1,
+   3,
+   5
+  ],
+  "validFrom": "2026-08-05",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 159.0,
+    "childbed": 149.0,
+    "childnobed": "",
+    "infant": 89.0,
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SUP-NOVA-复古铁路蓝山风光一日游纯-20260805.png",
+    "url": "/assets/suppliers/SUP-NOVA/SUP-NOVA-复古铁路蓝山风光一日游纯-20260805.png"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "·         08:30  悉尼市区唐人街富丽华酒店门口出发\n·         10:30  蓝山观景台，欣赏壮丽峡谷风光及著名三姐妹峰\n·         11:15  漫步鲁拉小镇，自由享用午餐，感受英伦风情小镇自理\n·         13:00  出发前往 Zigzag 火车站\n·         14:00  乘坐 复古Zigzag 小火车，体验百年蒸汽铁路历史与山谷穿梭之旅\n·         15:00  品味经典Billy Tea体验地道澳式户外风情（含丹波面包）\n·         15:30  返回悉尼市区\n·         18:00  抵达市区，结束愉快旅程",
+    "descEn": "·         08:30  悉尼市区唐人街富丽华酒店门口出发\n·         10:30  蓝山观景台，欣赏壮丽峡谷风光及著名三姐妹峰\n·         11:15  漫步鲁拉小镇，自由享用午餐，感受英伦风情小镇自理\n·         13:00  出发前往 Zigzag 火车站\n·         14:00  乘坐 复古Zigzag 小火车，体验百年蒸汽铁路历史与山谷穿梭之旅\n·         15:00  品味经典Billy Tea体验地道澳式户外风情（含丹波面包）\n·         15:30  返回悉尼市区\n·         18:00  抵达市区，结束愉快旅程",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "费用包含",
+   "1. 悉尼市区往返旅游巴士",
+   "2.中文司机兼导服务",
+   "3.Zig Zag Railway 火车票",
+   "4. Billy Tea 及丹波面包",
+   "5.行程景点游览"
+  ],
   "includesEn": [],
   "excludes": [],
   "excludesEn": [],
