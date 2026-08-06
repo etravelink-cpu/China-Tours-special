@@ -10260,6 +10260,86 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-SYDBMTS",
+  "supplierCode": "SYDBMTS",
+  "nameZh": "【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】[纯玩]",
+  "nameEn": "【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】[纯玩]",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$179",
+  "priceEn": "A$179",
+  "days": 1,
+  "startCity": "悉尼",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/au-sydney.jpg",
+  "introZh": "下载flyer： SYDBMTS 蓝山有氧+动物园11人精品小团一日游 .pdf 上车地点 08:00-08:30AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 悉尼市区酒店邮编2000",
+  "introEn": "下载flyer： SYDBMTS 蓝山有氧+动物园11人精品小团一日游 .pdf 上车地点 08:00-08:30AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 悉尼市区酒店邮编2000",
+  "participationNotice": "1. 成团人数：四人成团， 2. 大小同价，婴儿0-2岁 3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5.如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知 合计： 清空行程单 下一步 × 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 × 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright © 2018 LLH All Rights Reserved.\r\n\r\n退改政策：\r\n1. 出发前3天以上免费退改； 2. 3天内（含第3天) 收取100%%团费； 3. 旅客因身体不适或其他个人原因更改或取消参团，按照退改政策执行。",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 179.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": 89.0,
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDBMTS_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMTS_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "08:30 唐人街Furama酒店门前出发 （悉尼市区邮编2000范围内酒店免费上门接送；如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知） 09:30 抵达Featherdale野生动物园, 这里是澳洲本土野生动物的天堂, 游客可以亲手投喂种类齐全的袋鼠 (每人一包专用饲料) , 来自西澳的微笑小袋鼠、 来自南澳的拳击袋鼠、还有来自塔斯马尼亚的稀有白袋鼠! 游客将一次打卡澳洲独有的针鼹、袋熊、澳洲野犬、塔斯马尼亚恶魔等标志性本土动物. 在 园内各处集齐印章后, 还可领取呆萌考拉纪念品. 享用早茶的时候不妨去与考拉拍照留念(现场找导游有优惠哦!) 11:30 途径卡通巴小镇, 来到景观世界, 享受联合国教科文组织世界遗产蓝山标志性景观, 乘坐世界上最陡的铁路——倾斜52度的矿山火车(红色线)进 入杰米森谷; 探索公里长的高架木板路(绿色线)穿越雨林，发现琴鸟和古老的树蕨等其他动植物; 乘坐缆车(蓝色线)沿山涧爬升, 游览砂岩峭壁和孤儿岩; 然后从空中缆车(黄色线)俯瞰标志性的三姐妹峰和下方的山谷 13:30 午餐自理 14:30 打卡网红石拱门观景步道，来到女王御用观景台-回音谷，这里可以拍到三姐妹峰的经典角度；造访蓝山著名景点三姐妹峰，携手并立，静静守望，亲眼观赏特殊又壮丽的景致 15:30英伦风的卢拉小镇四季都有不同风景，除了主街的工艺品店、画廊和咖啡屋 18:00唐人街Furama酒店门口结束 具体行程顺序已当天实际情况为准",
+    "descEn": "08:30 唐人街Furama酒店门前出发 （悉尼市区邮编2000范围内酒店免费上门接送；如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知） 09:30 抵达Featherdale野生动物园, 这里是澳洲本土野生动物的天堂, 游客可以亲手投喂种类齐全的袋鼠 (每人一包专用饲料) , 来自西澳的微笑小袋鼠、 来自南澳的拳击袋鼠、还有来自塔斯马尼亚的稀有白袋鼠! 游客将一次打卡澳洲独有的针鼹、袋熊、澳洲野犬、塔斯马尼亚恶魔等标志性本土动物. 在 园内各处集齐印章后, 还可领取呆萌考拉纪念品. 享用早茶的时候不妨去与考拉拍照留念(现场找导游有优惠哦!) 11:30 途径卡通巴小镇, 来到景观世界, 享受联合国教科文组织世界遗产蓝山标志性景观, 乘坐世界上最陡的铁路——倾斜52度的矿山火车(红色线)进 入杰米森谷; 探索公里长的高架木板路(绿色线)穿越雨林，发现琴鸟和古老的树蕨等其他动植物; 乘坐缆车(蓝色线)沿山涧爬升, 游览砂岩峭壁和孤儿岩; 然后从空中缆车(黄色线)俯瞰标志性的三姐妹峰和下方的山谷 13:30 午餐自理 14:30 打卡网红石拱门观景步道，来到女王御用观景台-回音谷，这里可以拍到三姐妹峰的经典角度；造访蓝山著名景点三姐妹峰，携手并立，静静守望，亲眼观赏特殊又壮丽的景致 15:30英伦风的卢拉小镇四季都有不同风景，除了主街的工艺品店、画廊和咖啡屋 18:00唐人街Furama酒店门口结束 具体行程顺序已当天实际情况为准",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "空调旅游巴士 专业中文司导 动物园门票+早茶 考拉纪念品 喂袋鼠饲料 蓝山缆车 | 不含: 司导服务费$5/人 午餐 其他一切个人消费"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "Nova-SYDJVS",
   "supplierCode": "SYDJVS",
   "nameZh": "蓝色海洋路 & 杰维斯湾一日游[纯玩]",
@@ -10596,86 +10676,6 @@ window.TOURS = [
    "2. 专业中文司导",
    "3. 蓝山缆车",
    "费用不含"
-  ],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-SYDSCT",
-  "supplierCode": "SYDSCT",
-  "nameZh": "【四人成团 天天出发】悉尼网红地标一日游[纯玩]",
-  "nameEn": "【四人成团 天天出发】悉尼网红地标一日游[纯玩]",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "悉尼及周边",
-  "subRegions": [
-   "悉尼及周边"
-  ],
-  "price": "A$139",
-  "priceEn": "A$139",
-  "days": 1,
-  "startCity": "悉尼",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/au-sydney.jpg",
-  "introZh": "下载flyer ： 悉尼市区一日游.png 行程特色： 网红鼻祖冰山泳池，美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点，行程丰富，时间轻松充足，自由省心！ 出发日期：四人成团，天天出发 上车地点 1000am: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 团前接机（请在备注中填写具体航班信息） 团后送机（请在备注中填写具体航班信息）\n\n行程攻略：\n上车地址 ：10:00AM， Furama酒店 (原 假日 酒店） 68 Harbour Street, Haymarket, Sydney NSW 2000（集合点位于市区CBD） 温馨提示： 自行前往电子票显示的上车地点等候上车，请提前20分钟到达集合点。 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 没有选着含餐套餐的游客, 请提前做好准备。",
-  "introEn": "下载flyer ： 悉尼市区一日游.png 行程特色： 网红鼻祖冰山泳池，美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点，行程丰富，时间轻松充足，自由省心！ 出发日期：四人成团，天天出发 上车地点 1000am: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 团前接机（请在备注中填写具体航班信息） 团后送机（请在备注中填写具体航班信息）\n\n行程攻略：\n上车地址 ：10:00AM， Furama酒店 (原 假日 酒店） 68 Harbour Street, Haymarket, Sydney NSW 2000（集合点位于市区CBD） 温馨提示： 自行前往电子票显示的上车地点等候上车，请提前20分钟到达集合点。 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 没有选着含餐套餐的游客, 请提前做好准备。",
-  "participationNotice": "1. 成团人数：本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 2. 如遇自然灾害、交通管制等客观因素，导致行程取消，我社将退还全部团款；若在行程中造成行程全部或部分无法完成，我社会根据实际情况协调处理； 3. 本团大小同价（4岁以下儿童不提供船位及餐饮） 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前3天以上免费退改； 2. 3天内（含第3天) 收取100%团费； 3. 旅客因身体不适或其他个人原因更改或取消参团，按照退改政策执行。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "悉尼",
-    "adult": 139.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": 60.0,
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-NOVA",
-    "file": "SYDSCT_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/SYDSCT_brochure.pdf"
-   }
-  ],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "第1天 悉尼网红地标一日游",
-    "descEn": "第1天 悉尼网红地标一日游",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "全程空调旅游车 玩乐：玩转悉尼新鲜网红景点 导游：司兼导 | 不含: 司机小费：$5/人 私人费用 旅游保险 午餐自理 其他一切个人消费"
   ],
   "includesEn": [],
   "excludes": [],
