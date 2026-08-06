@@ -9442,77 +9442,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "Nova-ATUW3",
-  "supplierCode": "ATUW3",
-  "nameZh": "乌鲁鲁卡塔丘塔经典之旅三日游[纯玩]",
-  "nameEn": "乌鲁鲁卡塔丘塔经典之旅三日游[纯玩]",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "乌鲁鲁/北领地",
-  "subRegions": [
-   "乌鲁鲁/北领地"
-  ],
-  "price": "A$1118",
-  "priceEn": "A$1118",
-  "days": 3,
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "乌鲁鲁",
-    "adult": 1118.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": 485.0,
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "第1天 抵达乌鲁鲁（艾尔斯岩）＋卡塔丘塔(奥加石)＋乌鲁鲁日落\n第2天 乌鲁鲁日出+库尼亚原住民文化徒步 + 岩石环游 + 原住民文化中心 + 马拉文化徒步\n第3天 乌鲁鲁送机",
-    "descEn": "第1天 抵达乌鲁鲁（艾尔斯岩）＋卡塔丘塔(奥加石)＋乌鲁鲁日落\n第2天 乌鲁鲁日出+库尼亚原住民文化徒步 + 岩石环游 + 原住民文化中心 + 马拉文化徒步\n第3天 乌鲁鲁送机",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "Nova-ATVW3",
   "supplierCode": "ATVW3",
   "nameZh": "乌鲁鲁经典之旅三日游（维珍团）天天出发[纯玩]",
@@ -10207,7 +10136,7 @@ window.TOURS = [
  },
  {
   "id": "Nova-SYDZJG",
-  "supplierCode": "SYDZJG",
+  "supplierCode": "SYDZIG",
   "nameZh": "复古铁路蓝山风光一日游[纯玩]",
   "nameEn": "复古铁路蓝山风光一日游[纯玩]",
   "dest": "australia",
@@ -13044,7 +12973,7 @@ window.TOURS = [
  },
  {
   "id": "Nova-ATAY07",
-  "supplierCode": "ATAY07",
+  "supplierCode": "218",
   "nameZh": "乌鲁鲁摄影观星之旅[纯玩]",
   "nameEn": "乌鲁鲁摄影观星之旅[纯玩]",
   "dest": "australia",
@@ -13154,7 +13083,7 @@ window.TOURS = [
  },
  {
   "id": "Nova-AYQECR",
-  "supplierCode": "AYQECR",
+  "supplierCode": "136",
   "nameZh": "红土中心骑骆驼之旅 [英文]",
   "nameEn": "红土中心骑骆驼之旅 [英文]",
   "dest": "australia",
