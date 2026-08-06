@@ -7655,7 +7655,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 凯恩斯 - 接机\n第2天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第3天 热带雨林公园 / 库兰达小镇\n第4天 凯恩斯 - 送机 || 黄金海岸 - 接机\n第5天 电影世界 / 海洋世界（司导不入内陪同）\n第6天 危险角+热带水果园\n第7天 黄金海岸 - 送机 || 墨尔本 - 接机\n第8天 墨尔本-企鹅岛 Phillip Island\n第9天 墨尔本-金矿一日游 Sovereign Hill\n第10天 墨尔本 -大洋路一日游 Great Ocean Road\n第11天 墨尔本市区 - 送机",
+    "descEn": "第1天 凯恩斯 - 接机\n第2天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第3天 热带雨林公园 / 库兰达小镇\n第4天 凯恩斯 - 送机 || 黄金海岸 - 接机\n第5天 电影世界 / 海洋世界（司导不入内陪同）\n第6天 危险角+热带水果园\n第7天 黄金海岸 - 送机 || 墨尔本 - 接机\n第8天 墨尔本-企鹅岛 Phillip Island\n第9天 墨尔本-金矿一日游 Sovereign Hill\n第10天 墨尔本 -大洋路一日游 Great Ocean Road\n第11天 墨尔本市区 - 送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -7710,7 +7726,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 悉尼接机+全日市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼 - 送机 | 凯恩斯 - 接机\n第5天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第6天 热带雨林公园 / 库兰达小镇\n第7天 凯恩斯 - 黄金海岸\n第8天 自选行程\n第9天 危险角+热带水果园\n第10天 自由活动 +送机",
+    "descEn": "第1天 悉尼接机+全日市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼 - 送机 | 凯恩斯 - 接机\n第5天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第6天 热带雨林公园 / 库兰达小镇\n第7天 凯恩斯 - 黄金海岸\n第8天 自选行程\n第9天 危险角+热带水果园\n第10天 自由活动 +送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -7765,7 +7797,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 悉尼接机+全日市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 自由活动+悉尼送机 || 凯恩斯-接机\n第5天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第6天 热带雨林公园 / 库兰达小镇\n第7天 凯恩斯送机 | 墨尔本接机\n第8天 墨尔本-企鹅岛\n第9天 墨尔本-金矿一日游\n第10天 墨尔本 -大洋路一日游\n第11天 墨尔本市区 - 送机",
+    "descEn": "第1天 悉尼接机+全日市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 自由活动+悉尼送机 || 凯恩斯-接机\n第5天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第6天 热带雨林公园 / 库兰达小镇\n第7天 凯恩斯送机 | 墨尔本接机\n第8天 墨尔本-企鹅岛\n第9天 墨尔本-金矿一日游\n第10天 墨尔本 -大洋路一日游\n第11天 墨尔本市区 - 送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -7826,7 +7874,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SYDMEL8PG_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 悉尼接机+市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼+墨尔本接机-企鹅岛\n第5天 墨尔本企鹅岛\n第6天 墨尔本-金矿一日游\n第7天 墨尔本-大洋路一日游\n第8天 墨尔本市区 -送机",
+    "descEn": "第1天 悉尼接机+市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼+墨尔本接机-企鹅岛\n第5天 墨尔本企鹅岛\n第6天 墨尔本-金矿一日游\n第7天 墨尔本-大洋路一日游\n第8天 墨尔本市区 -送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -7887,7 +7951,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SYDMEL7PG_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 悉尼接机+市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼+墨尔本接机-企鹅岛\n第5天 墨尔本-金矿一日游\n第6天 墨尔本-大洋路一日游\n第7天 墨尔本市区-送机",
+    "descEn": "第1天 悉尼接机+市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼+墨尔本接机-企鹅岛\n第5天 墨尔本-金矿一日游\n第6天 墨尔本-大洋路一日游\n第7天 墨尔本市区-送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -7948,7 +8028,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SYDMEL6PG_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 悉尼接机+市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼+墨尔本接机-企鹅岛\n第5天 墨尔本-大洋路一日游\n第6天 墨尔本市区-送机",
+    "descEn": "第1天 悉尼接机+市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 悉尼+墨尔本接机-企鹅岛\n第5天 墨尔本-大洋路一日游\n第6天 墨尔本市区-送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8003,7 +8099,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达凯恩斯\n第2天 [太阳恋人号]大堡礁一日遊（无导游陪同）\n第3天 热带雨林公园 和 库兰达小镇\n第4天 凯恩斯-黄金海岸\n第5天 自选行程【行程二需加$30每人】\n第6天 危险角及热带水果园 - 离开黄金海岸",
+    "descEn": "第1天 抵达凯恩斯\n第2天 [太阳恋人号]大堡礁一日遊（无导游陪同）\n第3天 热带雨林公园 和 库兰达小镇\n第4天 凯恩斯-黄金海岸\n第5天 自选行程【行程二需加$30每人】\n第6天 危险角及热带水果园 - 离开黄金海岸",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8064,7 +8176,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SYD4D_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 接机+全日市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 自由活动+送机",
+    "descEn": "第1天 接机+全日市区游\n第2天 蓝山有氧一日游\n第3天 史蒂芬港一日游\n第4天 自由活动+送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8125,7 +8253,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/HUN2D_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 悉尼-猎人谷\n第2天 猎人谷-中央海岸-悉尼",
+    "descEn": "第1天 悉尼-猎人谷\n第2天 猎人谷-中央海岸-悉尼",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8235,7 +8379,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵達墨爾本-接機\n第2天 墨爾本-企鵝島 Phillip Island\n第3天 墨爾本-金礦一日遊 Sovereign Hill\n第4天 墨爾本 -大洋路一日遊 Great Ocean Road\n第5天 墨爾本市區 -送機",
+    "descEn": "第1天 抵達墨爾本-接機\n第2天 墨爾本-企鵝島 Phillip Island\n第3天 墨爾本-金礦一日遊 Sovereign Hill\n第4天 墨爾本 -大洋路一日遊 Great Ocean Road\n第5天 墨爾本市區 -送機",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8296,7 +8456,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/MEL4DAYS_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 墨爾本-接機-企鵝島 Phillip Island\n第2天 墨爾本-金礦一日遊 Sovereign Hill\n第3天 墨爾本 -大洋路一日遊 Great Ocean Road\n第4天 墨爾本市區 -送機",
+    "descEn": "第1天 墨爾本-接機-企鵝島 Phillip Island\n第2天 墨爾本-金礦一日遊 Sovereign Hill\n第3天 墨爾本 -大洋路一日遊 Great Ocean Road\n第4天 墨爾本市區 -送機",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8351,7 +8527,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵達墨爾本-接機-企鵝島 Phillip Island\n第2天 墨爾本 -⼤洋路⼀⽇遊 Great Ocean Road\n第3天",
+    "descEn": "第1天 抵達墨爾本-接機-企鵝島 Phillip Island\n第2天 墨爾本 -⼤洋路⼀⽇遊 Great Ocean Road\n第3天",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8412,7 +8604,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/OOL3DK_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 黄金海岸接机\n第2天 电影世界 或 海洋世界（司导不入内陪同）\n第3天 危险角+热带水果园\n第4天 自由活动 +送机",
+    "descEn": "第1天 黄金海岸接机\n第2天 电影世界 或 海洋世界（司导不入内陪同）\n第3天 危险角+热带水果园\n第4天 自由活动 +送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8467,7 +8675,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达布里斯班\n第2天 海豚岛天阁露玛度假村\n第3天 离开海豚岛天阁露玛度假村",
+    "descEn": "第1天 抵达布里斯班\n第2天 海豚岛天阁露玛度假村\n第3天 离开海豚岛天阁露玛度假村",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8583,7 +8807,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS3D4D_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 凯恩斯接机\n第2天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第3天 热带雨林公园 / 库兰达小镇 /送机（三日游）\n第4天 自选项目游 / 四日游送机 （可根据航班信息四日游安排最后一天送机+雨林， 第三天自由活动）",
+    "descEn": "第1天 凯恩斯接机\n第2天 “太阳恋人号”大堡礁一日遊（无导游陪同，客人自行前往码头）\n第3天 热带雨林公园 / 库兰达小镇 /送机（三日游）\n第4天 自选项目游 / 四日游送机 （可根据航班信息四日游安排最后一天送机+雨林， 第三天自由活动）",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8644,7 +8884,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/HI4DPACK_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天\n第2天\n第3天\n第4天",
+    "descEn": "第1天\n第2天\n第3天\n第4天",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8705,7 +8961,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SSPL567D_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 前往全世界最孤独的城市珀斯，自由探索西海岸明珠的风光（以周2抵达为例）：\n第2天 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯\n第3天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第4天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第5天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第6天 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第7天 珀斯-罗特尼斯岛-珀斯（当晚送机）（今日为自由行，无导游陪同）【安排酒店接送】\n第01天 周五 珀斯接机\n第02天 周六 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第03天 周日 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第04天 周一 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第05天 周二 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第06天 周三 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯\n第07天 周四 珀斯-罗特尼斯岛自由行-珀斯送机",
+    "descEn": "第1天 前往全世界最孤独的城市珀斯，自由探索西海岸明珠的风光（以周2抵达为例）：\n第2天 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯\n第3天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第4天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第5天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第6天 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第7天 珀斯-罗特尼斯岛-珀斯（当晚送机）（今日为自由行，无导游陪同）【安排酒店接送】\n第01天 周五 珀斯接机\n第02天 周六 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第03天 周日 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第04天 周一 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第05天 周二 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第06天 周三 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯\n第07天 周四 珀斯-罗特尼斯岛自由行-珀斯送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8766,7 +9038,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SSPL567D_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 前往全世界最孤独的城市珀斯，自由探索西海岸明珠的风光（以周2出发为例）\n第2天 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯\n第3天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第4天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第5天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第6天 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第01天 周五 珀斯接机\n第02天 周六 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第03天 周日 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第04天 周一 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第05天 周二 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第06天 周三 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯送机",
+    "descEn": "第1天 前往全世界最孤独的城市珀斯，自由探索西海岸明珠的风光（以周2出发为例）\n第2天 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯\n第3天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第4天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第5天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第6天 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第01天 周五 珀斯接机\n第02天 周六 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第03天 周日 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第04天 周一 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第05天 周二 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯\n第06天 周三 珀斯-约克小镇-波浪岩-河马岩-穿越黄金内陆-珀斯送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8827,7 +9115,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SSPL567D_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 前往全世界最孤独的城市珀斯，自由探索西海岸明珠的风光（以周1，3、5抵达为例）\n第2天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第3天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第4天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第5天 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯",
+    "descEn": "第1天 前往全世界最孤独的城市珀斯，自由探索西海岸明珠的风光（以周1，3、5抵达为例）\n第2天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第3天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第4天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第5天 珀斯-玛格丽特河栈桥小火车-运河岩石-海角灯塔-珀斯",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8882,7 +9186,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第2天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗&天空步道）-杰拉尔顿\n第3天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第4天 珀斯-玛格丽特河栈桥小火车-运河岩石-小红门灯塔-珀斯",
+    "descEn": "第1天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第2天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗&天空步道）-杰拉尔顿\n第3天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯\n第4天 珀斯-玛格丽特河栈桥小火车-运河岩石-小红门灯塔-珀斯",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8937,7 +9257,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第2天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第3天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯",
+    "descEn": "第1天 珀斯-西澳大学-蓝色小屋-国王公园-弗里曼特-朱莉恩湾果冻海-杰拉尔顿\n第2天 杰拉尔顿-粉红湖（赠送无人机航拍）-卡尔巴里国家公园（帝王谷自然之窗）-杰拉尔顿\n第3天 杰拉尔顿-龙虾工厂-尖峰石阵-兰瑟琳白沙丘-珀斯",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -8992,7 +9328,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达乌鲁鲁(艾尔斯岩）＋入住后自由活动\n第2天 乌鲁鲁日出+库尼亚原住民文化徒步+岩石环游+原住民文化中心+卡塔丘塔（瓦帕峡谷徒步）+乌鲁鲁日落\n第3天 帝王谷一日游\n第4天 上午自由活动+马拉文化徒步\n第5天 乌鲁鲁送机 （VA维珍航班飞布里斯班或墨尔本， 下午16:20起飞）",
+    "descEn": "第1天 抵达乌鲁鲁(艾尔斯岩）＋入住后自由活动\n第2天 乌鲁鲁日出+库尼亚原住民文化徒步+岩石环游+原住民文化中心+卡塔丘塔（瓦帕峡谷徒步）+乌鲁鲁日落\n第3天 帝王谷一日游\n第4天 上午自由活动+马拉文化徒步\n第5天 乌鲁鲁送机 （VA维珍航班飞布里斯班或墨尔本， 下午16:20起飞）",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9047,7 +9399,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达乌鲁鲁＋卡塔丘塔（瓦帕峡谷徒步）＋乌鲁鲁日落\n第2天 帝王谷一日游\n第3天 乌鲁鲁日出+库尼亚原住民文化徒步+岩石环游+原住民文化中心+马拉文化徒步\n第4天 乌鲁鲁送机",
+    "descEn": "第1天 抵达乌鲁鲁＋卡塔丘塔（瓦帕峡谷徒步）＋乌鲁鲁日落\n第2天 帝王谷一日游\n第3天 乌鲁鲁日出+库尼亚原住民文化徒步+岩石环游+原住民文化中心+马拉文化徒步\n第4天 乌鲁鲁送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9102,7 +9470,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达乌鲁鲁（艾尔斯岩）＋卡塔丘塔(瓦帕峡谷徒步)＋乌鲁鲁日落\n第2天 帝王谷一日游\n第3天 乌鲁鲁日出+库尼亚原住民文化徒步+岩石环游+原住民文化中心+返回送机",
+    "descEn": "第1天 抵达乌鲁鲁（艾尔斯岩）＋卡塔丘塔(瓦帕峡谷徒步)＋乌鲁鲁日落\n第2天 帝王谷一日游\n第3天 乌鲁鲁日出+库尼亚原住民文化徒步+岩石环游+原住民文化中心+返回送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9157,7 +9541,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达乌鲁鲁（艾尔斯岩）＋卡塔丘塔(奥加石)＋乌鲁鲁日落\n第2天 乌鲁鲁日出+库尼亚原住民文化徒步 + 岩石环游 + 原住民文化中心 + 马拉文化徒步\n第3天 乌鲁鲁送机",
+    "descEn": "第1天 抵达乌鲁鲁（艾尔斯岩）＋卡塔丘塔(奥加石)＋乌鲁鲁日落\n第2天 乌鲁鲁日出+库尼亚原住民文化徒步 + 岩石环游 + 原住民文化中心 + 马拉文化徒步\n第3天 乌鲁鲁送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9212,7 +9612,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达乌鲁鲁（艾尔斯岩）\n第2天 乌鲁鲁日出 + 库尼亚原住民文化徒步 + 岩石环游 + 原住民文化中心 + 卡塔丘塔瓦帕峡谷徒步及乌鲁鲁日落\n第3天 乌鲁鲁送机",
+    "descEn": "第1天 抵达乌鲁鲁（艾尔斯岩）\n第2天 乌鲁鲁日出 + 库尼亚原住民文化徒步 + 岩石环游 + 原住民文化中心 + 卡塔丘塔瓦帕峡谷徒步及乌鲁鲁日落\n第3天 乌鲁鲁送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9267,7 +9683,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第3天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第4天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾\n第5天 摇篮山 + 多芬湖 + 壁画小镇\n第6天 卡塔瑞克特大峡谷 + 瑞士村+ 塔马湿地公园 + 薰衣草农场（夏季）+ 送机",
+    "descEn": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第3天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第4天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾\n第5天 摇篮山 + 多芬湖 + 壁画小镇\n第6天 卡塔瑞克特大峡谷 + 瑞士村+ 塔马湿地公园 + 薰衣草农场（夏季）+ 送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9328,7 +9760,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第3天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾\n第4天 摇篮山 + 多芬湖 + 壁画小镇\n第5天 卡塔瑞克特大峡谷 + 瑞士村+ 塔马湿地公园 + 薰衣草农场（夏季）+ 送机",
+    "descEn": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第3天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾\n第4天 摇篮山 + 多芬湖 + 壁画小镇\n第5天 卡塔瑞克特大峡谷 + 瑞士村+ 塔马湿地公园 + 薰衣草农场（夏季）+ 送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9383,7 +9831,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第3天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾\n第4天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第5天 菲尔德山+罗素瀑布+马蹄瀑布+送机",
+    "descEn": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第3天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾\n第4天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第5天 菲尔德山+罗素瀑布+马蹄瀑布+送机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9444,7 +9908,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第3天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第4天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾",
+    "descEn": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第3天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房\n第4天 斯旺西 + 酒杯湾 + 蜜月湾 + 寇斯湾",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9505,7 +9985,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第3天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房",
+    "descEn": "第1天 接机 + 里奇蒙 +霍巴特 + 萨拉曼卡 + 啤酒厂 + 惠灵顿山\n第2天 布鲁尼岛 +“南北一线“+ 生蚝场 + 蜂蜜场 + 冒险湾\n第3天 亚瑟港 + 喷水洞 + 塔斯曼拱门 + 棋盘道 + 魔鬼厨房",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -9906,7 +10402,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SYDCBR_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 堪培拉一日游",
+    "descEn": "第1天 堪培拉一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -10059,7 +10571,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/SYDSCT_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 悉尼网红地标一日游",
+    "descEn": "第1天 悉尼网红地标一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
