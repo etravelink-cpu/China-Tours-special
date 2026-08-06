@@ -59,16 +59,49 @@ def split_lines(txt):
 def to_itinerary(txt):
     """Itinerary 文本 -> detail.js 期望的 [{d, titleZh, titleEn, descZh, descEn,
     spotsZh, spotsEn, transportZh, transportEn, mealZh, mealEn, hotelZh, hotelEn}]
-    DB 的 Itinerary 是纯文本(按行/按天)，没有结构化的景点/交通/餐饮/住宿，
+    DB 的 Itinerary 支持两种格式:
+      - 纯文本(按行/按天): '第1天...' 'D1...' 数字行等, 由下方 split_days 拆
+      - JSON 数组字符串: [{"d":"D1","titleZh":...}, ...] 直接复用
     所以这些字段给空列表/空串兜底，detail.js 渲染时自动跳过。
     d 用 'D{n}' 格式(与 detail.js 的 .d 显示一致)。
-    分天符支持:
+    分天符支持(纯文本模式):
       - 纯数字行 (1/2/3)
       - 中文 '第N天' (第1天/第2天...)  —— 可能独占一行, 也可能单行内连写多天
       - 'Dn' / 'Day n' 标记
     单行内若含多个 '第N天' (如旧数据把多天连写成一行), 自动切分为多天。"""
     if not txt:
         return []
+    # JSON 数组格式: 直接解析复用(字段缺失给兜底)
+    s = txt.strip()
+    if s.startswith('['):
+        try:
+            arr = json.loads(s)
+            if isinstance(arr, list) and arr:
+                out = []
+                for idx, d in enumerate(arr, 1):
+                    if not isinstance(d, dict):
+                        continue
+                    dnum = str(d.get('d') or ('D%d' % idx)).replace('D', '')
+                    out.append({
+                        "d": "D%s" % dnum,
+                        "titleZh": d.get('titleZh') or ("第%s天" % dnum),
+                        "titleEn": d.get('titleEn') or ("Day %s" % dnum),
+                        "descZh": d.get('descZh') or '',
+                        "descEn": d.get('descEn') or d.get('descZh') or '',
+                        "spotsZh": d.get('spotsZh') or [],
+                        "spotsEn": d.get('spotsEn') or [],
+                        "transportZh": d.get('transportZh') or '',
+                        "transportEn": d.get('transportEn') or '',
+                        "mealZh": d.get('mealZh') or '',
+                        "mealEn": d.get('mealEn') or '',
+                        "hotelZh": d.get('hotelZh') or '',
+                        "hotelEn": d.get('hotelEn') or ''
+                    })
+                if out:
+                    return out
+        except Exception:
+            pass
+    # 纯文本模式
     def split_days(text):
         # 预处理: 把单行内多个 '第N天' 切到不同行 (在 '第N天' 前插入换行, 首天前多余换行无害)
         text = re.sub(r'(第\d+天)', r'\n\1', text)
