@@ -70,10 +70,10 @@ def to_itinerary(txt):
     if not txt:
         return []
     def split_days(text):
-        # 在 '第N天' / 行首 'Dn' 处切分(保留标题行为一天起点)
-        # 先把独占一行的 '第N天...' 和 单行内多个 '第N天' 都切开
-        parts = re.split(r'(?=第\d+天)', text)
-        days = []  # list of (title_line, desc_lines)
+        # 预处理: 把单行内多个 '第N天' 切到不同行 (在 '第N天' 前插入换行, 首天前多余换行无害)
+        text = re.sub(r'(第\d+天)', r'\n\1', text)
+        # 纯按行扫描: 行首是 '第N天' / 'Dn' / 纯数字 即新一天起点
+        days = []
         cur_title = None
         cur_desc = []
         def flush():
@@ -82,24 +82,18 @@ def to_itinerary(txt):
                 days.append((cur_title, cur_desc))
             cur_title = None
             cur_desc = []
-        for p in parts:
-            p = p.strip()
-            if not p:
+        for line in split_lines(text):
+            ls = line.strip()
+            if not ls:
                 continue
-            ls = p
             m_day = re.match(r'^第(\d+)天', ls) or re.match(r'^D(\d+)\b', ls, re.I) or re.match(r'^(\d{1,3})$', ls)
             if m_day:
                 flush()
                 cur_title = ls
             else:
-                # 非标题段: 按行拆, 首行若像 '第N天...' 也归为新天
-                for line in split_lines(p):
-                    lm = re.match(r'^第(\d+)天', line.strip()) or re.match(r'^D(\d+)\b', line.strip(), re.I)
-                    if lm:
-                        flush()
-                        cur_title = line.strip()
-                    else:
-                        cur_desc.append(line.strip())
+                if cur_title is None:
+                    cur_title = "第1天"
+                cur_desc.append(ls)
         flush()
         return days
     raw = split_days(txt)
