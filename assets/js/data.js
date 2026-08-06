@@ -8702,61 +8702,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "Nova-BNEM2",
-  "supplierCode": "BNEM2",
-  "nameZh": "【天阁露玛】摩顿海豚岛三天两夜套餐[纯玩]",
-  "nameEn": "【天阁露玛】摩顿海豚岛三天两夜套餐[纯玩]",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "黄金海岸&布里斯班",
-  "subRegions": [
-   "黄金海岸&布里斯班"
-  ],
-  "price": "A$578",
-  "priceEn": "A$578",
-  "days": 3,
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "布里斯班",
-    "adult": 578.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "Nova-CNS3D4D",
   "supplierCode": "CNS3D4D",
   "nameZh": "凯恩斯 3/4 日经典游[纯玩]",
@@ -11320,7 +11265,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 【大冒险号】绝代双礁一日游",
+    "descEn": "第1天 【大冒险号】绝代双礁一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -11442,7 +11403,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 船去船回\n第2天 飞去船回\n第3天 船去飞回\n第4天 飞去飞回\n第5天 船去船回+10MIN直升飞机",
+    "descEn": "第1天 船去船回\n第2天 飞去船回\n第3天 船去飞回\n第4天 飞去飞回\n第5天 船去船回+10MIN直升飞机",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -11503,7 +11480,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 诺曼/摩尔礁一日游行程参考",
+    "descEn": "第1天 诺曼/摩尔礁一日游行程参考",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -11564,7 +11557,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS_cruise_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 【太阳恋人号】摩尔外海大堡礁一日游\n第1天 【太阳恋人号】摩尔外海大堡礁一日游 船去飞回/飞去船回/飞去飞回\n第1天 【太阳恋人号】摩尔外海大堡礁+翡翠岛一日游（出发日期：每周一、三、六。可能加开，具体已实际情况为准）\n第5天 【太阳恋人号】摩尔外海大堡礁+翡翠岛一日游 飞去船回 (飞去摩尔大堡礁活动平台-船去翡翠岛-船回凯恩斯)",
+    "descEn": "第1天 【太阳恋人号】摩尔外海大堡礁一日游\n第1天 【太阳恋人号】摩尔外海大堡礁一日游 船去飞回/飞去船回/飞去飞回\n第1天 【太阳恋人号】摩尔外海大堡礁+翡翠岛一日游（出发日期：每周一、三、六。可能加开，具体已实际情况为准）\n第5天 【太阳恋人号】摩尔外海大堡礁+翡翠岛一日游 飞去船回 (飞去摩尔大堡礁活动平台-船去翡翠岛-船回凯恩斯)",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -11619,7 +11628,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 白天堂沙滩双层舒适游船一日游(艾尔利滩/汉密尔顿岛/白日梦岛出发)",
+    "descEn": "第1天 白天堂沙滩双层舒适游船一日游(艾尔利滩/汉密尔顿岛/白日梦岛出发)",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -11674,7 +11699,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 卡米拉帆船航海一日游",
+    "descEn": "第1天 卡米拉帆船航海一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -11845,7 +11886,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS_daytours_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 热带雨林公园(土著表演+水陆战车)",
+    "descEn": "第1天 热带雨林公园(土著表演+水陆战车)",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -11961,7 +12018,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS_daytours_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 棕榈湾+鳄鱼园+道格拉斯港一日游",
+    "descEn": "第1天 棕榈湾+鳄鱼园+道格拉斯港一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -12022,7 +12095,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/CNS_daytours_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 亚瑟顿高原及帕罗尼拉公园品质一日游",
+    "descEn": "第1天 亚瑟顿高原及帕罗尼拉公园品质一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -12132,7 +12221,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 袋鼠岛精华一日游",
+    "descEn": "第1天 袋鼠岛精华一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -12407,7 +12512,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 尖峰石阵Pinnacles品质一日游",
+    "descEn": "第1天 尖峰石阵Pinnacles品质一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -12462,7 +12583,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天",
+    "descEn": "第1天",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -12517,7 +12654,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 波浪岩Wave Rock品质一日游",
+    "descEn": "第1天 波浪岩Wave Rock品质一日游",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -12572,7 +12725,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 游玩参考",
+    "descEn": "第1天 游玩参考",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -12627,7 +12796,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天",
+    "descEn": "第1天",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -13458,7 +13643,23 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-NOVA/nzs7d23_brochure.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 抵达基督城\n第2天 基督城-蒂卡波湖-冰河湖区\n第3天 冰河湖区-库克山-克伦威尔-皇后镇\n第4天 皇后镇-格林诺奇-箭镇-皇后镇\n第5天 皇后镇-米尔福德峡湾-蒂阿瑙\n第6天 皇后镇-但尼丁-奥马鲁\n第7天 奥马鲁-基督城/家园",
+    "descEn": "第1天 抵达基督城\n第2天 基督城-蒂卡波湖-冰河湖区\n第3天 冰河湖区-库克山-克伦威尔-皇后镇\n第4天 皇后镇-格林诺奇-箭镇-皇后镇\n第5天 皇后镇-米尔福德峡湾-蒂阿瑙\n第6天 皇后镇-但尼丁-奥马鲁\n第7天 奥马鲁-基督城/家园",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
@@ -13568,7 +13769,23 @@ window.TOURS = [
    }
   ],
   "brochures": [],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "第1天 基督城\n第2天 基督城–亚瑟通道国家公园–格雷茅斯/霍基蒂卡\n第3天 格雷茅斯/霍基蒂卡–西海岸冰川–哈斯特\n第4天 哈斯特-瓦纳卡-皇后镇\n第5天 皇后镇-格林诺奇-箭镇-皇后镇\n第6天 皇后镇自由行\n第7天 皇后镇-但尼丁-奥马鲁\n第8天 奥马鲁-库克山-特威泽尔\n第9天 特威泽尔-蒂卡波湖-基督城/家园",
+    "descEn": "第1天 基督城\n第2天 基督城–亚瑟通道国家公园–格雷茅斯/霍基蒂卡\n第3天 格雷茅斯/霍基蒂卡–西海岸冰川–哈斯特\n第4天 哈斯特-瓦纳卡-皇后镇\n第5天 皇后镇-格林诺奇-箭镇-皇后镇\n第6天 皇后镇自由行\n第7天 皇后镇-但尼丁-奥马鲁\n第8天 奥马鲁-库克山-特威泽尔\n第9天 特威泽尔-蒂卡波湖-基督城/家园",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
   "includes": [],
   "includesEn": [],
