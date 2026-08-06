@@ -93,24 +93,22 @@ function calHTML(t, opts){
   }
 
   function renderHead(t){
-    const tags = lang==='zh'
-      ? [`${I[lang]['detail.tag.days']} ${t.days}`, I[lang]['detail.tag.group'], I[lang]['detail.tag.leader'], I[lang]['detail.tag.allinc'], ...t.tags]
-      : [`${I[lang]['detail.tag.days']} ${t.days}`, I[lang]['detail.tag.group'], I[lang]['detail.tag.leader'], I[lang]['detail.tag.allinc'], ...t.tagsEn];
-    const price = lang==='zh'?t.price:t.priceEn;
-    document.getElementById('detail-head').innerHTML = `
-      <h1>${lang==='zh'?t.nameZh:t.nameEn}</h1>
-      <div class="muted" style="color:#cdd8e3">${I[lang]['detail.tourid']}: <b>${t.supplierCode||t.id}</b></div>
-      <div class="detail-tags">${t.supplierCode?`<span class="tag tag-code">${t.supplierCode}</span>`:''}${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</
-      <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
-    </div>`;
-    // 统一 hero: 与列表页内嵌详情同一张产品图(图片背景+遮罩+白字标题)
-    const heroSection = document.querySelector('.detail-hero');
-    const heroImgUrl = (t.img || '');
-    if (heroSection) {
-      if (heroImgUrl) { heroSection.style.backgroundImage = "url('" + heroImgUrl + "')"; heroSection.classList.add('has-hero'); }
-      else { heroSection.style.backgroundImage = ''; heroSection.classList.remove('has-hero'); }
+      const tags = lang==='zh'
+        ? [`${I[lang]['detail.tag.days']} ${t.days}`, I[lang]['detail.tag.group'], I[lang]['detail.tag.leader'], I[lang]['detail.tag.allinc'], ...t.tags]
+        : [`${I[lang]['detail.tag.days']} ${t.days}`, I[lang]['detail.tag.group'], I[lang]['detail.tag.leader'], I[lang]['detail.tag.allinc'], ...t.tagsEn];
+      const price = lang==='zh'?t.price:t.priceEn;
+      const city = t.startCity ? `${I[lang]['detail.tag.from']||'出发城市'} ${t.startCity}` : '';
+      document.getElementById('detail-head').innerHTML = `
+        <div class="detail-hero-img"><img src="${t.img||''}" alt="${lang==='zh'?t.nameZh:t.nameEn}" onerror="this.style.display='none'"></div>
+        <div class="detail-head-info">
+          <h1>${lang==='zh'?t.nameZh:t.nameEn}</h1>
+          <div class="muted">${I[lang]['detail.tourid']}: <b>${t.supplierCode||t.id}</b></div>
+          ${city?`<div class="detail-city">${city}</div>`:''}
+          <div class="detail-tags">${t.supplierCode?`<span class="tag tag-code">${t.supplierCode}</span>`:''}${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
+          <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
+        </div>`;
+      // hero 不再使用背景图叠字; 改为左img右信息栏(结构在detail-head内)
     }
-  }
 
   function renderItinerary(t){
     document.getElementById('panel-itinerary').innerHTML = t.itinerary.map(d=>{

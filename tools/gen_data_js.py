@@ -29,7 +29,7 @@ DK_ZH = {'china':'中国','asia':'亚洲','australia':'澳洲','nz':'新西兰',
          'america':'美加','special':'特别','island':'海岛','other':'其他','cruise':'邮轮'}
 IMG_POOL = {'china':['china.jpg','cn-westlake.jpg','cn-greatwall.jpg'],
             'asia':['asia.jpg','japan.jpg','bali.jpg'],
-            'australia':['hero-sydney.jpg','au-sydney.jpg','au-uluru.jpg'],
+            'australia':['au-sydney.jpg','au-uluru.jpg','au-apostles.jpg'],
             'nz':['nz.jpg','nz-queenstown.jpg'],
             'europe':['europe.jpg','paris.jpg','greece.jpg'],
             'america':['america.jpg','canada.jpg','usa.jpg'],
@@ -46,7 +46,7 @@ conn = sqlite3.connect(DB); c = conn.cursor()
 rows = c.execute("""
     SELECT p.Internal_Product_Code, p.Product_Name_CN, p.Web_Category1, p.Web_Category2,
            p.Duration_Days, p.Product_Category, p.Itinerary, p.Cost_Info, p.Status, p.Online_Visible,
-           p.Is_Featured, p.Product_Intro, p.Participation_Notice, p.Supplier_Product_Code,
+           p.Is_Featured, p.Product_Intro, p.Participation_Notice, p.Supplier_Product_Code, p.Start_City,
            (SELECT COALESCE(MIN(Adult_Price_AUD),0) FROM Departure_Pricing WHERE Internal_Product_Code=p.Internal_Product_Code) as ad
     FROM Product_Master p
     WHERE p.Online_Visible=1 AND p.Status='Active'
@@ -170,7 +170,7 @@ def derive_subregion(name, dk, category):
     return '其他'
 
 tours = []
-for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, notice, spc, ad) in rows:
+for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, notice, spc, start_city, ad) in rows:
     dk = DEST_KEY.get(wc1, 'other')
     # 内容层修正: 名称含新西兰/南北岛 或 Web_Category1 已标新西兰 的产品, 归回新西兰树(不改 DB, 可逆)
     if '新西兰' in (name or '') or '南北岛' in (name or '') or wc1 == '新西兰':
@@ -250,6 +250,7 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         "price": price,
         "priceEn": price,
         "days": days or 0,
+        "startCity": start_city or '',
         "tags": tags,
         "tagsEn": tagsEn,
         "img": img,

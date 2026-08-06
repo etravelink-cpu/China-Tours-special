@@ -18,6 +18,7 @@ window.TOURS = [
   "price": "待确认",
   "priceEn": "待确认",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -248,6 +249,7 @@ window.TOURS = [
   "price": "A$799",
   "priceEn": "A$799",
   "days": 13,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -582,6 +584,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -917,6 +920,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -978,6 +982,7 @@ window.TOURS = [
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1039,6 +1044,7 @@ window.TOURS = [
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1100,6 +1106,7 @@ window.TOURS = [
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -1161,6 +1168,7 @@ window.TOURS = [
   "price": "A$2499",
   "priceEn": "A$2499",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -1222,6 +1230,7 @@ window.TOURS = [
   "price": "A$2798",
   "priceEn": "A$2798",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1284,6 +1293,7 @@ window.TOURS = [
   "price": "A$3599",
   "priceEn": "A$3599",
   "days": 0,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -1345,6 +1355,7 @@ window.TOURS = [
   "price": "A$3799",
   "priceEn": "A$3799",
   "days": 0,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -1406,6 +1417,7 @@ window.TOURS = [
   "price": "A$4299",
   "priceEn": "A$4299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -1467,6 +1479,7 @@ window.TOURS = [
   "price": "A$4299",
   "priceEn": "A$4299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -1528,6 +1541,7 @@ window.TOURS = [
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1590,6 +1604,7 @@ window.TOURS = [
   "price": "A$798",
   "priceEn": "A$798",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1652,6 +1667,7 @@ window.TOURS = [
   "price": "A$798",
   "priceEn": "A$798",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1713,6 +1729,7 @@ window.TOURS = [
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1774,6 +1791,7 @@ window.TOURS = [
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1851,6 +1869,7 @@ window.TOURS = [
   "price": "待确认",
   "priceEn": "待确认",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1917,6 +1936,7 @@ window.TOURS = [
   "price": "待确认",
   "priceEn": "待确认",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -1978,6 +1998,7 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2039,6 +2060,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2101,6 +2123,7 @@ window.TOURS = [
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2162,6 +2185,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2223,6 +2247,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2284,6 +2309,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2345,6 +2371,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2407,6 +2434,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2468,6 +2496,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2530,6 +2559,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2591,6 +2621,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2652,6 +2683,7 @@ window.TOURS = [
   "price": "A$249",
   "priceEn": "A$249",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2713,6 +2745,7 @@ window.TOURS = [
   "price": "A$259",
   "priceEn": "A$259",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2774,6 +2807,7 @@ window.TOURS = [
   "price": "A$169",
   "priceEn": "A$169",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2835,6 +2869,7 @@ window.TOURS = [
   "price": "A$179",
   "priceEn": "A$179",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2896,6 +2931,7 @@ window.TOURS = [
   "price": "A$259",
   "priceEn": "A$259",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -2957,6 +2993,7 @@ window.TOURS = [
   "price": "A$269",
   "priceEn": "A$269",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3018,6 +3055,7 @@ window.TOURS = [
   "price": "A$269",
   "priceEn": "A$269",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3079,6 +3117,7 @@ window.TOURS = [
   "price": "A$279",
   "priceEn": "A$279",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3140,6 +3179,7 @@ window.TOURS = [
   "price": "A$689",
   "priceEn": "A$689",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3201,6 +3241,7 @@ window.TOURS = [
   "price": "A$699",
   "priceEn": "A$699",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3262,6 +3303,7 @@ window.TOURS = [
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3323,6 +3365,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3385,6 +3428,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3447,6 +3491,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3509,6 +3554,7 @@ window.TOURS = [
   "price": "A$2499",
   "priceEn": "A$2499",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3571,6 +3617,7 @@ window.TOURS = [
   "price": "A$2999",
   "priceEn": "A$2999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3632,6 +3679,7 @@ window.TOURS = [
   "price": "A$169",
   "priceEn": "A$169",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3693,6 +3741,7 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3755,6 +3804,7 @@ window.TOURS = [
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3816,6 +3866,7 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3878,6 +3929,7 @@ window.TOURS = [
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -3939,6 +3991,7 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4000,6 +4053,7 @@ window.TOURS = [
   "price": "A$369",
   "priceEn": "A$369",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4062,6 +4116,7 @@ window.TOURS = [
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4123,6 +4178,7 @@ window.TOURS = [
   "price": "A$399",
   "priceEn": "A$399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4184,6 +4240,7 @@ window.TOURS = [
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4245,6 +4302,7 @@ window.TOURS = [
   "price": "A$299",
   "priceEn": "A$299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4306,6 +4364,7 @@ window.TOURS = [
   "price": "A$459",
   "priceEn": "A$459",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4367,6 +4426,7 @@ window.TOURS = [
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -4428,6 +4488,7 @@ window.TOURS = [
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4490,6 +4551,7 @@ window.TOURS = [
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4551,6 +4613,7 @@ window.TOURS = [
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4612,6 +4675,7 @@ window.TOURS = [
   "price": "A$2499",
   "priceEn": "A$2499",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4673,6 +4737,7 @@ window.TOURS = [
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4734,6 +4799,7 @@ window.TOURS = [
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4796,6 +4862,7 @@ window.TOURS = [
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4858,6 +4925,7 @@ window.TOURS = [
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4921,6 +4989,7 @@ window.TOURS = [
   "price": "A$2399",
   "priceEn": "A$2399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -4982,6 +5051,7 @@ window.TOURS = [
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5043,6 +5113,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5105,6 +5176,7 @@ window.TOURS = [
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5166,6 +5238,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5227,6 +5300,7 @@ window.TOURS = [
   "price": "A$1099",
   "priceEn": "A$1099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5289,6 +5363,7 @@ window.TOURS = [
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5351,6 +5426,7 @@ window.TOURS = [
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5413,6 +5489,7 @@ window.TOURS = [
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5475,6 +5552,7 @@ window.TOURS = [
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5537,6 +5615,7 @@ window.TOURS = [
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5598,6 +5677,7 @@ window.TOURS = [
   "price": "A$799",
   "priceEn": "A$799",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5660,6 +5740,7 @@ window.TOURS = [
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5721,6 +5802,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5783,6 +5865,7 @@ window.TOURS = [
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5844,6 +5927,7 @@ window.TOURS = [
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5905,6 +5989,7 @@ window.TOURS = [
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -5966,6 +6051,7 @@ window.TOURS = [
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6027,6 +6113,7 @@ window.TOURS = [
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6088,6 +6175,7 @@ window.TOURS = [
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6149,6 +6237,7 @@ window.TOURS = [
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6210,6 +6299,7 @@ window.TOURS = [
   "price": "A$1999",
   "priceEn": "A$1999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6271,6 +6361,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6332,6 +6423,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6393,6 +6485,7 @@ window.TOURS = [
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6454,6 +6547,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6515,6 +6609,7 @@ window.TOURS = [
   "price": "A$1299",
   "priceEn": "A$1299",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6576,6 +6671,7 @@ window.TOURS = [
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6637,6 +6733,7 @@ window.TOURS = [
   "price": "A$1599",
   "priceEn": "A$1599",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6698,6 +6795,7 @@ window.TOURS = [
   "price": "A$1899",
   "priceEn": "A$1899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6760,6 +6858,7 @@ window.TOURS = [
   "price": "A$2099",
   "priceEn": "A$2099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6821,6 +6920,7 @@ window.TOURS = [
   "price": "A$2099",
   "priceEn": "A$2099",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6882,6 +6982,7 @@ window.TOURS = [
   "price": "A$2699",
   "priceEn": "A$2699",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -6943,6 +7044,7 @@ window.TOURS = [
   "price": "A$1799",
   "priceEn": "A$1799",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7004,6 +7106,7 @@ window.TOURS = [
   "price": "A$1799",
   "priceEn": "A$1799",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7065,6 +7168,7 @@ window.TOURS = [
   "price": "A$3399",
   "priceEn": "A$3399",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7126,6 +7230,7 @@ window.TOURS = [
   "price": "A$599",
   "priceEn": "A$599",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7187,6 +7292,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7248,6 +7354,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7309,6 +7416,7 @@ window.TOURS = [
   "price": "A$549",
   "priceEn": "A$549",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7370,6 +7478,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7431,6 +7540,7 @@ window.TOURS = [
   "price": "A$879",
   "priceEn": "A$879",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7492,6 +7602,7 @@ window.TOURS = [
   "price": "A$939",
   "priceEn": "A$939",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7553,6 +7664,7 @@ window.TOURS = [
   "price": "A$898",
   "priceEn": "A$898",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -7614,13 +7726,14 @@ window.TOURS = [
   "price": "A$3026",
   "priceEn": "A$3026",
   "days": 11,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "**酒店需二次确认，遇酒店需二次确认，遇学生假期、公众假日、重大活动,或基础房型售罄等情况会有附加费** 1. 两人成团固定日期出发每周二，周五 2. 儿童价格适用于不满12岁,提供车位床位;婴儿价格适用于不满2岁,提供车位不提供床位;请在下单时提供儿童/婴儿出生日期 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. 因天气、政令、战争、罢工等不可抗力,或因飞机、邮轮公司取消、延误导致行程受阻,我社会协助调整或安排替代交通,损失及额外费用需乘客自行承担,请购买旅游保险以保障个人权益 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 距出发日期21天之前（含）退改，取消$200每人取消费 2. 距出发日期14-20天之内退改，收取订单总额50%取消费 3. 距出发日期14天内，不退不改 4. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用 5. 如因自然灾害，交通受阻，航班延误等人力不可抗拒之原因，以及个人原因无法出行（包括确认COVID或成为密接）请诉诸个人旅游保险",
@@ -7687,13 +7800,14 @@ window.TOURS = [
   "price": "A$2959",
   "priceEn": "A$2959",
   "days": 10,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "**悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** 两人起订,天天出发,酒店需二次确认，遇学生假期、公众假日、重大活动,或基础房型售罄等情况会有附加费: 1. 两人成团固定日期出发每周二，周五、周日 2. 儿童价格适用于不满12岁,提供车位床位;婴儿价格适用于不满2岁,提供车位不提供床位;请在下单时提供儿童/婴儿出生日期 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. ^因天气、政令、战争、罢工等不可抗力,或因飞机、邮轮公司取消、延误导致行程受阻,我社会协助调整或安排替代交通,损失及额外费用需乘客自行承担,请购买旅游保险以保障个人权益 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 距出发日期21天之前（含）退改，取消$200每人取消费 2. 距出发日期14-20天之内退改，收取订单总额50%取消费 3. 距出发日期14天内，不退不改",
@@ -7760,13 +7874,14 @@ window.TOURS = [
   "price": "A$2839",
   "priceEn": "A$2839",
   "days": 11,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "**悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** **酒店需二次确认，遇公共假期, 学生假期，重大节日等可能有酒店附加费** 1. 两人成团固定日期出发每周二，周五 2. 儿童3-12岁；婴儿0-2岁 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. 不含旺季酒店附加费和重大节假日酒店附加费 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 距出发日期21天之前（含）退改，取消$200每人取消费 2. 距出发日期14-20天之内退改，收取订单总额50%取消费 3. 距出发日期14天内，不退不改 4. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用 5. 如因自然灾害，交通受阻，航班延误等人力不可抗拒之原因，以及个人原因无法出行请诉诸个人旅游保险",
@@ -7833,13 +7948,14 @@ window.TOURS = [
   "price": "A$1868",
   "priceEn": "A$1868",
   "days": 8,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "悉尼 美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点 世界自然遗产的蓝山 - 體驗三段式纜車, 回程可選擇日落观光游船(需自行opal card) 史蒂芬港乘坐游船观看野生海豚 墨尔本 菲利普岛观看神仙企鹅 12门徒 - 俯瞰最美海岸線的壮丽全景 下载flyer： 悉尼+墨尔本8日游.png",
   "introEn": "悉尼 美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点 世界自然遗产的蓝山 - 體驗三段式纜車, 回程可選擇日落观光游船(需自行opal card) 史蒂芬港乘坐游船观看野生海豚 墨尔本 菲利普岛观看神仙企鹅 12门徒 - 俯瞰最美海岸線的壮丽全景 下载flyer： 悉尼+墨尔本8日游.png",
   "participationNotice": "1. 悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还。 2. 航班要求: 第一天抵達时间为上午 08:30am 之前的国内航班，司机统一於09:20am从悉尼国内机场出发。 (備註: 如因航班延误可安排接机追团费用为$100/趟，错过的行程无法退补) 3. 出團要求: 两人成团，固定日期出发，酒店需二次确认，遇学生假期，公共假期，重大活动，或基础房型售罄等情况会有附加费。 4. 大人小孩同價，儿童价格适用于不满12岁，提供车位床位 ; 婴儿价格适用于不满2岁,提供车位不提供床位。 (備註: 请在下单时提供儿童 /婴儿出生日期) 5. 提前离团或中途脱团视作自行放弃，恕不退款。 6. 行程中的游览顺序和时间仅供参考，导游会根据天气交通等情况，对行程做出相应合理的调整。 7. 因天气、政令、战争、罢工等不可抗力,或因飞机、邮轮公司取消、延误导致行程受阻,我社会协助调整或安排替代交通,损失及额外费用需乘客自行承担，请购买放游保险以保障个人权益。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 距出发日期21天之前(含)退改，收取$200每人取消费。 2. 距出发日期14-20天之内退改，收取订单总额50%取消。 3. 距出发日期14天内，不退不改。 4. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用如因自然灾害，交通受阻，航班延误等人力不可抗拒之原因，以及个人原因无法出行,请诉诸个人旅游保险。",
@@ -7912,13 +8028,14 @@ window.TOURS = [
   "price": "A$1698",
   "priceEn": "A$1698",
   "days": 7,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "悉尼 美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点 世界自然遗产的蓝山 - 體驗三段式纜車, 回程可選擇日落观光游船(需自行opal card) 史蒂芬港乘坐游船观看野生海豚 墨尔本 菲利普岛观看神仙企鹅 12门徒 - 俯瞰最美海岸線的壮丽全景 下载flyer： 悉尼+墨尔本7日游.png",
   "introEn": "悉尼 美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点 世界自然遗产的蓝山 - 體驗三段式纜車, 回程可選擇日落观光游船(需自行opal card) 史蒂芬港乘坐游船观看野生海豚 墨尔本 菲利普岛观看神仙企鹅 12门徒 - 俯瞰最美海岸線的壮丽全景 下载flyer： 悉尼+墨尔本7日游.png",
   "participationNotice": "1. 悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还。 2. 航班要求: 第一天抵達时间为上午 08:30am 之前的国内航班，司机统一於09:20am从悉尼国内机场出发。 (備註: 如因航班延误可安排接机追团费用为$100/趟，错过的行程无法退补) 3. 出團要求: 两人成团，固定日期出发，酒店需二次确认，遇学生假期，公共假期，重大活动，或基础房型售罄等情况会有附加费。 4. 大人小孩同價，儿童价格适用于不满12岁，提供车位床位 ; 婴儿价格适用于不满2岁,提供车位不提供床位。 (備註: 请在下单时提供儿童 /婴儿出生日期) 5. 提前离团或中途脱团视作自行放弃，恕不退款。 6. 行程中的游览顺序和时间仅供参考，导游会根据天气交通等情况，对行程做出相应合理的调整。 7. 因天气、政令、战争、罢工等不可抗力,或因飞机、邮轮公司取消、延误导致行程受阻,我社会协助调整或安排替代交通,损失及额外费用需乘客自行承担，请购买放游保险以保障个人权益。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 距出发日期21天之前(含)退改，收取$200每人取消费。 2. 距出发日期14-20天之内退改，收取订单总额50%取消。 3. 距出发日期14天内，不退不改。 4. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用如因自然灾害，交通受阻，航班延误等人力不可抗拒之原因，以及个人原因无法出行,请诉诸个人旅游保险。",
@@ -7991,13 +8108,14 @@ window.TOURS = [
   "price": "A$1548",
   "priceEn": "A$1548",
   "days": 6,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "悉尼 美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点 世界自然遗产的蓝山 - 體驗三段式纜車, 回程可選擇日落观光游船(需自行opal card) 史蒂芬港乘坐游船观看野生海豚 墨尔本 菲利普岛观看神仙企鹅 12门徒 - 俯瞰最美海岸線的壮丽全景 下载flyer： 悉尼+墨尔本6日游.png",
   "introEn": "悉尼 美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点 世界自然遗产的蓝山 - 體驗三段式纜車, 回程可選擇日落观光游船(需自行opal card) 史蒂芬港乘坐游船观看野生海豚 墨尔本 菲利普岛观看神仙企鹅 12门徒 - 俯瞰最美海岸線的壮丽全景 下载flyer： 悉尼+墨尔本6日游.png",
   "participationNotice": "1. 悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还。 2. 航班要求: 第一天抵達时间为上午 08:30am 之前的国内航班，司机统一於09:20am从悉尼国内机场出发。 (備註: 如因航班延误可安排接机追团费用为$100/趟，错过的行程无法退补) 3. 出團要求: 两人成团，固定日期出发，酒店需二次确认，遇学生假期，公共假期，重大活动，或基础房型售罄等情况会有附加费。 4. 大人小孩同價，儿童价格适用于不满12岁，提供车位床位 ; 婴儿价格适用于不满2岁,提供车位不提供床位。 (備註: 请在下单时提供儿童 /婴儿出生日期) 5. 提前离团或中途脱团视作自行放弃，恕不退款。 6. 行程中的游览顺序和时间仅供参考，导游会根据天气交通等情况，对行程做出相应合理的调整。 7. 因天气、政令、战争、罢工等不可抗力,或因飞机、邮轮公司取消、延误导致行程受阻,我社会协助调整或安排替代交通,损失及额外费用需乘客自行承担，请购买放游保险以保障个人权益。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 距出发日期21天之前(含)退改，收取$200每人取消费。 2. 距出发日期14-20天之内退改，收取订单总额50%取消。 3. 距出发日期14天内，不退不改。 4. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用如因自然灾害，交通受阻，航班延误等人力不可抗拒之原因，以及个人原因无法出行,请诉诸个人旅游保险。",
@@ -8070,13 +8188,14 @@ window.TOURS = [
   "price": "A$1939",
   "priceEn": "A$1939",
   "days": 6,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "&quot; 加购 凯恩斯 - 黄金海岸 机票 +$250 起 ( 需二次确认 )&quot; ** 接机时间: 08:00~20:00之间抵达CNS的航班 ** 送机时间: 18:30之后离开OOL的航班",
   "introEn": "&quot; 加购 凯恩斯 - 黄金海岸 机票 +$250 起 ( 需二次确认 )&quot; ** 接机时间: 08:00~20:00之间抵达CNS的航班 ** 送机时间: 18:30之后离开OOL的航班",
   "participationNotice": "两人起订, 天天出发, 酒店需二次确认，遇学生假期、公众假日、重大活动, 或基础房型售罄等情况会有附加费; 儿童价格适用于不满12岁,提供车位床位; 婴儿价格适用于不满2岁,提供车位不提供床位;请在下单时提供儿童/婴儿出生日期 提前离团或中途脱团视作自行放弃, 恕不退款 行程中的游览顺序和时间仅供参考，导游会根据天气、交通等情况，对行程做出相应合理的调整 ^因天气、政令、战争、罢工等不可抗力, 或因飞机、邮轮公司取消、延误导致行程受阻, 我社会协助调整或安排替代交通, 损失及额外费用需乘客自行承担, 请购买旅游保险以保障个人权益 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n距出发日期21天之前（含第21天）收取10% 距出发日期14-20天之内收取订单总额50% 距出发日期14天内，不退不改",
@@ -8143,13 +8262,14 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： 悉尼4天3晚经典之旅.pdf 每周二，五、日固定出发 如果出发前三天没有提供史蒂芬午餐的话，默认按照炸鱼薯条预定 从4月1日开始： 第一天要求 航班时间为0830am之前抵达的国内航班 ，司机统一0920am从悉尼国内机场出发， 如因航班延误，可安排 接机追团费用为$100/趟 ，错过的行程无法退补 ， ( 相邻1小时航班一起接送) 如因航班原因无法安排市区游，改为接机送酒店，费用概不退还. 如选择团前加住一晚(含接机), 一日游行程顺序视实际情况而定 第四天送机， 司机工作时间早7-晚9点半，超出范围$50附加费 ，请避开这个时候哦 ( 相邻1小时航班一起接送)， 如单人送机需补$50送机费用",
   "introEn": "下载flyer： 悉尼4天3晚经典之旅.pdf 每周二，五、日固定出发 如果出发前三天没有提供史蒂芬午餐的话，默认按照炸鱼薯条预定 从4月1日开始： 第一天要求 航班时间为0830am之前抵达的国内航班 ，司机统一0920am从悉尼国内机场出发， 如因航班延误，可安排 接机追团费用为$100/趟 ，错过的行程无法退补 ， ( 相邻1小时航班一起接送) 如因航班原因无法安排市区游，改为接机送酒店，费用概不退还. 如选择团前加住一晚(含接机), 一日游行程顺序视实际情况而定 第四天送机， 司机工作时间早7-晚9点半，超出范围$50附加费 ，请避开这个时候哦 ( 相邻1小时航班一起接送)， 如单人送机需补$50送机费用",
   "participationNotice": "**市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** **酒店需二次确认** 1. 两人成团固定日期出发每周二，周五、周日 2. 儿童4-14岁；4岁以下不占床小孩$599,单人房差$420 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. 不含旺季酒店附加费和重大节假日酒店附加费 6. 最终解释权归本司所有。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 距出发日期21天之前（含）退改，取消$200每人取消费 2. 距出发日期14-20天之内退改，收取订单总额50%取消费 3. 距出发日期14天内，不退不改 4. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用 5. 如因自然灾害，交通受阻，航班延误等人力不可抗拒之原因，以及个人原因无法出行请诉诸个人旅游保险",
@@ -8222,13 +8342,14 @@ window.TOURS = [
   "price": "A$699",
   "priceEn": "A$699",
   "days": 2,
+  "startCity": "猎人谷",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "【猎人谷热气球+中央海岸2日游】 造访猎人谷地区知名酒庄，品尝多种美酒 乘坐绿野仙踪热气球（身高需满1.2米）(导游不陪飞） 打卡网红水中栈桥 # 特别 赠送水上高尔夫+一次品酒费用， 为您的行程添姿添彩 上车地点 09:00am Furama Darling Harbor 68 Harbour Street, Haymarket, Sydney NSW 2000 09:30am Chatswood RSL Club",
   "introEn": "【猎人谷热气球+中央海岸2日游】 造访猎人谷地区知名酒庄，品尝多种美酒 乘坐绿野仙踪热气球（身高需满1.2米）(导游不陪飞） 打卡网红水中栈桥 # 特别 赠送水上高尔夫+一次品酒费用， 为您的行程添姿添彩 上车地点 09:00am Furama Darling Harbor 68 Harbour Street, Haymarket, Sydney NSW 2000 09:30am Chatswood RSL Club",
   "participationNotice": "1. 报名时需提供客人姓名，体重，联系电话 2. 出发14天前取消，收取$50/人手续费，出发14天内，不退不改（可换人） 3. 行程顺序及内容或根据当天的天气、交通等因素做出调整，但保证履行【行程亮点】中所涵盖的景点，若因不可抗力影响行程造成损失，敬请诉诸旅游保险，我公司恕不赔付 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发14天前取消，收取$50/人手续费，出发14天内，不退不改（可换人） 如果因为天气原因热气球取消，每人退$260",
@@ -8301,13 +8422,14 @@ window.TOURS = [
   "price": "A$1799",
   "priceEn": "A$1799",
   "days": 4,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载Flyer : 2026 圣诞凯恩斯豪华4日航空团.png 全程入住凯恩斯市中心豪华五星酒店，轻松畅游热带北昆士兰。 一次出海，双重选择，尽享世界自然遗产大堡礁魅力！ 24日出发团搭乘【太阳恋人号】前往外堡礁平台； 25日出发团乘坐【大冒险号双礁之旅】，畅游绿岛及外堡礁，感受蔚蓝海洋与缤纷珊瑚世界。 走进阿瑟顿高原，探访巨型窗帘无花果树、火山湖及宁静小镇，并前往著名电影《天空之城》取景地——Paronella Park（天空之城），感受西班牙古堡的浪漫与神秘。 深入探索世界自然遗产热带雨林，体验水陆两栖军车、原住民文化表演及热带雨林公园，品尝地道澳式BBQ午餐。 ★ 精选亮点 ★ ✔ 凯恩斯市中心五星酒店，三晚连住 ✔ 圣诞假期限定，轻松悠闲不赶行程 ✔ 一次出海，畅游大堡礁 ✔ 热带雨林公园＋澳式BBQ午餐 ✔ 阿瑟顿高原＋天空之城 Paronella Park ✔ 中文导游服务（出海当天无导游陪同，自行前往码头） 【航班信息】 悉尼往返凯恩斯（维珍航空直飞） 去程 VA1413 SYD/CNS 悉尼／凯恩斯 0810/1015 回程 VA1226 CNS/SYD 凯恩斯／悉尼 1735/2135",
   "introEn": "下载Flyer : 2026 圣诞凯恩斯豪华4日航空团.png 全程入住凯恩斯市中心豪华五星酒店，轻松畅游热带北昆士兰。 一次出海，双重选择，尽享世界自然遗产大堡礁魅力！ 24日出发团搭乘【太阳恋人号】前往外堡礁平台； 25日出发团乘坐【大冒险号双礁之旅】，畅游绿岛及外堡礁，感受蔚蓝海洋与缤纷珊瑚世界。 走进阿瑟顿高原，探访巨型窗帘无花果树、火山湖及宁静小镇，并前往著名电影《天空之城》取景地——Paronella Park（天空之城），感受西班牙古堡的浪漫与神秘。 深入探索世界自然遗产热带雨林，体验水陆两栖军车、原住民文化表演及热带雨林公园，品尝地道澳式BBQ午餐。 ★ 精选亮点 ★ ✔ 凯恩斯市中心五星酒店，三晚连住 ✔ 圣诞假期限定，轻松悠闲不赶行程 ✔ 一次出海，畅游大堡礁 ✔ 热带雨林公园＋澳式BBQ午餐 ✔ 阿瑟顿高原＋天空之城 Paronella Park ✔ 中文导游服务（出海当天无导游陪同，自行前往码头） 【航班信息】 悉尼往返凯恩斯（维珍航空直飞） 去程 VA1413 SYD/CNS 悉尼／凯恩斯 0810/1015 回程 VA1226 CNS/SYD 凯恩斯／悉尼 1735/2135",
   "participationNotice": "1.价格为AUD每人,以2人一房为基准,同房第3/4人使用现有床位,恕不加床。 2.不满14岁视为儿童,儿童不满4岁可以不占床,不满2岁视为婴儿,婴儿及不占床儿童不提供床位和餐饮,不占床儿童不提供床位和早餐。 3.行程顺序及内容或根据当天的天气、交通等因素做出调整,但保证履行【行程介绍】中所涵盖的景点,若因不可抗力影响行程造成损失,敬请诉诸旅游保险,我公司恕不赔付。 4.如因个人原因而不能出行,按以上退改政策执行,请诉诸个人旅游保险求偿。 5.参团期间,团友因迟到或其他原因未能参加当天行程项目,或中途停团或自动放弃部分活动或住宿等,所交费用概不退还。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n预订时需付全款 11月10前取消收取$100每人手续费 11月11起不改不退",
@@ -8374,13 +8496,14 @@ window.TOURS = [
   "price": "A$969",
   "priceEn": "A$969",
   "days": 5,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "**本产品需要二次确认，酒店价位是浮动的** 輕鬆玩，墨爾本3大熱門行程一次滿足 疏芬山淘金鎮，感受19世紀淘金時期的城鎮生活；全程由專業華語司機導遊隨行服務，從墨爾本出發沿途欣賞特色景點；搭乘舒適專車巴士，4小時來回車程不必費心規劃路線！ 菲利普島，觀賞知名的企鵝歸巢奇觀，企鵝島每年限額 50 萬名遊客入場，你能親眼目睹可愛的企鵝自海中游回岸邊再搖搖擺擺的走路回家的可愛模樣！ 大洋路，沿著澳洲最壯麗的海岸線，收藏此生必去的美景！欣賞十二門徒岩、洛克阿德峽谷等許多旅人嚮往的著名景點，沿途看看維多利亞州的可愛小鎮及海濱漁港。這趟不思議的旅程將從墨爾本市區出發，帶你穿梭於大洋路奇石美景之中，參與大自然最精彩的饗宴。",
   "introEn": "**本产品需要二次确认，酒店价位是浮动的** 輕鬆玩，墨爾本3大熱門行程一次滿足 疏芬山淘金鎮，感受19世紀淘金時期的城鎮生活；全程由專業華語司機導遊隨行服務，從墨爾本出發沿途欣賞特色景點；搭乘舒適專車巴士，4小時來回車程不必費心規劃路線！ 菲利普島，觀賞知名的企鵝歸巢奇觀，企鵝島每年限額 50 萬名遊客入場，你能親眼目睹可愛的企鵝自海中游回岸邊再搖搖擺擺的走路回家的可愛模樣！ 大洋路，沿著澳洲最壯麗的海岸線，收藏此生必去的美景！欣賞十二門徒岩、洛克阿德峽谷等許多旅人嚮往的著名景點，沿途看看維多利亞州的可愛小鎮及海濱漁港。這趟不思議的旅程將從墨爾本市區出發，帶你穿梭於大洋路奇石美景之中，參與大自然最精彩的饗宴。",
   "participationNotice": "**本产品需要二次确认，酒店价位是浮动的** 航班要求: 第一天(週ㄧ/週四)請於09:00-21:00之間抵達MEL機場，如航班延遲，追團費用$200起（最終價格將根據人數與車型及距離而定），如因航班延誤導致錯過行程，無法退款。 第五天(週五/週一)統一於市區遊後送機，請預定17：00後之境內航班，國際航班請訂18：00後之航班離開MEL機場。如因航班導致錯過行程，無法退款。 • 5歲以下孩童 (不佔床、佔車位) 與2成人同住 价格$450。 • 2 至 11 歲孩童 (佔床、佔車位)，則與成人同價。 • 抵達機場若無接機人員與您聯繫，請撥打我們緊急聯繫電話 +61 3 9020 7855 • 推薦的行程及景點，根據時間和團體意願進行，部分可能不會參觀。 • 行程中自費的入場票劵皆由本社代購，所有旅遊景點的門票價格，以當天的門牌價格為準，恕不另行通知。景點門票必須由導遊統一購買，不得預先自購。遊客如自行購買，本社概不提供任何交通運輸、接送服務，或需額外收取交通運輸費 AU$20/每人每天，於當天行程結束後收取。如團友不參加某項自費活動，導遊將安排在此景點自由活動直至正常集合時間。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所選日期前 21 天以上取消，收取手續費 AU$ 100 所選日期前 15～20 天之間取消，收取手續費 50% 所選日期 0～14 天之間取消，無法退款",
@@ -8447,13 +8570,14 @@ window.TOURS = [
   "price": "A$799",
   "priceEn": "A$799",
   "days": 4,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "**本产品需要二次确认，酒店价位是浮动的** 輕鬆玩，墨爾本3大熱門行程一次滿足 疏芬山淘金鎮，感受19世紀淘金時期的城鎮生活；全程由專業華語司機導遊隨行服務，從墨爾本出發沿途欣賞特色景點；搭乘舒適專車巴士，4小時來回車程不必費心規劃路線！ 菲利普島，觀賞知名的企鵝歸巢奇觀，企鵝島每年限額 50 萬名遊客入場，你能親眼目睹可愛的企鵝自海中游回岸邊再搖搖擺擺的走路回家的可愛模樣！ 大洋路，沿著澳洲最壯麗的海岸線，收藏此生必去的美景！欣賞十二門徒岩、洛克阿德峽谷等許多旅人嚮往的著名景點，沿途看看維多利亞州的可愛小鎮及海濱漁港。這趟不思議的旅程將從墨爾本市區出發，帶你穿梭於大洋路奇石美景之中，參與大自然最精彩的饗宴。",
   "introEn": "**本产品需要二次确认，酒店价位是浮动的** 輕鬆玩，墨爾本3大熱門行程一次滿足 疏芬山淘金鎮，感受19世紀淘金時期的城鎮生活；全程由專業華語司機導遊隨行服務，從墨爾本出發沿途欣賞特色景點；搭乘舒適專車巴士，4小時來回車程不必費心規劃路線！ 菲利普島，觀賞知名的企鵝歸巢奇觀，企鵝島每年限額 50 萬名遊客入場，你能親眼目睹可愛的企鵝自海中游回岸邊再搖搖擺擺的走路回家的可愛模樣！ 大洋路，沿著澳洲最壯麗的海岸線，收藏此生必去的美景！欣賞十二門徒岩、洛克阿德峽谷等許多旅人嚮往的著名景點，沿途看看維多利亞州的可愛小鎮及海濱漁港。這趟不思議的旅程將從墨爾本市區出發，帶你穿梭於大洋路奇石美景之中，參與大自然最精彩的饗宴。",
   "participationNotice": "**本产品需要二次确认，酒店价位是浮动的** 第一天(週二/週五)09:00-10:00之間抵達MEL機場；如航班延遲，追團費用五人轎車 $200 / 七人轎車 $240，如因航班延誤導致錯過行程，無法退款，接機直接送酒店，寄放行李後請於出團時間於酒店門口等候企鵝島團司機。 第四天(週五/週一)統一於市區遊後送機，請預定18:00 後之航班離開MEL機場。如因航班導致錯過行程，無法退款 。 • 5歲以下孩童 (不佔床、佔車位)與2位成人同住，价格$400 • 2 至 11 歲孩童 (佔床、佔車位)，則與成人同價。 • 抵達機場若無接機人員與您聯繫，請撥打我們緊急聯繫電話 +61 3 9020 7855 • 推薦的行程及景點，根據時間和團體意願進行，部分可能不會參觀。 • 行程中自費的入場票劵皆由本社代購，所有旅遊景點的門票價格，以當天的門牌價格為準，恕不另行通知。景點門票必須由導遊統一購買，不得預先自購。遊客如自行購買，本社概不提供任何交通運輸、接送服務，或需額外收取交通運輸費 AU$20/每人每天，於當天行程結束後收取。如團友不參加某項自費活動，導遊將安排在此景點自由活動直至正常集合時間。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所選日期前 21 天以上取消，收取手續費 A$ 100 所選日期前 15～20 天之間取消，收取手續費 50% 所選日期 0～14 天之間取消，無法退款",
@@ -8526,13 +8650,14 @@ window.TOURS = [
   "price": "A$649",
   "priceEn": "A$649",
   "days": 3,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "**本产品需要二次确认，酒店价位是浮动的** 觀賞知名的企鵝歸巢奇觀 欣賞澳洲最壯麗的海岸美景",
   "introEn": "**本产品需要二次确认，酒店价位是浮动的** 觀賞知名的企鵝歸巢奇觀 欣賞澳洲最壯麗的海岸美景",
   "participationNotice": "**本产品需要二次确认，酒店价位是浮动的** 第一天(週三/週六)09:00-10:00之間抵達MEL機場；如航班延遲，追團費用五人轎車 $200 / 七人轎車 $240，如因航班延誤導致錯過行程，無法退款，接機直接送酒店 第四天(週五/週一)統一於市區遊後送機，請預定18:00 後之航班離開MEL機場。如因航班導致錯過行程，無法退款 。 • 5歲以下孩童 (不佔床、佔車位)與2位成人同住，价格$350 • 2 至 11 歲孩童 (佔床、佔車位)，則與成人同價。 • 抵達機場若無接機人員與您聯繫，請撥打我們緊急聯繫電話 +61 3 9020 7855 • 推薦的行程及景點，根據時間和團體意願進行，部分可能不會參觀。 • 行程中自費的入場票劵皆由本社代購，所有旅遊景點的門票價格，以當天的門牌價格為準，恕不另行通知。景點門票必須由導遊統一購買，不得預先自購。遊客如自行購買，本社概不提供任何交通運輸、接送服務，或需額外收取交通運輸費 AU$20/每人每天，於當天行程結束後收取。如團友不參加某項自費活動，導遊將安排在此景點自由活動直至正常集合時間。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所選日期前 21 天以上取消，收取手續費 A$ 100 所選日期前 15～20 天之間取消，收取手續費 50% 所選日期 0～14 天之間取消，無法退款",
@@ -8599,13 +8724,14 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 4,
+  "startCity": "黄金海岸",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "南半球的迈阿密，世界最长沙滩海岸【冲浪者天堂】 【电影世界】：黄金海岸电影世界是一个以华纳兄弟电影为主题的乐园，有刺激机动游戏、电影角色巡游同拍摄场景，非常适合亲子同影迷。 【海洋世界】：海洋世界集合海洋动物表演、互动体验同水上游乐设施，近距离接触海豚、企鹅和鲨鱼，寓教于乐，适合一家大小。 「新晋打卡圣地 」 不容错过的热带水果园， 南半球最大热带水果世界Tropical Fruit World，占地65公顷，种植了来自美洲中部、印度、东南亚及澳洲本地500多种珍奇水果。一起来看看世界上最大的生长在树上的水果究竟是什么样子！您可以参加园内水果品尝秀，品尝鲜美水果的同时也了解到更多的水果知识 通过全程导游的拖拉机之旅，亲身体验大自然的奇妙之处！在这里，您将踏上惊险刺激的野生动物游船之旅，还有机会畅享美味的水果，让自己不管在视觉、味觉都受到启发。\n\n行程攻略：\n主题公园行程, 司导不陪同入内",
   "introEn": "南半球的迈阿密，世界最长沙滩海岸【冲浪者天堂】 【电影世界】：黄金海岸电影世界是一个以华纳兄弟电影为主题的乐园，有刺激机动游戏、电影角色巡游同拍摄场景，非常适合亲子同影迷。 【海洋世界】：海洋世界集合海洋动物表演、互动体验同水上游乐设施，近距离接触海豚、企鹅和鲨鱼，寓教于乐，适合一家大小。 「新晋打卡圣地 」 不容错过的热带水果园， 南半球最大热带水果世界Tropical Fruit World，占地65公顷，种植了来自美洲中部、印度、东南亚及澳洲本地500多种珍奇水果。一起来看看世界上最大的生长在树上的水果究竟是什么样子！您可以参加园内水果品尝秀，品尝鲜美水果的同时也了解到更多的水果知识 通过全程导游的拖拉机之旅，亲身体验大自然的奇妙之处！在这里，您将踏上惊险刺激的野生动物游船之旅，还有机会畅享美味的水果，让自己不管在视觉、味觉都受到启发。\n\n行程攻略：\n主题公园行程, 司导不陪同入内",
   "participationNotice": "**酒店需二次确认** ​航班要求：第一天任意时间，相邻的航班时间会统一接机需客人在机场耐心等待，如果早于0700或晚于2100会有附加费具体另询OP 最后一天航班时间：黄金海岸机场1830以后起飞的航班（澳洲境内段）统一送机。 1. 2人成团，天天出发，小孩年龄3-12岁；婴儿年龄为0-2岁，不提供餐食和床位 2. 根据实际情况会更改行程顺序，但是保证游玩景点项目不变 3. 所有日游车辆，会根据当日参团人数来安排车辆大小 4. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 5. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 6. 最终解释权归本司所有。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发日期前21天，取消收$100每人 2. 出发日期前14-20天，收取团费的50%取消费用 3. 出发日期14天内不改不退，但可更改乘客 4. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用 5 .因个人原因而无法出行请诉诸个人旅游保险",
@@ -8678,13 +8804,14 @@ window.TOURS = [
   "price": "A$1120",
   "priceEn": "A$1120",
   "days": 3,
+  "startCity": "海豚岛",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "天阁露玛岛度假村（Tangalooma Island Resort）坐落在摩顿岛上，周围绿树环绕、风景如画，为你的假期带来家庭般的舒适体验。该度假村提供别墅、套房和豪华公寓，可一览正前方的海滩迷人风光 Blackout Dates: 19Dec26-03Jan27; 26Mar27-29Mar27 套裝行程 1 沙漠探險之旅（沙漠 + 直升機 + 兩張 $20 美食券） 內容包含： 2 晚住宿 住宿期間 1 晚享有海豚餵食體驗 6 分鐘直升機體驗 沙漠探險之旅 每人 2 張 $20 美食券 往返渡轮接駁 不含每日清潔服務 / 下午 2 點入住 套裝行程 2 賞鯨遊船（賞鯨 + 直升機 + 一張 $20 美食券） 內容包含： 2 晚住宿 住宿期間 1 晚享有海豚餵食體驗 6 分鐘直升機體驗 賞鯨遊船（含船上輕午餐） 每人 1 張 $20 美食券 往返渡轮接駁 不含每日清潔服務 / 下午 2 點入住 1.出发日期 : Standard Season 1 15/10/2026-27/11/2026 ; 26 /01/2027-31/01/2027 （仅限越野滑沙 套装行程1） 01/07/2026-18/09/2026；05/10/2026-14/10/2026 （仅限观鲸游船 套装行程2） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1120 $1412.5 $1705 Standard / Resort Unit（含周六） $1200 $1492.5 $1785 Deluxe（周日-周五） $1160 $1452.5 $1745 Deluxe（含周六） $1240 $1532.5 $1825 2.出发日期：Standard Season 2 01/02 /2027- 25 /03 /2027 （仅限越野滑沙 套装行程1 ） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1100 $1382.5 $1665 Standard / Resort Unit（含周六） $1180 $1462.5 $1745 Deluxe（周日-周五） $1140 $1422.5 $1705 Deluxe（含周六） $1220 $1502.5 $1785 3.出发日期：High Season 1 28/ 11 /2026- 18 / 12 /2026 ; 04 /0 1 /2027 - 25 /0 1 /2027 （仅限越野滑沙 套装行程1 ） 19/0 9 /2026- 04 / 10 /2026 （仅限观鲸游船 套装行程2 ） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1222.5 $1515 $1807.5 Standard / Resort Unit（含周六） $1302.5 $1595 $1887.5 Deluxe（周日-周五） $1262.5 $1555 $1847.5 Deluxe（含周六） $1342.5 $1635 $1927.5 4.出发日期：High Season 2 30/03 /2027- 31 /03 /2027 （仅限越野滑沙 套装行程1） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1202.5 $1485 $1767.5 Standard / Resort Unit（含周六） $1282.5 $1565 $1847.5 Deluxe（周日-周五） $1242.5 $1525 $1807.5 Deluxe（含周六） $1322.5 $1605 $1887.5\n\n行程攻略：\nHotel Standard 房型最多入住4人 酒店客房内饰设计简约大方，房间宽敞舒适，配有私人观景阳台。 大床一张或单人床两张 单人沙发床一张 单人脚轮矮床一张 Resort Unit 房型最多入住4人 每间房配有小厨房和标准家用冰箱，餐桌椅子，多功能微波炉烤箱、电烤盘、烤面包机和电水壶。 双人床一张 单人床一张 沙发床一张 Hotel Deluxe房型最多入住4人 豪华海景房， 配有私人观景阳台， 房间内配备浴袍和拖鞋 大床一张 单人沙发床一张 单人脚轮矮床一张 DAILY BOAT FERRY TRANSFER TIMES Departing Brisbane (220 Holt St, Pinkenba) Departing Tangalooma Island Resort 7:30am 9:30am 10:00am 2:30pm 12:30pm 4:00pm 5:30pm 7:00pm* (departs after dolphin feeding is completed, see detailed times below)",
   "introEn": "天阁露玛岛度假村（Tangalooma Island Resort）坐落在摩顿岛上，周围绿树环绕、风景如画，为你的假期带来家庭般的舒适体验。该度假村提供别墅、套房和豪华公寓，可一览正前方的海滩迷人风光 Blackout Dates: 19Dec26-03Jan27; 26Mar27-29Mar27 套裝行程 1 沙漠探險之旅（沙漠 + 直升機 + 兩張 $20 美食券） 內容包含： 2 晚住宿 住宿期間 1 晚享有海豚餵食體驗 6 分鐘直升機體驗 沙漠探險之旅 每人 2 張 $20 美食券 往返渡轮接駁 不含每日清潔服務 / 下午 2 點入住 套裝行程 2 賞鯨遊船（賞鯨 + 直升機 + 一張 $20 美食券） 內容包含： 2 晚住宿 住宿期間 1 晚享有海豚餵食體驗 6 分鐘直升機體驗 賞鯨遊船（含船上輕午餐） 每人 1 張 $20 美食券 往返渡轮接駁 不含每日清潔服務 / 下午 2 點入住 1.出发日期 : Standard Season 1 15/10/2026-27/11/2026 ; 26 /01/2027-31/01/2027 （仅限越野滑沙 套装行程1） 01/07/2026-18/09/2026；05/10/2026-14/10/2026 （仅限观鲸游船 套装行程2） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1120 $1412.5 $1705 Standard / Resort Unit（含周六） $1200 $1492.5 $1785 Deluxe（周日-周五） $1160 $1452.5 $1745 Deluxe（含周六） $1240 $1532.5 $1825 2.出发日期：Standard Season 2 01/02 /2027- 25 /03 /2027 （仅限越野滑沙 套装行程1 ） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1100 $1382.5 $1665 Standard / Resort Unit（含周六） $1180 $1462.5 $1745 Deluxe（周日-周五） $1140 $1422.5 $1705 Deluxe（含周六） $1220 $1502.5 $1785 3.出发日期：High Season 1 28/ 11 /2026- 18 / 12 /2026 ; 04 /0 1 /2027 - 25 /0 1 /2027 （仅限越野滑沙 套装行程1 ） 19/0 9 /2026- 04 / 10 /2026 （仅限观鲸游船 套装行程2 ） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1222.5 $1515 $1807.5 Standard / Resort Unit（含周六） $1302.5 $1595 $1887.5 Deluxe（周日-周五） $1262.5 $1555 $1847.5 Deluxe（含周六） $1342.5 $1635 $1927.5 4.出发日期：High Season 2 30/03 /2027- 31 /03 /2027 （仅限越野滑沙 套装行程1） 房型 2人 3人 4人 Standard / Resort Unit（周日-周五） $1202.5 $1485 $1767.5 Standard / Resort Unit（含周六） $1282.5 $1565 $1847.5 Deluxe（周日-周五） $1242.5 $1525 $1807.5 Deluxe（含周六） $1322.5 $1605 $1887.5\n\n行程攻略：\nHotel Standard 房型最多入住4人 酒店客房内饰设计简约大方，房间宽敞舒适，配有私人观景阳台。 大床一张或单人床两张 单人沙发床一张 单人脚轮矮床一张 Resort Unit 房型最多入住4人 每间房配有小厨房和标准家用冰箱，餐桌椅子，多功能微波炉烤箱、电烤盘、烤面包机和电水壶。 双人床一张 单人床一张 沙发床一张 Hotel Deluxe房型最多入住4人 豪华海景房， 配有私人观景阳台， 房间内配备浴袍和拖鞋 大床一张 单人沙发床一张 单人脚轮矮床一张 DAILY BOAT FERRY TRANSFER TIMES Departing Brisbane (220 Holt St, Pinkenba) Departing Tangalooma Island Resort 7:30am 9:30am 10:00am 2:30pm 12:30pm 4:00pm 5:30pm 7:00pm* (departs after dolphin feeding is completed, see detailed times below)",
   "participationNotice": "1.预定时必须提供名字，电话 2.两人成行，大小同价,单人出行需付2人价格；婴儿0-2岁 3.价格不含周六晚上附加费 4.具体行程顺序已实际情况为准。由于天气等因素的影响，行程时间及顺序会有调整，但行程内容不变。 5.上岛后无导游陪同，客人需上岛后确认行程中包含的景点具体出发时间 包含直升机的具体条款：预订中的每位指定宾客将收到一张“Tour 1”直升机飞行代金券，作为其办理登机手续的一部分。 住客必须在抵达当天前往度假村的直升机小屋（Heli Hut）预订航班时间，否则可能会在访问期间错过可用时间。 所含航班在度假村附近运行约 6 分钟。 直升机每次飞行至少需要 2 名乘客，并且根据可用的飞机和乘客重量，有最大乘客限制。 虽然我们会努力为一起前往度假村的客人提供乘坐同一航班的服务，但部分乘客可能需要与预订中的其他客人分开出行。 与旅客无关的乘客也可能占用其航班上的可用座位。 单个座椅重量、组合座椅重量和年龄限制也适用。 如果飞行员认为安全，则需要将 3 岁以下的儿童抱起来并坐在父母的腿上。 3 岁以上儿童需要坐在自己的座位上飞行。 飞行时间和线路可能因运营原因而有所不同。 包含越野滑沙之旅的具体条款：每位在 2026年 6 月 14 日之前和 2026 年 10 月 15 日至 2027 年 3 月 31 日期间旅行的预订中的指定客人将在办理入住手续时收到一张“Desert Safari Tour”voucher。 客人必须在抵达当天前往度假村的旅游咨询台(Tours Desk)预订/确认旅行时间，否则可能会在访问期间错过可用时间。 此行程取决于天气，因为沙地平底橇无法在潮湿的天气条件下运行。 如果天气原因，此行程将作为观光旅游进行，并参观天阁露玛沉船。 包含鲸鱼观赏之旅的具体条款：每位在2026 年 6 月 14 日至 2026 年 10 月 14 日（仅限）期间抵达度假村的预订宾客将收到一张“鲸鱼观赏巡游Voucher , 这次旅行包括船上的便餐。 如果客人在预订时提出建议，我们将尽力满足饮食要求，但不能保证这些。 客人必须在抵达当天前往度假村的旅游咨询台确认分配的游览时间，否则可能会在游览期间错过可用时间。 为确保游客舒适与安全，如遇大风天气，赏鲸巡航将暂停运营。如因天气原因导致赏鲸巡航在客人入住期间无法进行或无法重新安排，每位原预订中的客人将获得： 1张 沙漠探险之旅（Desert Safari Tour） 兑换券； 1张价值 20澳元餐饮代金券（Food Voucher）。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出行前8天，退改手续费每人$10，7天以及7天内收取100%取消费，恕不退款 推荐购买旅游保险以避免损失",
@@ -8751,13 +8878,14 @@ window.TOURS = [
   "price": "A$818",
   "priceEn": "A$818",
   "days": 4,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "随着近期国际局势影响，柴油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加。 因此，行程中大堡礁一日游 自 2026 年 4 月 1 日（含）起之新订单，将加收燃油附加费 如下： 成人：$10 ；儿童：$5 ；婴儿：不收取燃油附加费； 收费方式：燃油附加费目前已更新至3/4日游价格中 凯恩斯酒店四星酒店参考： Cairns Harbourside Hotel （这个酒店离码头走路约30分钟，出海当天我们会免费提供从酒店送到码头）或 同级四星酒店 接送时间为早8点到晚9点之间，不在这个时间范围内接送机附加费$25PP，四日游第四天送机，如单人需补$35送机费用\n\n行程攻略：\n潜水须知 1) 12岁以下禁止深潜 2) 参加深潜无需潜水证，深潜都有专业教练带领，下潜深度6-10米。 3) 浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员 4) 女性怀孕或例假期间不建议浮潜和深潜。 5) 持证潜水项目需要有潜水证才能参加，浮潜项目则不需要 6) 一天单次深潜后，建议12小时内不要高空飞行 热带雨林行程须知 1) 雨林缆车：每趟Skyrail索道观光需要约90分钟。沿途在两个中转站停留，红峰站和拜伦瀑布站。您可以下缆车近距离欣赏热带雨林风光。每个站点需时20至30分钟。雨林缆车两个站点均设有洗手间，并备有雨伞供游客免费使用。 2) 观光火车：整个火车旅途需要1小时45分钟。从Kuranda出发只有两班（下午2点和3点半），请掌握好游玩时间；返回途中有一站叫清水站（Freshwater Station），请返回凯恩斯的游客不要在此下车。",
   "introEn": "随着近期国际局势影响，柴油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加。 因此，行程中大堡礁一日游 自 2026 年 4 月 1 日（含）起之新订单，将加收燃油附加费 如下： 成人：$10 ；儿童：$5 ；婴儿：不收取燃油附加费； 收费方式：燃油附加费目前已更新至3/4日游价格中 凯恩斯酒店四星酒店参考： Cairns Harbourside Hotel （这个酒店离码头走路约30分钟，出海当天我们会免费提供从酒店送到码头）或 同级四星酒店 接送时间为早8点到晚9点之间，不在这个时间范围内接送机附加费$25PP，四日游第四天送机，如单人需补$35送机费用\n\n行程攻略：\n潜水须知 1) 12岁以下禁止深潜 2) 参加深潜无需潜水证，深潜都有专业教练带领，下潜深度6-10米。 3) 浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员 4) 女性怀孕或例假期间不建议浮潜和深潜。 5) 持证潜水项目需要有潜水证才能参加，浮潜项目则不需要 6) 一天单次深潜后，建议12小时内不要高空飞行 热带雨林行程须知 1) 雨林缆车：每趟Skyrail索道观光需要约90分钟。沿途在两个中转站停留，红峰站和拜伦瀑布站。您可以下缆车近距离欣赏热带雨林风光。每个站点需时20至30分钟。雨林缆车两个站点均设有洗手间，并备有雨伞供游客免费使用。 2) 观光火车：整个火车旅途需要1小时45分钟。从Kuranda出发只有两班（下午2点和3点半），请掌握好游玩时间；返回途中有一站叫清水站（Freshwater Station），请返回凯恩斯的游客不要在此下车。",
   "participationNotice": "行程会根据实际成团情况调整顺序，但内容不变，请以行程前一天的短信通知为准 建议航班：第一天8am - 9pm 之间抵达的航班，如果客人在行程结束的当天乘飞机离开凯恩斯，需要预定下午18:00之后离开的航班。 1.儿童年龄：4-14岁 2.行程中景点门票及自费项目需向导游统一购买，如游客自行购买，本社概不提供任何交通接送服务。所有价格或旅游景点门票以当天价格为准，如有变动恕不另行通知。 3.因人数不足或天气原因，本公司有权在启程前或启程后取消或更改行程，也有权缩短或延长旅程。 4.团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关。建议各位游客购买旅行保险。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出团日期前14天17:00之前（含）取消，收取每人$50取消费 2. 出团日期14天内收取100%取消费用 3. 如客人在出团当日因自身原因迟到或自行脱团，概不退任何费用 凯恩斯在雨季会有热带风暴。本公司无法提前预测天气或者热带风暴的到达时间、强度以及对行程影响的程度。本公司会根据 大堡礁游船公司和其他景点的通知来告知客人是否继续大堡礁或其他景点的行程；通常游船公司或其他景点公司会在行程前一天， 甚至是当天才能做出决定。",
@@ -8830,13 +8958,14 @@ window.TOURS = [
   "price": "A$992",
   "priceEn": "A$992",
   "days": 4,
+  "startCity": "汉密尔顿岛",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点 白色天堂沙滩（Whitehaven Beach） 位于圣灵群岛中最大岛屿——圣灵岛的东南端，被誉为圣灵群岛“三大必看景致”之一。这里的海水晶莹剔透，如蓝宝石般闪耀，而海岸线则由绵延七公里的纯白硅砂勾勒而成，细腻柔软，令人流连忘返。 白天堂沙滩多次被评为“昆士兰最美丽的沙滩”和“昆士兰最友好的沙滩”。湛蓝天空与碧绿海水的完美融合，令初次踏足此地的游客仿佛置身人间仙境，也正是这份美丽，诠释了它“天堂”般的名字。 心形大堡礁（Heart Reef） 心形大堡礁位于昆士兰著名的大堡礁海域，整个大堡礁自北部的凯恩斯、库克镇一路延伸至南部的黄金海岸，全长约 2000 公里，而圣灵群岛正位于核心区域，被视为大堡礁的精华所在。 在这里，大量色彩斑斓的珊瑚群自然汇聚，奇迹般形成一个完美的心形，令人惊叹。心形礁不仅是自然界的杰作，更是无数游客心中的浪漫象征。 汉密尔顿岛住宿（Hamilton Island Accommodation） 汉密尔顿岛为旅客提供多样化的住宿选择，从独立静谧的 Palm Bungalows 棕榈平房 ，到景观开阔、可远眺泳池与海景的 Reef View Hotel 珊瑚景酒店 ；从精致舒适的 Beach Club 海滩俱乐部 ，到奢华无比的 qualia 度假村 ，都能满足不同需求。 若您更喜欢自己动手烹饪，也可选择设备齐全的酒店式公寓或度假屋，享受更自在的居住体验。",
   "introEn": "行程亮点 白色天堂沙滩（Whitehaven Beach） 位于圣灵群岛中最大岛屿——圣灵岛的东南端，被誉为圣灵群岛“三大必看景致”之一。这里的海水晶莹剔透，如蓝宝石般闪耀，而海岸线则由绵延七公里的纯白硅砂勾勒而成，细腻柔软，令人流连忘返。 白天堂沙滩多次被评为“昆士兰最美丽的沙滩”和“昆士兰最友好的沙滩”。湛蓝天空与碧绿海水的完美融合，令初次踏足此地的游客仿佛置身人间仙境，也正是这份美丽，诠释了它“天堂”般的名字。 心形大堡礁（Heart Reef） 心形大堡礁位于昆士兰著名的大堡礁海域，整个大堡礁自北部的凯恩斯、库克镇一路延伸至南部的黄金海岸，全长约 2000 公里，而圣灵群岛正位于核心区域，被视为大堡礁的精华所在。 在这里，大量色彩斑斓的珊瑚群自然汇聚，奇迹般形成一个完美的心形，令人惊叹。心形礁不仅是自然界的杰作，更是无数游客心中的浪漫象征。 汉密尔顿岛住宿（Hamilton Island Accommodation） 汉密尔顿岛为旅客提供多样化的住宿选择，从独立静谧的 Palm Bungalows 棕榈平房 ，到景观开阔、可远眺泳池与海景的 Reef View Hotel 珊瑚景酒店 ；从精致舒适的 Beach Club 海滩俱乐部 ，到奢华无比的 qualia 度假村 ，都能满足不同需求。 若您更喜欢自己动手烹饪，也可选择设备齐全的酒店式公寓或度假屋，享受更自在的居住体验。",
   "participationNotice": "此套餐只适用于60天之外的出发日期，60天内请另咨询客服 请注意！请自行预定飞往汉密尔顿岛机场（HTI）的航班 1. 儿童：0-12岁。 2. 因人数不足或天气原因，本公司有权在启程前或启程后取消或更改行程，也有权缩短或延长旅程。 3. 团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关。建议各位游客购买旅行保险。 4. 价格不包含节日季，农历新年与中国黄金周，特殊价位请提前咨询OP 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n距出发日期14天前可免费取消或更改 距出发日期14天-8内收取20%取消费用 距出发7天内取消或更改收取100%费用",
@@ -8909,13 +9038,14 @@ window.TOURS = [
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 7,
+  "startCity": "西澳",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "西澳粉色海洋心动7日游 包含接送机｜赠送粉红湖航拍｜自然之窗｜龙虾美食｜波浪岩｜罗岛小袋鼠 ｜海上小火车 出发日期：每周2、5 行程亮点： 1. 市面景点最多的西澳7日游，增加20%景点，纵贯西澳东、西、南、北全境 2. 包含接机和送机，增添便利性，客人的需求get！ 3. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 4. 打卡史前巨浪波浪岩-西澳的“乌鲁鲁”，世界地质奇观 5. 特别安排1天罗特尼斯岛自由行（独家提供酒店接送），邂逅全世界最快乐的小袋鼠～ *特别注意** 接机：服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接送，导游在机场停车等候区，导游不举牌。 ；1500-2000之间每位$20附加费；2000之后请自行前往酒店 * 1人出行附加费需支付2位* (提前抵达无接机，需自行前往团队酒店入住/集合) 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "introEn": "西澳粉色海洋心动7日游 包含接送机｜赠送粉红湖航拍｜自然之窗｜龙虾美食｜波浪岩｜罗岛小袋鼠 ｜海上小火车 出发日期：每周2、5 行程亮点： 1. 市面景点最多的西澳7日游，增加20%景点，纵贯西澳东、西、南、北全境 2. 包含接机和送机，增添便利性，客人的需求get！ 3. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 4. 打卡史前巨浪波浪岩-西澳的“乌鲁鲁”，世界地质奇观 5. 特别安排1天罗特尼斯岛自由行（独家提供酒店接送），邂逅全世界最快乐的小袋鼠～ *特别注意** 接机：服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接送，导游在机场停车等候区，导游不举牌。 ；1500-2000之间每位$20附加费；2000之后请自行前往酒店 * 1人出行附加费需支付2位* (提前抵达无接机，需自行前往团队酒店入住/集合) 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "participationNotice": "1.第1天接机服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接，导游在机场停车等候区，导游不举牌；1500-2000之间每位$20附加费；2000之后请自行前往酒店。1人出行附加费按2人支付 2.第7天送机请预定2200之后(境内)/2300之后(境外)起飞航班。 3.3人1间房，每人每晚优惠10澳币，市区房型为2个1.3米宽双床（或1双+1加床），小镇房型为1个双人床+1个单人床。享用优惠需使用现有床型，无额外加床 4.小镇住宿统一安排舒适3星，可能为大小床 5.波浪岩行程若不满6人可能会调整为英文团(包含酒店就近接送和午餐，行程不变,以地接最终安排为准） 6.罗特尼斯岛上活动为自由行,无导游陪同 7.受供应商和天气影响，赠送项目不退不换不折现 8.西澳路途较远拉车距离较长，不接受4岁以下幼童报名，敬请谅解 9.在不减少景点数目的前提下，最终出团顺序以地接社行前通知为准 10.客人误机或航班取消或航班晚点，导致错过的景点，地接旅行社不承担任何责任或退款；强烈建议购买旅游保险。 **产品中秋国庆、圣诞新年、澳洲复活节国庆学校假期、中国春节，可能有附加费/上浮至26人小团，请在下单前询问+确认** 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发日期前45天珀斯时间1700之前（含）取消，扣除订单25%为商家损失费 出发日期前30天珀斯时间1700之前（含）取消，扣除订单50%为商家损失费 出发日期前15天珀斯时间1700之前（含）取消，扣除订单75%为商家损失费 出发日期前7天珀斯时间1700之前（含）取消，扣除订单100%为商家损失费 若因乘客个人原因无法出行，按退改规定执行，请购买旅游保险以规避风险",
@@ -8988,13 +9118,14 @@ window.TOURS = [
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 6,
+  "startCity": "西澳",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "西澳粉色海洋微笑6日游 包含接送机｜赠送粉红湖航拍｜自然之窗｜龙虾美食｜波浪岩｜海角灯塔 出发日期：每周2、5 行程亮点： 1. 市面景点最多的西澳6日游，增加20%景点，纵贯西澳北线、南线和东线 2. 包含接机和送机，增添便利性，客人的需求get！ 3. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 4. 打卡史前巨浪波浪岩-西澳的“乌鲁鲁”，世界地质奇观 5. 除接机外，不含自由行，每一天都有中文司导，语言友好~ *特别注意** 接机：服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接送，导游在机场停车等候区，导游不举牌。 ；1500-2000之间每位$20附加费；2000之后请自行前往酒店 * 1人出行附加费需支付2位* (提前抵达无接机，需自行前往团队酒店入住/集合) 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "introEn": "西澳粉色海洋微笑6日游 包含接送机｜赠送粉红湖航拍｜自然之窗｜龙虾美食｜波浪岩｜海角灯塔 出发日期：每周2、5 行程亮点： 1. 市面景点最多的西澳6日游，增加20%景点，纵贯西澳北线、南线和东线 2. 包含接机和送机，增添便利性，客人的需求get！ 3. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 4. 打卡史前巨浪波浪岩-西澳的“乌鲁鲁”，世界地质奇观 5. 除接机外，不含自由行，每一天都有中文司导，语言友好~ *特别注意** 接机：服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接送，导游在机场停车等候区，导游不举牌。 ；1500-2000之间每位$20附加费；2000之后请自行前往酒店 * 1人出行附加费需支付2位* (提前抵达无接机，需自行前往团队酒店入住/集合) 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "participationNotice": "1.第1天接机服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接，导游在机场停车等候区，导游不举牌；1500-2000之间每位$20附加费；2000之后请自行前往酒店。1人出行附加费按2人支付 2.第6天送机请预定2200之后(境内)/2300之后(境外)起飞航班。 3.3人1间房，每人每晚优惠10澳币，市区房型为2个1.3米宽双床（或1双+1加床），小镇房型为1个双人床+1个单人床。享用优惠需使用现有床型，无额外加床 4.小镇住宿统一安排舒适3星，可能为大小床 5.波浪岩行程若不满6人可能会调整为英文团(包含酒店就近接送和午餐，行程不变,以地接最终安排为准） 6.受供应商和天气影响，赠送项目不退不换不折现 7.西澳路途较远拉车距离较长，不接受4岁以下幼童报名，敬请谅解 8.在不减少景点数目的前提下，最终出团顺序以地接社行前通知为准 9.客人误机或航班取消或航班晚点，导致错过的景点，地接旅行社不承担任何责任或退款；强烈建议购买旅游保险。 **产品中秋国庆、圣诞新年、澳洲复活节国庆学校假期、中国春节，可能有附加费/上浮至26人小团，请在下单前询问+确认** 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发日期前45天珀斯时间1700之前（含）取消，扣除订单25%为商家损失费 出发日期前30天珀斯时间1700之前（含）取消，扣除订单50%为商家损失费 出发日期前15天珀斯时间1700之前（含）取消，扣除订单75%为商家损失费 出发日期前7天珀斯时间1700之前（含）取消，扣除订单100%为商家损失费 若因乘客个人原因无法出行，按退改规定执行，请购买旅游保险以规避风险",
@@ -9067,13 +9198,14 @@ window.TOURS = [
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 5,
+  "startCity": "西澳",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "西澳粉色海洋小火车灯塔童话5日游 包含接送机 ｜赠送粉红湖航拍｜海上小火车 出发日期：每周1、3、4、5 *关闭团期 ：4/23、4/24、9/24、9/25、10/01、10/02 *额外加开：4/25、9/26、10/03 行程亮点： 1. 市面景点最多的西澳5日游，增加20%景点，纵贯西澳南北线 2. 包含接机和送机，增添便利性，客人的需求get！ 3. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 *特别注意** 接机：服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接送，导游在机场停车等候区，导游不举牌。 ；1500-2000之间每位$20附加费；2000之后请自行前往酒店 * 1人出行附加费需支付2位* (提前抵达无接机，需自行前往团队酒店入住/集合) 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机）\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "introEn": "西澳粉色海洋小火车灯塔童话5日游 包含接送机 ｜赠送粉红湖航拍｜海上小火车 出发日期：每周1、3、4、5 *关闭团期 ：4/23、4/24、9/24、9/25、10/01、10/02 *额外加开：4/25、9/26、10/03 行程亮点： 1. 市面景点最多的西澳5日游，增加20%景点，纵贯西澳南北线 2. 包含接机和送机，增添便利性，客人的需求get！ 3. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 *特别注意** 接机：服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接送，导游在机场停车等候区，导游不举牌。 ；1500-2000之间每位$20附加费；2000之后请自行前往酒店 * 1人出行附加费需支付2位* (提前抵达无接机，需自行前往团队酒店入住/集合) 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机）\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "participationNotice": "1.第1天接机服务时间为行程第01天0800-1500之间任意时间抵达，相邻1小时内航班一起接，导游在机场停车等候区，导游不举牌；1500-2000之间每位$20附加费；2000之后请自行前往酒店。1人出行附加费按2人支付 2.第5天送机请预定2200之后(境内)/2300之后(境外)起飞航班。 3.3人1间房，每人每晚优惠10澳币，市区房型为2个1.3米宽双床（或1双+1加床），小镇房型为1个双人床+1个单人床。享用优惠需使用现有床型，无额外加床 4.小镇住宿统一安排舒适3星，可能为大小床 5.受供应商和天气影响，赠送项目不退不换不折现 6.西澳路途较远拉车距离较长，不接受4岁以下幼童报名，敬请谅解 7.在不减少景点数目的前提下，最终出团顺序以地接社行前通知为准 8.客人误机或航班取消或航班晚点，导致错过的景点，地接旅行社不承担任何责任或退款。因此强烈建议购买旅游保险 **产品中秋国庆、圣诞新年、澳洲复活节国庆学校假期、中国春节，可能有附加费/上浮至26人小团，请在下单前询问+确认** 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发日期前45天珀斯时间1700之前（含）取消，扣除订单25%为商家损失费 出发日期前30天珀斯时间1700之前（含）取消，扣除订单50%为商家损失费 出发日期前15天珀斯时间1700之前（含）取消，扣除订单75%为商家损失费 出发日期前7天珀斯时间1700之前（含）取消，扣除订单100%为商家损失费 若因乘客个人原因无法出行，按退改规定执行，请购买旅游保险以规避风险",
@@ -9146,13 +9278,14 @@ window.TOURS = [
   "price": "A$949",
   "priceEn": "A$949",
   "days": 4,
+  "startCity": "西澳",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "西澳粉红湖小火车浪漫4日游 送粉红湖航拍 ｜ 送栈桥小火车往返车票｜免费送机 出发日期：每周2、4、5、6出发 行程亮点： 1. 市面景点最多的西澳4日游，增加20%景点，去到“珀斯3件套-国王公园、蓝色小屋、弗里曼特” 2. 每一天都安排大景点，风景从城市到田园到拥抱蔚蓝海岸线，每天都有惊喜 3. 行后免费送机，增添便利性，客人的需求get！ 4. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 *特别注意** 此行程无接机，第一天请至固定集合点集合，集合时间请依照出团通知为准 市区四星上车点：477 Hay Street, Perth 市区五星上车点： Pan Pacific 酒店外面hill street 路边 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机）\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "introEn": "西澳粉红湖小火车浪漫4日游 送粉红湖航拍 ｜ 送栈桥小火车往返车票｜免费送机 出发日期：每周2、4、5、6出发 行程亮点： 1. 市面景点最多的西澳4日游，增加20%景点，去到“珀斯3件套-国王公园、蓝色小屋、弗里曼特” 2. 每一天都安排大景点，风景从城市到田园到拥抱蔚蓝海岸线，每天都有惊喜 3. 行后免费送机，增添便利性，客人的需求get！ 4. 打卡西澳南线宫崎骏栈桥小火车，包含往返车票，直抵大海中央的浪漫 *特别注意** 此行程无接机，第一天请至固定集合点集合，集合时间请依照出团通知为准 市区四星上车点：477 Hay Street, Perth 市区五星上车点： Pan Pacific 酒店外面hill street 路边 送机：请预定2200之后(境内)/2300之后(境外)起飞航班。 （延迟离开仅送回团队酒店，无送机）\n\n行程攻略：\n参考酒店: 珀斯4星美居酒店Mercure Perth 珀斯5星泛太平洋 Pan pacific Perth 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "participationNotice": "1.此行程无接机，第01天请至固定集合点集合，集合时间请依照出团通知为准 2.第04天行程约1800-1830结束送机场，请预定2200之后澳洲境内/2300之后澳洲境外航班 3.3人1间房，每人每晚优惠10澳币，市区房型为2个1.3米宽双床（或1双+1加床），小镇房型为1个双人床+1个单人床。享用优惠需使用现有床型，无额外加床 4.小镇住宿统一安排舒适3星，可能为大小床 5.受供应商和天气影响，赠送项目不退不换不折现 6.西澳路途较远拉车距离较长，不接受4岁以下幼童报名，敬请谅解 7.在不减少景点数目的前提下，最终出团顺序以地接社行前通知为准 8.客人误机或航班取消或航班晚点，导致错过的景点，地接旅行社不承担任何责任或退款。因此强烈建议购买旅游保险 **产品中秋国庆、圣诞新年、澳洲复活节国庆学校假期、中国春节，可能有附加费/上浮至26人小团，请在下单前询问+确认** 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发日期前45天珀斯时间1700之前（含）取消，扣除订单25%为商家损失费 出发日期前30天珀斯时间1700之前（含）取消，扣除订单50%为商家损失费 出发日期前15天珀斯时间1700之前（含）取消，扣除订单75%为商家损失费 出发日期前7天珀斯时间1700之前（含）取消，扣除订单100%为商家损失费 若因乘客个人原因无法出行，按退改规定执行，请购买旅游保险以规避风险",
@@ -9219,13 +9352,14 @@ window.TOURS = [
   "price": "A$699",
   "priceEn": "A$699",
   "days": 3,
+  "startCity": "西澳",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "西澳粉红湖自然之窗全新3日游 送 粉红湖航拍 ｜免费送机｜自然之窗｜龙虾美食 行程第1天固定出发地点（集合/解散点）：地址：477 Hay Street, Perth（Cucina 咖啡店门外） 出发日期：每周2 、 4、6 ( 外地客人需提前一天抵达珀斯) *关闭团期 ：4/25、 9/26、10/03 *额外加开：4/26、9/27、10/04 行程亮点： 1. 比市面常规粉湖3日游行程，增加20%景点，去到“珀斯3件套-国王公园、蓝色小屋、弗里曼特” 2. 每一天都安排大景点，风景从城市到田园到拥抱蔚蓝海岸线，每天都有惊喜 3. 行后免费送机，增添便利性，客人的需求get！\n\n行程攻略：\n参考酒店: 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "introEn": "西澳粉红湖自然之窗全新3日游 送 粉红湖航拍 ｜免费送机｜自然之窗｜龙虾美食 行程第1天固定出发地点（集合/解散点）：地址：477 Hay Street, Perth（Cucina 咖啡店门外） 出发日期：每周2 、 4、6 ( 外地客人需提前一天抵达珀斯) *关闭团期 ：4/25、 9/26、10/03 *额外加开：4/26、9/27、10/04 行程亮点： 1. 比市面常规粉湖3日游行程，增加20%景点，去到“珀斯3件套-国王公园、蓝色小屋、弗里曼特” 2. 每一天都安排大景点，风景从城市到田园到拥抱蔚蓝海岸线，每天都有惊喜 3. 行后免费送机，增添便利性，客人的需求get！\n\n行程攻略：\n参考酒店: 小镇杰拉尔顿 Geraldton Hospitality Inn 自费项目Optional： 1. 杰拉尔顿摘星摄影之旅，每位$69，2人成团 -请在出发时向司机报名、无佣金、不接受提前付款 2. 粉红湖飞机空中巡游，每位$320，2人成团 - 请在报团时咨询，现场报名不保证有位 - 一经确认非供应商原因不退不改 - 请在报名时咨询，现场报名不承诺有位",
   "participationNotice": "1.第1天固定上车点477 Hay Street, Perth 2.第3天行程约1800-1830结束送机场，请预定2200之后澳洲境内/2300之后澳洲境外航班 3.3人1间房，每人每晚优惠10澳币，市区房型为2个1.3米宽双床（或1双+1加床），小镇房型为1个双人床+1个单人床。享用优惠需使用现有床型，无额外加床 4.小镇住宿统一安排舒适3星，可能为大小床 5.受供应商和天气影响，赠送项目不退不换不折现 6.西澳路途较远拉车距离较长，不接受4岁以下幼童报名，敬请谅解 7.在不减少景点数目的前提下，最终出团顺序以地接社行前通知为准 8.客人误机或航班取消或航班晚点，导致错过的景点，地接旅行社不承担任何责任或退款。因此强烈建议购买旅游保险 **产品中秋国庆、圣诞新年、澳洲复活节国庆学校假期、中国春节，可能有附加费/上浮至26人小团，请在下单前询问+确认** 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发日期前45天珀斯时间1700之前（含）取消，扣除订单25%为商家损失费 出发日期前30天珀斯时间1700之前（含）取消，扣除订单50%为商家损失费 出发日期前15天珀斯时间1700之前（含）取消，扣除订单75%为商家损失费 出发日期前7天珀斯时间1700之前（含）取消，扣除订单100%为商家损失费 若因乘客个人原因无法出行，按退改规定执行，请购买旅游保险以规避风险",
@@ -9292,13 +9426,14 @@ window.TOURS = [
   "price": "A$1818",
   "priceEn": "A$1818",
   "days": 5,
+  "startCity": "帝王谷",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。",
   "introEn": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。",
   "participationNotice": "**酒店是浮动的，需要二次确认** 适合布里斯班航班/乌鲁鲁 VA 1693 12:10/15:30 每周一三五 1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，15岁以下不占床且必须和2成人同住方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前14天取消，收取100澳币手续费； 2. 出发前14-7天取消，收取团费50%损失费； 3. 7天内取消，收取团费100%团费； 4. 缺席或中途自动离团，或者放弃任何活动，住宿等服务，不退不改任何费用。",
@@ -9365,13 +9500,14 @@ window.TOURS = [
   "price": "A$1618",
   "priceEn": "A$1618",
   "days": 4,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。 关于【境内旅行取消保险】 如客人因个人感染COVID-19或成为密切接触者而无法出行，不做免费退款，只能协助申请供应商退款。推荐客人购买保险以规避损失。 【境内旅行取消保险】是专为澳洲境内旅行设计的基础类型保险，承保最多$1500的取消费用，购买者需满足以下条件： 持有澳洲Medicare卡，或持有澳洲长期签证（允许居住、工作或学习） 并且，次保险只有在出行前21天前购买，才承保因确诊COVID-19而无法出行。",
   "introEn": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。 关于【境内旅行取消保险】 如客人因个人感染COVID-19或成为密切接触者而无法出行，不做免费退款，只能协助申请供应商退款。推荐客人购买保险以规避损失。 【境内旅行取消保险】是专为澳洲境内旅行设计的基础类型保险，承保最多$1500的取消费用，购买者需满足以下条件： 持有澳洲Medicare卡，或持有澳洲长期签证（允许居住、工作或学习） 并且，次保险只有在出行前21天前购买，才承保因确诊COVID-19而无法出行。",
   "participationNotice": "酒店是浮动的，需要二次确认 预定须知 咨询报名时请务必提供真实准确的信息，以免造成不能出行 1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，15岁以下不占床且必须和2成人同住方可享受儿童价。（3.5星迷失骆驼酒店儿童价为与一位成人同住） 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前14天取消，收取每人100澳币手续费， 出发前14-7天取消，收取团费50%损失费， 7天之内取消，收取100%团费，缺席或中途自动离团，或者途中放弃任何活动，住宿等服务，不退还任何费用。",
@@ -9438,13 +9574,14 @@ window.TOURS = [
   "price": "A$1368",
   "priceEn": "A$1368",
   "days": 3,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。",
   "introEn": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。",
   "participationNotice": "**酒店是浮动的，需要二次确认** 1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，15岁以下不占床且必须和2成人同住方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前14天取消，收取100澳币手续费； 2. 出发前14-7天取消，收取团费50%损失费； 3. 7天内取消，收取团费100%团费； 4. 缺席或中途自动离团，或者放弃任何活动，住宿等服务，不退不改任何费用。",
@@ -9511,13 +9648,14 @@ window.TOURS = [
   "price": "A$998",
   "priceEn": "A$998",
   "days": 3,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。",
   "introEn": "行程攻略：\n北领地边境限制请访问 https://coronavirus.nt.gov.au/travel/border-entry 由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。",
   "participationNotice": "**酒店是浮动的，需要二次确认** 适合VA维珍墨尔本/乌鲁鲁 VA 1681 12:40/15:30 每周二四六七 或布里斯班航班/乌鲁鲁 VA 1693 12:10/15:30 每周一三五 1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，15岁以下不占床且必须和2成人同住方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前14天取消，收取每人100澳币手续费， 出发前14-7天取消，收取团费50%损失费， 7天之内取消，收取100%团费，缺席或中途自动离团，或者途中放弃任何活动，住宿等服务，不退还任何费用。",
@@ -9584,13 +9722,14 @@ window.TOURS = [
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 6,
+  "startCity": "塔洲纵横有氧6日游",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： 塔州深度6日游.pdf 行程亮点： 霍巴特位于德文特河的入海口，始建于1803年，是澳大利亚第二古老的城市。澳大利亚保护最完好的里奇蒙古镇，在这里您将游览澳洲最早的建于1823年的石拱桥和建于1836年的天主教教堂。小镇上古老的面包房和甜品店，也是游客的好去处。这里也是香港电影“再一次心跳”的取景地。海拔1270米的威灵顿山，这里是俯瞰霍巴特全景和附近海域的绝佳位置，也是习近平主席曾到过的地方。塔斯马尼亚著名的生蚝养殖场，在那里您可以品尝到鲜美的太平洋生蚝。 酒杯湾位于塔斯马尼亚东海岸的费辛娜半岛（Freycinet Peninsula），美国旅游杂志“外”在1999年将酒杯湾（WINEGLASS BAY）誉为“世界十大海滩”之一。酒杯湾白色沙滩和蓝绿色海洋的完美曲线构成令人难忘的画面，远远望去就像是一杯蓝绿的美酒，等待路人品尝。酒杯湾微风吹拂，海浪轻轻拍打海滩，海滩上还会新奇的发现形状各异的贝壳。躲在层层群山后面，沙滩与塔斯曼海形成轮廓分明的半月形状，从酒杯湾瞭望（Wineglass Bay Lookout）上看，仿佛就是一个天然的葡萄酒杯。 亚瑟港（Port Arthur）是殖民时代流放罪犯的遗址，19世纪南半球最大的监狱，也是澳洲目前保存最完好的监狱古迹。亚瑟港的人文历史和塔斯曼半岛的美丽风景成为塔斯马尼亚最著名的旅游热点之一每一位前来塔斯马尼亚的游客都会专程到访亚瑟港。 摇篮山是长达65公里（40英里）摇圣徒步道（Overland Track）的起点，也是占地161000公顷（397840英亩）的摇篮山 - 圣佳尔湖国家公园（摇篮山 - 圣克莱尔湖国家公园 ）的北端，和塔斯马尼亚荒原世界遗产区（塔斯马尼亚荒野世界遗产区）的一部分。在这里还有经常出没的可爱袋熊。 朗瑟斯顿是澳大利亚塔斯马尼亚州北部港口城市，塔斯马尼亚州第二大城。街道上有典雅的爱德华和维多利亚时代建筑，周围有过百年的公园和花园，与餐馆和咖啡馆林立，生气勃勃的塞斯顿海港等地区构成了有趣的对比。朗塞斯顿还是探寻塔玛谷凉爽气候葡萄园的一个绝佳基地。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚； 出发日期：天天出发\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 薰衣草农场 薰衣草花期在每年的 12 月中旬至来年 1 月中旬。这期间将增加游览薰衣草园的行程，由于时间关系不再安排瑞士及湿地公园的游览。薰衣草农场的门票价格以当年景点设定的价格为准。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 朗塞斯顿 4.5 星： Hotel Grand Chancellor / Best Western Plus 或同级 4 星： Country Club Tasmania 或同级 3 星： Village Family Inn 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年 5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "introEn": "下载flyer： 塔州深度6日游.pdf 行程亮点： 霍巴特位于德文特河的入海口，始建于1803年，是澳大利亚第二古老的城市。澳大利亚保护最完好的里奇蒙古镇，在这里您将游览澳洲最早的建于1823年的石拱桥和建于1836年的天主教教堂。小镇上古老的面包房和甜品店，也是游客的好去处。这里也是香港电影“再一次心跳”的取景地。海拔1270米的威灵顿山，这里是俯瞰霍巴特全景和附近海域的绝佳位置，也是习近平主席曾到过的地方。塔斯马尼亚著名的生蚝养殖场，在那里您可以品尝到鲜美的太平洋生蚝。 酒杯湾位于塔斯马尼亚东海岸的费辛娜半岛（Freycinet Peninsula），美国旅游杂志“外”在1999年将酒杯湾（WINEGLASS BAY）誉为“世界十大海滩”之一。酒杯湾白色沙滩和蓝绿色海洋的完美曲线构成令人难忘的画面，远远望去就像是一杯蓝绿的美酒，等待路人品尝。酒杯湾微风吹拂，海浪轻轻拍打海滩，海滩上还会新奇的发现形状各异的贝壳。躲在层层群山后面，沙滩与塔斯曼海形成轮廓分明的半月形状，从酒杯湾瞭望（Wineglass Bay Lookout）上看，仿佛就是一个天然的葡萄酒杯。 亚瑟港（Port Arthur）是殖民时代流放罪犯的遗址，19世纪南半球最大的监狱，也是澳洲目前保存最完好的监狱古迹。亚瑟港的人文历史和塔斯曼半岛的美丽风景成为塔斯马尼亚最著名的旅游热点之一每一位前来塔斯马尼亚的游客都会专程到访亚瑟港。 摇篮山是长达65公里（40英里）摇圣徒步道（Overland Track）的起点，也是占地161000公顷（397840英亩）的摇篮山 - 圣佳尔湖国家公园（摇篮山 - 圣克莱尔湖国家公园 ）的北端，和塔斯马尼亚荒原世界遗产区（塔斯马尼亚荒野世界遗产区）的一部分。在这里还有经常出没的可爱袋熊。 朗瑟斯顿是澳大利亚塔斯马尼亚州北部港口城市，塔斯马尼亚州第二大城。街道上有典雅的爱德华和维多利亚时代建筑，周围有过百年的公园和花园，与餐馆和咖啡馆林立，生气勃勃的塞斯顿海港等地区构成了有趣的对比。朗塞斯顿还是探寻塔玛谷凉爽气候葡萄园的一个绝佳基地。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚； 出发日期：天天出发\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 薰衣草农场 薰衣草花期在每年的 12 月中旬至来年 1 月中旬。这期间将增加游览薰衣草园的行程，由于时间关系不再安排瑞士及湿地公园的游览。薰衣草农场的门票价格以当年景点设定的价格为准。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 朗塞斯顿 4.5 星： Hotel Grand Chancellor / Best Western Plus 或同级 4 星： Country Club Tasmania 或同级 3 星： Village Family Inn 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年 5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "participationNotice": "1. 航班安排：建议抵达航班最好订在上午0900前抵达霍巴特；如果客人在第五天行程结束时从朗塞斯顿开，可选择17:00之后离开的航班；如果从霍巴特离开，需预定20:00后开的航班 2 年纪说明：【儿童价格】适用于不满12岁儿童，【儿童无床】价格为不满12岁儿童与两大人同住不占床位且不含早餐的价格 3. 住宿安排：酒店房间每间房2成人起订，最多只可入住3位客人，仅限最多3位成人或是2大1小入住。 4. 此套餐为几个一日游的组合，每天的团友和导游可能会不一样，行程仅供参考，供应商也可能会根据实际情况调整景点的先后游览顺序，请以行程前一天的短信通知为准。 5. 乘航班抵达并当天参团的游客，需在机场大厅等候导游。导游通常先从市区酒店接客人，续往机场接当天到达的游客;最后一天行程结束后将由导游送往机场，导游不根据航班时间单独送机 6. 学生假期，圣诞节,新年期间12月24-1月7日号有可能会产生对应附加费，请咨询客服 7. 下单前请务必提前询位，预订结果以最终确认为准，建议行程预定成功之后再预定机票。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -9657,13 +9796,14 @@ window.TOURS = [
   "price": "A$1028",
   "priceEn": "A$1028",
   "days": 5,
+  "startCity": "塔洲纵横全览5日游",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： 塔州全景5日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚；\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 薰衣草农场 薰衣草花期在每年的 12 月中旬至来年 1 月中旬。这期间将增加游览薰衣草园的行程，由于时间关系不再安排瑞士及湿地公园的游览。薰衣草农场的门票价格以当年景点设定的价格为准。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 朗塞斯顿 4.5 星： Hotel Grand Chancellor / Best Western Plus 或同级 4 星： Country Club Tasmania 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "introEn": "下载flyer： 塔州全景5日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚；\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 薰衣草农场 薰衣草花期在每年的 12 月中旬至来年 1 月中旬。这期间将增加游览薰衣草园的行程，由于时间关系不再安排瑞士及湿地公园的游览。薰衣草农场的门票价格以当年景点设定的价格为准。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 朗塞斯顿 4.5 星： Hotel Grand Chancellor / Best Western Plus 或同级 4 星： Country Club Tasmania 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "participationNotice": "1. 航班安排：建议抵达航班最好订在上午0900前抵达霍巴特；如果客人在第五天行程结束时从朗塞斯顿开，可选择17:00之后离开的航班；如果从霍巴特离开，需预定20:00后开的航班 2 年纪说明：【儿童价格】适用于不满12岁儿童，【儿童无床】价格为不满12岁儿童与两大人同住不占床位且不含早餐的价格 3. 住宿安排：酒店房间每间房2成人起订，最多只可入住3位客人，仅限最多3位成人或是2大1小入住。 4. 此套餐为几个一日游的组合，每天的团友和导游可能会不一样，行程仅供参考，供应商也可能会根据实际情况调整景点的先后游览顺序，请以行程前一天的短信通知为准。 5. 乘航班抵达并当天参团的游客，需在机场大厅等候导游。导游通常先从市区酒店接客人，续往机场接当天到达的游客;最后一天行程结束后将由导游送往机场，导游不根据航班时间单独送机 6. 学生假期，圣诞节,新年期间12月24-1月7日号有可能会产生对应附加费，请咨询客服 7. 下单前请务必提前询位，预订结果以最终确认为准，建议行程预定成功之后再预定机票。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -9736,13 +9876,14 @@ window.TOURS = [
   "price": "A$998",
   "priceEn": "A$998",
   "days": 5,
+  "startCity": "塔斯马尼亚",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： 塔州南部5日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下：$50/人/次；参加极光团的条件如下： 1）当日极光指数须达到5以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2）由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3）极光发生时间在 7pm-9:30pm间会组织追光团；晚于这个时间段我司不再组织追光团； 4）当天参加追光团的人数至少为4人； 5）参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6）追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚；\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "introEn": "下载flyer： 塔州南部5日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下：$50/人/次；参加极光团的条件如下： 1）当日极光指数须达到5以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2）由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3）极光发生时间在 7pm-9:30pm间会组织追光团；晚于这个时间段我司不再组织追光团； 4）当天参加追光团的人数至少为4人； 5）参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6）追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚；\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "participationNotice": "1. 航班安排：建议抵达航班最好订在上午0900前抵达霍巴特；从霍巴特离开，需预定19:30后开的航班 2 年纪说明：【儿童价格】适用于不满12岁儿童，【儿童无床】价格为不满12岁儿童与两大人同住不占床位且不含早餐的价格 3. 住宿安排：酒店房间每间房2成人起订，最多只可入住3位客人，仅限最多3位成人或是2大1小入住。 4. 此套餐为几个一日游的组合，每天的团友和导游可能会不一样，行程仅供参考，供应商也可能会根据实际情况调整景点的先后游览顺序，请以行程前一天的短信通知为准。 5. 乘航班抵达并当天参团的游客，需在机场大厅等候导游。导游通常先从市区酒店接客人，续往机场接当天到达的游客;最后一天行程结束后将由导游送往机场，导游不根据航班时间单独送机 6. 学生假期，圣诞节,新年期间有可能会产生对应附加费，请咨询客服 7. 下单前请务必提前询位，预订结果以最终确认为准，建议行程预定成功之后再预定机票。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -9809,13 +9950,14 @@ window.TOURS = [
   "price": "A$848",
   "priceEn": "A$848",
   "days": 4,
+  "startCity": "塔斯马尼亚",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： 塔州3日4日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚；\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "introEn": "下载flyer： 塔州3日4日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚；\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5-10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "participationNotice": "1. 航班安排：建议抵达航班最好订在上午0900前抵达霍巴特；离开航班订在晚上1930以后离开霍巴特 2 年纪说明：【儿童价格】适用于不满12岁儿童，【儿童无床】价格为不满12岁儿童与两大人同住不占床位且不含早餐的价格 3. 住宿安排：酒店房间每间房2成人起订，最多只可入住3位客人，仅限最多3位成人或是2大1小入住。 4. 此套餐为几个一日游的组合，每天的团友和导游可能会不一样，行程仅供参考，供应商也可能会根据实际情况调整景点的先后游览顺序，请以行程前一天的短信通知为准。 5. 乘航班抵达并当天参团的游客，需在机场大厅等候导游。导游通常先从市区酒店接客人，续往机场接当天到达的游客;最后一天行程结束后将由导游送往机场，导游不根据航班时间单独送机。 6. 学生假期，圣诞节,新年期间12月24-1月7日号有可能会产生对应附加费，请咨询客服。 7. 下单前请务必提前询位，预订结果以最终确认为准，建议行程预定成功之后再预定机票。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -9888,13 +10030,14 @@ window.TOURS = [
   "price": "A$658",
   "priceEn": "A$658",
   "days": 3,
+  "startCity": "塔斯马尼亚",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： 塔州3日4日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5 -10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚。\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5 -10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "introEn": "下载flyer： 塔州3日4日游.pdf 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5 -10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。 价格适用期:2026年4月1日-2026年9月30日;10月1日-2027年3月31日4-4.5星酒店均有附加费每人每晚$20； 单人入住在付单房差的基础上另外需付旺季附加费$40/晚。\n\n行程攻略：\n温馨提示 萨拉曼卡广场 ( 集市 ) 萨拉曼卡集市只有每周六开放，但无法保证市区游 - 定安排在周六 ; 请在预定此行程时注意。 惠灵顿山 处于安全考虑，霍巴特政府会在冬季山上有雨雪时不定时封山，因此会影响游客的正常出行。由于封山引起的惠灵顿山观光行程取消，无退款或赔偿当值导游会根据当天情况安排其他景点。 亚瑟港历史遗址门票 多日游中此门票为自理。如果欲购买学生票，需出示学生证，且证件上显示有效期 ; 否则景点有权利按成人购票标准收费。 参考酒店： 霍巴特 4.5 星： Crowne Plaza Hobart/Wrest Point Hobart 或同级 4 星： Hobart City Apartment / Wrest Point Hobart (4 星房） /Best Western Hobart / Ibis Hobart 或同级 有关追光行程的说明： 塔斯马尼亚是澳洲拍摄南极光的最佳目的地之一，全年都有机会拍到极光。每年5 -10 月是南极光大爆发的季节慕名而来塔州的“追光者”络绎不绝。 追光团收费如下： $50/ 人 / 次；参加极光团的条件如下： 1） 当日极光指数须达到 5 以上（此极光指数才有可能拍到极光），且天气晴朗、无云层的情况下，才组织追光行程；如果不具备以上条件，我司有权利决定是否安排追光行程； 2） 由于各种原因参加了追光团但没有看到（或拍到）极光的，无退费； 3） 极光发生时间在 7pm-9:30pm 间会组织追光团；晚于这个时间段我司不再组织追光团； 4） 当天参加追光团的人数至少为 4 人； 5） 参加追光行程的客人，需在固定地点等车参团；结束后导游送回市区酒店。 6） 追光地点由我司及当值导游安排。",
   "participationNotice": "1. 航班安排：建议抵达航班最好订在上午0900前抵达霍巴特；离开航班订在晚上1930以后离开霍巴特 2 年纪说明：【儿童价格】适用于不满12岁儿童，【儿童无床】价格为不满12岁儿童与两大人同住不占床位且不含早餐的价格 3. 住宿安排：酒店房间每间房2成人起订，最多只可入住3位客人，仅限最多3位成人或是2大1小入住。 4. 此套餐为几个一日游的组合，每天的团友和导游可能会不一样，行程仅供参考，供应商也可能会根据实际情况调整景点的先后游览顺序，请以行程前一天的短信通知为准。 5. 乘航班抵达并当天参团的游客，需在机场大厅等候导游。导游通常先从市区酒店接客人，续往机场接当天到达的游客;最后一天行程结束后将由导游送往机场，导游不根据航班时间单独送机。 6. 学生假期，圣诞节,新年期间12月24-1月7日号有可能会产生对应附加费，请咨询客服。 7. 下单前请务必提前询位，预订结果以最终确认为准，建议行程预定成功之后再预定机票。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -9967,13 +10110,14 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 1,
+  "startCity": "猎人谷",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： SYDHUN 精品小团 -猎人谷品酒豪华之旅一日游.pdf 上车地点 08:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 9:00 AM: 车是活[Chatswood RSL Club]",
   "introEn": "下载flyer： SYDHUN 精品小团 -猎人谷品酒豪华之旅一日游.pdf 上车地点 08:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 9:00 AM: 车是活[Chatswood RSL Club]",
   "participationNotice": "成团人数：本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 大小同价,婴儿0-3岁，包含3岁 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 上车地点： 08:30AM: 悉尼市区 Furama酒店 68 Harbour Street, Haymarket 09:00AM: 车士活[Chatswood RSL Club] 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前3天以上免费退改； 2. 3天内(含第3天) 收取100%手续费； 3. 因旅客身体不适或其他私人原因更改或取消参团，按照退改政策执行。",
@@ -10046,13 +10190,14 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： SYDBMS 悉尼蓝山日落+观星精品小团.pdf 逃离城市喧嚣，和山、光、星辰来一场静谧的邂逅—— 鲁拉小镇，复古街道与手工巧克力香扑面而来 蓝山之巅，夕阳将山峦染成金色画卷 夜晚仰望银河与南十字星，安静到听见心跳 贴心安排暖手宝 、 晚餐 及舒适交通，让您尽享美景无忧，是亲友结伴、情侣出行的不二之选！ 上车地点 13:30 Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000\n\n行程攻略：\n温馨提示 建议穿舒适步行鞋，携带外套（蓝山傍晚气温较低） 小镇及观景台为轻度步行，适合所有年龄层 程顺序可能因天气、交通等原因略有调整，以确保最佳体验。",
   "introEn": "下载flyer： SYDBMS 悉尼蓝山日落+观星精品小团.pdf 逃离城市喧嚣，和山、光、星辰来一场静谧的邂逅—— 鲁拉小镇，复古街道与手工巧克力香扑面而来 蓝山之巅，夕阳将山峦染成金色画卷 夜晚仰望银河与南十字星，安静到听见心跳 贴心安排暖手宝 、 晚餐 及舒适交通，让您尽享美景无忧，是亲友结伴、情侣出行的不二之选！ 上车地点 13:30 Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000\n\n行程攻略：\n温馨提示 建议穿舒适步行鞋，携带外套（蓝山傍晚气温较低） 小镇及观景台为轻度步行，适合所有年龄层 程顺序可能因天气、交通等原因略有调整，以确保最佳体验。",
   "participationNotice": "成团人数:4人成团，固定日期出发，如人数不足将提前通知支持全额退款或改期 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因.素造成的行程改变、延迟或取消，我社保留最终解释权。 建议自行购买旅游保险;如因旅客迟到而错过行程，费用概不返还。如需另行安排车辆，所产生的费用由旅客承担。 出发和结束时间将根据季节略作调整： 夏季(10月-3月)出发时间约14:30，返回时间约22:30 冬季(4月-9月)出发时间约13:30，返回时间约21:30 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1.出发前3天及以上可免费退改 2.出发前3天内(含第3天)收取100%团费; 3.如因旅客自身原因（如个人行程变动、身体不适等）取消或未能如期出发，按照退改政策执行。",
@@ -10130,13 +10275,14 @@ window.TOURS = [
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： SYDBMTS 蓝山有氧+动物园11人精品小团一日游 .pdf 上车地点 08:00-08:30AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 悉尼市区酒店邮编2000",
   "introEn": "下载flyer： SYDBMTS 蓝山有氧+动物园11人精品小团一日游 .pdf 上车地点 08:00-08:30AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 悉尼市区酒店邮编2000",
   "participationNotice": "1. 成团人数：四人成团， 2. 大小同价，婴儿0-2岁 3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5.如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前3天以上免费退改； 2. 3天内（含第3天) 收取100%团费； 3. 旅客因身体不适或其他个人原因更改或取消参团，按照退改政策执行。",
@@ -10209,13 +10355,14 @@ window.TOURS = [
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer： SYDJVS 蓝色海洋路&amp;杰维斯湾一日游.pdf 上车地点 07:30AM: 悉尼市区 Furama酒店 68 Harbour Street, Haymarket 08:00 华英小厨门口 Hurstville 186 forest Rd",
   "introEn": "下载flyer： SYDJVS 蓝色海洋路&amp;杰维斯湾一日游.pdf 上车地点 07:30AM: 悉尼市区 Furama酒店 68 Harbour Street, Haymarket 08:00 华英小厨门口 Hurstville 186 forest Rd",
   "participationNotice": "成团人数：本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 免费升级观鲸游船日期将另行通知。 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 大小同价,婴儿0-3岁，包含3岁 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担 上车地点： 07:30AM: 悉尼市区 Furama酒店 68 Harbour Street, Haymarket 08:00 华英小厨门口 Hurstville 186 forest Rd 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前3天以上免费退改； 2. 3天内(含第3天) 收取100%手续费； 3. 因旅客身体不适或其他私人原因更改或取消参团，按照退改政策执行。",
@@ -10288,13 +10435,14 @@ window.TOURS = [
   "price": "A$159",
   "priceEn": "A$159",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载Flyer : 复古铁路蓝山风光一日游.png 峡谷观景| 回音谷| 卢拉小镇| 复古蒸汽火车| 穿越蓝山，邂逅自然与怀旧的浪漫时光 上车地点 08:30am：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000",
   "introEn": "下载Flyer : 复古铁路蓝山风光一日游.png 峡谷观景| 回音谷| 卢拉小镇| 复古蒸汽火车| 穿越蓝山，邂逅自然与怀旧的浪漫时光 上车地点 08:30am：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000",
   "participationNotice": "1. 成团人数：四人成团， 2. 儿童年龄3-16岁，婴儿0-2岁 3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社会协助调整或安排其他代替，损失及额外费用需乘客自行承担。 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前3天及以上可免费退改 出发前3天内（含第3天）收取100%费用",
@@ -10376,13 +10524,14 @@ window.TOURS = [
   "price": "A$149",
   "priceEn": "A$149",
   "days": 1,
+  "startCity": "堪培拉",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "堪培拉 上车地点 07:00AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 07:30AM：Hurstville 华英小厨，184 Forest Rd, Hurstville NSW 2220\n\n行程攻略：\n上车点： 07:00AM， 假日酒店 68 Harbour Street, Haymarket, Sydney NSW 2000 （集合点位于市区CBD） 另外接车地点：7:30AM Hurstville华英小厨（出团前一天晚上导游联系确定信息） 温馨提示 ： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外",
   "introEn": "堪培拉 上车地点 07:00AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 07:30AM：Hurstville 华英小厨，184 Forest Rd, Hurstville NSW 2220\n\n行程攻略：\n上车点： 07:00AM， 假日酒店 68 Harbour Street, Haymarket, Sydney NSW 2000 （集合点位于市区CBD） 另外接车地点：7:30AM Hurstville华英小厨（出团前一天晚上导游联系确定信息） 温馨提示 ： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外",
   "participationNotice": "1. 成团人数：本团需6人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 2. 大小同价 3. 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 可上车地点： 07:00AM：Furama Darling Harbour (68 Harbour Street, Haymarket, Sydney NSW 2000) 07:30AM：华英小厨门口 (Hurstville 186 Forest Rd) 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前3天以上免费退改； 2. 3天内(含第3天) 收取100%手续费； 3. 因旅客身体不适或其他私人原因更改或取消参团，按照退改政策执行。",
@@ -10458,13 +10607,14 @@ window.TOURS = [
   "price": "A$149",
   "priceEn": "A$149",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "周六特价: $149每人\r\n\r\n平日：$159每人\r\n\r\n天天出发\n\n行程攻略：\n高风险项目警示 为了您的安全，在参加具有一定危险性的室内或户外活动时（如游泳、漂流、潜水、滑雪、溜冰、戏雪、跳伞等），请务必充分了解当日天气情况、个人身体状况及相关专业机构的公告与建议后量力而行。参加此类活动前，请仔细阅读《高风险项目警示》。 参加活动时，请严格遵守景区或项目工作人员的指示，充分了解项目风险，并按照要求做好安全防护，切勿在活动过程中做出危险行为。 在等待、排队、就座等过程中请遵循安排，有序进行，预留足够安全空间，避免因拥挤或推搡造成挤压、拉伤、跌伤、落水、坠落等意外事故。部分高风险项目对身体状况有较高要求，请勿隐瞒病史，避免盲目参与。 参加活动时请勿单独行动，如因个人临时情况需更改行程，务必提前征得工作人员同意。",
   "introEn": "周六特价: $149每人\r\n\r\n平日：$159每人\r\n\r\n天天出发\n\n行程攻略：\n高风险项目警示 为了您的安全，在参加具有一定危险性的室内或户外活动时（如游泳、漂流、潜水、滑雪、溜冰、戏雪、跳伞等），请务必充分了解当日天气情况、个人身体状况及相关专业机构的公告与建议后量力而行。参加此类活动前，请仔细阅读《高风险项目警示》。 参加活动时，请严格遵守景区或项目工作人员的指示，充分了解项目风险，并按照要求做好安全防护，切勿在活动过程中做出危险行为。 在等待、排队、就座等过程中请遵循安排，有序进行，预留足够安全空间，避免因拥挤或推搡造成挤压、拉伤、跌伤、落水、坠落等意外事故。部分高风险项目对身体状况有较高要求，请勿隐瞒病史，避免盲目参与。 参加活动时请勿单独行动，如因个人临时情况需更改行程，务必提前征得工作人员同意。",
   "participationNotice": "退改政策\r\n1. 出发前3天以上：免费退改。\r\n2. 出发前3天内（含第3天）：收取100%团费。\r\n3. 因旅客身体不适或其他个人原因更改或取消参团，均按照以上退改政策执行。",
@@ -10550,13 +10700,14 @@ window.TOURS = [
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载flyer ： 悉尼市区一日游.png 行程特色： 网红鼻祖冰山泳池，美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点，行程丰富，时间轻松充足，自由省心！ 出发日期：四人成团，天天出发 上车地点 1000am: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 团前接机（请在备注中填写具体航班信息） 团后送机（请在备注中填写具体航班信息）\n\n行程攻略：\n上车地址 ：10:00AM， Furama酒店 (原 假日 酒店） 68 Harbour Street, Haymarket, Sydney NSW 2000（集合点位于市区CBD） 温馨提示： 自行前往电子票显示的上车地点等候上车，请提前20分钟到达集合点。 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 没有选着含餐套餐的游客, 请提前做好准备。",
   "introEn": "下载flyer ： 悉尼市区一日游.png 行程特色： 网红鼻祖冰山泳池，美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区 解锁最经典和最热门网红景点，行程丰富，时间轻松充足，自由省心！ 出发日期：四人成团，天天出发 上车地点 1000am: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 团前接机（请在备注中填写具体航班信息） 团后送机（请在备注中填写具体航班信息）\n\n行程攻略：\n上车地址 ：10:00AM， Furama酒店 (原 假日 酒店） 68 Harbour Street, Haymarket, Sydney NSW 2000（集合点位于市区CBD） 温馨提示： 自行前往电子票显示的上车地点等候上车，请提前20分钟到达集合点。 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 没有选着含餐套餐的游客, 请提前做好准备。",
   "participationNotice": "1. 成团人数：本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 2. 如遇自然灾害、交通管制等客观因素，导致行程取消，我社将退还全部团款；若在行程中造成行程全部或部分无法完成，我社会根据实际情况协调处理； 3. 本团大小同价（4岁以下儿童不提供船位及餐饮） 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前3天以上免费退改； 2. 3天内（含第3天) 收取100%团费； 3. 旅客因身体不适或其他个人原因更改或取消参团，按照退改政策执行。",
@@ -10629,13 +10780,14 @@ window.TOURS = [
   "price": "A$229",
   "priceEn": "A$229",
   "days": 1,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "蒸汽小火車+企鵝島一日遊 從墨爾本出發 ，首先前往丹頓農山脈(Dandenong Ranges)搭乘蒸汽小火車(Puffing Billy Railway)，帕芬比利蒸汽小火車是澳洲最古老的蒸汽火車之一，在此乘坐小火車，穿梭在翠綠的丹頓農山脈之中。 乘車前往MARU野生動物園（自費：成人$33/兒童$18），觀看袋鼠，考拉， 鴯鶓等澳洲獨有的動物。還可以親自餵食袋鼠，鸚鵡，近觀考拉的生活作息，還可以看到頻臨絕種的塔斯馬尼亞魔鬼。 (此自費行程，如因火車廷誤趕不上，沒有費用產生，也沒有退費。) “諾比司角中心俯瞰壯觀的巴斯海峽，有機會可以邂逅野生海豹。 (此贈送活動依當天行程狀況而定，若時間上安排無法參觀，此贈送活動沒有費用產生，也沒有退費。) 最後到企鵝島上觀看企鵝歸巢。 企鵝島自然生態保護區 Penguin Parade 是目前世界上最大的野生企鵝保護基地，有超過3萬隻的企鵝棲息在菲利普島，擁有全世界體型最嬌小的神仙企鵝，身高約30到40公分、體重才1公斤左右，在太陽下山後從海裡游回岸邊，搖搖擺擺排隊走回巢穴，這個壯麗的大遷移被稱為企鵝大遊行！你會與來自世界各地的旅客在管理人員的引導下，依次坐在沿海搭建的露天開放觀景台，等待企鵝歸巢。 可以選擇升級看台： 企鵝歸巢升级觀賞台 Penguins Plus: 成人$55/兒童$28 企鵝歸巢地下觀景台 Underground Viewing：成人$65/ 兒童$33 此升級項目需 依照景點銷售狀況而定，不保證可升級，敬請見諒 ，司導當天也會指引您到可以觀看清楚小企鵝的地方，謝謝您的諒解 蒸汽小火車＋企鵝島行程｜不可抗力說明 普芬比利蒸汽小火車已有百年以上歷史，如因官方通知之天氣因素、設備維修、山火警告或其他安全因素臨時停運而無法搭乘， 行程將改為『 彩虹小屋＋企鵝島 巴士團 』 ，費用依此行程計算。 如選擇不參加或更改出發日期，仍需支付企鵝島門票費用 。此屬不可抗力情況， 無法全額退款，亦不提供其他額外賠償 ，介意者請謹慎預訂。 行程當天時間，可能因天氣或交通狀況有所變動，恕無法以此為由，要求修改訂單、取消訂單或退款，敬請見諒\n\n行程攻略：\n请提前10-15分钟到指点上车地点等待上车，个人原因延误错过接送，需自行承担相应损失。 特别提醒： 1.由于安全因素限制，即日起乘坐普芬比利小火车将不能把脚伸出窗外(恢复日期尚待通知)，给您带来不便，敬请谅解。 2.冬天出行，等待小企鹅海边会比较冷，务必穿上暖和的衣服 3.精品团致力于满足用户需求，如有特殊需求，请联系客服确认 小團接送範圍如下 郵編 3000/3001/3002/3003/3004/3006/Boxhill 3128免費接送，其他地區酌收費用，請與業務洽詢報價",
   "introEn": "蒸汽小火車+企鵝島一日遊 從墨爾本出發 ，首先前往丹頓農山脈(Dandenong Ranges)搭乘蒸汽小火車(Puffing Billy Railway)，帕芬比利蒸汽小火車是澳洲最古老的蒸汽火車之一，在此乘坐小火車，穿梭在翠綠的丹頓農山脈之中。 乘車前往MARU野生動物園（自費：成人$33/兒童$18），觀看袋鼠，考拉， 鴯鶓等澳洲獨有的動物。還可以親自餵食袋鼠，鸚鵡，近觀考拉的生活作息，還可以看到頻臨絕種的塔斯馬尼亞魔鬼。 (此自費行程，如因火車廷誤趕不上，沒有費用產生，也沒有退費。) “諾比司角中心俯瞰壯觀的巴斯海峽，有機會可以邂逅野生海豹。 (此贈送活動依當天行程狀況而定，若時間上安排無法參觀，此贈送活動沒有費用產生，也沒有退費。) 最後到企鵝島上觀看企鵝歸巢。 企鵝島自然生態保護區 Penguin Parade 是目前世界上最大的野生企鵝保護基地，有超過3萬隻的企鵝棲息在菲利普島，擁有全世界體型最嬌小的神仙企鵝，身高約30到40公分、體重才1公斤左右，在太陽下山後從海裡游回岸邊，搖搖擺擺排隊走回巢穴，這個壯麗的大遷移被稱為企鵝大遊行！你會與來自世界各地的旅客在管理人員的引導下，依次坐在沿海搭建的露天開放觀景台，等待企鵝歸巢。 可以選擇升級看台： 企鵝歸巢升级觀賞台 Penguins Plus: 成人$55/兒童$28 企鵝歸巢地下觀景台 Underground Viewing：成人$65/ 兒童$33 此升級項目需 依照景點銷售狀況而定，不保證可升級，敬請見諒 ，司導當天也會指引您到可以觀看清楚小企鵝的地方，謝謝您的諒解 蒸汽小火車＋企鵝島行程｜不可抗力說明 普芬比利蒸汽小火車已有百年以上歷史，如因官方通知之天氣因素、設備維修、山火警告或其他安全因素臨時停運而無法搭乘， 行程將改為『 彩虹小屋＋企鵝島 巴士團 』 ，費用依此行程計算。 如選擇不參加或更改出發日期，仍需支付企鵝島門票費用 。此屬不可抗力情況， 無法全額退款，亦不提供其他額外賠償 ，介意者請謹慎預訂。 行程當天時間，可能因天氣或交通狀況有所變動，恕無法以此為由，要求修改訂單、取消訂單或退款，敬請見諒\n\n行程攻略：\n请提前10-15分钟到指点上车地点等待上车，个人原因延误错过接送，需自行承担相应损失。 特别提醒： 1.由于安全因素限制，即日起乘坐普芬比利小火车将不能把脚伸出窗外(恢复日期尚待通知)，给您带来不便，敬请谅解。 2.冬天出行，等待小企鹅海边会比较冷，务必穿上暖和的衣服 3.精品团致力于满足用户需求，如有特殊需求，请联系客服确认 小團接送範圍如下 郵編 3000/3001/3002/3003/3004/3006/Boxhill 3128免費接送，其他地區酌收費用，請與業務洽詢報價",
   "participationNotice": "・全天行程，保證出發 ・此團最多11人 ・兒童年齡為：4-15 歲，嬰兒年齡為：0-3歲 ・最終出發時間前一天會以\"電話簡訊\"通知，若有更新澳洲電話務必通知。 ・景點門票必須經由司導購買(不得自行預先訂購，因當日自費行程會根據客人數量決定是否前往)，自費項目不保證100%出行。 ・如遇公眾假期導致封路或景點休息，導緻無法順利抵達目的地，旅行社有權力變更或取消行程。 ・如遭遇航空公司取消或延誤航班，導致行程受損，旅行社概不提供賠償或補償。 ・因人數不足(少於出團規定人數)或天氣因素，旅行社有權在啟程前後取消或更改行程，也有權縮短或延長行程。 ・蒸汽小火車為單程火車票(不保證搭乘時間以及路段，勿以此為由要求改期、取消行程) ・行程內企鵝歸巢奇景為一般觀景台(General viewing)，可選擇 升級觀賞台 Penguins Plus或地下觀景台 Underground Viewing(請諮詢業務人員，此升級項目需依照景點銷售狀況而定，不保證可升級，敬請見諒) ・贈送 “夏令時限定活動” 諾比司角中心俯瞰壯觀的巴斯海峽，有機會可以邂逅野生海豹。 (此贈送活動依當天行程狀況而定，若時間上安排無法參觀，此贈送活動沒有費用產生，也沒有退費。) 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所選日期前 4 天以上取消，收取手續費 40% 所選日期 0～3 天之間取消，無法退款",
@@ -10702,13 +10854,14 @@ window.TOURS = [
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "墨爾本經典必玩，兩大行程一次滿足! 行程亮点 ✅乘坐百年蒸汽小火車穿梭在原始雨林中，身心靈感受丹頓農山脈的美景。 ✅可加購Maru動物園，觀看澳洲更多獨有的動物。 ✅於傍晚時分在企鵝島觀賞世界上最小的神仙企鵝歸巢遊行，欣賞壯觀的動物奇觀。 ・✅諾比司角中心俯瞰壯觀的巴斯海峽，有機會可以邂逅野生海豹。 (**此活動依當天行程狀況而定，若時間上安排無法參觀，此活動沒有費用產生，也沒有退費。**) 普芬比利蒸汽火车是建于20世纪之交的最后一条实验性窄轨铁路。它是澳大利亚历史最悠久的蒸汽火车， 也是世界上保存最好的蒸汽火车铁路之一。 火车行程24公里，途中从贝尔格雷到丹顿农山脉一路经过美丽的森林和长满蕨类溪谷。两 侧开放的车厢是观看壮丽景色的最佳场所。 企鹅归巢神奇、野生、独特的企鹅群！菲利普岛上的企鹅归巢是澳大利亚最受欢迎的野生动物景观之一, 是家庭度假和回归自然的完美选择。 每当黄昏时分, 野生小企鹅们纷纷浮出海面, 摇摇晃晃地走过沙滩, 回到它们在沙丘中的洞穴里。 菲利普岛是世界上最大的小企鹅聚居地之一。 小企鹅是世界上最小的企鹅种类, 也是唯一一种长期居住在澳大利亚的企鹅。 行程 07:30am Box Hill 集合出發 08:00–08:30am 墨爾本市區集合出發 10:00am 搭乘百年蒸汽小火車 15:00pm Maru野生動物園（門票自費：大人 $33 / 小孩 $18） 16:30pm 諾比司角自然風光拍照17:00：觀賞可愛企鵝歸巢奇景 18:30pm 離開企鵝島 20:30pm返回墨爾本市區 21:00pm 返回 Box Hill 蒸汽小火車為單程火車票(不保證搭乘時間以及路段，勿以此為由要求退費、改期、取消行程) 夏令時間後回程時間將順延2小時左右 **此行程內容的集合時間僅作為參考，時間會依照當天小火車時間調整，請知悉** **最終出發時間前一天下午5點後會以&quot;電話簡訊&quot;（中國號碼或海外電話可能收不到短信）及發送&quot;電子郵件&quot;通知，若有更新澳洲電話務必通知。\n\n行程攻略：\n请提前10-15分钟到指点上车地点等待上车，个人原因延误错过接送，需自行承担相应损失。 特别提醒： 1.由于安全因素限制，即日起乘坐普芬比利小火车将不能把脚伸出窗外(恢复日期尚待通知)，给您带来不便，敬请谅解。 2.冬天出行，等待小企鹅海边会比较冷，务必穿上暖和的衣服 3.精品团致力于满足用户需求，如有特殊需求，请联系客服确认 企鹅归巢看台选择攻略： 看台分布图： 1) 普通看台(最多容纳3500人) 看台位于沙滩上，是占地最大，位置最多的看台。可以早早来到沙滩看到大海和沙滩，黄昏时候看小企鹅登陆返回自己巢穴 2) 优选看台(最多容纳300人) 企鹅归巢优选看台相比普通看台更加靠近企鹅归巢的主要通道，是观看企鹅归巢的最佳位置 3) 地下观景台(最多容纳70人) 全新推出的地底看台位于优选看台地下，可让您平视企鹅，近距离观赏企鹅归巢，看台内有暖气提供",
   "introEn": "墨爾本經典必玩，兩大行程一次滿足! 行程亮点 ✅乘坐百年蒸汽小火車穿梭在原始雨林中，身心靈感受丹頓農山脈的美景。 ✅可加購Maru動物園，觀看澳洲更多獨有的動物。 ✅於傍晚時分在企鵝島觀賞世界上最小的神仙企鵝歸巢遊行，欣賞壯觀的動物奇觀。 ・✅諾比司角中心俯瞰壯觀的巴斯海峽，有機會可以邂逅野生海豹。 (**此活動依當天行程狀況而定，若時間上安排無法參觀，此活動沒有費用產生，也沒有退費。**) 普芬比利蒸汽火车是建于20世纪之交的最后一条实验性窄轨铁路。它是澳大利亚历史最悠久的蒸汽火车， 也是世界上保存最好的蒸汽火车铁路之一。 火车行程24公里，途中从贝尔格雷到丹顿农山脉一路经过美丽的森林和长满蕨类溪谷。两 侧开放的车厢是观看壮丽景色的最佳场所。 企鹅归巢神奇、野生、独特的企鹅群！菲利普岛上的企鹅归巢是澳大利亚最受欢迎的野生动物景观之一, 是家庭度假和回归自然的完美选择。 每当黄昏时分, 野生小企鹅们纷纷浮出海面, 摇摇晃晃地走过沙滩, 回到它们在沙丘中的洞穴里。 菲利普岛是世界上最大的小企鹅聚居地之一。 小企鹅是世界上最小的企鹅种类, 也是唯一一种长期居住在澳大利亚的企鹅。 行程 07:30am Box Hill 集合出發 08:00–08:30am 墨爾本市區集合出發 10:00am 搭乘百年蒸汽小火車 15:00pm Maru野生動物園（門票自費：大人 $33 / 小孩 $18） 16:30pm 諾比司角自然風光拍照17:00：觀賞可愛企鵝歸巢奇景 18:30pm 離開企鵝島 20:30pm返回墨爾本市區 21:00pm 返回 Box Hill 蒸汽小火車為單程火車票(不保證搭乘時間以及路段，勿以此為由要求退費、改期、取消行程) 夏令時間後回程時間將順延2小時左右 **此行程內容的集合時間僅作為參考，時間會依照當天小火車時間調整，請知悉** **最終出發時間前一天下午5點後會以&quot;電話簡訊&quot;（中國號碼或海外電話可能收不到短信）及發送&quot;電子郵件&quot;通知，若有更新澳洲電話務必通知。\n\n行程攻略：\n请提前10-15分钟到指点上车地点等待上车，个人原因延误错过接送，需自行承担相应损失。 特别提醒： 1.由于安全因素限制，即日起乘坐普芬比利小火车将不能把脚伸出窗外(恢复日期尚待通知)，给您带来不便，敬请谅解。 2.冬天出行，等待小企鹅海边会比较冷，务必穿上暖和的衣服 3.精品团致力于满足用户需求，如有特殊需求，请联系客服确认 企鹅归巢看台选择攻略： 看台分布图： 1) 普通看台(最多容纳3500人) 看台位于沙滩上，是占地最大，位置最多的看台。可以早早来到沙滩看到大海和沙滩，黄昏时候看小企鹅登陆返回自己巢穴 2) 优选看台(最多容纳300人) 企鹅归巢优选看台相比普通看台更加靠近企鹅归巢的主要通道，是观看企鹅归巢的最佳位置 3) 地下观景台(最多容纳70人) 全新推出的地底看台位于优选看台地下，可让您平视企鹅，近距离观赏企鹅归巢，看台内有暖气提供",
   "participationNotice": "・全天行程，2人成團，保證出發 ・此團最多28人 ・兒童年齡為：4-15 歲，嬰兒年齡為：0-3歲 ・最終出發時間前一天會以\"電話簡訊\"通知，若有更新澳洲電話務必通知。 ・景點門票必須經由司導購買(不得自行預先訂購，因當日自費行程會根據客人數量決定是否前往)，自費項目不保證100%出行。 ・如遇公眾假期導致封路或景點休息，導緻無法順利抵達目的地，旅行社有權力變更或取消行程。 ・如遭遇航空公司取消或延誤航班，導致行程受損，旅行社概不提供賠償或補償。 ・因人數不足(少於出團規定人數)或天氣因素，旅行社有權在啟程前後取消或更改行程，也有權縮短或延長行程。 ・蒸汽小火車為單程火車票(不保證搭乘時間以及路段，勿以此為由要求改期、取消行程) ・行程內企鵝歸巢奇景為一般觀景台(General viewing)，可選擇 升級觀賞台 Penguins Plus或地下觀景台 Underground Viewing(請諮詢業務人員，此升級項目需依照景點銷售狀況而定，不保證可升級，敬請見諒) ・贈送 “夏令時限定活動” 諾比司角中心俯瞰壯觀的巴斯海峽，有機會可以邂逅野生海豹。 (此贈送活動依當天行程狀況而定，若時間上安排無法參觀，此贈送活動沒有費用產生，也沒有退費。) 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所選日期前 4 天以上取消，收取手續費 40% 所選日期 0～3 天之間取消，無法退款",
@@ -10775,13 +10928,14 @@ window.TOURS = [
   "price": "A$169",
   "priceEn": "A$169",
   "days": 1,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程特色 ✅模宁顿半岛彩虹小屋网红打卡必经景点 千万不可错过 ✅模宁顿半岛一日游全程由中文司机兼导游解说导览，沟通交流零障碍。 ✅模宁顿半岛曾被国际知名的《国家地理杂志》选中成为2015年世界旅游20大的必游胜地之一。 ✅亚瑟王座缆车-辽阔的视野，欣赏整个模宁顿半岛和菲利普港。 ✅Pt. Leo Estate酒庄- 融合了艺术、建筑、美食和美酒，在此享用午餐(自费) ✅模宁顿半岛巧克力工厂180多种不同的巧克力口味。 ✅享受索伦托和皇后崖之间的轻松渡轮时光。 ✅吉朗的独有风景- 彩绘木偶 Geelong Bay Walk Bollards。 加入我们的精彩之旅，从Box Hill出发，前往色彩斑斓的(Bathing Boxes Mornington Peninsula)彩虹小屋，随后乘坐亚瑟王座山顶缆车欣赏令人心旷神怡的景色。 造访Pt. Leo酒庄品尝顶级葡萄酒(品酒自费)，享受摩宁顿半岛巧克力工厂的甜蜜诱惑。 旅程最让人期待的就是从索伦托到皇后崖的渡轮之旅，最后造访吉朗码头着名的彩绘木偶。 每个地点提供独特的美景、文化和放松体验，此行程非常适合那些寻求美丽、文化体验和放松的旅客。 最终出发时间前一天下午5点后会以&quot;电话简讯&quot;（中国号码或海外电话可能收不到短信）及发送&quot;电子邮件&quot;通知，若有更新澳洲电话务必通知。",
   "introEn": "行程特色 ✅模宁顿半岛彩虹小屋网红打卡必经景点 千万不可错过 ✅模宁顿半岛一日游全程由中文司机兼导游解说导览，沟通交流零障碍。 ✅模宁顿半岛曾被国际知名的《国家地理杂志》选中成为2015年世界旅游20大的必游胜地之一。 ✅亚瑟王座缆车-辽阔的视野，欣赏整个模宁顿半岛和菲利普港。 ✅Pt. Leo Estate酒庄- 融合了艺术、建筑、美食和美酒，在此享用午餐(自费) ✅模宁顿半岛巧克力工厂180多种不同的巧克力口味。 ✅享受索伦托和皇后崖之间的轻松渡轮时光。 ✅吉朗的独有风景- 彩绘木偶 Geelong Bay Walk Bollards。 加入我们的精彩之旅，从Box Hill出发，前往色彩斑斓的(Bathing Boxes Mornington Peninsula)彩虹小屋，随后乘坐亚瑟王座山顶缆车欣赏令人心旷神怡的景色。 造访Pt. Leo酒庄品尝顶级葡萄酒(品酒自费)，享受摩宁顿半岛巧克力工厂的甜蜜诱惑。 旅程最让人期待的就是从索伦托到皇后崖的渡轮之旅，最后造访吉朗码头着名的彩绘木偶。 每个地点提供独特的美景、文化和放松体验，此行程非常适合那些寻求美丽、文化体验和放松的旅客。 最终出发时间前一天下午5点后会以&quot;电话简讯&quot;（中国号码或海外电话可能收不到短信）及发送&quot;电子邮件&quot;通知，若有更新澳洲电话务必通知。",
   "participationNotice": "1. 全天行程，6人成團，保證出發, 自費項目不保證100%出行。 2. 此團最多22人 3. 兒童年齡為：4-15 歲，嬰兒年齡為：0-3 歲(包含3 歲)，下單時務必請依照實際年齡購買商品，若未遵循規定，經查證需當場加收費用，敬請知悉。 4. 具體出發時間以前一天簡訊通知內容為準，如有澳洲當地電話請及時更新。 4. 此商品行程費用不含餐食，司導會帶旅客至可用餐區域(自理自費)，若您為特殊餐食需求者，例如素食等，由於當地餐廳不一定能符合需求，敬請自備。 5. 旅遊車上絕對禁止任何食物或飲料(瓶裝水除外)，任何熱食禁止攜帶上車，如有不便之處,敬請原諒。如因私人原因嚴重影響車內清潔，需支付清潔費用AUD200。 6. 溫馨提示： - 秋冬海岸邊天冷風大，請攜帶保暖衣物；夏季日曬較強，請自備防曬相關用品、衣物。路途遙遠，請自備暈車藥及水。 - 強烈建議各位旅客購買個人旅遊保險。如在行程中由於旅遊車誤時，機械故障，航班延誤/取消, 天氣因素或第三者所造成的任何傷亡性意外事件，而導致行程更改，延長，縮短，取消或導緻任何損失，傷亡，旅行社概不負責及不會作出任何賠償。 - 旅行社將保留修改行程的權利，有權取消或替換任何一個項目，也有權更改縮短或延長旅程。 - 如遇公眾假期導致封路或景點休息，導緻無法順利抵達目的地，旅行社有權力變更或取消行程。 - 如遭遇航空公司取消或延誤航班，導致行程受損，旅行社概不提供賠償或補償。 - 因人數不足(少於出團規定人數)或天氣因素，旅行社有權在啟程前後取消或更改行程，也有權縮短或延長行程。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所选日期前 4 天以上取消，收取手续费 40% 所选日期 0～3 天之间取消，无法退款",
@@ -10848,13 +11002,14 @@ window.TOURS = [
   "price": "A$119",
   "priceEn": "A$119",
   "days": 1,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "企鵝島每年限額 50 萬名遊客入場， 你能親眼目睹可愛的企鵝自海中游回岸邊返家！ 行程特色 ✅菲利普島一日遊全程由中文司機兼導遊解說導覽，溝通交流零障礙。 ✅彩虹小屋（Brighton Beach Bathing Boxes），以各種繽紛顏色的可愛彩虹小屋為特色，也是FB、IG上大家熱愛打卡的觀光海灘！ ✅Maru動物園（自費），園區內有許多澳洲特有種，還有機會遇到餵食秀。 ✅夕陽西下之時，欣賞壯觀的藍色小企鵝歸巢遊行，看著企鵝們成群從海上陸續歸巢，它們排列在一起搖搖擺擺地走，非常有趣。 搭乘專車巴士從墨爾本/boxhill出發，先前往Brighton彩虹小屋，與色彩繽紛的沙灘小屋們打卡合影， 隨後前往菲利普島，到諾比斯角漫步觀浪。傍晚時分觀賞知名的企鵝歸巢奇觀， 企鵝島每年限額 50 萬名遊客入場，你能親眼目睹可愛的企鵝自海中游回岸邊再搖搖擺擺的走路回家的可愛模樣！ ・行程長度： 約 8-9小時 ・集合時間： 12:30-13:00 之間 ・集合地點： 墨爾本唐人街同仁堂前 / No.108 Little Bourke Street or BoxHill / 906 Whitehorse Road ・回程資訊： 春夏（ 10-3 月）：約 09:00 - 11:00 pm 回程 秋冬（ 4-9 月）：約 07:00 - 09:00 pm 回程 ・使用車型： 依人數派車 **集合時間依季節調整，當地旅行社最晚將於出發日前一晚 19:00 告知實際集合時間，請依最新資訊為準 *＊回程時間約為當天日落、企鵝回巢時間往後推 2 小時，實際出發與抵達時間皆依當天太陽下山時間以及交通狀況而定。\n\n行程攻略：\n行程表 BoxHill / 906 Whitehourse Road 接駁 市區接駁，隨後前往企鵝島 彩虹小屋（Brighton Beach Bathing Boxes） MARU 動物園 (自費 : 成人AUD30/兒童AUD16，觀看澳洲獨有的動物 抵達Cowes吃晚餐 (自費) 途經諾比斯角（The Nobbies） 抵達企鵝島觀賞企鵝 離開企鵝島 抵達市區 返回到BoxHill",
   "introEn": "企鵝島每年限額 50 萬名遊客入場， 你能親眼目睹可愛的企鵝自海中游回岸邊返家！ 行程特色 ✅菲利普島一日遊全程由中文司機兼導遊解說導覽，溝通交流零障礙。 ✅彩虹小屋（Brighton Beach Bathing Boxes），以各種繽紛顏色的可愛彩虹小屋為特色，也是FB、IG上大家熱愛打卡的觀光海灘！ ✅Maru動物園（自費），園區內有許多澳洲特有種，還有機會遇到餵食秀。 ✅夕陽西下之時，欣賞壯觀的藍色小企鵝歸巢遊行，看著企鵝們成群從海上陸續歸巢，它們排列在一起搖搖擺擺地走，非常有趣。 搭乘專車巴士從墨爾本/boxhill出發，先前往Brighton彩虹小屋，與色彩繽紛的沙灘小屋們打卡合影， 隨後前往菲利普島，到諾比斯角漫步觀浪。傍晚時分觀賞知名的企鵝歸巢奇觀， 企鵝島每年限額 50 萬名遊客入場，你能親眼目睹可愛的企鵝自海中游回岸邊再搖搖擺擺的走路回家的可愛模樣！ ・行程長度： 約 8-9小時 ・集合時間： 12:30-13:00 之間 ・集合地點： 墨爾本唐人街同仁堂前 / No.108 Little Bourke Street or BoxHill / 906 Whitehorse Road ・回程資訊： 春夏（ 10-3 月）：約 09:00 - 11:00 pm 回程 秋冬（ 4-9 月）：約 07:00 - 09:00 pm 回程 ・使用車型： 依人數派車 **集合時間依季節調整，當地旅行社最晚將於出發日前一晚 19:00 告知實際集合時間，請依最新資訊為準 *＊回程時間約為當天日落、企鵝回巢時間往後推 2 小時，實際出發與抵達時間皆依當天太陽下山時間以及交通狀況而定。\n\n行程攻略：\n行程表 BoxHill / 906 Whitehourse Road 接駁 市區接駁，隨後前往企鵝島 彩虹小屋（Brighton Beach Bathing Boxes） MARU 動物園 (自費 : 成人AUD30/兒童AUD16，觀看澳洲獨有的動物 抵達Cowes吃晚餐 (自費) 途經諾比斯角（The Nobbies） 抵達企鵝島觀賞企鵝 離開企鵝島 抵達市區 返回到BoxHill",
   "participationNotice": "・全天行程，6人成團，保證出發 ・此團最多28人 ・兒童年齡為：4-15 歲，嬰兒年齡為：0-3 歲(包含3 歲) ・最終出發時間前一天會以\"電話簡訊\"通知，若有更新澳洲電話務必通知。 ・景點門票必須經由司導購買(不得自行預先訂購，因當日自費行程會根據客人數量決定是否前往)，自費項目不保證100%出行。 ・如遇公眾假期導致封路或景點休息，導緻無法順利抵達目的地，旅行社有權力變更或取消行程。 ・如遭遇航空公司取消或延誤航班，導致行程受損，旅行社概不提供賠償或補償。 ・因人數不足(少於出團規定人數)或天氣因素，旅行社有權在啟程前後取消或更改行程，也有權縮短或延長行程。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所選日期前 4 天以上取消，全額退款 所選日期前 2～3 天之間取消，收取手續費 50% 所選日期 0～1 天之間取消，無法退款",
@@ -10921,13 +11076,14 @@ window.TOURS = [
   "price": "A$79",
   "priceEn": "A$79",
   "days": 1,
+  "startCity": "墨尔本",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程特色 ✅欣賞澳洲最壯麗的海岸美景，感受大自然的鬼斧神工. ✅幸運的話，在路上可遇見野生鸚鵡或無尾熊，帶給你意想不到的驚喜 ✅可自費乘坐十二門徒直升機，將整個沈船海岸景色一覽無遺 ✅中文司機兼導遊隨行，搭乘專車更省去自駕的風險與不便！ 大洋路一日之旅，沿著澳洲最壯麗的海岸線，收藏此生必去的美景！ 欣賞十二門徒岩、洛克阿德峽谷等許多旅人嚮往的著名景點，沿途看看維多利亞州的可愛小鎮及海濱漁港。 這趟不思議的旅程將從墨爾本市區出發，帶你穿梭於大洋路奇石美景之中，參與大自然最精彩的饗宴。 **最終出發時間前一天下午5點後會以&quot;電話簡訊&quot;（中國號碼或海外電話可能收不到短信）及發送&quot;電子郵件&quot;** － 行程資訊 － 集合時間：8:00–8:30 之間，旅客請務必提前 15 分鐘抵達 集合地點：No.108 Little Bourke Street 行程長度：10-11 小時（依當日交通狀況為準） 回程時間：約 20:00–20:30 之間返抵市中心（實際時間將依當日交通狀況為準，建議旅客之後不要安排其他行程，以避免無法及時返抵市區） 使用車型：依人數派車",
   "introEn": "行程特色 ✅欣賞澳洲最壯麗的海岸美景，感受大自然的鬼斧神工. ✅幸運的話，在路上可遇見野生鸚鵡或無尾熊，帶給你意想不到的驚喜 ✅可自費乘坐十二門徒直升機，將整個沈船海岸景色一覽無遺 ✅中文司機兼導遊隨行，搭乘專車更省去自駕的風險與不便！ 大洋路一日之旅，沿著澳洲最壯麗的海岸線，收藏此生必去的美景！ 欣賞十二門徒岩、洛克阿德峽谷等許多旅人嚮往的著名景點，沿途看看維多利亞州的可愛小鎮及海濱漁港。 這趟不思議的旅程將從墨爾本市區出發，帶你穿梭於大洋路奇石美景之中，參與大自然最精彩的饗宴。 **最終出發時間前一天下午5點後會以&quot;電話簡訊&quot;（中國號碼或海外電話可能收不到短信）及發送&quot;電子郵件&quot;** － 行程資訊 － 集合時間：8:00–8:30 之間，旅客請務必提前 15 分鐘抵達 集合地點：No.108 Little Bourke Street 行程長度：10-11 小時（依當日交通狀況為準） 回程時間：約 20:00–20:30 之間返抵市中心（實際時間將依當日交通狀況為準，建議旅客之後不要安排其他行程，以避免無法及時返抵市區） 使用車型：依人數派車",
   "participationNotice": "・全天行程，2人成團，保證出發 ・嬰兒3歲以下免費 ・最終出發時間前一天會以\"電話簡訊\"通知，若有更新澳洲電話務必通知。 ・景點門票必須經由司導購買(不得自行預先訂購，因當日自費行程會根據客人數量決定是否前往)，自費項目不保證100%出行。 ・如遇公眾假期導致封路或景點休息，導緻無法順利抵達目的地，旅行社有權力變更或取消行程。 ・如遭遇航空公司取消或延誤航班，導致行程受損，旅行社概不提供賠償或補償。 ・因人數不足(少於出團規定人數)或天氣因素，旅行社有權在啟程前後取消或更改行程，也有權縮短或延長行程。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n所選日期前 8 天以上取消，全額退款 所選日期前 4～7 天之間取消，收取手續費 50% 所選日期 0～3 天之間取消，無法退款",
@@ -10994,13 +11150,14 @@ window.TOURS = [
   "price": "A$259",
   "priceEn": "A$259",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "【可伦宾野生动物园】 可伦宾野生动物保护区被黄金海岸公路一分为二，有隧道连接两方。除了传统的观赏区，这里野生动物种类繁多，是和大自然物种亲密接触的好地方，这里还有和考拉拍照的纪念馆。和动物互动在这里，袋鼠以近似野生的状态被放养，可以和它们玩个过瘾！还能观察鳄鱼、鹤鸵、袋貂。也可以加入到给彩虹鹦鹉喂食的活动中去。诸如此类的意外场景不胜枚举，总之这是一个一切以动物优先的好地方。舞蹈表演可以欣赏澳洲土著淳朴热烈的舞蹈表演来为一天的游玩划上欢乐的句点。 【钓鱼抓蟹】 美食与生态兼具的知性之旅到了昆士兰与新南威尔斯接界的翠儿河，来到这里首先看到的是河面上的鹈鹕们自在的游着。接着看到两岸红树林，这里构成的湿地生态更孕育出这里硕大肥美的泥蟹与鲜美的生蚝。所以来到这里船家更安排游客们品尝的活动。想体验钓鱼的游客们，船家还安排游客从沙洲上抓呀比虾，拿呀比虾当钓饵，让游客们享受垂钓乐趣。最后在用捕蟹笼去捕泥蟹，整个行程一定让游客们感到非常充实。除了品尝美食与喝下午茶之外，其他的时间就让自己沉浸在这美丽的河岸风光中吧！\n\n行程攻略：\n温馨提示: 自行前往电子票显示的上车地点等候上车，请提前10分钟到达集合点, 时若无法准时到达导致未能参加行程的后果自负 黄金海岸市区酒店接送（需提前与OP确认）；出发时间08:00 AM – 08:30 AM 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 其他： 带上备用衣物 舒适的步行鞋，帽子 饮用水，部分现金用以购买酒水或纪念品 进行船上活动时，请听从工作人员指导。 所有捕捞工具均有工作人员提供。",
   "introEn": "【可伦宾野生动物园】 可伦宾野生动物保护区被黄金海岸公路一分为二，有隧道连接两方。除了传统的观赏区，这里野生动物种类繁多，是和大自然物种亲密接触的好地方，这里还有和考拉拍照的纪念馆。和动物互动在这里，袋鼠以近似野生的状态被放养，可以和它们玩个过瘾！还能观察鳄鱼、鹤鸵、袋貂。也可以加入到给彩虹鹦鹉喂食的活动中去。诸如此类的意外场景不胜枚举，总之这是一个一切以动物优先的好地方。舞蹈表演可以欣赏澳洲土著淳朴热烈的舞蹈表演来为一天的游玩划上欢乐的句点。 【钓鱼抓蟹】 美食与生态兼具的知性之旅到了昆士兰与新南威尔斯接界的翠儿河，来到这里首先看到的是河面上的鹈鹕们自在的游着。接着看到两岸红树林，这里构成的湿地生态更孕育出这里硕大肥美的泥蟹与鲜美的生蚝。所以来到这里船家更安排游客们品尝的活动。想体验钓鱼的游客们，船家还安排游客从沙洲上抓呀比虾，拿呀比虾当钓饵，让游客们享受垂钓乐趣。最后在用捕蟹笼去捕泥蟹，整个行程一定让游客们感到非常充实。除了品尝美食与喝下午茶之外，其他的时间就让自己沉浸在这美丽的河岸风光中吧！\n\n行程攻略：\n温馨提示: 自行前往电子票显示的上车地点等候上车，请提前10分钟到达集合点, 时若无法准时到达导致未能参加行程的后果自负 黄金海岸市区酒店接送（需提前与OP确认）；出发时间08:00 AM – 08:30 AM 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 其他： 带上备用衣物 舒适的步行鞋，帽子 饮用水，部分现金用以购买酒水或纪念品 进行船上活动时，请听从工作人员指导。 所有捕捞工具均有工作人员提供。",
   "participationNotice": "本产品达到最低成团人数后发团，如因人数不足取消，将提前通知并全额退款 儿童加适用于3-12岁；婴儿0-2岁 景点开放时间，交通状况及天气情况可能影响行程顺序，导游有权在不减少景点的前提下调整游览安排 建议客人自行购买旅游保险，以保障旅游安全 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1.出发前3天以上取消，可免费退改 2.出发前3天内（含第3天）取消，改期或未按时参加收取100%团费",
@@ -11067,13 +11224,14 @@ window.TOURS = [
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
+  "startCity": "黄金海岸",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载Flyer： 拜伦湾1日游 2026.png 拜伦湾是一个以沙滩和灯塔闻名的小镇，位于澳洲新南威尔士州东北角的海湾，镇内的“拜伦角”为澳大利亚大陆的极东处。 水晶堡垒及香巴拉花园 拥有世界上最大的紫水晶洞而闻名。 拜伦角灯塔 (Byron Bay Lighthouse)是拜伦湾必游景点，可360度观赏海岸线美景，还能在塔内寻味本地历史。\n\n行程攻略：\n如果客人在行程结束的当天乘飞机离开黄金海岸，需要预定下午 18:00 之后离开的航班",
   "introEn": "下载Flyer： 拜伦湾1日游 2026.png 拜伦湾是一个以沙滩和灯塔闻名的小镇，位于澳洲新南威尔士州东北角的海湾，镇内的“拜伦角”为澳大利亚大陆的极东处。 水晶堡垒及香巴拉花园 拥有世界上最大的紫水晶洞而闻名。 拜伦角灯塔 (Byron Bay Lighthouse)是拜伦湾必游景点，可360度观赏海岸线美景，还能在塔内寻味本地历史。\n\n行程攻略：\n如果客人在行程结束的当天乘飞机离开黄金海岸，需要预定下午 18:00 之后离开的航班",
   "participationNotice": "1. 四人成团，如果因人数不足取消，将提前通知并全额退款 2. 儿童4-14岁，婴儿0-3岁 3. 所有日游车辆，会根据当日参团人数来安排车辆大小 4. 黄金海岸大部分酒店接送, 请咨询客服 5. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 6. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 7. 特殊情况:因天气、道路封闭、政府管制、自然灾喜或其他不可抗力因素导致行程取消，将安排改期或退还未产生的费用;不承担由此产生的顾外损失及费用。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前7天及以上，免费取消或修改一次； 2. 出发前4-6天，收取团费50%的取消费用； 3. 出发前3天内(含第3天)，收取团费100%的取消费用 4. 出发当天或未按时参加行程，视为自动放弃，费用不予退还 5. 旅客因身体不适或其他个人原因更改或取消参团，按照退改政策执行。",
@@ -11146,13 +11304,14 @@ window.TOURS = [
   "price": "A$179",
   "priceEn": "A$179",
   "days": 1,
+  "startCity": "黄金海岸",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "下载Flyer ： 危险角+水果园一日游.png 热带水果园(Tropical Fruit World)是世界上热带水果种类最多，也是南半球最大的热带水果园区，坐落于风景优美的特威德山谷(Tweed Valley)中，距离黄金海岸机场和海滩仅20分钟车程，占地65公顷，这里有多达500种热带水果，色彩缤纷、清香四溢，为你的视觉和嗅觉带来意想不到的美妙之感。 种植园之旅Plantation Safari:跟随导游一起乘坐观光车tractor train游览有着500多种奇妙水果品种的种植园 新鲜时令水果品尝Fruit Tasting:行程大约30分钟，您将品尝到新鲜时令水果并了解其对身体有益的营养元素。学习新的水果搭配，品尝一些美味的果酱、酱汁以及其他用水果园内水果制作的健康产品 游船巡航Wildlife Boat Cruise:登上园区内的游船，沿途观看澳洲本土野生动物，您还可以喂食水中嬉戏的鸭子或者鹅。游船将会驶过葱葱郁郁的果树和美丽的睡莲。如果您仔细观察还有可能看到笑翠鸟和乌龟 园区农场参观Fauna Park:农场被热带雨林环绕，在这里您将见到水果园可爱的动物们：绵羊，山羊，驴，鸡和马，在丛林保护区内您还可以看到澳洲本土动物袋鼠和鸸鹋等\n\n行程攻略：\n如果客人在行程结束的当天乘飞机离开黄金海岸，需要预定下午 18:30 之后离开的航班",
   "introEn": "下载Flyer ： 危险角+水果园一日游.png 热带水果园(Tropical Fruit World)是世界上热带水果种类最多，也是南半球最大的热带水果园区，坐落于风景优美的特威德山谷(Tweed Valley)中，距离黄金海岸机场和海滩仅20分钟车程，占地65公顷，这里有多达500种热带水果，色彩缤纷、清香四溢，为你的视觉和嗅觉带来意想不到的美妙之感。 种植园之旅Plantation Safari:跟随导游一起乘坐观光车tractor train游览有着500多种奇妙水果品种的种植园 新鲜时令水果品尝Fruit Tasting:行程大约30分钟，您将品尝到新鲜时令水果并了解其对身体有益的营养元素。学习新的水果搭配，品尝一些美味的果酱、酱汁以及其他用水果园内水果制作的健康产品 游船巡航Wildlife Boat Cruise:登上园区内的游船，沿途观看澳洲本土野生动物，您还可以喂食水中嬉戏的鸭子或者鹅。游船将会驶过葱葱郁郁的果树和美丽的睡莲。如果您仔细观察还有可能看到笑翠鸟和乌龟 园区农场参观Fauna Park:农场被热带雨林环绕，在这里您将见到水果园可爱的动物们：绵羊，山羊，驴，鸡和马，在丛林保护区内您还可以看到澳洲本土动物袋鼠和鸸鹋等\n\n行程攻略：\n如果客人在行程结束的当天乘飞机离开黄金海岸，需要预定下午 18:30 之后离开的航班",
   "participationNotice": "本产品达到最低成团人数后发团，如因人数不足取消，将提前通知并全额退款 儿童加适用于4-14岁； 景点开放时间，交通状况及天气情况可能影响行程顺序，导游有权在不减少景点的前提下调整游览安排 建议客人自行购买旅游保险，以保障旅游安全 所有日游车辆，会根据当日参团人数来安排车辆大小调整 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前3天以上取消，可免费更改或取消 出发前3天内（含第3天）取消或未按时参加，收取100%团",
@@ -11219,13 +11378,14 @@ window.TOURS = [
   "price": "A$175",
   "priceEn": "A$175",
   "days": 1,
+  "startCity": "黄金海岸",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "昆士兰州唯一在白天也可以非常近距离观观赏的蓝光萤火虫\n\n行程攻略：\n舒适的鞋子和外套， 为了保护萤火虫，不能穿发光的鞋子 如果要团后送机，请预定18点之后起飞的国内航班",
   "introEn": "昆士兰州唯一在白天也可以非常近距离观观赏的蓝光萤火虫\n\n行程攻略：\n舒适的鞋子和外套， 为了保护萤火虫，不能穿发光的鞋子 如果要团后送机，请预定18点之后起飞的国内航班",
   "participationNotice": "1. 儿童年龄为4-14岁 2. 四人成团，天天出发 3. 请填写标准酒店地址（Surfers Paradise 大部分酒店接送） 4. 所有日游车辆，会根据当日参团人数来安排车辆大小 5. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 6. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 7. 最终解释权归本司所有。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1.出发7天前取消收取$50每人 2.7天内收取100%团费 3.旅客因身体不适或其他个人原因更改或取消参团，按照退改政策执行。",
@@ -11298,13 +11458,14 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 1,
+  "startCity": "布里斯班",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "自 2026 年 6 月 1 日起，Tangalooma Island Resort 将实施临时燃油附加费 自2026年6月1日起，针对2026年6月1日至2027年1月31日期间的旅游行程，新预订及变更后的预订将适用燃油附加费 来回船运（含一日游）：$10澳币/PP 0–2 岁婴儿因其本身即免收船运费，故免收此费用 适用范围： 往返布里斯本Holt Street码头与摩顿岛Tangalooma Island Resort之间的船运 收费方式：：下单时请于自费项目中按人头加购燃油附加费 --------------------------------------------------------------------------------------------------------------------------------- 从布里斯班搭乘平稳的双体渡轮只需75分钟便可抵达海豚岛天阁露玛度假村Tangalooma Island Resort。度假村坐落在布里斯班的门户--美不胜收的摩顿岛Moreton Island上，是一个理想的家庭度假圣地，更是让游客感受纯粹而又不失特色的旅行体验、挑战自我、收获丰富知识、邂逅纯净自然的绝佳选择。 因为倍受保护和珍视，平时不可思议的与野生动物和狂野自然的邂逅在这里也显得极为日常。天阁露玛为游客提供各种精彩的活动，包括全地形四驱摩托车、海洋探索之旅、沙漠越野之旅、沉船遗址浮潜等等。而度假村最具特色的明星体验当属喂食野生瓶鼻海豚！\n\n行程攻略：\n度假村往返时间和信息 去程：从布里斯班码头出发(220 Holt St, Pinkenba) 返程： 从天阁露玛度假村出发 7:30am 9:30am 10:00am 2:30pm 12:30pm 4:00pm 5:30pm 7:00pm* (喂海豚活动结束后出发，出发时间可能会发生变化。) 交通方式 1.自行前往布里斯班Tangalooma Island Resort Ferry Terminal码头：220 Holt St, Pinkenba QLD 4009 2.酒店接送 按确认单显示的时间等候接送，送至布里斯班码头换出票后乘坐10:00am渡轮前往海豚岛（不可选07:00am的船次）不是所有的酒店都可以直接接送，仅限下图酒店，可根据客人的酒店住址安排最近的接送点，具体时间已最终的确认单为准 接驳车辆： 由STA公司承接, 接驳服务无法告知车牌号和司机联系电话，请您看到车辆前出示确认单问一下司机，如果是正确的司机，司机会让您上车 送回服务： 回程下船后请在早上同样的下车点等候接驳 可加购以下酒店接送服务具体地址如下： 黄金海岸酒店接送： The Star Gold Coast- 06:35am wait outside the Hotel Entrance 黄金海岸The Star （星亿）酒店门口 Legends Hotel - 06:45am Legends Hotel side door - wait at loading zone, 3078 Surfers Paradise Blvd 酒店边门 （冲浪者天堂大道3078号的上车区） Mantra On View Hotel - 06:50am Mantra on View Hotel - wait at bus stop outside hotel 酒店门口的公交车站 Marriott Gold Coast -06:55am Marriott Gold Coast - wait outside the Hotel Entrance 黄金海岸万豪酒店门口 布里斯班酒店接送： Cineplex Southbannk - 08:00am - wait at bus stop 167 Grey Street 南岸公园Cineplex 电影院门口的公交车站（Grey 大街167号） The Garden Room - 08:10am - wait in front of the green wall between The Garden Room cafe and the public toilets.The Garden Room 介于咖啡厅与公共厕所之间的绿色墙面前 （Parkland 大道1号） Marriott Brisbane- 08:25am - wait outside the Hotel Entrance at Adelaide Street 布里斯班万豪酒店阿德莱德大街的酒店门口 Royal On The Park- 08:35am - wait at the hotel driveway on Alice Street 布里斯班 Royal On The Park 酒店车道入口（Alice大街 152号 ） 黄金海岸-布里斯班异地接送须知 ： 1. 您可预订黄金海岸市区酒店接，行程结束后送往布里斯班酒店。也可以布里斯班市区酒店接，行程结束后送往黄金海岸酒店。请选择海豚岛一日游(自行前往)+自费项目中对应的接送； 2. 行李限重：每人可带一个小于22kg的行李箱。 请至少提前5分钟等候在指定的候车区，路况拥堵可能会导致大巴10-20分钟的延误， 路况临时更改可能会调整接送点的顺序，我们保留在必要时替换大巴或者车公司的权利 车公司紧急联系电话：61 1300 782 118 喂海豚须知： 1. 喂海豚开始前可能会有中文工作人员讲解喂海豚注意事项，时间10分钟左右，请务必听从讲解； 2. 喂食的海豚均为野生动物，严禁触摸，如因触摸海豚造成的任何后果责任将由客人承担； 3. 野生海豚出没属于自然现象，无法进行人工干预，并不能保证一定可以有海豚出现。 【游玩提醒】 1.参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2.请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3.参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4.乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5.注意活动区域的安全标示、救援设备及救生人员的设置地点。 6.应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7.避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8.乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9.对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "introEn": "自 2026 年 6 月 1 日起，Tangalooma Island Resort 将实施临时燃油附加费 自2026年6月1日起，针对2026年6月1日至2027年1月31日期间的旅游行程，新预订及变更后的预订将适用燃油附加费 来回船运（含一日游）：$10澳币/PP 0–2 岁婴儿因其本身即免收船运费，故免收此费用 适用范围： 往返布里斯本Holt Street码头与摩顿岛Tangalooma Island Resort之间的船运 收费方式：：下单时请于自费项目中按人头加购燃油附加费 --------------------------------------------------------------------------------------------------------------------------------- 从布里斯班搭乘平稳的双体渡轮只需75分钟便可抵达海豚岛天阁露玛度假村Tangalooma Island Resort。度假村坐落在布里斯班的门户--美不胜收的摩顿岛Moreton Island上，是一个理想的家庭度假圣地，更是让游客感受纯粹而又不失特色的旅行体验、挑战自我、收获丰富知识、邂逅纯净自然的绝佳选择。 因为倍受保护和珍视，平时不可思议的与野生动物和狂野自然的邂逅在这里也显得极为日常。天阁露玛为游客提供各种精彩的活动，包括全地形四驱摩托车、海洋探索之旅、沙漠越野之旅、沉船遗址浮潜等等。而度假村最具特色的明星体验当属喂食野生瓶鼻海豚！\n\n行程攻略：\n度假村往返时间和信息 去程：从布里斯班码头出发(220 Holt St, Pinkenba) 返程： 从天阁露玛度假村出发 7:30am 9:30am 10:00am 2:30pm 12:30pm 4:00pm 5:30pm 7:00pm* (喂海豚活动结束后出发，出发时间可能会发生变化。) 交通方式 1.自行前往布里斯班Tangalooma Island Resort Ferry Terminal码头：220 Holt St, Pinkenba QLD 4009 2.酒店接送 按确认单显示的时间等候接送，送至布里斯班码头换出票后乘坐10:00am渡轮前往海豚岛（不可选07:00am的船次）不是所有的酒店都可以直接接送，仅限下图酒店，可根据客人的酒店住址安排最近的接送点，具体时间已最终的确认单为准 接驳车辆： 由STA公司承接, 接驳服务无法告知车牌号和司机联系电话，请您看到车辆前出示确认单问一下司机，如果是正确的司机，司机会让您上车 送回服务： 回程下船后请在早上同样的下车点等候接驳 可加购以下酒店接送服务具体地址如下： 黄金海岸酒店接送： The Star Gold Coast- 06:35am wait outside the Hotel Entrance 黄金海岸The Star （星亿）酒店门口 Legends Hotel - 06:45am Legends Hotel side door - wait at loading zone, 3078 Surfers Paradise Blvd 酒店边门 （冲浪者天堂大道3078号的上车区） Mantra On View Hotel - 06:50am Mantra on View Hotel - wait at bus stop outside hotel 酒店门口的公交车站 Marriott Gold Coast -06:55am Marriott Gold Coast - wait outside the Hotel Entrance 黄金海岸万豪酒店门口 布里斯班酒店接送： Cineplex Southbannk - 08:00am - wait at bus stop 167 Grey Street 南岸公园Cineplex 电影院门口的公交车站（Grey 大街167号） The Garden Room - 08:10am - wait in front of the green wall between The Garden Room cafe and the public toilets.The Garden Room 介于咖啡厅与公共厕所之间的绿色墙面前 （Parkland 大道1号） Marriott Brisbane- 08:25am - wait outside the Hotel Entrance at Adelaide Street 布里斯班万豪酒店阿德莱德大街的酒店门口 Royal On The Park- 08:35am - wait at the hotel driveway on Alice Street 布里斯班 Royal On The Park 酒店车道入口（Alice大街 152号 ） 黄金海岸-布里斯班异地接送须知 ： 1. 您可预订黄金海岸市区酒店接，行程结束后送往布里斯班酒店。也可以布里斯班市区酒店接，行程结束后送往黄金海岸酒店。请选择海豚岛一日游(自行前往)+自费项目中对应的接送； 2. 行李限重：每人可带一个小于22kg的行李箱。 请至少提前5分钟等候在指定的候车区，路况拥堵可能会导致大巴10-20分钟的延误， 路况临时更改可能会调整接送点的顺序，我们保留在必要时替换大巴或者车公司的权利 车公司紧急联系电话：61 1300 782 118 喂海豚须知： 1. 喂海豚开始前可能会有中文工作人员讲解喂海豚注意事项，时间10分钟左右，请务必听从讲解； 2. 喂食的海豚均为野生动物，严禁触摸，如因触摸海豚造成的任何后果责任将由客人承担； 3. 野生海豚出没属于自然现象，无法进行人工干预，并不能保证一定可以有海豚出现。 【游玩提醒】 1.参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2.请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3.参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4.乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5.注意活动区域的安全标示、救援设备及救生人员的设置地点。 6.应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7.避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8.乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9.对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "participationNotice": "**自2026年6月1日起，针对2026年6月1日至2027年1月31日期间的旅游行程，新预订及变更后的预订将适用燃油附加费$10澳币/PP，下单时请于自费项目中按人头加购燃油附加费** 1.咨询报名时请务必提供真实准确的信息，以免造成不能出行，各行程年龄规范如下： 沙漠探险一日游－成人15岁(含)以上，儿童3-14岁，婴儿2岁(含)以下 海洋生态一日游－成人13岁(含)以上，儿童3-12岁，婴儿2岁(含)以下 观鲸游船一日游－成人15岁(含)以上，儿童3-14岁，婴儿2岁(含)以下 四驱摩托车一日游－成人15岁(含)以上，10岁(含)以上儿童可自行驾驶，儿童5-9岁可以与成人共乘。 沉船区浮潜一日游－成人13岁(含)以上，儿童6 -12岁 2.如因天气、交通、政令等不可抗力造成部分行程无法履行，恕不退款（因不可抗力造成未使用的景点门票、餐券等，本公司会代表乘客与供应商协商追偿，以供应商回复为准） 3.建议购买特定旅游保险以规避风险。 4.渡轮往返时间请按以下选择： *选择经典一日游(各行程无升级)－渡轮出发时间可选7:30am或10:00am，回程时间为4:00pm *升级喂海豚一日游－渡轮出发时间可选7:30am或10:00am，回程时间为7:00pm *升级日落鸡尾酒+观海豚一日游－渡轮出发时间可选7:30am或10:00am，回程时间为7:00pm *升级海天日落鸡尾酒+观海豚一日游－渡轮出发时间为7:30am，回程时间为7:00pm *沙滩玩乐一日游延长版 (适用日期2026年4月1日-4月19日、2026年9月19日-10月4日、2026年11月28日-2027年3月31日)－渡轮出发时间可选7:30am或10:00am，回程时间为7:00pm 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前7天以上修改取消每人手续费$10 游玩日期前7天内（含7天），不做任何退改 如您未在约定的时间地点参加 行程，视为主动放弃，恕不能退款",
@@ -11371,13 +11532,14 @@ window.TOURS = [
   "price": "A$720",
   "priceEn": "A$720",
   "days": 1,
+  "startCity": "心形大堡礁一日游_心形大堡礁直升机_心形大堡礁游船",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "体验从 空中到海面再到水下 的大堡礁全方位美景，这个套餐包括 飞去船回＆ 船去飞回 两种方式，让您尽情探索圣灵群岛与大堡礁。 行程亮点 空中观景 ：30 分钟景观飞行，俯瞰 圣灵群岛、Hill Inlet、心形礁及外堡礁 水上体验 ：前往 Reefworld ，停留约 2 小时 美食享受 ：提供热带自助午餐 水下观赏 ：浮潜或从 水下观景舱 观赏五彩珊瑚 ⚠️ 温馨提示 ：您可自带酒店餐点或岛上外卖食物\n\n行程攻略：\n以下酒店含单程接/送 Reef View珊瑚景酒店 Whitsunday Apartments公寓式酒店 Palm Bungalows(需要自行前往Reef View酒店门口等候接送) 以下地址需要自行前往位于汉密尔顿岛码头的Cruise Whitsundays码头处等候接送 Holiday Homes度假屋 Yacht Club Villas游艇俱乐部 以下地址需要自行前往Hamilton Island Air机场办公室 Qualia酒店 Beach Club海滨俱乐部 游玩攻略 活动平台提供各种项目服务，可使用 信用卡或现金支付 如有 晕机或晕船症状 ，建议提前服用晕船药",
   "introEn": "体验从 空中到海面再到水下 的大堡礁全方位美景，这个套餐包括 飞去船回＆ 船去飞回 两种方式，让您尽情探索圣灵群岛与大堡礁。 行程亮点 空中观景 ：30 分钟景观飞行，俯瞰 圣灵群岛、Hill Inlet、心形礁及外堡礁 水上体验 ：前往 Reefworld ，停留约 2 小时 美食享受 ：提供热带自助午餐 水下观赏 ：浮潜或从 水下观景舱 观赏五彩珊瑚 ⚠️ 温馨提示 ：您可自带酒店餐点或岛上外卖食物\n\n行程攻略：\n以下酒店含单程接/送 Reef View珊瑚景酒店 Whitsunday Apartments公寓式酒店 Palm Bungalows(需要自行前往Reef View酒店门口等候接送) 以下地址需要自行前往位于汉密尔顿岛码头的Cruise Whitsundays码头处等候接送 Holiday Homes度假屋 Yacht Club Villas游艇俱乐部 以下地址需要自行前往Hamilton Island Air机场办公室 Qualia酒店 Beach Club海滨俱乐部 游玩攻略 活动平台提供各种项目服务，可使用 信用卡或现金支付 如有 晕机或晕船症状 ，建议提前服用晕船药",
   "participationNotice": "1. 人数限制 此行程 最少 2 人（不含婴儿） 成行 若预订人数不足 2 人，仍可下单，但需在出行前确认是否成行 单人预订：需在出行前一天 18:00 前最终确认是否预订成功，可联系客服协助 2. 游客限制 不建议 0-2 岁婴儿 参加 3. 体重限制 单位乘客体重超过 110kg，或两位乘客体重之和超过 180kg，需支付额外费用 单位乘客体重 不得超过 130kg，超过则无法乘坐飞机 4. 行李限制 直升机可携带行李不超过 5kg 5. 同伴安排 若希望与同伴同一架飞机，请务必 在同一订单号下单；是否能安排同机，以供应商最终确认为准 不接受分开下单但要求同机 6. 酒店信息 预订时请填写 真实有效的酒店信息；若因信息错误造成接送或行程问题，责任自负 7. 行程选择 若“飞去船回”行程订满，可选择更换至“船去飞回” 下单时请明确选择是否可更换，否则因选择不明确造成出行问题，责任自负 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前 6 天及以上：可免费取消或修改一次 游玩日期前 4-5 天：取消或修改需收取 10% 费用 游玩日期前 3 天内：不可取消或修改",
@@ -11444,13 +11606,14 @@ window.TOURS = [
   "price": "A$395",
   "priceEn": "A$395",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -11499,13 +11662,14 @@ window.TOURS = [
   "price": "A$353",
   "priceEn": "A$353",
   "days": 1,
+  "startCity": "【大冒险号】绝代双礁一日游，Double Great Barrier Reef Day Tour",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "随着近期国际局势影响，燃油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加， 因此将加收燃油附加费如下： Cruise / Cruise：成人 $10 / 儿童 $5 / 婴儿不收取燃油附加费； 加购10 分钟 观景飞行：售价已含燃油附加费，无须额外支付 收费方式：燃油附加费已加进系统价格，当天无须再额外支付 行程亮点 一日畅享双礁： 豪华游船前往绿岛+诺曼/摩尔礁 超具性价比选购： 专属海上平台5小时嗨玩 全民娱乐： 深潜、玻璃底船、半潜艇、沙滩漫步， 老少/动静皆宜 贴心服务： 美味海鲜自助午餐，免费浮潜设备\n\n行程攻略：\n1. 游玩提示 1）近视面罩可以在岛上或外堡礁平台上租用。 2）岛上或外堡礁海上平台上有储物柜可供租赁，费用约为AUD6/4小时。 3）建议携带：帽子，沙滩毛巾，防晒油，泳衣泳裤，舒适便鞋或拖鞋。 4）船上有水底照相机可供购买 ，在船上购买饮品或自费活动可使用现金或信用卡。 5）自费项目参考费用：水肺入门深潜 约AUD 198；绿岛海底漫步 约AUD 198；绿岛玻璃底船 约AUD 30；诺曼外海10分钟直升机观光 约AUD 199 2. 潜水须知 1）深潜前要填写医疗健康表格以确定你的健康情况是否适合深潜。 2） 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项。 3）不要单独深潜或擅自脱离队伍，听从教练的安排和指导。 4）一天单次深潜后，建议12小时内不要高空飞行 5）浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员。 3. 游玩提醒 1）参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2）请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3）参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则4）乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5）注意活动区域的安全标示、救援设备及救生人员的设置地点。 6）应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7）避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8）乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9）对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "introEn": "随着近期国际局势影响，燃油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加， 因此将加收燃油附加费如下： Cruise / Cruise：成人 $10 / 儿童 $5 / 婴儿不收取燃油附加费； 加购10 分钟 观景飞行：售价已含燃油附加费，无须额外支付 收费方式：燃油附加费已加进系统价格，当天无须再额外支付 行程亮点 一日畅享双礁： 豪华游船前往绿岛+诺曼/摩尔礁 超具性价比选购： 专属海上平台5小时嗨玩 全民娱乐： 深潜、玻璃底船、半潜艇、沙滩漫步， 老少/动静皆宜 贴心服务： 美味海鲜自助午餐，免费浮潜设备\n\n行程攻略：\n1. 游玩提示 1）近视面罩可以在岛上或外堡礁平台上租用。 2）岛上或外堡礁海上平台上有储物柜可供租赁，费用约为AUD6/4小时。 3）建议携带：帽子，沙滩毛巾，防晒油，泳衣泳裤，舒适便鞋或拖鞋。 4）船上有水底照相机可供购买 ，在船上购买饮品或自费活动可使用现金或信用卡。 5）自费项目参考费用：水肺入门深潜 约AUD 198；绿岛海底漫步 约AUD 198；绿岛玻璃底船 约AUD 30；诺曼外海10分钟直升机观光 约AUD 199 2. 潜水须知 1）深潜前要填写医疗健康表格以确定你的健康情况是否适合深潜。 2） 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项。 3）不要单独深潜或擅自脱离队伍，听从教练的安排和指导。 4）一天单次深潜后，建议12小时内不要高空飞行 5）浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员。 3. 游玩提醒 1）参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2）请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3）参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则4）乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5）注意活动区域的安全标示、救援设备及救生人员的设置地点。 6）应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7）避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8）乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9）对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "participationNotice": "1. 年龄限制：0-3岁婴儿免费，4-14岁执行儿童价，15岁以上儿童与成人同价； 2. 潜水说明：12岁以下儿童禁止参加深潜、海底摩托车和海底漫步，18岁以下儿童需由成人陪同参加； 3. 行程说明：大冒险号游船有两处外海大堡礁平台，分别为摩尔大堡礁平台及诺曼大堡礁平台，船长会根据当天天气确认去哪座海上平台，一般夏季台风季的时候可能会安排到摩尔大堡礁平台，短距离航程降低台风带来的不适；绿岛的行程安排不会变动。 4. 玩乐说明：船上上会提供如半潜艇等免费海上娱乐，如客人不参加或错过参加日期，将不予退款，敬请原谅！若要参加，请提前告知供应商。 5.自2026年4月1日（含）起之新订单，将加收燃油附加费如下：成人：$10 / 儿童：$5 。收费方式：燃油附加费已加进系统价格，当天无须再额外支付 *此行程需您在出发前与行程服务商再次确认行程（如出发/接送时间与地点），并可能需要使用英语沟通，请在预订成功后参考电子票使用说明。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前8天以上，可做免费取消或修改一次 游玩日期前4-7天，任何修改取消收取50%的修改取消费用 游玩日期前3天内，不做任何退改 如您未在约定好的时间参加地点参加行程，视为主动放弃，将收取全款。",
@@ -11578,13 +11742,14 @@ window.TOURS = [
   "price": "A$348",
   "priceEn": "A$348",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -11639,13 +11804,14 @@ window.TOURS = [
   "price": "A$325",
   "priceEn": "A$325",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程攻略：\n集合地点：Reef Magic terminal 直接前往Reef Magic游船停泊处凭借确认号码办理登船手续 (不需前往检票大厅) 游玩提示 ： 1. 近视面罩可以在外堡礁平台上租用。 2. 外堡礁海上平台上有储物柜可供租赁。 潜水相关 ： 1. 深潜前要填写医疗健康表格以确定你的健康情况是否适合深潜。 2. 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项。 3. 不要单独深潜或擅自脱离队伍，听从教练的安排和指导。 4. 一天单次深潜后，建议12小时内不要高空飞行；一天多次深潜后，建议24小时内不要高空飞行。 5. 浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员。 【游玩提醒】 1. 参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2. 请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3. 参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4. 乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5. 注意活动区域的安全标示、救援设备及救生人员的设置地点。 6. 应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7. 避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8. 乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9. 对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "introEn": "行程攻略：\n集合地点：Reef Magic terminal 直接前往Reef Magic游船停泊处凭借确认号码办理登船手续 (不需前往检票大厅) 游玩提示 ： 1. 近视面罩可以在外堡礁平台上租用。 2. 外堡礁海上平台上有储物柜可供租赁。 潜水相关 ： 1. 深潜前要填写医疗健康表格以确定你的健康情况是否适合深潜。 2. 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项。 3. 不要单独深潜或擅自脱离队伍，听从教练的安排和指导。 4. 一天单次深潜后，建议12小时内不要高空飞行；一天多次深潜后，建议24小时内不要高空飞行。 5. 浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员。 【游玩提醒】 1. 参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2. 请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3. 参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4. 乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5. 注意活动区域的安全标示、救援设备及救生人员的设置地点。 6. 应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7. 避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8. 乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9. 对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "participationNotice": "1. 年龄说明：儿童年龄为4-14岁，婴儿年龄为0-3岁；12岁以下的游客不可以参加任何深潜、海底漫步、海底摩托的活动； 2. 体重说明：请在预定时填写准确的体重信息，如果出行当天体重与预定时的体重资料误差达到10%，供应商有权拒绝客人登机，且不作退费； 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1.游玩日期前8天以上可做免费修改取 2.游玩日期前4-7天，任何修改取消收取50%的修改取消费用 3.游玩日期前3天内，不做任何退改 4.若因为天气或设备故障原因造成的行程取消，请联系做改期或退款处理。 5.含接送的行程，请提前10分钟做好出行准备，勿错过接送。一旦迟到或逾期当弃权处理，一律不作退费。 6.旺季日期： 1st April - 19th April 2026 27th June - 11th October 2026 19th December 2026 - 17th January 2027",
@@ -11718,13 +11884,14 @@ window.TOURS = [
   "price": "A$322",
   "priceEn": "A$322",
   "days": 1,
+  "startCity": "【大冒险号】诺曼/摩尔外海大堡礁一日游船,Great Barrier Reef Day Tour",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "随着近期国际局势影响，燃油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加， 因此将加收燃油附加费如下： Cruise / Cruise：成人 $10 / 儿童 $5 / 婴儿不收取燃油附加费； 加购 10 分钟 观景飞行 ： 售价已含燃油附加费，无须额外支付 收费方式：燃油附加费已加进系统价格，当天无须再额外支付 行程亮点 乘坐冒险号豪华游船，走进这片神奇而美丽的海洋世界，近距离接触大堡礁和海洋生物。您可乘坐半潜艇漫游奇妙海底世界，观看形状各异, 色彩鲜艳的热带鱼在珊瑚群中觅食, 一睹海底奇景。亦可在海底观察站内观赏丰富的珊瑚及热带鱼群。喜欢潜水的朋友更可自费参加深海潜水。在专业教练指导和带领下潜入海底，近距离接触大堡礁\n\n行程攻略：\n交通信息 码头地址：Reef Fleet Terminal,Spence St 1 ,Cairns QLD 4870 交通攻略 1) 步行：码头距市区的酒店仅需短暂步行即到 2) 公交：可以乘坐110路、133路、141路，在Abbott St C247下车，下车后步行约350米即到 实用攻略 游玩提示： 1) 建议携带：帽子、沙滩毛巾、防晒油、泳衣泳裤、舒适便鞋或拖鞋 2) 活动可使用现金或信用卡，可在船上购买饮品或自费消费其他项目 3) 近视面罩：可以在外堡礁平台上租用 4) 物品存储：外堡礁海上平台上有储物柜可供租赁，费用约为$6/4小时 潜水须知 1) 深潜前要填写医疗健康表格以确定你的健康情况适合深潜 2) 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项 3) 不要单独深潜或擅自脱离队伍，听从教练的安排和指导 4) 一天单次深潜后，建议12小时内不要高空飞行 5) 浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员 【游玩提醒】 1.参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2.请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3.参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4.乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5.注意活动区域的安全标示、救援设备及救生人员的设置地点。 6.应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7.避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8.乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9.对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "introEn": "随着近期国际局势影响，燃油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加， 因此将加收燃油附加费如下： Cruise / Cruise：成人 $10 / 儿童 $5 / 婴儿不收取燃油附加费； 加购 10 分钟 观景飞行 ： 售价已含燃油附加费，无须额外支付 收费方式：燃油附加费已加进系统价格，当天无须再额外支付 行程亮点 乘坐冒险号豪华游船，走进这片神奇而美丽的海洋世界，近距离接触大堡礁和海洋生物。您可乘坐半潜艇漫游奇妙海底世界，观看形状各异, 色彩鲜艳的热带鱼在珊瑚群中觅食, 一睹海底奇景。亦可在海底观察站内观赏丰富的珊瑚及热带鱼群。喜欢潜水的朋友更可自费参加深海潜水。在专业教练指导和带领下潜入海底，近距离接触大堡礁\n\n行程攻略：\n交通信息 码头地址：Reef Fleet Terminal,Spence St 1 ,Cairns QLD 4870 交通攻略 1) 步行：码头距市区的酒店仅需短暂步行即到 2) 公交：可以乘坐110路、133路、141路，在Abbott St C247下车，下车后步行约350米即到 实用攻略 游玩提示： 1) 建议携带：帽子、沙滩毛巾、防晒油、泳衣泳裤、舒适便鞋或拖鞋 2) 活动可使用现金或信用卡，可在船上购买饮品或自费消费其他项目 3) 近视面罩：可以在外堡礁平台上租用 4) 物品存储：外堡礁海上平台上有储物柜可供租赁，费用约为$6/4小时 潜水须知 1) 深潜前要填写医疗健康表格以确定你的健康情况适合深潜 2) 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项 3) 不要单独深潜或擅自脱离队伍，听从教练的安排和指导 4) 一天单次深潜后，建议12小时内不要高空飞行 5) 浮潜也会消耗一定体力。请不要超出能力范围，如曾服用药物，请告知工作人员 【游玩提醒】 1.参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2.请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3.参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4.乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5.注意活动区域的安全标示、救援设备及救生人员的设置地点。 6.应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7.避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8.乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9.对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "participationNotice": "1. 年龄限制：0-3岁婴儿免费，4-14岁执行儿童价，15岁以上儿童与成人同价； 2. 潜水说明：12岁以下儿童禁止参加深潜、海底摩托车和海底漫步，18岁以下儿童需由成人陪同参加； 3. 行程说明：大冒险号游船有两处外海大堡礁平台，分别为摩尔大堡礁平台及诺曼大堡礁平台，船长会根据当天天气确认去哪座海上平台，一般夏季台风季的时候可能会安排到摩尔大堡礁平台，短距离航程降低台风带来的不适；绿岛的行程安排不会变动。 4. 玩乐说明：船上上会提供如半潜艇等免费海上娱乐，如客人不参加或错过参加日期，将不予退款，敬请原谅！若要参加，请提前告知供应商。 *此行程需您在出发前与行程服务商再次确认行程（如出发/接送时间与地点），并可能需要使用英语沟通，请在预订成功后参考电子票使用说明。 5.自2026年4月1日（含）起之新订单，将加收燃油附加费如下：成人：$10 / 儿童：$5 。收费方式：燃油附加费已加进系统价格，当天无须再额外支付 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前8天以上可做免费修改 游玩日期前4-7天，任何修改取消收取5%的修改取消费用 游玩日期前3天内，不做任何退改",
@@ -11797,13 +11964,14 @@ window.TOURS = [
   "price": "A$317",
   "priceEn": "A$317",
   "days": 1,
+  "startCity": "【太阳恋人号】摩尔外海大堡礁一日游，Sunlover By Starlight Discover The Great Real Reef Day Tour",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "随着近期国际局势影响，燃油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加， 因此将加收燃油附加费如下：(2026.04.13更新) Cruise / Cruise：成人 $10 / 儿童 $5 / 婴儿不收取燃油附加费； Fly/Cruise &amp; Cruise/Fly：成人 $25 / 儿童 $22.5 / 婴儿不收取燃油附加费； Cruise / Cruise + 10 分钟 观景飞行：成人 $20 / 儿童 $15 / 婴儿不收取燃油附加费； 收费方式：燃油附加费已加进系统价格，当天无须再额外支付 行程亮点 摩尔外海大堡礁 摩尔大堡礁 （Moore Reef） 为于大堡礁公园的外缘，地处外海，因为距离海岸距离相对较远，去的游客数量少。 这里拥有清澈海水和浪漫阳光，天然而宁静的环境，齐备的活动平台设施，丰富的水上游玩活动，近距离接触超过一万多种不同种类的海洋生物 太阳恋人号豪华游船为您提供老少皆宜的摩尔堡礁深度体验之旅,以卓越的品质来提高游客的感官体验，带您去发现领略大堡礁的奇异珊瑚世界和生物多样性。 您可以免费使用所有浮潜设备，乘坐半潜水艇或玻璃底船欣赏珊瑚。在平台上的海洋生物触摸池可近距离体验和观赏奇特的海洋生物。即使您不会游泳，仍然能够享受太阳恋人号为您带来大堡礁的独特体验 翡翠岛 翡翠岛（Fitzroy Island）是当地人与旅客都喜爱的热带天堂，距离凯恩斯仅 45 分钟船程。岛上 99% 被茂密的热带雨林覆盖，四周环绕着 珊瑚沙滩和宁静的碧绿海湾。 这座 岛屿 属于世界遗产名录上-大堡礁海洋公园的一部分，以其珊瑚沙滩、环礁珊瑚礁与丰富海洋生态而闻名。 与一般大陆性岛屿不同，翡翠岛的沙滩多由数千年堆积的破碎珊瑚形成，经过数百次热带风暴的改造与冲刷，造就了独特的沙滩纹理，呈现出岛屿与大堡礁自然历史的深厚连结。 在美丽的 Welcome Bay，旅客可以于 Zephyr&#39;s 餐厅享用高品质热带自助午餐，午后则可悠闲漫步于岛上，尽情沉浸在翡翠岛宁静、放松的热带氛围中。 直升机体验 搭乘直升机俯瞰世界着名的大堡礁， 让旅客同时从空中与海中欣赏大堡礁的壮丽景色！\n\n行程攻略：\n集合安排 集合地点：此行程不含酒店接送(可加购)，请自行前往码头Reef Fleet Terminal办理登船手续； 集合时间：请于出海当天提前30分钟前往码头Reef Fleet Terminal 办理登船手续，详情请参考预订成功后给您发送的电子票。 换票提示 换票地址：Reef Fleet Terminal,Spence St 1 ,Cairns QLD 4870 换票码头是一个两层白色小楼，后方紧挨一所公寓，小楼第一层都是用来换船票的办公点； 1) 步行：码头距市区的酒店仅需短暂步行即到，请提前查好步行路线 2) 公交：可以乘坐110路、133路、141路，在Abbott St C247下车，下车后步行约350米即到 实用攻略 1) 近视面罩：可以在外堡礁平台上租用；非近视面罩免费提供 2) 物品存储：外堡礁海上平台上有储物柜可供租赁 3) 建议携带：防晒用品、浴巾、水下相机；适量现金用以购买饮品，可自带 4)水下相机：码头柜台大厅旁有专业的相机租赁服务 5) 晕船药可在船上直接购买，建议晕船客人早餐不要吃太饱 深潜相关 1) 深潜均为体验式深潜，不需要潜水证，全程由教练带领 2) 深潜前要填写医疗健康表格以确定你的健康情况适合深潜 3) 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项 4) 一天单次深潜后，建议12小时内不要高空飞行 5) 一天多次深潜后，建议24小时内不要高空飞 行 海底漫步 1)海底漫步旨在让人们体验海底世界的刺激，即使没有任何潜水知识或经验。 与传统的水肺潜水不同，海底漫步让您可以像在水面上一样通过鼻子和嘴巴呼吸。海底漫步还可以让您在保持干爽的同时体验大堡礁的奇观。 2)每位教练最多可带 6 人 3)预计在水中的时间最多为 20 分钟。 4)最低年龄 12 岁。18 岁以下的客人必须获得父母或法定监护人的书面许可才能参与",
   "introEn": "随着近期国际局势影响，燃油价格持续上升，导致大堡礁及岛屿体验的营运成本大幅增加， 因此将加收燃油附加费如下：(2026.04.13更新) Cruise / Cruise：成人 $10 / 儿童 $5 / 婴儿不收取燃油附加费； Fly/Cruise &amp; Cruise/Fly：成人 $25 / 儿童 $22.5 / 婴儿不收取燃油附加费； Cruise / Cruise + 10 分钟 观景飞行：成人 $20 / 儿童 $15 / 婴儿不收取燃油附加费； 收费方式：燃油附加费已加进系统价格，当天无须再额外支付 行程亮点 摩尔外海大堡礁 摩尔大堡礁 （Moore Reef） 为于大堡礁公园的外缘，地处外海，因为距离海岸距离相对较远，去的游客数量少。 这里拥有清澈海水和浪漫阳光，天然而宁静的环境，齐备的活动平台设施，丰富的水上游玩活动，近距离接触超过一万多种不同种类的海洋生物 太阳恋人号豪华游船为您提供老少皆宜的摩尔堡礁深度体验之旅,以卓越的品质来提高游客的感官体验，带您去发现领略大堡礁的奇异珊瑚世界和生物多样性。 您可以免费使用所有浮潜设备，乘坐半潜水艇或玻璃底船欣赏珊瑚。在平台上的海洋生物触摸池可近距离体验和观赏奇特的海洋生物。即使您不会游泳，仍然能够享受太阳恋人号为您带来大堡礁的独特体验 翡翠岛 翡翠岛（Fitzroy Island）是当地人与旅客都喜爱的热带天堂，距离凯恩斯仅 45 分钟船程。岛上 99% 被茂密的热带雨林覆盖，四周环绕着 珊瑚沙滩和宁静的碧绿海湾。 这座 岛屿 属于世界遗产名录上-大堡礁海洋公园的一部分，以其珊瑚沙滩、环礁珊瑚礁与丰富海洋生态而闻名。 与一般大陆性岛屿不同，翡翠岛的沙滩多由数千年堆积的破碎珊瑚形成，经过数百次热带风暴的改造与冲刷，造就了独特的沙滩纹理，呈现出岛屿与大堡礁自然历史的深厚连结。 在美丽的 Welcome Bay，旅客可以于 Zephyr&#39;s 餐厅享用高品质热带自助午餐，午后则可悠闲漫步于岛上，尽情沉浸在翡翠岛宁静、放松的热带氛围中。 直升机体验 搭乘直升机俯瞰世界着名的大堡礁， 让旅客同时从空中与海中欣赏大堡礁的壮丽景色！\n\n行程攻略：\n集合安排 集合地点：此行程不含酒店接送(可加购)，请自行前往码头Reef Fleet Terminal办理登船手续； 集合时间：请于出海当天提前30分钟前往码头Reef Fleet Terminal 办理登船手续，详情请参考预订成功后给您发送的电子票。 换票提示 换票地址：Reef Fleet Terminal,Spence St 1 ,Cairns QLD 4870 换票码头是一个两层白色小楼，后方紧挨一所公寓，小楼第一层都是用来换船票的办公点； 1) 步行：码头距市区的酒店仅需短暂步行即到，请提前查好步行路线 2) 公交：可以乘坐110路、133路、141路，在Abbott St C247下车，下车后步行约350米即到 实用攻略 1) 近视面罩：可以在外堡礁平台上租用；非近视面罩免费提供 2) 物品存储：外堡礁海上平台上有储物柜可供租赁 3) 建议携带：防晒用品、浴巾、水下相机；适量现金用以购买饮品，可自带 4)水下相机：码头柜台大厅旁有专业的相机租赁服务 5) 晕船药可在船上直接购买，建议晕船客人早餐不要吃太饱 深潜相关 1) 深潜均为体验式深潜，不需要潜水证，全程由教练带领 2) 深潜前要填写医疗健康表格以确定你的健康情况适合深潜 3) 深潜前教练会进行培训和指导，教授一些基本的交流手势和水下注意事项 4) 一天单次深潜后，建议12小时内不要高空飞行 5) 一天多次深潜后，建议24小时内不要高空飞 行 海底漫步 1)海底漫步旨在让人们体验海底世界的刺激，即使没有任何潜水知识或经验。 与传统的水肺潜水不同，海底漫步让您可以像在水面上一样通过鼻子和嘴巴呼吸。海底漫步还可以让您在保持干爽的同时体验大堡礁的奇观。 2)每位教练最多可带 6 人 3)预计在水中的时间最多为 20 分钟。 4)最低年龄 12 岁。18 岁以下的客人必须获得父母或法定监护人的书面许可才能参与",
   "participationNotice": "1.兒童4–15歲，嬰兒0–3歲；若行程含直升機飛行，嬰兒為0–1歲，兒童為2–15歲。请依照产品选项的年龄标准下单。 2.行程内含搭乘直升机的婴儿须坐在父母或监护人腿上。（直升机每班航班限 1 名婴儿，需在预订时告知） 2.若因天气等不可控因素取消行程，将提供替代日期或行程；若无法协调则全额退款。 3.行程中若部分活动无法进行，是否退费由 Sunlover 全权决定。 4.团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关。建议各位游客购买旅行保险。 5.若因天气或机械问题导致半潜艇或玻璃底船未运行，恕不退款。 6.行程内含搭乘直升机的乘客个人体重必须在预订时提供，如在办理登机时发现体重与预订资料差异超过 10%，Zoom 保留收取 100% 取消费用的权利。 7.Zoom Helicopters机队单座载重上限为130公斤。 8.自2026年4月1日（含）起之新订单，将加收燃油附加费如下：成人：$10 / 儿童：$5 / 婴儿：不收取燃油附加费。收费方式：燃油附加费已加进系统价格，当天无须再额外支付 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前8天以上可做免费修改 游玩日期前4-7天，任何修改取消收取10%的修改取消费用 游玩日期前3天内，不做任何退改",
@@ -11876,13 +12044,14 @@ window.TOURS = [
   "price": "A$279",
   "priceEn": "A$279",
   "days": 1,
+  "startCity": "汉密尔顿岛",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点 景如其名： 白天堂沙滩，澳大利亚最美海滩之一； 平稳游船： 双层游船，舒适平稳； 停留时间长： 停留6个小时 ，可尽享 白天堂沙滩和希尔湾观景台（ Hill Inlet ） 的浪漫美丽。\n\n行程攻略：\nAfternoon Cruise 出发地点及参考时间（请提前20分钟到柜台换票） DAILY DEPARTS RETURNS PORT OF AIRLIE 7:15AM 6:00PM DAYDREAM ISLAND 7:45AM 6:05PM HAMILTON ISLAND 8:30AM 5:00PM 返回时间是指返程游船抵达目的地的时间。 请注意：时间表可能发生变化。 集合时间 建議您提前至少 20 分鐘抵達辦理登船手續。登船將於船隻出發前 5 分鐘截止，請務必準時。具体出发时间，请参考预订成功后发给您的电子票。 交通方式 1. 艾尔利滩出发码头地址：24 The Cove Road, Port of Airlie, Airlie Beach, QLD, 4802 可加购艾尔利滩部分酒店接送(不提供私人住宅/民宿的接送)，预订时请选择入住酒店名称，具体接送地点因不同酒店而异，详情请参考预定确认后我们发给你的电子票。 2. 汉密尔顿岛出发码头地址：Cruise Whitsundays office at Hamilton Island Marina（Front St, Hamilton Island QLD 4802, Australia） 從冰淇淋對面的碼頭A出發 1) 巴士：汉密尔顿岛上有免费巴士环岛，可以到达岛上的码头附近。运营时间：07:00-23:00 2) 高尔夫球车：汉密尔顿岛上可租高尔夫球车作为交通或观光，每车可坐2-4人，可按小时或整天租用。 3. 白日梦岛出发的游客请自行前往码头集合。 建议携带 泳衣和毛巾、防止暴晒的服装、遮阳帽和防晒霜薄外套，寒冷季节请准备外套 现金、信用卡以便支付额外开销 游玩提醒 1. 参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2. 请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3. 参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4. 乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5. 注意活动区域的安全标示、救援设备及救生人员的设置地点。 6. 应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7. 避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8. 乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9. 对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "introEn": "行程亮点 景如其名： 白天堂沙滩，澳大利亚最美海滩之一； 平稳游船： 双层游船，舒适平稳； 停留时间长： 停留6个小时 ，可尽享 白天堂沙滩和希尔湾观景台（ Hill Inlet ） 的浪漫美丽。\n\n行程攻略：\nAfternoon Cruise 出发地点及参考时间（请提前20分钟到柜台换票） DAILY DEPARTS RETURNS PORT OF AIRLIE 7:15AM 6:00PM DAYDREAM ISLAND 7:45AM 6:05PM HAMILTON ISLAND 8:30AM 5:00PM 返回时间是指返程游船抵达目的地的时间。 请注意：时间表可能发生变化。 集合时间 建議您提前至少 20 分鐘抵達辦理登船手續。登船將於船隻出發前 5 分鐘截止，請務必準時。具体出发时间，请参考预订成功后发给您的电子票。 交通方式 1. 艾尔利滩出发码头地址：24 The Cove Road, Port of Airlie, Airlie Beach, QLD, 4802 可加购艾尔利滩部分酒店接送(不提供私人住宅/民宿的接送)，预订时请选择入住酒店名称，具体接送地点因不同酒店而异，详情请参考预定确认后我们发给你的电子票。 2. 汉密尔顿岛出发码头地址：Cruise Whitsundays office at Hamilton Island Marina（Front St, Hamilton Island QLD 4802, Australia） 從冰淇淋對面的碼頭A出發 1) 巴士：汉密尔顿岛上有免费巴士环岛，可以到达岛上的码头附近。运营时间：07:00-23:00 2) 高尔夫球车：汉密尔顿岛上可租高尔夫球车作为交通或观光，每车可坐2-4人，可按小时或整天租用。 3. 白日梦岛出发的游客请自行前往码头集合。 建议携带 泳衣和毛巾、防止暴晒的服装、遮阳帽和防晒霜薄外套，寒冷季节请准备外套 现金、信用卡以便支付额外开销 游玩提醒 1. 参加水上活动宜结伴同行，需事先了解活动场地是否合法以及各项器材的使用操作，请听从专业教练指导。浮潜装备不能替代游泳能力，不会游泳的客人，请不要尝试。 2. 请事先了解地形、潮汐、海流、风向、温度、出入口等因素，如上述因素不适合水上活动，不要勉强参加。 3. 参加特殊的活动行程，请严格遵守穿救生衣的规定，且应全程穿着，如活动场地或教练未提供救生衣，则应主动要求。 4. 乘坐游艇及水上摩托车，不得跨越安全海域，游客亦不能在水上摩托车、快艇、拖曳伞等水上活动范围区内游泳。 5. 注意活动区域的安全标示、救援设备及救生人员的设置地点。 6. 应注意自己的身体状况，有心脏病、高血压、感冒、发烧或醉酒的客人，不能参加水上活动，感觉身体疲倦、寒冷时，应立即离水上岸。 7. 避免长时间浸在水中或曝晒在阳光下，不能长时间闭气潜水以免造成晕眩发生意外；潜入水里时需使用耳塞，以防水压冲击耳膜造成伤害。浮潜时应携带漂浮装备，切勿让头部先入水。 8. 乘坐游艇前应先了解游艇的载客量，如有超载应予拒乘，搭乘时不要集中在甲板一侧，以免船身失去平衡。 9. 对于安排的行程之外的各种水上活动，参加前应谨慎评估其安全性及自身的身体状况，量力而行。",
   "participationNotice": "1.儿童票价：适用于 4–14 岁。未满4岁不能参加 2.长者价(需持澳洲长者证) 3.学生价(需持澳洲学生证15-17岁) 4.船班提醒：除非您已预订岛上住宿，请务必留意船班时间，以免错过最后一班船。 5.当天行程受天气与海况而调整，包括潮汐、风力、浪况、日照与降雨等因素，为了保证乘客、船员和海上其他船只的安全及舒适度，由游船船长根据当天情况决定最合适的航行路线。 6.若遇到強烈北風，船長可能會基於安全考量，改為前往 Whitsunday Island 的其他海灘。 7.部分行程可能需要更換船隻，以轉乘前往 Whitehaven Beach 的船班。 8.2026 年旺季日期： 1/1/26 - 2/2/26 7/4/26 - 28/4/26 30/6/26 - 22/7/26 22/9/26 - 13/10/26 15/12/26 - 31/12/26 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前6天以上可做免费修改取消游玩日期前4-5天，任何修改取消收取50%的修改取消费用游玩日期前3天内，不做任何退改。",
@@ -11949,13 +12118,14 @@ window.TOURS = [
   "price": "A$259",
   "priceEn": "A$259",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "登上我们的紫色大型双体帆船“卡米拉”，用一整天时间探索圣灵群岛的奇幻美景！乘帆巡游圣灵群岛碧蓝的海水，步行至希尔湾（Hill Inlet），在内礁体验浮潜，享用美味的烧烤午餐与无限畅饮的饮品。 “卡米拉”以其流畅的线条、宽敞的甲板和卓越的性能堪称世界第一。帆船航行速度高达 30 海里（约 56 公里/小时），是世界上最快的商用双体帆船之一。船上人数有限，让您能自在伸展、尽情放松，随风徜徉于壮丽的海岛之间。 在希尔湾观景台欣赏梦幻般的自然画卷，踏上洁白细腻的硅砂滩，于珊瑚礁边与五彩热带鱼共游。睁大眼睛，或许您还会邂逅可爱的海龟与优雅的魔鬼鱼——这一场融合自然与奢华的完美海上之旅，将为您留下难以忘怀的回忆。\n\n行程攻略：\n出发地点及参考时间（请提前20分钟到柜台换票） DAILY DEPARTS RETURNS PORT OF AIRLIE 8:00AM 6:10PM DAYDREAM ISLAND 7:35AM 6:00PM 返回时间是指返程游船抵达目的地的时间。 请注意：时间表可能发生变化。 白日夢島旅客注意事項： 白日夢島的旅客將於7:35AM 搭乘渡輪前往艾尔利港，與卡米拉船會合，當天行程結束後將送回艾尔利港，之後搭乘7:00PM的渡輪返回白日夢島，渡輪費用已包含在價格內。 集合时间 建議您提前至少 20 分鐘抵達辦理登船手續。登船將於船隻出發前 5 分鐘截止，請務必準時。具体出发时间，请参考预订成功后发给您的电子票。 交通方式 1. 艾尔利滩出发码头地址：24 The Cove Road, Port of Airlie, Airlie Beach, QLD, 4802 可加购艾尔利滩部分酒店接送(不提供私人住宅/民宿的接送)，预订时请选择入住酒店名称，具体接送地点因不同酒店而异，详情请参考预定确认后我们发给你的电子票。 2. 白日梦岛出发的游客请自行前往码头集合。",
   "introEn": "登上我们的紫色大型双体帆船“卡米拉”，用一整天时间探索圣灵群岛的奇幻美景！乘帆巡游圣灵群岛碧蓝的海水，步行至希尔湾（Hill Inlet），在内礁体验浮潜，享用美味的烧烤午餐与无限畅饮的饮品。 “卡米拉”以其流畅的线条、宽敞的甲板和卓越的性能堪称世界第一。帆船航行速度高达 30 海里（约 56 公里/小时），是世界上最快的商用双体帆船之一。船上人数有限，让您能自在伸展、尽情放松，随风徜徉于壮丽的海岛之间。 在希尔湾观景台欣赏梦幻般的自然画卷，踏上洁白细腻的硅砂滩，于珊瑚礁边与五彩热带鱼共游。睁大眼睛，或许您还会邂逅可爱的海龟与优雅的魔鬼鱼——这一场融合自然与奢华的完美海上之旅，将为您留下难以忘怀的回忆。\n\n行程攻略：\n出发地点及参考时间（请提前20分钟到柜台换票） DAILY DEPARTS RETURNS PORT OF AIRLIE 8:00AM 6:10PM DAYDREAM ISLAND 7:35AM 6:00PM 返回时间是指返程游船抵达目的地的时间。 请注意：时间表可能发生变化。 白日夢島旅客注意事項： 白日夢島的旅客將於7:35AM 搭乘渡輪前往艾尔利港，與卡米拉船會合，當天行程結束後將送回艾尔利港，之後搭乘7:00PM的渡輪返回白日夢島，渡輪費用已包含在價格內。 集合时间 建議您提前至少 20 分鐘抵達辦理登船手續。登船將於船隻出發前 5 分鐘截止，請務必準時。具体出发时间，请参考预订成功后发给您的电子票。 交通方式 1. 艾尔利滩出发码头地址：24 The Cove Road, Port of Airlie, Airlie Beach, QLD, 4802 可加购艾尔利滩部分酒店接送(不提供私人住宅/民宿的接送)，预订时请选择入住酒店名称，具体接送地点因不同酒店而异，详情请参考预定确认后我们发给你的电子票。 2. 白日梦岛出发的游客请自行前往码头集合。",
   "participationNotice": "1.儿童票价：适用于 4–14 岁。 2.婴儿票价：适用于0–3 岁可免费参加所有行程，但不包含婴儿餐食。 3.长者价(需持澳洲长者证) 4.学生价(需持澳洲学生证15-17岁) 5.船班提醒：除非您已预订岛上住宿，请务必留意船班时间，以免错过最后一班船。 6.当天行程受天气与海况而调整，包括潮汐、风力、浪况、日照与降雨等因素，为了保证乘客、船员和海上其他船只的安全及舒适度，由游船船长根据当天情况决定最合适的航行路线 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n在24小时或更短时间内没有显示或取消-需支付100％的取消费。 24小时至72小时之间取消-收取相当于票价50％的取消费。 在3天至7天之间取消-需支付相当于票价25％的取消费。",
@@ -12022,13 +12192,14 @@ window.TOURS = [
   "price": "A$240",
   "priceEn": "A$240",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "准备好征服 3 级和 4 级急流，穿越壮观的峡谷，周围环绕着世界遗产雨林。 塔利河是国际公认的澳大利亚最佳漂流河流。得益于 88 兆瓦卡里亚水电站的运行，全年水位都有保证。 我们的塔利河漂流探险与发电站放水时间一致，确保您每次与我们一起漂流时都能体验到一些激烈的刺激。 无需漂流经验，无论是白水漂流的寻求者都可以挑战急流，因为我们的世界级河流导游会为您提供帮助。 上车地点 素食炸肉排配沙拉和薯条 酥脆鸡肉汉堡和薯条 经典汉堡和薯条 烤西班牙鲭鱼配沙拉和薯条\n\n行程攻略：\n含酒店接送的预订，接送范围包含凯恩斯市区指定酒店、北部海滩的指定酒店；预订时请注明入住酒店名称，预订后会告知接送时间和具体地点，具体接送时间因不同酒店而异。极少数酒店由于不便停车等原因，会需要您前往附近地点候车 参加漂流无经验要求。 教练会在漂流前给予安全讲解和培训。 此项目属于高风险活动，请自行购买相关保险，若出现意外事件未购买保险，本公司一概无法帮助处理，请见谅。 建议携带毛巾，零钱，防水鞋，干净衣物以便行程结束更换，防水防晒霜(SPF30+以上)，遮阳帽(如棒球帽)，携带长袖T恤。 漂流时不能携带手机，相机，首饰手表等物品（GoPro除外），可以寄存在车上。 如有特殊饮食需求，预订时请备注。 为了您的安全，假如您在醉酒或吸食过量药品状态下，您将不被允许参加当天的漂流活动，并且不予退费。 防寒服和漂流鞋现场可以付费租用。 请注意，所有参与者必须在行程开始前签署免责声明和健康声",
   "introEn": "准备好征服 3 级和 4 级急流，穿越壮观的峡谷，周围环绕着世界遗产雨林。 塔利河是国际公认的澳大利亚最佳漂流河流。得益于 88 兆瓦卡里亚水电站的运行，全年水位都有保证。 我们的塔利河漂流探险与发电站放水时间一致，确保您每次与我们一起漂流时都能体验到一些激烈的刺激。 无需漂流经验，无论是白水漂流的寻求者都可以挑战急流，因为我们的世界级河流导游会为您提供帮助。 上车地点 素食炸肉排配沙拉和薯条 酥脆鸡肉汉堡和薯条 经典汉堡和薯条 烤西班牙鲭鱼配沙拉和薯条\n\n行程攻略：\n含酒店接送的预订，接送范围包含凯恩斯市区指定酒店、北部海滩的指定酒店；预订时请注明入住酒店名称，预订后会告知接送时间和具体地点，具体接送时间因不同酒店而异。极少数酒店由于不便停车等原因，会需要您前往附近地点候车 参加漂流无经验要求。 教练会在漂流前给予安全讲解和培训。 此项目属于高风险活动，请自行购买相关保险，若出现意外事件未购买保险，本公司一概无法帮助处理，请见谅。 建议携带毛巾，零钱，防水鞋，干净衣物以便行程结束更换，防水防晒霜(SPF30+以上)，遮阳帽(如棒球帽)，携带长袖T恤。 漂流时不能携带手机，相机，首饰手表等物品（GoPro除外），可以寄存在车上。 如有特殊饮食需求，预订时请备注。 为了您的安全，假如您在醉酒或吸食过量药品状态下，您将不被允许参加当天的漂流活动，并且不予退费。 防寒服和漂流鞋现场可以付费租用。 请注意，所有参与者必须在行程开始前签署免责声明和健康声",
   "participationNotice": "1. 经验要求：参加漂流无经验要求，教练会在漂流前给予安全讲解和培训 2. 开放时间：全年开放，圣诞节除外 3. 参团限制：仅适合于13岁以上儿童；18岁以下儿童需要监护人陪同；此行程不适合孕妇参加 4. 保险说明：此项目属于高风险活动，请自行购买相关保险，若出现意外事件未购买保险，本公司一概无法帮助处理，请见谅 注：此行程需您在出发前与行程服务商再次确认行程（如出发/接送时间与地点），并可能需要使用英语沟通，请在预订成功后参考电子票使用说明。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前5天以上可做免费修改取消 游玩日期前2-4天任何修改取消收取50%的修改取消费用 游玩日期前2天内不做任何退改含接送的行程 请提前10分钟做好出行准备，勿错过接送。一旦迟到或逾期当弃权处理，一律不作退费。",
@@ -12095,13 +12266,14 @@ window.TOURS = [
   "price": "A$230",
   "priceEn": "A$230",
   "days": 1,
+  "startCity": "圣灵群岛",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮點 三次 澳洲金獎 海島一日游 白天堂海滩 ：2 小時漫步 &amp; 漩涡沙滩拍照 Hill Inlet 观景台 徒步欣賞自然奇景 大堡礁浮潜 ：Mantaray Bay &amp; Stone Haven Bay 船設計穩定快速，適合晕船者 午餐 &amp; 上午/下午茶包含 环保认证行程 （Climate Action Leading） 船上提供厕所、舒适座椅，可自带酒水",
   "introEn": "行程亮點 三次 澳洲金獎 海島一日游 白天堂海滩 ：2 小時漫步 &amp; 漩涡沙滩拍照 Hill Inlet 观景台 徒步欣賞自然奇景 大堡礁浮潜 ：Mantaray Bay &amp; Stone Haven Bay 船設計穩定快速，適合晕船者 午餐 &amp; 上午/下午茶包含 环保认证行程 （Climate Action Leading） 船上提供厕所、舒适座椅，可自带酒水",
   "participationNotice": "全天行程，上午9:00出发，下午5:00返回 2–14 岁儿童适用儿童票价。 2 岁以下儿童需获得出行前批准，并需自备救生衣。 1 岁及以下婴儿需由父母使用婴儿背带携带。 12 个月及以上的乘客必须购买船票。 家庭票适用于2大2小 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n⚠️出行日期前 2 天或更早取消：免费取消 ⚠️出行日期前 2 天内取消或更改：不予退款、不可改期",
@@ -12168,13 +12340,14 @@ window.TOURS = [
   "price": "A$228",
   "priceEn": "A$228",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点 库兰达镇(Kuranda Village ) 在凯恩斯市东北，车程45分钟，是人口不到2000人的小镇，这里地处原始热带雨林当中，自然风光优美，人文建筑奇特，有“澳洲热带雨林第一村”之佳誉。小镇被苍翠的热带雨林包围着，除了有清新的空气，还有浓厚的艺术氛围，有很多澳洲原住民艺术家的手工工艺店，还有空中缆车和观光火车站，游客可在小镇上边走边逛，自行游览。\n\n行程攻略：\n交通信息 行程安排仅供参考, 具体游玩可能会受当日天气交通情况影响, 请以当天实际行程为准 此产品含凯恩斯市区酒店往返接送，请在预定时填写具体酒店信息，具体接送时间因不同酒店而异。极少数酒店由于不便停车等原因，会需要您前往附近地点候车。详情请参考预订确认后我们发给您的电子票。 温馨提示 土著文化公园：梦幻时光行走(30分钟，10:00、11:00、11:30、12:30、13:30、14:30)、土著舞蹈表演(30分钟，10:30、12:00、14:00) 水陆两栖战车：45分钟，10:00、11:00、12:00、13:00、14:00 BBQ午餐用餐时间：经典一日游午餐需客人自理 请穿着舒适的运动鞋 免责声明： 如需参加付费游玩景点，必须通过我社司导购买门票 所有日游车辆，会根据当日参团人数来安排车辆大小 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 最终解释权归本司所有",
   "introEn": "行程亮点 库兰达镇(Kuranda Village ) 在凯恩斯市东北，车程45分钟，是人口不到2000人的小镇，这里地处原始热带雨林当中，自然风光优美，人文建筑奇特，有“澳洲热带雨林第一村”之佳誉。小镇被苍翠的热带雨林包围着，除了有清新的空气，还有浓厚的艺术氛围，有很多澳洲原住民艺术家的手工工艺店，还有空中缆车和观光火车站，游客可在小镇上边走边逛，自行游览。\n\n行程攻略：\n交通信息 行程安排仅供参考, 具体游玩可能会受当日天气交通情况影响, 请以当天实际行程为准 此产品含凯恩斯市区酒店往返接送，请在预定时填写具体酒店信息，具体接送时间因不同酒店而异。极少数酒店由于不便停车等原因，会需要您前往附近地点候车。详情请参考预订确认后我们发给您的电子票。 温馨提示 土著文化公园：梦幻时光行走(30分钟，10:00、11:00、11:30、12:30、13:30、14:30)、土著舞蹈表演(30分钟，10:30、12:00、14:00) 水陆两栖战车：45分钟，10:00、11:00、12:00、13:00、14:00 BBQ午餐用餐时间：经典一日游午餐需客人自理 请穿着舒适的运动鞋 免责声明： 如需参加付费游玩景点，必须通过我社司导购买门票 所有日游车辆，会根据当日参团人数来安排车辆大小 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 最终解释权归本司所有",
   "participationNotice": "1. 儿童年龄为4-14岁，婴儿年龄为0-3岁收费$80/人 2. 凯恩斯市区酒店均提供免费接送 3. 经典一日游行程不包含热带雨林公园内野生动物园游览，您如果想要抱考拉可以在咨询当天导游时间允许的情况下在库兰达小镇的考拉园自费抱考拉 4.如果加购团前接机需预定0830前到达的国内航班，行程结束的当天乘飞机离开凯恩斯，需要预定下午18:00之后离开的航班；如自费选择火车项目，需预订19:00之后的离开的航班。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前7天（不含第7日）可以免费退改 出发前1-7天（含第7日）不退不改 请提前10分钟做好出行准备，勿错过接送。一旦迟到或逾期当弃权处理，一律不作退费。",
@@ -12247,13 +12420,14 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 1,
+  "startCity": "圣灵群岛",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "亮点 探索白色沙滩最佳保密秘密 有趣且信息丰富的生态导游 在Tongarra的甲板上放松身心 包括早上/下午小吃，新鲜制作并当地提供的自助午餐 在该地区提供最佳浮潜的边缘礁上浮潜 享受有趣的“香蕉船”乘车 有机会漫步至Langford景观观景台 包括莱卡紧身衣、浮潜装备和潜水衣（冬季月份） 返回爱丽海滩的日落帆船之旅 自带酒水和饮料",
   "introEn": "亮点 探索白色沙滩最佳保密秘密 有趣且信息丰富的生态导游 在Tongarra的甲板上放松身心 包括早上/下午小吃，新鲜制作并当地提供的自助午餐 在该地区提供最佳浮潜的边缘礁上浮潜 享受有趣的“香蕉船”乘车 有机会漫步至Langford景观观景台 包括莱卡紧身衣、浮潜装备和潜水衣（冬季月份） 返回爱丽海滩的日落帆船之旅 自带酒水和饮料",
   "participationNotice": "儿童价格适用于6-14岁 6岁以下的儿童在出发前必须获得批准，并自备救生衣 家庭票适用于2大2小 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出行日期2天前免费取消 出行日期2天内不退不改",
@@ -12320,13 +12494,14 @@ window.TOURS = [
   "price": "A$190",
   "priceEn": "A$190",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "1.接送说明：司机兼导游会到酒店接客人，请客人在约定时间前 5 分钟到酒店 大堂或门口等。客人将在前一天收到通知短信，时间及导游信息以短信为准 2.保险说明：该行程不含保险，请客人提前自行购买旅行意外险等保险 3.脱团说明：如客人在约定时间未出现，司机兼导游也无法联系上客人的情况 下，视为自动放弃。如客人在行程过程中离团，司机兼导游无法联系上客人的 情况，视为客人脱团，后果自负，本社也不会退费 4.该产品 1 人起订，4 人成行，不满 4 人请咨询客服 5.年龄说明：儿童年龄：4-14岁 ；婴儿（0-4岁）收费$80/位； 6.如果客人在行程结束的当天乘飞机离开凯恩斯，需要预定下午18:30之后离开的航班。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前7天（不含第7日）可以免费退改 出发前1-7天（含第7日）不退不改",
@@ -12399,13 +12574,14 @@ window.TOURS = [
   "price": "A$190",
   "priceEn": "A$190",
   "days": 1,
+  "startCity": "亚瑟顿高原及帕罗尼拉公园品质一日游，The Sky City of the Arthurian Plateau 1",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点 参观凯恩斯避暑山庄-高原大堡地，欣赏土壤肥沃的景点无数。高原上美丽的田园牧场风光和秀丽的百灵火山湖，叹为观止的巨大窗帘树，澳洲独特保育类动物-鸭嘴兽，让您亲身体验大自然的美丽！ Paronella Park 帕罗尼拉公园一个梦幻般的城堡公园正是日本著名动画导演宫崎骏画出《天空之城》的灵感地。西班牙风格的古堡——Paronella Park 位于凯恩斯以南的120公里处，这个现在开放给游人参观的古堡，以前也曾经有过风光的日子：举行过不少舞会和婚礼。它背后亦有一个美丽浪漫的故事，正等着我们去体验昔日梦幻般的自然景色和领略The Dream continues真正的意义。 行程特色 行：凯恩斯酒店接送 玩：帕罗尼拉公园Paronella Park，米拉米拉瀑布Millaa Millaa Fall\n\n行程攻略：\n1. 请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 2. 请注意補充水分、防晒和保暖 3. 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "introEn": "行程亮点 参观凯恩斯避暑山庄-高原大堡地，欣赏土壤肥沃的景点无数。高原上美丽的田园牧场风光和秀丽的百灵火山湖，叹为观止的巨大窗帘树，澳洲独特保育类动物-鸭嘴兽，让您亲身体验大自然的美丽！ Paronella Park 帕罗尼拉公园一个梦幻般的城堡公园正是日本著名动画导演宫崎骏画出《天空之城》的灵感地。西班牙风格的古堡——Paronella Park 位于凯恩斯以南的120公里处，这个现在开放给游人参观的古堡，以前也曾经有过风光的日子：举行过不少舞会和婚礼。它背后亦有一个美丽浪漫的故事，正等着我们去体验昔日梦幻般的自然景色和领略The Dream continues真正的意义。 行程特色 行：凯恩斯酒店接送 玩：帕罗尼拉公园Paronella Park，米拉米拉瀑布Millaa Millaa Fall\n\n行程攻略：\n1. 请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 2. 请注意補充水分、防晒和保暖 3. 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "participationNotice": "(1) 此产品最少4人出团，因天气或其他外力因素，供应商可能更改或取消行程，若取消将全额退款，敬请谅解。 (2) 建议游客购买旅游意外险，旅行社不对任何意外受伤，物品损坏，财务遗失，交通事故，交通工具（航班等）造成的延误，或任何不可抗力因素承担责任。 (3）儿童年龄：4-14岁 ；婴儿（0-4岁）收费$80/位 (4）如果客人在行程结束的当天乘飞机离开凯恩斯，需要预定下午18:30之后离开的航班。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前7天（不含第7日）可以免费退改 出发前1-7天（含第7日）不退不改",
@@ -12478,13 +12654,14 @@ window.TOURS = [
   "price": "A$162",
   "priceEn": "A$162",
   "days": 1,
+  "startCity": "凯恩斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -12533,13 +12710,14 @@ window.TOURS = [
   "price": "A$388",
   "priceEn": "A$388",
   "days": 1,
+  "startCity": "阿德莱德",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "南澳袋鼠岛（Kangaroo Island）被《国家地理》评为“亚太最佳岛屿”，这里是世界保存最完好的自然奇迹之一，有着苍绿幽然的原始森林，宁静清透的内陆湖泊，鬼斧神工的岩石溶洞——神奇岩石与旗舰拱门，绵延壮丽的海岸风光，珍贵稀有的野生动物——澳洲海狮与新西兰皮毛海豹，以及丰富多样的土特产——鸸鹋桉树精油、羊奶制品与全球独一无二的利古里亚有机蜂蜜！ 出团日期：每周三，六 （6人成团）\n\n行程攻略：\n1. 我们会安排行程当日免费市区酒店接送服务，但仅限于那些在我公司接送名单上的酒店 (除非遇到特别节日或庆典，接送服务地点会另安排)。遇到客人下榻酒店位于阿德莱德市CBD范围以外，或酒店虽位于市区，但酒店门口或附近较难停靠大型车辆的情况，需要客人自行前往确认信中标明的就近上车地点（一般是阿德莱德中央汽车站或我公司指定酒店）候车。 2. 出于对客人安全的保障及遵守南澳政府交规的要求，为准时登上渡轮或游船，请参加袋鼠岛行程或穆理河行程的客人准时在确认信中标明的上车地点候车。我公司所有的行行程，尤其是袋鼠岛相关行行程，观光巴士在每一个上车地点的等候时间最长为5分钟。 3. 根据安全要求，我们将不会安排行李李拖车上袋鼠岛，故所有参加袋鼠岛行程的客人，请仅携带装有个人必需物品与一夜换洗衣物（一夜一日/两夜一日游）的小包上岛，大件行李请寄存您下榻的酒店。 4. 建议携带：饮料、防晒霜、太阳镜、太阳帽、相机和沙滩步行鞋及轻薄外套，早上和晚上昼夜温度较低尤其是海边。",
   "introEn": "南澳袋鼠岛（Kangaroo Island）被《国家地理》评为“亚太最佳岛屿”，这里是世界保存最完好的自然奇迹之一，有着苍绿幽然的原始森林，宁静清透的内陆湖泊，鬼斧神工的岩石溶洞——神奇岩石与旗舰拱门，绵延壮丽的海岸风光，珍贵稀有的野生动物——澳洲海狮与新西兰皮毛海豹，以及丰富多样的土特产——鸸鹋桉树精油、羊奶制品与全球独一无二的利古里亚有机蜂蜜！ 出团日期：每周三，六 （6人成团）\n\n行程攻略：\n1. 我们会安排行程当日免费市区酒店接送服务，但仅限于那些在我公司接送名单上的酒店 (除非遇到特别节日或庆典，接送服务地点会另安排)。遇到客人下榻酒店位于阿德莱德市CBD范围以外，或酒店虽位于市区，但酒店门口或附近较难停靠大型车辆的情况，需要客人自行前往确认信中标明的就近上车地点（一般是阿德莱德中央汽车站或我公司指定酒店）候车。 2. 出于对客人安全的保障及遵守南澳政府交规的要求，为准时登上渡轮或游船，请参加袋鼠岛行程或穆理河行程的客人准时在确认信中标明的上车地点候车。我公司所有的行行程，尤其是袋鼠岛相关行行程，观光巴士在每一个上车地点的等候时间最长为5分钟。 3. 根据安全要求，我们将不会安排行李李拖车上袋鼠岛，故所有参加袋鼠岛行程的客人，请仅携带装有个人必需物品与一夜换洗衣物（一夜一日/两夜一日游）的小包上岛，大件行李请寄存您下榻的酒店。 4. 建议携带：饮料、防晒霜、太阳镜、太阳帽、相机和沙滩步行鞋及轻薄外套，早上和晚上昼夜温度较低尤其是海边。",
   "participationNotice": "1. 儿童：3-14岁；出团日期：每周三，六（6人成团，建议提前一个月预订，预订前需二次确认） 2.散拼预订客户注意事项：在无法满足成团人数需求的情况下，本公司将与客户联系安排，并保留其权利提供退款，改期或相同价值的配套与客户选择。需提前预订自费产品将由本公司客服提前与客户本人联系提前支付自费门票或体验。 3. 为保障其他乘客利益，请准时抵达上车集合点，逾时不候，并将视作弃权，恕不予退款，不予改期。 4. 本公司强烈建议客人购买旅游保险。 如遇机械故障、天气因素等不可抗力影响而造成的任何行程更改和 损失，以及任何意外事故和伤亡，本公司恕不负责、不予赔偿！ 5. 本公司保留变更或取消行程、替换或取消旅游项目、缩短或延长行程的权利。 6. 公众假期、学校假期以及赛事节庆活动期间，如有价格变动，本公司不再另行通知。 7. 若需取消行程/自费项目或转让参团名额，相关条例请参考宣传册底页或确认信。 8. 因袋鼠岛气候多变，本公司特别提供并强烈建议游客购买旅游保险之外的袋鼠岛紧急保障服务。游客须在预订行程时，即额外支付每人 A$45.00（成人、儿童同价）的服务费。该服务费将覆盖游客在受到机械故障、天气因素等不可抗力影响而滞留袋鼠岛期间的住宿费用。本公司也承诺会为购买此项服务的游客优先安排最早一班渡轮离岛。未购买袋鼠岛紧急保障服务的游客，因遇机械故障、天气因素等不可抗力影响而造成的任何行程更改与损失，本公司恕不负责，不予赔偿。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1.一旦确认行程不得取消，概不退款 2.出发日前 72 小时外可免费改签一次。 不可退款 3.出发前 72 小时（含）内取消，或未在出发日出现、或提前离开的游客，须全额支付费用不可改签。",
@@ -12606,13 +12784,14 @@ window.TOURS = [
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
+  "startCity": "阿德莱德",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "穆理河（Murray River）是澳洲第一大河，南澳“母亲河”，孕育了南澳广袤无垠、物产富饶的大河流地带，在穆理河畔您可以前往飞行学校，体验自驾飞翔冲上云雪的快感，或选择澳洲最大的开放式野生动物园 -- 莫纳托动物园参观游览，或选择乘坐澳洲仅存蒸汽游船，随后在穆理河边享受悠闲的钓鱼时光。 行程亮点 冲上云霄云层上飞翔澳洲最大野生动物园澳洲最古老蒸汽游船享受下午的悠闲时光 体验飞机驾驶项目莫纳托动物园穆理古董蒸汽轮船穆理河垂钓 出发日期: 2人起订 每周一、四出发 上车地点 9:00AM，Adelaide Central bus Station，地址：85 Franklin Street, Adelaide SA 5000 9:00AM，Mantra Hindmarsh Square，地址：55-67 Hindmarsh Square, Adelaide SA 5000 9:00AM，Sage Hotel Adelaide，地址：208 South Terrace, Adelaide SA 5000 9:00AM，Stamford Plaza Adelaide，地址：150 North Terrace, Adelaide SA 5000\n\n行程攻略：\n飞行体验流程 : 飞行前说明会（ Pre-flight briefing)- 简要说明整个训练过程和注意事项。飞行前检查 (Aircraft pre-flight inspection)- 教练会带领学员一同检查飞机状况，教学员如何进入，如何看表盘仪器设备，以及飞机在紧急情况下因采取的行动。 正式飞行训练（ Flight procedures ） - 学员会在指定训练区飞行，不仅可以俯看地面美丽的风景，而且在教练的指导下，充分体验着飞翔的感觉。学员会有一段时间驾驶飞机的控制权，起飞和降落是必须由教练控制。飞行后述（ Post-flight debriefing ） - 如学员有任何相关问题，教练都会给与解答。 ( 体验训练课程只提供 1 对 1 训练，随行乘客不允许上飞机）。温馨提示：学员衣着要适宜季节，鞋子必须穿不能露脚趾的，不能穿人字拖。如有已知的身体疾病必须提前告知，避免产生安全隐患。学员必须具备基础的英语水平，在紧急情况下，能理解应急操作说明。学员结束飞行体验后，会获得一张证书以作纪念。",
   "introEn": "穆理河（Murray River）是澳洲第一大河，南澳“母亲河”，孕育了南澳广袤无垠、物产富饶的大河流地带，在穆理河畔您可以前往飞行学校，体验自驾飞翔冲上云雪的快感，或选择澳洲最大的开放式野生动物园 -- 莫纳托动物园参观游览，或选择乘坐澳洲仅存蒸汽游船，随后在穆理河边享受悠闲的钓鱼时光。 行程亮点 冲上云霄云层上飞翔澳洲最大野生动物园澳洲最古老蒸汽游船享受下午的悠闲时光 体验飞机驾驶项目莫纳托动物园穆理古董蒸汽轮船穆理河垂钓 出发日期: 2人起订 每周一、四出发 上车地点 9:00AM，Adelaide Central bus Station，地址：85 Franklin Street, Adelaide SA 5000 9:00AM，Mantra Hindmarsh Square，地址：55-67 Hindmarsh Square, Adelaide SA 5000 9:00AM，Sage Hotel Adelaide，地址：208 South Terrace, Adelaide SA 5000 9:00AM，Stamford Plaza Adelaide，地址：150 North Terrace, Adelaide SA 5000\n\n行程攻略：\n飞行体验流程 : 飞行前说明会（ Pre-flight briefing)- 简要说明整个训练过程和注意事项。飞行前检查 (Aircraft pre-flight inspection)- 教练会带领学员一同检查飞机状况，教学员如何进入，如何看表盘仪器设备，以及飞机在紧急情况下因采取的行动。 正式飞行训练（ Flight procedures ） - 学员会在指定训练区飞行，不仅可以俯看地面美丽的风景，而且在教练的指导下，充分体验着飞翔的感觉。学员会有一段时间驾驶飞机的控制权，起飞和降落是必须由教练控制。飞行后述（ Post-flight debriefing ） - 如学员有任何相关问题，教练都会给与解答。 ( 体验训练课程只提供 1 对 1 训练，随行乘客不允许上飞机）。温馨提示：学员衣着要适宜季节，鞋子必须穿不能露脚趾的，不能穿人字拖。如有已知的身体疾病必须提前告知，避免产生安全隐患。学员必须具备基础的英语水平，在紧急情况下，能理解应急操作说明。学员结束飞行体验后，会获得一张证书以作纪念。",
   "participationNotice": "1. 大小同价,2人成团 2. 为保障其他乘客利益，请准时抵达上车集合点，逾时不候，并将视作弃权，恕不予退款，不予改期。 3. 本公司强烈建议客人购买旅游保险。 如遇机械故障、天气因素等不可抗力影响而造成的任何行程更改和损失，以及任何意外事故和伤亡，本公司恕不负责、不予赔偿！ 4. 本公司保留因政府禁令、恶劣天气、突发事件等不可预知因素变更或取消行程、替换或取消旅游项目、缩短或延长行程的权利。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前7天以上，任何修改取消收取10%的修改取消费用 游玩日期前2-7天，任何修改取消收取50%的修改取消费用 游玩日期前2天内，不做任何退改",
@@ -12679,13 +12858,14 @@ window.TOURS = [
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
+  "startCity": "红酒之乡巴罗莎谷一日游 （仅限1",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "深度奔富游，参观奔富百年地下酒塞: 游玩回音壁，体验堪比故宫回音壁的巴罗萨百年水坝带给你的神奇魔力，探访巴罗萨最美酒庄之一的 1847 雅达若城堡酒庄，品尝百年老藤葡萄酒的历史沉淀，探访历史最悠久的百年沙普酒庄，品尝英国皇室御用波特酒 行程亮点 澳洲最神奇景点——回音壁 中国市场最知名——奔富玛吉尔庄园 澳洲历史最悠久——沙普酒庄 最美古堡——1847 雅达若城堡酒庄 出发日期：2人起订, 每周四、日出发",
   "introEn": "深度奔富游，参观奔富百年地下酒塞: 游玩回音壁，体验堪比故宫回音壁的巴罗萨百年水坝带给你的神奇魔力，探访巴罗萨最美酒庄之一的 1847 雅达若城堡酒庄，品尝百年老藤葡萄酒的历史沉淀，探访历史最悠久的百年沙普酒庄，品尝英国皇室御用波特酒 行程亮点 澳洲最神奇景点——回音壁 中国市场最知名——奔富玛吉尔庄园 澳洲历史最悠久——沙普酒庄 最美古堡——1847 雅达若城堡酒庄 出发日期：2人起订, 每周四、日出发",
   "participationNotice": "1. 大小同价，2人成团 2. 为保障其他乘客利益，请准时抵达上车集合点，逾时不候，并将视作弃权，恕不予退款，不予改期。 3. 本公司强烈建议客人购买旅游保险。 如遇机械故障、天气因素等不可抗力影响而造成的任何行程更改和 损失，以及任何意外事故和伤亡，本公司恕不负责、不予赔偿！ 4. 本公司保留因政府禁令、恶劣天气、突发事件等不可预知因素变更或取消行程、替换或取消旅游项目、缩短或延长行程的权利。 5 品酒说明：18岁以下不可参加品酒活动，在参观古董收藏时必须由家长陪同。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前7天以上，任何修改取消收取10%的修改取消费用 游玩日期前2-7天，任何修改取消收取50%的修改取消费用 游玩日期前2天内，不做任何退改",
@@ -12752,13 +12932,14 @@ window.TOURS = [
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
+  "startCity": "阿德莱德",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "150 年历史中央市场 -- 南半球最大集贸市场: 圣彼得大教堂，人文艺术北大街，托伦斯河地标建筑群登顶洛夫特山顶，俯瞰阿德莱德城市全景，德国村小镇巡游，品尝正宗德国啤酒和特色猪手香肠套餐，最后可以在峡谷动物园拥抱澳洲萌宠考拉。 出发日期： 每周二、五出发 行程亮点 “孤独星球”最佳旅游城市——阿德莱德市区巡游 俯瞰阿德莱德城市全景——洛夫特山观景平台 南澳必玩风情小镇——德国村 与野生动物亲密接触——峡谷野生动物园 上车地点 Adelaide Central bus Station 地址：85 Franklin Street, Adelaide SA 5000 Mantra Hindmarsh Square 地址：55-67 Hindmarsh Square, Adelaide SA 5000 Sage Hotel Adelaide 地址：208 South Terrace, Adelaide SA 5000 Stamford Plaza Adelaide 地址：150 North Terrace, Adelaide SA 5000\n\n行程攻略：\n一旦预订成功, 成行当天因为任何个人原因，健康原因取消行程或者单项自费预订, 责任由游客自行承担 当天抵达的游客，烦请安排早上8点以前抵达的航班；晚上离境的游客请安排晚上7点以后起飞的航班 我们会安排行程当日免费市区酒店接送服务，但仅限于那些在我公司接送名单上的酒店 (除非遇到特别节日或庆典，接送服务地点会另安排)。遇到客人下榻酒店位于阿德莱德市CBD范围以外，或酒店虽位于市区，但酒店门口或附近较难停靠大型车辆的情矿，需要客人自行行前往确认信中标明的就近上车地点（一般是阿德莱德中央汽车站或我公司指定酒店）候车。 建议携带：饮用水、防晒霜、太阳镜、太阳帽、相机和舒适步行鞋及轻薄外套以防天气变化",
   "introEn": "150 年历史中央市场 -- 南半球最大集贸市场: 圣彼得大教堂，人文艺术北大街，托伦斯河地标建筑群登顶洛夫特山顶，俯瞰阿德莱德城市全景，德国村小镇巡游，品尝正宗德国啤酒和特色猪手香肠套餐，最后可以在峡谷动物园拥抱澳洲萌宠考拉。 出发日期： 每周二、五出发 行程亮点 “孤独星球”最佳旅游城市——阿德莱德市区巡游 俯瞰阿德莱德城市全景——洛夫特山观景平台 南澳必玩风情小镇——德国村 与野生动物亲密接触——峡谷野生动物园 上车地点 Adelaide Central bus Station 地址：85 Franklin Street, Adelaide SA 5000 Mantra Hindmarsh Square 地址：55-67 Hindmarsh Square, Adelaide SA 5000 Sage Hotel Adelaide 地址：208 South Terrace, Adelaide SA 5000 Stamford Plaza Adelaide 地址：150 North Terrace, Adelaide SA 5000\n\n行程攻略：\n一旦预订成功, 成行当天因为任何个人原因，健康原因取消行程或者单项自费预订, 责任由游客自行承担 当天抵达的游客，烦请安排早上8点以前抵达的航班；晚上离境的游客请安排晚上7点以后起飞的航班 我们会安排行程当日免费市区酒店接送服务，但仅限于那些在我公司接送名单上的酒店 (除非遇到特别节日或庆典，接送服务地点会另安排)。遇到客人下榻酒店位于阿德莱德市CBD范围以外，或酒店虽位于市区，但酒店门口或附近较难停靠大型车辆的情矿，需要客人自行行前往确认信中标明的就近上车地点（一般是阿德莱德中央汽车站或我公司指定酒店）候车。 建议携带：饮用水、防晒霜、太阳镜、太阳帽、相机和舒适步行鞋及轻薄外套以防天气变化",
   "participationNotice": "1. 大小同价 2. 为保障其他乘客利益，请准时抵达上车集合点，逾时不候，并将视作弃权，恕不予退款，不予改期。 3. 本公司强烈建议客人购买旅游保险。 如遇机械故障、天气因素等不可抗力影响而造成的任何行程更改和 损失，以及任何意外事故和伤亡，本公司恕不负责、不予赔偿！ 4. 本公司保留因政府禁令、恶劣天气、突发事件等不可预知因素变更或取消行程、替换或取消旅游项目、缩短或延长行程的权利。 5 品酒说明：18岁以下不可参加品酒活动，在参观古董收藏时必须由家长陪同。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前7天以上，任何修改取消收取10%的修改取消费用 游玩日期前2-7天，任何修改取消收取50%的修改取消费用 游玩日期前2天内，任何修改取消收取100%的修改取消费用",
@@ -12825,13 +13006,14 @@ window.TOURS = [
   "price": "A$185",
   "priceEn": "A$185",
   "days": 1,
+  "startCity": "阿德莱德",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "打卡阿德莱德第一网红洞穴海滩。探访南澳第-网红建筑，超现实主义多维度黛伦堡魔方酒庄;在菲尔半岛顶点维特港体验夺人心魄的大自然景观， 花岗岩岛寻找南极露脊鲸的踪迹 (每年 6 月-9 月)乘坐“ 大鸭号 ”观光艇与澳洲短鼻灰海豚和新西兰绒毛海狮亲密接触。体验灌篮高手同款海岸线“ 库克蒸汽火车。 行程亮点 - 网红打卡地——洞穴海滩 - 最前卫的超现实主义品酒中心——黛伦堡魔方 - 澳洲硕果仅存的马力铁轨电车——维特港马拉电车 - 最近距离的海豚海豹互动——维特港大鸭号游艇 - 灌篮高手同款海岸线蒸汽火车——库克蒸汽火车",
   "introEn": "打卡阿德莱德第一网红洞穴海滩。探访南澳第-网红建筑，超现实主义多维度黛伦堡魔方酒庄;在菲尔半岛顶点维特港体验夺人心魄的大自然景观， 花岗岩岛寻找南极露脊鲸的踪迹 (每年 6 月-9 月)乘坐“ 大鸭号 ”观光艇与澳洲短鼻灰海豚和新西兰绒毛海狮亲密接触。体验灌篮高手同款海岸线“ 库克蒸汽火车。 行程亮点 - 网红打卡地——洞穴海滩 - 最前卫的超现实主义品酒中心——黛伦堡魔方 - 澳洲硕果仅存的马力铁轨电车——维特港马拉电车 - 最近距离的海豚海豹互动——维特港大鸭号游艇 - 灌篮高手同款海岸线蒸汽火车——库克蒸汽火车",
   "participationNotice": "1. 大小同价 2. 为保障其他乘客利益，请准时抵达上车集合点，逾时不候，并将视作弃权，恕不予退款，不予改期。 3. 本公司强烈建议客人购买旅游保险。 如遇机械故障、天气因素等不可抗力影响而造成的任何行程更改和 损失，以及任何意外事故和伤亡，本公司恕不负责、不予赔偿！ 4. 本公司保留因政府禁令、恶劣天气、突发事件等不可预知因素变更或取消行程、替换或取消旅游项目、缩短或延长行程的权利。 5 品酒说明：18岁以下不可参加品酒活动，在参观古董收藏时必须由家长陪同。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前7天以上，任何修改取消收取10%的修改取消费用 游玩日期前2-7天，任何修改取消收取50%的修改取消费用 游玩日期前2天内，不做任何退改",
@@ -12898,13 +13080,14 @@ window.TOURS = [
   "price": "A$200",
   "priceEn": "A$200",
   "days": 1,
+  "startCity": "珀斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点： 尖峰石阵沙漠位于西澳大利亚柏斯北面 260 公里，乃南邦国家公园的一部份。这个在沙漠的奇异活化石原始森林，有数以千计可高达 5 公尺的石灰岩柱，确实伟为奇观。 塞万提斯位于澳大利亚的西澳大利亚州。虽然在西澳大利亚州只是一个小镇，但是这个小镇具有一定知名度，原因在于这有一处美丽的捕虾港口，另一个原因就是尖峰石阵了。 龙虾小屋提供了与世界著名的西澳龙虾特写相遇。去小屋参观，看看他们是如何从野外引进，加工，打包发送现场目的地遍布世界各地。龙虾小屋也提供美味的龙虾午餐。 兰斯林是一个特别的沙漠小镇，有一处非常适合沙漠探险的地方，而最新奇、刺激 沙漠玩意莫过于滑沙。从高高的沙丘上快速滑下，这绝对是一项考胆识和考技巧的运动。 出发时间：每周三、六 、早上8点半珀斯市区指定酒店 游览时长： 8:30-17:00\n\n行程攻略：\n温馨提示: 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 酒店接送列表 Pick Up List : 东珀斯（East Perth）： McDonald&#39;s Crown Perth ibis Styles East Perth Mantra on Hay Perth Crowne Plaza Perth Comfort Inn &amp; Suites Goodearth Perth Pan Pacific Perth 珀斯 CBD（Perth CBD）： Duxton Hotel Perth Mercure Perth on Hay The Westin Perth Mercure Perth European Hotel QT Perth The Ritz-Carlton Perth Adina Apartment Hotel Perth Barrack Plaza Oaks Perth Hotel InterContinental Perth City Centre Holiday Inn Perth City Centre Novotel Perth Murray Street The Adnate Perth-Art Series The Melbourne Hotel Parmelia Hilton Perth 西珀斯（West Perth）： Nesuto Mounts Bay Perth Apartment Hotel Juno House Four Points by Sheraton 北桥（Northbridge）： Hostel G The Great Southern Hotel Perth DoubleTree by Hilton Perth Northbridge Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。",
   "introEn": "行程亮点： 尖峰石阵沙漠位于西澳大利亚柏斯北面 260 公里，乃南邦国家公园的一部份。这个在沙漠的奇异活化石原始森林，有数以千计可高达 5 公尺的石灰岩柱，确实伟为奇观。 塞万提斯位于澳大利亚的西澳大利亚州。虽然在西澳大利亚州只是一个小镇，但是这个小镇具有一定知名度，原因在于这有一处美丽的捕虾港口，另一个原因就是尖峰石阵了。 龙虾小屋提供了与世界著名的西澳龙虾特写相遇。去小屋参观，看看他们是如何从野外引进，加工，打包发送现场目的地遍布世界各地。龙虾小屋也提供美味的龙虾午餐。 兰斯林是一个特别的沙漠小镇，有一处非常适合沙漠探险的地方，而最新奇、刺激 沙漠玩意莫过于滑沙。从高高的沙丘上快速滑下，这绝对是一项考胆识和考技巧的运动。 出发时间：每周三、六 、早上8点半珀斯市区指定酒店 游览时长： 8:30-17:00\n\n行程攻略：\n温馨提示: 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 酒店接送列表 Pick Up List : 东珀斯（East Perth）： McDonald&#39;s Crown Perth ibis Styles East Perth Mantra on Hay Perth Crowne Plaza Perth Comfort Inn &amp; Suites Goodearth Perth Pan Pacific Perth 珀斯 CBD（Perth CBD）： Duxton Hotel Perth Mercure Perth on Hay The Westin Perth Mercure Perth European Hotel QT Perth The Ritz-Carlton Perth Adina Apartment Hotel Perth Barrack Plaza Oaks Perth Hotel InterContinental Perth City Centre Holiday Inn Perth City Centre Novotel Perth Murray Street The Adnate Perth-Art Series The Melbourne Hotel Parmelia Hilton Perth 西珀斯（West Perth）： Nesuto Mounts Bay Perth Apartment Hotel Juno House Four Points by Sheraton 北桥（Northbridge）： Hostel G The Great Southern Hotel Perth DoubleTree by Hilton Perth Northbridge Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。",
   "participationNotice": "1. 本产品2人成团，若因成团人数不够，供应商取消行程，我们会为您做全额退款 2. 儿童以3-12岁为准; 不满2岁婴儿与两成人同行免费；婴儿与一位成人同行与儿童同价。 3. 因人数不足或天气原因，本公司有权在启程前或启程后取消或更改行程，也有权缩短或延长旅程。 4. 团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关。建议各位游客购买旅行保险。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前14天取消行程扣团费50％; 2. 出发前7日内取消，所交费用概不退还;或未到者，所交费用概不退还。",
@@ -12971,13 +13154,14 @@ window.TOURS = [
   "price": "A$198",
   "priceEn": "A$198",
   "days": 1,
+  "startCity": "珀斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点： 玛格丽特河镇是位于西澳大利亚州西南区，在珀斯以南277公里的一个城镇。此镇建造在同名的河流玛格丽特河附近。 巴瑟尔顿栈桥位于珀斯南部仅 2 小时 40 分钟路程处，是在南部的必游景点。 栈桥入口位于主游泳海滩，步行片刻即可到达巴瑟尔顿高街。 卢因角灯塔是全世界最美的海角之一，也是澳大利亚最高的灯塔—立文角灯塔的所在地。浩瀚的印度洋和南大洋在这个著名的地标性海角相汇。 这个著名的地标建筑拥有一百多年的历史，至今仍然是重要的工作站及气象数据收集点。 出发时间： 每周四、早上7点半珀斯市区指定酒店 游览时长： 12小时: 7.30-19.30\n\n行程攻略：\n酒店接送列表 Pick Up List : · 東珀斯 East Perth: McDonald&#39;s Crown Perth, Hyatt Regency Perth Bus Stop, Crowne Plaza Perth, Novotel Perth Langley · 珀斯 CBD Perth CBD: Duxton Hotel Perth, Mercure Perth on Hay, The Westin Perth, Mercure Perth, European Hotel, QT Perth, Adina Apartment Hotel, Perth Barrack Plaza, The Ritz-Carlton Perth, Parmelia Hilton Perth Hotel, Holiday Inn Perth City Centre, InterContinental Perth City Centre, Oaks Perth Hotel, Novotel Perth Murray Street, The Adnate Perth-Art Series, The Melbourne Hotel, Four Points by Sheraton · 西珀斯: West Perth: Nesuto Mounts Bay Perth Apartment Hotel, Rendezvous Hotel Perth City Central · 北橋 : Northbridge: Hostel G, The Great Southern Hotel Perth, DoubleTree by Hilton Perth Northbridge, Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。",
   "introEn": "行程亮点： 玛格丽特河镇是位于西澳大利亚州西南区，在珀斯以南277公里的一个城镇。此镇建造在同名的河流玛格丽特河附近。 巴瑟尔顿栈桥位于珀斯南部仅 2 小时 40 分钟路程处，是在南部的必游景点。 栈桥入口位于主游泳海滩，步行片刻即可到达巴瑟尔顿高街。 卢因角灯塔是全世界最美的海角之一，也是澳大利亚最高的灯塔—立文角灯塔的所在地。浩瀚的印度洋和南大洋在这个著名的地标性海角相汇。 这个著名的地标建筑拥有一百多年的历史，至今仍然是重要的工作站及气象数据收集点。 出发时间： 每周四、早上7点半珀斯市区指定酒店 游览时长： 12小时: 7.30-19.30\n\n行程攻略：\n酒店接送列表 Pick Up List : · 東珀斯 East Perth: McDonald&#39;s Crown Perth, Hyatt Regency Perth Bus Stop, Crowne Plaza Perth, Novotel Perth Langley · 珀斯 CBD Perth CBD: Duxton Hotel Perth, Mercure Perth on Hay, The Westin Perth, Mercure Perth, European Hotel, QT Perth, Adina Apartment Hotel, Perth Barrack Plaza, The Ritz-Carlton Perth, Parmelia Hilton Perth Hotel, Holiday Inn Perth City Centre, InterContinental Perth City Centre, Oaks Perth Hotel, Novotel Perth Murray Street, The Adnate Perth-Art Series, The Melbourne Hotel, Four Points by Sheraton · 西珀斯: West Perth: Nesuto Mounts Bay Perth Apartment Hotel, Rendezvous Hotel Perth City Central · 北橋 : Northbridge: Hostel G, The Great Southern Hotel Perth, DoubleTree by Hilton Perth Northbridge, Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。",
   "participationNotice": "(1) 儿童以3-12岁为准; 不满2岁婴儿与两成人同行免费；婴儿与一位成人同行与儿童同价。 (2)退改政策：（1）出发前14天取消行程扣团费50％;（2）出发前7日内取消，所交费用概不退还;或未到者，所交费用概不退还。 (3)因人数不足或天气原因，本公司有权在启程前或启程后取消或更改行程，也有权缩短或延长旅程。 (4)团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关。建议各位游客购买旅行保险。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n(1) 游玩时间：7:30 - 21:00(周四发团) (2) 此产品两人成行，若因成团人数不够，供应商取消此团，我们会为您做全额退款 (3) 1位婴儿0-2岁与1位成人同行，此婴儿与儿童同价；如有2位成人陪同，则婴儿免费，请选择2位成人，联系客服备注有婴儿同行 (4) 未满18岁的游客须由一名18岁以上游客陪同",
@@ -13044,13 +13228,14 @@ window.TOURS = [
   "price": "A$195",
   "priceEn": "A$195",
   "days": 1,
+  "startCity": "波浪岩品质一日游，Wave Rock Day Tour",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点： 波浪岩耸立在西澳洲中部沙漠的波浪岩是澳洲知名的观光景点，距离西澳首府珀斯350公里车程5小时。波浪岩属于海登岩北部最奇特的一部分。高低起伏，就像一片席卷而来的大海中的波涛巨浪，相当壮观。 河马哈欠石波浪岩附近另有一座美丽的岩石，名叫河马哈欠石。它是一座空心岩，外形像张开的河马的嘴巴。 出发日期:每周五\n\n行程攻略：\n酒店接送列表 Pick Up List : 東珀斯 East Perth: McDonald&#39;s Crown Perth, Hyatt Regency Perth Bus Stop, Crowne Plaza Perth, Novotel Perth Langley 珀斯 CBD Perth CBD: Duxton Hotel Perth, Mercure Perth on Hay, The Westin Perth, Mercure Perth, European Hotel, QT Perth, Adina Apartment Hotel, Perth Barrack Plaza, The Ritz-Carlton Perth, Parmelia Hilton Perth Hotel, Holiday Inn Perth City Centre, InterContinental Perth City Centre, Oaks Perth Hotel, Novotel Perth Murray Street, The Adnate Perth-Art Series, The Melbourne Hotel, Four Points by Sheraton 西珀斯 West Perth: Nesuto Mounts Bay Perth Apartment Hotel, Rendezvous Hotel Perth City Central 北橋 Northbridge: Hostel G, The Great Southern Hotel Perth, DoubleTree by Hilton Perth Northbridge, Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。 实用攻略 建议携带饮用水、帽子、防晒霜、平底鞋、雨衣、相机、毛巾、驱虫剂、零钱",
   "introEn": "行程亮点： 波浪岩耸立在西澳洲中部沙漠的波浪岩是澳洲知名的观光景点，距离西澳首府珀斯350公里车程5小时。波浪岩属于海登岩北部最奇特的一部分。高低起伏，就像一片席卷而来的大海中的波涛巨浪，相当壮观。 河马哈欠石波浪岩附近另有一座美丽的岩石，名叫河马哈欠石。它是一座空心岩，外形像张开的河马的嘴巴。 出发日期:每周五\n\n行程攻略：\n酒店接送列表 Pick Up List : 東珀斯 East Perth: McDonald&#39;s Crown Perth, Hyatt Regency Perth Bus Stop, Crowne Plaza Perth, Novotel Perth Langley 珀斯 CBD Perth CBD: Duxton Hotel Perth, Mercure Perth on Hay, The Westin Perth, Mercure Perth, European Hotel, QT Perth, Adina Apartment Hotel, Perth Barrack Plaza, The Ritz-Carlton Perth, Parmelia Hilton Perth Hotel, Holiday Inn Perth City Centre, InterContinental Perth City Centre, Oaks Perth Hotel, Novotel Perth Murray Street, The Adnate Perth-Art Series, The Melbourne Hotel, Four Points by Sheraton 西珀斯 West Perth: Nesuto Mounts Bay Perth Apartment Hotel, Rendezvous Hotel Perth City Central 北橋 Northbridge: Hostel G, The Great Southern Hotel Perth, DoubleTree by Hilton Perth Northbridge, Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。 实用攻略 建议携带饮用水、帽子、防晒霜、平底鞋、雨衣、相机、毛巾、驱虫剂、零钱",
   "participationNotice": "预定须知： 1. 每周五出发，需要二次确认。（若因成团人数不够，供应商取消此团，我们会为您做全额退款 ） 2. 游玩时间：7:30 - 19:30(周五发团)，具体时间以及上车地点以导游通知确认为准 2. 预订截止时间：出团前一天15:00PM前 3. 儿童以3-12岁为准; 不满2岁婴儿与两成人同行免费；婴儿与一位成人同行与儿童同价（联系客服备注有婴儿同行）。未满18岁的游客须由一名18岁以上游客陪同 4. 行程内门票需向导游购买，请勿自行购买，价格请参考实用攻略 换票提示： 1. 仅含团费旅行者，如需游玩景点，必须通过我社司导购买门票 2. 凭此电子票于约定时间在指定地点上车 3. 所有日游车辆，会根据当日参团人数来安排车辆大小 预订注意： 1. 如需酒店，请填写标准酒店地址 2. 如需机场接送，请提前联系OP沟通可搭乘航班时间 3. 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 4. 紧急联系电话: 08 9493 3822 / 0423 527 787 其他： 1. 出发前一晚，出团最终确认会以短信方式发送至客人手机。请务必保持手机通话畅通，如在出发前21:00没有收到短信，请拨打紧急联系电话08 9493 3822 / 0423 527 787 2. 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 3. 行程中，不可以提前离团或中途脱团，如您选择中途离团，未完成部分视作您自行放弃，需自行承担相应损失，敬请谅解 4. 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，本公司有权在启程前或启程后取消或更改行程，也有权缩短或延长旅程。 5. 团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关。建议各位游客购买旅行保险。 6. 最终解释权归本司所有。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 出发前14天取消行程扣团费50％; 2. 出发前7日内取消，所交费用概不退还;或未到者，所交费用概不退还。",
@@ -13117,13 +13302,14 @@ window.TOURS = [
   "price": "A$165",
   "priceEn": "A$165",
   "days": 1,
+  "startCity": "珀斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点： 天鹅谷位于宁静的天鹅河河畔，是西澳最古老的葡萄酒产区。您可以在天鹅谷的许多高级精品酒庄亲自挑选佳酿。或是沿著天鹅谷美食美酒路径畅游。 午餐后到当地有名的咖啡工厂享用香浓咖啡，怎能不令人沉醉在这午后悠闲又精致的慵懒时光？在西澳最有趣的野生动物园里亲密喂食澳洲国宝考拉，与各色澳洲特有野生动物亲密接触，还你一个与自然亲近的完美假日！ 出发时间 ：每周日早上8点半市区指定酒店 游览时长：9 小时（车程约3小时）\n\n行程攻略：\n温馨提醒： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 具体时间以及上车地点以导游通知确认为准 免费接送酒店： 東珀斯 East Perth: McDonald&#39;s Crown Perth, Hyatt Regency Perth Bus Stop, Crowne Plaza Perth, Novotel Perth Langley 珀斯 CBD Perth CBD: Duxton Hotel Perth, Mercure Perth on Hay, The Westin Perth, Mercure Perth, European Hotel, QT Perth, Adina Apartment Hotel, Perth Barrack Plaza, The Ritz-Carlton Perth, Parmelia Hilton Perth Hotel, Holiday Inn Perth City Centre, InterContinental Perth City Centre, Oaks Perth Hotel, Novotel Perth Murray Street, The Adnate Perth-Art Series, The Melbourne Hotel, Four Points by Sheraton 西珀斯 West Perth: Nesuto Mounts Bay Perth Apartment Hotel, Rendezvous Hotel Perth City Central 北橋 Northbridge: Hostel G, The Great Southern Hotel Perth, DoubleTree by Hilton Perth Northbridge, Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。",
   "introEn": "行程亮点： 天鹅谷位于宁静的天鹅河河畔，是西澳最古老的葡萄酒产区。您可以在天鹅谷的许多高级精品酒庄亲自挑选佳酿。或是沿著天鹅谷美食美酒路径畅游。 午餐后到当地有名的咖啡工厂享用香浓咖啡，怎能不令人沉醉在这午后悠闲又精致的慵懒时光？在西澳最有趣的野生动物园里亲密喂食澳洲国宝考拉，与各色澳洲特有野生动物亲密接触，还你一个与自然亲近的完美假日！ 出发时间 ：每周日早上8点半市区指定酒店 游览时长：9 小时（车程约3小时）\n\n行程攻略：\n温馨提醒： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 具体时间以及上车地点以导游通知确认为准 免费接送酒店： 東珀斯 East Perth: McDonald&#39;s Crown Perth, Hyatt Regency Perth Bus Stop, Crowne Plaza Perth, Novotel Perth Langley 珀斯 CBD Perth CBD: Duxton Hotel Perth, Mercure Perth on Hay, The Westin Perth, Mercure Perth, European Hotel, QT Perth, Adina Apartment Hotel, Perth Barrack Plaza, The Ritz-Carlton Perth, Parmelia Hilton Perth Hotel, Holiday Inn Perth City Centre, InterContinental Perth City Centre, Oaks Perth Hotel, Novotel Perth Murray Street, The Adnate Perth-Art Series, The Melbourne Hotel, Four Points by Sheraton 西珀斯 West Perth: Nesuto Mounts Bay Perth Apartment Hotel, Rendezvous Hotel Perth City Central 北橋 Northbridge: Hostel G, The Great Southern Hotel Perth, DoubleTree by Hilton Perth Northbridge, Chicho Gelato Northbridge (180 William street, Northbridge) * 若酒店不在清單上將安排最接近的可接送酒店上下車。 * 住城外或是没提供接送点者，请一律安排 Chicho Gelato Northbridge (180 William Street, Northbridge) 门口集合。",
   "participationNotice": "1. 每周日出发。（若因成团人数不够，取消此团，我们会为您做全额退款。） 2. 预订截止时间：出团前一天15:00PM前 3. 一成人一儿童成团，儿童的年龄为3-12岁，18岁以下儿童可以参加行程，但不能品酒，请谅解。 4. 行程2岁以下婴儿与2位成人陪同则免费，如一婴儿一成人，则婴儿与儿童同价 5. 行程内门票需向导游购买，请勿自行购买，价格请参考实用攻略 预订注意: 1. 如需酒店，请填写标准酒店地址 2. 如需机场接送，请提前联系OP沟通可搭乘航班时间 3. 请选择合适的上车点 4. 紧急联系电话:+61（0）2 82889404 其他： 1. 出发前一晚，出团最终确认会以短信方式发送至客人手机。请务必保持手机通话畅通，如在出发前21:00没有收到短信，请拨打紧急联系电话08 9493 3822 / 0423 527 787 2. 请确保准时抵达上车地点，若因自身原因导致未能参加本行程，需自行承担相应损失，敬请谅解 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 行程中，不可以提前离团或中途脱团，如您选择中途离团，未完成部分视作您自行放弃，需自行承担相应损失，敬请谅解 5. 因人数不足或天气原因，本公司有权在启程前或启程后取消或更改行程，也有权缩短或延长旅程。 6. 团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关。建议各位游客购买旅行保险。 7. 最终解释权归本司所有 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发前14天取消行程扣团费50％; 出发前7日内取消，所交费用概不退还;或未到者，所交费用概不退还。",
@@ -13190,13 +13376,14 @@ window.TOURS = [
   "price": "A$85",
   "priceEn": "A$85",
   "days": 1,
+  "startCity": "珀斯",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程亮点： 罗特尼斯岛: 从珀斯（Perth）搭乘短程渡轮即可抵达罗特尼斯岛（Rottnest Island），遊客能在此尽情享受美丽的海滩、壮观的植物及丰富的海洋生物及野生动物生态。 出发日期:天天出 发\n\n行程攻略：\n实用攻略： 1) 下船后可以前往游客中心(Rottnest Island Visitor Centre)了解如何预订活动项目 2) 登船码头 Perth Barrack Street Jetty 没有停车的地方，建议未订上酒店单程接送的客人从酒店步行至码头 3) 建议携带相机、防晒霜、太阳眼镜、帽子、浴巾、游泳衣裤、现金或信用卡 换票地址： Barrack Street Jetty Elizabeth Quay, Perth (Pier 4) 地址：2 Barrack St, Perth WA 6000, Australia 注意： 选择珀斯市区码头登船的客人，提供部分市区酒店至码头的单程接送，下单时请填写您的酒店地址，供应商会根据接送车位置情况尽量帮您安排，少数市区酒店需要到就近点上车，请以最终预定确认为准 Fremantle（B Shed）地址：1 Peter Hughes Dr, Fremantle 注意： (1) B Shed 码头周边的停车位会非常紧张，我们建议您在渡轮出发前 30–40 分钟抵达，以便有足够时间停车、办理行李托运并顺利开始旅程。 (2) B Shed 码头目前正在进行翻新工程。为确保所有旅客的安全，道路与泊位（berth）进出方式将有所调整，请遵循码头现场的安全指示与标志。 渡轮时间参考： (1) 珀斯市区码头出发：08:45 返回：17:30 (2) B Shed 码头 出发：09:30 返回：16:30 岛上自费活动价格参考： 自行车 38AUD/人 浮潜用具 22AUD/人 90分钟观光巴士 62AUD/人 注：租用自行车、浮潜用具等设备需要给押金或者信用卡，请注意事先检查设备是否完好，如果归还时工作人员发现有损坏，会需要您支付赔偿费用",
   "introEn": "行程亮点： 罗特尼斯岛: 从珀斯（Perth）搭乘短程渡轮即可抵达罗特尼斯岛（Rottnest Island），遊客能在此尽情享受美丽的海滩、壮观的植物及丰富的海洋生物及野生动物生态。 出发日期:天天出 发\n\n行程攻略：\n实用攻略： 1) 下船后可以前往游客中心(Rottnest Island Visitor Centre)了解如何预订活动项目 2) 登船码头 Perth Barrack Street Jetty 没有停车的地方，建议未订上酒店单程接送的客人从酒店步行至码头 3) 建议携带相机、防晒霜、太阳眼镜、帽子、浴巾、游泳衣裤、现金或信用卡 换票地址： Barrack Street Jetty Elizabeth Quay, Perth (Pier 4) 地址：2 Barrack St, Perth WA 6000, Australia 注意： 选择珀斯市区码头登船的客人，提供部分市区酒店至码头的单程接送，下单时请填写您的酒店地址，供应商会根据接送车位置情况尽量帮您安排，少数市区酒店需要到就近点上车，请以最终预定确认为准 Fremantle（B Shed）地址：1 Peter Hughes Dr, Fremantle 注意： (1) B Shed 码头周边的停车位会非常紧张，我们建议您在渡轮出发前 30–40 分钟抵达，以便有足够时间停车、办理行李托运并顺利开始旅程。 (2) B Shed 码头目前正在进行翻新工程。为确保所有旅客的安全，道路与泊位（berth）进出方式将有所调整，请遵循码头现场的安全指示与标志。 渡轮时间参考： (1) 珀斯市区码头出发：08:45 返回：17:30 (2) B Shed 码头 出发：09:30 返回：16:30 岛上自费活动价格参考： 自行车 38AUD/人 浮潜用具 22AUD/人 90分钟观光巴士 62AUD/人 注：租用自行车、浮潜用具等设备需要给押金或者信用卡，请注意事先检查设备是否完好，如果归还时工作人员发现有损坏，会需要您支付赔偿费用",
   "participationNotice": "1.此产品为自助游产品，无导游陪同，乘客需自行凭票上车、登船，请务必准时到达预订地点，过时不候。 2.两人成团，需要二次确认。 3.婴儿票价：适用于未满4岁(不占座位) 4.儿童票价：适用于 4–12 岁 5.学生价(需持澳洲学生证13-16岁) 6.凭此电子票于约定时间在指定地点上车，请选择合适的上车点。 7.请确保准时抵达上车地点，若因自身原因导致未能参加本行程，需自行承担相应损失，敬请谅解。 8.团友旅游安全由各交通公司、旅店、各旅游景点等直接负责，与本公司无关，建议各位游客购买旅行保险。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前10天以上可做免费修改取消游玩日期前4-9天，任何修改取消收取25%的修改取消费用游玩日期前3天内，不做任何退改如您未在约定的时间地点参加行程，视为主动放弃，恕不能退款",
@@ -13263,13 +13450,14 @@ window.TOURS = [
   "price": "A$355",
   "priceEn": "A$355",
   "days": 1,
+  "startCity": "帝王谷",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "· 澳大利亚的 &quot;大峡谷&quot; · 陡峭的岩石 · 幽深的峡谷 · 盘旋的云梯 · 离天最近的地方\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 不建议“三高”或身体不适者勉强参加山脊徒步 中级～高级要求－可完成大约3小时的山脊徒步； 初级要求－可完成河床徒步 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水 6 关于帝王谷徒步：请准备至少3升的饮用水，并且遵循导游的指示。帝王谷山顶徒步全程6公里，需要3.5到4小时，途中会经过不同的地形和分岔口，因此请一定沿着蓝色的三角标指示方向上山和下山。如果您不小心脱队，请不要惊慌、不要随意走动，保留在原地，等待导游或者团友的救助。",
   "introEn": "· 澳大利亚的 &quot;大峡谷&quot; · 陡峭的岩石 · 幽深的峡谷 · 盘旋的云梯 · 离天最近的地方\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 不建议“三高”或身体不适者勉强参加山脊徒步 中级～高级要求－可完成大约3小时的山脊徒步； 初级要求－可完成河床徒步 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水 6 关于帝王谷徒步：请准备至少3升的饮用水，并且遵循导游的指示。帝王谷山顶徒步全程6公里，需要3.5到4小时，途中会经过不同的地形和分岔口，因此请一定沿着蓝色的三角标指示方向上山和下山。如果您不小心脱队，请不要惊慌、不要随意走动，保留在原地，等待导游或者团友的救助。",
   "participationNotice": "1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，且必须与大人同行方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前11天以上可做免费修改取消游玩日期前7-10天，任何修改取消收取50%的修改取消费用游玩日期前6天内，不做任何退改如您未在约定的时间地点参加行程，视为主动放弃，恕不能退款。",
@@ -13336,13 +13524,14 @@ window.TOURS = [
   "price": "A$239",
   "priceEn": "A$239",
   "days": 1,
+  "startCity": "卡塔丘塔日出及风之谷徒步之旅，Kata Tjuta Sunrise & Valley of the Winds Walk",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "· 宫崎骏风之谷的灵感来源 · 深入峡谷偶遇野生袋鼠 · 卡塔丘塔绝美日出\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ：不建议“三高”人群或身体不适者参加 中级~高级体能要求 – 风之谷路段崎岖，部分区域陡峭、爬升较大，请务必根据自身体能选择徒步距离。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "introEn": "· 宫崎骏风之谷的灵感来源 · 深入峡谷偶遇野生袋鼠 · 卡塔丘塔绝美日出\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ：不建议“三高”人群或身体不适者参加 中级~高级体能要求 – 风之谷路段崎岖，部分区域陡峭、爬升较大，请务必根据自身体能选择徒步距离。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "participationNotice": "1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，且必须与大人同行方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前11天以上可做免费修改取消游玩日期前7-10天，任何修改取消收取50%的修改取消费用游玩日期前6天内，不做任何退改如您未在约定的时间地点参加行程，视为主动放弃，恕不能退款。",
@@ -13409,13 +13598,14 @@ window.TOURS = [
   "price": "A$219",
   "priceEn": "A$219",
   "days": 1,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "· BBC评选全球50必去目的地之一 · 英国皇室钟爱之地 · 瓦帕峡谷徒步深入 &quot;36座头&quot;内部 · 乌鲁鲁日落 看石头颜色变化\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 初级要求, 需在瓦帕峡谷徒步, 若客人无法完成可随时返回车上休息。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "introEn": "· BBC评选全球50必去目的地之一 · 英国皇室钟爱之地 · 瓦帕峡谷徒步深入 &quot;36座头&quot;内部 · 乌鲁鲁日落 看石头颜色变化\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 初级要求, 需在瓦帕峡谷徒步, 若客人无法完成可随时返回车上休息。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "participationNotice": "1.所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，且必须与大人同行方可享受儿童价。 3.因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4.如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5.因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6.照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 7.国家公园门票有效期为三天，如需自理请提前至官网购买，以免当日无法购票 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前11天以上可做免费修改取消游玩日期前7-10天，任何修改取消收取50%的修改取消费用游玩日期前6天内，不做任何退改如您未在约定的时间地点参加行程，视为主动放弃，恕不能退款。",
@@ -13482,13 +13672,14 @@ window.TOURS = [
   "price": "A$209",
   "priceEn": "A$209",
   "days": 1,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "· 乌鲁鲁绝美日出 · 原住民传奇故事 · 近距离接触上亿年岩画 · 感受气势雄峻 “世界七大奇景”之一\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 初级要求, 需在瓦帕峡谷徒步, 若客人无法完成可随时返回车上休息。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "introEn": "· 乌鲁鲁绝美日出 · 原住民传奇故事 · 近距离接触上亿年岩画 · 感受气势雄峻 “世界七大奇景”之一\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 初级要求, 需在瓦帕峡谷徒步, 若客人无法完成可随时返回车上休息。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "participationNotice": "1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，且必须与大人同行方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前11天以上可做免费修改取消游玩日期前7-10天，任何修改取消收取50%的修改取消费用游玩日期前6天内，不做任何退改如您未在约定的时间地点参加行程，视为主动放弃，恕不能退款。",
@@ -13555,13 +13746,14 @@ window.TOURS = [
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "· 唯一中文星空讲解，有趣地诠释天文知识 · 免费星空合影一张 · 使用专业天文望远镜尽情观赏澳洲内陆无光污染的星空\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1.在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2.中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3.如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4.澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。 5.关于达尔文及北澳旅行注意事项：4-10月是旱季，11-3月是雨季。雨季时节天气炎热潮湿，热带季风会带来大量的降雨从而导致水灾、道路冲毁等安全隐患，因此务必注意安全。另外需要佩戴太阳镜、防晒霜、遮阳帽、防蚊虫叮咬的药膏等。旱季时节天气凉爽，早晚需要一件薄外套。",
   "introEn": "· 唯一中文星空讲解，有趣地诠释天文知识 · 免费星空合影一张 · 使用专业天文望远镜尽情观赏澳洲内陆无光污染的星空\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1.在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽；太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2.中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 3.如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 4.澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水。 5.关于达尔文及北澳旅行注意事项：4-10月是旱季，11-3月是雨季。雨季时节天气炎热潮湿，热带季风会带来大量的降雨从而导致水灾、道路冲毁等安全隐患，因此务必注意安全。另外需要佩戴太阳镜、防晒霜、遮阳帽、防蚊虫叮咬的药膏等。旱季时节天气凉爽，早晚需要一件薄外套。",
   "participationNotice": "1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，且必须与大人同行方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前11天以上可做免费修改取消游玩日期前7-10天，任何修改取消收取50%的修改取消费用游玩日期前6天内，不做任何退改如您未在约定的时间地点参加行程，视为主动放弃，恕不能退款。",
@@ -13628,13 +13820,14 @@ window.TOURS = [
   "price": "A$139",
   "priceEn": "A$139",
   "days": 1,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "· 原住民传奇故事 · 近距离接触上亿年岩画 · 感受气势雄峻 “世界七大奇景”之一\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 初级体能要求，沿乌鲁鲁脚下的马拉步道行走，徒步时间约 1.5 小时；如感到不适，可随时放慢节奏。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "introEn": "· 原住民传奇故事 · 近距离接触上亿年岩画 · 感受气势雄峻 “世界七大奇景”之一\n\n行程攻略：\n由于澳洲内陆特殊的地理、气候及地质特点，为了您的旅游舒适、愉快和安全，请注意以下事项： 1 在夏季的澳洲中部，气温通常会高达40摄氏度，请注意穿着及携带以下用品： 轻便及浅色的衣服；舒适轻便的健步鞋或者旅行鞋；宽边遮阳防晒帽； 防蝇网; 太阳镜；高指数的防晒霜（建议30+）；避免剧烈运动（尤其11点到下午5点前）；不断饮用瓶装或者桶装水，炎热情况下，每小时尽量饮用600毫升水；尽量少饮用含糖量高的饮料（容易导致体内脱水）；哪怕在没有运动或者游览时间，也需要每天喝2-3升的水。 2 体能要求 ： 初级体能要求，沿乌鲁鲁脚下的马拉步道行走，徒步时间约 1.5 小时；如感到不适，可随时放慢节奏。 3 中暑征兆及应对： 出现以下现象可能是中暑征兆，比如眼花；意识模糊不清；口干舌燥；头晕并且程度不断加强；脉搏和呼吸加快；大量出汗后导致汗液停止； 意识状态改变等。 如果出现以上征兆，请通知你的导游或者联系皇家飞行医生服务中心驻乌鲁鲁服务站，Royal Flying Doctor Service， 电话08 89562136. 4 如果是在冬天（5月到6月底）前往澳洲中部旅游，除了防晒霜、太阳镜及太阳帽等，还要准备防寒或保暖衣物，因为沙漠地区早晚温差较大，以备清晨参加日出之旅或者晚间参加寂静之声晚宴等活动所需。 5 澳洲中部由于地形独特，乌鲁鲁、卡塔丘塔、帝王谷、爱丽斯泉等地都有长短不一（1到4个小时）的徒步或者爬山，因此请务必穿轻便徒步鞋或者登山鞋，并备好足够的饮用水",
   "participationNotice": "1. 所有报价均为澳币，包含政府消费稅及相关稅费。如果出现国家公园或者相应供应商价格调整，相关价格也会做调整，而不另行通知。 2.儿童年龄为：2-15岁，且必须与大人同行方可享受儿童价。 3. 因旅客因身体不适或其他私人原因更改或取消参团，按照退改退款执行。建议游客自行购买旅游保险。 4. 如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5. 因人数不足或天气，交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 6. 照片或者影像自愿声明：参加乌鲁鲁中文旅游团过程中，参团游客同意我们的导游，或者旅游负责人，在旅行过程中对旅游团照相或者摄像，并免费用于公司旅游手册及在线广告宣传。 关于攀登乌鲁鲁：乌鲁鲁是当地Anangu人的圣地，他们不希望游客攀登。乌鲁鲁中文旅游不提供任何攀登乌鲁鲁的游览项目。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前11天以上可做免费修改取消游玩日期前7-10天，任何修改取消收取50%的修改取消费用游玩日期前6天内，不做任何退改如您未在约定的时间地点参加行程，视为主动放弃，恕不能退款。",
@@ -13701,13 +13894,14 @@ window.TOURS = [
   "price": "A$98",
   "priceEn": "A$98",
   "days": 1,
+  "startCity": "乌鲁鲁",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "日间骑行 · 45分钟骆驼骑行之旅 · 骑行穿过广袤的红土沙丘 · 观看乌鲁鲁和塔卡丘塔壮观景色 日出 /日落骑行 · 60分钟骆驼骑行之旅 · 骑行穿过广袤的红土沙丘 · 观看乌鲁鲁和塔卡丘塔壮观景色 · 享用别具特色的内陆美食和酒水\n\n行程攻略：\n1 建议准备：遮阳帽、防晒霜、登山鞋、相机、饮用水、4-10月昼夜温差较大请准备轻薄保暖外套 2 在骑行过程中请注意听从向导的安排，不要随便抚摸拍打骆驼 3 年纪限制：此行程不适合5岁以下的儿童参加，16岁以下的儿童参加此项目必须由至少一位成人陪伴 4 体重限制：100kg以上的客人参加请在预定时说明 5 安全说明：向导会在途中照顾您的骑行安全，请您务必听从向导的指挥安排，保障骑行安全，如果骑行过程中您不听指挥造成受伤或是其他损失由您自己负责；我们建议您能提前购买旅游保险",
   "introEn": "日间骑行 · 45分钟骆驼骑行之旅 · 骑行穿过广袤的红土沙丘 · 观看乌鲁鲁和塔卡丘塔壮观景色 日出 /日落骑行 · 60分钟骆驼骑行之旅 · 骑行穿过广袤的红土沙丘 · 观看乌鲁鲁和塔卡丘塔壮观景色 · 享用别具特色的内陆美食和酒水\n\n行程攻略：\n1 建议准备：遮阳帽、防晒霜、登山鞋、相机、饮用水、4-10月昼夜温差较大请准备轻薄保暖外套 2 在骑行过程中请注意听从向导的安排，不要随便抚摸拍打骆驼 3 年纪限制：此行程不适合5岁以下的儿童参加，16岁以下的儿童参加此项目必须由至少一位成人陪伴 4 体重限制：100kg以上的客人参加请在预定时说明 5 安全说明：向导会在途中照顾您的骑行安全，请您务必听从向导的指挥安排，保障骑行安全，如果骑行过程中您不听指挥造成受伤或是其他损失由您自己负责；我们建议您能提前购买旅游保险",
   "participationNotice": "1. 成人与儿童同价，儿童须年满 5 岁 方可参加。（预订时请提供每位客人的体重信息） 2. 本行程受天气影响较大，如出团当日因天气原因无法正常进行，我公司将根据实际情况调整行程或更换景点，敬请谅解。 3. 旅途中之安全由各交通公司、旅店及各旅游景点等单位直接负责，本公司不承担个人安全事故责任。建议旅客出行前 自行购买旅游保险，以保障自身权益。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前4天以上可做免费修改取消；游玩日期前3天内，不做任何退改",
@@ -13774,13 +13968,14 @@ window.TOURS = [
   "price": "A$700",
   "priceEn": "A$700",
   "days": 1,
+  "startCity": "塔斯马尼亚",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "每天9点30出发16点30返回(周六10点~17点) 圣诞节25DEC不运营 大小同价 恕不提供海鲜之外的其他食物,过敏者慎选 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发日期2天前退改收取50%费用 出发日期24小时内恕不退改",
@@ -13847,13 +14042,14 @@ window.TOURS = [
   "price": "A$208",
   "priceEn": "A$208",
   "days": 1,
+  "startCity": "塔斯马尼亚",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "欣赏自然奇观 感受2.6亿年前的古老海底生物化石徒步探险与澳洲野生动物的完美结合 塔州东海岸、往返游船、玛丽亚岛、达灵顿化石崖、彩绘崖、野生袋熊、野生袋鼠",
   "introEn": "欣赏自然奇观 感受2.6亿年前的古老海底生物化石徒步探险与澳洲野生动物的完美结合 塔州东海岸、往返游船、玛丽亚岛、达灵顿化石崖、彩绘崖、野生袋熊、野生袋鼠",
   "participationNotice": "儿童年龄：4-11岁； 婴儿收费$80/人/天 ； 当天预定人数达到4人方可发团；当天参团人数6人以上（含6人）即安排导游陪同上岛；6人以下导游不上岛，但会交代行程安排。 预定玛利亚岛的客人，请自备午餐和垃圾袋。岛上没有餐厅可购买食物，客人需将垃圾从岛上带回。客人到达玛利亚岛后，将在信息中心看到中文版的“玛利亚岛出行信息”，请客人尽量不要在信息中心领取打印版的，可拍照使用。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -13920,13 +14116,14 @@ window.TOURS = [
   "price": "A$168",
   "priceEn": "A$168",
   "days": 1,
+  "startCity": "亚瑟港监狱历史遗迹及塔斯曼半岛一日游，PORT ARTHUR",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "亚瑟港在霍巴特东部的塔斯曼半岛。由于塔斯曼半岛三面环水，一面由仅30米宽的鹰颈峡与塔斯马尼亚本岛相连的地理环境，当年被选作关押从英国流放过来的囚犯的地方。如今此处成为了塔斯马尼亚最著名的旅游景点之一，也被列入世界文化遗产名录。霍巴特东部的塔斯曼半岛除了亚瑟港这一历史古迹以外，也有一些独特的自然风光，需要自驾搭配一段一段的步行。塔斯曼半岛和塔斯马尼亚本岛由狭窄的鹰颈峡相连，在以越狱逃犯马丁凯什命名的观景台(Martin Cash&#39;s Lookout)可以俯瞰狭窄细长的鹰颈峡和两侧的海水。 恶魔厨房是一个天然而成的景色，不能不让人感叹大自然的神奇。所谓“恶魔厨房”就是一处非常狭小的海湾，两侧是悬崖峭壁。常有鲨鱼将海豹赶至这里然后血腥猎杀。浪花撞击著山脚下的山洞后形成的回声似魔鬼在叫。在狭长的鹰颈峡还有一处“棋盘道”(Tessellated Pavement)，是海边岩石被海浪冲刷成凹陷成了类似瓷砖一样的形状。还有由海浪常年冲击而形成的石洞，海水涨潮时，经洞口冲向内湾，有时候巨大的水压甚至能将海水喷出距离地面2米多高， 这就是非常壮观的‘喷水洞’！附近的塔斯曼拱门 (Tasman Arch) ，这是海水冲蚀所造成的天然石洞，其正式名称为海蚀洞或是海蚀拱门，是受潮汐长期侵蚀逐渐凹陷，最后被风浪挖穿形成的洞穴。这个经过数百万年的时间淬炼才形成的天然奇景，有如一座气势雄伟的石造拱门，拱门顶端离海52.7公尺高，崎岖的海岸线在这里没入幽静无声的峡谷，并向郁郁葱葱的森林公园延伸，是一处蛮具特色的景色。\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "introEn": "亚瑟港在霍巴特东部的塔斯曼半岛。由于塔斯曼半岛三面环水，一面由仅30米宽的鹰颈峡与塔斯马尼亚本岛相连的地理环境，当年被选作关押从英国流放过来的囚犯的地方。如今此处成为了塔斯马尼亚最著名的旅游景点之一，也被列入世界文化遗产名录。霍巴特东部的塔斯曼半岛除了亚瑟港这一历史古迹以外，也有一些独特的自然风光，需要自驾搭配一段一段的步行。塔斯曼半岛和塔斯马尼亚本岛由狭窄的鹰颈峡相连，在以越狱逃犯马丁凯什命名的观景台(Martin Cash&#39;s Lookout)可以俯瞰狭窄细长的鹰颈峡和两侧的海水。 恶魔厨房是一个天然而成的景色，不能不让人感叹大自然的神奇。所谓“恶魔厨房”就是一处非常狭小的海湾，两侧是悬崖峭壁。常有鲨鱼将海豹赶至这里然后血腥猎杀。浪花撞击著山脚下的山洞后形成的回声似魔鬼在叫。在狭长的鹰颈峡还有一处“棋盘道”(Tessellated Pavement)，是海边岩石被海浪冲刷成凹陷成了类似瓷砖一样的形状。还有由海浪常年冲击而形成的石洞，海水涨潮时，经洞口冲向内湾，有时候巨大的水压甚至能将海水喷出距离地面2米多高， 这就是非常壮观的‘喷水洞’！附近的塔斯曼拱门 (Tasman Arch) ，这是海水冲蚀所造成的天然石洞，其正式名称为海蚀洞或是海蚀拱门，是受潮汐长期侵蚀逐渐凹陷，最后被风浪挖穿形成的洞穴。这个经过数百万年的时间淬炼才形成的天然奇景，有如一座气势雄伟的石造拱门，拱门顶端离海52.7公尺高，崎岖的海岸线在这里没入幽静无声的峡谷，并向郁郁葱葱的森林公园延伸，是一处蛮具特色的景色。\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "participationNotice": "儿童年龄：4-11岁； 婴儿收费$80/人/天 ；此行程包含了亚瑟港的门票，成人为统一价格，不区分成人、学生、 老年人等不同类型门票的价格差异。 一日游，参团当天需要接机或送机，每组客人加收$10 自定酒店且酒店在市区范围内的提供免费接送；但如果酒店门口不方便停车，需自行到市中心集合点等车。 自定酒店在市区范围外或预定民宿的客人，需自行到市区集合点等车。 等车地址:110 Liverpool Street(市中心Myer 百货公司门口) 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -13993,13 +14190,14 @@ window.TOURS = [
   "price": "A$148",
   "priceEn": "A$148",
   "days": 1,
+  "startCity": "酒杯湾醉美海湾一日游，Wine Glass Bay Day Tour",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "位于塔斯曼尼亚（Tasmania）菲辛那半岛（Freycinet Peninsula）的酒杯湾（Wineglass Bay），是公认的全球十大美丽海滩之一。 此耀眼白沙与湛蓝海水相互辉映的无瑕半月形海滩，与粉红和灰色相间的花岗岩群峰相映成趣，形成澳洲最美的自然景观之一。 日期：天天出发\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "introEn": "位于塔斯曼尼亚（Tasmania）菲辛那半岛（Freycinet Peninsula）的酒杯湾（Wineglass Bay），是公认的全球十大美丽海滩之一。 此耀眼白沙与湛蓝海水相互辉映的无瑕半月形海滩，与粉红和灰色相间的花岗岩群峰相映成趣，形成澳洲最美的自然景观之一。 日期：天天出发\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "participationNotice": "儿童年龄：4-11岁； 婴儿收费$80/人/天 ； 一日游，参团当天需要接机或送机，每组客人加收$10 自定酒店且酒店在市区范围内的提供免费接送；但如果酒店门口不方便停车，需自行到市中心集合点等车。 自定酒店在市区范围外或预定民宿的客人，需自行到市区集合点等车。 等车地址:110 Liverpool Street(市中心Myer 百货公司门口) 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -14066,13 +14264,14 @@ window.TOURS = [
   "price": "A$138",
   "priceEn": "A$138",
   "days": 1,
+  "startCity": "菲尔德山国家公园一日游,MOUNT FIELD NATIONAL PARK",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "菲尔德山以壮观的高山景致、广阔的温带雨林、湖泊、种类丰富的野生动物而闻名。漫步于世上少有的温带雨林，参观令人神往的罗素瀑布（Russell Fall）。高树穿行，漫步于天然氧吧，感受独特的温带雨林气息。\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "introEn": "菲尔德山以壮观的高山景致、广阔的温带雨林、湖泊、种类丰富的野生动物而闻名。漫步于世上少有的温带雨林，参观令人神往的罗素瀑布（Russell Fall）。高树穿行，漫步于天然氧吧，感受独特的温带雨林气息。\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "participationNotice": "儿童年龄：4-11岁； 婴儿收费$80/人/天 一日游，参团当天需要接机或送机，每组客人加收$10 自定酒店且酒店在市区范围内的提供免费接送；但如果酒店门口不方便停车，需自行到市中心集合点等车。 自定酒店在市区范围外或预定民宿的客人，需自行到市区集合点等车。 等车地址:110 Liverpool Street(市中心Myer 百货公司门口) 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -14139,13 +14338,14 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 1,
+  "startCity": "霍巴特",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "我们每天提供从霍巴特到亚瑟港历史遗址的往返巴士服务 这是前往三海角步道的完美交通选择，或者如果您想花一天时间探索被联合国教科文组织列为世界遗产的亚瑟港历史遗址。 我们的巴士发车时间意味着您将有六个多小时的时间悠闲地探索亚瑟港历史遗址。您的亚瑟港历史遗址门票包括： 参观 30 多座历史建筑、废墟、修复后的房屋、遗产花园和步行道 进入亚瑟港画廊，其中包括讲述亚瑟港故事的互动展览和展示 20分钟海港游船 全新的自助式亚瑟港音频体验，可以作为播客下载到您自己的移动设备上 专家导游和专业人员每天都会在关键地点提供免费现场讲座。您可能想每天早上查看该网站，了解提供哪些现场讲座 - https://www.portarthur.org.au/what-do-do/today 时间表 霍巴特至亚瑟港巴士 上午 7.30 在霍巴特彭尼科特荒野之旅 (Pennicott Wilderness Journeys) 报到 上午 7.45 从霍巴特彭尼科特荒野之旅 (Pennicott Wilderness Journeys) 出发。 上午 8.30 霍巴特机场接载（仅限提前安排） 上午 9.30 至 10.00 送至亚瑟港历史遗址 亚瑟港前往霍巴特 巴士 下午 4.45 从亚瑟港历史遗址出发 下午 6.15 在霍巴特机场 下车 巴士将于下午 6.30 至 7.00 之间返回霍巴特，在 Pennicott Wilderness Journeys 下车",
   "introEn": "我们每天提供从霍巴特到亚瑟港历史遗址的往返巴士服务 这是前往三海角步道的完美交通选择，或者如果您想花一天时间探索被联合国教科文组织列为世界遗产的亚瑟港历史遗址。 我们的巴士发车时间意味着您将有六个多小时的时间悠闲地探索亚瑟港历史遗址。您的亚瑟港历史遗址门票包括： 参观 30 多座历史建筑、废墟、修复后的房屋、遗产花园和步行道 进入亚瑟港画廊，其中包括讲述亚瑟港故事的互动展览和展示 20分钟海港游船 全新的自助式亚瑟港音频体验，可以作为播客下载到您自己的移动设备上 专家导游和专业人员每天都会在关键地点提供免费现场讲座。您可能想每天早上查看该网站，了解提供哪些现场讲座 - https://www.portarthur.org.au/what-do-do/today 时间表 霍巴特至亚瑟港巴士 上午 7.30 在霍巴特彭尼科特荒野之旅 (Pennicott Wilderness Journeys) 报到 上午 7.45 从霍巴特彭尼科特荒野之旅 (Pennicott Wilderness Journeys) 出发。 上午 8.30 霍巴特机场接载（仅限提前安排） 上午 9.30 至 10.00 送至亚瑟港历史遗址 亚瑟港前往霍巴特 巴士 下午 4.45 从亚瑟港历史遗址出发 下午 6.15 在霍巴特机场 下车 巴士将于下午 6.30 至 7.00 之间返回霍巴特，在 Pennicott Wilderness Journeys 下车",
   "participationNotice": "儿童价格适用于3~16岁的儿童,不满3岁免费 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n出发日期2天前免费退改 出发日期24小时内恕不退改",
@@ -14212,13 +14412,14 @@ window.TOURS = [
   "price": "A$98",
   "priceEn": "A$98",
   "days": 1,
+  "startCity": "霍巴特",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "曾被著名旅游书籍选为世界前十大必去的塔斯马尼亚首府--荷巴特，步行在港口码头、浸沐在海风吹拂的怡人氛围；在莎拉曼卡广场体验悠閒且丰富的人文风情；走访威灵顿山，欣赏霍巴特优美的自然景色，一起来发掘这城市迷人的秘密。\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "introEn": "曾被著名旅游书籍选为世界前十大必去的塔斯马尼亚首府--荷巴特，步行在港口码头、浸沐在海风吹拂的怡人氛围；在莎拉曼卡广场体验悠閒且丰富的人文风情；走访威灵顿山，欣赏霍巴特优美的自然景色，一起来发掘这城市迷人的秘密。\n\n行程攻略：\n请携带个人药品、换洗衣物和用品, 行李以軟包為主不超过7公斤为原则 请注意補充水分、防晒和保暖 建议携带墨镜、遮阳帽、防晒霜、雨具、相机、薄外套防寒、穿著舒适的步行鞋和衣褲",
   "participationNotice": "儿童年龄：4-11岁； 婴儿收费$80/人/天 ； 一日游，参团当天需要接机或送机，每组客人加收$10 自定酒店且酒店在市区范围内的提供免费接送；但如果酒店门口不方便停车，需自行到市中心集合点等车。 自定酒店在市区范围外或预定民宿的客人，需自行到市区集合点等车。 等车地址:110 Liverpool Street(市中心Myer 百货公司门口) 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n1. 客人因故未能参团，出发前三至七天取消将收取全款30％手续费；出发前三天内（含第三天）取消，客人所缴参团费不予退还； 2. 参团期间，如果游客中途离团或自动放弃部分景点观光时，所缴费用我司概不退还； 若由于天气、自然灾害等无法控制因素而引起的行程改变或终止，我司不予退款或赔偿；由于航空公司的原因引起的航班取消、晚点而造成的行程改变或缺失，我司不予赔偿或弥补缺失的行程；由于游客自己的原因错过航班或调整航班而引起的行程缺失或调整，我司不予弥补缺失行程或对缺失行程退款或补偿。",
@@ -14285,6 +14486,7 @@ window.TOURS = [
   "price": "A$1858",
   "priceEn": "A$1858",
   "days": 7,
+  "startCity": "新西兰",
   "tags": [
    "纯玩无购物"
   ],
@@ -14364,6 +14566,7 @@ window.TOURS = [
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 4,
+  "startCity": "【喜洋洋】新西兰北岛经典4日游，New Zealand North Island 4",
   "tags": [
    "纯玩无购物"
   ],
@@ -14437,6 +14640,7 @@ window.TOURS = [
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 9,
+  "startCity": "新西兰南岛全景9日游",
   "tags": [
    "纯玩无购物"
   ],
@@ -14510,6 +14714,7 @@ window.TOURS = [
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 4,
+  "startCity": "新西兰",
   "tags": [
    "纯玩无购物"
   ],
@@ -14583,6 +14788,7 @@ window.TOURS = [
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 10,
+  "startCity": "新西兰",
   "tags": [
    "纯玩无购物"
   ],
@@ -14656,6 +14862,7 @@ window.TOURS = [
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 10,
+  "startCity": "新西兰",
   "tags": [
    "纯玩无购物"
   ],
@@ -14713,13 +14920,14 @@ window.TOURS = [
   "price": "A$37",
   "priceEn": "A$37",
   "days": 1,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "行程攻略：\n1. 请在参观时间开始之前提前15分钟到达，若因迟到错过行程，请自行负责 2. 歌剧院地址：2 Macquarie Street, Sydney CBD NSW 2000 3. 内部参观换票地点：抵达歌剧院后，请按照图示，前往Welcome Center兑换内部参观券 内部参观须知 1. 歌剧院内请勿高声喧哗； 2. 建议着平底鞋，最好不要穿高跟鞋； 3. 歌剧院内请勿吸烟。",
   "introEn": "行程攻略：\n1. 请在参观时间开始之前提前15分钟到达，若因迟到错过行程，请自行负责 2. 歌剧院地址：2 Macquarie Street, Sydney CBD NSW 2000 3. 内部参观换票地点：抵达歌剧院后，请按照图示，前往Welcome Center兑换内部参观券 内部参观须知 1. 歌剧院内请勿高声喧哗； 2. 建议着平底鞋，最好不要穿高跟鞋； 3. 歌剧院内请勿吸烟。",
   "participationNotice": "1. 请在下订单时选择游览时段, 下午时段由于歌剧院不定时演出，可能不能进入到演播厅观览，行程以供应商的回复为准； 2. 请查看电子票确认的参观时间，可能与您选择的时间有15-30分钟的差异；行程以供应商的回复为准 3.中文1小时讲解可选时间通常为0930am,1100am,1:00pm,2:30pm; 中文30分钟讲解可选时间通常为0915am,1015am,1115am,1:15pm,2:15pm,3;15pm 悉尼歌剧院在以下日期不提供导览：圣诞节、新年前夜、元旦、2026 年9 月 13日、12月 25 日、12 月 30 - 31 日、2027 年 1 月 1 日 、3 月 6 - 7 日。 合计： 清空行程单 下一步 &#215; 基本信息 联系人 联系电话 微信 E-Mail 验证码 获取验证码 *注：请准确填写，您的电话和邮箱地址。便于查收确认信息！ (如不能正常接收邮件或邮件不能正常出现在收件箱，请将 [email&#160;protected] 加入白名单) 同意订阅澳妙假期的最新产品介绍，并通过邮箱或短信接收我们的新闻、新产品等。To subscribe, you agree to receive text message or mail notifications on latest products, specials discounts and offers. 备注 合计： 结算 &#215; 载入中... 支付方式 在线支付 微信支付 信用卡支付 上门支付 营业时间 周一 ~ 周五: 9:30 to 18:00 周六: 10:00 to 15:00 周日 Close 公司地址 地址：Suite 105, Level 1, 370 Pitt Street, Sydney 2000 请加客服微信 澳妙假期-小猫，微信号：aussielive 澳妙假期-旺旺，微信号：aomotriwang 首页 | 关于我们 | 联系我们 | 服务条款 Copyright &copy; 2018 LLH All Rights Reserved.\n\n退改政策：\n游玩日期前6天以上可做免费修改取消 游玩日期前5天内，不做任何退",
@@ -14786,6 +14994,7 @@ window.TOURS = [
   "price": "A$998",
   "priceEn": "A$998",
   "days": 8,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -14901,6 +15110,7 @@ window.TOURS = [
   "price": "A$379",
   "priceEn": "A$379",
   "days": 12,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15008,6 +15218,7 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15063,6 +15274,7 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15119,6 +15331,7 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15181,6 +15394,7 @@ window.TOURS = [
   "price": "A$1149",
   "priceEn": "A$1149",
   "days": 12,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15271,6 +15485,7 @@ window.TOURS = [
   "price": "A$389",
   "priceEn": "A$389",
   "days": 13,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15457,6 +15672,7 @@ window.TOURS = [
   "price": "A$489",
   "priceEn": "A$489",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15659,6 +15875,7 @@ window.TOURS = [
   "price": "A$399",
   "priceEn": "A$399",
   "days": 11,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15753,6 +15970,7 @@ window.TOURS = [
   "price": "A$588",
   "priceEn": "A$588",
   "days": 11,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15852,6 +16070,7 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15923,6 +16142,7 @@ window.TOURS = [
   "price": "A$1798",
   "priceEn": "A$1798",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -15990,6 +16210,7 @@ window.TOURS = [
   "price": "A$1898",
   "priceEn": "A$1898",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -16076,6 +16297,7 @@ window.TOURS = [
   "price": "A$598",
   "priceEn": "A$598",
   "days": 0,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -16132,6 +16354,7 @@ window.TOURS = [
   "price": "A$198",
   "priceEn": "A$198",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -16203,6 +16426,7 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -16273,6 +16497,7 @@ window.TOURS = [
   "price": "A$2798",
   "priceEn": "A$2798",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -16348,6 +16573,7 @@ window.TOURS = [
   "price": "待确认",
   "priceEn": "待确认",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -16414,6 +16640,7 @@ window.TOURS = [
   "price": "A$1398",
   "priceEn": "A$1398",
   "days": 0,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -16470,6 +16697,7 @@ window.TOURS = [
   "price": "A$1698",
   "priceEn": "A$1698",
   "days": 10,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -16609,6 +16837,7 @@ window.TOURS = [
   "price": "A$1898",
   "priceEn": "A$1898",
   "days": 11,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -16691,6 +16920,7 @@ window.TOURS = [
   "price": "A$2098",
   "priceEn": "A$2098",
   "days": 8,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -16941,6 +17171,7 @@ window.TOURS = [
   "price": "A$2098",
   "priceEn": "A$2098",
   "days": 8,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -17183,6 +17414,7 @@ window.TOURS = [
   "price": "A$1998",
   "priceEn": "A$1998",
   "days": 10,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -17361,6 +17593,7 @@ window.TOURS = [
   "price": "A$18990",
   "priceEn": "A$18990",
   "days": 12,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17422,6 +17655,7 @@ window.TOURS = [
   "price": "A$14388",
   "priceEn": "A$14388",
   "days": 20,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17483,6 +17717,7 @@ window.TOURS = [
   "price": "A$15599",
   "priceEn": "A$15599",
   "days": 22,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17544,6 +17779,7 @@ window.TOURS = [
   "price": "A$5999",
   "priceEn": "A$5999",
   "days": 8,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17605,6 +17841,7 @@ window.TOURS = [
   "price": "A$2880",
   "priceEn": "A$2880",
   "days": 14,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17666,6 +17903,7 @@ window.TOURS = [
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 6,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17727,6 +17965,7 @@ window.TOURS = [
   "price": "A$3348",
   "priceEn": "A$3348",
   "days": 8,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17788,6 +18027,7 @@ window.TOURS = [
   "price": "A$2899",
   "priceEn": "A$2899",
   "days": 15,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17849,6 +18089,7 @@ window.TOURS = [
   "price": "A$5770",
   "priceEn": "A$5770",
   "days": 8,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17910,6 +18151,7 @@ window.TOURS = [
   "price": "A$3299",
   "priceEn": "A$3299",
   "days": 6,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -17971,6 +18213,7 @@ window.TOURS = [
   "price": "A$3999",
   "priceEn": "A$3999",
   "days": 8,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18032,6 +18275,7 @@ window.TOURS = [
   "price": "A$6550",
   "priceEn": "A$6550",
   "days": 11,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18093,6 +18337,7 @@ window.TOURS = [
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18154,6 +18399,7 @@ window.TOURS = [
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18215,6 +18461,7 @@ window.TOURS = [
   "price": "A$2070",
   "priceEn": "A$2070",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18276,6 +18523,7 @@ window.TOURS = [
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18337,6 +18585,7 @@ window.TOURS = [
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18398,6 +18647,7 @@ window.TOURS = [
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18459,6 +18709,7 @@ window.TOURS = [
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18520,6 +18771,7 @@ window.TOURS = [
   "price": "A$1808",
   "priceEn": "A$1808",
   "days": 9,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -18581,6 +18833,7 @@ window.TOURS = [
   "price": "A$489",
   "priceEn": "A$489",
   "days": 3,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -18642,6 +18895,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 3,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -18703,6 +18957,7 @@ window.TOURS = [
   "price": "A$849",
   "priceEn": "A$849",
   "days": 5,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -18764,6 +19019,7 @@ window.TOURS = [
   "price": "A$999",
   "priceEn": "A$999",
   "days": 5,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -18825,6 +19081,7 @@ window.TOURS = [
   "price": "A$1699",
   "priceEn": "A$1699",
   "days": 5,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -18886,6 +19143,7 @@ window.TOURS = [
   "price": "A$1399",
   "priceEn": "A$1399",
   "days": 4,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -18947,6 +19205,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19008,6 +19267,7 @@ window.TOURS = [
   "price": "A$729",
   "priceEn": "A$729",
   "days": 4,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19069,6 +19329,7 @@ window.TOURS = [
   "price": "A$3390",
   "priceEn": "A$3390",
   "days": 11,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19130,6 +19391,7 @@ window.TOURS = [
   "price": "A$830",
   "priceEn": "A$830",
   "days": 3,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19185,6 +19447,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19240,6 +19503,7 @@ window.TOURS = [
   "price": "A$749",
   "priceEn": "A$749",
   "days": 3,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19295,6 +19559,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 4,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19350,6 +19615,7 @@ window.TOURS = [
   "price": "A$530",
   "priceEn": "A$530",
   "days": 3,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19405,6 +19671,7 @@ window.TOURS = [
   "price": "A$899",
   "priceEn": "A$899",
   "days": 3,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -19460,6 +19727,7 @@ window.TOURS = [
   "price": "A$980",
   "priceEn": "A$980",
   "days": 5,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19516,6 +19784,7 @@ window.TOURS = [
   "price": "A$1049",
   "priceEn": "A$1049",
   "days": 5,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19571,6 +19840,7 @@ window.TOURS = [
   "price": "A$3",
   "priceEn": "A$3",
   "days": 10,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19632,6 +19902,7 @@ window.TOURS = [
   "price": "A$3988",
   "priceEn": "A$3988",
   "days": 12,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19693,6 +19964,7 @@ window.TOURS = [
   "price": "A$26800",
   "priceEn": "A$26800",
   "days": 17,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19754,6 +20026,7 @@ window.TOURS = [
   "price": "A$6988",
   "priceEn": "A$6988",
   "days": 12,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19815,6 +20088,7 @@ window.TOURS = [
   "price": "A$9680",
   "priceEn": "A$9680",
   "days": 12,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19876,6 +20150,7 @@ window.TOURS = [
   "price": "A$1499",
   "priceEn": "A$1499",
   "days": 8,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19937,6 +20212,7 @@ window.TOURS = [
   "price": "A$5850",
   "priceEn": "A$5850",
   "days": 20,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -19998,6 +20274,7 @@ window.TOURS = [
   "price": "A$1888",
   "priceEn": "A$1888",
   "days": 11,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20059,6 +20336,7 @@ window.TOURS = [
   "price": "A$3899",
   "priceEn": "A$3899",
   "days": 15,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20120,6 +20398,7 @@ window.TOURS = [
   "price": "A$12680",
   "priceEn": "A$12680",
   "days": 16,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20181,6 +20460,7 @@ window.TOURS = [
   "price": "A$26800",
   "priceEn": "A$26800",
   "days": 17,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20242,6 +20522,7 @@ window.TOURS = [
   "price": "A$4780",
   "priceEn": "A$4780",
   "days": 6,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20303,6 +20584,7 @@ window.TOURS = [
   "price": "A$4988",
   "priceEn": "A$4988",
   "days": 16,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20358,6 +20640,7 @@ window.TOURS = [
   "price": "A$6399",
   "priceEn": "A$6399",
   "days": 25,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20413,6 +20696,7 @@ window.TOURS = [
   "price": "A$5688",
   "priceEn": "A$5688",
   "days": 18,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20468,6 +20752,7 @@ window.TOURS = [
   "price": "A$7999",
   "priceEn": "A$7999",
   "days": 16,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20523,6 +20808,7 @@ window.TOURS = [
   "price": "A$7999",
   "priceEn": "A$7999",
   "days": 16,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20578,6 +20864,7 @@ window.TOURS = [
   "price": "A$2888",
   "priceEn": "A$2888",
   "days": 15,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20633,6 +20920,7 @@ window.TOURS = [
   "price": "A$5488",
   "priceEn": "A$5488",
   "days": 15,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20688,6 +20976,7 @@ window.TOURS = [
   "price": "A$4999",
   "priceEn": "A$4999",
   "days": 12,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -20743,6 +21032,7 @@ window.TOURS = [
   "price": "A$3688",
   "priceEn": "A$3688",
   "days": 12,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -20798,13 +21088,14 @@ window.TOURS = [
   "price": "待确认",
   "priceEn": "待确认",
   "days": 5,
+  "startCity": "黄金海岸",
   "tags": [
    "纯玩无购物"
   ],
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/hero-sydney.jpg",
+  "img": "assets/img/destinations/au-sydney.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -20908,6 +21199,7 @@ window.TOURS = [
   "price": "A$798",
   "priceEn": "A$798",
   "days": 12,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -20979,6 +21271,7 @@ window.TOURS = [
   "price": "A$1398",
   "priceEn": "A$1398",
   "days": 7,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -21089,6 +21382,7 @@ window.TOURS = [
   "price": "A$399",
   "priceEn": "A$399",
   "days": 11,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -21188,6 +21482,7 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 11,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -21338,6 +21633,7 @@ window.TOURS = [
   "price": "A$1698",
   "priceEn": "A$1698",
   "days": 10,
+  "startCity": "",
   "tags": [
    "纯玩无购物"
   ],
@@ -21573,6 +21869,7 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 13,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -21676,6 +21973,7 @@ window.TOURS = [
   "price": "A$49",
   "priceEn": "A$49",
   "days": 12,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -21762,6 +22060,7 @@ window.TOURS = [
   "price": "A$1999",
   "priceEn": "A$1999",
   "days": 13,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -21901,6 +22200,7 @@ window.TOURS = [
   "price": "A$99",
   "priceEn": "A$99",
   "days": 13,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -21996,6 +22296,7 @@ window.TOURS = [
   "price": "A$199",
   "priceEn": "A$199",
   "days": 14,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -22087,6 +22388,7 @@ window.TOURS = [
   "price": "A$1098",
   "priceEn": "A$1098",
   "days": 17,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -22153,6 +22455,7 @@ window.TOURS = [
   "price": "A$2168",
   "priceEn": "A$2168",
   "days": 18,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -22223,6 +22526,7 @@ window.TOURS = [
   "price": "A$4299",
   "priceEn": "A$4299",
   "days": 17,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -22289,6 +22593,7 @@ window.TOURS = [
   "price": "A$4299",
   "priceEn": "A$4299",
   "days": 18,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -22355,6 +22660,7 @@ window.TOURS = [
   "price": "A$1199",
   "priceEn": "A$1199",
   "days": 6,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -22546,6 +22852,7 @@ window.TOURS = [
   "price": "A$1498",
   "priceEn": "A$1498",
   "days": 6,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -22720,6 +23027,7 @@ window.TOURS = [
   "price": "A$1018",
   "priceEn": "A$1018",
   "days": 8,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -22934,6 +23242,7 @@ window.TOURS = [
   "price": "A$638",
   "priceEn": "A$638",
   "days": 7,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -23156,6 +23465,7 @@ window.TOURS = [
   "price": "A$919",
   "priceEn": "A$919",
   "days": 6,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -23406,6 +23716,7 @@ window.TOURS = [
   "price": "A$2098",
   "priceEn": "A$2098",
   "days": 10,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -23592,6 +23903,7 @@ window.TOURS = [
   "price": "A$1058",
   "priceEn": "A$1058",
   "days": 6,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -23778,6 +24090,7 @@ window.TOURS = [
   "price": "A$1198",
   "priceEn": "A$1198",
   "days": 5,
+  "startCity": "",
   "tags": [
    "超值特价"
   ],
@@ -23993,6 +24306,7 @@ window.TOURS = [
   "price": "A$3299",
   "priceEn": "A$3299",
   "days": 15,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
@@ -24071,6 +24385,7 @@ window.TOURS = [
   "price": "A$5399",
   "priceEn": "A$5399",
   "days": 11,
+  "startCity": "",
   "tags": [
    "机票套餐"
   ],
