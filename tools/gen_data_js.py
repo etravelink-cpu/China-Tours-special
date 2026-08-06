@@ -46,7 +46,7 @@ conn = sqlite3.connect(DB); c = conn.cursor()
 rows = c.execute("""
     SELECT p.Internal_Product_Code, p.Product_Name_CN, p.Web_Category1, p.Web_Category2,
            p.Duration_Days, p.Product_Category, p.Itinerary, p.Cost_Info, p.Status, p.Online_Visible,
-           p.Is_Featured, p.Product_Intro, p.Participation_Notice,
+           p.Is_Featured, p.Product_Intro, p.Participation_Notice, p.Supplier_Product_Code,
            (SELECT COALESCE(MIN(Adult_Price_AUD),0) FROM Departure_Pricing WHERE Internal_Product_Code=p.Internal_Product_Code) as ad
     FROM Product_Master p
     WHERE p.Online_Visible=1 AND p.Status='Active'
@@ -97,7 +97,7 @@ def derive_subregion(name, dk, category):
             ('江南上海', ['江南', '上海', '苏州', '杭州', '无锡', '南京', '乌镇', '千岛湖', '西湖', '婺源', '黄山', '普陀', '九华', '庐山', '深坑', '爱达魔都', '爱达花城', '邮轮', '游轮']),
             ('北京西安', ['北京', '西安', '延安']),
             ('长江三峡', ['长江三峡', '三峡', '重庆', '宜昌', '瞿塘', '巫峡', '西陵']),
-            ('九寨张家界云南贵州', ['九寨', '张家界', '云南', '贵州', '丽江', '大理', '昆明', '西双版纳', '黔']),
+            ('九寨张家界云南贵州', ['九寨', '张家界', '云南', '贵州', '丽江', '大理', '昆明', '西双版纳', '黔', '四川', '成都', '峨眉', '乐山', '都江堰', '青城山', '九黄', '黄龙']),
             ('广东广西福建海南', ['广东', '广西', '福建', '海南', '大湾区', '珠江', '潮汕', '香港', '深圳', '广州', '桂林', '阳朔', '厦门', '泉州', '武夷山', '土楼']),
             ('山东山西东北河南', ['山东', '山西', '东北', '河南', '哈尔滨', '沈阳', '大连', '青岛', '曲阜']),
             ('新疆甘肃西藏青海丝绸之路', ['新疆', '甘肃', '西藏', '青海', '丝绸之路', '丝路', '喀什', '喀纳斯', '阿勒泰', '胡杨', '南疆', '北疆']),
@@ -110,9 +110,13 @@ def derive_subregion(name, dk, category):
         cnt = sum(1 for c in city_kw if c in s)
         if cnt >= 2: return '澳洲跨地区联游'
         if any(k in s for k in ['圣灵', '艾尔利', '汉密尔顿岛']) or 'Whitsunday' in s: return '圣灵群岛'
+        # 凯恩斯(大堡礁) 优先: 名称含大堡礁/凯恩斯/各 reef 船名 -> 必须在黄金海岸之前匹配
+        if any(k in s for k in ['凯恩斯', '大堡礁', '白天堂', '绿岛', '道格拉斯港', '棕榈湾', '阿瑟顿', '热带雨林', '游船', '蜕变号', '大冒险号', '银梭', '太阳恋人', '梦幻丽礁']): return '凯恩斯（大堡礁）'
+        # 阿德莱德 优先: 名称含阿德莱德/袋鼠岛等 -> 必须在悉尼'市区'之前匹配
+        if any(k in s for k in ['阿德莱德', '袋鼠岛', '巴罗莎', '菲尔半岛', '穆理河', '红酒之乡', '阿德']): return '阿德莱德/南澳'
         if any(k in s for k in ['悉尼', '蓝山', '史蒂芬港', '猎人谷', '卧龙岗', '杰维斯湾', '蓝色海洋路', '中央海岸', '市区', '歌剧院']): return '悉尼及周边'
         if any(k in s for k in ['墨尔本', '企鹅岛', '菲利普岛', '大洋路', '蒸汽火车', '疏芬山', '莫宁顿', '企鹅', '彩虹小屋']): return '墨尔本及周边'
-        if any(k in s for k in ['黄金海岸', '布里斯班', '可伦宾', '拜伦湾', '天宝林山', '翠儿河', '摩顿', '海豚岛', '大堡礁', '危险角', '热带水果', '观光塔', '鸭子船', '鹈鹕']): return '黄金海岸&布里斯班'
+        if any(k in s for k in ['黄金海岸', '布里斯班', '可伦宾', '拜伦湾', '天宝林山', '翠儿河', '摩顿', '海豚岛', '危险角', '热带水果', '观光塔', '鸭子船', '鹈鹕']): return '黄金海岸&布里斯班'
         if any(k in s for k in ['凯恩斯', '大堡礁', '白天堂', '绿岛', '道格拉斯港', '棕榈湾', '阿瑟顿', '热带雨林', '游船', '蜕变号', '大冒险号', '银梭', '太阳恋人', '梦幻丽礁']): return '凯恩斯（大堡礁）'
         if any(k in s for k in ['西澳', '珀斯', '粉红湖', '尖峰石阵', '玛格利特', '波浪岩', '天鹅河', '罗特尼斯', '巴内']): return '西澳/珀斯'
         if any(k in s for k in ['乌鲁鲁', '帝王谷', '卡塔丘塔', '红土', '原野星光', '寂静之声', '艾尔斯']): return '乌鲁鲁/北领地'
@@ -166,7 +170,7 @@ def derive_subregion(name, dk, category):
     return '其他'
 
 tours = []
-for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, notice, ad) in rows:
+for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, notice, spc, ad) in rows:
     dk = DEST_KEY.get(wc1, 'other')
     # 内容层修正: 名称含新西兰/南北岛 或 Web_Category1 已标新西兰 的产品, 归回新西兰树(不改 DB, 可逆)
     if '新西兰' in (name or '') or '南北岛' in (name or '') or wc1 == '新西兰':
@@ -203,19 +207,38 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
     for d, st, city, adult, cb, cnb, inf, single, trans, tip, svc in dep_rows:
         if d:
             departureDates.append({"date": d, "status": st or "available"})
+
+    # 出发规则 (从 Departure_Rules; 与后台预览页同源): 规则型班期(每周X出发+有效期)用于前端实时展开日历
+    rule_rows = c.execute("""SELECT Weekdays, Valid_From, Valid_To, Surcharge_Note
+        FROM Departure_Rules WHERE Internal_Product_Code=?""", (code,)).fetchone()
+    depRule = None
+    validFrom = None
+    validTo = None
+    surchargeNote = ""
+    if rule_rows and rule_rows[0]:
+        wd_raw = rule_rows[0] or ""
+        depRule = [int(x) for x in str(wd_raw).split(",") if x.strip().isdigit()]
+        validFrom = rule_rows[1] if rule_rows[1] and rule_rows[1] != "indefinite" else None
+        validTo = rule_rows[2] if rule_rows[2] and rule_rows[2] != "indefinite" else None
+        surchargeNote = rule_rows[3] or ""
     # 价格表: 仅取第一条(对齐后台预览页"仅显示第一行，不罗列所有日期"); 避免各班期重复行脏数据
     priceTable = []
     if dep_rows:
         d, st, city, adult, cb, cnb, inf, single, trans, tip, svc = dep_rows[0]
-        priceTable.append({
-            "city": city or '', "adult": adult if adult is not None else '',
-            "childbed": cb if cb is not None else '', "childnobed": cnb if cnb is not None else '',
-            "infant": inf if inf is not None else '', "single": single if single is not None else '',
-            "transfer": trans if trans is not None else '', "tip": tip if tip is not None else '',
-            "service": svc if svc is not None else '',
-        })
+        # 仅当任一价格字段有真实金额(>0)才生成价格表行; 全空则留空 -> 前端隐藏价格tab
+        prices=[adult, cb, cnb, inf, single, trans, tip, svc]
+        has_price = any(p is not None and isinstance(p,(int,float)) and p>0 for p in prices)
+        if has_price:
+            priceTable.append({
+                "city": city or '', "adult": adult if adult is not None else '',
+                "childbed": cb if cb is not None else '', "childnobed": cnb if cnb is not None else '',
+                "infant": inf if inf is not None else '', "single": single if single is not None else '',
+                "transfer": trans if trans is not None else '', "tip": tip if tip is not None else '',
+                "service": svc if svc is not None else '',
+            })
     tours.append({
         "id": code,
+        "supplierCode": spc or '',
         "nameZh": name or '',
         "nameEn": name or '',   # 占位: 暂无英文, 后续补
         "dest": dk,
@@ -234,6 +257,10 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         "introEn": introEn,
         "participationNotice": participationNotice,
         "departureDates": departureDates,
+        "depRule": depRule,
+        "validFrom": validFrom,
+        "validTo": validTo,
+        "surchargeNote": surchargeNote,
         "priceTable": priceTable,
         "brochures": brochures,
         "itinerary": itinerary,

@@ -33,19 +33,7 @@ window.TOURS = [
   "validFrom": null,
   "validTo": null,
   "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "",
-    "adult": "",
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
+  "priceTable": [],
   "brochures": [
    {
     "supplier": "SUP-CM",
@@ -20886,19 +20874,7 @@ window.TOURS = [
   "validFrom": null,
   "validTo": null,
   "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "",
-    "adult": 0.0,
-    "childbed": 0.0,
-    "childnobed": 0.0,
-    "infant": 0.0,
-    "single": 0.0,
-    "transfer": 0.0,
-    "tip": 0.0,
-    "service": 0.0
-   }
-  ],
+  "priceTable": [],
   "brochures": [
    {
     "supplier": "SUP-NOVA",
