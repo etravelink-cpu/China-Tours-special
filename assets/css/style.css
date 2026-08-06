@@ -1023,3 +1023,6 @@ body.nav-open{overflow:hidden}
 .card-cal .cal-t td{height:22px;padding:3px 0}
 .card-cal .rule-box{font-size:12px;padding:8px 10px;margin:0 0 8px}
 .card-cal .surcharge{font-size:11px;padding:5px 8px}
+
+/* 产品介绍分段蓝色高亮 */
+.detail-intro .intro-para{font-size:15px;line-height:1.8;color:var(--ink);margin:0 0 10px;padding:6px 0 6px 14px;border-left:3px solid var(--sky-deep);background:linear-gradient(90deg,rgba(14,125,184,.06),rgba(14,125,184,0));border-radius:0 6px 6px 0}
