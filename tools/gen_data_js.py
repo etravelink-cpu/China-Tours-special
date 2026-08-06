@@ -229,8 +229,28 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
     introZh = (intro or '').strip()
     introEn = introZh  # 暂无英文, 复用中文
     participationNotice = (notice or '').strip()
-    # Cost_Info 拆 includes/excludes/notes(简单按行, 详情页展示)
+    # Cost_Info 拆 includes/excludes/notes(按行, 遇 '不含'/'费用不含' 转 excludes, 遇 '须知' 转 notes)
     cost_lines = split_lines(cost)
+    includes, excludes, notes = [], [], []
+    cur = includes
+    for ln in cost_lines:
+        ls = ln.strip()
+        if not ls:
+            continue
+        if re.match(r'^(不含|费用不含|不包括)', ls):
+            cur = excludes
+            # 去掉引导词后的内容若还有, 作为一条
+            rest = re.sub(r'^(不含|费用不含|不包括)[:：]?\s*', '', ls).strip()
+            if rest:
+                cur.append(rest)
+            continue
+        if re.match(r'^(须知|预订须知|参团须知|温馨提示|说明)', ls):
+            cur = notes
+            rest = re.sub(r'^(须知|预订须知|参团须知|温馨提示|说明)[:：]?\s*', '', ls).strip()
+            if rest:
+                cur.append(rest)
+            continue
+        cur.append(ls)
     # 彩页(从 Supplier_Brochures; 与后台彩页下载一致)
     bro_rows = c.execute("SELECT Supplier_ID, File_Name FROM Supplier_Brochures WHERE Product_Code=?", (code,)).fetchall()
     brochures = []
@@ -305,11 +325,11 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         "brochures": brochures,
         "itinerary": itinerary,
         "hotels": [],
-        "includes": cost_lines[:6] if cost_lines else [],
-        "includesEn": cost_lines[:6] if False else [],
-        "excludes": [],
+        "includes": includes if includes else [],
+        "includesEn": [],
+        "excludes": excludes if excludes else [],
         "excludesEn": [],
-        "notes": [],
+        "notes": notes if notes else [],
         "notesEn": [],
         "featured": bool(is_feat),
     })
