@@ -62,29 +62,74 @@ def to_itinerary(txt):
     DB 的 Itinerary 是纯文本(按行/按天)，没有结构化的景点/交通/餐饮/住宿，
     所以这些字段给空列表/空串兜底，detail.js 渲染时自动跳过。
     d 用 'D{n}' 格式(与 detail.js 的 .d 显示一致)。
-    DB 的 Itinerary 纯文本按天分段: 数字行(如 1/2)是天数标记, 其后到下一个数字行前为该天描述。
-    识别纯数字行作为分天符, 合并后续行作为当天 descZh; 非数字开头的首段归为第1天。"""
-    lines = split_lines(txt)
+    分天符支持:
+      - 纯数字行 (1/2/3)
+      - 中文 '第N天' (第1天/第2天...)  —— 可能独占一行, 也可能单行内连写多天
+      - 'Dn' / 'Day n' 标记
+    单行内若含多个 '第N天' (如旧数据把多天连写成一行), 自动切分为多天。"""
+    if not txt:
+        return []
+    def split_days(text):
+        # 在 '第N天' / 行首 'Dn' 处切分(保留标题行为一天起点)
+        # 先把独占一行的 '第N天...' 和 单行内多个 '第N天' 都切开
+        parts = re.split(r'(?=第\d+天)', text)
+        days = []  # list of (title_line, desc_lines)
+        cur_title = None
+        cur_desc = []
+        def flush():
+            nonlocal cur_title, cur_desc
+            if cur_title is not None:
+                days.append((cur_title, cur_desc))
+            cur_title = None
+            cur_desc = []
+        for p in parts:
+            p = p.strip()
+            if not p:
+                continue
+            ls = p
+            m_day = re.match(r'^第(\d+)天', ls) or re.match(r'^D(\d+)\b', ls, re.I) or re.match(r'^(\d{1,3})$', ls)
+            if m_day:
+                flush()
+                cur_title = ls
+            else:
+                # 非标题段: 按行拆, 首行若像 '第N天...' 也归为新天
+                for line in split_lines(p):
+                    lm = re.match(r'^第(\d+)天', line.strip()) or re.match(r'^D(\d+)\b', line.strip(), re.I)
+                    if lm:
+                        flush()
+                        cur_title = line.strip()
+                    else:
+                        cur_desc.append(line.strip())
+        flush()
+        return days
+    raw = split_days(txt)
     out = []
-    cur = None
     day_idx = 0
-    for line in lines:
-        if re.fullmatch(r'\d{1,3}', line.strip()):
-            day_idx += 1
-            cur = {"d": "D%d" % day_idx, "titleZh": "第%d天" % day_idx, "titleEn": "Day %d" % day_idx,
-                   "descZh": "", "descEn": "", "spotsZh": [], "spotsEn": [], "transportZh": "", "transportEn": "",
-                   "mealZh": "", "mealEn": "", "hotelZh": "", "hotelEn": ""}
-            out.append(cur)
-        else:
-            if cur is None:
-                day_idx += 1
-                cur = {"d": "D%d" % day_idx, "titleZh": "第%d天" % day_idx, "titleEn": "Day %d" % day_idx,
-                       "descZh": "", "descEn": "", "spotsZh": [], "spotsEn": [], "transportZh": "", "transportEn": "",
-                       "mealZh": "", "mealEn": "", "hotelZh": "", "hotelEn": ""}
-                out.append(cur)
-            cur["descZh"] = (cur["descZh"] + "\n" + line).strip()
-            cur["descEn"] = cur["descZh"]
-    return out
+    for title_line, desc_lines in raw:
+        day_idx += 1
+        mnum = re.search(r'(\d+)', title_line)
+        dnum = mnum.group(1) if mnum else str(day_idx)
+        desc = '\n'.join(x for x in desc_lines if x.strip())
+        # 若 desc 为空(标题行自带内容如 '第1天 凯恩斯-接机'), 把标题行除'第N天'外的部分作描述
+        title_only = re.sub(r'^第\d+天\s*', '', title_line).strip()
+        title_only = re.sub(r'^D\d+\s*', '', title_only, flags=re.I).strip()
+        if not desc and title_only:
+            desc = title_only
+        out.append({
+            "d": "D%s" % dnum,
+            "titleZh": "第%s天" % dnum,
+            "titleEn": "Day %s" % dnum,
+            "descZh": desc,
+            "descEn": desc,
+            "spotsZh": [], "spotsEn": [],
+            "transportZh": "", "transportEn": "",
+            "mealZh": "", "mealEn": "",
+            "hotelZh": "", "hotelEn": ""
+        })
+    return out if out else [{"d": "D1", "titleZh": "第1天", "titleEn": "Day 1",
+            "descZh": txt.strip(), "descEn": txt.strip(), "spotsZh": [], "spotsEn": [],
+            "transportZh": "", "transportEn": "", "mealZh": "", "mealEn": "",
+            "hotelZh": "", "hotelEn": ""}]
 
 def derive_subregion(name, dk, category):
     """从产品名关键词推导子区域(供左栏树末级分组)。地区 dk 决定分组表。"""
