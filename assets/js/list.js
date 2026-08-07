@@ -412,7 +412,8 @@ function calHTML(t, opts){
 
     box.innerHTML =
       "<div class='rp-detail-hero'>" + EtripsHeroSlider.render(t.img, lang === 'zh' ? t.nameZh : t.nameEn) + "<div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
-      "<div class='rp-meta'><span>" + esc(t.destZh || t.dest) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div></div></div>" +
+      "<div class='rp-meta'><span>" + (t.startCity ? esc(t.startCity) : esc(t.destZh || t.dest)) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div>" +
+      "<div class='detail-price' style='margin:10px 0 4px'>" + esc(t.price || '') + "</div></div></div>" +
       "<div class='rp-detail-cta'><a href='booking.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-gold'>预约占位</a><a href='contact.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-primary'>在线咨询</a></div>" +
       "<div class='rp-tabs'>" +
       "<div class='rp-tab active' data-tab='price'>日期和价格</div>" +
@@ -452,23 +453,16 @@ function calHTML(t, opts){
     if (titleEl) titleEl.textContent = activeDest + "线路";
     // 默认选中: 当前目的地第一个产品
     let activeId = (urlId && T.find(x => x.id === urlId)) ? urlId : null;
-    if (tree[activeDest]) {
+    if (tree[activeDest] && !activeId) {
       const cats = Object.keys(tree[activeDest]);
-      // 澳洲: 默认优先打开悉尼及周边第一个(按天数升序, 与渲染一致; 下架产品不在TOURS自动跳过)
-      if (!activeId && activeDest === "澳洲") {
-        let sydArr = cats.map(c => tree[activeDest][c]["悉尼及周边"]).find(arr => arr && arr.length);
-        if (sydArr) {
-          sydArr = sydArr.slice().sort((a, b) => (a.days || 0) - (b.days || 0));
-          activeId = sydArr[0].id;
-        }
-      }
-      if (!activeId) {
-        outer: for (const c of cats) {
-          for (const s of Object.keys(tree[activeDest][c])) {
-            if (tree[activeDest][c][s].length) {
-              activeId = tree[activeDest][c][s][0].id;
-              break outer;
-            }
+      // 默认打开: 第一个类目 -> 第一个子类(按各目的地子类排序,如AU_ORDER悉尼优先) -> 按天数升序第一个产品(与页面渲染一致; 下架产品不在TOURS自动跳过)
+      outer: for (const c of cats) {
+        const subs = tree[activeDest][c];
+        for (const s of Object.keys(subs)) {
+          if (subs[s] && subs[s].length) {
+            const first = subs[s].slice().sort((a, b) => (a.days || 0) - (b.days || 0))[0];
+            activeId = first.id;
+            break outer;
           }
         }
       }
