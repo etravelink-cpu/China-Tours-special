@@ -102,7 +102,6 @@ function calHTML(t, opts){
         <div class="detail-hero-img">${EtripsHeroSlider.render(t.img, lang==='zh'?t.nameZh:t.nameEn)}</div>
         <div class="detail-head-info">
           <h1>${lang==='zh'?t.nameZh:t.nameEn}</h1>
-          <div class="muted">${I[lang]['detail.tourid']}: <b>${t.id}</b></div>
           ${city?`<div class="detail-city">${city}</div>`:''}
           <div class="detail-tags">${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
           <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
