@@ -624,7 +624,6 @@ main .container{position:relative;z-index:2}
 .rp-pricetable thead th{background:var(--sky-tint);color:var(--sky-text);font-weight:800;font-size:13px}
 .rp-pricetable td.item .en{display:block;font-size:11px;color:var(--muted);margin-top:2px;font-weight:400}
 .rp-pricetable td.price{text-align:right;font-weight:800;color:var(--orange-deep);white-space:nowrap}
-.rp-detail-cta{display:flex;gap:12px;padding:18px 24px;border-bottom:1px solid var(--line-cool)}
 .rp-detail-date{padding:16px 24px 4px}
 .rp-date-label{display:block;font-size:14px;font-weight:700;color:var(--ink);margin-bottom:8px}
 .rp-date-req{color:#D14343;margin-left:2px}
@@ -674,8 +673,7 @@ main .container{position:relative;z-index:2}
 @media(max-width:760px){
   .rp-layout{grid-template-columns:1fr;gap:14px}
   .rp-nav2{position:static;max-height:none;display:flex;flex-direction:column}
-      .rp-detail-cta{flex-direction:column}
-  .rp-detail-cta .btn{width:100%;text-align:center}
+        .rp-detail-cta .btn{width:100%;text-align:center}
 }
 .contact-card-cyan{background:var(--sky-deep);border-radius:16px;padding:14px 15px;margin-top:10px;
   color:#fff;font-size:13px;line-height:1.9;text-align:left}
@@ -692,8 +690,7 @@ main .container{position:relative;z-index:2}
 
 /* ---------- Detail page ---------- */
 
-.detail-cta,.rp-detail-cta{display:flex;gap:10px;margin-top:auto;padding-top:16px}
-.detail-cta .btn,.rp-detail-cta .btn{font-size:14px;padding:10px 18px}
+.detail-cta,.detail-cta .btn,.rp-detail-cta .btn{font-size:14px;padding:10px 18px}
 
 /* Hero 统一(详情页 & 列表页内联一致) - 左图右文, 图60%宽, 有圆角边框, 4:3整图不裁切 */
 .detail-hero .container{display:flex;gap:22px;align-items:stretch;background:var(--white);border:1px solid var(--line-cool);border-radius:var(--radius);box-shadow:var(--shadow-lift);overflow:hidden;margin:18px auto;padding:0}

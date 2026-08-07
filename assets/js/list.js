@@ -414,7 +414,6 @@ function calHTML(t, opts){
       "<div class='rp-detail-hero'>" + EtripsHeroSlider.render(t.img, lang === 'zh' ? t.nameZh : t.nameEn) + "<div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
       "<div class='rp-meta'><span>" + (t.startCity ? esc(t.startCity) : esc(t.destZh || t.dest)) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div>" +
       "<div class='detail-price' style='margin:10px 0 4px'>" + esc(t.price || '') + "</div></div></div>" +
-      "<div class='rp-detail-cta'><a href='booking.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-gold'>预约占位</a><a href='contact.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-primary'>在线咨询</a></div>" +
       "<div class='rp-tabs'>" +
       "<div class='rp-tab active' data-tab='price'>日期和价格</div>" +
       "<div class='rp-tab' data-tab='itinerary'>行程安排</div>" +
