@@ -444,6 +444,20 @@ function calHTML(t, opts){
     const q = new URLSearchParams(location.search).get("d");
     const urlId = new URLSearchParams(location.search).get("id");
     const tree = buildTree();
+    // 邮轮板块: data.js 无独立cruise桶, 从TOURS筛名称含"邮轮"的产品归集
+    if (q === 'cruise') {
+      const T = window.TOURS || [];
+      T.forEach(t => {
+        const nm = (t.nameZh || t.nameEn || '');
+        if (nm.indexOf('邮轮') >= 0) {
+          const c = t.category || '邮轮', s = t.subRegion || '其他';
+          tree['邮轮'] = tree['邮轮'] || {};
+          tree['邮轮'][c] = tree['邮轮'][c] || {};
+          tree['邮轮'][c][s] = tree['邮轮'][c][s] || [];
+          tree['邮轮'][c][s].push(t);
+        }
+      });
+    }
     // ?d= 支持英文键(australia)或中文(澳洲); 默认中国
     const DEST_KEY_ZH = { australia: "澳洲", nz: "新西兰", china: "中国", asia: "亚洲", europe: "欧洲", america: "美加", special: "特别订制", cruise: "邮轮", other: "其他", island: "亚洲" };
     const activeDest = (q && tree[q]) ? q : (DEST_KEY_ZH[q] && tree[DEST_KEY_ZH[q]]) ? DEST_KEY_ZH[q] : (tree["中国"] ? "中国" : Object.keys(tree)[0]);
