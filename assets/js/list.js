@@ -441,6 +441,7 @@ function calHTML(t, opts){
   function render() {
     lang = window.Etrips.getLang();
     const q = new URLSearchParams(location.search).get("d");
+    const urlId = new URLSearchParams(location.search).get("id");
     const tree = buildTree();
     // ?d= 支持英文键(australia)或中文(澳洲); 默认中国
     const DEST_KEY_ZH = { australia: "澳洲", nz: "新西兰", china: "中国", asia: "亚洲", europe: "欧洲", america: "美加", special: "特别订制", cruise: "邮轮", other: "其他", island: "亚洲" };
@@ -449,7 +450,7 @@ function calHTML(t, opts){
     const titleEl = document.getElementById("hot-title");
     if (titleEl) titleEl.textContent = activeDest + "线路";
     // 默认选中: 当前目的地第一个产品
-    let activeId = null;
+    let activeId = (urlId && T.find(x => x.id === urlId)) ? urlId : null;
     if (tree[activeDest]) {
       const cats = Object.keys(tree[activeDest]);
       outer: for (const c of cats) {
