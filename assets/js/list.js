@@ -455,7 +455,8 @@ function calHTML(t, opts){
     if (tree[activeDest] && !activeId) {
       const cats = Object.keys(tree[activeDest]);
       // 默认打开: 第一个类目 -> 第一个子类(按各目的地子类排序,如AU_ORDER悉尼优先) -> 按天数升序第一个产品(与页面渲染一致; 下架产品不在TOURS自动跳过)
-      outer: for (const c of cats) {
+      const catOrder = (activeDest === '澳洲') ? AU_ORDER.filter(c => cats.includes(c)) : cats;
+      outer: for (const c of catOrder) {
         const subs = tree[activeDest][c];
         for (const s of Object.keys(subs)) {
           if (subs[s] && subs[s].length) {
