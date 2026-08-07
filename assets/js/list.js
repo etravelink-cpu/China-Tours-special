@@ -443,12 +443,25 @@ function calHTML(t, opts){
     lang = window.Etrips.getLang();
     const q = new URLSearchParams(location.search).get("d");
     const urlId = new URLSearchParams(location.search).get("id");
+    // 邮轮板块: 走 REGION_PLANS.cruise 独立渲染(还原原本设定, banner+咨询表单), 不走 buildTree
+    if (q === 'cruise' && window.REGION_PLANS && window.REGION_PLANS.cruise) {
+      const rp = document.getElementById('region-plan');
+      if (rp) {
+        const _apply = () => {
+          rp.innerHTML = window.REGION_PLANS.cruise;
+          rp.hidden = false;
+        };
+        setTimeout(_apply, 300);
+      }
+      // 标题
+      const titleEl = document.getElementById('hot-title');
+      if (titleEl) titleEl.textContent = '邮轮线路';
+      return;
+    }
     const tree = buildTree();
     // ?d= 支持英文键(australia)或中文(澳洲); 默认中国
     const DEST_KEY_ZH = { australia: "澳洲", nz: "新西兰", china: "中国", asia: "亚洲", europe: "欧洲", america: "美加", special: "特别订制", cruise: "邮轮", other: "其他", island: "亚洲" };
     let activeDest = (q && tree[q]) ? q : (DEST_KEY_ZH[q] && tree[DEST_KEY_ZH[q]]) ? DEST_KEY_ZH[q] : (tree["中国"] ? "中国" : Object.keys(tree)[0]);
-    // 邮轮板块: 避免无数据时回退到中国(cruise 用独立桶, 空则显示暂无在售)
-    if (q === 'cruise' && !tree['邮轮']) activeDest = '邮轮';
     // 标题直接显示目的地(不走 i18n 以免被覆盖)
     const titleEl = document.getElementById("hot-title");
     if (titleEl) titleEl.textContent = activeDest + "线路";
