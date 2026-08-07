@@ -707,7 +707,7 @@ main .container{position:relative;z-index:2}
 .hero-dots{position:absolute;bottom:12px;left:0;right:0;display:flex;gap:7px;justify-content:center;z-index:3}
 .hero-dot{width:9px;height:9px;border-radius:50%;background:rgba(255,255,255,.6);cursor:pointer}
 .hero-dot.active{background:var(--orange)}
-.detail-head-info,.rp-detail-hero-in{flex:1 1 auto;align-self:flex-start;display:flex;flex-direction:column;justify-content:center;min-width:0;padding:18px 0 18px 12px;color:var(--ink)}
+.rp-detail-hero-in{flex:1 1 auto;align-self:flex-start;display:flex;flex-direction:column;justify-content:center;min-width:0;padding:18px 0 18px 12px;color:var(--ink)}
 .detail-head-info h1,.rp-detail-hero-in h3{color:var(--ink);margin:0 0 8px;font-size:24px;line-height:1.3;font-weight:700}
 
 /* Hero 统一(详情页 & 列表页内联完全一致) */
@@ -717,7 +717,7 @@ main .container{position:relative;z-index:2}
 
 /* ===== Hero 统一尺寸(详情页 & 列表页内联一致) ===== */
 
-#detail-head{display:flex;gap:0;align-items:stretch}
+#detail-head.rp-detail-hero{display:flex;gap:22px;align-items:stretch;border-radius:14px;overflow:hidden;margin:18px auto;background:#fff;border:1px solid var(--line-cool);max-width:var(--maxw);padding:0 24px}
 
 /* 列表页内联详情 hero - 与详情页一致的左图右文 */
 

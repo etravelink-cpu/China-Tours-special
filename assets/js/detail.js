@@ -100,7 +100,7 @@ function calHTML(t, opts){
       const city = t.startCity ? `${I[lang]['detail.tag.from']||'出发城市'} ${t.startCity}` : '';
       document.getElementById('detail-head').innerHTML = `
         ${EtripsHeroSlider.render(t.img, lang==='zh'?t.nameZh:t.nameEn)}
-        <div class="detail-head-info">
+        <div class="rp-detail-hero-in">
           <h1>${lang==='zh'?t.nameZh:t.nameEn}</h1>
           ${city?`<div class="detail-city">${city}</div>`:''}
           <div class="detail-tags">${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
