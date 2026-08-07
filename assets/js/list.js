@@ -459,7 +459,8 @@ function calHTML(t, opts){
       // 默认打开: 第一个类目 -> 第一个子类(按各目的地子类排序,如AU_ORDER悉尼优先) -> 按天数升序第一个产品(与页面渲染一致; 下架产品不在TOURS自动跳过)
       outer: for (const c of cats) {
         const subs = tree[activeDest][c];
-        const order = subOrder(activeDest);
+        // 澳洲: 用 AU_ORDER 让"悉尼及周边"优先(与页面显示一致); 其他目的地用原始顺序
+        const order = activeDest === "澳洲" ? AU_ORDER : null;
         const subKeys = order
           ? order.filter((k) => k in subs).concat(Object.keys(subs).filter((k) => !order.includes(k)))
           : Object.keys(subs);
