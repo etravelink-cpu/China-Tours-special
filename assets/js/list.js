@@ -454,10 +454,10 @@ function calHTML(t, opts){
     let activeId = (urlId && T.find(x => x.id === urlId)) ? urlId : null;
     if (tree[activeDest]) {
       const cats = Object.keys(tree[activeDest]);
-      // 澳洲: 默认优先打开"悉尼及周边"第一个产品(而非跨地区联游)
+      // 澳洲: 默认优先打开悉尼及周边主推产品(蓝山有氧 Nova-SYDBMTS)
       if (!activeId && activeDest === "澳洲") {
-        const syd = cats.map(c => tree[activeDest][c]["悉尼及周边"]).find(arr => arr && arr.length);
-        if (syd) activeId = syd[0].id;
+        const syd = T.find(x => x.id === "Nova-SYDBMTS");
+        if (syd) activeId = syd.id;
       }
       if (!activeId) {
         outer: for (const c of cats) {
