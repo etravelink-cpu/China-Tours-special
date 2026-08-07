@@ -699,7 +699,7 @@ main .container{position:relative;z-index:2}
 .detail-hero-img img{width:100%;height:auto;display:block;background:#eef2f6}
 .hero-slider{position:relative}
 .hero-slide{position:absolute;inset:0;opacity:0;transition:opacity .5s ease}
-.hero-slide.active{opacity:1}
+.hero-slide.active{opacity:1;position:relative}
 .hero-slide img{width:100%;height:auto;display:block;background:#eef2f6}
 .hero-arrow{position:absolute;top:50%;transform:translateY(-50%);width:36px;height:36px;border:none;border-radius:50%;background:rgba(15,43,64,.5);color:#fff;font-size:22px;line-height:1;cursor:pointer;z-index:3;display:flex;align-items:center;justify-content:center}
 .hero-arrow:hover{background:rgba(15,43,64,.85)}
