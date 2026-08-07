@@ -456,7 +456,7 @@ function calHTML(t, opts){
       outer: for (const c of cats) {
         for (const s of Object.keys(tree[activeDest][c])) {
           if (tree[activeDest][c][s].length) {
-            activeId = tree[activeDest][c][s][0].id;
+            if (!activeId) activeId = tree[activeDest][c][s][0].id;  // 仅当 urlId 无效时用第一个
             break outer;
           }
         }
