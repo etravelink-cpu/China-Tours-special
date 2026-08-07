@@ -412,8 +412,7 @@ function calHTML(t, opts){
 
     box.innerHTML =
       "<div class='rp-detail-hero'>" + EtripsHeroSlider.render(t.img, lang === 'zh' ? t.nameZh : t.nameEn) + "<div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
-      (t.startCity ? "<div class='detail-city'>" + esc(t.startCity) + "</div>" : '') +
-      "<div class='detail-tags'>" + (tags.length ? tags.map(x=>"<span class='tag'>" + esc(x) + "</span>").join('') : '') + "</div>" +
+      "<div class='rp-meta'><span>" + (t.startCity ? esc(t.startCity) : esc(t.destZh || t.dest)) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div>" +
       "<div class='detail-price' style='margin:10px 0 4px'>" + esc(t.price || '') + "</div></div></div>" +
       "<div class='rp-detail-cta'><a href='booking.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-gold'>预约占位</a><a href='contact.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-primary'>在线咨询</a></div>" +
       "<div class='rp-tabs'>" +
@@ -459,12 +458,7 @@ function calHTML(t, opts){
       // 默认打开: 第一个类目 -> 第一个子类(按各目的地子类排序,如AU_ORDER悉尼优先) -> 按天数升序第一个产品(与页面渲染一致; 下架产品不在TOURS自动跳过)
       outer: for (const c of cats) {
         const subs = tree[activeDest][c];
-        // 澳洲: 用 AU_ORDER 让"悉尼及周边"优先(与页面显示一致); 其他目的地用原始顺序
-        const order = activeDest === "澳洲" ? AU_ORDER : null;
-        const subKeys = order
-          ? order.filter((k) => k in subs).concat(Object.keys(subs).filter((k) => !order.includes(k)))
-          : Object.keys(subs);
-        for (const s of subKeys) {
+        for (const s of Object.keys(subs)) {
           if (subs[s] && subs[s].length) {
             const first = subs[s].slice().sort((a, b) => (a.days || 0) - (b.days || 0))[0];
             activeId = first.id;
