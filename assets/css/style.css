@@ -696,7 +696,7 @@ main .container{position:relative;z-index:2}
 .detail-hero .container{display:flex;gap:0;align-items:stretch;background:var(--white);border:1px solid var(--line-cool);border-radius:var(--radius);box-shadow:var(--shadow-lift);overflow:hidden;margin:18px auto;padding:0}
 .rp-detail-hero{display:flex;gap:22px;align-items:stretch;border-radius:14px;overflow:hidden;margin-bottom:14px;background:#fff;border:1px solid var(--line-cool)}
 .detail-hero-img img{width:100%;height:auto;display:block;background:transparent}
-.hero-slider{position:relative}
+.hero-slider{position:relative;flex:0 0 55%;max-width:55%;border-radius:10px;overflow:hidden;height:320px}
 .hero-slide{position:absolute;inset:0;opacity:0;transition:opacity .5s ease}
 .hero-slide.active{opacity:1;position:relative}
 .hero-slide img{width:100%;height:100%;object-fit:cover;display:block;background:transparent}
@@ -716,7 +716,7 @@ main .container{position:relative;z-index:2}
 
 /* ===== Hero 统一尺寸(详情页 & 列表页内联一致) ===== */
 
-#detail-head.rp-detail-hero{display:flex;gap:22px;align-items:stretch;border-radius:14px;overflow:hidden;margin:18px auto;background:#fff;border:1px solid var(--line-cool);max-width:1000px;padding:0 20px}
+#detail-head.rp-detail-hero{display:flex;gap:22px;align-items:stretch;border-radius:14px;overflow:hidden;margin:18px auto;background:#fff;border:1px solid var(--line-cool);max-width:var(--maxw);padding:0 24px}
 
 /* 列表页内联详情 hero - 与详情页一致的左图右文 */
 
