@@ -454,11 +454,18 @@ function calHTML(t, opts){
     let activeId = (urlId && T.find(x => x.id === urlId)) ? urlId : null;
     if (tree[activeDest]) {
       const cats = Object.keys(tree[activeDest]);
-      outer: for (const c of cats) {
-        for (const s of Object.keys(tree[activeDest][c])) {
-          if (tree[activeDest][c][s].length) {
-            if (!activeId) activeId = tree[activeDest][c][s][0].id;  // 仅当 urlId 无效时用第一个
-            break outer;
+      // 澳洲: 默认优先打开"悉尼及周边"第一个产品(而非跨地区联游)
+      if (!activeId && activeDest === "澳洲") {
+        const syd = cats.map(c => tree[activeDest][c]["悉尼及周边"]).find(arr => arr && arr.length);
+        if (syd) activeId = syd[0].id;
+      }
+      if (!activeId) {
+        outer: for (const c of cats) {
+          for (const s of Object.keys(tree[activeDest][c])) {
+            if (tree[activeDest][c][s].length) {
+              activeId = tree[activeDest][c][s][0].id;
+              break outer;
+            }
           }
         }
       }
