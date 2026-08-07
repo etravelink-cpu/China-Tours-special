@@ -99,7 +99,7 @@ function calHTML(t, opts){
       const price = lang==='zh'?t.price:t.priceEn;
       const city = t.startCity ? `${I[lang]['detail.tag.from']||'出发城市'} ${t.startCity}` : '';
       document.getElementById('detail-head').innerHTML = `
-        <div class="detail-hero-img">${EtripsHeroSlider.render(t.img, lang==='zh'?t.nameZh:t.nameEn)}</div>
+        ${EtripsHeroSlider.render(t.img, lang==='zh'?t.nameZh:t.nameEn)}
         <div class="detail-head-info">
           <h1>${lang==='zh'?t.nameZh:t.nameEn}</h1>
           ${city?`<div class="detail-city">${city}</div>`:''}
