@@ -411,7 +411,7 @@ function calHTML(t, opts){
       : "";
 
     box.innerHTML =
-      "<div class='rp-detail-hero'><img class='rp-detail-hero-img' src='" + esc(heroImg) + "' alt='" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "' onerror=\"this.style.display='none'\"><div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
+      "<div class='rp-detail-hero'>" + EtripsHeroSlider.render(t.img, lang === 'zh' ? t.nameZh : t.nameEn) + "<div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
       "<div class='rp-meta'><span>" + esc(t.destZh || t.dest) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div></div></div>" +
       "<div class='rp-detail-cta'><a href='booking.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-gold'>预约占位</a><a href='contact.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-primary'>在线咨询</a></div>" +
       "<div class='rp-tabs'>" +
@@ -427,6 +427,7 @@ function calHTML(t, opts){
       "<div class='rp-tab-panel' data-tab='notes'>" + noticeHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div>" +
       "<div style='padding:18px 24px'><a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn btn-primary' style='width:100%;text-align:center'>查看完整详情页</a></div>";
+      EtripsHeroSlider.init(box.querySelector('.rp-detail-hero .hero-slider'));
 
     box.querySelectorAll(".rp-tab").forEach((tab) => {
       tab.addEventListener("click", () => {

@@ -99,7 +99,7 @@ function calHTML(t, opts){
       const price = lang==='zh'?t.price:t.priceEn;
       const city = t.startCity ? `${I[lang]['detail.tag.from']||'出发城市'} ${t.startCity}` : '';
       document.getElementById('detail-head').innerHTML = `
-        <div class="detail-hero-img"><img src="${(Array.isArray(t.img)?t.img[0]:t.img)||''}" alt="${lang==='zh'?t.nameZh:t.nameEn}" onerror="this.style.display='none'"></div>
+        <div class="detail-hero-img">${EtripsHeroSlider.render(t.img, lang==='zh'?t.nameZh:t.nameEn)}</div>
         <div class="detail-head-info">
           <h1>${lang==='zh'?t.nameZh:t.nameEn}</h1>
           <div class="muted">${I[lang]['detail.tourid']}: <b>${t.id}</b></div>
@@ -107,6 +107,7 @@ function calHTML(t, opts){
           <div class="detail-tags">${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
           <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
         </div>`;
+      EtripsHeroSlider.init(document.querySelector('#detail-head .hero-slider'));
       // hero 不再使用背景图叠字; 改为左img右信息栏(结构在detail-head内)
     }
 

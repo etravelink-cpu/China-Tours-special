@@ -1020,3 +1020,15 @@ body.nav-open{overflow:hidden}
 
 /* 产品介绍分段蓝色高亮 */
 .detail-intro .intro-para{font-size:15px;line-height:1.8;color:var(--ink);margin:0 0 10px;padding:6px 0 6px 14px;border-left:3px solid var(--sky-deep);background:linear-gradient(90deg,rgba(14,125,184,.06),rgba(14,125,184,0));border-radius:0 6px 6px 0}
+
+/* Hero 轮播 */
+.hero-slider{position:relative;flex:0 0 42%;max-width:42%;border-radius:12px;overflow:hidden;background:#eef2f6;min-height:200px}
+.hero-slide{position:absolute;inset:0;opacity:0;transition:opacity .5s ease;display:flex;align-items:center;justify-content:center}
+.hero-slide.active{opacity:1;position:relative}
+.hero-slide img{width:100%;height:100%;max-height:340px;object-fit:contain;display:block}
+.hero-arrow{position:absolute;top:50%;transform:translateY(-50%);width:34px;height:34px;border:none;border-radius:50%;background:rgba(15,43,64,.55);color:#fff;font-size:20px;line-height:1;cursor:pointer;z-index:3;display:flex;align-items:center;justify-content:center}
+.hero-arrow:hover{background:rgba(15,43,64,.8)}
+.hero-prev{left:8px}.hero-next{right:8px}
+.hero-dots{position:absolute;bottom:8px;left:0;right:0;display:flex;gap:6px;justify-content:center;z-index:3}
+.hero-dot{width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,.6);cursor:pointer}
+.hero-dot.active{background:var(--orange)}

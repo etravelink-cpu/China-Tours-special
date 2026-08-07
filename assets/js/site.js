@@ -594,3 +594,53 @@ function calHTML(t, opts){
   }
 
 })();
+
+/* ===== Hero 轮播 (detail + list 共用) ===== */
+window.EtripsHeroSlider = (function(){
+  function render(imgs, alt){
+    if(!Array.isArray(imgs)) imgs = imgs ? [imgs] : [];
+    if(imgs.length === 0) imgs = ['assets/img/destinations/other.jpg'];
+    if(imgs.length === 1){
+      return '<div class="hero-slider"><div class="hero-slide active"><img src="'+imgs[0]+'" alt="'+alt+'"></div></div>';
+    }
+    var slides = imgs.map(function(src,i){
+      return '<div class="hero-slide'+(i===0?' active':'')+'"><img src="'+src+'" alt="'+alt+'"></div>';
+    }).join('');
+    var dots = imgs.map(function(_,i){
+      return '<span class="hero-dot'+(i===0?' active':'')+'" data-i="'+i+'"></span>';
+    }).join('');
+    return '<div class="hero-slider" data-idx="0">'+
+      slides+
+      '<button class="hero-arrow hero-prev" type="button" aria-label="上一张">‹</button>'+
+      '<button class="hero-arrow hero-next" type="button" aria-label="下一张">›</button>'+
+      '<div class="hero-dots">'+dots+'</div>'+
+    '</div>';
+  }
+  function go(slider, idx){
+    var slides = slider.querySelectorAll('.hero-slide');
+    var dots = slider.querySelectorAll('.hero-dot');
+    var n = slides.length;
+    if(n===0) return;
+    idx = (idx+n)%n;
+    slider.setAttribute('data-idx', idx);
+    for(var i=0;i<n;i++){
+      slides[i].classList.toggle('active', i===idx);
+      if(dots[i]) dots[i].classList.toggle('active', i===idx);
+    }
+  }
+  function init(slider){
+    if(!slider) return;
+    if(slider.getAttribute('data-init')) return;
+    slider.setAttribute('data-init','1');
+    var n = slider.querySelectorAll('.hero-slide').length;
+    if(n<=1) return;
+    var timer = setInterval(function(){ go(slider, parseInt(slider.getAttribute('data-idx')||'0',10)+1); }, 4000);
+    slider.addEventListener('click', function(e){
+      var t = e.target;
+      if(t.classList.contains('hero-prev')){ clearInterval(timer); go(slider, parseInt(slider.getAttribute('data-idx')||'0',10)-1); timer=setInterval(function(){ go(slider, parseInt(slider.getAttribute('data-idx')||'0',10)+1); },4000); }
+      else if(t.classList.contains('hero-next')){ clearInterval(timer); go(slider, parseInt(slider.getAttribute('data-idx')||'0',10)+1); timer=setInterval(function(){ go(slider, parseInt(slider.getAttribute('data-idx')||'0',10)+1); },4000); }
+      else if(t.classList.contains('hero-dot')){ clearInterval(timer); go(slider, parseInt(t.getAttribute('data-i')||'0',10)); timer=setInterval(function(){ go(slider, parseInt(slider.getAttribute('data-idx')||'0',10)+1); },4000); }
+    });
+  }
+  return { render: render, init: init, go: go };
+})();
