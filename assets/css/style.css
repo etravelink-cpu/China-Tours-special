@@ -717,7 +717,7 @@ main .container{position:relative;z-index:2}
 
 /* ===== Hero 统一尺寸(详情页 & 列表页内联一致) ===== */
 
-#detail-head{display:flex;gap:28px;align-items:stretch}
+#detail-head{display:flex;gap:0;align-items:stretch}
 
 /* 列表页内联详情 hero - 与详情页一致的左图右文 */
 
