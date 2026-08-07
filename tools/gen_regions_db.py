@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import json
-import sqlite3, re, os, sys
+import sqlite3, re, os, sys, urllib.parse
 from collections import OrderedDict
 """
 gen_regions v2 (DB 版): 读后台 Product_Master + Departure_Pricing
@@ -64,10 +64,40 @@ def board_of(item):
 
 def price_for(code):
     conn=sqlite3.connect(DB); c=conn.cursor()
-    c.execute("SELECT Adult_Price_AUD,Child_No_Bed_AUD,Child_With_Bed_AUD,Single_Supplement_AUD,Mandatory_Tips_AUD FROM Departure_Pricing WHERE Internal_Product_Code=? LIMIT 1",(code,))
+    c.execute("SELECT Adult_Price_AUD,Child_No_Bed_AUD,Child_With_Bed_AUD,Single_Supplement_AUD,Mandatory_Tips_AUD,Comprehensive_Service_Fee_AUD FROM Departure_Pricing WHERE Internal_Product_Code=? LIMIT 1",(code,))
     r=c.fetchone(); conn.close()
-    if not r: return (0,0,0,None,None)
+    if not r: return (0,0,0,None,None,None)
     return r
+
+def departure_dates_for(code):
+    """前台：列出该产品所有出团日期（按月份分组），售罄标注。"""
+    conn=sqlite3.connect(DB); c=conn.cursor()
+    c.execute("SELECT Departure_Date, Departure_Status FROM Departure_Pricing WHERE Internal_Product_Code=? AND Departure_Date IS NOT NULL ORDER BY Departure_Date",(code,))
+    rows=c.fetchall(); conn.close()
+    if not rows:
+        return ""
+    groups={}
+    for d,st in rows:
+        ym=d[:7]
+        groups.setdefault(ym,[]).append((d, st or "available"))
+    html="<div class='rp-dep-list'><h4>2026年开团日期</h4>"
+    html+="<p class='rp-dep-note'>（库存随时变化，下单前请二次确认）</p>"
+    for ym in sorted(groups):
+        y,m=ym.split("-")
+        parts=[]
+        for d,st in groups[ym]:
+            day=d[8:10]+"日"
+            if st=="soldout":
+                parts.append(day+"（售罄）")
+            elif st=="limited":
+                parts.append(day+"（余位紧张）")
+            elif st=="open":
+                parts.append(day+"（报名中）")
+            else:
+                parts.append(day)
+        html+="<div class='rp-dep-month'><b>%d月：</b>%s</div>" % (int(m), "、".join(parts))
+    html+="</div>"
+    return html
 
 def clean_name(n):
     # 去掉 SUP-CM 产品名写死的类目前缀:
@@ -86,19 +116,31 @@ def pane(region, item, idx):
     name=esc(clean_name(item['name'] or ''))
     code=item['code'] or ''
     days=days_from(item['days'], name)
-    pa,pc,cw,single,tips = price_for(code)
+    # 出发城市（取该产品 Departure_Pricing 第一个非空 Departure_City）
+    conn_c = sqlite3.connect(DB); c_c = conn_c.cursor()
+    c_c.execute("SELECT Departure_City FROM Departure_Pricing WHERE Internal_Product_Code=? AND Departure_City IS NOT NULL AND Departure_City<>'' ORDER BY Departure_Date LIMIT 1", (code,))
+    _cr = c_c.fetchone(); conn_c.close()
+    dep_city = _cr[0] if _cr else ''
+    pa,pc,cw,single,tips,service = price_for(code)
     ridv=rid(region,name,code)
-    # hero 图: SUP-CM 中国产品按类目用专属 banner; 其余用大区 banner 池
-    if item.get('sup')=='SUP-CM' and region=='china':
-        if item['cat']=='超值特惠团':
-            img='assets/img/sup-cm/chaozhi_%02d.jpg'%(idx%5+1)
-        elif item['cat']=='纯玩无购物团':
-            img='assets/img/sup-cm/chunwan_%02d.jpg'%(idx%5+1)
-        else:
-            img='assets/img/sup-cm/chunwan_%02d.jpg'%(idx%5+1)
+    # hero 图: 优先用产品自己上传的 hero 图(按 Sort_Order); 否则 SUP-CM 中国用专属 banner 池; 其余用大区 banner 池
+    conn_h = sqlite3.connect(DB); c_h = conn_h.cursor()
+    c_h.execute("SELECT File_Name FROM Product_Images WHERE Internal_Product_Code=? AND Image_Type='hero' ORDER BY Sort_Order, Image_ID", (code,))
+    hero_rows = c_h.fetchall(); conn_h.close()
+    if hero_rows:
+        sup_h = item.get('sup') or 'UNKNOWN'
+        hero_imgs = ['assets/suppliers/%s/products/%s/%s' % (urllib.parse.quote(sup_h), urllib.parse.quote(code), urllib.parse.quote(r[0])) for r in hero_rows]
+        img = hero_imgs
     else:
-        img='assets/img/destinations/'+ REGION_META[region][1][idx%len(REGION_META[region][1])]
-    pax=('A$ '+str(int(pa))) if pa else '待确认'
+        if item.get('sup') == 'SUP-CM' and region == 'china':
+            if item['cat'] == '超值特惠团':
+                hero_imgs = ['assets/img/sup-cm/chaozhi_%02d.jpg' % (idx % 5 + 1)]
+            else:
+                hero_imgs = ['assets/img/sup-cm/chunwan_%02d.jpg' % (idx % 5 + 1)]
+        else:
+            hero_imgs = ['assets/img/destinations/' + REGION_META[region][1][idx % len(REGION_META[region][1])]]
+    img = hero_imgs
+    pax = ('A$ ' + str(int(pa))) if pa else '待确认'
     pcx=('A$ '+str(int(pc))) if pc else '待确认'
     # 仅展示有值的价格项
     price_rows=[]
@@ -106,15 +148,20 @@ def pane(region, item, idx):
     price_rows.append(('儿童不占床 Child no bed','Child no bed',pc))
     price_rows.append(('儿童占床 Child with bed','Child with bed',cw))
     if single: price_rows.append(('单房差 Single suppl.','Single',single))
-    if tips: price_rows.append(('综合服务费 Service fee','Service',tips))
+    if service: price_rows.append(('综合服务费 Service fee（大小同价）','Service',service))
+    if tips: price_rows.append(('小费预付 Driver tip','Tip',tips))
     body=''.join('<tr><td class="item">%s<span class="en">%s</span></td><td class="price">%s</td></tr>'%(z,en,fmt_price(p)) for z,en,p in price_rows if p is not None)
     price_html='<table class="rp-pricetable"><thead><tr><th>项目</th><th style="text-align:right">价格 (AUD)</th></tr></thead><tbody>%s</tbody></table>'%body
     iti=esc(item['itin'] or '【行程安排】\n请在此处粘贴行程安排内容...')
     notes=esc(item['notice'] or '【参团须知】\n请在此处粘贴参团须知内容...')
     return (
     '    <div class="rp-route-pane" data-route="'+ridv+'" data-p-adult="'+str(int(pa) if pa else 0)+'" data-p-child="'+str(int(pc) if pc else 0)+'" data-p-infant="0">\n'
-    '      <div class="rp-detail-hero" style="background-image:url(\''+img+'\')">\n'
-    '        <span class="rp-badge">'+item['cat']+'</span>\n'\
+    + '      <div class="rp-detail-hero">\n'
+    + '        <div class="rp-hero-slides">\n'
+    + ''.join('          <div class="rp-hero-slide%s" style="background-image:url(\'%s\')"></div>\n' % (' active' if i == 0 else '', h) for i, h in enumerate(hero_imgs))
+    + '        </div>\n'
+    + ('<script>(function(){var s=document.querySelectorAll(".rp-detail-hero .rp-hero-slide");if(s.length<2)return;var i=0;setInterval(function(){s[i].classList.remove("active");i=(i+1)%s.length;s[i].classList.add("active");},3500);})();</script>\n' if len(hero_imgs) > 1 else '')
+    + '        <span class="rp-badge">'+item['cat']+'</span>\n'\
     '        <div class="rp-detail-hero-in"><h3>'+name+'</h3>\n'
     '          <div class="rp-price-row">\n'
     '            <span class="rp-price-item"><b>大人</b> '+pax+'</span>\n'
@@ -127,11 +174,11 @@ def pane(region, item, idx):
     '        <div class="rp-tab active" data-tab="price">日期和价格</div>\n'
     '        <div class="rp-tab" data-tab="itinerary">行程安排</div>\n'
     '        <div class="rp-tab" data-tab="notes">参团须知</div>\n'
-    '        <div class="rp-tab" data-tab="brochure">彩页下载(澳洲)</div>\n'
+    '        <div class="rp-tab" data-tab="brochure">彩页下载</div>\n'
     '      </div>\n'
     '      <div class="rp-tab-panel active" data-tab="price">\n'
-    '        <div class="rp-summary"><div><b>行程天数</b>'+days+'</div><div><b>抵达城市</b>待确认</div><div><b>离开城市</b>待确认</div></div>\n'
-    + price_html +
+    '        <div class="rp-summary">' + (('<div><b>行程天数</b>'+days+'</div>') if days else '') + (('<div><b>出发城市</b>'+esc(dep_city)+'</div>') if (dep_city and days and days[0].isdigit() and int(days.split('天')[0])>1 and ('含机票' in (item.get('cat') or ''))) else '') + '</div>\n'
+    + price_html + (departure_dates_for(code) if region in ("australia", "nz") else "") +
     '        <p style="margin-top:12px;font-size:12px;color:#8a97a6">详情与班期以客服查询为准。</p>\n'
     '      </div>\n'
     '      <div class="rp-tab-panel" data-tab="itinerary"><pre style="white-space:pre-wrap;font-size:14px;line-height:1.7;color:#334">\n'+iti+'\n</pre></div>\n'
@@ -239,8 +286,17 @@ for r in rows:
     code,name,cat,wc1,wc2,wc3,days,itin,notice,ov,st,sid=r
     rk=REGION_KEY.get(wc1)
     if not rk: continue
+    # hero 图: 查产品上传的 hero(优先), 否则大区 banner
+    conn_h = sqlite3.connect(DB); c_h = conn_h.cursor()
+    c_h.execute("SELECT File_Name FROM Product_Images WHERE Internal_Product_Code=? AND Image_Type='hero' ORDER BY Sort_Order, Image_ID", (code,))
+    _hr = c_h.fetchall(); conn_h.close()
+    if _hr:
+        _sup_h = sid or 'UNKNOWN'
+        img = ['assets/suppliers/%s/products/%s/%s' % (urllib.parse.quote(_sup_h), urllib.parse.quote(code), urllib.parse.quote(rw[0])) for rw in _hr]
+    else:
+        img = ['assets/img/destinations/' + REGION_META.get(rk,('',['other.jpg']))[1][0]]
     items.append({'code':code,'name':name,'cat':cat,'wc1':wc1,'wc2':wc2,'wc3':wc3,
-                  'days':days,'itin':itin,'notice':notice,'sup':sid})
+                  'days':days,'itin':itin,'notice':notice,'sup':sid,'img':img})
 
 by_region=OrderedDict()
 for it in items:

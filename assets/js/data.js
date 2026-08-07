@@ -9178,7 +9178,11 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/au-sydney.jpg",
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-HUN2D/Nova-HUN2D_hero.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-HUN2D/Nova-HUN2D_hero_1.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-HUN2D/Nova-HUN2D_hero_2.jpg"
+  ],
   "introZh": "【猎人谷热气球+中央海岸2日游】 造访猎人谷地区知名酒庄，品尝多种美酒 乘坐绿野仙踪热气球（身高需满1.2米）(导游不陪飞） 打卡网红水中栈桥 # 特别 赠送水上高尔夫+一次品酒费用， 为您的行程添姿添彩 上车地点 09:00am Furama Darling Harbor 68 Harbour Street, Haymarket, Sydney NSW 2000 09:30am Chatswood RSL Club",
   "introEn": "【猎人谷热气球+中央海岸2日游】 造访猎人谷地区知名酒庄，品尝多种美酒 乘坐绿野仙踪热气球（身高需满1.2米）(导游不陪飞） 打卡网红水中栈桥 # 特别 赠送水上高尔夫+一次品酒费用， 为您的行程添姿添彩 上车地点 09:00am Furama Darling Harbor 68 Harbour Street, Haymarket, Sydney NSW 2000 09:30am Chatswood RSL Club",
   "participationNotice": "1. 报名时需提供客人姓名，体重，联系电话 2. 出发14天前取消，收取$50/人手续费，出发14天内，不退不改（可换人） 3. 行程顺序及内容或根据当天的天气、交通等因素做出调整，但保证履行【行程亮点】中所涵盖的景点，若因不可抗力影响行程造成损失，敬请诉诸旅游保险，我公司恕不赔付",
@@ -12292,88 +12296,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "Nova-SYDHUN",
-  "supplierCode": "SYDHUN",
-  "nameZh": "【精品小团】猎人谷品酒豪华之旅一日游",
-  "nameEn": "【精品小团】猎人谷品酒豪华之旅一日游",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "悉尼及周边",
-  "subRegions": [
-   "悉尼及周边"
-  ],
-  "price": "A$199",
-  "priceEn": "A$199",
-  "days": 1,
-  "startCity": "猎人谷",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/au-sydney.jpg",
-  "introZh": "上车地点 08:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 9:00 AM: 车是活[Chatswood RSL Club]",
-  "introEn": "上车地点 08:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 9:00 AM: 车是活[Chatswood RSL Club]",
-  "participationNotice": "成团人数：本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 大小同价,婴儿0-3岁，包含3岁 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 上车地点： 08:30AM: 悉尼市区 Furama酒店 68 Harbour Street, Haymarket 09:00AM: 车士活[Chatswood RSL Club]",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "悉尼",
-    "adult": 199.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": 99.0,
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-NOVA",
-    "file": "SYDHUN_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/SYDHUN_brochure.pdf"
-   }
-  ],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "08:30 am 悉尼唐人街出发 11:00 am 第一家是猎人谷六大古老家族之一的酒庄, 始于 近130年，是现代最真实、最具传承性的葡萄酒王朝之一。体验猎人谷当地手工巧克力的美味，搭配令人垂涎欲滴的葡萄酒。哪种葡萄酒最适合搭配白巧克力？巧克力和干红葡萄酒可以一起享用吗？现在就来一探究竟吧！在您品尝葡萄酒的同时，还可以让孩子参与其中。 12:00 am 参观芝士工廠。芝士工廠现场有即场制造的手工牛奶及山羊奶起司可供选购，包含白芝士、切达起司、多姆淡起司和蓝纹起司等等。 12:30 pm 猎人谷酒庄享用精美午餐（已包含）。 13:30 pm 午饭后, 可以步行到餐厅旁边的小农场, 和小动物亲密接触。 午餐选择: 印尼炒饭 Nasi Goreng 味噌烤茄子（素食） Miso Glazed Eggplant(V) 牛肉汉堡 Hunter Reserve Beef Burger 凯撒沙拉 Ceasar Salad 三文鱼盖饭 Salmon Bowl 炸鱿鱼圈 Fried Calamari 炸肉排 Schnitzel 韩式五花肉盖饭 Korean Pork Belly Bowl 炸鱼薯条 Battered Fish &amp; chips 奶油咖喱鸡 Butter chicken 14:00 pm 第二家 造访猎人谷地区网红酒庄, 是波高尔宾一家屡获殊荣的精品酒庄。他们的自家葡萄园种植了著名的猎人谷白葡萄品种干白、甜白、干红、甜红、冰酒、桂馥甜酒等等。 15:00 pm 巧克力工廠带您探索巧克力的世界, 将看到数百种令人惊叹的本地制造的独特产品。 15:15 pm 最后到达网红酒庄室外拍照 。 这里带花园和湖景，入口处是网红小教堂（婚礼圣地），以及猎人谷热气球早餐选址, 很适合拍照留念 。 15:30 pm 出发回悉尼 18:00 pm 抵达悉尼市中心结束。",
-    "descEn": "08:30 am 悉尼唐人街出发 11:00 am 第一家是猎人谷六大古老家族之一的酒庄, 始于 近130年，是现代最真实、最具传承性的葡萄酒王朝之一。体验猎人谷当地手工巧克力的美味，搭配令人垂涎欲滴的葡萄酒。哪种葡萄酒最适合搭配白巧克力？巧克力和干红葡萄酒可以一起享用吗？现在就来一探究竟吧！在您品尝葡萄酒的同时，还可以让孩子参与其中。 12:00 am 参观芝士工廠。芝士工廠现场有即场制造的手工牛奶及山羊奶起司可供选购，包含白芝士、切达起司、多姆淡起司和蓝纹起司等等。 12:30 pm 猎人谷酒庄享用精美午餐（已包含）。 13:30 pm 午饭后, 可以步行到餐厅旁边的小农场, 和小动物亲密接触。 午餐选择: 印尼炒饭 Nasi Goreng 味噌烤茄子（素食） Miso Glazed Eggplant(V) 牛肉汉堡 Hunter Reserve Beef Burger 凯撒沙拉 Ceasar Salad 三文鱼盖饭 Salmon Bowl 炸鱿鱼圈 Fried Calamari 炸肉排 Schnitzel 韩式五花肉盖饭 Korean Pork Belly Bowl 炸鱼薯条 Battered Fish &amp; chips 奶油咖喱鸡 Butter chicken 14:00 pm 第二家 造访猎人谷地区网红酒庄, 是波高尔宾一家屡获殊荣的精品酒庄。他们的自家葡萄园种植了著名的猎人谷白葡萄品种干白、甜白、干红、甜红、冰酒、桂馥甜酒等等。 15:00 pm 巧克力工廠带您探索巧克力的世界, 将看到数百种令人惊叹的本地制造的独特产品。 15:15 pm 最后到达网红酒庄室外拍照 。 这里带花园和湖景，入口处是网红小教堂（婚礼圣地），以及猎人谷热气球早餐选址, 很适合拍照留念 。 15:30 pm 出发回悉尼 18:00 pm 抵达悉尼市中心结束。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "猎人谷酒庄午餐 品酒费用 空调旅游巴士 专业中文司导"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "導遊小費$5/人 旅游保险 一切个人消费"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "Nova-SYDBMTS",
   "supplierCode": "SYDBMTS",
   "nameZh": "【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】",
@@ -12663,7 +12585,7 @@ window.TOURS = [
    "No-shopping"
   ],
   "img": [
-   "assets/suppliers/SUP-NOVA/products/Nova-SYDCBR/Nova-SYDCBR_hero.png"
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDCBR/Nova-SYDCBR_hero.jpg"
   ],
   "introZh": "堪培拉 上车地点 07:00AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 07:30AM：Hurstville 华英小厨，184 Forest Rd, Hurstville NSW 2220\n\n行程攻略：\n上车点： 07:00AM， 假日酒店 68 Harbour Street, Haymarket, Sydney NSW 2000 （集合点位于市区CBD） 另外接车地点：7:30AM Hurstville华英小厨（出团前一天晚上导游联系确定信息） 温馨提示 ： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外",
   "introEn": "堪培拉 上车地点 07:00AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 07:30AM：Hurstville 华英小厨，184 Forest Rd, Hurstville NSW 2220\n\n行程攻略：\n上车点： 07:00AM， 假日酒店 68 Harbour Street, Haymarket, Sydney NSW 2000 （集合点位于市区CBD） 另外接车地点：7:30AM Hurstville华英小厨（出团前一天晚上导游联系确定信息） 温馨提示 ： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外",
