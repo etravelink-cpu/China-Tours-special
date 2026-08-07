@@ -701,6 +701,8 @@ main .container{position:relative;z-index:2}
 
 
 /* ---------- Detail page ---------- */
+#detail-head{display:flex;gap:28px;align-items:stretch}
+
 /* 列表页内联详情 hero - 与详情页一致的左图右文 */
 .rp-detail-hero{display:flex;gap:20px;align-items:stretch;border-radius:14px;overflow:hidden;margin-bottom:14px;background:#fff;border:1px solid var(--line-cool)}
 .rp-detail-hero-img{flex:0 0 42%;max-width:42%;max-height:300px;width:auto;object-fit:contain;display:block;background:#eef2f6;border-radius:12px}
