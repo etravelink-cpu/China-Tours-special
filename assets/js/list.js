@@ -411,8 +411,8 @@ function calHTML(t, opts){
       : "";
 
     box.innerHTML =
-      "<div class='rp-detail-hero'><img class='rp-detail-hero-img' src='" + esc(heroImg) + "' alt='" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "' onerror=\"this.style.display='none'\"><div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
-      "<div class='rp-meta'><span>" + esc(t.destZh || t.dest) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div></div></div>" +
+      "<div class='detail-hero'><div class='container'><div class='detail-hero-img'><img src='" + esc(heroImg) + "' alt='" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "' onerror=\"this.style.display='none'\"></div><div class='detail-head-info'><h1>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h1>" +
+      "<div class='muted'><span>" + esc(t.destZh || t.dest) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div></div></div> +
       "<div class='rp-detail-cta'><a href='booking.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-gold'>预约占位</a><a href='contact.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-primary'>在线咨询</a></div>" +
       "<div class='rp-tabs'>" +
       "<div class='rp-tab active' data-tab='price'>日期和价格</div>" +
