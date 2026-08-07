@@ -290,11 +290,20 @@ function calHTML(t, opts){
       const ar = firstOpen.querySelector(":scope > .rp-group-title .rp-arrow");
       if (ar) ar.textContent = "▼";
     }
-    // 绑定展开/收起 (纯展开/收起: 点击只切换自己, 不影响其他分组/区域)
+    // 绑定展开/收起 (互斥手风琴: 点击同层只展开一个, 自动收起其他)
     nav.querySelectorAll(".rp-group-title").forEach((ti) => {
       ti.addEventListener("click", () => {
         const g = ti.closest(".rp-group");
-        const open = g.classList.toggle("open");
+        const parent = g.parentElement;
+        const willOpen = !g.classList.contains("open");
+        parent.querySelectorAll(":scope > .rp-group").forEach((sib) => {
+          if (sib !== g) {
+            sib.classList.remove("open");
+            const sa = sib.querySelector(":scope > .rp-group-title .rp-arrow");
+            if (sa) sa.textContent = "▶";
+          }
+        });
+        const open = g.classList.toggle("open", willOpen);
         const ar = ti.querySelector(".rp-arrow");
         if (ar) ar.textContent = open ? "▼" : "▶";
       });
