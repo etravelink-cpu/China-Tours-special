@@ -454,10 +454,13 @@ function calHTML(t, opts){
     let activeId = (urlId && T.find(x => x.id === urlId)) ? urlId : null;
     if (tree[activeDest]) {
       const cats = Object.keys(tree[activeDest]);
-      // 澳洲: 默认优先打开悉尼及周边主推产品(蓝山有氧 Nova-SYDBMTS)
+      // 澳洲: 默认优先打开悉尼及周边第一个(按天数升序, 与渲染一致; 下架产品不在TOURS自动跳过)
       if (!activeId && activeDest === "澳洲") {
-        const syd = T.find(x => x.id === "Nova-SYDBMTS");
-        if (syd) activeId = syd.id;
+        let sydArr = cats.map(c => tree[activeDest][c]["悉尼及周边"]).find(arr => arr && arr.length);
+        if (sydArr) {
+          sydArr = sydArr.slice().sort((a, b) => (a.days || 0) - (b.days || 0));
+          activeId = sydArr[0].id;
+        }
       }
       if (!activeId) {
         outer: for (const c of cats) {
