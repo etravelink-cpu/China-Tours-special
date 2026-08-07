@@ -16,7 +16,8 @@ gen_data_js.py — 从 etrips_product.db 生成 assets/js/data.js (window.TOURS)
 图片: 按 dest 取 IMG_POOL 默认图(暂无产品级图, Product_Images 空表)
 英文: nameEn/tagsEn 暂用占位(后续补), 保证结构完整不报错。
 """
-import sqlite3, io, os, re, json
+import sqlite3
+import urllib.parse, io, os, re, json
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(HERE, "..", "..", "etrips-universal-db", "etrips_product.db")
@@ -247,7 +248,17 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
     # 内容层修正: 名称含新西兰/南北岛 或 Web_Category1 已标新西兰 的产品, 归回新西兰树(不改 DB, 可逆)
     if '新西兰' in (name or '') or '南北岛' in (name or '') or wc1 == '新西兰':
         dk = 'nz'
-    img = 'assets/img/destinations/' + IMG_POOL.get(dk, ['other.jpg'])[0]
+    # hero 图: 优先产品自己上传的(按 Sort_Order), 否则大区 banner
+    _conn_h = sqlite3.connect(DB); _c_h = _conn_h.cursor()
+    _c_h.execute("SELECT File_Name FROM Product_Images WHERE Internal_Product_Code=? AND Image_Type='hero' ORDER BY Sort_Order, Image_ID", (code,))
+    _hr = _c_h.fetchall()
+    _sid = _c_h.execute("SELECT Supplier_ID FROM Product_Master WHERE Internal_Product_Code=?", (code,)).fetchone()
+    _conn_h.close()
+    if _hr:
+        _sup_h = (_sid[0] if _sid and _sid[0] else spc) or 'UNKNOWN'
+        img = ['assets/suppliers/%s/products/%s/%s' % (urllib.parse.quote(_sup_h), urllib.parse.quote(code), urllib.parse.quote(rw[0])) for rw in _hr]
+    else:
+        img = 'assets/img/destinations/' + IMG_POOL.get(dk, ['other.jpg'])[0]
     price = ('A$%d' % int(ad)) if ad and int(ad) > 0 else '待确认'
     cat_zh = CAT_ZH.get(cat, cat or '')
     cat_en = CAT_EN.get(cat, cat or '')
