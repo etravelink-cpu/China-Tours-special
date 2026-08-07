@@ -728,8 +728,6 @@ main .container{position:relative;z-index:2}
   .detail-hero-img{flex:0 0 auto;max-width:100%}
   .detail-hero-img img{max-height:220px}
 }
-.detail-hero .container{position:relative;z-index:2;padding:24px 0}
-.detail-hero h1{font-family:var(--font-display);font-size:clamp(24px,3vw,34px);margin-bottom:10px;font-weight:700;color:var(--ink)}
 .detail-tags{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 .detail-tags .tag{background:var(--sky-tint);color:var(--sky-deep);font-weight:600}
 .detail-price{font-family:var(--font-display);font-size:24px;color:var(--ink);font-weight:700;margin-top:8px}
