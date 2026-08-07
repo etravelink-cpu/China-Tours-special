@@ -613,7 +613,7 @@ main .container{position:relative;z-index:2}
   border-radius:var(--radius);overflow:hidden}
 .rp-route-pane{display:none;animation:rpfade .25s ease}
 .rp-route-pane.active{display:block}
-.rp-detail-hero{position:relative;height:260px;background-size:cover;background-position:center;
+.rp-detail-hero{position:relative;border-radius:14px;overflow:hidden;margin-bottom:14px;background:#eef2f6;
   display:flex;align-items:flex-end}
 .rp-detail-hero::after{content:"";position:absolute;inset:0;
   background:linear-gradient(180deg,rgba(29,61,79,0) 30%,rgba(29,61,79,.6) 100%)}
@@ -711,6 +711,14 @@ main .container{position:relative;z-index:2}
 .contact-card-cyan .cc-qr img{display:block;width:62px;height:62px;border-radius:10px;background:#fff;
   padding:3px;box-shadow:0 2px 6px rgba(0,0,0,.2)}
 .contact-card-cyan .cc-qr-cap{font-size:11px;color:rgba(255,255,255,.95);margin:0;text-align:center}
+
+
+.rp-detail-hero{position:relative;border-radius:14px;overflow:hidden;margin-bottom:14px;background:#eef2f6}
+.rp-detail-hero-img{width:100%;height:auto;max-height:340px;object-fit:contain;display:block;background:#eef2f6}
+.rp-detail-hero-in{position:absolute;left:0;right:0;bottom:0;padding:18px 20px;background:linear-gradient(transparent,rgba(15,43,64,.82));color:#fff}
+.rp-detail-hero-in h3{color:#fff;margin:0;font-size:20px;font-weight:700;text-shadow:0 1px 6px rgba(0,0,0,.4)}
+.rp-detail-hero .rp-meta{margin-top:6px;color:#e6eef6;font-size:13px}
+.rp-detail-hero .rp-meta span{margin-right:10px}
 
 /* ---------- Detail page ---------- */
 .detail-hero{position:relative;background:var(--white);color:var(--ink);padding:24px 0;display:block;border-bottom:1px solid var(--line-cool)}

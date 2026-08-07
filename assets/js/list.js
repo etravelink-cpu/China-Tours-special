@@ -342,7 +342,7 @@ function calHTML(t, opts){
       box.innerHTML = '<div class="rp-coming-box">未找到该产品</div>';
       return;
     }
-    const heroImg = t.img || "assets/img/destinations/other.jpg";
+    const heroImg = (Array.isArray(t.img) ? t.img[0] : (t.img || "assets/img/destinations/other.jpg"));
     const tags = (lang === "zh" ? t.tags : t.tagsEn).filter(Boolean);
     const price = lang === "zh" ? t.price : t.priceEn;
     const rows = t.priceTable || [];
@@ -411,7 +411,7 @@ function calHTML(t, opts){
       : "";
 
     box.innerHTML =
-      "<div class='rp-detail-hero' style=\"background-image:url('" + esc(heroImg) + "')\"><div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
+      "<div class='rp-detail-hero'><img class='rp-detail-hero-img' src='" + esc(heroImg) + "' alt='" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "' onerror=\"this.style.display='none'\"><div class='rp-detail-hero-in'><h3>" + esc(lang === "zh" ? t.nameZh : t.nameEn) + "</h3>" +
       "<div class='rp-meta'><span>" + esc(t.destZh || t.dest) + "</span><span>" + days + " 天</span>" + (tags.length ? "<span>" + tags.map(esc).join("</span><span>") + "</span>" : "") + "</div></div></div>" +
       "<div class='rp-detail-cta'><a href='booking.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-gold'>预约占位</a><a href='contact.html?tour=" + encodeURIComponent(t.id) + "' class='btn btn-primary'>在线咨询</a></div>" +
       "<div class='rp-tabs'>" +
