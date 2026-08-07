@@ -723,7 +723,7 @@ main .container{position:relative;z-index:2}
 .detail-city{margin-top:6px;color:var(--sky-deep);font-size:14px;font-weight:600}
 .detail-head-info .detail-tags{margin:12px 0}
 .detail-head-info .detail-price{margin-top:8px}
-@media(max-width:768px){
+@media(max-width:520px){
   .detail-hero .container{flex-direction:column}
   .detail-hero-img{flex:0 0 auto;max-width:100%}
   .detail-hero-img img{max-height:220px}
