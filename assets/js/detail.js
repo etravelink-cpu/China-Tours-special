@@ -105,10 +105,6 @@ function calHTML(t, opts){
           ${city?`<div class="detail-city">${city}</div>`:''}
           <div class="detail-tags">${tags.map(x=>`<span class="tag">${x}</span>`).join('')}</div>
           <div class="detail-price">${price} <span style="font-size:13px;color:#cdd8e3">${I[lang]['detail.single']}: ${price}</span></div>
-          <div class="detail-cta">
-            <a href="booking.html?tour=${encodeURIComponent(t.id)}" class="btn btn-gold">预约占位</a>
-            <a href="contact.html?tour=${encodeURIComponent(t.id)}" class="btn btn-primary">在线咨询</a>
-          </div>
         </div>`;
       EtripsHeroSlider.init(document.querySelector('#detail-head .hero-slider'));
       // hero 不再使用背景图叠字; 改为左img右信息栏(结构在detail-head内)
