@@ -339,7 +339,9 @@ function calHTML(t, opts){
   }
 
   // 右 detail: 与后台预览页一致
-  function renderDetail(id) {
+  function renderDetail(id, opts) {
+    opts = opts || {};
+    const showFullDetail = opts.showFullDetail !== false; // detail 页传 false 隐藏
     const t = T.find((x) => x.id === id);
     const box = document.getElementById("list-detail");
     if (!t) {
@@ -422,6 +424,11 @@ function calHTML(t, opts){
         const _single = (rows.length && rows[0].single) ? rows[0].single : '';
         return _single ? "<div class='detail-single' style='font-size:13px;color:#8a97a6'>单人房差: A$" + esc(_single) + "</div>" : "";
       })() +
+      "<div class='rp-detail-actions' style='margin-top:12px;display:flex;gap:10px;flex-wrap:wrap'>" +
+      "<a href='contact.html' class='btn btn-primary'>在线咨询</a>" +
+      "<a href='booking.html' class='btn btn-gold'>预约占位</a>" +
+      (showFullDetail ? "<a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn'>查看完整详情页 »</a>" : "") +
+      "</div>" +
       "</div></div>" +
       "<div class='rp-tabs'>" +
       "<div class='rp-tab active' data-tab='price'>日期和价格</div>" +
@@ -436,9 +443,7 @@ function calHTML(t, opts){
       "<div class='rp-tab-panel' data-tab='notes'>" + noticeHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div>" +
       "<div style='padding:18px 24px;display:flex;gap:12px;flex-wrap:wrap'>" +
-      "<a href='contact.html' class='btn btn-primary'>在线咨询</a>" +
-      "<a href='booking.html' class='btn btn-gold'>预约占位</a>" +
-      "<a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn' style='width:100%;text-align:center'>查看完整详情页</a></div>";
+      "</div>";
       EtripsHeroSlider.init(box.querySelector('.rp-detail-hero .hero-slider'));
 
     box.querySelectorAll(".rp-tab").forEach((tab) => {

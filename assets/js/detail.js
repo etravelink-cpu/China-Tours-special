@@ -20,7 +20,7 @@
     // 提供 list 模板所需的容器, 复用其渲染器
     body.innerHTML = '<div id="list-detail"></div>';
     if (typeof window.EtripsRenderDetail === 'function') {
-      window.EtripsRenderDetail(t.id);
+      window.EtripsRenderDetail(t.id, { showFullDetail: false });
     } else {
       body.innerHTML = '<div class="rp-coming-box">详情加载中…</div>';
       return;
