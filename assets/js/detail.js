@@ -2,7 +2,6 @@
 // 统一策略: 复用 list.js 的 window.EtripsRenderDetail (单一模板真相),
 // detail 与 list 内联详情渲染完全一致; 本文件仅叠加 detail 专属增强:
 //   - 日历翻月(calNav, 已在 list 模板内联调用)
-//   - PDF 导出(按钮)
 //   - 酒店/退改政策 作为追加块(不新增 tab, 保持与 list 的 5 tab 一致)
 (function () {
   const T = window.TOURS;
@@ -34,9 +33,6 @@
     }
     // 追加 detail 专属块: 酒店 / 退改政策(保持 list 的 tab 体系不变)
     appendExtraBlocks(t, body);
-    // 显示 PDF 按钮
-    const pdfBtn = document.getElementById('pdf-btn');
-    if (pdfBtn) pdfBtn.style.display = '';
   }
 
   // 酒店 + 退改政策: 作为内容追加到"费用说明"/"参团须知"对应面板之后
@@ -71,11 +67,6 @@
   function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   }
-
-  // PDF 导出: 打印当前详情
-  window.EtripsDetailPDF = function () {
-    window.print();
-  };
 
   document.addEventListener("DOMContentLoaded", render);
   window.addEventListener("langchange", render);
