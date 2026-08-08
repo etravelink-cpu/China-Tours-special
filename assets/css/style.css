@@ -344,6 +344,14 @@ main .container{position:relative;z-index:2}
 .rev-btn:active{transform:translateY(1px);box-shadow:0 1px 0 var(--line-cool)}
 @media (max-width:960px){.review{flex-basis:calc((100% - 20px)/2)}}
 @media (max-width:640px){.review{flex-basis:86%}}
+  /* 手机: hero 左图右文 -> 上图下文, 避免窄屏裁切标题 */
+  .rp-detail-hero{flex-direction:column}
+  .rp-detail-hero .hero-slider,
+  .rp-detail-hero .rp-hero-fallback{width:100%;min-height:200px;max-height:260px}
+  .rp-detail-hero-in{padding:16px 16px 18px;align-self:stretch;justify-content:flex-start}
+  .rp-detail-hero-in h3{font-size:20px}
+  .rp-detail-actions{flex-wrap:wrap}
+  .rp-detail-actions .btn{flex:1 1 auto;text-align:center}
 
 /* ---------- Tips ---------- */
 .tip{display:flex;gap:12px;align-items:flex-start;background:var(--white);border:1px solid var(--line-cool);
