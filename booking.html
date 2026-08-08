@@ -189,6 +189,7 @@
               presetDate: presetDate || '',
               onSelect: function(dateStr){ bkDate.value = dateStr; }
             });
+            if(presetDate) bkDate.value = presetDate;  // 从详情页带过来的日期直接填入
           }
           return;
         }
@@ -203,6 +204,7 @@
               presetDate: presetDate || '',
               onSelect: function(dateStr){ bkDate.value = dateStr; }
             });
+            if(presetDate) bkDate.value = presetDate;  // 从详情页带过来的日期直接填入
             return;
           }
         }
