@@ -25,14 +25,10 @@
       body.innerHTML = '<div class="rp-coming-box">详情加载中…</div>';
       return;
     }
+    // 注意: 保留 #list-detail 包裹, 不可把内容提上来——renderDetail 的 tab 事件绑定在 #list-detail 上,
+    // 提 DOM 会导致闭包 box 变空壳, tab 点击切换失效. 追加块直接挂到 #list-detail 内.
     const detail = body.querySelector('#list-detail');
-    if (detail) {
-      // 把渲染结果提到 body 直接子级(去掉多余包裹)
-      while (detail.firstChild) body.insertBefore(detail.firstChild, detail);
-      body.removeChild(detail);
-    }
-    // 追加 detail 专属块: 酒店 / 退改政策(保持 list 的 tab 体系不变)
-    appendExtraBlocks(t, body);
+    appendExtraBlocks(t, detail || body);
   }
 
   // 酒店 + 退改政策: 作为内容追加到"费用说明"/"参团须知"对应面板之后

@@ -446,8 +446,8 @@ function calHTML(t, opts){
         return _single ? "<div class='detail-single' style='font-size:13px;color:#8a97a6'>单人房差: A$" + esc(_single) + "</div>" : "";
       })() +
       "<div class='rp-detail-actions' style='margin-top:12px;display:flex;gap:10px;flex-wrap:wrap'>" +
-      "<a href='contact.html' class='btn btn-primary'>在线咨询</a>" +
-      "<a href='booking.html' class='btn btn-gold'>预约占位</a>" +
+      "<a href='contact.html?id="+encodeURIComponent(t.id)+"' class='btn btn-primary'>在线咨询</a>" +
+      "<a href='booking.html?tour="+encodeURIComponent(t.id)+"' class='btn btn-gold'>预约占位</a>" +
       "</div>" +
       "</div></div>" +
       "<div class='rp-tabs'>" +
