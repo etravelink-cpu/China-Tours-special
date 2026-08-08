@@ -404,8 +404,9 @@ function calHTML(t, opts){
         "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（出发日已高亮，库存随时变化，下单前请二次确认）</p>" +
         _cal + "</div>";
     }
-    const itin = (t.itinerary || [])
-      .map((d) => {
+    const itin = (t.itinerary || []);
+      const isOneDay = (t.days && parseInt(t.days,10)===1) || itin.length===1;
+      const itinDays = itin.map((d) => {
         const zh = lang === "zh";
         const theme = zh ? d.titleZh : d.titleEn;
         const overview = (zh ? d.descZh : d.descEn) || "";
@@ -417,7 +418,6 @@ function calHTML(t, opts){
         if (tr) foot.push("<span>🚗 " + esc(tr) + "</span>");
         if (me) foot.push("<span>🍽 " + esc(me) + "</span>");
         if (ho) foot.push("<span>🏨 " + esc(ho) + "</span>");
-        const isOneDay = (t.days && parseInt(t.days,10)===1) || itin.length===1;
         return (
           "<div class='itin-day" + (isOneDay ? " itin-one" : "") + "'>" +
             (isOneDay ? "" :
@@ -434,8 +434,8 @@ function calHTML(t, opts){
         );
       })
       .join("");
-    const itinHtml = itin
-      ? "<div class='rp-sec'><h4>行程安排</h4>" + itin + "</div>"
+    const itinHtml = itinDays
+      ? "<div class='rp-sec'><h4>行程安排</h4>" + itinDays + "</div>"
       : "";
     const inc = (t.includes || []).filter(Boolean);
     const costHtml = inc.length
