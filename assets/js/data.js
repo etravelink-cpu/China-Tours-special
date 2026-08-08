@@ -12298,6 +12298,275 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-SYDHUN",
+  "supplierCode": "SYDHUN",
+  "nameZh": "【精品小团】猎人谷品酒豪华之旅一日游",
+  "nameEn": "【精品小团】猎人谷品酒豪华之旅一日游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$199",
+  "priceEn": "A$199",
+  "days": 1,
+  "startCity": "猎人谷",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDHUN/Nova-SYDHUN_hero.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDHUN/Nova-SYDHUN_hero_1.jpg"
+  ],
+  "introZh": "上车地点 \r\n08:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 \r\n09:00 AM: 车士活[Chatswood RSL Club]",
+  "introEn": "上车地点 \r\n08:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 \r\n09:00 AM: 车士活[Chatswood RSL Club]",
+  "participationNotice": "成团人数：\r\n本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 \r\n因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 \r\n大小同价,婴儿0-3岁，包含3岁 \r\n建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。\r\n因此需要另行安排车辆，所产生的费用由旅客承担。\r\n \r\n上车地点： \r\n08:30AM: 悉尼市区 Furama酒店 68 Harbour Street, Haymarket \r\n09:00AM: 车士活[Chatswood RSL Club]",
+  "departureDates": [],
+  "depRule": [
+   2,
+   6
+  ],
+  "validFrom": "2026-08-08",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 199.0,
+    "childbed": 199.0,
+    "childnobed": "",
+    "infant": 99.0,
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDHUN_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDHUN_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "08:30 am 悉尼唐人街出发 \r\n11:00 am 第一家是猎人谷六大古老家族之一的酒庄, 始于 近130年，是现代最真实、最具传承性的葡萄酒王朝之一。体验猎人谷当地手工巧克力的美味，搭配令人垂涎欲滴的葡萄酒。哪种葡萄酒最适合搭配白巧克力？巧克力和干红葡萄酒可以一起享用吗？现在就来一探究竟吧！在您品尝葡萄酒的同时，还可以让孩子参与其中。 \r\n12:00 am 参观芝士工廠。芝士工廠现场有即场制造的手工牛奶及山羊奶起司可供选购，包含白芝士、切达起司、多姆淡起司和蓝纹起司等等。 \r\n12:30 pm 猎人谷酒庄享用精美午餐（已包含）。 \r\n13:30 pm 午饭后, 可以步行到餐厅旁边的小农场, 和小动物亲密接触。 午餐选择: 印尼炒饭 Nasi Goreng 味噌烤茄子（素食） Miso Glazed Eggplant(V) 牛肉汉堡 Hunter Reserve Beef Burger 凯撒沙拉 Ceasar Salad 三文鱼盖饭 Salmon Bowl 炸鱿鱼圈 Fried Calamari 炸肉排 Schnitzel 韩式五花肉盖饭 Korean Pork Belly Bowl 炸鱼薯条 Battered Fish & chips 奶油咖喱鸡 Butter chicken \r\n14:00 pm 第二家 造访猎人谷地区网红酒庄, 是波高尔宾一家屡获殊荣的精品酒庄。他们的自家葡萄园种植了著名的猎人谷白葡萄品种干白、甜白、干红、甜红、冰酒、桂馥甜酒等等。 \r\n15:00 pm 巧克力工廠带您探索巧克力的世界, 将看到数百种令人惊叹的本地制造的独特产品。 15:15 pm 最后到达网红酒庄室外拍照 。 这里带花园和湖景，入口处是网红小教堂（婚礼圣地），以及猎人谷热气球早餐选址, 很适合拍照留念 。 \r\n15:30 pm 出发回悉尼 18:00 pm 抵达悉尼市中心结束。",
+    "descEn": "08:30 am 悉尼唐人街出发 \r\n11:00 am 第一家是猎人谷六大古老家族之一的酒庄, 始于 近130年，是现代最真实、最具传承性的葡萄酒王朝之一。体验猎人谷当地手工巧克力的美味，搭配令人垂涎欲滴的葡萄酒。哪种葡萄酒最适合搭配白巧克力？巧克力和干红葡萄酒可以一起享用吗？现在就来一探究竟吧！在您品尝葡萄酒的同时，还可以让孩子参与其中。 \r\n12:00 am 参观芝士工廠。芝士工廠现场有即场制造的手工牛奶及山羊奶起司可供选购，包含白芝士、切达起司、多姆淡起司和蓝纹起司等等。 \r\n12:30 pm 猎人谷酒庄享用精美午餐（已包含）。 \r\n13:30 pm 午饭后, 可以步行到餐厅旁边的小农场, 和小动物亲密接触。 午餐选择: 印尼炒饭 Nasi Goreng 味噌烤茄子（素食） Miso Glazed Eggplant(V) 牛肉汉堡 Hunter Reserve Beef Burger 凯撒沙拉 Ceasar Salad 三文鱼盖饭 Salmon Bowl 炸鱿鱼圈 Fried Calamari 炸肉排 Schnitzel 韩式五花肉盖饭 Korean Pork Belly Bowl 炸鱼薯条 Battered Fish & chips 奶油咖喱鸡 Butter chicken \r\n14:00 pm 第二家 造访猎人谷地区网红酒庄, 是波高尔宾一家屡获殊荣的精品酒庄。他们的自家葡萄园种植了著名的猎人谷白葡萄品种干白、甜白、干红、甜红、冰酒、桂馥甜酒等等。 \r\n15:00 pm 巧克力工廠带您探索巧克力的世界, 将看到数百种令人惊叹的本地制造的独特产品。 15:15 pm 最后到达网红酒庄室外拍照 。 这里带花园和湖景，入口处是网红小教堂（婚礼圣地），以及猎人谷热气球早餐选址, 很适合拍照留念 。 \r\n15:30 pm 出发回悉尼 18:00 pm 抵达悉尼市中心结束。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "猎人谷酒庄午餐 品酒费用 空调旅游巴士 专业中文司导"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "導遊小費$5/人 旅游保险 一切个人消费"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "Nova-SYDBMS",
+  "supplierCode": "SYDBMS",
+  "nameZh": "悉尼蓝山日落 + 观星精品小团【一价全含】",
+  "nameEn": "悉尼蓝山日落 + 观星精品小团【一价全含】",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$199",
+  "priceEn": "A$199",
+  "days": 1,
+  "startCity": "悉尼",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDBMS/Nova-SYDBMS_hero.jpg"
+  ],
+  "introZh": "逃离城市喧嚣，和山、光、星辰来一场静谧的邂逅—— 鲁拉小镇，复古街道与手工巧克力香扑面而来 蓝山之巅，夕阳将山峦染成金色画卷 夜晚仰望银河与南十字星，安静到听见心跳 贴心安排暖手宝 、 晚餐 及舒适交通，让您尽享美景无忧，是亲友结伴、情侣出行的不二之选！ \r\n\r\n上车地点 13:30 Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000\r\n\r\n行程攻略：\r\n温馨提示 建议穿舒适步行鞋，携带外套（蓝山傍晚气温较低） 小镇及观景台为轻度步行，适合所有年龄层 程顺序可能因天气、交通等原因略有调整，以确保最佳体验。",
+  "introEn": "逃离城市喧嚣，和山、光、星辰来一场静谧的邂逅—— 鲁拉小镇，复古街道与手工巧克力香扑面而来 蓝山之巅，夕阳将山峦染成金色画卷 夜晚仰望银河与南十字星，安静到听见心跳 贴心安排暖手宝 、 晚餐 及舒适交通，让您尽享美景无忧，是亲友结伴、情侣出行的不二之选！ \r\n\r\n上车地点 13:30 Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000\r\n\r\n行程攻略：\r\n温馨提示 建议穿舒适步行鞋，携带外套（蓝山傍晚气温较低） 小镇及观景台为轻度步行，适合所有年龄层 程顺序可能因天气、交通等原因略有调整，以确保最佳体验。",
+  "participationNotice": "成团人数:\r\n4人成团，固定日期出发，如人数不足将提前通知支持全额退款或改期 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因.素造成的行程改变、延迟或取消，我社保留最终解释权。 \r\n建议自行购买旅游保险;如因旅客迟到而错过行程，费用概不返还。\r\n如需另行安排车辆，所产生的费用由旅客承担。\r\n \r\n出发和结束时间将根据季节略作调整： \r\n夏季(10月-3月)出发时间约14:30，返回时间约22:30 \r\n冬季(4月-9月)出发时间约13:30，返回时间约21:30 \r\n\r\n\r\n退改政策：\r\n1.出发前3天及以上可免费退改 \r\n2.出发前3天内(含第3天)收取100%%团费; \r\n3.如因旅客自身原因（如个人行程变动、身体不适等）取消或未能如期出发，按照退改政策执行。",
+  "departureDates": [],
+  "depRule": [
+   1,
+   3,
+   5,
+   6
+  ],
+  "validFrom": "2026-08-07",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 199.0,
+    "childbed": 199.0,
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDBMS_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMS_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "13:30 悉尼市区富丽华酒店出发 \r\n15:10-15:40 鲁拉小镇 漫步如画街道，探访复古小店，品尝当地手工巧克力名店。（具体营业时间以现场为准）。 \r\n16:10-16:50 回音谷 俯瞰壮丽的三姐妹峰，感受 “ 澳大利亚大峡谷 ” 的震撼风光。 \r\n17:00-17:40 卡希尔观景台 日落时分 看夕阳将蓝山染成金色！在远离喧嚣的静谧山区静静欣赏日落，与旅伴合影留念。 \r\n17:50-19:00 卡通巴晚餐 享用地道晚餐（餐费已含），在温馨小镇中暂歇片刻。 \r\n19:00-20:00 观星时间 在导游的带领下，抵达无光污染、视野开阔的观星点，欣赏南半球的星空（观星点可能为卡希尔观景台或温特沃斯瀑布湖，具体位置取决于导游的安排）。 ⭐ 天气晴朗时可见银河与南十字星座 ☁ 如遇天气不佳，将改为悉尼绝美城市夜景体验。 * \r\n20:00 返回悉尼 21:30 抵达市区",
+    "descEn": "13:30 悉尼市区富丽华酒店出发 \r\n15:10-15:40 鲁拉小镇 漫步如画街道，探访复古小店，品尝当地手工巧克力名店。（具体营业时间以现场为准）。 \r\n16:10-16:50 回音谷 俯瞰壮丽的三姐妹峰，感受 “ 澳大利亚大峡谷 ” 的震撼风光。 \r\n17:00-17:40 卡希尔观景台 日落时分 看夕阳将蓝山染成金色！在远离喧嚣的静谧山区静静欣赏日落，与旅伴合影留念。 \r\n17:50-19:00 卡通巴晚餐 享用地道晚餐（餐费已含），在温馨小镇中暂歇片刻。 \r\n19:00-20:00 观星时间 在导游的带领下，抵达无光污染、视野开阔的观星点，欣赏南半球的星空（观星点可能为卡希尔观景台或温特沃斯瀑布湖，具体位置取决于导游的安排）。 ⭐ 天气晴朗时可见银河与南十字星座 ☁ 如遇天气不佳，将改为悉尼绝美城市夜景体验。 * \r\n20:00 返回悉尼 21:30 抵达市区",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "1.空调旅游巴士",
+   "2.专业中文司导",
+   "3.精选西式晚餐",
+   "4.司导服务费$5/人"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "个人消费及未列明项目"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "Nova-SYDPST",
+  "supplierCode": "SYDPST",
+  "nameZh": "【每周二、四、日固定出发】史蒂芬港观海豚一日游",
+  "nameEn": "【每周二、四、日固定出发】史蒂芬港观海豚一日游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$179",
+  "priceEn": "A$179",
+  "days": 1,
+  "startCity": "悉尼",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDPST/Nova-SYDPST_hero.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDPST/Nova-SYDPST_hero_1.jpg"
+  ],
+  "introZh": "每周二、四，周日固定出发 史蒂芬港乘坐游船观看野生海豚Dolphin Cruise （已包含）+ 安娜湾刺激的沙漠滑沙 （自费） 如果出发前三天没有提供午餐选项的话，默认按照炸鱼薯条预定 包含西式午餐，下单时请选择： 炸鱼薯条 芝士汉堡 意面 上车地点 7:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 8:00AM: Chatswood RSL CLUB\n\n行程攻略：\n上车点 出发时间07:30AM 假日酒店 68 Harbour Street, Haymarket, Sydney NSW 2000， （集合点位于市区CBD） 温馨提示 ： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 准备在船上的绳网内戏水的客人请带好泳衣和浴巾",
+  "introEn": "每周二、四，周日固定出发 史蒂芬港乘坐游船观看野生海豚Dolphin Cruise （已包含）+ 安娜湾刺激的沙漠滑沙 （自费） 如果出发前三天没有提供午餐选项的话，默认按照炸鱼薯条预定 包含西式午餐，下单时请选择： 炸鱼薯条 芝士汉堡 意面 上车地点 7:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 8:00AM: Chatswood RSL CLUB\n\n行程攻略：\n上车点 出发时间07:30AM 假日酒店 68 Harbour Street, Haymarket, Sydney NSW 2000， （集合点位于市区CBD） 温馨提示 ： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 准备在船上的绳网内戏水的客人请带好泳衣和浴巾",
+  "participationNotice": "1. 成团人数：本团需4人以上方能成行 （每周二，四、日固定出发），出发前3天若未能成行我社将联系您退款或改期。 2. 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 3. 小孩年龄4-14岁 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5.上车地点 7:30am 68 Harbour Street, Haymarket, Sydney NSW 2000 8am: Chatswood RSL CLUB",
+  "departureDates": [],
+  "depRule": [
+   1,
+   3,
+   6
+  ],
+  "validFrom": "2026-08-06",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 179.0,
+    "childbed": 169.0,
+    "childnobed": "",
+    "infant": 89.0,
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDPST_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDPST_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "7:30 am 市中心唐人街出发前往美丽的史蒂芬港 11:00 am 先来到沙漠绿洲安娜湾进行刺激的沙丘滑沙, 绝美的风景和刺激的体验让人身心愉悦。当您从40-50米高的沙丘上滑下来时感觉从发梢到胸膛都被沙丘的气氛感染了。根据体力，您可多次攀爬。（自费） 12:00 pm 中午来到码头午餐店，品尝西式午餐（已包含） 13:30 pm 午餐后来到Nelson Bay 乘坐1.5小时游船巡航观赏海豚。作为约150头海豚的栖息地，观海豚游船是必玩项目，您有机会贴近可爱的宽吻海豚，还可欣赏美丽的海景。（已包含） 15:00 pm 游船结束后，乘车返回悉尼 18:00 pm 市中心唐人街结束 ***具体行程顺序已当天实际情况为准***",
+    "descEn": "7:30 am 市中心唐人街出发前往美丽的史蒂芬港 11:00 am 先来到沙漠绿洲安娜湾进行刺激的沙丘滑沙, 绝美的风景和刺激的体验让人身心愉悦。当您从40-50米高的沙丘上滑下来时感觉从发梢到胸膛都被沙丘的气氛感染了。根据体力，您可多次攀爬。（自费） 12:00 pm 中午来到码头午餐店，品尝西式午餐（已包含） 13:30 pm 午餐后来到Nelson Bay 乘坐1.5小时游船巡航观赏海豚。作为约150头海豚的栖息地，观海豚游船是必玩项目，您有机会贴近可爱的宽吻海豚，还可欣赏美丽的海景。（已包含） 15:00 pm 游船结束后，乘车返回悉尼 18:00 pm 市中心唐人街结束 ***具体行程顺序已当天实际情况为准***",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "空调旅游巴士 专业中文司导 海豚游船 西式午餐"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "滑沙 司导服务费$5/人 其他一起个人消费"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "Nova-SYDBMTS",
   "supplierCode": "SYDBMTS",
   "nameZh": "【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】",
@@ -12742,6 +13011,99 @@ window.TOURS = [
   "excludes": [
    "小费：$5/人/天 (团结束后支付给导游)",
    "消费：午餐及其他一切个人消费"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "Nova-SYDSCT",
+  "supplierCode": "SYDSCT",
+  "nameZh": "【四人成团 天天出发】悉尼网红地标一日游",
+  "nameEn": "【四人成团 天天出发】悉尼网红地标一日游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$139",
+  "priceEn": "A$139",
+  "days": 1,
+  "startCity": "悉尼",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDSCT/Nova-SYDSCT_hero.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDSCT/Nova-SYDSCT_hero_1.jpg"
+  ],
+  "introZh": "行程攻略：\r\n上车地址 ：10:00AM， Furama酒店 (原 假日 酒店） 68 Harbour Street, Haymarket, Sydney NSW 2000（集合点位于市区CBD） 温馨提示： 自行前往电子票显示的上车地点等候上车，请提前20分钟到达集合点。 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 没有选着含餐套餐的游客, 请提前做好准备。",
+  "introEn": "行程攻略：\r\n上车地址 ：10:00AM， Furama酒店 (原 假日 酒店） 68 Harbour Street, Haymarket, Sydney NSW 2000（集合点位于市区CBD） 温馨提示： 自行前往电子票显示的上车地点等候上车，请提前20分钟到达集合点。 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 没有选着含餐套餐的游客, 请提前做好准备。",
+  "participationNotice": "1. 成团人数：本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 2. 如遇自然灾害、交通管制等客观因素，导致行程取消，我社将退还全部团款；若在行程中造成行程全部或部分无法完成，我社会根据实际情况协调处理； 3. 本团大小同价（4岁以下儿童不提供船位及餐饮）",
+  "departureDates": [],
+  "depRule": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "validFrom": "2026-08-07",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 139.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": 60.0,
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDSCT_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDSCT_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "Day 1 悉尼网红地标一日游\r\n10:00 市中心唐人街Furama 酒店 (原 假日酒店)门口出发，开始经典悉尼市区标志景点打卡。\r\n\r\n10:20 悉尼歌剧院(外部参观)。歌剧院是20世纪最具有特色的建筑之一，特有的帆造型和作为海港大桥，与周围景物相映成趣。\r\n\r\n11:20 邦迪海滩-网红咖啡厅-冰山游泳池。邦迪海滩是悉尼最热闹和澳大利亚最出名的海滩之一，同时也是冲浪圣地。【ICEBERGS POOL】超梦幻无边游泳池，打卡INS网红爆款。\r\n\r\n\r\n12:20 鱼市场自理午餐。南半球最大海鲜市场-悉尼Fish Market，在这里你将现身经历鱼市场德色彩与喧闹。深海大龙虾、肥美三文鱼、巨大皇帝蟹、闪闪大对虾、鲜活生蚝。把鲜嫩的海鲜交到大厨手中，按照自己的口味要求，烧烤，刺身，油炸，清蒸，蒜蓉炒等多种独特的烹调手法，烹调成一顿丰富鲜美的海鲜餐。 \r\n\r\n14:00 琼斯湾码头,唯一保留铁轨结构的百年老码头。超级游艇停泊港，原始铁轨与现代海港交相辉映，电影级拍照场景等你发现。\r\n\r\n14:45 参观悉尼大学及其网红四方楼，澳大利亚历史最悠久和最负盛名的大学，主楼和电影《哈利波特》里的建筑及其相似，因此被称为【哈利波特楼】，吸引了许多影迷到此打开，更有很多明星来这里拍摄婚纱照。\r\n\r\n15:30 麦考瑞夫人角：拍摄海港大桥与歌剧院同框的明信片式美景。\r\n\r\n16:00 参观海德公园和圣玛丽亚大教堂。大教堂是由当地的砂岩造成，“哥德式”的建筑风格是欧洲中世纪大教堂的建筑遗风。\r\n\r\n16:30 徒步海港大桥品味岩石区:在这个繁华的港湾内，汇集了古老的殖民时期的建筑，时尚店铺，博物馆，别具特色的餐厅和酒吧。\r\n\r\n17:30 市中心唐人街结束。\r\n\r\n\r\n\r\n*具体行程顺序已当天实际情况为准\r\n\r\n 午餐自理\r\n\r\n X",
+    "descEn": "Day 1 悉尼网红地标一日游\r\n10:00 市中心唐人街Furama 酒店 (原 假日酒店)门口出发，开始经典悉尼市区标志景点打卡。\r\n\r\n10:20 悉尼歌剧院(外部参观)。歌剧院是20世纪最具有特色的建筑之一，特有的帆造型和作为海港大桥，与周围景物相映成趣。\r\n\r\n11:20 邦迪海滩-网红咖啡厅-冰山游泳池。邦迪海滩是悉尼最热闹和澳大利亚最出名的海滩之一，同时也是冲浪圣地。【ICEBERGS POOL】超梦幻无边游泳池，打卡INS网红爆款。\r\n\r\n\r\n12:20 鱼市场自理午餐。南半球最大海鲜市场-悉尼Fish Market，在这里你将现身经历鱼市场德色彩与喧闹。深海大龙虾、肥美三文鱼、巨大皇帝蟹、闪闪大对虾、鲜活生蚝。把鲜嫩的海鲜交到大厨手中，按照自己的口味要求，烧烤，刺身，油炸，清蒸，蒜蓉炒等多种独特的烹调手法，烹调成一顿丰富鲜美的海鲜餐。 \r\n\r\n14:00 琼斯湾码头,唯一保留铁轨结构的百年老码头。超级游艇停泊港，原始铁轨与现代海港交相辉映，电影级拍照场景等你发现。\r\n\r\n14:45 参观悉尼大学及其网红四方楼，澳大利亚历史最悠久和最负盛名的大学，主楼和电影《哈利波特》里的建筑及其相似，因此被称为【哈利波特楼】，吸引了许多影迷到此打开，更有很多明星来这里拍摄婚纱照。\r\n\r\n15:30 麦考瑞夫人角：拍摄海港大桥与歌剧院同框的明信片式美景。\r\n\r\n16:00 参观海德公园和圣玛丽亚大教堂。大教堂是由当地的砂岩造成，“哥德式”的建筑风格是欧洲中世纪大教堂的建筑遗风。\r\n\r\n16:30 徒步海港大桥品味岩石区:在这个繁华的港湾内，汇集了古老的殖民时期的建筑，时尚店铺，博物馆，别具特色的餐厅和酒吧。\r\n\r\n17:30 市中心唐人街结束。\r\n\r\n\r\n\r\n*具体行程顺序已当天实际情况为准\r\n\r\n 午餐自理\r\n\r\n X",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "全程空调旅游车 玩乐：玩转悉尼新鲜网红景点 导游：司兼导"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "司机小费：$5/人 私人费用 旅游保险 午餐自理 其他一切个人消费"
   ],
   "excludesEn": [],
   "notes": [],
