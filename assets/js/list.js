@@ -480,7 +480,7 @@ function calHTML(t, opts){
         const subs = tree[activeDest][c];
         for (const s of Object.keys(subs)) {
           if (subs[s] && subs[s].length) {
-            const first = subs[s].slice().sort((a, b) => (a.days || 0) - (b.days || 0))[0];
+            const first = subs[s].slice().sort((a, b) => { const da=(a.departureDates||[]).length, db=(b.departureDates||[]).length; if(da!==db) return db-da; const ia=a.img?1:0, ib=b.img?1:0; if(ia!==ib) return ib-ia; return (a.days||0)-(b.days||0); })[0];
             activeId = first.id;
             break outer;
           }
