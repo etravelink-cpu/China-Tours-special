@@ -50,7 +50,7 @@ function calHTML(t, opts){
     let monthsHtml = '';
     ymList.forEach(([y,m])=>{
       const days = new Date(y,m+1,0).getDate();
-      const lead = new Date(y,m,1).getDay();
+      const lead = (new Date(y,m,1).getDay()+6)%7;
       let cells = '';
       for(let i=0;i<lead;i++) cells += '<td class="cal-empty"></td>';
       for(let d=1;d<=days;d++){
