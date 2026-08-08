@@ -1029,3 +1029,12 @@ body.nav-open{overflow:hidden}
 .detail-intro .intro-para{font-size:15px;line-height:1.8;color:var(--ink);margin:0 0 10px;padding:6px 0 6px 14px;border-left:3px solid var(--sky-deep);background:linear-gradient(90deg,rgba(14,125,184,.06),rgba(14,125,184,0));border-radius:0 6px 6px 0}
 
 /* Hero 轮播 */
+
+
+/* 出发日期文本列表(非澳新板块: 中国/亚洲/欧洲/美加等) */
+.rp-dep-list{margin:10px 0;padding:10px 14px;background:#f8fafc;border:1px solid #e6ebf2;border-radius:8px}
+.rp-dep-list h4{margin:0 0 4px;color:#1F4E78;font-size:14px}
+.rp-dep-note{margin:0 0 8px;font-size:12px;color:#c0392b}
+.rp-dep-month{line-height:1.9;color:#334;font-size:13px;margin:4px 0}
+.rp-dep-month b{color:#1F4E78;margin-right:4px}
+.rp-dep-month .soldout{color:#c0392b;font-weight:600;margin-right:4px}

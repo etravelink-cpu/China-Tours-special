@@ -70,7 +70,28 @@ function calHTML(t, opts){
     const head = full ? '<div class="cal-head"><button type="button" class="cal-prev" onclick="calNav(this,-1)">‹</button><span class="cal-cur"></span><button type="button" class="cal-next" onclick="calNav(this,1)">›</button></div>' : '';
     const ruleBox = (ruleTxt||validTxt) ? '<div class="rule-box"><p style="margin:0"><b>出发规则：</b>'+(ruleTxt||'按指定日期')+(validTxt?'　<b>'+validTxt+'</b>':'')+'</p></div>' : '';
     const hint = full ? '<p style="font-size:12px;color:#8a97a6;margin:8px 0 0">（橙色为可出发日期，库存随时变化，下单前请二次确认）</p>' : '';
-    return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
+    // 澳新(规则型)走月历网格; 其他板块(中国/亚洲/欧洲/美加/海岛/其他)走文本列表(开团日期)
+    if (_ruleDest) {
+      return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
+    }
+    // 文本列表渲染(固定日期型): 按 年月 分组, 标注售罄/紧张
+    const groups = {};
+    ds.forEach(d=>{ const ym=(d.date||'').slice(0,7); (groups[ym]=groups[ym]||[]).push(d); });
+    let listHtml = '<div class="rp-dep-list"><h4>2026年开团日期</h4><p class="rp-dep-note">（库存随时变化，下单前请二次确认）</p>';
+    Object.keys(groups).sort().forEach(ym=>{
+      const [y,m]=ym.split('-');
+      const parts=groups[ym].map(d=>{
+        const day=d.date.slice(8,10)+'日';
+        const st=d.status||'available';
+        if(st==='soldout') return '<span class="soldout">'+day+'（售罄）</span>';
+        if(st==='limited') return day+'（余位紧张）';
+        if(st==='open') return day+'（报名中）';
+        return day;
+      });
+      listHtml += '<div class="rp-dep-month"><b>'+parseInt(m,10)+'月：</b>'+parts.join('、')+'</div>';
+    });
+    listHtml += '</div>';
+    return listHtml + note;
   }
 
   // 翻月 (按钮内联调用)
