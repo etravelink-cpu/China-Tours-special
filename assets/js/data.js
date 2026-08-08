@@ -257,8 +257,8 @@ window.TOURS = [
    "Value"
   ],
   "img": [
-   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero_front.jpg",
-   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero_front_1.jpg"
+   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero_front_1.jpg",
+   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero_front.jpg"
   ],
   "introZh": "★【長江行·攬月號/極光號核心亮點】\r\n★2026年首航3億打造長江新船王三峽遊輪·首搭鴻蒙智能艙房系統\r\n★真·一價全包：含船上三餐+免費WIFI+指定酒水暢飲+自助洗衣+三峽大壩升船機體驗+葛洲壩過閘體驗。\r\n★全覽長江三峽·奇景盡收：瞿塘峽、巫峽、西陵峽，日間全景漫遊。\r\n★一次航程，兩大工程奇跡與三峽自然壯景交匯。\r\n★【奢華酒店】：上海網紅地標建築-世貿洲際深坑酒店；深坑奇觀，全球矚目。上海百年外灘邊的瑰麗城堡，電視劇“繁花”取景地-和平飯店。\r\n★【江南全覽】上海，烏鎮，杭州，無錫，南京，蘇州，濮院古鎮。\r\n★【超棒景點】精華全含：烏鎮+濮院古鎮“雙水鄉古鎮”，G20城市陽臺，西湖景區，夫子廟，大報恩寺遺址公園，拈花灣禪意小鎮，太湖風景區，水陸盤門，京杭大運河，上海灘。 ★特色美食：杭州: 西湖醋魚，南宋禦茶宴；無錫: 無錫排骨，太湖乾隆宴; 南京: 鹽水鴨，淮陽風味宴; 蘇州: 特色鱸魚，水鄉風味宴\r\n★【特別贈送】\r\n「3-6月」時令水果：根據季節安排時令水果，如枇杷、楊梅、醉李等。\r\n「7月」水蜜桃界的頂流：無錫陽山水蜜桃，皮韌易剝、香氣濃郁，汁多味甜，入口即化\r\n「9月15日至12月」中國三大古名蟹中唯一存世的品種：陽澄湖大閘蟹每人二隻（一公一母）",
   "introEn": "★【長江行·攬月號/極光號核心亮點】\r\n★2026年首航3億打造長江新船王三峽遊輪·首搭鴻蒙智能艙房系統\r\n★真·一價全包：含船上三餐+免費WIFI+指定酒水暢飲+自助洗衣+三峽大壩升船機體驗+葛洲壩過閘體驗。\r\n★全覽長江三峽·奇景盡收：瞿塘峽、巫峽、西陵峽，日間全景漫遊。\r\n★一次航程，兩大工程奇跡與三峽自然壯景交匯。\r\n★【奢華酒店】：上海網紅地標建築-世貿洲際深坑酒店；深坑奇觀，全球矚目。上海百年外灘邊的瑰麗城堡，電視劇“繁花”取景地-和平飯店。\r\n★【江南全覽】上海，烏鎮，杭州，無錫，南京，蘇州，濮院古鎮。\r\n★【超棒景點】精華全含：烏鎮+濮院古鎮“雙水鄉古鎮”，G20城市陽臺，西湖景區，夫子廟，大報恩寺遺址公園，拈花灣禪意小鎮，太湖風景區，水陸盤門，京杭大運河，上海灘。 ★特色美食：杭州: 西湖醋魚，南宋禦茶宴；無錫: 無錫排骨，太湖乾隆宴; 南京: 鹽水鴨，淮陽風味宴; 蘇州: 特色鱸魚，水鄉風味宴\r\n★【特別贈送】\r\n「3-6月」時令水果：根據季節安排時令水果，如枇杷、楊梅、醉李等。\r\n「7月」水蜜桃界的頂流：無錫陽山水蜜桃，皮韌易剝、香氣濃郁，汁多味甜，入口即化\r\n「9月15日至12月」中國三大古名蟹中唯一存世的品種：陽澄湖大閘蟹每人二隻（一公一母）",
@@ -7904,7 +7904,9 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/au-sydney.jpg",
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDCNSOOL/Nova-SYDCNSOOL_hero.jpg"
+  ],
   "introZh": "悉尼-凯恩斯-黄金海岸10日游（周二、周五、周日出发）。\n\n第一天要求航班时间为0830am之前抵达的国内航班，司机统一0920am从悉尼国内机场出发；如因航班延误，可安排接机追团费用为$100/趟，错过的行程无法退补。\n悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还。",
   "introEn": "悉尼-凯恩斯-黄金海岸10日游（周二、周五、周日出发）。\n\n第一天要求航班时间为0830am之前抵达的国内航班，司机统一0920am从悉尼国内机场出发；如因航班延误，可安排接机追团费用为$100/趟，错过的行程无法退补。\n悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还。",
   "participationNotice": "**悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还**\n两人起订，天天出发，酒店需二次确认，遇学生假期、公众假日、重大活动，或基础房型售罄等情况会有附加费：\n1. 两人成团固定日期出发每周二、周五、周日\n2. 儿童价格适用于不满12岁，提供车位床位；婴儿价格适用于不满2岁，提供车位不提供床位；请在下单时提供儿童/婴儿出生日期\n3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失\n4. 产品行程中的游览时间仅供参考，司机会根据天气、交通情况对行程做出相应合理的调整\n退改政策：\n1. 距出发日期21天之前（含）退改，取消$200每人取消费\n2. 距出发日期14-20天之内退改，收取订单总额50%取消费\n3. 距出发日期14天内，不退不改\n^因天气、政令、战争、罢工等不可抗力，或因飞机、邮轮公司取消、延误导致行程受阻，我社会协助调整或安排替代交通，损失及额外费用需乘客自行承担，请购买旅游保险以保障个人权益。",
@@ -8124,7 +8126,9 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/au-sydney.jpg",
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDCNSMEL/Nova-SYDCNSMEL_hero.jpg"
+  ],
   "introZh": "悉尼-凯恩斯-墨尔本11天游，固定每周二、周五出发，两人成团。一次畅游澳洲东海岸三大城市：悉尼市区与蓝山、史蒂芬港，凯恩斯大堡礁与热带雨林，墨尔本企鹅岛、金矿与大洋路。中文导游全程陪同，四星酒店含早。\n★ 悉尼市区游为特别赠送，如航班原因无法安排则改为接机送酒店，费用概不退还。",
   "introEn": "悉尼-凯恩斯-墨尔本11天游，固定每周二、周五出发，两人成团。一次畅游澳洲东海岸三大城市：悉尼市区与蓝山、史蒂芬港，凯恩斯大堡礁与热带雨林，墨尔本企鹅岛、金矿与大洋路。中文导游全程陪同，四星酒店含早。\n★ 悉尼市区游为特别赠送，如航班原因无法安排则改为接机送酒店，费用概不退还。",
   "participationNotice": "**悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** **酒店需二次确认，遇公共假期, 学生假期，重大节日等可能有酒店附加费** 1. 两人成团固定日期出发每周二，周五 2. 儿童3-12岁；婴儿0-2岁 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. 不含旺季酒店附加费和重大节假日酒店附加费",
@@ -8350,7 +8354,9 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/au-sydney.jpg",
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDMEL8PG/Nova-SYDMEL8PG_hero.jpg"
+  ],
   "introZh": "悉尼：美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区，解锁最经典和热门网红景点；世界自然遗产蓝山体验三段式缆车，回程可选择日落观光游船（需自行opal card）；史蒂芬港乘游船观看野生海豚。\n墨尔本：菲利普岛观看神仙企鹅；十二门徒俯瞰最美海岸线壮丽全景。",
   "introEn": "悉尼：美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区，解锁最经典和热门网红景点；世界自然遗产蓝山体验三段式缆车，回程可选择日落观光游船（需自行opal card）；史蒂芬港乘游船观看野生海豚。\n墨尔本：菲利普岛观看神仙企鹅；十二门徒俯瞰最美海岸线壮丽全景。",
   "participationNotice": "1. 悉尼市区游为特别赠送，如航班原因无法安排则改为接机送酒店，费用不退\n2. 航班要求：第一天抵达时间为上午08:30前国内航班，司机统一09:20从悉尼国内机场出发（延误可安排接机追团$100/趟，错过行程无法退补）\n3. 出团要求：两人成团，固定日期出发，酒店需二次确认，遇学生假期/公共假期/重大活动/基础房型售罄等会有附加费\n4. 大人小孩同价，儿童不满12岁提供车位床位；婴儿不满2岁提供车位不提供床位（下单请提供出生日期）\n5. 提前离团或中途脱团视作自行放弃，恕不退款\n6. 行程游览顺序时间仅供参考，导游按天气交通合理调整\n7. 因天气/政令/战争/罢工等不可抗力或飞机邮轮取消延误导致受阻，我社协助调整或安排替代交通，损失及额外费用乘客自行承担，请购买旅游保险\n退改政策：距出发21天前(含)退改收$200/人；14-20天内收订单总额50%；14天内不退不改；出团当日迟到或脱团概不退费。",
@@ -8546,7 +8552,9 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/au-sydney.jpg",
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDMEL7PG/Nova-SYDMEL7PG_hero.jpg"
+  ],
   "introZh": "悉尼：美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区，解锁最经典和热门网红景点；世界自然遗产蓝山体验三段式缆车，回程可选择日落观光游船（需自行opal card）；史蒂芬港乘游船观看野生海豚。\n墨尔本：菲利普岛观看神仙企鹅；十二门徒俯瞰最美海岸线壮丽全景。",
   "introEn": "悉尼：美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区，解锁最经典和热门网红景点；世界自然遗产蓝山体验三段式缆车，回程可选择日落观光游船（需自行opal card）；史蒂芬港乘游船观看野生海豚。\n墨尔本：菲利普岛观看神仙企鹅；十二门徒俯瞰最美海岸线壮丽全景。",
   "participationNotice": "1. 悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还。 2. 航班要求: 第一天抵達时间为上午 08:30am 之前的国内航班，司机统一於09:20am从悉尼国内机场出发。 (備註: 如因航班延误可安排接机追团费用为$100/趟，错过的行程无法退补) 3. 出團要求: 两人成团，固定日期出发，酒店需二次确认，遇学生假期，公共假期，重大活动，或基础房型售罄等情况会有附加费。 4. 大人小孩同價，儿童价格适用于不满12岁，提供车位床位 ; 婴儿价格适用于不满2岁,提供车位不提供床位。 (備註: 请在下单时提供儿童 /婴儿出生日期) 5. 提前离团或中途脱团视作自行放弃，恕不退款。 6. 行程中的游览顺序和时间仅供参考，导游会根据天气交通等情况，对行程做出相应合理的调整。 7. 因天气、政令、战争、罢工等不可抗力,或因飞机、邮轮公司取消、延误导致行程受阻,我社会协助调整或安排替代交通,损失及额外费用需乘客自行承担，请购买放游保险以保障个人权益。",
@@ -8727,7 +8735,9 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/au-sydney.jpg",
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDMEL6PG/Nova-SYDMEL6PG_hero.jpg"
+  ],
   "introZh": "悉尼：美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区，解锁最经典和热门网红景点；世界自然遗产蓝山体验三段式缆车，回程可选择日落观光游船（需自行opal card）；史蒂芬港乘游船观看野生海豚。\n墨尔本：菲利普岛观看神仙企鹅；十二门徒俯瞰最美海岸线壮丽全景。",
   "introEn": "悉尼：美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区，解锁最经典和热门网红景点；世界自然遗产蓝山体验三段式缆车，回程可选择日落观光游船（需自行opal card）；史蒂芬港乘游船观看野生海豚。\n墨尔本：菲利普岛观看神仙企鹅；十二门徒俯瞰最美海岸线壮丽全景。",
   "participationNotice": "1. 悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还。 2. 航班要求: 第一天抵達时间为上午 08:30am 之前的国内航班，司机统一於09:20am从悉尼国内机场出发。 (備註: 如因航班延误可安排接机追团费用为$100/趟，错过的行程无法退补) 3. 出團要求: 两人成团，固定日期出发，酒店需二次确认，遇学生假期，公共假期，重大活动，或基础房型售罄等情况会有附加费。 4. 大人小孩同價，儿童价格适用于不满12岁，提供车位床位 ; 婴儿价格适用于不满2岁,提供车位不提供床位。 (備註: 请在下单时提供儿童 /婴儿出生日期) 5. 提前离团或中途脱团视作自行放弃，恕不退款。 6. 行程中的游览顺序和时间仅供参考，导游会根据天气交通等情况，对行程做出相应合理的调整。 7. 因天气、政令、战争、罢工等不可抗力,或因飞机、邮轮公司取消、延误导致行程受阻,我社会协助调整或安排替代交通,损失及额外费用需乘客自行承担，请购买放游保险以保障个人权益。",
@@ -18030,88 +18040,6 @@ window.TOURS = [
    "5. 购买个人旅游保险的费用（强烈建议购买）",
    "6. 由旅游者个人行为所导致的额外费用",
    "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗因素（疫情，交通延误、罢工、自然灾害等）所产生的损失和费用"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-SYDOPH",
-  "supplierCode": "SYDOPH",
-  "nameZh": "悉尼歌剧院内部解说文化探索之旅",
-  "nameEn": "悉尼歌剧院内部解说文化探索之旅",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "悉尼及周边",
-  "subRegions": [
-   "悉尼及周边"
-  ],
-  "price": "A$37",
-  "priceEn": "A$37",
-  "days": 1,
-  "startCity": "悉尼",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/au-sydney.jpg",
-  "introZh": "行程攻略：\n1. 请在参观时间开始之前提前15分钟到达，若因迟到错过行程，请自行负责 2. 歌剧院地址：2 Macquarie Street, Sydney CBD NSW 2000 3. 内部参观换票地点：抵达歌剧院后，请按照图示，前往Welcome Center兑换内部参观券 内部参观须知 1. 歌剧院内请勿高声喧哗； 2. 建议着平底鞋，最好不要穿高跟鞋； 3. 歌剧院内请勿吸烟。",
-  "introEn": "行程攻略：\n1. 请在参观时间开始之前提前15分钟到达，若因迟到错过行程，请自行负责 2. 歌剧院地址：2 Macquarie Street, Sydney CBD NSW 2000 3. 内部参观换票地点：抵达歌剧院后，请按照图示，前往Welcome Center兑换内部参观券 内部参观须知 1. 歌剧院内请勿高声喧哗； 2. 建议着平底鞋，最好不要穿高跟鞋； 3. 歌剧院内请勿吸烟。",
-  "participationNotice": "1. 请在下订单时选择游览时段, 下午时段由于歌剧院不定时演出，可能不能进入到演播厅观览，行程以供应商的回复为准； 2. 请查看电子票确认的参观时间，可能与您选择的时间有15-30分钟的差异；行程以供应商的回复为准 3.中文1小时讲解可选时间通常为0930am,1100am,1:00pm,2:30pm; 中文30分钟讲解可选时间通常为0915am,1015am,1115am,1:15pm,2:15pm,3;15pm 悉尼歌剧院在以下日期不提供导览：圣诞节、新年前夜、元旦、2026 年9 月 13日、12月 25 日、12 月 30 - 31 日、2027 年 1 月 1 日 、3 月 6 - 7 日。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "单门票 / 单项体验",
-    "adult": 37.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "参观举世闻名的悉尼歌剧院,跟随中文向导走入歌剧院内部,游览表演厅,欣赏宏伟建筑,了解丰富历史. The Sydney Opera House is home to a rich history of world-class performers, from the China Philharmonic Orchestra to the Peking Opera. Our Sydney Opera House guided tour tailored for Mandarin speakers, taking you underneath the world-famous sails. Step inside and experience unforgettable moments and history on a tour. 全程约200级台阶 This tour has approx. 200 stairs - Low Impact 背包和小件物品可寄存 Cloaking: Backpacks and small items to be cloaked 恕不接受行李箱和大件物品 No luggage or large bags accepted 游玩时间 30分钟中文导览可选时间: Monday, Tuesday, Thursday, Friday, Sunday: 9:15am, 10:15am, 11:15am, 1:15pm, 2:15pm, 3:15pm Wednesday, Saturday: 9:15am, 10:15am, 11:15am, 2:15pm, 4:15pm 60分钟中/英文导览可选时间: Monday, Tuesday, Thursday, Friday, Sunday: 9:30am, 11:00am, 1:00pm, 2:30pm Wednesday, Saturday: 9:30am, 11:00am, 2:30pm, 4:00pm 24年2月1日开始,中文导览集合地点改为 Upper Concourse Level.",
-    "descEn": "参观举世闻名的悉尼歌剧院,跟随中文向导走入歌剧院内部,游览表演厅,欣赏宏伟建筑,了解丰富历史. The Sydney Opera House is home to a rich history of world-class performers, from the China Philharmonic Orchestra to the Peking Opera. Our Sydney Opera House guided tour tailored for Mandarin speakers, taking you underneath the world-famous sails. Step inside and experience unforgettable moments and history on a tour. 全程约200级台阶 This tour has approx. 200 stairs - Low Impact 背包和小件物品可寄存 Cloaking: Backpacks and small items to be cloaked 恕不接受行李箱和大件物品 No luggage or large bags accepted 游玩时间 30分钟中文导览可选时间: Monday, Tuesday, Thursday, Friday, Sunday: 9:15am, 10:15am, 11:15am, 1:15pm, 2:15pm, 3:15pm Wednesday, Saturday: 9:15am, 10:15am, 11:15am, 2:15pm, 4:15pm 60分钟中/英文导览可选时间: Monday, Tuesday, Thursday, Friday, Sunday: 9:30am, 11:00am, 1:00pm, 2:30pm Wednesday, Saturday: 9:30am, 11:00am, 2:30pm, 4:00pm 24年2月1日开始,中文导览集合地点改为 Upper Concourse Level.",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "1. 悉尼歌剧院内部游览(60分钟)或(30分钟）",
-   "2. 英文导览讲解或中文讲解",
-   "3. 儿童5-15岁，5岁以下儿童免费， 15岁及以下的儿童必须在任何时候都有人陪同。",
-   "4. 学生假期期间天天开放",
-   "5. 入内参观时间：（下单时请备注选择时间和日期）"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "1. 悉尼歌剧院艺术表演门票;",
-   "2. 往返交通;",
-   "3. 一切“费用包含”外的费用"
   ],
   "excludesEn": [],
   "notes": [],
