@@ -59,7 +59,7 @@ function calHTML(t, opts){
         let cls = isDep ? 'cal-dep' : 'cal-off';
         if(dt < today) cls += ' cal-past';
         cells += '<td class="'+cls+'">'+d+'</td>';
-        if(dt.getDay()===6) cells += '</tr><tr>';
+        if(d < days && dt.getDay()===0) cells += '</tr><tr>';  // 周日之后换行(表头以周一开头)
       }
       let cnt = (cells.match(/<td/g)||[]).length;
       while(cnt%7!==0){ cells += '<td class="cal-empty"></td>'; cnt++; }
