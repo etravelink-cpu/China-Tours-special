@@ -321,10 +321,6 @@ function calHTML(t, opts){
         nav.querySelectorAll(".rp-route.active").forEach((x) => x.classList.remove("active"));
         r.classList.add("active");
         renderDetail(id);
-        // 将选中产品写入 URL(?id=), 刷新/分享后自动恢复选中状态(根治: 每次刷新回到默认空白)
-        const params = new URLSearchParams(location.search);
-        params.set("id", id);
-        history.replaceState(null, "", "?" + params.toString());
         if (window.innerWidth <= 820) {
           document.getElementById("list-detail").scrollIntoView({ behavior: "smooth", block: "start" });
         }

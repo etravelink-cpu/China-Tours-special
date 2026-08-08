@@ -13855,6 +13855,7 @@ window.TOURS = [
   ],
   "img": [
    "assets/suppliers/SUP-NOVA/products/Nova-WSIFCG/Nova-WSIFCG_hero.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-WSIFCG/Nova-WSIFCG_hero_2.jpg",
    "assets/suppliers/SUP-NOVA/products/Nova-WSIFCG/Nova-WSIFCG_hero_1.jpg"
   ],
   "introZh": "体验从 空中到海面再到水下 的大堡礁全方位美景，这个套餐包括 飞去船回＆ 船去飞回 两种方式，让您尽情探索圣灵群岛与大堡礁。\r\n \r\n行程亮点 \r\n空中观景：30 分钟景观飞行，俯瞰 圣灵群岛、Hill Inlet、心形礁及外堡礁\r\n水上体验：前往 Reefworld，停留约 2 小时\r\n美食享受：提供热带自助午餐\r\n水下观赏：浮潜或从 水下观景舱 观赏五彩珊瑚\r\n⚠️ 温馨提示：您可自带酒店餐点或岛上外卖食物\r\n\r\n行程攻略：\r\n以下酒店含单程接/送 Reef View珊瑚景酒店 Whitsunday Apartments公寓式酒店 Palm Bungalows(需要自行前往Reef View酒店门口等候接送) 以下地址需要自行前往位于汉密尔顿岛码头的Cruise Whitsundays码头处等候接送 Holiday Homes度假屋 Yacht Club Villas游艇俱乐部 以下地址需要自行前往Hamilton Island Air机场办公室 Qualia酒店 Beach Club海滨俱乐部 游玩攻略 活动平台提供各种项目服务，可使用 信用卡或现金支付 如有 晕机或晕船症状 ，建议提前服用晕船药\r\n\r\n温馨提醒\r\n请至少 提前 15 分钟 到达办理登机/登船手续\r\n直升机单程 约 30 分钟\r\n返航游船单程 约 2 小时\r\n行程可能根据当天实际情况进行适当调整",
