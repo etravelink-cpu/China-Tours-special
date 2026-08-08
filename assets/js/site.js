@@ -425,7 +425,8 @@
     fromRule(depRule, validFrom, validTo, opts) {
       opts = opts || {};
       if (!depRule || !depRule.length) return [];
-      const ruleSet = new Set(depRule.map((x) => ((x % 7) + 7) % 7)); // 统一为 getDay() 语义(周日=0)
+      // depRule 索引: 周一=0..周日=6 -> 转 JS getDay() 语义(周日=0..周六=6)
+      const ruleSet = new Set(depRule.map((x) => ((x + 1) % 7)));
       const today = new Date(); today.setHours(0, 0, 0, 0);
       const start = validFrom ? new Date(validFrom) : today;
       if (start < today) start.setTime(today.getTime());
