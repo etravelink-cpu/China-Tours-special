@@ -416,6 +416,7 @@
       const d = departureDates.find((x) => x.date === dateStr);
       if (!d) return null;
       const s = (d.status || '').toLowerCase();
+      if (s === 'past') return 'past';
       if (s === 'soldout') return 'soldout';
       if (s === 'limited') return 'limited';
       return 'open';
@@ -467,11 +468,13 @@
       for (let d = 1; d <= daysIn; d++) {
         const ds = `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
         const st = this.statusOf(ds, departureDates);
-        const selectable = opts.restrict ? !!st : true;
+        const selectable = opts.restrict ? (st === 'open' || st === 'limited') : true;
         const cls = ['cal-cell'];
         if (st) cls.push('cal-has', 'cal-' + st);
         if (!selectable) cls.push('cal-disabled');
         if (opts.presetDate === ds) cls.push('cal-sel');
+        const _today = (new Date().getFullYear()+'-'+String(new Date().getMonth()+1).padStart(2,'0')+'-'+String(new Date().getDate()).padStart(2,'0'));
+        if (ds === _today) cls.push('cal-today');
         const attr = selectable ? ` data-date="${ds}"` : '';
         cells += `<div class="${cls.join(' ')}"${attr}>${d}</div>`;
       }
