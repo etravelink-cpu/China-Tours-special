@@ -116,7 +116,7 @@
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/data.js"></script>
   <script src="assets/js/region-plans.js"></script>
-  <script src="assets/js/site.js?v=20260803g"></script>
+  <script src="assets/js/site.js?v=20260804g"></script>
   <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
   <script>
     (function(){
@@ -175,28 +175,42 @@
         box.style.display = 'block';
       }
 
-      // 出发日期自定义日历: 澳新且有班期->可点月历高亮; 其他->恢复手填
       function initBkCal(product, presetDate){
         const cal = document.getElementById('bk-cal');
         const bkDate = document.getElementById('bk-date');
         if(!cal || !bkDate) return;
         const ds = (product && product.departureDates) ? product.departureDates : [];
-        if(!ds.length){
-          // 无班期产品: 恢复手填, 不渲染自定义日历
-          bkDate.readOnly = false;
-          bkDate.placeholder = '请填写出发日期(如 2026-08-15)';
-          cal.style.display = 'none';
-          if(presetDate) bkDate.value = presetDate;
+        // 有具体班期 -> 用具体日期渲染可点日历
+        if(ds.length){
+          cal.style.display = 'block';
+          if(window.EtripsCalendar){
+            window.EtripsCalendar.render(cal, ds, {
+              restrict: true,
+              presetDate: presetDate || '',
+              onSelect: function(dateStr){ bkDate.value = dateStr; }
+            });
+          }
           return;
         }
-        cal.style.display = 'block';
-        if(window.EtripsCalendar){
-          window.EtripsCalendar.render(cal, ds, {
-            restrict: true,
-            presetDate: presetDate || '',
-            onSelect: function(dateStr){ bkDate.value = dateStr; }
-          });
+        // 无具体班期但有出发规则(澳新 depRule) -> 按规则推算未来可出发日, 渲染可点日历
+        const rule = (product && product.depRule) ? product.depRule : null;
+        if(rule && rule.length && window.EtripsCalendar){
+          const ruleDates = window.EtripsCalendar.fromRule(rule, product.validFrom, product.validTo, { limitMonths: 12 });
+          if(ruleDates.length){
+            cal.style.display = 'block';
+            window.EtripsCalendar.render(cal, ruleDates, {
+              restrict: true,
+              presetDate: presetDate || '',
+              onSelect: function(dateStr){ bkDate.value = dateStr; }
+            });
+            return;
+          }
         }
+        // 既无班期也无规则 -> 恢复手填
+        bkDate.readOnly = false;
+        bkDate.placeholder = '请填写出发日期(如 2026-08-15)';
+        cal.style.display = 'none';
+        if(presetDate) bkDate.value = presetDate;
       }
 
       // 用产品库数据渲染行程单 + 注入价格到乘客步进器

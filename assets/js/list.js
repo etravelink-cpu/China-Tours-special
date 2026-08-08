@@ -383,11 +383,18 @@ function calHTML(t, opts){
         "<tr><td>" + esc(p.city || "") + "</td><td>" + cell(p.adult) + "</td><td>" + cell(p.childbed) + "</td><td>" + cell(p.childnobed) + "</td><td>" + cell(p.infant) + "</td><td>" + cell(p.single) + "</td><td>" + cell(p.service) + "</td><td>" + cell(p.tip) + "</td><td>" + cell(p.transfer) + "</td></tr>" +
         "</tbody></table><p style='margin-top:8px;font-size:12px;color:#8a97a6'>备注：部分行程设有淡旺季价格，请以产品彩页所列适用日期及价格为准。</p>";
     }
-    // 出发日历(有班期即显示): 可视化月历, 出发日高亮
+    // 出发日历: 澳新=可点选实时月历(基于 depRule 推算); 其他板块=文本列表(calHTML)
     let depHtml = "";
-    // 有具体班期(departureDates)或规则型出发(depRule)都显示日历, 与 detail/卡片共用 calendar.js
-    const _hasDep = (t.departureDates && t.departureDates.length) || (t.depRule && t.depRule.length);
-    if (_hasDep) {
+    const _isAU = (t.dest === "australia" || t.dest === "nz");
+    const _hasRule = (t.depRule && t.depRule.length);
+    const _hasDates = (t.departureDates && t.departureDates.length);
+    if (_isAU && _hasRule) {
+      // 可点选月历容器(初始化见 renderDetail 末尾): 点日期 -> booking.html?tour=ID&date=
+      depHtml =
+        "<div class='rp-sec'><h4>出发日历</h4>" +
+        "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（橙色为可出发日期，点击选择后前往预约占位）</p>" +
+        "<div class='rp-au-cal' data-tour='" + esc(t.id) + "'></div></div>";
+    } else if (_hasDates || _hasRule) {
       const _cal = calHTML(t, {full:true});
       depHtml =
         "<div class='rp-sec'><h4>出发日历</h4>" +
@@ -465,6 +472,21 @@ function calHTML(t, opts){
       (showFullDetail ? "<div style='padding:18px 24px'><a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn btn-primary' style='width:100%;text-align:center'>查看完整详情页</a></div>" : "") +
       "";
       EtripsHeroSlider.init(box.querySelector('.rp-detail-hero .hero-slider'));
+
+    // 初始化澳洲可点选实时日历(depRule 推算): 点日期 -> booking.html?tour=ID&date=
+    (function(){
+      const calBox = box.querySelector('.rp-au-cal');
+      if (!calBox || !window.EtripsCalendar) return;
+      const tourId = calBox.getAttribute('data-tour');
+      const dates = window.EtripsCalendar.fromRule(t.depRule, t.validFrom, t.validTo, { limitMonths: 12 });
+      if (!dates.length) { calBox.innerHTML = '<div class="cal-empty-hint">暂未公布班期，出发日期请与客服确认。</div>'; return; }
+      window.EtripsCalendar.render(calBox, dates, {
+        restrict: true,
+        onSelect: function(dateStr){
+          window.location.href = 'booking.html?tour=' + encodeURIComponent(tourId) + '&date=' + encodeURIComponent(dateStr);
+        }
+      });
+    })();
 
     box.querySelectorAll(".rp-tab").forEach((tab) => {
       tab.addEventListener("click", () => {

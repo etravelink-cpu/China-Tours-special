@@ -1038,3 +1038,7 @@ body.nav-open{overflow:hidden}
 .rp-dep-month{line-height:1.9;color:#334;font-size:13px;margin:4px 0}
 .rp-dep-month b{color:#1F4E78;margin-right:4px}
 .rp-dep-month .soldout{color:#c0392b;font-weight:600;margin-right:4px}
+
+/* 澳洲可点选出发日历容器 */
+.rp-au-cal{margin:6px 0 4px}
+.rp-au-cal .cal-empty-hint{font-size:13px;color:#8a97a6;padding:8px 0}

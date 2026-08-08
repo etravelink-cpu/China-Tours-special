@@ -420,6 +420,30 @@
       if (s === 'limited') return 'limited';
       return 'open';
     },
+    // 按出发规则(depRule: 周一=0..周日=6 索引) 推算未来可出发日期 -> [{date,status}]
+    // validFrom/validTo: 'YYYY-MM-DD'; opts.limitMonths 默认12; opts.weeks 默认落到未来
+    fromRule(depRule, validFrom, validTo, opts) {
+      opts = opts || {};
+      if (!depRule || !depRule.length) return [];
+      const ruleSet = new Set(depRule.map((x) => ((x % 7) + 7) % 7)); // 统一为 getDay() 语义(周日=0)
+      const today = new Date(); today.setHours(0, 0, 0, 0);
+      const start = validFrom ? new Date(validFrom) : today;
+      if (start < today) start.setTime(today.getTime());
+      const end = validTo ? new Date(validTo) : new Date(today.getFullYear() + 1, today.getMonth(), today.getDate());
+      const limitMonths = opts.limitMonths || 12;
+      const maxD = new Date(today.getFullYear(), today.getMonth() + limitMonths, 0);
+      if (end > maxD) end.setTime(maxD.getTime());
+      const out = [];
+      for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+        const dt = new Date(d);
+        if (!ruleSet.has(dt.getDay())) continue;
+        const ds = dt.getFullYear() + '-' + String(dt.getMonth() + 1).padStart(2, '0') + '-' + String(dt.getDate()).padStart(2, '0');
+        let status = 'open';
+        if (dt < today) status = 'past';
+        out.push({ date: ds, status: status });
+      }
+      return out;
+    },
     // 收集有班期的年月范围
     monthRange(departureDates) {
       const set = {};
