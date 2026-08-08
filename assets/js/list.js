@@ -78,7 +78,9 @@ function calHTML(t, opts){
     const groups = {};
     ds.forEach(d=>{ const ym=(d.date||'').slice(0,7); (groups[ym]=groups[ym]||[]).push(d); });
     const tourId = encodeURIComponent(t.id);
-    let listHtml = '<div class="rp-dep-list"><h4>2026年开团日期</h4><p class="rp-dep-note">（库存随时变化，下单前请二次确认；点击日期可直接预约）</p>';
+        const years = [...new Set(ds.map(d=>(d.date||'').slice(0,4)).filter(Boolean))].sort();
+    const yrTitle = (years.length===1) ? (years[0]+'年开团日期') : '开团日期';
+    let listHtml = '<div class="rp-dep-list"><h4>'+yrTitle+'</h4><p class="rp-dep-note">（库存随时变化，下单前请二次确认；点击日期可直接预约）</p>';
     Object.keys(groups).sort().forEach(ym=>{
       const [y,m]=ym.split('-');
       const parts=groups[ym].map(d=>{

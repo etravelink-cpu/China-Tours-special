@@ -49,15 +49,15 @@
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/data.js"></script>
   <script src="assets/js/region-plans.js"></script>
-  <script src="assets/js/site.js?v=20260803c"></script>
+  <script src="assets/js/site.js?v=20260804c"></script>
   <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
   <script>
     (function(){
       const q = new URLSearchParams(location.search);
-      const tour = q.get('tour') || '';
+      const tour = q.get('tour') || q.get('id') || '';
       const date = q.get('date') || '';
       const ta = document.getElementById('c-msg');
-      // 优先用 ?route= 指定路线名；否则用 ?tour=ID 从产品库取产品名
+      // 优先用 ?route= 指定路线名；否则用 ?tour=ID 或 ?id=ID 从产品库取产品名
       let route = q.get('route') || '';
       if(!route && tour && window.TOURS){
         const o = window.TOURS.find(function(x){ return x.id === tour; });
