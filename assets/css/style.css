@@ -1038,6 +1038,9 @@ body.nav-open{overflow:hidden}
 .rp-dep-month{line-height:1.9;color:#334;font-size:13px;margin:4px 0}
 .rp-dep-month b{color:#1F4E78;margin-right:4px}
 .rp-dep-month .soldout{color:#c0392b;font-weight:600;margin-right:4px}
+.rp-dep-day{color:#0E7DB8;text-decoration:none;font-weight:600;margin-right:4px;padding:1px 4px;border-radius:4px;transition:background .15s,color .15s}
+.rp-dep-day:hover{background:#0E7DB8;color:#fff;cursor:pointer}
+.rp-dep-day:visited{color:#0E7DB8}
 
 /* 澳洲可点选出发日历容器 */
 .rp-au-cal{margin:6px 0 4px}

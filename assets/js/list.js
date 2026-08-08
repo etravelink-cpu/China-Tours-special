@@ -74,19 +74,22 @@ function calHTML(t, opts){
     if (_ruleDest) {
       return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
     }
-    // 文本列表渲染(固定日期型): 按 年月 分组, 标注售罄/紧张
+    // 文本列表渲染(固定日期型): 按 年月 分组, 标注售罄/紧张; 可出发日可点击跳 booking
     const groups = {};
     ds.forEach(d=>{ const ym=(d.date||'').slice(0,7); (groups[ym]=groups[ym]||[]).push(d); });
-    let listHtml = '<div class="rp-dep-list"><h4>2026年开团日期</h4><p class="rp-dep-note">（库存随时变化，下单前请二次确认）</p>';
+    const tourId = encodeURIComponent(t.id);
+    let listHtml = '<div class="rp-dep-list"><h4>2026年开团日期</h4><p class="rp-dep-note">（库存随时变化，下单前请二次确认；点击日期可直接预约）</p>';
     Object.keys(groups).sort().forEach(ym=>{
       const [y,m]=ym.split('-');
       const parts=groups[ym].map(d=>{
         const day=d.date.slice(8,10)+'日';
+        const ds2=d.date;
         const st=d.status||'available';
+        const href='booking.html?tour='+tourId+'&date='+encodeURIComponent(ds2);
         if(st==='soldout') return '<span class="soldout">'+day+'（售罄）</span>';
-        if(st==='limited') return day+'（余位紧张）';
-        if(st==='open') return day+'（报名中）';
-        return day;
+        if(st==='limited') return '<a class="rp-dep-day" href="'+href+'">'+day+'（余位紧张）</a>';
+        if(st==='open') return '<a class="rp-dep-day" href="'+href+'">'+day+'（报名中）</a>';
+        return '<a class="rp-dep-day" href="'+href+'">'+day+'</a>';
       });
       listHtml += '<div class="rp-dep-month"><b>'+parseInt(m,10)+'月：</b>'+parts.join('、')+'</div>';
     });
