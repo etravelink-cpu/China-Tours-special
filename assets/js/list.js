@@ -427,7 +427,6 @@ function calHTML(t, opts){
       "<div class='rp-detail-actions' style='margin-top:12px;display:flex;gap:10px;flex-wrap:wrap'>" +
       "<a href='contact.html' class='btn btn-primary'>在线咨询</a>" +
       "<a href='booking.html' class='btn btn-gold'>预约占位</a>" +
-      (showFullDetail ? "<a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn'>查看完整详情页 »</a>" : "") +
       "</div>" +
       "</div></div>" +
       "<div class='rp-tabs'>" +
@@ -442,8 +441,8 @@ function calHTML(t, opts){
       "<div class='rp-tab-panel' data-tab='cost'>" + costHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='notes'>" + noticeHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div>" +
-      "<div style='padding:18px 24px;display:flex;gap:12px;flex-wrap:wrap'>" +
-      "</div>";
+      (showFullDetail ? "<div style='padding:18px 24px'><a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn btn-primary' style='width:100%;text-align:center'>查看完整详情页</a></div>" : "") +
+      "";
       EtripsHeroSlider.init(box.querySelector('.rp-detail-hero .hero-slider'));
 
     box.querySelectorAll(".rp-tab").forEach((tab) => {
