@@ -13831,6 +13831,99 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-WSIFCG",
+  "supplierCode": "WSIFCG",
+  "nameZh": "【汉密尔顿岛出发】心形大堡礁直升机 + 游船一日游",
+  "nameEn": "【汉密尔顿岛出发】心形大堡礁直升机 + 游船一日游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "圣灵群岛",
+  "subRegions": [
+   "圣灵群岛"
+  ],
+  "price": "A$720",
+  "priceEn": "A$720",
+  "days": 1,
+  "startCity": "心形大堡礁一日游_心形大堡礁直升机_心形大堡礁游船",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-WSIFCG/Nova-WSIFCG_hero.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-WSIFCG/Nova-WSIFCG_hero_1.jpg"
+  ],
+  "introZh": "体验从 空中到海面再到水下 的大堡礁全方位美景，这个套餐包括 飞去船回＆ 船去飞回 两种方式，让您尽情探索圣灵群岛与大堡礁。\r\n \r\n行程亮点 \r\n空中观景：30 分钟景观飞行，俯瞰 圣灵群岛、Hill Inlet、心形礁及外堡礁\r\n水上体验：前往 Reefworld，停留约 2 小时\r\n美食享受：提供热带自助午餐\r\n水下观赏：浮潜或从 水下观景舱 观赏五彩珊瑚\r\n⚠️ 温馨提示：您可自带酒店餐点或岛上外卖食物\r\n\r\n行程攻略：\r\n以下酒店含单程接/送 Reef View珊瑚景酒店 Whitsunday Apartments公寓式酒店 Palm Bungalows(需要自行前往Reef View酒店门口等候接送) 以下地址需要自行前往位于汉密尔顿岛码头的Cruise Whitsundays码头处等候接送 Holiday Homes度假屋 Yacht Club Villas游艇俱乐部 以下地址需要自行前往Hamilton Island Air机场办公室 Qualia酒店 Beach Club海滨俱乐部 游玩攻略 活动平台提供各种项目服务，可使用 信用卡或现金支付 如有 晕机或晕船症状 ，建议提前服用晕船药\r\n\r\n温馨提醒\r\n请至少 提前 15 分钟 到达办理登机/登船手续\r\n直升机单程 约 30 分钟\r\n返航游船单程 约 2 小时\r\n行程可能根据当天实际情况进行适当调整",
+  "introEn": "体验从 空中到海面再到水下 的大堡礁全方位美景，这个套餐包括 飞去船回＆ 船去飞回 两种方式，让您尽情探索圣灵群岛与大堡礁。\r\n \r\n行程亮点 \r\n空中观景：30 分钟景观飞行，俯瞰 圣灵群岛、Hill Inlet、心形礁及外堡礁\r\n水上体验：前往 Reefworld，停留约 2 小时\r\n美食享受：提供热带自助午餐\r\n水下观赏：浮潜或从 水下观景舱 观赏五彩珊瑚\r\n⚠️ 温馨提示：您可自带酒店餐点或岛上外卖食物\r\n\r\n行程攻略：\r\n以下酒店含单程接/送 Reef View珊瑚景酒店 Whitsunday Apartments公寓式酒店 Palm Bungalows(需要自行前往Reef View酒店门口等候接送) 以下地址需要自行前往位于汉密尔顿岛码头的Cruise Whitsundays码头处等候接送 Holiday Homes度假屋 Yacht Club Villas游艇俱乐部 以下地址需要自行前往Hamilton Island Air机场办公室 Qualia酒店 Beach Club海滨俱乐部 游玩攻略 活动平台提供各种项目服务，可使用 信用卡或现金支付 如有 晕机或晕船症状 ，建议提前服用晕船药\r\n\r\n温馨提醒\r\n请至少 提前 15 分钟 到达办理登机/登船手续\r\n直升机单程 约 30 分钟\r\n返航游船单程 约 2 小时\r\n行程可能根据当天实际情况进行适当调整",
+  "participationNotice": "1. 人数限制\r\n　此行程 最少 2 人（不含婴儿） 成行\r\n　若预订人数不足 2 人，仍可下单，但需在出行前确认是否成行\r\n　单人预订：需在出行前一天 18:00 前最终确认是否预订成功，可联系客服协助\r\n2. 游客限制\r\n　不建议 0-2 岁婴儿 参加\r\n3. 体重限制\r\n　单位乘客体重超过 110kg，或两位乘客体重之和超过 180kg，需支付额外费用\r\n　单位乘客体重 不得超过 130kg，超过则无法乘坐飞机\r\n4. 行李限制\r\n　直升机可携带行李不超过 5kg\r\n5. 同伴安排\r\n　若希望与同伴同一架飞机，请务必 在同一订单号下单；是否能安排同机，以供应商最终确认为准\r\n　不接受分开下单但要求同机\r\n6. 酒店信息\r\n　预订时请填写 真实有效的酒店信息；若因信息错误造成接送或行程问题，责任自负\r\n7. 行程选择\r\n　若“飞去船回”行程订满，可选择更换至“船去飞回”\r\n　下单时请明确选择是否可更换，否则因选择不明确造成出行问题，责任自负\r\n\r\n游玩日期前 6 天及以上：可免费取消或修改一次\r\n游玩日期前 4-5 天：取消或修改需收取 10%% 费用\r\n游玩日期前 3 天内：不可取消或修改",
+  "departureDates": [],
+  "depRule": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "validFrom": "2026-08-09",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "汉密尔顿",
+    "adult": 720.0,
+    "childbed": 670.0,
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "方案一：飞去船回 (汉密尔顿岛出发)\r\n10:30 – 10:45｜酒店接送 & 游玩手续\r\n　指定酒店接送至 Hamilton Island Air Terminal，办理登机及行程登记，进行安全简报\r\n\r\n11:00 – 11:35｜直升机观光飞行（约35分钟）\r\n　途经 白天堂海滩（Whitehaven Beach）、Hill Inlet、心形礁及外堡礁，俯瞰壮丽景色\r\n\r\n11:35 – 15:00｜Reefworld 停留约 2－3 小时\r\n\r\n浮潜探索珊瑚礁\r\n\r\n半潜水艇观赏海底生物\r\n\r\n享用丰盛午餐\r\n\r\n15:00 – 17:00｜游船返回 Hamilton Island\r\n\r\n　舒适游船沿途欣赏 圣灵群岛美景\r\n\r\n17:00｜抵达 Hamilton Island Marina\r\n\r\n　行程结束，自行返回酒店\r\n\r\n方案二：船去飞回 (汉密尔顿岛出发)\r\n08:45 – 09:00｜自行前往 Cruise Whitsundays 办公室办理登船手续\r\n　游客需提前 20 分钟到办公室办理登船手续并领取登船票\r\n\r\n09:00 – 11:00｜游船前往哈迪大堡礁（Hardy Reef）\r\n　舒适游船沿途欣赏 圣灵群岛美景\r\n\r\n11:00 – 14:00｜Reefworld 停留约 2－3 小时\r\n\r\n浮潜探索珊瑚礁\r\n\r\n半潜水艇观赏海底生物\r\n\r\n享用午餐\r\n\r\n14:00 – 14:35｜直升机观光返回 Hamilton Island（约 35 分钟）\r\n　途经 白天堂海滩（Whitehaven Beach）、Hill Inlet、心形礁及外堡礁\r\n\r\n14:35｜抵达 Hamilton Island\r\n　行程结束，可安排酒店接送至 Cruise Whitsundays 办公室、Reef View Hotel、Beach Club 或 Whitsunday Apartments",
+    "descEn": "方案一：飞去船回 (汉密尔顿岛出发)\r\n10:30 – 10:45｜酒店接送 & 游玩手续\r\n　指定酒店接送至 Hamilton Island Air Terminal，办理登机及行程登记，进行安全简报\r\n\r\n11:00 – 11:35｜直升机观光飞行（约35分钟）\r\n　途经 白天堂海滩（Whitehaven Beach）、Hill Inlet、心形礁及外堡礁，俯瞰壮丽景色\r\n\r\n11:35 – 15:00｜Reefworld 停留约 2－3 小时\r\n\r\n浮潜探索珊瑚礁\r\n\r\n半潜水艇观赏海底生物\r\n\r\n享用丰盛午餐\r\n\r\n15:00 – 17:00｜游船返回 Hamilton Island\r\n\r\n　舒适游船沿途欣赏 圣灵群岛美景\r\n\r\n17:00｜抵达 Hamilton Island Marina\r\n\r\n　行程结束，自行返回酒店\r\n\r\n方案二：船去飞回 (汉密尔顿岛出发)\r\n08:45 – 09:00｜自行前往 Cruise Whitsundays 办公室办理登船手续\r\n　游客需提前 20 分钟到办公室办理登船手续并领取登船票\r\n\r\n09:00 – 11:00｜游船前往哈迪大堡礁（Hardy Reef）\r\n　舒适游船沿途欣赏 圣灵群岛美景\r\n\r\n11:00 – 14:00｜Reefworld 停留约 2－3 小时\r\n\r\n浮潜探索珊瑚礁\r\n\r\n半潜水艇观赏海底生物\r\n\r\n享用午餐\r\n\r\n14:00 – 14:35｜直升机观光返回 Hamilton Island（约 35 分钟）\r\n　途经 白天堂海滩（Whitehaven Beach）、Hill Inlet、心形礁及外堡礁\r\n\r\n14:35｜抵达 Hamilton Island\r\n　行程结束，可安排酒店接送至 Cruise Whitsundays 办公室、Reef View Hotel、Beach Club 或 Whitsunday Apartments",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "1.交通：汉密尔顿岛指定酒店单程接/送；",
+   "2.玩乐：35分钟直升机观览心形礁、白天堂沙滩及圣灵群岛；",
+   "3.5小时活动：自由浮潜；",
+   "4.免费享用平台上的各种设施 ；",
+   "5.海洋生物学家的专业讲解；",
+   "6.自助午餐及早茶下午茶 6.其他：含浮潜装备，带度数的潜水镜（需50澳币押金）。"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "1. 旅行保险(建议自行购买)；",
+   "2. 一切“费用包含”以外的费用。"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "Nova-CNSSEGD",
   "supplierCode": "CNSSEGD",
   "nameZh": "【Evolution 蜕变号】豪华游船超值一日游",
