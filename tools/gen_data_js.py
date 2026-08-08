@@ -116,17 +116,20 @@ def to_itinerary(txt):
                 days.append((cur_title, cur_desc))
             cur_title = None
             cur_desc = []
+        started = False
         for line in split_lines(text):
             ls = line.strip()
             if not ls:
                 continue
-            m_day = re.match(r'^第(\d+)天', ls) or re.match(r'^D(\d+)\b', ls, re.I) or re.match(r'^(\d{1,3})$', ls)
+            m_day = re.match(r'^第(\d+)天', ls) or re.match(r'^D(\d+)', ls, re.I) or re.match(r'^(\d{1,3})$', ls)
             if m_day:
+                started = True
                 flush()
                 cur_title = ls
             else:
-                if cur_title is None:
-                    cur_title = "第1天"
+                # 跳过首个天标记之前的噪音(Tour Code/价格/发团日期/行程亮点等已在intro/cost)
+                if not started:
+                    continue
                 cur_desc.append(ls)
         flush()
         return days
