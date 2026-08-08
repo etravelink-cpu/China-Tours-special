@@ -417,12 +417,15 @@ function calHTML(t, opts){
         if (tr) foot.push("<span>🚗 " + esc(tr) + "</span>");
         if (me) foot.push("<span>🍽 " + esc(me) + "</span>");
         if (ho) foot.push("<span>🏨 " + esc(ho) + "</span>");
+        const isOneDay = (t.days && parseInt(t.days,10)===1) || itin.length===1;
         return (
-          "<div class='itin-day'>" +
-            "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
-            (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
-            "</div>" +
+          "<div class='itin-day" + (isOneDay ? " itin-one" : "") + "'>" +
+            (isOneDay ? "" :
+              "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
+              (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
+              "</div>") +
             "<div class='d-body'>" +
+              (isOneDay && theme ? "<div class='d-theme-inline'>" + esc(theme) + "</div>" : "") +
               (overview ? "<div class='d-overview'>" + esc(overview).replace(/\n/g, "<br>") + "</div>" : "") +
               (spots.length ? "<div class='d-spots'>" + spots.map(esc).join("　") + "</div>" : "") +
               (foot.length ? "<div class='d-foot'>" + foot.join("") + "</div>" : "") +

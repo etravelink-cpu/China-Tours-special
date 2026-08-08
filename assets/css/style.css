@@ -752,6 +752,20 @@ main .container{position:relative;z-index:2}
 .day .line{font-size:14px;color:var(--muted)}
 /* 行程每日卡片(sublic 风格: 左蓝天数块 + 右内容 + 底部交通/餐饮/住宿图标行); list.js与detail.js共用 */
 .itin-day{display:flex;gap:0;margin-bottom:14px;border:1px solid var(--line-cool);border-radius:var(--radius-sm);overflow:hidden;background:#fff}
+/* 一日游: 不设左侧天号栏, 直接段落起始 */
+.itin-one{display:block;border:1px solid var(--line-cool);border-radius:var(--radius-sm);overflow:hidden;background:#fff;margin-bottom:14px}
+.itin-one .d-body{padding:14px 16px}
+.itin-one .d-theme-inline{font-size:15px;font-weight:700;color:var(--sky-deep);margin-bottom:8px;line-height:1.5}
+/* 多日游天号/主题缩小, 适配手机阅读 */
+.d-no{font-size:20px}
+.d-theme{font-size:12px}
+@media(max-width:560px){
+  .d-side{flex:0 0 64px;padding:12px 6px}
+  .d-no{font-size:17px}
+  .d-theme{font-size:11px;margin-top:4px}
+  .d-overview{font-size:13.5px;line-height:1.65}
+  .d-spots{font-size:13px}
+}
 .itin-day .d-side{flex:0 0 116px;background:linear-gradient(160deg,var(--sky),var(--sky-deep));color:#fff;padding:16px 12px;display:flex;flex-direction:column;justify-content:center;text-align:center}
 .itin-day .d-side .d-no{font-family:var(--font-display);font-size:22px;font-weight:800;line-height:1}
 .itin-day .d-side .d-theme{font-size:12.5px;margin-top:6px;opacity:.92;line-height:1.4}
