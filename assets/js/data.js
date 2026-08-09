@@ -27044,6 +27044,1370 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "PV-SN001",
+  "supplierCode": "SN001",
+  "nameZh": "休闲滑雪3天游",
+  "nameEn": "休闲滑雪3天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$699",
+  "priceEn": "A$699",
+  "days": 3,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN001/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN001/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "休闲滑雪3天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "休闲滑雪3天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 699.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SN002",
+  "supplierCode": "SN002",
+  "nameZh": "周末皇牌滑雪3天游",
+  "nameEn": "周末皇牌滑雪3天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$669",
+  "priceEn": "A$669",
+  "days": 3,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN002/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN002/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "周末皇牌滑雪3天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "周末皇牌滑雪3天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 669.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SN003",
+  "supplierCode": "SN003",
+  "nameZh": "雪山欢乐4天游",
+  "nameEn": "雪山欢乐4天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$949",
+  "priceEn": "A$949",
+  "days": 4,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN003/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN003/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "雪山欢乐4天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "雪山欢乐4天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 949.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SN004",
+  "supplierCode": "SN004",
+  "nameZh": "专业缤纷滑雪5天游",
+  "nameEn": "专业缤纷滑雪5天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$1189",
+  "priceEn": "A$1189",
+  "days": 5,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN004/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN004/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "专业缤纷滑雪5天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "专业缤纷滑雪5天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 1189.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D5",
+    "titleZh": "第5天",
+    "titleEn": "Day 5",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SN005",
+  "supplierCode": "SN005",
+  "nameZh": "轻松滑雪三天游",
+  "nameEn": "轻松滑雪三天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$739",
+  "priceEn": "A$739",
+  "days": 3,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN005/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN005/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "轻松滑雪三天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "轻松滑雪三天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 739.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SN007",
+  "supplierCode": "SN007",
+  "nameZh": "超值雪山1天游",
+  "nameEn": "超值雪山1天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$190",
+  "priceEn": "A$190",
+  "days": 1,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN007/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN007/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "超值雪山1天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "超值雪山1天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\r\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\r\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\r\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\r\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": [
+   0,
+   2,
+   4
+  ],
+  "validFrom": "2026-08-09",
+  "validTo": "2026-08-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 190.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：清晨悉尼市区集合出发，专车前往雪山度假区。抵达后领取雪具（滑雪板/雪橇/防雪服），由专业教练带领体验滑雪/戏雪乐趣。午后自由活动或参加雪地摩托、雪橇等娱乐项目，傍晚返程返回悉尼。",
+    "descEn": "：清晨悉尼市区集合出发，专车前往雪山度假区。抵达后领取雪具（滑雪板/雪橇/防雪服），由专业教练带领体验滑雪/戏雪乐趣。午后自由活动或参加雪地摩托、雪橇等娱乐项目，傍晚返程返回悉尼。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SN008",
+  "supplierCode": "SN008",
+  "nameZh": "超值赏雪2天游",
+  "nameEn": "超值赏雪2天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$499",
+  "priceEn": "A$499",
+  "days": 2,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN008/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN008/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "超值赏雪2天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "超值赏雪2天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 499.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SSP5D",
+  "supplierCode": "SSP5D",
+  "nameZh": "雪梨新州雪山5天动感之旅",
+  "nameEn": "雪梨新州雪山5天动感之旅",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$1589",
+  "priceEn": "A$1589",
+  "days": 5,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SSP5D/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SSP5D/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "雪梨新州雪山5天动感之旅带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "雪梨新州雪山5天动感之旅带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 1589.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D5",
+    "titleZh": "第5天",
+    "titleEn": "Day 5",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SSP7D",
+  "supplierCode": "SSP7D",
+  "nameZh": "雪梨新州雪山7天动感之旅",
+  "nameEn": "雪梨新州雪山7天动感之旅",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$1899",
+  "priceEn": "A$1899",
+  "days": 7,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SSP7D/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SSP7D/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "雪梨新州雪山7天动感之旅带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "雪梨新州雪山7天动感之旅带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 1899.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D5",
+    "titleZh": "第5天",
+    "titleEn": "Day 5",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D6",
+    "titleZh": "第6天",
+    "titleEn": "Day 6",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D7",
+    "titleZh": "第7天",
+    "titleEn": "Day 7",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "PV-SN006",
+  "supplierCode": "SN006",
+  "nameZh": "堪培拉雪山3天游",
+  "nameEn": "堪培拉雪山3天游",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "A$899",
+  "priceEn": "A$899",
+  "days": 3,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-PV/products/PV-SN006/PV-SN007_hero.jpg",
+   "assets/suppliers/SUP-PV/products/PV-SN006/PV-SN007_hero_0_1.jpg"
+  ],
+  "introZh": "堪培拉雪山3天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "introEn": "堪培拉雪山3天游带您畅玩澳洲雪山度假区，专业雪具租赁、教练带队，适合家庭亲子与滑雪爱好者。雪季限定行程，雪山景色壮丽，戏雪滑雪两不误，是澳洲冬季最受欢迎的短途玩乐之一。",
+  "participationNotice": "1. 雪季为季节性产品，具体发团日期以预订确认为准。\n2. 滑雪有一定风险，请遵守教练指引，量力而行。\n3. 雪山气温低，请自备保暖衣物、墨镜、防晒。\n4. 儿童与老人参团请提前咨询身体状况是否适宜。\n5. 出发前72小时确认班次，逾期可能调期。",
+  "departureDates": [
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 899.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SNOW-2026_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SNOW-2026_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "descEn": "：悉尼市区集合出发，乘车前往雪山度假区。抵达后入住滑雪场附近酒店，领取雪具并参加滑雪基础安全培训，晚间自由探索雪村。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "descEn": "：全天雪山自由滑雪/戏雪，可自费升级滑雪课程、雪地摩托、狗拉雪橇或缆车观景。雪场设不同难度雪道，适合各水平游客。傍晚返回酒店休息。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "descEn": "：早餐后整理行李，退还雪具，乘车返回悉尼市区，结束愉快的雪山之旅。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "✅ 交通：悉尼市区往返雪山专车",
+   "✅ 住宿：滑雪场附近舒适酒店（多日游含，1日游不含）",
+   "✅ 雪具租赁：滑雪板/雪橇/防雪服/手套",
+   "✅ 专业教练基础安全培训",
+   "✅ 中文导游服务",
+   "不包含：",
+   "❌ 缆车票/雪季通行证（可按需现场购买）",
+   "❌ 滑雪课程升级费、雪地摩托等自费项目",
+   "❌ 正餐（雪场餐厅自理）",
+   "❌ 个人消费及旅行保险"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "PV-NFCE12",
   "supplierCode": "NFCE12",
   "nameZh": "南森号 南极冰封大陆探险 12天[纯玩]",
