@@ -59,7 +59,8 @@ function calHTML(t, opts){
         const isDep = (hasRule && inRule(y,m,d) && inRange(y,m,d)) || (hasDates && depSet.has(_ds) && !_isPast);
         let cls = isDep ? 'cal-dep' : 'cal-off';
         if(dt < today) cls += ' cal-past';
-        cells += '<td class="'+cls+'">'+d+'</td>';
+        const _clickable = isDep && dt >= today;
+        cells += '<td class="'+cls+'"' + (_clickable ? (' onclick="location.href=\'booking.html?tour='+encodeURIComponent(t.id)+'&date='+encodeURIComponent(_ds)+'\'" style="cursor:pointer"') : '') + '>'+d+'</td>';
         if(dt.getDay()===6) cells += '</tr><tr>';
       }
       let cnt = (cells.match(/<td/g)||[]).length;

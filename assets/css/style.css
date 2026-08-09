@@ -1039,3 +1039,7 @@ body.nav-open{overflow:hidden}
 .rp-dep-month .soldout{color:#c0392b;font-weight:600;margin-right:4px}
 a.rp-dep-day{color:#F09018;text-decoration:none;font-weight:600;margin-right:6px}
 a.rp-dep-day:hover{color:#0E7DB8;text-decoration:underline}
+
+/* 澳洲月历可出发日: 可点跳 booking */
+.cal-t td.cal-dep{ cursor:pointer; }
+.cal-t td.cal-dep:hover{ outline:2px solid #0E7DB8; outline-offset:-2px; }
