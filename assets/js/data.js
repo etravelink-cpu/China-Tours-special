@@ -9425,9 +9425,6 @@ window.TOURS = [
   "depRule": [
    1,
    4,
-   6,
-   1,
-   4,
    6
   ],
   "validFrom": "2026-08-10",
