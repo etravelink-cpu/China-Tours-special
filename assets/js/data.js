@@ -13826,7 +13826,7 @@ window.TOURS = [
    {
     "city": "悉尼",
     "adult": 179.0,
-    "childbed": "",
+    "childbed": 179.0,
     "childnobed": "",
     "infant": 89.0,
     "single": "",
