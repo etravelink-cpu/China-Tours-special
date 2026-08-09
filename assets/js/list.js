@@ -279,7 +279,7 @@ function calHTML(t, opts){
       if (c === "机票套餐") {
         const allItems = [];
         Object.values(subs).forEach((arr) => arr.forEach((t) => allItems.push(t)));
-        allItems.sort((a, b) => (a.days || 0) - (b.days || 0));
+        allItems.sort((a, b) => (a.days||0)-(b.days||0) || (a.nameZh||'').localeCompare(b.nameZh||'', 'zh'));
         const flatHtml = allItems
           .map(
             (t) =>
@@ -296,7 +296,7 @@ function calHTML(t, opts){
       let subHtml = "";
       subKeys.forEach((s) => {
         if (s === "滑雪") return; // 滑雪已内嵌悉尼及周边下, 不在澳洲顶层渲染
-        const items = (subs[s] || []).slice().sort((a, b) => (a.days || 0) - (b.days || 0)).filter((t) => t.seasonTag !== "滑雪"); // 天数升序; 滑雪项剔除(仅悉尼下嵌套组显示)
+        const items = (subs[s] || []).slice().sort((a, b) => (a.days||0)-(b.days||0) || (a.nameZh||'').localeCompare(b.nameZh||'', 'zh')); // 天数升序; 天数相同按名称(稳定); 滑雪项剔除
         const itemHtml = items
           .map(
             (t) =>
@@ -314,7 +314,7 @@ function calHTML(t, opts){
           // 悉尼及周边: 滑雪产品内嵌为孙组(季节性集合, 可扩展到其他季节/地区), 主列表剔除滑雪项避免重复
           if (s === "悉尼及周边" && subs["滑雪"] && subs["滑雪"].length) {
             const _nonSki = items.filter((t) => t.seasonTag !== "滑雪");
-            const _skiItems = subs["滑雪"].slice().sort((a, b) => (a.days || 0) - (b.days || 0))
+            const _skiItems = subs["滑雪"].slice().sort((a, b) => (a.days||0)-(b.days||0) || (a.nameZh||'').localeCompare(b.nameZh||'', 'zh'))
               .map((t) => `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`).join("");
             _body = _nonSki.map((t) => `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`).join("")
               + `<div class="rp-group rp-sub"><div class="rp-group-title" tabindex="0" role="button">🎿 滑雪<span class="rp-arrow">▶</span></div><div class="rp-group-body">${_skiItems}</div></div>`;
