@@ -13786,6 +13786,1031 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-SYDBMTS",
+  "supplierCode": "SYDBMTS",
+  "nameZh": "【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】",
+  "nameEn": "【精品小团】蓝山有氧 + 动物园精品 11 人小团一日游【天天出发】",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
+  "category": "纯玩无购物团",
+  "subRegion": "悉尼及周边",
+  "seasonTag": "",
+  "subRegions": [
+   "悉尼及周边"
+  ],
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 1,
+  "startCity": "悉尼",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDBMTS/Nova-SYDBMTS_hero_front.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDBMTS/Nova-SYDBMTS_hero_front_1.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDBMTS/Nova-SYDBMTS_hero_front_2.jpg"
+  ],
+  "introZh": "上车地点 08:00-08:30AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 悉尼市区酒店邮编2000",
+  "introEn": "上车地点 08:00-08:30AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 悉尼市区酒店邮编2000",
+  "participationNotice": "1. 成团人数：四人成团， \r\n2. 大小同价，婴儿0-2岁 \r\n3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 \r\n4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 \r\n5.如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知",
+  "departureDates": [
+   {
+    "date": "2026-08-10",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-12",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-19",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-24",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-26",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-31",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-02",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-03",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-05",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-07",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-09",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-10",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-12",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-19",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-24",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-26",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-02",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-03",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-05",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-07",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-09",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-10",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-12",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-19",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-24",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-26",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-31",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-02",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-03",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-05",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-07",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-09",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-10",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-12",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-19",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-24",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-26",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-02",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-03",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-05",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-07",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-09",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-10",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-12",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-19",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-24",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-26",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-31",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-01",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-02",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-03",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-04",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-06",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-07",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-08",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-09",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-10",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-11",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-13",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-14",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-15",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-16",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-17",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-18",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-20",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-21",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-22",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-23",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-24",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-25",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-26",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-27",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-28",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-29",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-30",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-31",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-01",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-02",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-03",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-04",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-06",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-07",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-08",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-09",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-10",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-11",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-13",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-14",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-15",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-16",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-17",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-18",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-20",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-21",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-22",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-23",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-24",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-25",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-26",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-27",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-28",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-01",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-02",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-03",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-04",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-06",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-07",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-08",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-09",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-10",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-11",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-13",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-14",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-15",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-16",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-17",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-18",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-20",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-21",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-22",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-23",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-24",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-25",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-26",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-27",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-28",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-29",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-30",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-31",
+    "status": "available"
+   }
+  ],
+  "depRule": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "validFrom": "2026-08-10",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDBMTS_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMTS_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "08:30 唐人街Furama酒店门前出发 （悉尼市区邮编2000范围内酒店免费上门接送；如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知） 09:30 抵达Featherdale野生动物园, 这里是澳洲本土野生动物的天堂, 游客可以亲手投喂种类齐全的袋鼠 (每人一包专用饲料) , 来自西澳的微笑小袋鼠、 来自南澳的拳击袋鼠、还有来自塔斯马尼亚的稀有白袋鼠! 游客将一次打卡澳洲独有的针鼹、袋熊、澳洲野犬、塔斯马尼亚恶魔等标志性本土动物. 在 园内各处集齐印章后, 还可领取呆萌考拉纪念品. 享用早茶的时候不妨去与考拉拍照留念(现场找导游有优惠哦!) \r\n11:30 途径卡通巴小镇, 来到景观世界, 享受联合国教科文组织世界遗产蓝山标志性景观, 乘坐世界上最陡的铁路——倾斜52度的矿山火车(红色线)进 入杰米森谷; 探索公里长的高架木板路(绿色线)穿越雨林，发现琴鸟和古老的树蕨等其他动植物; 乘坐缆车(蓝色线)沿山涧爬升, 游览砂岩峭壁和孤儿岩; 然后从空中缆车(黄色线)俯瞰标志性的三姐妹峰和下方的山谷 \r\n13:30 午餐自理 \r\n14:30 打卡网红石拱门观景步道，来到女王御用观景台-回音谷，这里可以拍到三姐妹峰的经典角度；造访蓝山著名景点三姐妹峰，携手并立，静静守望，亲眼观赏特殊又壮丽的景致 \r\n15:30英伦风的卢拉小镇四季都有不同风景，除了主街的工艺品店、画廊和咖啡屋 \r\n18:00唐人街Furama酒店门口结束 具体行程顺序已当天实际情况为准",
+    "descEn": "08:30 唐人街Furama酒店门前出发 （悉尼市区邮编2000范围内酒店免费上门接送；如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知） 09:30 抵达Featherdale野生动物园, 这里是澳洲本土野生动物的天堂, 游客可以亲手投喂种类齐全的袋鼠 (每人一包专用饲料) , 来自西澳的微笑小袋鼠、 来自南澳的拳击袋鼠、还有来自塔斯马尼亚的稀有白袋鼠! 游客将一次打卡澳洲独有的针鼹、袋熊、澳洲野犬、塔斯马尼亚恶魔等标志性本土动物. 在 园内各处集齐印章后, 还可领取呆萌考拉纪念品. 享用早茶的时候不妨去与考拉拍照留念(现场找导游有优惠哦!) \r\n11:30 途径卡通巴小镇, 来到景观世界, 享受联合国教科文组织世界遗产蓝山标志性景观, 乘坐世界上最陡的铁路——倾斜52度的矿山火车(红色线)进 入杰米森谷; 探索公里长的高架木板路(绿色线)穿越雨林，发现琴鸟和古老的树蕨等其他动植物; 乘坐缆车(蓝色线)沿山涧爬升, 游览砂岩峭壁和孤儿岩; 然后从空中缆车(黄色线)俯瞰标志性的三姐妹峰和下方的山谷 \r\n13:30 午餐自理 \r\n14:30 打卡网红石拱门观景步道，来到女王御用观景台-回音谷，这里可以拍到三姐妹峰的经典角度；造访蓝山著名景点三姐妹峰，携手并立，静静守望，亲眼观赏特殊又壮丽的景致 \r\n15:30英伦风的卢拉小镇四季都有不同风景，除了主街的工艺品店、画廊和咖啡屋 \r\n18:00唐人街Furama酒店门口结束 具体行程顺序已当天实际情况为准",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "价格包含：",
+   "空调旅游巴士",
+   "专业中文司导",
+   "动物园门票+早茶 考拉纪念品 喂袋鼠饲料 蓝山缆车"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "司导服务费$5/人",
+   "午餐",
+   "其他一切个人消费"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "Nova-SYDJVS",
   "supplierCode": "SYDJVS",
   "nameZh": "蓝色海洋路 & 杰维斯湾一日游",
