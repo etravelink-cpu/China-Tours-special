@@ -119,7 +119,7 @@ function calHTML(t, opts){
   // 美加区子类固定顺序(隐藏类目层; 机票套餐/其他置后, 方便扩展)
   const NA_ORDER = ["东岸", "西岸", "东西岸", "南美", "美加其他", "机票套餐"];
   // 澳洲区子类固定顺序(隐藏类目层, 单门票置后)
-  const AU_ORDER = ["悉尼及周边", "墨尔本及周边", "黄金海岸&布里斯班", "凯恩斯（大堡礁）", "圣灵群岛", "西澳/珀斯", "乌鲁鲁/北领地", "塔斯马尼亚", "阿德莱德/南澳", "澳洲跨地区联游", "滑雪", "澳洲其他", "单门票·单项体验"];
+  const AU_ORDER = ["悉尼及周边", "墨尔本及周边", "黄金海岸&布里斯班", "凯恩斯（大堡礁）", "圣灵群岛", "西澳/珀斯", "乌鲁鲁/北领地", "塔斯马尼亚", "阿德莱德/南澳", "澳洲跨地区联游", "澳洲其他", "单门票·单项体验"];
 
   // 构建树数据(仅按当前目的地)
   function buildTree() {
@@ -263,7 +263,8 @@ function calHTML(t, opts){
         : Object.keys(subs);
       let subHtml = "";
       subKeys.forEach((s) => {
-        const items = (subs[s] || []).slice().sort((a, b) => (a.days || 0) - (b.days || 0)); // 天数升序
+        if (s === "滑雪") return; // 滑雪已内嵌悉尼及周边下, 不在澳洲顶层渲染
+        const items = (subs[s] || []).slice().sort((a, b) => (a.days || 0) - (b.days || 0)).filter((t) => t.seasonTag !== "滑雪"); // 天数升序; 滑雪项剔除(仅悉尼下嵌套组显示)
         const itemHtml = items
           .map(
             (t) =>
@@ -277,7 +278,16 @@ function calHTML(t, opts){
           // 签证: 可折叠下拉(默认收起)
           subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">签证<span class="rp-arrow">▶</span></div><div class="rp-group-body">${itemHtml}</div></div>`;
         } else {
-          subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${itemHtml}</div></div>`;
+          let _body = itemHtml;
+          // 悉尼及周边: 滑雪产品内嵌为孙组(季节性集合, 可扩展到其他季节/地区), 主列表剔除滑雪项避免重复
+          if (s === "悉尼及周边" && subs["滑雪"] && subs["滑雪"].length) {
+            const _nonSki = items.filter((t) => t.seasonTag !== "滑雪");
+            const _skiItems = subs["滑雪"].slice().sort((a, b) => (a.days || 0) - (b.days || 0))
+              .map((t) => `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`).join("");
+            _body = _nonSki.map((t) => `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`).join("")
+              + `<div class="rp-group rp-sub"><div class="rp-group-title" tabindex="0" role="button">🎿 滑雪<span class="rp-arrow">▶</span></div><div class="rp-group-body">${_skiItems}</div></div>`;
+          }
+          subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${_body}</div></div>`;
         }
       });
       // 新西兰/特别订制/欧洲: 不渲染类目层(隐藏 __nz__/__sp__/__eu__ 占位), 直接显示子类
