@@ -12,6 +12,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -243,6 +244,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -581,6 +583,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -916,6 +919,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -979,6 +983,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -1041,6 +1046,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -1103,6 +1109,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -1165,6 +1172,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -1227,6 +1235,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -1289,6 +1298,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州",
    "广东广西福建海南"
@@ -1352,6 +1362,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -1416,6 +1427,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -1478,6 +1490,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -1540,6 +1553,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -1602,6 +1616,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -1665,6 +1680,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "广东广西福建海南"
@@ -1728,6 +1744,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -1790,6 +1807,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -1867,6 +1885,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -1935,6 +1954,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -1997,6 +2017,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2059,6 +2080,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2121,6 +2143,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -2184,6 +2207,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2246,6 +2270,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2308,6 +2333,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2370,6 +2396,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2432,6 +2459,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "山东山西东北河南"
@@ -2495,6 +2523,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2557,6 +2586,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "长江三峡"
@@ -2620,6 +2650,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2682,6 +2713,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -2744,6 +2776,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -2806,6 +2839,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -2868,6 +2902,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -2930,6 +2965,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -2992,6 +3028,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3054,6 +3091,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3116,6 +3154,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3178,6 +3217,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3240,6 +3280,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3302,6 +3343,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3364,6 +3406,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3426,6 +3469,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "广东广西福建海南"
@@ -3489,6 +3533,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -3552,6 +3597,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州",
    "新疆甘肃西藏青海丝绸之路"
@@ -3615,6 +3661,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州",
    "新疆甘肃西藏青海丝绸之路"
@@ -3678,6 +3725,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -3740,6 +3788,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -3802,6 +3851,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安",
    "长江三峡"
@@ -3865,6 +3915,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -3927,6 +3978,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "广东广西福建海南"
@@ -3990,6 +4042,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -4052,6 +4105,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -4114,6 +4168,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "广东广西福建海南"
@@ -4177,6 +4232,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡"
   ],
@@ -4239,6 +4295,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡"
   ],
@@ -4301,6 +4358,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -4363,6 +4421,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -4425,6 +4484,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -4487,6 +4547,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -4549,6 +4610,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -4612,6 +4674,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -4674,6 +4737,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -4736,6 +4800,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -4798,6 +4863,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -4860,6 +4926,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "北京西安"
@@ -4923,6 +4990,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安",
    "长江三峡"
@@ -4986,6 +5054,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "北京西安",
@@ -5050,6 +5119,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -5112,6 +5182,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -5174,6 +5245,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安",
    "长江三峡"
@@ -5237,6 +5309,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -5299,6 +5372,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -5361,6 +5435,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -5424,6 +5499,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -5487,6 +5563,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "长江三峡"
@@ -5550,6 +5627,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "长江三峡"
@@ -5613,6 +5691,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "长江三峡"
@@ -5676,6 +5755,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -5738,6 +5818,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "广东广西福建海南"
@@ -5801,6 +5882,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -5863,6 +5945,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州",
    "广东广西福建海南"
@@ -5926,6 +6009,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -5988,6 +6072,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -6050,6 +6135,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -6112,6 +6198,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -6174,6 +6261,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -6236,6 +6324,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -6298,6 +6387,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -6360,6 +6450,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -6422,6 +6513,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -6484,6 +6576,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -6546,6 +6639,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -6608,6 +6702,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -6670,6 +6765,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "山东山西东北河南",
+  "seasonTag": "",
   "subRegions": [
    "山东山西东北河南"
   ],
@@ -6732,6 +6828,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -6794,6 +6891,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -6856,6 +6954,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安",
    "新疆甘肃西藏青海丝绸之路"
@@ -6919,6 +7018,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -6986,6 +7086,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -7048,6 +7149,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -7110,6 +7212,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -7172,6 +7275,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -7234,6 +7338,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -7296,6 +7401,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -7358,6 +7464,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -7420,6 +7527,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡"
   ],
@@ -7482,6 +7590,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡"
   ],
@@ -7544,6 +7653,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -7606,6 +7716,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -7668,6 +7779,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -7730,6 +7842,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "seasonTag": "",
   "subRegions": [
    "澳洲跨地区联游"
   ],
@@ -7952,6 +8065,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "seasonTag": "",
   "subRegions": [
    "澳洲跨地区联游"
   ],
@@ -8180,6 +8294,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "seasonTag": "",
   "subRegions": [
    "澳洲跨地区联游"
   ],
@@ -8378,6 +8493,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "seasonTag": "",
   "subRegions": [
    "澳洲跨地区联游"
   ],
@@ -8561,6 +8677,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "seasonTag": "",
   "subRegions": [
    "澳洲跨地区联游"
   ],
@@ -8729,6 +8846,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "澳洲跨地区联游",
+  "seasonTag": "",
   "subRegions": [
    "澳洲跨地区联游"
   ],
@@ -8882,6 +9000,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -9018,6 +9137,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -9119,6 +9239,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -9240,6 +9361,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -9376,6 +9498,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -9503,6 +9626,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -9609,6 +9733,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -9743,6 +9868,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -9849,6 +9975,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -9983,6 +10110,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "圣灵群岛",
+  "seasonTag": "",
   "subRegions": [
    "圣灵群岛"
   ],
@@ -10112,6 +10240,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -10396,6 +10525,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -10650,6 +10780,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -10792,6 +10923,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -10915,6 +11047,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -11021,6 +11154,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -11157,6 +11291,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -11278,6 +11413,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -11384,6 +11520,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -11490,6 +11627,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -11641,6 +11779,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -11783,6 +11922,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -11919,6 +12059,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -12046,6 +12187,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -12158,6 +12300,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12246,6 +12389,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12338,6 +12482,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12427,6 +12572,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12513,6 +12659,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12597,6 +12744,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12693,6 +12841,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12780,6 +12929,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12878,6 +13028,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -12971,6 +13122,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -13047,6 +13199,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -13123,6 +13276,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -13199,6 +13353,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -13275,6 +13430,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "墨尔本及周边",
+  "seasonTag": "",
   "subRegions": [
    "墨尔本及周边"
   ],
@@ -13351,6 +13507,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -13427,6 +13584,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -13509,6 +13667,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -13585,6 +13744,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -13667,6 +13827,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -13751,6 +13912,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "单门票·单项体验",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -13840,6 +14002,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "圣灵群岛",
+  "seasonTag": "",
   "subRegions": [
    "圣灵群岛"
   ],
@@ -13934,6 +14097,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14018,6 +14182,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14107,6 +14272,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14197,6 +14363,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14286,6 +14453,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14375,6 +14543,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14468,6 +14637,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14548,6 +14718,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14628,6 +14799,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14709,6 +14881,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14785,6 +14958,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -14874,6 +15048,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "圣灵群岛",
+  "seasonTag": "",
   "subRegions": [
    "圣灵群岛"
   ],
@@ -14953,6 +15128,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -15035,6 +15211,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -15119,6 +15296,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -15202,6 +15380,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "seasonTag": "",
   "subRegions": [
    "阿德莱德/南澳"
   ],
@@ -15282,6 +15461,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "seasonTag": "",
   "subRegions": [
    "阿德莱德/南澳"
   ],
@@ -15361,6 +15541,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "seasonTag": "",
   "subRegions": [
    "阿德莱德/南澳"
   ],
@@ -15437,6 +15618,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "seasonTag": "",
   "subRegions": [
    "阿德莱德/南澳"
   ],
@@ -15517,6 +15699,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "阿德莱德/南澳",
+  "seasonTag": "",
   "subRegions": [
    "阿德莱德/南澳"
   ],
@@ -15598,6 +15781,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -15674,6 +15858,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -15750,6 +15935,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -15834,6 +16020,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -15910,6 +16097,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "西澳/珀斯",
+  "seasonTag": "",
   "subRegions": [
    "西澳/珀斯"
   ],
@@ -15992,6 +16180,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -16068,6 +16257,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -16144,6 +16334,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -16220,6 +16411,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -16296,6 +16488,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -16372,6 +16565,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -16448,6 +16642,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "乌鲁鲁/北领地",
+  "seasonTag": "",
   "subRegions": [
    "乌鲁鲁/北领地"
   ],
@@ -16524,6 +16719,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "凯恩斯（大堡礁）",
+  "seasonTag": "",
   "subRegions": [
    "凯恩斯（大堡礁）"
   ],
@@ -16600,6 +16796,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -16676,6 +16873,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -16752,6 +16950,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -16828,6 +17027,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -16904,6 +17104,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -16980,6 +17181,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "塔斯马尼亚",
+  "seasonTag": "",
   "subRegions": [
    "塔斯马尼亚"
   ],
@@ -17056,6 +17258,7 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "seasonTag": "",
   "subRegions": [
    "新西兰南岛"
   ],
@@ -17238,6 +17441,7 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰北岛",
+  "seasonTag": "",
   "subRegions": [
    "新西兰北岛"
   ],
@@ -17324,6 +17528,7 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰南岛",
+  "seasonTag": "",
   "subRegions": [
    "新西兰南岛"
   ],
@@ -17520,6 +17725,7 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "新西兰北岛",
+  "seasonTag": "",
   "subRegions": [
    "新西兰北岛"
   ],
@@ -17606,6 +17812,7 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "南北岛连线",
+  "seasonTag": "",
   "subRegions": [
    "南北岛连线"
   ],
@@ -17692,6 +17899,7 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "南北岛连线",
+  "seasonTag": "",
   "subRegions": [
    "南北岛连线"
   ],
@@ -17914,6 +18122,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -18438,6 +18647,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -18718,6 +18928,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡"
   ],
@@ -18919,6 +19130,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -19034,6 +19246,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -19304,6 +19517,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡"
   ],
@@ -19557,6 +19771,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -20190,6 +20405,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -20680,6 +20896,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -21128,6 +21345,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -21430,6 +21648,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -21718,6 +21937,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -21826,6 +22046,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "广东广西福建海南"
@@ -21883,6 +22104,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -21939,6 +22161,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "长江三峡"
@@ -22100,6 +22323,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "九寨张家界云南贵州"
@@ -22192,6 +22416,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -22596,6 +22821,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -23031,6 +23257,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -23126,6 +23353,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -23225,6 +23453,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -23297,6 +23526,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -23365,6 +23595,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -23453,6 +23684,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -23509,6 +23741,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -23581,6 +23814,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -23653,6 +23887,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -23728,6 +23963,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "新疆甘肃西藏青海丝绸之路"
@@ -23796,6 +24032,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -24125,6 +24362,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -24181,6 +24419,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -24510,6 +24749,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -24768,6 +25008,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -24908,6 +25149,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -25164,6 +25406,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -25386,6 +25629,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -25608,6 +25852,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "seasonTag": "",
   "subRegions": [
    "日本"
   ],
@@ -25956,6 +26201,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "",
+  "seasonTag": "",
   "subRegions": [],
   "price": "A$1698",
   "priceEn": "A$1698",
@@ -26237,6 +26483,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "日本",
+  "seasonTag": "",
   "subRegions": [
    "日本"
   ],
@@ -26488,6 +26735,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "日本",
+  "seasonTag": "",
   "subRegions": [
    "日本"
   ],
@@ -26731,6 +26979,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "日本",
+  "seasonTag": "",
   "subRegions": [
    "日本"
   ],
@@ -27053,6 +27302,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -27180,6 +27430,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -27307,6 +27558,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -27449,6 +27701,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -27606,6 +27859,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -27733,6 +27987,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -27834,6 +28089,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -27946,6 +28202,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -28103,6 +28360,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -28290,6 +28548,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "悉尼及周边",
+  "seasonTag": "滑雪",
   "subRegions": [
    "悉尼及周边"
   ],
@@ -28417,6 +28676,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "南极",
+  "seasonTag": "",
   "subRegions": [
    "南极"
   ],
@@ -28479,6 +28739,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "南美",
+  "seasonTag": "",
   "subRegions": [
    "南美"
   ],
@@ -28541,6 +28802,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "南美",
+  "seasonTag": "",
   "subRegions": [
    "南美"
   ],
@@ -28603,6 +28865,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "seasonTag": "",
   "subRegions": [
    "美加其他"
   ],
@@ -28665,6 +28928,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "seasonTag": "",
   "subRegions": [
    "东岸"
   ],
@@ -28727,6 +28991,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "seasonTag": "",
   "subRegions": [
    "东岸"
   ],
@@ -28789,6 +29054,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "seasonTag": "",
   "subRegions": [
    "东岸"
   ],
@@ -28851,6 +29117,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "东岸",
+  "seasonTag": "",
   "subRegions": [
    "东岸"
   ],
@@ -28913,6 +29180,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "seasonTag": "",
   "subRegions": [
    "美加其他"
   ],
@@ -28975,6 +29243,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "seasonTag": "",
   "subRegions": [
    "美加其他"
   ],
@@ -29037,6 +29306,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "美加其他",
+  "seasonTag": "",
   "subRegions": [
    "美加其他"
   ],
@@ -29099,6 +29369,7 @@ window.TOURS = [
   "destEn": "america",
   "category": "纯玩无购物团",
   "subRegion": "西岸",
+  "seasonTag": "",
   "subRegions": [
    "西岸"
   ],
@@ -29161,6 +29432,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "seasonTag": "",
   "subRegions": [
    "多国连线"
   ],
@@ -29223,6 +29495,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "seasonTag": "",
   "subRegions": [
    "任你行"
   ],
@@ -29285,6 +29558,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "seasonTag": "",
   "subRegions": [
    "任你行"
   ],
@@ -29347,6 +29621,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "seasonTag": "",
   "subRegions": [
    "任你行"
   ],
@@ -29409,6 +29684,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "seasonTag": "",
   "subRegions": [
    "任你行"
   ],
@@ -29471,6 +29747,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "seasonTag": "",
   "subRegions": [
    "任你行"
   ],
@@ -29533,6 +29810,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "seasonTag": "",
   "subRegions": [
    "任你行"
   ],
@@ -29595,6 +29873,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "任你行",
+  "seasonTag": "",
   "subRegions": [
    "任你行"
   ],
@@ -29657,6 +29936,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -29719,6 +29999,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -29781,6 +30062,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -29843,6 +30125,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -29905,6 +30188,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -29967,6 +30251,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -30029,6 +30314,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -30091,6 +30377,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -30153,6 +30440,7 @@ window.TOURS = [
   "destEn": "nz",
   "category": "纯玩无购物团",
   "subRegion": "南北岛连线",
+  "seasonTag": "",
   "subRegions": [
    "南北岛连线"
   ],
@@ -30215,6 +30503,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -30271,6 +30560,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -30327,6 +30617,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -30383,6 +30674,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -30439,6 +30731,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -30495,6 +30788,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -30551,6 +30845,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州"
   ],
@@ -30607,6 +30902,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "长江三峡"
@@ -30664,6 +30960,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "不丹尼泊尔",
+  "seasonTag": "",
   "subRegions": [
    "不丹尼泊尔"
   ],
@@ -30726,6 +31023,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "seasonTag": "",
   "subRegions": [
    "非洲中东"
   ],
@@ -30788,6 +31086,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "seasonTag": "",
   "subRegions": [
    "非洲中东"
   ],
@@ -30850,6 +31149,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "不丹尼泊尔",
+  "seasonTag": "",
   "subRegions": [
    "不丹尼泊尔"
   ],
@@ -30912,6 +31212,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "seasonTag": "",
   "subRegions": [
    "非洲中东"
   ],
@@ -30974,6 +31275,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "seasonTag": "",
   "subRegions": [
    "非洲中东"
   ],
@@ -31036,6 +31338,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "seasonTag": "",
   "subRegions": [
    "多国连线"
   ],
@@ -31098,6 +31401,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "土耳其希腊",
+  "seasonTag": "",
   "subRegions": [
    "土耳其希腊"
   ],
@@ -31160,6 +31464,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "土耳其希腊",
+  "seasonTag": "",
   "subRegions": [
    "土耳其希腊"
   ],
@@ -31222,6 +31527,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "seasonTag": "",
   "subRegions": [
    "非洲中东"
   ],
@@ -31284,6 +31590,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "非洲中东",
+  "seasonTag": "",
   "subRegions": [
    "非洲中东"
   ],
@@ -31346,6 +31653,7 @@ window.TOURS = [
   "destEn": "other",
   "category": "纯玩无购物团",
   "subRegion": "不丹尼泊尔",
+  "seasonTag": "",
   "subRegions": [
    "不丹尼泊尔"
   ],
@@ -31408,6 +31716,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "欧洲其他",
+  "seasonTag": "",
   "subRegions": [
    "欧洲其他"
   ],
@@ -31464,6 +31773,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "seasonTag": "",
   "subRegions": [
    "多国连线"
   ],
@@ -31520,6 +31830,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "seasonTag": "",
   "subRegions": [
    "多国连线"
   ],
@@ -31576,6 +31887,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "欧洲其他",
+  "seasonTag": "",
   "subRegions": [
    "欧洲其他"
   ],
@@ -31632,6 +31944,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "欧洲其他",
+  "seasonTag": "",
   "subRegions": [
    "欧洲其他"
   ],
@@ -31688,6 +32001,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "seasonTag": "",
   "subRegions": [
    "多国连线"
   ],
@@ -31744,6 +32058,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "多国连线",
+  "seasonTag": "",
   "subRegions": [
    "多国连线"
   ],
@@ -31800,6 +32115,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "超值特惠团",
   "subRegion": "欧洲其他",
+  "seasonTag": "",
   "subRegions": [
    "欧洲其他"
   ],
@@ -31856,6 +32172,7 @@ window.TOURS = [
   "destEn": "europe",
   "category": "纯玩无购物团",
   "subRegion": "欧洲其他",
+  "seasonTag": "",
   "subRegions": [
    "欧洲其他"
   ],
@@ -31912,6 +32229,7 @@ window.TOURS = [
   "destEn": "australia",
   "category": "纯玩无购物团",
   "subRegion": "黄金海岸&布里斯班",
+  "seasonTag": "",
   "subRegions": [
    "黄金海岸&布里斯班"
   ],
@@ -32023,6 +32341,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -32095,6 +32414,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "纯玩无购物团",
   "subRegion": "北京西安",
+  "seasonTag": "",
   "subRegions": [
    "北京西安"
   ],
@@ -32206,6 +32526,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "广东广西福建海南",
+  "seasonTag": "",
   "subRegions": [
    "广东广西福建海南"
   ],
@@ -32305,6 +32626,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "长江三峡",
+  "seasonTag": "",
   "subRegions": [
    "长江三峡",
    "九寨张家界云南贵州"
@@ -32595,6 +32917,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "长江三峡"
@@ -32747,6 +33070,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "越南",
+  "seasonTag": "",
   "subRegions": [
    "越南"
   ],
@@ -33187,6 +33511,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "纯玩无购物团",
   "subRegion": "亚洲其他",
+  "seasonTag": "",
   "subRegions": [
    "亚洲其他"
   ],
@@ -33422,6 +33747,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "九寨张家界云南贵州"
@@ -33729,6 +34055,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "广东广西福建海南"
@@ -34020,6 +34347,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -34361,6 +34689,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "广东广西福建海南"
@@ -34660,6 +34989,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "广东广西福建海南"
@@ -34752,6 +35082,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -35385,6 +35716,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海"
   ],
@@ -36018,6 +36350,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "超值特惠团",
   "subRegion": "江南上海",
+  "seasonTag": "",
   "subRegions": [
    "江南上海",
    "山东山西东北河南"
@@ -36086,6 +36419,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -36157,6 +36491,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -36224,6 +36559,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
   "subRegions": [
    "新疆甘肃西藏青海丝绸之路"
   ],
@@ -36291,6 +36627,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "新加坡马来西亚",
+  "seasonTag": "",
   "subRegions": [
    "新加坡马来西亚"
   ],
@@ -36483,6 +36820,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "新加坡马来西亚",
+  "seasonTag": "",
   "subRegions": [
    "新加坡马来西亚"
   ],
@@ -36658,6 +36996,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "台湾",
+  "seasonTag": "",
   "subRegions": [
    "台湾"
   ],
@@ -36873,6 +37212,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "台湾",
+  "seasonTag": "",
   "subRegions": [
    "台湾"
   ],
@@ -37096,6 +37436,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "韩国",
+  "seasonTag": "",
   "subRegions": [
    "韩国"
   ],
@@ -37347,6 +37688,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "日本",
+  "seasonTag": "",
   "subRegions": [
    "日本"
   ],
@@ -37534,6 +37876,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "日本",
+  "seasonTag": "",
   "subRegions": [
    "日本"
   ],
@@ -37721,6 +38064,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "超值特惠团",
   "subRegion": "韩国",
+  "seasonTag": "",
   "subRegions": [
    "韩国"
   ],
@@ -37936,6 +38280,7 @@ window.TOURS = [
   "destEn": "china",
   "category": "含机票特别订制团",
   "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
   "subRegions": [
    "九寨张家界云南贵州",
    "新疆甘肃西藏青海丝绸之路"
@@ -38016,6 +38361,7 @@ window.TOURS = [
   "destEn": "asia",
   "category": "含机票特别订制团",
   "subRegion": "日本",
+  "seasonTag": "",
   "subRegions": [
    "日本"
   ],

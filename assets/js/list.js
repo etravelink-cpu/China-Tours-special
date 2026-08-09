@@ -59,7 +59,7 @@ function calHTML(t, opts){
         let cls = isDep ? 'cal-dep' : 'cal-off';
         if(dt < today) cls += ' cal-past';
         cells += '<td class="'+cls+'">'+d+'</td>';
-        if(d < days && dt.getDay()===0) cells += '</tr><tr>';  // 周日之后换行(表头以周一开头)
+        if(dt.getDay()===6) cells += '</tr><tr>';
       }
       let cnt = (cells.match(/<td/g)||[]).length;
       while(cnt%7!==0){ cells += '<td class="cal-empty"></td>'; cnt++; }
@@ -70,33 +70,7 @@ function calHTML(t, opts){
     const head = full ? '<div class="cal-head"><button type="button" class="cal-prev" onclick="calNav(this,-1)">‹</button><span class="cal-cur"></span><button type="button" class="cal-next" onclick="calNav(this,1)">›</button></div>' : '';
     const ruleBox = (ruleTxt||validTxt) ? '<div class="rule-box"><p style="margin:0"><b>出发规则：</b>'+(ruleTxt||'按指定日期')+(validTxt?'　<b>'+validTxt+'</b>':'')+'</p></div>' : '';
     const hint = full ? '<p style="font-size:12px;color:#8a97a6;margin:8px 0 0">（橙色为可出发日期，库存随时变化，下单前请二次确认）</p>' : '';
-    // 澳新(规则型)走月历网格; 其他板块(中国/亚洲/欧洲/美加/海岛/其他)走文本列表(开团日期)
-    if (_ruleDest) {
-      return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
-    }
-    // 文本列表渲染(固定日期型): 按 年月 分组, 标注售罄/紧张; 可出发日可点击跳 booking
-    const groups = {};
-    ds.forEach(d=>{ const ym=(d.date||'').slice(0,7); (groups[ym]=groups[ym]||[]).push(d); });
-    const tourId = encodeURIComponent(t.id);
-        const years = [...new Set(ds.map(d=>(d.date||'').slice(0,4)).filter(Boolean))].sort();
-    const yrTitle = (years.length===1) ? (years[0]+'年开团日期') : (years[0]+'-'+years[years.length-1]+'年开团日期');
-    let listHtml = '<div class="rp-dep-list"><h4>'+yrTitle+'</h4><p class="rp-dep-note">（库存随时变化，下单前请二次确认；点击日期可直接预约）</p>';
-    Object.keys(groups).sort().forEach(ym=>{
-      const [y,m]=ym.split('-');
-      const parts=groups[ym].map(d=>{
-        const day=d.date.slice(8,10)+'日';
-        const ds2=d.date;
-        const st=d.status||'available';
-        const href='booking.html?tour='+tourId+'&date='+encodeURIComponent(ds2);
-        if(st==='soldout') return '<span class="soldout">'+day+'（售罄）</span>';
-        if(st==='limited') return '<a class="rp-dep-day" href="'+href+'">'+day+'（余位紧张）</a>';
-        if(st==='open') return '<a class="rp-dep-day" href="'+href+'">'+day+'（报名中）</a>';
-        return '<a class="rp-dep-day" href="'+href+'">'+day+'</a>';
-      });
-      listHtml += '<div class="rp-dep-month"><b>'+parseInt(m,10)+'月：</b>'+parts.join('、')+'</div>';
-    });
-    listHtml += '</div>';
-    return listHtml + note;
+    return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
   }
 
   // 翻月 (按钮内联调用)
@@ -145,7 +119,7 @@ function calHTML(t, opts){
   // 美加区子类固定顺序(隐藏类目层; 机票套餐/其他置后, 方便扩展)
   const NA_ORDER = ["东岸", "西岸", "东西岸", "南美", "美加其他", "机票套餐"];
   // 澳洲区子类固定顺序(隐藏类目层, 单门票置后)
-  const AU_ORDER = ["悉尼及周边", "墨尔本及周边", "黄金海岸&布里斯班", "凯恩斯（大堡礁）", "圣灵群岛", "西澳/珀斯", "乌鲁鲁/北领地", "塔斯马尼亚", "阿德莱德/南澳", "澳洲跨地区联游", "澳洲其他", "单门票·单项体验"];
+  const AU_ORDER = ["悉尼及周边", "墨尔本及周边", "黄金海岸&布里斯班", "凯恩斯（大堡礁）", "圣灵群岛", "西澳/珀斯", "乌鲁鲁/北领地", "塔斯马尼亚", "阿德莱德/南澳", "澳洲跨地区联游", "滑雪", "澳洲其他", "单门票·单项体验"];
 
   // 构建树数据(仅按当前目的地)
   function buildTree() {
@@ -221,6 +195,11 @@ function calHTML(t, opts){
       tree["澳洲"]["__au__"] = tree["澳洲"]["__au__"] || {};
       tree["澳洲"]["__au__"][s] = tree["澳洲"]["__au__"][s] || [];
       tree["澳洲"]["__au__"][s].push(t);
+      // 季节性产品独立导航: 滑雪(可扩展到其他季节/地区). 与城市子类并列, 按 seasonTag 归组
+      if (t.seasonTag === "滑雪") {
+        tree["澳洲"]["__au__"]["滑雪"] = tree["澳洲"]["__au__"]["滑雪"] || [];
+        tree["澳洲"]["__au__"]["滑雪"].push(t);
+      }
     };
     T.forEach((t) => {
       const d = t.destZh || t.dest || "其他";
@@ -388,27 +367,19 @@ function calHTML(t, opts){
         "<tr><td>" + esc(p.city || "") + "</td><td>" + cell(p.adult) + "</td><td>" + cell(p.childbed) + "</td><td>" + cell(p.childnobed) + "</td><td>" + cell(p.infant) + "</td><td>" + cell(p.single) + "</td><td>" + cell(p.service) + "</td><td>" + cell(p.tip) + "</td><td>" + cell(p.transfer) + "</td></tr>" +
         "</tbody></table><p style='margin-top:8px;font-size:12px;color:#8a97a6'>备注：部分行程设有淡旺季价格，请以产品彩页所列适用日期及价格为准。</p>";
     }
-    // 出发日历: 澳新=可点选实时月历(基于 depRule 推算); 其他板块=文本列表(calHTML)
+    // 出发日历(有班期即显示): 可视化月历, 出发日高亮
     let depHtml = "";
-    const _isAU = (t.dest === "australia" || t.dest === "nz");
-    const _hasRule = (t.depRule && t.depRule.length);
-    const _hasDates = (t.departureDates && t.departureDates.length);
-    if (_isAU && _hasRule) {
-      // 可点选月历容器(初始化见 renderDetail 末尾): 点日期 -> booking.html?tour=ID&date=
-      depHtml =
-        "<div class='rp-sec'><h4>出发日历</h4>" +
-        "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（橙色为可出发日期，点击选择后前往预约占位）</p>" +
-        "<div class='rp-au-cal' data-tour='" + esc(t.id) + "'></div></div>";
-    } else if (_hasDates || _hasRule) {
+    // 有具体班期(departureDates)或规则型出发(depRule)都显示日历, 与 detail/卡片共用 calendar.js
+    const _hasDep = (t.departureDates && t.departureDates.length) || (t.depRule && t.depRule.length);
+    if (_hasDep) {
       const _cal = calHTML(t, {full:true});
       depHtml =
         "<div class='rp-sec'><h4>出发日历</h4>" +
         "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（出发日已高亮，库存随时变化，下单前请二次确认）</p>" +
         _cal + "</div>";
     }
-    const itin = (t.itinerary || []);
-      const isOneDay = (t.days && parseInt(t.days,10)===1) || itin.length===1;
-      const itinDays = itin.map((d) => {
+    const itin = (t.itinerary || [])
+      .map((d) => {
         const zh = lang === "zh";
         const theme = zh ? d.titleZh : d.titleEn;
         const overview = (zh ? d.descZh : d.descEn) || "";
@@ -421,13 +392,11 @@ function calHTML(t, opts){
         if (me) foot.push("<span>🍽 " + esc(me) + "</span>");
         if (ho) foot.push("<span>🏨 " + esc(ho) + "</span>");
         return (
-          "<div class='itin-day" + (isOneDay ? " itin-one" : "") + "'>" +
-            (isOneDay ? "" :
-              "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
-              (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
-              "</div>") +
+          "<div class='itin-day'>" +
+            "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
+            (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
+            "</div>" +
             "<div class='d-body'>" +
-              (isOneDay && theme ? "<div class='d-theme-inline'>" + esc(theme) + "</div>" : "") +
               (overview ? "<div class='d-overview'>" + esc(overview).replace(/\n/g, "<br>") + "</div>" : "") +
               (spots.length ? "<div class='d-spots'>" + spots.map(esc).join("　") + "</div>" : "") +
               (foot.length ? "<div class='d-foot'>" + foot.join("") + "</div>" : "") +
@@ -436,8 +405,8 @@ function calHTML(t, opts){
         );
       })
       .join("");
-    const itinHtml = itinDays
-      ? "<div class='rp-sec'><h4>行程安排</h4>" + itinDays + "</div>"
+    const itinHtml = itin
+      ? "<div class='rp-sec'><h4>行程安排</h4>" + itin + "</div>"
       : "";
     const inc = (t.includes || []).filter(Boolean);
     const costHtml = inc.length
@@ -461,8 +430,8 @@ function calHTML(t, opts){
         return _single ? "<div class='detail-single' style='font-size:13px;color:#8a97a6'>单人房差: A$" + esc(_single) + "</div>" : "";
       })() +
       "<div class='rp-detail-actions' style='margin-top:12px;display:flex;gap:10px;flex-wrap:wrap'>" +
-      "<a href='contact.html?id="+encodeURIComponent(t.id)+"' class='btn btn-primary'>在线咨询</a>" +
-      "<a href='booking.html?tour="+encodeURIComponent(t.id)+"' class='btn btn-gold'>预约占位</a>" +
+      "<a href='contact.html' class='btn btn-primary'>在线咨询</a>" +
+      "<a href='booking.html' class='btn btn-gold'>预约占位</a>" +
       "</div>" +
       "</div></div>" +
       "<div class='rp-tabs'>" +
@@ -480,21 +449,6 @@ function calHTML(t, opts){
       (showFullDetail ? "<div style='padding:18px 24px'><a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn btn-primary' style='width:100%;text-align:center'>查看完整详情页</a></div>" : "") +
       "";
       EtripsHeroSlider.init(box.querySelector('.rp-detail-hero .hero-slider'));
-
-    // 初始化澳洲可点选实时日历(depRule 推算): 点日期 -> booking.html?tour=ID&date=
-    (function(){
-      const calBox = box.querySelector('.rp-au-cal');
-      if (!calBox || !window.EtripsCalendar) return;
-      const tourId = calBox.getAttribute('data-tour');
-      const dates = window.EtripsCalendar.fromRule(t.depRule, t.validFrom, t.validTo, { limitMonths: 12 });
-      if (!dates.length) { calBox.innerHTML = '<div class="cal-empty-hint">暂未公布班期，出发日期请与客服确认。</div>'; return; }
-      window.EtripsCalendar.render(calBox, dates, {
-        restrict: true,
-        onSelect: function(dateStr){
-          window.location.href = 'booking.html?tour=' + encodeURIComponent(tourId) + '&date=' + encodeURIComponent(dateStr);
-        }
-      });
-    })();
 
     box.querySelectorAll(".rp-tab").forEach((tab) => {
       tab.addEventListener("click", () => {
