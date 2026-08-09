@@ -15,8 +15,8 @@ function calHTML(t, opts){
     const _ruleDest = (_dest === 'australia' || _dest === 'nz');  // 澳新=规则型
     let hasRule = Array.isArray(rule) && rule.length > 0;
     let hasDates = Array.isArray(ds) && ds.length > 0;
-    if (_ruleDest) hasDates = false;   // 澳新: 强制规则型, 隐藏固定日期
-    else hasRule = false;              // 其他区域: 强制固定日期型, 隐藏规则型
+    // 澳新: 优先规则型(depRule); 若无规则但有固定日期(departureDates), 退回固定日期月历(避免出发日期区空白)
+    if (!_ruleDest) hasRule = false;  // 其他区域: 强制固定日期型, 隐藏规则型(澳洲保留 rule 判断)
     if(!hasRule && !hasDates) return '';
     const WEEKDAY_CN = ['一','二','三','四','五','六','日'];
     let ruleTxt = '';
@@ -75,6 +75,7 @@ function calHTML(t, opts){
     const hint = full ? '<p style="font-size:12px;color:#8a97a6;margin:8px 0 0">（橙色为可出发日期，库存随时变化，下单前请二次确认）</p>' : '';
     // 澳新(规则型)走月历网格; 其他板块(中国/亚洲/欧洲/美加/海岛/其他)走文本列表(开团日期)
     if (_ruleDest) {
+      // 澳洲: 月历网格(规则型实时 / 固定型按日期高亮)
       return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
     }
     // 文本列表渲染(固定日期型): 按 年月 分组, 标注售罄/紧张; 可出发日可点击跳 booking; 今天以前自动屏蔽
