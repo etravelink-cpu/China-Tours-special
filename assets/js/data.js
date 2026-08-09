@@ -9004,8 +9004,8 @@ window.TOURS = [
   "subRegions": [
    "悉尼及周边"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$899",
+  "priceEn": "A$899",
   "days": 4,
   "startCity": "悉尼",
   "tags": [
@@ -9430,7 +9430,19 @@ window.TOURS = [
   "validFrom": "2026-08-10",
   "validTo": "2027-03-31",
   "surchargeNote": "",
-  "priceTable": [],
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 899.0,
+    "childbed": "",
+    "childnobed": 599.0,
+    "infant": "",
+    "single": 420.0,
+    "transfer": 50.0,
+    "tip": "",
+    "service": 0.0
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-NOVA",
@@ -14192,8 +14204,8 @@ window.TOURS = [
   "subRegions": [
    "悉尼及周边"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$179",
+  "priceEn": "A$179",
   "days": 1,
   "startCity": "悉尼",
   "tags": [
@@ -15160,7 +15172,19 @@ window.TOURS = [
   "validFrom": "2026-08-10",
   "validTo": "2027-03-31",
   "surchargeNote": "",
-  "priceTable": [],
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 179.0,
+    "childbed": 179.0,
+    "childnobed": "",
+    "infant": 89.0,
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-NOVA",
