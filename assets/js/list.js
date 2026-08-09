@@ -55,7 +55,10 @@ function calHTML(t, opts){
       for(let i=0;i<lead;i++) cells += '<td class="cal-empty"></td>';
       for(let d=1;d<=days;d++){
         const dt = new Date(y,m,d);
-        const isDep = (hasRule && inRule(y,m,d) && inRange(y,m,d)) || depSet.has(y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0'));
+        const _ds = y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
+        const _isPast = dt < today;  // 今天以前
+        // 过去日期: 不显示为可出发(屏蔽), 仅灰显; 澳新规则型不受影响(规则型本身不含固定过去日)
+        const isDep = (hasRule && inRule(y,m,d) && inRange(y,m,d)) || (hasDates && depSet.has(_ds) && !_isPast);
         let cls = isDep ? 'cal-dep' : 'cal-off';
         if(dt < today) cls += ' cal-past';
         cells += '<td class="'+cls+'">'+d+'</td>';
