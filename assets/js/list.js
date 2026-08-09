@@ -56,7 +56,7 @@ function calHTML(t, opts){
         const dt = new Date(y,m,d);
         const _ds = y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
         const _isPast = dt < today;        // 过去日期: 不显示为可出发(屏蔽), 仅灰显; 澳新规则型不受影响(规则型本身不含固定过去日)
-        const isDep = (hasRule && inRule(y,m,d) && inRange(y,m,d)) || (hasDates && depSet.has(_ds) && !_isPast);
+        const isDep = (hasDates && depSet.has(_ds) && !_isPast) || (hasRule && inRule(y,m,d) && inRange(y,m,d) && !_isPast);
         let cls = isDep ? 'cal-dep' : 'cal-off';
         if(dt < today) cls += ' cal-past';
         const _clickable = isDep && dt >= today;

@@ -45,7 +45,7 @@ conn = sqlite3.connect(DB); c = conn.cursor()
 
 # 取全部在线可见 + Active 的产品 (与网站前台一致过滤)
 rows = c.execute("""
-    SELECT p.Internal_Product_Code, p.Product_Name_CN, p.Web_Category1, p.Web_Category2,
+    SELECT p.Internal_Product_Code, p.Product_Name_CN, p.Web_Category1, p.Web_Category2, p.Web_Category3,
            p.Duration_Days, p.Product_Category, p.Itinerary, p.Cost_Info, p.Status, p.Online_Visible,
            p.Is_Featured, p.Product_Intro, p.Participation_Notice, p.Supplier_Product_Code, p.Start_City,
            (SELECT COALESCE(MIN(Adult_Price_AUD),0) FROM Departure_Pricing WHERE Internal_Product_Code=p.Internal_Product_Code) as ad
@@ -246,7 +246,7 @@ def derive_subregion(name, dk, category):
     return '其他'
 
 tours = []
-for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, notice, spc, start_city, ad) in rows:
+for (code, name, wc1, wc2, wc3, days, cat, itin, cost, status, ov, is_feat, intro, notice, spc, start_city, ad) in rows:
     dk = DEST_KEY.get(wc1, 'other')
     # 内容层修正: 名称含新西兰/南北岛 或 Web_Category1 已标新西兰 的产品, 归回新西兰树(不改 DB, 可逆)
     if '新西兰' in (name or '') or '南北岛' in (name or '') or wc1 == '新西兰':
@@ -327,6 +327,27 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         validFrom = rule_rows[1] if rule_rows[1] and rule_rows[1] != "indefinite" else None
         validTo = rule_rows[2] if rule_rows[2] and rule_rows[2] != "indefinite" else None
         surchargeNote = rule_rows[3] or ""
+
+        # 规则型展开为真实出发日期(与 China 共用 departureDates 数据驱动, 避免前端推断错位)
+        if depRule and validFrom:
+            try:
+                from datetime import date, timedelta
+                vf = date.fromisoformat(str(validFrom))
+                vt = date.fromisoformat(str(validTo)) if validTo else date(vf.year + 1, 12, 31)
+                rule_set = set(depRule)
+                cur = vf
+                expanded = []
+                while cur <= vt:
+                    if (cur.weekday()) in rule_set:
+                        expanded.append(cur.isoformat())
+                    cur += timedelta(days=1)
+                exist = set(departureDates)
+                for d in expanded:
+                    if d not in exist:
+                        departureDates.append({"date": d, "status": "available"})
+                departureDates.sort()
+            except Exception:
+                pass
     # 价格表: 仅取第一条(对齐后台预览页"仅显示第一行，不罗列所有日期"); 避免各班期重复行脏数据
     priceTable = []
     if dep_rows:
@@ -342,6 +363,7 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
                 "transfer": trans if trans is not None else '', "tip": tip if tip is not None else '',
                 "service": svc if svc is not None else '',
             })
+    if code=="Nova-SYDPST": import sys; print("APPEND Nova-SYDPST departureDates len=", len(departureDates), file=sys.stderr)
     tours.append({
         "id": code,
         "supplierCode": spc or '',
@@ -352,6 +374,7 @@ for (code, name, wc1, wc2, days, cat, itin, cost, status, ov, is_feat, intro, no
         "destEn": dk,
         "category": category,
         "subRegion": subRegion,
+        "seasonTag": (wc3 or ""),
         "subRegions": subRegions,
         "price": price,
         "priceEn": price,
@@ -386,6 +409,7 @@ conn.close()
 # 写出 data.js
 header = "// Etrips 国安易游 — 产品数据 (由 gen_data_js.py 从 etrips_product.db 自动生成)\n"
 header += "// 单一真相: DB 中 Online_Visible=1 AND Status='Active' 的产品。请勿手改, 重跑生成器。\n\n"
+import sys; _ns=[t for t in tours if t.get("id")=="Nova-SYDPST"]; print("FINAL tours Nova-SYDPST 条数=", len(_ns), [len(t["departureDates"]) for t in _ns], file=sys.stderr)
 body = "window.TOURS = " + json.dumps(tours, ensure_ascii=False, indent=1) + ";\n"
 
 # 运营内容(非DB字段, 静态): 客户短评 + 出行小贴士
@@ -553,5 +577,16 @@ CONTACT_BLOCK = '''window.CONTACT = {
 '''
 
 io.open(JS, 'w', encoding='utf-8').write(header + body + REVIEWS_JS + "\n\n" + CONTACT_BLOCK)
+import sys
+_r=open(JS,encoding='utf-8').read()
+_i=_r.find('Nova-SYDPST')
+_j=_r.find('"departureDates"', _i)
+print("WRITTEN dd raw=", repr(_r[_j:_j+60]), file=sys.stderr)
+import sys
+_r=open(JS,encoding='utf-8').read()
+import re as _re
+_i=_r.find('Nova-SYDPST')
+_m=_re.search(r'"departureDates":\s*(\[[^\]]*\])', _r[_i:_i+2000], _re.S)
+print("WRITTEN Nova-SYDPST dd len=", len(_re.findall(r'"date":', _m.group(1))) if _m else "无", file=sys.stderr)
 print("已生成 data.js: %d 个产品 (Online_Visible=1 AND Status='Active')" % len(tours))
 print("输出:", os.path.abspath(JS))
