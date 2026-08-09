@@ -9004,8 +9004,8 @@ window.TOURS = [
   "subRegions": [
    "悉尼及周边"
   ],
-  "price": "A$899",
-  "priceEn": "A$899",
+  "price": "待确认",
+  "priceEn": "待确认",
   "days": 4,
   "startCity": "悉尼",
   "tags": [
@@ -9017,27 +9017,423 @@ window.TOURS = [
   "img": [
    "assets/suppliers/SUP-NOVA/products/Nova-SYD4D/Nova-SYD4D_hero.jpg"
   ],
-  "introZh": "每周二，五、日固定出发 如果出发前三天没有提供史蒂芬午餐的话，默认按照炸鱼薯条预定 从4月1日开始： 第一天要求 航班时间为0830am之前抵达的国内航班 ，司机统一0920am从悉尼国内机场出发， 如因航班延误，可安排 接机追团费用为$100/趟 ，错过的行程无法退补 ， ( 相邻1小时航班一起接送) 如因航班原因无法安排市区游，改为接机送酒店，费用概不退还.\n 如选择团前加住一晚(含接机), 一日游行程顺序视实际情况而定 第四天送机， 司机工作时间早7-晚9点半，超出范围$50附加费 ，请避开这个时候哦 ( 相邻1小时航班一起接送)， 如单人送机需补$50送机费用",
-  "introEn": "每周二，五、日固定出发 如果出发前三天没有提供史蒂芬午餐的话，默认按照炸鱼薯条预定 从4月1日开始： 第一天要求 航班时间为0830am之前抵达的国内航班 ，司机统一0920am从悉尼国内机场出发， 如因航班延误，可安排 接机追团费用为$100/趟 ，错过的行程无法退补 ， ( 相邻1小时航班一起接送) 如因航班原因无法安排市区游，改为接机送酒店，费用概不退还.\n 如选择团前加住一晚(含接机), 一日游行程顺序视实际情况而定 第四天送机， 司机工作时间早7-晚9点半，超出范围$50附加费 ，请避开这个时候哦 ( 相邻1小时航班一起接送)， 如单人送机需补$50送机费用",
+  "introZh": "每周二，五、日固定出发 如果出发前三天没有提供史蒂芬午餐的话，默认按照炸鱼薯条预定 从4月1日开始： 第一天要求 航班时间为0830am之前抵达的国内航班 ，司机统一0920am从悉尼国内机场出发， 如因航班延误，可安排 接机追团费用为$100/趟 ，错过的行程无法退补 ， ( 相邻1小时航班一起接送) 如因航班原因无法安排市区游，改为接机送酒店，费用概不退还.\r\n 如选择团前加住一晚(含接机), 一日游行程顺序视实际情况而定 第四天送机， 司机工作时间早7-晚9点半，超出范围$50附加费 ，请避开这个时候哦 ( 相邻1小时航班一起接送)， 如单人送机需补$50送机费用",
+  "introEn": "每周二，五、日固定出发 如果出发前三天没有提供史蒂芬午餐的话，默认按照炸鱼薯条预定 从4月1日开始： 第一天要求 航班时间为0830am之前抵达的国内航班 ，司机统一0920am从悉尼国内机场出发， 如因航班延误，可安排 接机追团费用为$100/趟 ，错过的行程无法退补 ， ( 相邻1小时航班一起接送) 如因航班原因无法安排市区游，改为接机送酒店，费用概不退还.\r\n 如选择团前加住一晚(含接机), 一日游行程顺序视实际情况而定 第四天送机， 司机工作时间早7-晚9点半，超出范围$50附加费 ，请避开这个时候哦 ( 相邻1小时航班一起接送)， 如单人送机需补$50送机费用",
   "participationNotice": "**市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** **酒店需二次确认** 1. 两人成团固定日期出发每周二，周五、周日 2. 儿童4-14岁；4岁以下不占床小孩$599,单人房差$420 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. 不含旺季酒店附加费和重大节假日酒店附加费 6. 最终解释权归本司所有。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
+  "departureDates": [
    {
-    "city": "悉尼",
-    "adult": 899.0,
-    "childbed": "",
-    "childnobed": 599.0,
-    "infant": "",
-    "single": 420.0,
-    "transfer": 50.0,
-    "tip": "",
-    "service": 0.0
+    "date": "2026-08-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-02",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-09",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-03",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-10",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-24",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-29",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-01",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-03",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-08",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-10",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-15",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-17",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-22",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-24",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-26",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-29",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-31",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-02",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-07",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-09",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-14",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-16",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-21",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-23",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-26",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-28",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-02",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-07",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-09",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-14",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-16",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-21",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-23",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-26",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-28",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-30",
+    "status": "available"
    }
   ],
+  "depRule": [
+   1,
+   4,
+   6,
+   1,
+   4,
+   6
+  ],
+  "validFrom": "2026-08-10",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [],
   "brochures": [
    {
     "supplier": "SUP-NOVA",
