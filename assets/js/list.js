@@ -73,7 +73,35 @@ function calHTML(t, opts){
     const head = full ? '<div class="cal-head"><button type="button" class="cal-prev" onclick="calNav(this,-1)">‹</button><span class="cal-cur"></span><button type="button" class="cal-next" onclick="calNav(this,1)">›</button></div>' : '';
     const ruleBox = (ruleTxt||validTxt) ? '<div class="rule-box"><p style="margin:0"><b>出发规则：</b>'+(ruleTxt||'按指定日期')+(validTxt?'　<b>'+validTxt+'</b>':'')+'</p></div>' : '';
     const hint = full ? '<p style="font-size:12px;color:#8a97a6;margin:8px 0 0">（橙色为可出发日期，库存随时变化，下单前请二次确认）</p>' : '';
-    return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
+    // 澳新(规则型)走月历网格; 其他板块(中国/亚洲/欧洲/美加/海岛/其他)走文本列表(开团日期)
+    if (_ruleDest) {
+      return ruleBox + head + '<div class="cal-wrap">'+monthsHtml+'</div>' + note + hint;
+    }
+    // 文本列表渲染(固定日期型): 按 年月 分组, 标注售罄/紧张; 可出发日可点击跳 booking; 今天以前自动屏蔽
+    const groups = {};
+    ds.forEach(d=>{ const ym=(d.date||'').slice(0,7); (groups[ym]=groups[ym]||[]).push(d); });
+    const tourId = encodeURIComponent(t.id);
+    const years = [...new Set(ds.map(d=>(d.date||'').slice(0,4)).filter(Boolean))].sort();
+    const yrTitle = (years.length===1) ? (years[0]+'年开团日期') : '开团日期';
+    let listHtml = '<div class="rp-dep-list"><h4>'+yrTitle+'</h4><p class="rp-dep-note">（库存随时变化，下单前请二次确认；点击日期可直接预约）</p>';
+    Object.keys(groups).sort().forEach(ym=>{
+      const [y,m]=ym.split('-');
+      const parts=groups[ym].map(d=>{
+        const day=d.date.slice(8,10)+'日';
+        const ds2=d.date;
+        const st=d.status||'available';
+        const isPast = new Date(y, parseInt(m,10)-1, parseInt(d.date.slice(8,10),10)) < today;  // 今天以前屏蔽
+        if (isPast) return '';  // 过去日期不显示
+        const href='booking.html?tour='+tourId+'&date='+encodeURIComponent(ds2);
+        if(st==='soldout') return '<span class="soldout">'+day+'（售罄）</span>';
+        if(st==='limited') return '<a class="rp-dep-day" href="'+href+'">'+day+'（余位紧张）</a>';
+        if(st==='open') return '<a class="rp-dep-day" href="'+href+'">'+day+'（报名中）</a>';
+        return '<a class="rp-dep-day" href="'+href+'">'+day+'</a>';
+      }).filter(Boolean);
+      if (parts.length) listHtml += '<div class="rp-dep-month"><b>'+parseInt(m,10)+'月：</b>'+parts.join('、')+'</div>';
+    });
+    listHtml += '</div>';
+    return listHtml + note;
   }
 
   // 翻月 (按钮内联调用)

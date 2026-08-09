@@ -752,20 +752,6 @@ main .container{position:relative;z-index:2}
 .day .line{font-size:14px;color:var(--muted)}
 /* 行程每日卡片(sublic 风格: 左蓝天数块 + 右内容 + 底部交通/餐饮/住宿图标行); list.js与detail.js共用 */
 .itin-day{display:flex;gap:0;margin-bottom:14px;border:1px solid var(--line-cool);border-radius:var(--radius-sm);overflow:hidden;background:#fff}
-/* 一日游: 不设左侧天号栏, 直接段落起始 */
-.itin-one{display:block;border:1px solid var(--line-cool);border-radius:var(--radius-sm);overflow:hidden;background:#fff;margin-bottom:14px}
-.itin-one .d-body{padding:14px 16px}
-.itin-one .d-theme-inline{font-size:15px;font-weight:700;color:var(--sky-deep);margin-bottom:8px;line-height:1.5}
-/* 多日游天号/主题缩小, 适配手机阅读 */
-.d-no{font-size:20px}
-.d-theme{font-size:12px}
-@media(max-width:560px){
-  .d-side{flex:0 0 64px;padding:12px 6px}
-  .d-no{font-size:17px}
-  .d-theme{font-size:11px;margin-top:4px}
-  .d-overview{font-size:13.5px;line-height:1.65}
-  .d-spots{font-size:13px}
-}
 .itin-day .d-side{flex:0 0 116px;background:linear-gradient(160deg,var(--sky),var(--sky-deep));color:#fff;padding:16px 12px;display:flex;flex-direction:column;justify-content:center;text-align:center}
 .itin-day .d-side .d-no{font-family:var(--font-display);font-size:22px;font-weight:800;line-height:1}
 .itin-day .d-side .d-theme{font-size:12.5px;margin-top:6px;opacity:.92;line-height:1.4}
@@ -1025,9 +1011,6 @@ body.nav-open{overflow:hidden}
 .cal-dep{background:var(--orange);color:#fff;font-weight:600;border-radius:3px}
 .cal-off{color:#b9c2ce}
 .cal-past{opacity:.4}
-.cal-today{position:relative;color:#e23b3b!important;font-weight:800;border:1.5px solid #e23b3b}
-.cal-today::after{content:"今天";position:absolute;top:-2px;right:2px;font-size:9px;color:#e23b3b;font-weight:700}
-.cal-past{cursor:not-allowed!important}
 .cal-empty{background:#fafbfc}
 .rule-box{background:var(--sky-band);border:1px solid var(--line-cool);border-radius:8px;padding:12px;margin:10px 0}
 .surcharge{color:var(--orange-deep);background:var(--orange-tint);padding:8px 10px;border-radius:6px;font-size:13px}
@@ -1047,18 +1030,12 @@ body.nav-open{overflow:hidden}
 
 /* Hero 轮播 */
 
-
-/* 出发日期文本列表(非澳新板块: 中国/亚洲/欧洲/美加等) */
+/* 非澳新板块(中国/亚洲/欧洲/美加等)出发日期文本列表(开团日期) */
 .rp-dep-list{margin:10px 0;padding:10px 14px;background:#f8fafc;border:1px solid #e6ebf2;border-radius:8px}
 .rp-dep-list h4{margin:0 0 4px;color:#1F4E78;font-size:14px}
 .rp-dep-note{margin:0 0 8px;font-size:12px;color:#c0392b}
 .rp-dep-month{line-height:1.9;color:#334;font-size:13px;margin:4px 0}
 .rp-dep-month b{color:#1F4E78;margin-right:4px}
 .rp-dep-month .soldout{color:#c0392b;font-weight:600;margin-right:4px}
-.rp-dep-day{color:#0E7DB8;text-decoration:none;font-weight:600;margin-right:4px;padding:1px 4px;border-radius:4px;transition:background .15s,color .15s}
-.rp-dep-day:hover{background:#0E7DB8;color:#fff;cursor:pointer}
-.rp-dep-day:visited{color:#0E7DB8}
-
-/* 澳洲可点选出发日历容器 */
-.rp-au-cal{margin:6px 0 4px}
-.rp-au-cal .cal-empty-hint{font-size:13px;color:#8a97a6;padding:8px 0}
+a.rp-dep-day{color:#F09018;text-decoration:none;font-weight:600;margin-right:6px}
+a.rp-dep-day:hover{color:#0E7DB8;text-decoration:underline}
