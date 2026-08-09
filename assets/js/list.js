@@ -485,18 +485,30 @@ function calHTML(t, opts){
     // 标题直接显示目的地(不走 i18n 以免被覆盖)
     const titleEl = document.getElementById("hot-title");
     if (titleEl) titleEl.textContent = activeDest + "线路";
-    // 默认选中: 当前目的地第一个产品
+    // 默认选中: 本页最小那类(最细分子类)的第一个产品 -> fresh/刷新后稳定落地
     let activeId = (urlId && T.find(x => x.id === urlId)) ? urlId : null;
     if (tree[activeDest] && !activeId) {
       const cats = Object.keys(tree[activeDest]);
-      // 默认打开: 第一个类目 -> 第一个子类(按各目的地子类排序,如AU_ORDER悉尼优先) -> 按天数升序第一个产品(与页面渲染一致; 下架产品不在TOURS自动跳过)
-      const catOrder = (activeDest === '澳洲') ? AU_ORDER.filter(c => cats.includes(c)) : cats;
+      // 类目层顺序(超值特价->纯玩->机票套餐->其他); 无类目层的板块(澳新/欧洲/美加)用各自子类顺序
+      const CAT_ORDER = ["超值特价", "纯玩无购物", "机票套餐", "签证", "其他"];
+      const catOrder = CAT_ORDER.filter((k) => cats.includes(k)).concat(cats.filter((k) => !CAT_ORDER.includes(k)));
+      const subOrder = (dest) =>
+        dest === "中国" ? CN_ORDER : dest === "欧洲" ? EU_ORDER : dest === "亚洲" ? ASIA_ORDER : dest === "美加" ? NA_ORDER : dest === "澳洲" ? AU_ORDER : null;
+      const sortProducts = (arr) => arr.slice().sort((a, b) => {
+        const da=(a.departureDates||[]).length, db=(b.departureDates||[]).length;
+        if(da!==db) return db-da;                      // 有班期优先
+        const ia=a.img?1:0, ib=b.img?1:0; if(ia!==ib) return ib-ia;  // 有图优先
+        return (a.days||0)-(b.days||0);                // 天数升序
+      });
       outer: for (const c of catOrder) {
         const subs = tree[activeDest][c];
-        for (const s of Object.keys(subs)) {
+        if (!subs) continue;
+        const order = subOrder(activeDest);
+        // 子类顺序: 有固定顺序用固定(悉尼优先等), 否则插入序; 跳过 滑雪 等内嵌孙组(已挂悉尼下)
+        const subKeys = order ? order.filter((k) => k in subs && k !== "滑雪").concat(Object.keys(subs).filter((k) => !order.includes(k) && k !== "滑雪")) : Object.keys(subs).filter((k) => k !== "滑雪");
+        for (const s of subKeys) {
           if (subs[s] && subs[s].length) {
-            const first = subs[s].slice().sort((a, b) => { const da=(a.departureDates||[]).length, db=(b.departureDates||[]).length; if(da!==db) return db-da; const ia=a.img?1:0, ib=b.img?1:0; if(ia!==ib) return ib-ia; return (a.days||0)-(b.days||0); })[0];
-            activeId = first.id;
+            activeId = sortProducts(subs[s])[0].id;
             break outer;
           }
         }
