@@ -36,7 +36,7 @@ function calHTML(t, opts){
     }
     function inRule(y,m,d){
       if(!hasRule) return false;
-      const dt = new Date(y,m,d);
+      const dt = new Date(Date.UTC(y,m,d));
       const backIdx = (dt.getDay()+6)%7;
       return rule.includes(backIdx);
     }
@@ -49,7 +49,7 @@ function calHTML(t, opts){
     let monthsHtml = '';
     ymList.forEach(([y,m])=>{
       const days = new Date(y,m+1,0).getDate();
-      const lead = (new Date(y,m,1).getDay()+6)%7;
+      const lead = (new Date(Date.UTC(y,m,1)).getDay()+6)%7;
       let cells = '';
       for(let i=0;i<lead;i++) cells += '<td class="cal-empty"></td>';
       for(let d=1;d<=days;d++){
