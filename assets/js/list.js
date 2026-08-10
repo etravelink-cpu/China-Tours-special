@@ -484,7 +484,7 @@ function calHTML(t, opts){
         return _single ? "<div class='detail-single' style='font-size:13px;color:#8a97a6'>单人房差: A$" + esc(_single) + "</div>" : "";
       })() +
       "<div class='rp-detail-actions' style='margin-top:12px;display:flex;gap:10px;flex-wrap:wrap'>" +
-      "<a href='contact.html' class='btn btn-primary'>在线咨询</a>" +
+      (bro.length ? "<a href='" + esc(bro[0].url) + "' class='btn btn-primary' download>彩页下载</a>" : "") +
       "<a href='booking.html' class='btn btn-gold'>预约占位</a>" +
       "</div>" +
       "</div></div>" +
@@ -493,13 +493,13 @@ function calHTML(t, opts){
       "<div class='rp-tab' data-tab='itinerary'>行程安排</div>" +
       "<div class='rp-tab' data-tab='cost'>费用说明</div>" +
       "<div class='rp-tab' data-tab='notes'>参团须知</div>" +
-      "<div class='rp-tab' data-tab='brochure'>彩页下载</div>" +
+      "<!-- <div class='rp-tab' data-tab='brochure'>彩页下载</div> -->" +
       "</div>" +
       "<div class='rp-tab-panel active' data-tab='price'><div class='rp-summary'><div><b>行程天数</b>" + days + " 天</div>" + (price && price !== "待确认" ? "<div><b>起价</b>" + esc(price) + "</div>" : "") + "</div>" + priceHtml + depHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='itinerary'>" + itinHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='cost'>" + costHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='notes'>" + noticeHtml + "</div>" +
-      "<div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div>" +
+      "<!-- 彩页下载panel: 已取消(hero按钮直接下载); 留空备用 <div class='rp-tab-panel' data-tab='brochure'>" + broHtml + "</div> -->" +
       (showFullDetail ? "<div style='padding:18px 24px'><a href='detail.html?id=" + encodeURIComponent(t.id) + "' target='_blank' rel='noopener' class='btn btn-primary' style='width:100%;text-align:center'>查看完整详情页</a></div>" : "") +
       "";
       EtripsHeroSlider.init(box.querySelector('.rp-detail-hero .hero-slider'));
