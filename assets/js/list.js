@@ -48,12 +48,13 @@ function calHTML(t, opts){
     }
     let monthsHtml = '';
     ymList.forEach(([y,m])=>{
-      const days = new Date(y,m+1,0).getDate();
+      const days = new Date(Date.UTC(y,m+1,0)).getUTCDate();
       const lead = (new Date(Date.UTC(y,m,1)).getDay()+6)%7;
       let cells = '';
       for(let i=0;i<lead;i++) cells += '<td class="cal-empty"></td>';
+      let colIdx = lead;  // 累计列数(含前导空格), 用于按7列整齐换行
       for(let d=1;d<=days;d++){
-        const dt = new Date(y,m,d);
+        const dt = new Date(Date.UTC(y,m,d));
         const _ds = y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
         const _isPast = dt < today;        // 过去日期: 不显示为可出发(屏蔽), 仅灰显; 澳新规则型不受影响(规则型本身不含固定过去日)
         const isDep = (hasDates && depSet.has(_ds) && !_isPast) || (hasRule && inRule(y,m,d) && inRange(y,m,d) && !_isPast);
@@ -61,8 +62,10 @@ function calHTML(t, opts){
         if(dt < today) cls += ' cal-past';
         const _clickable = isDep && dt >= today;
         cells += '<td class="'+cls+'"' + (_clickable ? (' onclick="location.href=\'booking.html?tour='+encodeURIComponent(t.id)+'&date='+encodeURIComponent(_ds)+'\'" style="cursor:pointer"') : '') + '>'+d+'</td>';
-        if(dt.getDay()===6) cells += '</tr><tr>';
+        colIdx++;
+        if(colIdx%7===0) cells += '</tr><tr>';  // 每满7列换行(含前导空格), 不再依赖 getDay
       }
+      // 收尾: 最后一行若未填满7列, 补空格 (注: colIdx 已在循环内换行, 此处统计剩余)
       let cnt = (cells.match(/<td/g)||[]).length;
       while(cnt%7!==0){ cells += '<td class="cal-empty"></td>'; cnt++; }
       const mIdx = ymList.findIndex(p=>p[0]===y && p[1]===m);
