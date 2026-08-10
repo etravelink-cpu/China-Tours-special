@@ -439,7 +439,13 @@ function calHTML(t, opts){
         if (ho) foot.push("<span>🏨 " + esc(ho) + "</span>");
         return (
           (_isOneDay
-            ? ""  // 一日游: 不渲染左侧 D1 日数徽标与"第N天"标题
+            ? "<div class='itin-day'>" +  // 一日游: 隐藏左侧 D1 日数徽标与"第N天"标题, 仅保留行程正文
+                "<div class='d-body' style='margin-left:0'>" +
+                  (overview ? "<div class='d-overview'>" + esc(overview).replace(/\n/g, "<br>") + "</div>" : "") +
+                  (spots.length ? "<div class='d-spots'>" + spots.map(esc).join("　") + "</div>" : "") +
+                  (foot.length ? "<div class='d-foot'>" + foot.join("") + "</div>" : "") +
+                "</div>" +
+              "</div>"
             : "<div class='itin-day'>" +
               "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
               (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
