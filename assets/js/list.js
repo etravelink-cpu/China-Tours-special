@@ -423,6 +423,7 @@ function calHTML(t, opts){
         "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（出发日已高亮，库存随时变化，下单前请二次确认）</p>" +
         _cal + "</div>";
     }
+    const _isOneDay = (t.itinerary || []).length === 1;  // 一日游: 隐藏 D1 日数徽标与"第N天"标题
     const itin = (t.itinerary || [])
       .map((d) => {
         const zh = lang === "zh";
@@ -437,16 +438,18 @@ function calHTML(t, opts){
         if (me) foot.push("<span>🍽 " + esc(me) + "</span>");
         if (ho) foot.push("<span>🏨 " + esc(ho) + "</span>");
         return (
-          "<div class='itin-day'>" +
-            "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
-            (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
-            "</div>" +
-            "<div class='d-body'>" +
-              (overview ? "<div class='d-overview'>" + esc(overview).replace(/\n/g, "<br>") + "</div>" : "") +
-              (spots.length ? "<div class='d-spots'>" + spots.map(esc).join("　") + "</div>" : "") +
-              (foot.length ? "<div class='d-foot'>" + foot.join("") + "</div>" : "") +
-            "</div>" +
-          "</div>"
+          (_isOneDay
+            ? ""  // 一日游: 不渲染左侧 D1 日数徽标与"第N天"标题
+            : "<div class='itin-day'>" +
+              "<div class='d-side'><div class='d-no'>" + esc(d.d) + "</div>" +
+              (theme ? "<div class='d-theme'>" + esc(theme) + "</div>" : "") +
+              "</div>" +
+              "<div class='d-body'>" +
+                (overview ? "<div class='d-overview'>" + esc(overview).replace(/\n/g, "<br>") + "</div>" : "") +
+                (spots.length ? "<div class='d-spots'>" + spots.map(esc).join("　") + "</div>" : "") +
+                (foot.length ? "<div class='d-foot'>" + foot.join("") + "</div>" : "") +
+              "</div>" +
+              "</div>")
         );
       })
       .join("");
