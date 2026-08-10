@@ -423,7 +423,7 @@ function calHTML(t, opts){
         "<p style='font-size:12px;color:#8a97a6;margin:0 0 8px'>（出发日已高亮，库存随时变化，下单前请二次确认）</p>" +
         _cal + "</div>";
     }
-    const _isOneDay = (t.itinerary || []).length === 1;  // 一日游: 隐藏 D1 日数徽标与"第N天"标题
+    const _isOneDay = (t.days || 0) === 1;  // 一日游(days=1): 隐藏 D1 日数徽标与"第N天"标题; 多天游(days>=2)保留 D1/D2 模式
     const itin = (t.itinerary || [])
       .map((d) => {
         const zh = lang === "zh";
