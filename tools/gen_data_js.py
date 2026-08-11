@@ -261,7 +261,27 @@ for (code, name, wc1, wc2, wc3, days, cat, itin, cost, status, ov, is_feat, intr
         _sup_h = (_sid[0] if _sid and _sid[0] else spc) or 'UNKNOWN'
         img = ['assets/suppliers/%s/products/%s/%s' % (urllib.parse.quote(_sup_h), urllib.parse.quote(code), urllib.parse.quote(rw[0])) for rw in _hr]
     else:
-        img = 'assets/img/destinations/' + IMG_POOL.get(dk, ['other.jpg'])[0]
+        # 供应商+类别�池 fallback: 只有 FUNT/CM 有�预置�池
+        cat_pool = {
+            'SUP-FUNT': {'纯�玩无�购物团':'纯�玩', '超值特�惠团':'超值', '单门票·单项体验':'其他', '含机票特别�订制团':'其他', '�签证·其他':'其他'},
+            'SUP-CM':   {'纯�玩无�购物团':'纯�玩', '超值特�惠团':'超值', '含机票特别�订制团':'其他', '�签证·其他':'其他'}
+        }
+        _sup = _sid[0] if _sid and _sid[0] else spc
+        _cat = cat or ''
+        pool_cat = cat_pool.get(_sup, {}).get(_cat)
+        hero_pool_dir = None
+        if pool_cat:
+            hero_pool_dir = os.path.join(HERE, '..', 'assets', 'suppliers', _sup, 'hero', pool_cat)
+        if hero_pool_dir and os.path.isdir(hero_pool_dir):
+            pool_files = [f for f in os.listdir(hero_pool_dir) if f.lower().endswith(('.png','.jpg','.jpeg','.webp'))]
+            if pool_files:
+                # 简单轮�询: 用 hash(code) �固定同产品同一张, �避免每次随机
+                idx = hash(code) % len(pool_files)
+                img = 'assets/suppliers/%s/hero/%s/%s' % (urllib.parse.quote(_sup), urllib.parse.quote(pool_cat), urllib.parse.quote(pool_files[idx]))
+            else:
+                img = 'assets/img/destinations/' + IMG_POOL.get(dk, ['other.jpg'])[0]
+        else:
+            img = 'assets/img/destinations/' + IMG_POOL.get(dk, ['other.jpg'])[0]
     price = ('A$%d' % int(ad)) if ad and int(ad) > 0 else '待确认'
     cat_zh = CAT_ZH.get(cat, cat or '')
     cat_en = CAT_EN.get(cat, cat or '')
