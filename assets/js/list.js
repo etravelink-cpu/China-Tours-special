@@ -463,9 +463,18 @@ function calHTML(t, opts){
       ? "<div class='rp-sec'><h4>行程安排</h4>" + itin + "</div>"
       : "";
     const inc = (t.includes || []).filter(Boolean);
-    const costHtml = inc.length
-      ? "<div class='rp-sec'><h4>费用说明</h4><ul class='includes'>" + inc.map((x) => "<li>" + esc(x) + "</li>").join("") + "</ul></div>"
-      : "";
+    const exc = (t.excludes || []).filter(Boolean);
+    const cnote = (t.notes || []).filter(Boolean);
+    let costHtml = "";
+    if (inc.length || exc.length || cnote.length) {
+      costHtml += "<div class='rp-sec'><h4>费用说明</h4>";
+      if (inc.length) costHtml += "<p style='margin:4px 0 2px;font-weight:600'>费用包含</p><ul class='includes'>" + inc.map((x) => "<li>" + esc(x) + "</li>").join("") + "</ul>";
+      if (exc.length) costHtml += "<p style='margin:8px 0 2px;font-weight:600'>费用不含</p><ul class='excludes'>" + exc.map((x) => "<li>" + esc(x) + "</li>").join("") + "</ul>";
+      if (cnote.length) costHtml += "<p style='margin:8px 0 2px;font-weight:600'>其他说明</p><ul class='notes'>" + cnote.map((x) => "<li>" + esc(x) + "</li>").join("") + "</ul>";
+      costHtml += "</div>";
+    } else {
+      costHtml = "";
+    }
     const notice = (t.participationNotice || "").trim();
     const noticeHtml = notice
       ? "<div class='rp-sec'><h4>参团须知</h4><p class='muted' style='white-space:pre-wrap;line-height:1.85'>" + esc(notice) + "</p></div>"
@@ -495,7 +504,7 @@ function calHTML(t, opts){
       "<div class='rp-tab' data-tab='notes'>参团须知</div>" +
       "<!-- <div class='rp-tab' data-tab='brochure'>彩页下载</div> -->" +
       "</div>" +
-      "<div class='rp-tab-panel active' data-tab='price'><div class='rp-summary'><div><b>行程天数</b>" + days + " 天</div>" + (price && price !== "待确认" ? "<div><b>起价</b>" + esc(price) + "</div>" : "") + "</div>" + priceHtml + depHtml + "</div>" +
+      "<div class='rp-tab-panel active' data-tab='price'><div class='rp-summary'><div><b>行程天数</b>" + days + " 天</div>" + (price ? "<div><b>起价</b>" + esc(price) + "</div>" : "") + "</div>" + priceHtml + depHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='itinerary'>" + itinHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='cost'>" + costHtml + "</div>" +
       "<div class='rp-tab-panel' data-tab='notes'>" + noticeHtml + "</div>" +
