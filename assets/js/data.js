@@ -45395,8 +45395,8 @@ window.TOURS = [
   "subRegions": [
    "墨尔本及周边"
   ],
-  "price": "待确认",
-  "priceEn": "待确认",
+  "price": "A$199",
+  "priceEn": "A$199",
   "days": 1,
   "startCity": "墨尔本",
   "tags": [
@@ -45551,7 +45551,19 @@ window.TOURS = [
   "validFrom": "2026-08-13",
   "validTo": "2027-03-31",
   "surchargeNote": "",
-  "priceTable": [],
+  "priceTable": [
+   {
+    "city": "悉尼",
+    "adult": 199.0,
+    "childbed": 199.0,
+    "childnobed": "",
+    "infant": 99.0,
+    "single": "",
+    "transfer": "",
+    "tip": 45.0,
+    "service": ""
+   }
+  ],
   "brochures": [
    {
     "supplier": "SUP-NOVA",
