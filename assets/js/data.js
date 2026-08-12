@@ -45569,6 +45569,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813.pdf",
     "url": "/assets/suppliers/SUP-NOVA/SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813-1.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813-1.pdf"
    }
   ],
   "itinerary": [
