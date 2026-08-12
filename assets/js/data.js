@@ -45555,7 +45555,7 @@ window.TOURS = [
    {
     "city": "悉尼",
     "adult": 199.0,
-    "childbed": 199.0,
+    "childbed": 119.0,
     "childnobed": "",
     "infant": 99.0,
     "single": "",
@@ -45565,21 +45565,6 @@ window.TOURS = [
    }
   ],
   "brochures": [
-   {
-    "supplier": "SUP-NOVA",
-    "file": "SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813.pdf"
-   },
-   {
-    "supplier": "SUP-NOVA",
-    "file": "SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813-1.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813-1.pdf"
-   },
-   {
-    "supplier": "SUP-NOVA",
-    "file": "SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813-2.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/SUP-NOVA-墨尔本模宁顿半岛吉朗码头-20260813-2.pdf"
-   },
    {
     "supplier": "SUP-NOVA",
     "file": "MELMPT_Itinerary.pdf",
