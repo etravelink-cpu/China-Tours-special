@@ -493,7 +493,7 @@ function calHTML(t, opts){
         return _single ? "<div class='detail-single' style='font-size:13px;color:#8a97a6'>单人房差: A$" + esc(_single) + "</div>" : "";
       })() +
       "<div class='rp-detail-actions' style='margin-top:12px;display:flex;gap:10px;flex-wrap:wrap'>" +
-      (bro.length ? "<a href='" + esc(bro[0].url) + "' class='btn btn-primary' download>彩页下载</a>" : "") +
+      (bro.length ? "<a href='" + esc(bro[0].url) + "' class='btn btn-primary' target='_blank' rel='noopener'>彩页下载</a>" : "") +
       "<a href='booking.html' class='btn btn-gold'>预约占位</a>" +
       "</div>" +
       "</div></div>" +
