@@ -2080,6 +2080,51 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-EJP6D",
+  "supplierCode": "EJP6D",
+  "nameZh": "6Days Japan Kanto Kansai Tour",
+  "nameEn": "6Days Japan Kanto Kansai Tour",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
+  "category": "英文专线",
+  "subRegion": "亚洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "亚洲其他"
+  ],
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 6,
+  "startCity": "",
+  "tags": [
+   "英文专线"
+  ],
+  "tagsEn": [
+   "English Tour"
+  ],
+  "img": "assets/img/destinations/asia.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "SUP-CM-0198",
   "supplierCode": "NGSM0626",
   "nameZh": "2026 新加坡马来西亚6天 （超值）",
@@ -3654,6 +3699,51 @@ window.TOURS = [
   "featured": false
  },
  {
+  "id": "Nova-EJP8D",
+  "supplierCode": "EJP8D",
+  "nameZh": "nights Japan Kanto Kansai & Hiroshima Tour",
+  "nameEn": "nights Japan Kanto Kansai & Hiroshima Tour",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
+  "category": "英文专线",
+  "subRegion": "亚洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "亚洲其他"
+  ],
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 8,
+  "startCity": "",
+  "tags": [
+   "英文专线"
+  ],
+  "tagsEn": [
+   "English Tour"
+  ],
+  "img": "assets/img/destinations/asia.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
   "id": "SUP-CM-0200",
   "supplierCode": "SGTW0826",
   "nameZh": "2026 台湾环岛8日 （超值）",
@@ -4463,6 +4553,51 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-FUNT/FTVN6SGN5aud.pdf"
    }
   ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false
+ },
+ {
+  "id": "Nova-EJPK10D",
+  "supplierCode": "EJPK10D",
+  "nameZh": "10 Days Japan Kanto Kansai & Korea Tour",
+  "nameEn": "10 Days Japan Kanto Kansai & Korea Tour",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
+  "category": "英文专线",
+  "subRegion": "亚洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "亚洲其他"
+  ],
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 10,
+  "startCity": "",
+  "tags": [
+   "英文专线"
+  ],
+  "tagsEn": [
+   "English Tour"
+  ],
+  "img": "assets/img/destinations/asia.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [],
+  "brochures": [],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -45433,51 +45568,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "Nova-EJP6D",
-  "supplierCode": "EJP6D",
-  "nameZh": "6Days Japan Kanto Kansai Tour",
-  "nameEn": "6Days Japan Kanto Kansai Tour",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "英文专线",
-  "subRegion": "其他",
-  "seasonTag": "",
-  "subRegions": [
-   "其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 6,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "PV-EPB6",
   "supplierCode": "EPB6",
   "nameZh": "探秘不丹朝圣之旅 6日[纯玩]",
@@ -45541,51 +45631,6 @@ window.TOURS = [
   "featured": false
  },
  {
-  "id": "Nova-EJP8D",
-  "supplierCode": "EJP8D",
-  "nameZh": "nights Japan Kanto Kansai & Hiroshima Tour",
-  "nameEn": "nights Japan Kanto Kansai & Hiroshima Tour",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "英文专线",
-  "subRegion": "其他",
-  "seasonTag": "",
-  "subRegions": [
-   "其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 8,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
   "id": "PV-FTCMN8",
   "supplierCode": "FTCMN8",
   "nameZh": "神秘摩洛哥 风情 8天[纯玩]",
@@ -45638,51 +45683,6 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-PV/Mysterious-Morocco--Charming-8-Days_FTCMN8_2026-12-28.pdf"
    }
   ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-EJPK10D",
-  "supplierCode": "EJPK10D",
-  "nameZh": "10 Days Japan Kanto Kansai & Korea Tour",
-  "nameEn": "10 Days Japan Kanto Kansai & Korea Tour",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "英文专线",
-  "subRegion": "其他",
-  "seasonTag": "",
-  "subRegions": [
-   "其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 10,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
   "itinerary": [],
   "hotels": [],
   "includes": [],

@@ -25,9 +25,9 @@ DB = r"D:/Hermes Agent/etrips-universal-db/etrips_product.db"
 JS = os.path.join(HERE, "..", "assets", "js", "data.js")
 
 DEST_KEY = {'中国':'china','亚洲':'asia','澳洲':'australia','新西兰':'nz','欧洲':'europe',
-            '美加':'america','特别':'special','海岛':'island','其他':'other','邮轮':'cruise'}
+            '美加':'america','特别':'special','海岛':'island','其他':'other','邮轮':'cruise','日本':'asia'}
 DK_ZH = {'china':'中国','asia':'亚洲','australia':'澳洲','nz':'新西兰','europe':'欧洲',
-         'america':'美加','special':'特别','island':'海岛','other':'其他','cruise':'邮轮'}
+         'america':'美加','special':'特别','island':'海岛','other':'其他','cruise':'邮轮','japan':'日本'}
 IMG_POOL = {'china':['china.jpg','cn-westlake.jpg','cn-greatwall.jpg'],
             'asia':['asia.jpg','japan.jpg','bali.jpg'],
             'australia':['au-sydney.jpg','au-uluru.jpg','au-apostles.jpg'],
