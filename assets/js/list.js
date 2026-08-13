@@ -194,9 +194,10 @@ function calHTML(t, opts){
         tree["特别订制"]["__sp__"]["__flat__"].push(t);
       }
     };
-    // 中国: 保留类目层(超值特价/纯玩), 子类按 CN_ORDER 固定顺序; 支持跨类目重复(subRegions 数组)
+    // 中国: 保留类目层(超值特价/纯玩/英文专线); 英文专线直接平铺(不分子类); 其余按 CN_ORDER 固定顺序; 支持跨类目重复(subRegions 数组)
     const putCN = (t) => {
       const c = catShort(t.category);
+      if (c === "英文专线") { putSub("中国", c, "__flat__", t); return; }
       const regs = (t.subRegions && t.subRegions.length) ? t.subRegions : (t.subRegion ? [t.subRegion] : []);
       regs.forEach((s) => putSub("中国", c, s, t));
     };
@@ -209,11 +210,13 @@ function calHTML(t, opts){
       tree["欧洲"]["__eu__"][s] = tree["欧洲"]["__eu__"][s] || [];
       tree["欧洲"]["__eu__"][s].push(t);
     };
-    // 亚洲: 保留类目层; 巴厘岛/斐济/海岛其他 不单列, 归并亚洲其他
+    // 亚洲: 保留类目层; 英文专线直接平铺(不分子类); 巴厘岛/斐济/海岛其他 不单列, 归并亚洲其他
     const putAsia = (t) => {
+      const c = catShort(t.category);
+      if (c === "英文专线") { putSub("亚洲", c, "__flat__", t); return; }
       let s = t.subRegion || "亚洲其他";
       if (["巴厘岛", "斐济", "海岛其他"].includes(s)) s = "亚洲其他";
-      putSub("亚洲", catShort(t.category), s, t);
+      putSub("亚洲", c, s, t);
     };
     // 美加: 隐藏类目层; 按地理子类平铺, 机票套餐类归"机票套餐"置后, 方便扩展
     const putNA = (t) => {
@@ -291,6 +294,20 @@ function calHTML(t, opts){
           )
           .join("");
         catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${flatHtml}</div></div>`;
+        return;
+      }
+      // 英文专线类目: 直接全部平铺(不按地区子类分组, 与机票套餐一致)
+      if (c === "英文专线") {
+        const allItems = [];
+        Object.values(subs).forEach((arr) => arr.forEach((t) => allItems.push(t)));
+        allItems.sort((a, b) => (a.days||0)-(b.days||0) || (a.nameZh||'').localeCompare(b.nameZh||'', 'zh'));
+        const flatHtml2 = allItems
+          .map(
+            (t) =>
+              `<div class="rp-route${t.id === activeId ? " active" : ""}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang === "zh" ? t.nameZh : t.nameEn)}</div>`,
+          )
+          .join("");
+        catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${flatHtml2}</div></div>`;
         return;
       }
       const order = subOrder(activeDest);
