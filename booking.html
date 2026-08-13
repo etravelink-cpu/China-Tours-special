@@ -233,6 +233,7 @@
         if(p.itinerary){
           const it = (typeof p.itinerary === 'string') ? JSON.parse(p.itinerary) : p.itinerary;
           if(Array.isArray(it)){
+            const isSingle = it.length <= 1;   // 单日游(一日游)不渲染 D1 天数侧标
             const itinCards = it.slice(0,12).map(function(d){
               const theme = d.titleZh || '';
               const overview = d.descZh || '';
@@ -242,7 +243,7 @@
               if(d.mealZh) foot.push('<span>🍽 '+d.mealZh+'</span>');
               if(d.hotelZh) foot.push('<span>🏨 '+d.hotelZh+'</span>');
               return "<div class='itin-day'>"+
-                "<div class='d-side'><div class='d-no'>"+(d.d||'')+"</div>"+
+                "<div class='d-side'>"+(isSingle?"":("<div class='d-no'>"+(d.d||'')+"</div>"))+
                 (theme?"<div class='d-theme'>"+theme+"</div>":"")+
                 "</div>"+
                 "<div class='d-body'>"+
@@ -326,9 +327,23 @@
       if(remark) lines.push('备注：' + remark);
       const total = document.getElementById('bk-total').textContent;
       lines.push('预估小计：' + total);
-      // 附上产品详情（行程单内容），等效随信附件
+      // 附上产品完整详情（含基础信息与展示出来的行程单），确保邮件含所有内容
       const detailBody = document.getElementById('bk-detail-body');
       if(detailBody && detailBody.children.length){
+        // 先附产品基础信息（从当前产品对象或详情标题取）
+        const tour = (new URLSearchParams(location.search).get('tour') || '');
+        let prod = null;
+        if(tour && window.TOURS){ prod = window.TOURS.find(function(x){ return x.id === tour; }); }
+        if(prod){
+          lines.push('');
+          lines.push('———— 产品信息 ————');
+          if(prod.nameZh || prod.nameEn) lines.push('产品名称：' + (prod.nameZh || prod.nameEn));
+          const loc = [prod.startCity, prod.endCity].filter(Boolean).join(' → ');
+          if(loc) lines.push('起止城市：' + loc);
+          if(prod.durationDays) lines.push('行程天数：' + prod.durationDays + ' 天');
+          const pageUrl = 'https://etrips.com.au/detail.html?tour=' + encodeURIComponent(prod.id || tour);
+          lines.push('产品页：' + pageUrl);
+        }
         lines.push('');
         lines.push('———— 行程单 ————');
         detailBody.querySelectorAll('.rp-sec').forEach(sec=>{
