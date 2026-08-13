@@ -37,9 +37,9 @@ IMG_POOL = {'china':['china.jpg','cn-westlake.jpg','cn-greatwall.jpg'],
             'special':['special.jpg','antarctica.jpg'],
             'island':['island.jpg','fiji.jpg'],'other':['other.jpg'],'cruise':['cruise.jpg']}
 CAT_ZH = {'超值特惠团':'超值特价','超值精品':'超值特价','纯玩无购物团':'纯玩无购物','含机票特别订制团':'机票套餐',
-          '单门票·单项体验':'单门票','签证·其他':'签证'}
+          '单门票·单项体验':'单门票','签证·其他':'签证','英文专线':'英文专线'}
 CAT_EN = {'超值特惠团':'Value','纯玩无购物团':'No-shopping','含机票特别订制团':'Flight-incl',
-          '单门票·单项体验':'Ticket','签证·其他':'Visa'}
+          '单门票·单项体验':'Ticket','签证·其他':'Visa','英文专线':'English Tour'}
 
 conn = sqlite3.connect(DB); c = conn.cursor()
 
@@ -51,11 +51,18 @@ rows = c.execute("""
            (SELECT COALESCE(MIN(Adult_Price_AUD),0) FROM Departure_Pricing WHERE Internal_Product_Code=p.Internal_Product_Code) as ad
     FROM Product_Master p
     WHERE p.Online_Visible=1 AND p.Status='Active'
+    ORDER BY p.Web_Category1
 """).fetchall()
 
 def split_lines(txt):
     if not txt: return []
     return [x.strip() for x in re.split(r'[\n\r]+', txt) if x.strip()]
+
+def days_from_name(name):
+    """从团名解析天数: 匹配 '数字+日/天' (如 '13日' '8天'), 用于 DB 缺天数时的展示/排序兜底。"""
+    if not name: return 0
+    m = re.search(r'(\d+)\s*[日天]', name)
+    return int(m.group(1)) if m else 0
 
 def to_itinerary(txt):
     """Itinerary 文本 -> detail.js 期望的 [{d, titleZh, titleEn, descZh, descEn,
@@ -247,6 +254,9 @@ def derive_subregion(name, dk, category):
 
 tours = []
 for (code, name, wc1, wc2, wc3, days, cat, itin, cost, status, ov, is_feat, intro, notice, spc, start_city, ad) in rows:
+    # 天数兜底: DB 缺天数(NULL/0)时从团名解析(数字+日/天), 用于展示与排序(不改 DB, 可逆)
+    if not days or days <= 0:
+        days = days_from_name(name)
     dk = DEST_KEY.get(wc1, 'other')
     # 内容层修正: 名称含新西兰/南北岛 或 Web_Category1 已标新西兰 的产品, 归回新西兰树(不改 DB, 可逆)
     if '新西兰' in (name or '') or '南北岛' in (name or '') or wc1 == '新西兰':
@@ -425,6 +435,9 @@ for (code, name, wc1, wc2, wc3, days, cat, itin, cost, status, ov, is_feat, intr
     })
 
 conn.close()
+
+# 排序: 同区域(dest)内按天数由小到大; 天数相同按 id 稳定排序(团名解析的天数也参与)
+tours.sort(key=lambda t: (t.get("dest", ""), t.get("days") or 999, t.get("id", "")))
 
 # 写出 data.js
 header = "// Etrips 国安易游 — 产品数据 (由 gen_data_js.py 从 etrips_product.db 自动生成)\n"

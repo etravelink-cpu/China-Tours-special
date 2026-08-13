@@ -126,12 +126,13 @@ function calHTML(t, opts){
   let lang = "zh";
 
   // 类目短名映射(后台 Product_Category 全名 -> 树显示短名)
-  // 前台统一 3 类: 超值特价 / 纯玩无购物 / 机票套餐
+  // 前台统一类目: 超值特价 / 纯玩无购物 / 机票套餐 / 英文专线
   const CAT_SHORT = {
     "超值特惠团": "超值特价",
     "超值精品": "超值特价",
     "纯玩无购物团": "纯玩无购物",
     "含机票特别订制团": "机票套餐",
+    "英文专线": "英文专线",
     "签证·其他": "签证",
     "": "其他",
   };
@@ -273,8 +274,8 @@ function calHTML(t, opts){
     // 子类排序(中国按 CN_ORDER, 欧洲按 EU_ORDER, 亚洲按 ASIA_ORDER, 美加按 NA_ORDER, 澳洲按 AU_ORDER, 其余按插入序)
     const subOrder = (dest) =>
       dest === "中国" ? CN_ORDER : dest === "欧洲" ? EU_ORDER : dest === "亚洲" ? ASIA_ORDER : dest === "美加" ? NA_ORDER : dest === "澳洲" ? AU_ORDER : null;
-    // 类目层排序(超值特价 -> 纯玩无购物 -> 机票套餐 -> 其他)
-    const CAT_ORDER = ["超值特价", "纯玩无购物", "机票套餐", "签证", "其他"];
+    // 类目层排序(超值特价 -> 纯玩无购物 -> 机票套餐 -> 英文专线 -> 其他)
+    const CAT_ORDER = ["超值特价", "纯玩无购物", "机票套餐", "英文专线", "签证", "其他"];
     const catKeys = CAT_ORDER.filter((k) => k in cats).concat(Object.keys(cats).filter((k) => !CAT_ORDER.includes(k)));
     catKeys.forEach((c) => {
       const subs = cats[c];
