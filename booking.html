@@ -124,6 +124,7 @@
       const tour = q.get('tour') || '';
       const route = q.get('route') || '';
       const date = q.get('date') || '';
+      let currentProduct = null;  // 记住当前渲染的产品, 供 buildMsg 复用
       // 优先按 ?tour=ID 从产品库取产品，否则用 ?route= 路线名
       let product = null, routeName = route;
       if(tour && window.TOURS){
@@ -136,6 +137,7 @@
       if(typeof emailjs !== 'undefined'){ try{ emailjs.init('nZv17YnCO1xz5uLPZ'); }catch(e){} }
 
       function renderDetail(routeName, product){
+        currentProduct = product || null;  // 记住当前产品, buildMsg 复用(无需重查)
         const box = document.getElementById('bk-detail');
         const body = document.getElementById('bk-detail-body');
         const titleEl = document.getElementById('bk-detail-title');
@@ -308,7 +310,8 @@
     }
     function buildMsg(){
       const route = document.getElementById('bk-route').value.trim();
-      renderDetail(route); // 提交前按当前路线刷新详情，确保邮件含行程单
+      // 复用当前已在页面渲染的产品(currentProduct), 而非重查, 确保行程单不丢失
+      renderDetail(route, currentProduct);
       const date = document.getElementById('bk-date').value;
       const name = document.getElementById('bk-name').value.trim();
       const phone = document.getElementById('bk-phone').value.trim();
