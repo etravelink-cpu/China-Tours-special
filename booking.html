@@ -350,9 +350,11 @@
         lines.push('');
         lines.push('———— 行程单 ————');
         detailBody.querySelectorAll('.rp-sec').forEach(sec=>{
-          const h = sec.querySelector('h4'); const p = sec.querySelector('p');
+          const h = sec.querySelector('h4');
           if(h) lines.push('\n' + h.textContent);
-          if(p) lines.push(p.textContent.replace(/\s+/g,' ').trim());
+          // 取整个 section 纯文本(含 .itin-day 卡片里的行程描述, 不限于 <p>)
+          const txt = (sec.innerText || sec.textContent || '').replace(/\s+/g,' ').trim();
+          if(txt) lines.push(txt);
         });
       }
       return lines.join('\n');
