@@ -363,7 +363,7 @@
         const loc = [prod.startCity, prod.endCity].filter(Boolean).join(' → ');
         if(loc) lines.push('起止城市：' + loc);
         if(prod.durationDays) lines.push('行程天数：' + prod.durationDays + ' 天');
-        const pageUrl = 'https://etrips.com.au/detail.html?tour=' + encodeURIComponent(prod.id || tour);
+        const pageUrl = 'https://etrips.com.au/detail.html?id=' + encodeURIComponent(prod.id || tour);
         lines.push('产品页：' + pageUrl);
         // 行程单: 直接取产品 itinerary 拼文本(不依赖页面 DOM 渲染时机)
         let it = prod.itinerary;
