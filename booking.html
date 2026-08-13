@@ -332,30 +332,46 @@
       lines.push('预估小计：' + total);
       // 附上产品完整详情（含基础信息与展示出来的行程单），确保邮件含所有内容
       const detailBody = document.getElementById('bk-detail-body');
-      if(detailBody && detailBody.children.length){
-        // 先附产品基础信息（从当前产品对象或详情标题取）
-        const tour = (new URLSearchParams(location.search).get('tour') || '');
-        let prod = null;
-        if(tour && window.TOURS){ prod = window.TOURS.find(function(x){ return x.id === tour; }); }
-        if(prod){
-          lines.push('');
-          lines.push('———— 产品信息 ————');
-          if(prod.nameZh || prod.nameEn) lines.push('产品名称：' + (prod.nameZh || prod.nameEn));
-          const loc = [prod.startCity, prod.endCity].filter(Boolean).join(' → ');
-          if(loc) lines.push('起止城市：' + loc);
-          if(prod.durationDays) lines.push('行程天数：' + prod.durationDays + ' 天');
-          const pageUrl = 'https://etrips.com.au/detail.html?tour=' + encodeURIComponent(prod.id || tour);
-          lines.push('产品页：' + pageUrl);
-        }
+      const tour = (new URLSearchParams(location.search).get('tour') || '');
+      let prod = currentProduct;
+      if(!prod && tour && window.TOURS){ prod = window.TOURS.find(function(x){ return x.id === tour; }); }
+      if(prod){
         lines.push('');
-        lines.push('———— 行程单 ————');
-        detailBody.querySelectorAll('.rp-sec').forEach(sec=>{
-          const h = sec.querySelector('h4');
-          if(h) lines.push('\n' + h.textContent);
-          // 取整个 section 纯文本(含 .itin-day 卡片里的行程描述, 不限于 <p>)
-          const txt = (sec.innerText || sec.textContent || '').replace(/\s+/g,' ').trim();
-          if(txt) lines.push(txt);
-        });
+        lines.push('———— 产品信息 ————');
+        if(prod.nameZh || prod.nameEn) lines.push('产品名称：' + (prod.nameZh || prod.nameEn));
+        const loc = [prod.startCity, prod.endCity].filter(Boolean).join(' → ');
+        if(loc) lines.push('起止城市：' + loc);
+        if(prod.durationDays) lines.push('行程天数：' + prod.durationDays + ' 天');
+        const pageUrl = 'https://etrips.com.au/detail.html?tour=' + encodeURIComponent(prod.id || tour);
+        lines.push('产品页：' + pageUrl);
+        // 行程单: 直接取产品 itinerary 拼文本(不依赖页面 DOM 渲染时机)
+        let it = prod.itinerary;
+        if(typeof it === 'string'){ try{ it = JSON.parse(it); }catch(e){ it = []; } }
+        if(Array.isArray(it) && it.length){
+          lines.push('');
+          lines.push('———— 行程单 ————');
+          if(prod.introZh) lines.push('产品介绍：' + prod.introZh.replace(/\s+/g,' ').trim());
+          it.slice(0,12).forEach(function(d){
+            const head = (d.d ? (d.d + ' ') : '') + (d.titleZh || '');
+            if(head.trim()) lines.push('\n' + head.trim());
+            if(d.descZh) lines.push(d.descZh.replace(/\s+/g,' ').trim());
+            const spots = (d.spotsZh || []);
+            if(spots.length) lines.push('景点：' + spots.join('、'));
+            const foot = [];
+            if(d.transportZh) foot.push('交通：' + d.transportZh);
+            if(d.mealZh) foot.push('餐饮：' + d.mealZh);
+            if(d.hotelZh) foot.push('住宿：' + d.hotelZh);
+            if(foot.length) lines.push(foot.join(' | '));
+          });
+          // 价格明细
+          const pt = prod.priceTable;
+          if(Array.isArray(pt) && pt.length){
+            const lines2 = pt.map(function(r){
+              return [r.city, r.adult, r.childbed, r.childnobed, r.infant, r.single, r.service, r.tip, r.transfer].filter(function(x){return x!==''&&x!=null;}).join(' | ');
+            }).filter(Boolean);
+            if(lines2.length){ lines.push(''); lines.push('价格明细：'); lines2.forEach(function(l){ lines.push(l); }); }
+          }
+        }
       }
       return lines.join('\n');
     }
