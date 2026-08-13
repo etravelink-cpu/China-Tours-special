@@ -35,6 +35,17 @@
     .bk-detail-body .rp-sec p,.bk-detail-body .rp-sec li{color:#444;font-size:14px;line-height:1.7}
     .bk-detail-empty{color:#999;font-size:13px;text-align:center;padding:10px 0}
     .bk-cal{margin-top:10px}
+    /* 行程卡片与产品详情页一致: 蓝底竖条天数 + 白底行程 */
+    .itin-day{display:flex;gap:0;margin-bottom:14px;border:1px solid #e6eef5;border-radius:10px;overflow:hidden;background:#fff}
+    .itin-day .d-side{flex:0 0 110px;background:linear-gradient(160deg,#1B9FE0,#0E7DB8);color:#fff;padding:16px 12px;display:flex;flex-direction:column;justify-content:center;text-align:center}
+    .itin-day .d-side .d-no{font-size:22px;font-weight:800;line-height:1}
+    .itin-day .d-side .d-theme{font-size:12.5px;margin-top:6px;opacity:.92;line-height:1.4}
+    .itin-day .d-body{flex:1;padding:14px 16px;min-width:0}
+    .itin-day .d-overview{font-size:14px;color:#333;line-height:1.7;margin-bottom:8px;white-space:pre-wrap}
+    .itin-day .d-spots{font-size:13.5px;color:#0E7DB8;font-weight:600;margin-bottom:8px}
+    .itin-day .d-spots::before{content:"● ";color:#F09018}
+    .itin-day .d-foot{display:flex;flex-wrap:wrap;gap:10px 18px;padding-top:8px;border-top:1px dashed #e6eef5;font-size:13px;color:#888}
+    .itin-day .d-foot span{display:inline-flex;align-items:center;gap:5px}
     @media(max-width:760px){.bk-actions{flex-direction:column}}
   </style>
 </head>
@@ -235,7 +246,7 @@
         if(p.itinerary){
           const it = (typeof p.itinerary === 'string') ? JSON.parse(p.itinerary) : p.itinerary;
           if(Array.isArray(it)){
-            const isSingle = it.length <= 1;   // 单日游(一日游)不渲染 D1 天数侧标
+            const isSingle = it.length <= 1;   // 单日游(一日游)隐藏左侧蓝条(与详情页 list.js 一致)
             const itinCards = it.slice(0,12).map(function(d){
               const theme = d.titleZh || '';
               const overview = d.descZh || '';
@@ -244,8 +255,18 @@
               if(d.transportZh) foot.push('<span>🚗 '+d.transportZh+'</span>');
               if(d.mealZh) foot.push('<span>🍽 '+d.mealZh+'</span>');
               if(d.hotelZh) foot.push('<span>🏨 '+d.hotelZh+'</span>');
+              if(isSingle){
+                // 一日游: 仅行程正文, 不渲染左侧蓝条(与详情页一致)
+                return "<div class='itin-day'>"+
+                  "<div class='d-body' style='flex:1 1 100%'>"+
+                    (overview?"<div class='d-overview'>"+overview.replace(/\n/g,'<br>')+"</div>":"")+
+                    (spots.length?"<div class='d-spots'>"+spots.join('　')+"</div>":"")+
+                    (foot.length?"<div class='d-foot'>"+foot.join('')+"</div>":"")+
+                  "</div>"+
+                "</div>";
+              }
               return "<div class='itin-day'>"+
-                "<div class='d-side'>"+(isSingle?"":("<div class='d-no'>"+(d.d||'')+"</div>"))+
+                "<div class='d-side'><div class='d-no'>"+(d.d||'')+"</div>"+
                 (theme?"<div class='d-theme'>"+theme+"</div>":"")+
                 "</div>"+
                 "<div class='d-body'>"+
