@@ -364,7 +364,9 @@
         if(loc) lines.push('起止城市：' + loc);
         if(prod.durationDays) lines.push('行程天数：' + prod.durationDays + ' 天');
         const pageUrl = 'https://etrips.com.au/detail.html?id=' + encodeURIComponent(prod.id || tour);
-        lines.push('产品页：' + pageUrl);
+        lines.push('');
+        lines.push('产品页链接: ' + pageUrl);
+        lines.push('');
         // 行程单: 直接取产品 itinerary 拼文本(不依赖页面 DOM 渲染时机)
         let it = prod.itinerary;
         if(typeof it === 'string'){ try{ it = JSON.parse(it); }catch(e){ it = []; } }
@@ -431,14 +433,18 @@
       const rows = document.querySelectorAll('#bk-pax .bk-pax');
       let pax = [];
       rows.forEach(r=>{ const n=parseInt(r.querySelector('input').value,10)||0; if(n>0) pax.push(r.getAttribute('data-type')+'×'+n); });
+      // 现算产品页链接, 作为独立变量传给 EmailJS(后台template可做超链接)
+      const tourId2 = (new URLSearchParams(location.search).get('tour') || '');
+      let pUrl = '';
+      if(tourId2){ pUrl = 'https://etrips.com.au/detail.html?id=' + encodeURIComponent(tourId2); }
       try {
         emailjs.send(EMAILJS.serviceID, EMAILJS.templateID, {
           route: route, date: date, name: name, phone: phone, email: email, remark: remark,
-          pax: pax.join('，'), body: body
+          pax: pax.join('，'), body: body, productUrl: pUrl
         }).then(()=>{
           if(email && EMAILJS.autoReplyID){
             emailjs.send(EMAILJS.serviceID, EMAILJS.autoReplyID, {
-              name: name, email: email, body: body, route: route, date: date
+              name: name, email: email, body: body, route: route, date: date, productUrl: pUrl
             }).catch(()=>{});
           }
           tip.style.color='#1aa06b'; tip.textContent='预订请求已发送！行程单已随邮件送达，客服将尽快与您确认余位与价格（可扫码添加微信）。';
