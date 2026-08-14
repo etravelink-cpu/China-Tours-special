@@ -4858,10 +4858,12 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/asia.jpg",
+  "img": [
+   "assets/suppliers/SUP-CM/products/SUP-CM-0203/SUP-CM-0203_hero.jpg"
+  ],
   "introZh": "",
   "introEn": "",
-  "participationNotice": "",
+  "participationNotice": "酒店资料（仅供参考，以最终确认书为淮）",
   "departureDates": [
    {
     "date": "2026-03-01",
@@ -5000,7 +5002,7 @@ window.TOURS = [
     "childnobed": 1498.0,
     "infant": "",
     "single": 1200.0,
-    "transfer": "",
+    "transfer": 150.0,
     "tip": "",
     "service": 300.0
    }
@@ -5014,7 +5016,17 @@ window.TOURS = [
   ],
   "itinerary": [],
   "hotels": [],
-  "includes": [],
+  "includes": [
+   "抵达城市和接机资讯",
+   "東京成田機場（NRT)：搭乘酒店穿梭巴士服務前往酒店",
+   "東京羽田機場(HND)：14:00和19:00安排接機從機場出發前往酒店",
+   "离开城市和送机资讯",
+   "札幌机场（CTS），早上8:00酒店出发送往机场。",
+   "自费专案（需保证参加，儿童与成人同价）",
+   "淺草雷門觀音寺+水上巴士船遊東京+溫泉料理+金閣寺+登別地獄穀+昭和新山熊牧場+洞爺湖+白色戀人巧克力工廠(入內)+大阪札幌經濟艙機票（含20KG行李額）：USD700（CAD1000/AUD1100)",
+   "当地推荐景点（隆重推荐，自费参加）",
+   "酒店资料（仅供参考，以最终确认书为淮）"
+  ],
   "includesEn": [],
   "excludes": [],
   "excludesEn": [],
