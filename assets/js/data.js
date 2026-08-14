@@ -2100,52 +2100,6 @@ window.TOURS = [
   "forder": 0
  },
  {
-  "id": "Nova-EJP6D",
-  "supplierCode": "EJP6D",
-  "nameZh": "6Days Japan Kanto Kansai Tour",
-  "nameEn": "6Days Japan Kanto Kansai Tour",
-  "dest": "asia",
-  "destZh": "亚洲",
-  "destEn": "asia",
-  "category": "英文专线",
-  "subRegion": "亚洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "亚洲其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 6,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/asia.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
   "id": "SUP-CM-0198",
   "supplierCode": "NGSM0626",
   "nameZh": "2026 新加坡马来西亚6天 （超值）",
@@ -3682,52 +3636,6 @@ window.TOURS = [
   "forder": 0
  },
  {
-  "id": "Nova-EJP8D",
-  "supplierCode": "EJP8D",
-  "nameZh": "nights Japan Kanto Kansai & Hiroshima Tour",
-  "nameEn": "nights Japan Kanto Kansai & Hiroshima Tour",
-  "dest": "asia",
-  "destZh": "亚洲",
-  "destEn": "asia",
-  "category": "英文专线",
-  "subRegion": "亚洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "亚洲其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 8,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/asia.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
   "id": "SUP-CM-0200",
   "supplierCode": "SGTW0826",
   "nameZh": "2026 台湾环岛8日 （超值）",
@@ -3933,52 +3841,6 @@ window.TOURS = [
     "url": "/assets/suppliers/SUP-CM/FLYER-SGTW0826-AUD.pdf"
    }
   ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
-  "id": "Nova-ESMT9D",
-  "supplierCode": "ESMT9D",
-  "nameZh": "9 Days Singapore Malaysia Bangkok Tour 2026",
-  "nameEn": "9 Days Singapore Malaysia Bangkok Tour 2026",
-  "dest": "asia",
-  "destZh": "亚洲",
-  "destEn": "asia",
-  "category": "英文专线",
-  "subRegion": "亚洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "亚洲其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/asia.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -9963,6 +9825,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "SYDBMS_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/SYDBMS_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDBMS.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMS.pdf"
    }
   ],
   "itinerary": [
@@ -11994,6 +11861,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "SYDBMTS_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/SYDBMTS_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDBMTS.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDBMTS.pdf"
    }
   ],
   "itinerary": [
@@ -12706,6 +12578,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "SYDHUN_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/SYDHUN_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDHUN.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDHUN.pdf"
    }
   ],
   "itinerary": [
@@ -13281,6 +13158,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "SYDPST_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/SYDPST_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYDPST.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYDPST.pdf"
    }
   ],
   "itinerary": [
@@ -17101,6 +16983,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "TAS_aurora_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "TAS3DT.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS3DT.pdf"
    }
   ],
   "itinerary": [
@@ -19019,6 +18906,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "SYD4D_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/SYD4D_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "SYD4D.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/SYD4D.pdf"
    }
   ],
   "itinerary": [
@@ -19110,6 +19002,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "TAS_aurora_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "TAS4DT.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS4DT.pdf"
    }
   ],
   "itinerary": [
@@ -19913,6 +19810,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "TAS_aurora_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/TAS_aurora_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "TAS5DT.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS5DT.pdf"
    }
   ],
   "itinerary": [
@@ -20052,7 +19954,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "TAS5DTS.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS5DTS.pdf"
+   }
+  ],
   "itinerary": [
    {
     "d": "D1",
@@ -21079,7 +20987,13 @@ window.TOURS = [
     "service": 0.0
    }
   ],
-  "brochures": [],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "TAS6DT.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/TAS6DT.pdf"
+   }
+  ],
   "itinerary": [
    {
     "d": "D1",
@@ -30574,50 +30488,6 @@ window.TOURS = [
   "forder": 0
  },
  {
-  "id": "Nova-BXS8D",
-  "supplierCode": "BXS8D",
-  "nameZh": "8 Days Grand China Beijing+Xian+Shanghai 2026",
-  "nameEn": "8 Days Grand China Beijing+Xian+Shanghai 2026",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "英文专线",
-  "subRegion": "",
-  "seasonTag": "",
-  "subRegions": [],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 8,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
   "id": "SUP-CM-0007",
   "supplierCode": "CM-0007",
   "nameZh": "2026 穿越胡杨林 喀什南疆秘境 8 日（金秋特别团） （超值）",
@@ -32128,50 +31998,6 @@ window.TOURS = [
   "forder": 0
  },
  {
-  "id": "Nova-EGQ9D",
-  "supplierCode": "EGQ9D",
-  "nameZh": "9 Days Journey Through Gansu and Qinghai",
-  "nameEn": "9 Days Journey Through Gansu and Qinghai",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "英文专线",
-  "subRegion": "",
-  "seasonTag": "",
-  "subRegions": [],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
   "id": "SUP-CM-0028",
   "supplierCode": "CM-0028",
   "nameZh": "2026 深坑洲际，黄山千岛湖9日 （超值）",
@@ -33524,50 +33350,6 @@ window.TOURS = [
    "AUD 680",
    "●提前或續住酒店AUD118房/晚，額外接/送機AUD45/人/趟(2人起);"
   ],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
-  "id": "Nova-ENJ10D10",
-  "supplierCode": "ENJ10D10",
-  "nameZh": "Day In Depth Southern Xinjiang Journey",
-  "nameEn": "Day In Depth Southern Xinjiang Journey",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "英文专线",
-  "subRegion": "",
-  "seasonTag": "",
-  "subRegions": [],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 10,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
   "includesEn": [],
   "excludes": [],
   "excludesEn": [],
@@ -37809,50 +37591,6 @@ window.TOURS = [
    "AUD 890/990",
    "提前或绩住酒店：AUD178房/晚，额外接/送棚AUD45/人/跑(2人起："
   ],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
-  "id": "Nova-XCYS12D",
-  "supplierCode": "XCYS12D",
-  "nameZh": "B 12 Days Beijing Xi'an Chongqing Yangtze River S",
-  "nameEn": "B 12 Days Beijing Xi'an Chongqing Yangtze River S",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "英文专线",
-  "subRegion": "",
-  "seasonTag": "",
-  "subRegions": [],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 12,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
   "includesEn": [],
   "excludes": [],
   "excludesEn": [],
@@ -42301,50 +42039,6 @@ window.TOURS = [
   "forder": 0
  },
  {
-  "id": "Nova-DC9D",
-  "supplierCode": "DC9D",
-  "nameZh": "China Discovery Super Value",
-  "nameEn": "China Discovery Super Value",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "英文专线",
-  "subRegion": "",
-  "seasonTag": "",
-  "subRegions": [],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false,
-  "forder": 0
- },
- {
   "id": "PV-EU01",
   "supplierCode": "EU01",
   "nameZh": "欧洲任你行-东欧璀璨9天 (捷克、斯洛伐克、匈牙利、奥地利、瑞士、德国)[纯玩]",
@@ -43736,6 +43430,11 @@ window.TOURS = [
     "supplier": "SUP-NOVA",
     "file": "nzs7d23_brochure.pdf",
     "url": "/assets/suppliers/SUP-NOVA/nzs7d23_brochure.pdf"
+   },
+   {
+    "supplier": "SUP-NOVA",
+    "file": "nzs7d23.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/nzs7d23.pdf"
    }
   ],
   "itinerary": [
@@ -46907,52 +46606,6 @@ window.TOURS = [
   "notesEn": [],
   "featured": true,
   "forder": 8
- },
- {
-  "id": "Nova-EJPK10D",
-  "supplierCode": "EJPK10D",
-  "nameZh": "10 Days Japan Kanto Kansai & Korea Tour",
-  "nameEn": "10 Days Japan Kanto Kansai & Korea Tour",
-  "dest": "asia",
-  "destZh": "亚洲",
-  "destEn": "asia",
-  "category": "英文专线",
-  "subRegion": "亚洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "亚洲其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 10,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/asia.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true,
-  "forder": 9
  }
 ];
 window.REVIEWS = [
