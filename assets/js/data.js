@@ -63,7 +63,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-HA6",
@@ -126,7 +127,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-APMCMEG",
@@ -189,7 +191,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-DCSEY8",
@@ -252,7 +255,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-JSB8",
@@ -315,7 +319,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-MIAMC08",
@@ -378,7 +383,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-JSBY11",
@@ -441,7 +447,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-USAEW14D",
@@ -504,278 +511,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
- },
- {
-  "id": "SUP-NOVA-0179",
-  "supplierCode": "GALAMZ",
-  "nameZh": "GALAMZ【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】",
-  "nameEn": "GALAMZ【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】",
-  "dest": "america",
-  "destZh": "美加",
-  "destEn": "america",
-  "category": "含机票特别订制团",
-  "subRegion": "美加其他",
-  "seasonTag": "",
-  "subRegions": [
-   "美加其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 14,
-  "startCity": "悉尼",
-  "tags": [
-   "机票套餐"
-  ],
-  "tagsEn": [
-   "Flight-incl"
-  ],
-  "img": [
-   "assets/suppliers/SUP-NOVA/products/SUP-NOVA-0179/SUP-NOVA-0179_hero_1.jpg",
-   "assets/suppliers/SUP-NOVA/products/SUP-NOVA-0179/SUP-NOVA-0179_hero.jpg"
-  ],
-  "introZh": "世界极致 · 加拉帕戈斯与亚马逊的双重奇境\r\nTour ID:  GALAMZ\r\n【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】\r\n当世界上所有海岛都开始趋同, 唯有加拉帕戈斯仍然像一部“正在上演的地球史前篇章”——蓝脚鲣鸟、海鬣蜥、巨龟, 与人类零距离共存的地方.\r\n\r\n而在安第斯山脉的另一侧, 亚马逊深处的云雾雨林, 正悄悄守护着地球最后的原始呼吸. 树冠之上, 金刚鹦鹉划过天空；河道深处, 粉红海豚在黄昏里跃动.\r\n——————————————————————————————————\r\n2027, 我们以真正的 “奢华探索方式”\r\n带你进入世界自然遗产的双巅峰: Galápagos + Amazon.\r\n【加拉帕戈斯·海上5天｜独家包船 · 私享航线】\r\n我们以 整船包船的形式独享, 意味着——\r\n只有我们的团队, 只有我们决定航程的节奏, 没有陌生旅客, 没有噪音打扰, 整艘船就是一个漂浮在太平洋上的“私人生态研究站”.\r\n有限的船舱与精英自然学家团队, 确保最佳登陆时间、最纯粹的近距离观察、以及真正属于自己团队的亲密节奏.\r\n每天醒来, 都在另一座无人岛前；每天上岸, 都像踏入达尔文的手稿.\r\n——这不是跟团游, 而是一场 真正的私享级探索航行——\r\n【亚马逊·Sacha Lodge 雨林3晚】\r\n✔ 雨林吊桥、树冠探险、独木舟秘境溯源、夜行观生态.\r\n✔ 住进雨林, 却拥有超高舒适度的私人小屋.\r\n✔ 这是世界上最安全、最稀有、也最迷人的亚马逊体验之一.\r\n—— —— ——\r\n【为什么这趟旅程如此特别？】\r\n✔ 以最小疲劳度串起两个“地球级目的地”\r\n✔ 一次体验海岛生态 + 热带雨林两大系统\r\n✔ 加拉帕戈斯全船包船: 稀缺、尊享、安全、沉浸\r\n✔ 精选航线 5 天深度登陆, 节奏完全掌握在我们手中\r\n✔ 雨林 lodge 享受级设施, 不牺牲舒适\r\n✔ 罕见的 2in1 组合, 只适合真正热爱自然与冒险的旅行者\r\n—— —— ——\r\n【适合什么样的你？】\r\n✔ 已经去过世界多数海岛, 渴望“真正独特”的风景\r\n✔ 喜欢动物、自然纪录片、BBC Earth\r\n✔ 追求高端小团、轻探险、不赶场\r\n✔ 想要一段别人无法复制的海陆双奇境\r\n✔ 想让旅程更像“人生体验”而非“行程安排”\r\n—— —— ——\r\n【这是你人生清单里, 会永远记住的一次旅行】\r\nGalápagos 的一切, 是地球给予的惊叹；Amazon 的一切, 是自然给予的震撼.\r\n我们会带你去看——那些只有在电影与纪录片里才会出现的场景, 真实地发生在眼前.\r\n—— —— ——\r\n✔ 我们独家包下精品双体帆船\r\n✔ 这类船型船舱少、船员精、机动性强, 意味着整个加拉帕戈斯海域的节奏完全由我们自己掌控. 与大型邮轮不同, 双体帆船能更靠近生态栖息地, 让上岸距离更短、观察更近、体验更私密.\r\n✔ 全船仅8间客舱, 每间独立卫浴\r\n✔ 全船空调｜热带航区依然保持舒适\r\n✔ 宽阔日光甲板｜航行、观景、随时看海豚跃动\r\n✔ 海景 Jacuzzi｜在太平洋中央泡温泉、看火山岛日落\r\n✔ 船上厨师团队｜每日鲜食料理与轻食补给\r\n✔ 安静的双体帆船结构｜更贴近动物、不惊扰自然\r\n✔ 船上由持证自然学家带领我们登陆各岛, 中文领队随行补充讲解, 让每一次探索都“看得见、听得懂、记得住”.\r\n\r\n***由于房间有限且床型不同, 您将在报名时指定房间, 我们将为您保留24小时, 逾期未付订金则取消预定(拼房无法指定, 恕不接受单人船舱).\r\n——————————————————————————————————\r\n【 Live the Amazon · Elegantly ｜体验亚马逊最优雅的方式】\r\n—— 当薄雾升起、湖面静止、雨林开始轻轻呼吸时, 你会明白——这里值得亲眼看见, 也值得被珍藏. ——\r\nSacha Lodge 坐落于超过 5,000 英亩受保护的原始雨林中心, 是全球最受推崇的亚马逊生态旅宿之一. 木质小屋隐于森林深处, 配备独立卫浴、电力与舒适寝具, 让你在亚马逊也能真正安睡.\r\n\r\n以四种方式观察雨林的生命层次——\r\n【 Forest · Canopy · Water · Night ｜树冠 · 湖泊 · 夜行 · 独木舟】\r\n—— —— —— —— —— ——\r\n★树冠探索(Canopy Walk · 275m) --- 60%-90% 的雨林生命栖息在树冠层. 走在空中步道上, 你与鹦鹉、巨嘴鸟、猴群几乎平行.\r\n★静谧湖泊(Pilchicocha Lagoon) --- 以独木舟穿行镜面般的湖面,\r\n★森林步道(Rainforest Trails) --- 自然学家带你识别药用植物、昆虫奇观与动物足迹.\r\n★雨林夜行(Night Walk) --- 聆听夜间森林的呼吸: 树蛙、昆虫、夜行鸟、荧光真菌.\r\n【Wildlife · 亚马逊的生命图鉴】 --- Sacha 区域已记录 580+ 种鸟类, 是全球观鸟密度最高区域之一\r\n—— —— —— —— —— ——\r\n常见生态亮点包括:\r\n· 虎猫、小型猴群、巨獭(Giant Otter)\r\n· 犀鸟、巨嘴鸟、军舰鸟、翠鸟\r\n· 树蛙、树懒、鬣蜥、亚马逊水母\r\n· 近距离观察无毒蛇类与昆虫世界\r\n——每一次独木舟滑行、每一次树冠停步, 都是与雨林系统直接对话的瞬间.——\r\n\r\n【由自然学家带领 · 中文领队随行】\r\n每日活动由 Sacha 专业自然学家带队, 让雨林中的每一次发现都真正被理解.",
-  "introEn": "世界极致 · 加拉帕戈斯与亚马逊的双重奇境\r\nTour ID:  GALAMZ\r\n【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】\r\n当世界上所有海岛都开始趋同, 唯有加拉帕戈斯仍然像一部“正在上演的地球史前篇章”——蓝脚鲣鸟、海鬣蜥、巨龟, 与人类零距离共存的地方.\r\n\r\n而在安第斯山脉的另一侧, 亚马逊深处的云雾雨林, 正悄悄守护着地球最后的原始呼吸. 树冠之上, 金刚鹦鹉划过天空；河道深处, 粉红海豚在黄昏里跃动.\r\n——————————————————————————————————\r\n2027, 我们以真正的 “奢华探索方式”\r\n带你进入世界自然遗产的双巅峰: Galápagos + Amazon.\r\n【加拉帕戈斯·海上5天｜独家包船 · 私享航线】\r\n我们以 整船包船的形式独享, 意味着——\r\n只有我们的团队, 只有我们决定航程的节奏, 没有陌生旅客, 没有噪音打扰, 整艘船就是一个漂浮在太平洋上的“私人生态研究站”.\r\n有限的船舱与精英自然学家团队, 确保最佳登陆时间、最纯粹的近距离观察、以及真正属于自己团队的亲密节奏.\r\n每天醒来, 都在另一座无人岛前；每天上岸, 都像踏入达尔文的手稿.\r\n——这不是跟团游, 而是一场 真正的私享级探索航行——\r\n【亚马逊·Sacha Lodge 雨林3晚】\r\n✔ 雨林吊桥、树冠探险、独木舟秘境溯源、夜行观生态.\r\n✔ 住进雨林, 却拥有超高舒适度的私人小屋.\r\n✔ 这是世界上最安全、最稀有、也最迷人的亚马逊体验之一.\r\n—— —— ——\r\n【为什么这趟旅程如此特别？】\r\n✔ 以最小疲劳度串起两个“地球级目的地”\r\n✔ 一次体验海岛生态 + 热带雨林两大系统\r\n✔ 加拉帕戈斯全船包船: 稀缺、尊享、安全、沉浸\r\n✔ 精选航线 5 天深度登陆, 节奏完全掌握在我们手中\r\n✔ 雨林 lodge 享受级设施, 不牺牲舒适\r\n✔ 罕见的 2in1 组合, 只适合真正热爱自然与冒险的旅行者\r\n—— —— ——\r\n【适合什么样的你？】\r\n✔ 已经去过世界多数海岛, 渴望“真正独特”的风景\r\n✔ 喜欢动物、自然纪录片、BBC Earth\r\n✔ 追求高端小团、轻探险、不赶场\r\n✔ 想要一段别人无法复制的海陆双奇境\r\n✔ 想让旅程更像“人生体验”而非“行程安排”\r\n—— —— ——\r\n【这是你人生清单里, 会永远记住的一次旅行】\r\nGalápagos 的一切, 是地球给予的惊叹；Amazon 的一切, 是自然给予的震撼.\r\n我们会带你去看——那些只有在电影与纪录片里才会出现的场景, 真实地发生在眼前.\r\n—— —— ——\r\n✔ 我们独家包下精品双体帆船\r\n✔ 这类船型船舱少、船员精、机动性强, 意味着整个加拉帕戈斯海域的节奏完全由我们自己掌控. 与大型邮轮不同, 双体帆船能更靠近生态栖息地, 让上岸距离更短、观察更近、体验更私密.\r\n✔ 全船仅8间客舱, 每间独立卫浴\r\n✔ 全船空调｜热带航区依然保持舒适\r\n✔ 宽阔日光甲板｜航行、观景、随时看海豚跃动\r\n✔ 海景 Jacuzzi｜在太平洋中央泡温泉、看火山岛日落\r\n✔ 船上厨师团队｜每日鲜食料理与轻食补给\r\n✔ 安静的双体帆船结构｜更贴近动物、不惊扰自然\r\n✔ 船上由持证自然学家带领我们登陆各岛, 中文领队随行补充讲解, 让每一次探索都“看得见、听得懂、记得住”.\r\n\r\n***由于房间有限且床型不同, 您将在报名时指定房间, 我们将为您保留24小时, 逾期未付订金则取消预定(拼房无法指定, 恕不接受单人船舱).\r\n——————————————————————————————————\r\n【 Live the Amazon · Elegantly ｜体验亚马逊最优雅的方式】\r\n—— 当薄雾升起、湖面静止、雨林开始轻轻呼吸时, 你会明白——这里值得亲眼看见, 也值得被珍藏. ——\r\nSacha Lodge 坐落于超过 5,000 英亩受保护的原始雨林中心, 是全球最受推崇的亚马逊生态旅宿之一. 木质小屋隐于森林深处, 配备独立卫浴、电力与舒适寝具, 让你在亚马逊也能真正安睡.\r\n\r\n以四种方式观察雨林的生命层次——\r\n【 Forest · Canopy · Water · Night ｜树冠 · 湖泊 · 夜行 · 独木舟】\r\n—— —— —— —— —— ——\r\n★树冠探索(Canopy Walk · 275m) --- 60%-90% 的雨林生命栖息在树冠层. 走在空中步道上, 你与鹦鹉、巨嘴鸟、猴群几乎平行.\r\n★静谧湖泊(Pilchicocha Lagoon) --- 以独木舟穿行镜面般的湖面,\r\n★森林步道(Rainforest Trails) --- 自然学家带你识别药用植物、昆虫奇观与动物足迹.\r\n★雨林夜行(Night Walk) --- 聆听夜间森林的呼吸: 树蛙、昆虫、夜行鸟、荧光真菌.\r\n【Wildlife · 亚马逊的生命图鉴】 --- Sacha 区域已记录 580+ 种鸟类, 是全球观鸟密度最高区域之一\r\n—— —— —— —— —— ——\r\n常见生态亮点包括:\r\n· 虎猫、小型猴群、巨獭(Giant Otter)\r\n· 犀鸟、巨嘴鸟、军舰鸟、翠鸟\r\n· 树蛙、树懒、鬣蜥、亚马逊水母\r\n· 近距离观察无毒蛇类与昆虫世界\r\n——每一次独木舟滑行、每一次树冠停步, 都是与雨林系统直接对话的瞬间.——\r\n\r\n【由自然学家带领 · 中文领队随行】\r\n每日活动由 Sacha 专业自然学家带队, 让雨林中的每一次发现都真正被理解.",
-  "participationNotice": "预定须知\r\n價格為AUD每人, 以兩人一房為基準\r\n下單即需支付訂金30%, 尾款需於出發前45天付清, 如因乘客個人原因不能參團, 遵照退改規定：距離出發前45天前, 恕不退還訂金; 距離出發日期44天內, 恕不退還全款\r\n強烈推薦報名時購買旅遊保險以規避風險\r\n如因人數不足10人未能成行客人可選擇其他團期或全額退款; 我司保留根據地方政府等政令及交通限令等不可抗力調整行程的權利\r\n請查閱乘客是否符合目的地相關疫苗和檢測要求, 我司概不承擔乘客因疫苗、檢測、護照、簽證等原因被拒絕登機產生的損失\r\n以上信息在發布時準確無誤, 實際情況如有變動, 請以官方網站為準. 圖片僅供參考, 具體細節以最終確認為準. 本產品適用相關條款與細則.\r\n\r\n退改政策\r\n下單即需支付訂金30%, 尾款需於出發前45天付清\r\n如因乘客個人原因不能參團, 遵照退改規定：\r\n距離出發前45天前, 恕不退還訂金;\r\n距離出發日期44天內, 恕不退還全款",
-  "departureDates": [
-   {
-    "date": "2027-02-11",
-    "status": "available"
-   },
-   {
-    "date": "2027-02-25",
-    "status": "available"
-   }
-  ],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "悉尼",
-    "adult": 18900.0,
-    "childbed": 0.0,
-    "childnobed": 0.0,
-    "infant": 0.0,
-    "single": 0.0,
-    "transfer": 0.0,
-    "tip": 180.0,
-    "service": ""
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-NOVA",
-    "file": "GALAMZ世界极致加拉-20260805.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/GALAMZ世界极致加拉-20260805.pdf"
-   }
-  ],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "悉尼 ✈ 圣地亚哥 ✈ 利马\n启程前往南美洲, 一路跨越太平洋航线, 经智利圣地亚哥转机抵达秘鲁利马.\n长途航程休整, 入住酒店, 准备迎接接下来的自然奇迹冒险.\nPullman Lima 或同级5*\nD",
-    "descEn": "悉尼 ✈ 圣地亚哥 ✈ 利马\n启程前往南美洲, 一路跨越太平洋航线, 经智利圣地亚哥转机抵达秘鲁利马.\n长途航程休整, 入住酒店, 准备迎接接下来的自然奇迹冒险.\nPullman Lima 或同级5*\nD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D2",
-    "titleZh": "第2天",
-    "titleEn": "Day 2",
-    "descZh": "利马✈ 基多Quito\n早餐后送往机场, 搭乘航班飞往厄瓜多尔首都基多(午餐敬请在机场自理). 抵基多, 联合国认证的“安第斯最美高城”(海拔2850m). 被《国家地理》誉为“保存最完好的殖民城市”之一. 参观独立广场、总统府外观、殖民时期大教堂, 以及以金箔壁面闻名的耶稣会教堂 La Compañía. 漫步至圣弗朗西斯科修道院, 感受殖民艺术与宗教建筑精华.\nJW Marriott Quito 或同级5*\nBD",
-    "descEn": "利马✈ 基多Quito\n早餐后送往机场, 搭乘航班飞往厄瓜多尔首都基多(午餐敬请在机场自理). 抵基多, 联合国认证的“安第斯最美高城”(海拔2850m). 被《国家地理》誉为“保存最完好的殖民城市”之一. 参观独立广场、总统府外观、殖民时期大教堂, 以及以金箔壁面闻名的耶稣会教堂 La Compañía. 漫步至圣弗朗西斯科修道院, 感受殖民艺术与宗教建筑精华.\nJW Marriott Quito 或同级5*\nBD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D3",
-    "titleZh": "第3天",
-    "titleEn": "Day 3",
-    "descZh": "基多\n早餐后前往坐落在城市北侧的 Mitad del Mundo 赤道纪念碑. 在“世界的中心”踏上南北半球的分界线, 参观 Intiñan 民俗博物馆, 体验赤道重力实验、原住民文化与趣味互动, 这是厄瓜多尔最具象征意义的体验之一. 午间返回市区享用午餐, 随后乘坐 Teleférico 缆车上升至约 4,000 公尺的火山山腰. 在高空俯瞰基多的红瓦城市与环绕的安第斯山脉, 如天气晴朗, 可远眺 Cotopaxi、Cayambe 等火山的白雪峰顶. 晚餐后返回酒店休息, 准备次日飞往加拉帕戈斯.\nJW Marriott Quito 或同级5*\nBLD",
-    "descEn": "基多\n早餐后前往坐落在城市北侧的 Mitad del Mundo 赤道纪念碑. 在“世界的中心”踏上南北半球的分界线, 参观 Intiñan 民俗博物馆, 体验赤道重力实验、原住民文化与趣味互动, 这是厄瓜多尔最具象征意义的体验之一. 午间返回市区享用午餐, 随后乘坐 Teleférico 缆车上升至约 4,000 公尺的火山山腰. 在高空俯瞰基多的红瓦城市与环绕的安第斯山脉, 如天气晴朗, 可远眺 Cotopaxi、Cayambe 等火山的白雪峰顶. 晚餐后返回酒店休息, 准备次日飞往加拉帕戈斯.\nJW Marriott Quito 或同级5*\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D4",
-    "titleZh": "第4天",
-    "titleEn": "Day 4",
-    "descZh": "基多 ✈ 加拉帕戈斯 · North Seymour 海鸟天堂\n上午搭乘航班前往加拉帕戈斯, 抵达 Baltra 后专车接驳登上双体帆船, 安全简报与午餐后前往 North Seymour——加拉帕戈斯最壮观的海鸟聚集地之一. 在岛上的步道上, 你将与蓝脚鲣鸟的求偶舞步零距离, 军舰鸟Frigate Bird张开红色喉囊, 海狮群在岸边晒太阳, 陆鬣蜥 静静栖息在玄武岩上, 这是最经典的“欢迎来到地球演化现场”的开场. 这里将是我们第一个浮潜点.\n傍晚回到船上参加船长欢迎鸡尾酒会.\n船上(私享航程的第一晚).\nBLD",
-    "descEn": "基多 ✈ 加拉帕戈斯 · North Seymour 海鸟天堂\n上午搭乘航班前往加拉帕戈斯, 抵达 Baltra 后专车接驳登上双体帆船, 安全简报与午餐后前往 North Seymour——加拉帕戈斯最壮观的海鸟聚集地之一. 在岛上的步道上, 你将与蓝脚鲣鸟的求偶舞步零距离, 军舰鸟Frigate Bird张开红色喉囊, 海狮群在岸边晒太阳, 陆鬣蜥 静静栖息在玄武岩上, 这是最经典的“欢迎来到地球演化现场”的开场. 这里将是我们第一个浮潜点.\n傍晚回到船上参加船长欢迎鸡尾酒会.\n船上(私享航程的第一晚).\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D5",
-    "titleZh": "第5天",
-    "titleEn": "Day 5",
-    "descZh": "加拉帕戈斯·海狮岛浮潜 & Kicker Rock 岩壁巡游\n上午抵达海狮岛Lobos Island 漫步沙滩近看海狮家族, 与海狮宝宝在浅湾里一同浮潜, 是许多旅客最难忘的瞬间. 这里海水温和、能见度佳.\n午后前往标志性的“Kicker Rock” 巨岩海域, 欣赏火山岩裂缝景观, 峭壁从海面拔起, 是鲨鱼、鳐鱼与海鸟的聚集点. (此处通常不下水, 但天气好时会看到大量海鸟掠过岩壁. )\n傍晚踏上 Brujo Hill细白沙丘, 海浪平缓、海景辽阔, 是拍摄海鬣蜥、海狮与远山的绝佳背景. 您还可以划独木舟或站立桨板与海狮嬉戏.\n船上(私享航程的第二晚).\nBLD",
-    "descEn": "加拉帕戈斯·海狮岛浮潜 & Kicker Rock 岩壁巡游\n上午抵达海狮岛Lobos Island 漫步沙滩近看海狮家族, 与海狮宝宝在浅湾里一同浮潜, 是许多旅客最难忘的瞬间. 这里海水温和、能见度佳.\n午后前往标志性的“Kicker Rock” 巨岩海域, 欣赏火山岩裂缝景观, 峭壁从海面拔起, 是鲨鱼、鳐鱼与海鸟的聚集点. (此处通常不下水, 但天气好时会看到大量海鸟掠过岩壁. )\n傍晚踏上 Brujo Hill细白沙丘, 海浪平缓、海景辽阔, 是拍摄海鬣蜥、海狮与远山的绝佳背景. 您还可以划独木舟或站立桨板与海狮嬉戏.\n船上(私享航程的第二晚).\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D6",
-    "titleZh": "第6天",
-    "titleEn": "Day 6",
-    "descZh": "加拉帕戈斯· 伊莎贝拉岛的隐世海湾与世界级海鸟\n今天是物种密度最高的一天.  上午在静谧的 Osborn Islet 浮潜, 寻找热带鱼群与海龟；在 Gardner Bay 搭乘充气艇融入一大群不怕人的海狮, 与海鬣蜥并肩慢走. 这里也常能看到: 牛奶鱼群、鹦嘴鱼、鳐鱼.\n下午登陆著名的 Suarez Point, 这是加拉帕戈斯最壮丽的悬崖海鸟圣地, 海鬣蜥密度极高, “喷潮洞 Blowhole” 拍出白色水柱直冲天空. 这是一段极具震撼力的步道, 也是许多自然摄影师的梦想之地.\n船上(私享航程的第三晚).\nBLD",
-    "descEn": "加拉帕戈斯· 伊莎贝拉岛的隐世海湾与世界级海鸟\n今天是物种密度最高的一天.  上午在静谧的 Osborn Islet 浮潜, 寻找热带鱼群与海龟；在 Gardner Bay 搭乘充气艇融入一大群不怕人的海狮, 与海鬣蜥并肩慢走. 这里也常能看到: 牛奶鱼群、鹦嘴鱼、鳐鱼.\n下午登陆著名的 Suarez Point, 这是加拉帕戈斯最壮丽的悬崖海鸟圣地, 海鬣蜥密度极高, “喷潮洞 Blowhole” 拍出白色水柱直冲天空. 这是一段极具震撼力的步道, 也是许多自然摄影师的梦想之地.\n船上(私享航程的第三晚).\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D7",
-    "titleZh": "第7天",
-    "titleEn": "Day 7",
-    "descZh": "加拉帕戈斯·玫瑰色火烈鸟湖 & 传奇邮局桶\n上午登陆 Floreana 岛后步行至火烈鸟泻湖 Cormorant Point, 若运气好可见火烈鸟成群觅食、海龟筑巢痕迹以及罕见植物景观. 随后在 Champion Islet 浮潜, 这里是海龟与热带鱼群的天堂.\n下午体验独一无二的 邮局桶传统(旅客可从木桶取出寄往自己国家的信件, 自行带回投递). 接着登上 Baroness 景观点, 俯瞰碧绿海湾与岛屿地貌.\n船上(私享航程的第四晚).\nBLD",
-    "descEn": "加拉帕戈斯·玫瑰色火烈鸟湖 & 传奇邮局桶\n上午登陆 Floreana 岛后步行至火烈鸟泻湖 Cormorant Point, 若运气好可见火烈鸟成群觅食、海龟筑巢痕迹以及罕见植物景观. 随后在 Champion Islet 浮潜, 这里是海龟与热带鱼群的天堂.\n下午体验独一无二的 邮局桶传统(旅客可从木桶取出寄往自己国家的信件, 自行带回投递). 接着登上 Baroness 景观点, 俯瞰碧绿海湾与岛屿地貌.\n船上(私享航程的第四晚).\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D8",
-    "titleZh": "第8天",
-    "titleEn": "Day 8",
-    "descZh": "加拉帕戈斯·高地巨龟 & 查尔斯达尔文研究站 →离船 ✈ 基多\n早上抵达圣克鲁斯岛下船, 在高地 Santa Cruz Highlands 森林步道中寻找野生加拉帕戈斯象龟, 这些生活在森林湿地的百岁巨龟是加岛最具象征性的生命. 最后在达尔文研究站 Charles Darwin Research Station 认识保育计划、幼年龟培育中心, 并了解“孤独乔治”的故事, 为加拉帕戈斯探索画上圆满句点. 中午搭乘航班飞往基多(午餐敬请在机场自理) 抵达后入住机场附近酒店, 于酒店内享用晚餐.\nEB Hotel by Eurobuilding或同级5*\nBD",
-    "descEn": "加拉帕戈斯·高地巨龟 & 查尔斯达尔文研究站 →离船 ✈ 基多\n早上抵达圣克鲁斯岛下船, 在高地 Santa Cruz Highlands 森林步道中寻找野生加拉帕戈斯象龟, 这些生活在森林湿地的百岁巨龟是加岛最具象征性的生命. 最后在达尔文研究站 Charles Darwin Research Station 认识保育计划、幼年龟培育中心, 并了解“孤独乔治”的故事, 为加拉帕戈斯探索画上圆满句点. 中午搭乘航班飞往基多(午餐敬请在机场自理) 抵达后入住机场附近酒店, 于酒店内享用晚餐.\nEB Hotel by Eurobuilding或同级5*\nBD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D9",
-    "titleZh": "第9天",
-    "titleEn": "Day 9",
-    "descZh": "基多 ✈ 科卡 - 亚马逊雨林\n清晨搭乘航班飞往亚马逊的入口科卡Coca, 转乘快艇沿着纳波河顺流而下. 这条河是亚马逊最重要的生命动脉之一. 抵达 Lodge 入口后, 穿越一段静谧的热带林间步道, 接着由独木舟轻轻滑入 Pilchicocha 黑水湖——湖水深沉而安静, 倒映着雨林与云影, 仿佛在进入另一个世界. 抵达 Sacha Lodge 后办理入住. 夕阳时分, 可在湖边木栈道散步, 聆听第一缕来自雨林的回声. 晚上享用当地风味晚餐, 随后可参加导览员带领的 雨林夜行(Night Walk): 树蛙、夜行鸟、昆虫, 雨林随夜色醒来.\nSacha Lodge\nBLD",
-    "descEn": "基多 ✈ 科卡 - 亚马逊雨林\n清晨搭乘航班飞往亚马逊的入口科卡Coca, 转乘快艇沿着纳波河顺流而下. 这条河是亚马逊最重要的生命动脉之一. 抵达 Lodge 入口后, 穿越一段静谧的热带林间步道, 接着由独木舟轻轻滑入 Pilchicocha 黑水湖——湖水深沉而安静, 倒映着雨林与云影, 仿佛在进入另一个世界. 抵达 Sacha Lodge 后办理入住. 夕阳时分, 可在湖边木栈道散步, 聆听第一缕来自雨林的回声. 晚上享用当地风味晚餐, 随后可参加导览员带领的 雨林夜行(Night Walk): 树蛙、夜行鸟、昆虫, 雨林随夜色醒来.\nSacha Lodge\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D10",
-    "titleZh": "第10天",
-    "titleEn": "Day 10",
-    "descZh": "亚马逊雨林· 全日雨林探索\n今日将走入 lodge 最著名的亮点—— Canopy Walk 树冠吊桥, 全长 275 米, 最高 30 米. 在树冠层, 你与雨林的生命“平行”, 巨嘴鸟贴着头顶飞过, 各种色彩饱和的鹦鹉在晨光里成群掠过, 松鼠猴、吼猴、卷尾猴可能在树梢嬉戏, 清晨薄雾和阳光在叶面上凝结. 午后以独木舟探索 黑水河道: 这里常能看到翠鸟、苍鹭、巨獭(Giant Otter), 树影倒映在水面上, 宁静得只有划桨声. 若天气良好, 傍晚可在湖边游泳平台休憩, 享受雨林的平静.\nSacha Lodge\nBLD",
-    "descEn": "亚马逊雨林· 全日雨林探索\n今日将走入 lodge 最著名的亮点—— Canopy Walk 树冠吊桥, 全长 275 米, 最高 30 米. 在树冠层, 你与雨林的生命“平行”, 巨嘴鸟贴着头顶飞过, 各种色彩饱和的鹦鹉在晨光里成群掠过, 松鼠猴、吼猴、卷尾猴可能在树梢嬉戏, 清晨薄雾和阳光在叶面上凝结. 午后以独木舟探索 黑水河道: 这里常能看到翠鸟、苍鹭、巨獭(Giant Otter), 树影倒映在水面上, 宁静得只有划桨声. 若天气良好, 傍晚可在湖边游泳平台休憩, 享受雨林的平静.\nSacha Lodge\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D11",
-    "titleZh": "第11天",
-    "titleEn": "Day 11",
-    "descZh": "亚马逊雨林· 全日雨林探索 + 夜行\n日出时分登 Observation Tower(观景塔), 俯瞰整片热带雨林. 东侧阳光缓缓爬上森林海洋, 是 Sacha 最震撼的瞬间之一. 随后在自然学家带领下步行进入深林, 认识雨林最神秘的世界: 树皮与树液的药用功能、最原始的藤类、昆虫与巨树系统、动物踪迹与足迹教学、无毒蛇类观察(自然学家判断安全后才会靠近)午后乘独木舟前往更深的支流, 有机会遇见更丰富的鸟类与中小型哺乳动物. 夜间可选择 独木舟夜行: 水道漆黑、星光极亮, 寻找睡在芦苇上的苍鹭、眼睛在光线里微闪的凯门鳄幼体. 这是亚马逊最迷人的时刻.\nSacha Lodge\nBLD",
-    "descEn": "亚马逊雨林· 全日雨林探索 + 夜行\n日出时分登 Observation Tower(观景塔), 俯瞰整片热带雨林. 东侧阳光缓缓爬上森林海洋, 是 Sacha 最震撼的瞬间之一. 随后在自然学家带领下步行进入深林, 认识雨林最神秘的世界: 树皮与树液的药用功能、最原始的藤类、昆虫与巨树系统、动物踪迹与足迹教学、无毒蛇类观察(自然学家判断安全后才会靠近)午后乘独木舟前往更深的支流, 有机会遇见更丰富的鸟类与中小型哺乳动物. 夜间可选择 独木舟夜行: 水道漆黑、星光极亮, 寻找睡在芦苇上的苍鹭、眼睛在光线里微闪的凯门鳄幼体. 这是亚马逊最迷人的时刻.\nSacha Lodge\nBLD",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D12",
-    "titleZh": "第12天",
-    "titleEn": "Day 12",
-    "descZh": "亚马逊雨林 - El Coca ✈ 圣地亚哥 ✈ 悉尼\n清晨可自由选择短行程: 森林漫步、湖上观鸟, 或简单地在木栈道看雨林的晨雾缓缓散开. 随后返回 Coca, 搭机返回澳洲, 为旅程画上完美的亚马逊篇章.\nB",
-    "descEn": "亚马逊雨林 - El Coca ✈ 圣地亚哥 ✈ 悉尼\n清晨可自由选择短行程: 森林漫步、湖上观鸟, 或简单地在木栈道看雨林的晨雾缓缓散开. 随后返回 Coca, 搭机返回澳洲, 为旅程画上完美的亚马逊篇章.\nB",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "费用包含",
-   "机票：澳洲出发全程机票含税含托运行李",
-   "交通：当地全程交通用车",
-   "导游：当地专业英文持证向导",
-   "领队：中文领队全程随行",
-   "住宿：全程共11晚，其中5星酒店4晚、船宿4晚、亚马逊雨林高端生态旅宿3晚",
-   "游玩：行程提及的景点及活动",
-   "餐食：11早餐+8午餐+11晚餐"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "护照、签证费用（如需要）",
-   "当地导游及司机小费（全程共AUD$180）",
-   "单房差（船宿舱位有限，单人须拼房，恕不接受单人房订单）",
-   "因天气、交通、政令等不可抗力导致行程受阻产生的额外费用（如遇行程受阻我们会及时安排替代方案，如产生额外费用敬请诉诸旅游保险）",
-   "个人旅游保险"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-APWEYB15",
@@ -838,7 +575,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJB3D",
@@ -901,7 +639,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJD3DD",
@@ -964,7 +703,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJ4DD5",
@@ -1027,7 +767,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJ4DT",
@@ -1090,7 +831,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJB4D",
@@ -1153,7 +895,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJB5DT",
@@ -1216,7 +959,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJD5DT",
@@ -1279,7 +1023,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-FJL5DT",
@@ -1342,7 +1087,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0205",
@@ -1558,7 +1304,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJP6",
@@ -1907,7 +1654,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTVN6",
@@ -2348,7 +2096,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-EJP6D",
@@ -2393,7 +2142,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0198",
@@ -2586,7 +2336,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0199",
@@ -2762,7 +2513,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0202",
@@ -3014,7 +2766,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0204",
@@ -3202,7 +2955,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0201",
@@ -3426,7 +3180,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJP6+OSA3D",
@@ -3670,7 +3425,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTTYO3+JP6",
@@ -3922,7 +3678,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-EJP8D",
@@ -3967,7 +3724,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0200",
@@ -4183,7 +3941,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ESMT9D",
@@ -4228,7 +3987,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJP6+CTS05",
@@ -4551,7 +4311,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTVN6+SGN5",
@@ -4787,403 +4548,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-EJPK10D",
-  "supplierCode": "EJPK10D",
-  "nameZh": "10 Days Japan Kanto Kansai & Korea Tour",
-  "nameEn": "10 Days Japan Kanto Kansai & Korea Tour",
-  "dest": "asia",
-  "destZh": "亚洲",
-  "destEn": "asia",
-  "category": "英文专线",
-  "subRegion": "亚洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "亚洲其他"
-  ],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 10,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/asia.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true
- },
- {
-  "id": "SUP-CM-0203",
-  "supplierCode": "NGJP1026",
-  "nameZh": "2026 日本富士山东京大阪北海道10日 （超值）",
-  "nameEn": "2026 日本富士山东京大阪北海道10日 （超值）",
-  "dest": "asia",
-  "destZh": "亚洲",
-  "destEn": "asia",
-  "category": "超值特惠团",
-  "subRegion": "日本",
-  "seasonTag": "",
-  "subRegions": [
-   "日本"
-  ],
-  "price": "A$2098",
-  "priceEn": "A$2098",
-  "days": 10,
-  "startCity": "",
-  "tags": [
-   "超值特价"
-  ],
-  "tagsEn": [
-   "Value"
-  ],
-  "img": [
-   "assets/suppliers/SUP-CM/products/SUP-CM-0203/SUP-CM-0203_hero.jpg"
-  ],
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "酒店资料（仅供参考，以最终确认书为淮）",
-  "departureDates": [
-   {
-    "date": "2026-03-01",
-    "status": "available"
-   },
-   {
-    "date": "2026-03-08",
-    "status": "available"
-   },
-   {
-    "date": "2026-03-15",
-    "status": "available"
-   },
-   {
-    "date": "2026-03-22",
-    "status": "available"
-   },
-   {
-    "date": "2026-03-29",
-    "status": "available"
-   },
-   {
-    "date": "2026-04-05",
-    "status": "available"
-   },
-   {
-    "date": "2026-04-12",
-    "status": "available"
-   },
-   {
-    "date": "2026-04-19",
-    "status": "available"
-   },
-   {
-    "date": "2026-05-10",
-    "status": "available"
-   },
-   {
-    "date": "2026-05-17",
-    "status": "available"
-   },
-   {
-    "date": "2026-05-24",
-    "status": "available"
-   },
-   {
-    "date": "2026-05-31",
-    "status": "available"
-   },
-   {
-    "date": "2026-06-07",
-    "status": "available"
-   },
-   {
-    "date": "2026-06-14",
-    "status": "available"
-   },
-   {
-    "date": "2026-06-21",
-    "status": "available"
-   },
-   {
-    "date": "2026-06-28",
-    "status": "available"
-   },
-   {
-    "date": "2026-07-05",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-23",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-06",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-13",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-20",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-04",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-18",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-25",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-01",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-08",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-15",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-22",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-29",
-    "status": "available"
-   },
-   {
-    "date": "2026-12-24",
-    "status": "available"
-   }
-  ],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲",
-    "adult": 2098.0,
-    "childbed": 2098.0,
-    "childnobed": 1498.0,
-    "infant": "",
-    "single": 1200.0,
-    "transfer": 150.0,
-    "tip": "",
-    "service": ""
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-CM",
-    "file": "FLYER-NGJP1026-AUD.pdf",
-    "url": "/assets/suppliers/SUP-CM/FLYER-NGJP1026-AUD.pdf"
-   }
-  ],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "抵達東京（成田機場/羽田机场）Arrive in Tokyo\n各位貴賓抵達東京成田機場（NRT），搭乘免費酒店巴士前往酒店休息。（具體巴士時刻表和上車地點見出團書。日本酒店下午15:00後憑護照證件辦理入住手續。）\n東京成田機場（NRT）：10:00 - 21:00時段專人機場舉牌接機，協助貴賓搭乘shuttle bus前往酒店。（其他時間抵達的貴賓請自行搭乘shuttle bus前往酒店）\n東京羽田機場（HND）統一安排14:00和19:00安排接機從機場出發前往酒店。\n住宿：成田國際花園酒店/國際度假酒店悠樂居或同級酒店",
-    "descEn": "抵達東京（成田機場/羽田机场）Arrive in Tokyo\n各位貴賓抵達東京成田機場（NRT），搭乘免費酒店巴士前往酒店休息。（具體巴士時刻表和上車地點見出團書。日本酒店下午15:00後憑護照證件辦理入住手續。）\n東京成田機場（NRT）：10:00 - 21:00時段專人機場舉牌接機，協助貴賓搭乘shuttle bus前往酒店。（其他時間抵達的貴賓請自行搭乘shuttle bus前往酒店）\n東京羽田機場（HND）統一安排14:00和19:00安排接機從機場出發前往酒店。\n住宿：成田國際花園酒店/國際度假酒店悠樂居或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D2",
-    "titleZh": "第2天",
-    "titleEn": "Day 2",
-    "descZh": "東京/富士山地區Tokyo / Fujiyama region （B酒店/L日式鰻魚飯/D溫泉料理）\n早餐後，前往外觀日本天皇的官邸【皇居外苑二重橋】，這裏是公認的日本標誌，遊客們可在外苑前拍照留念。前往遊覽【淺草觀音寺】，它是日本觀音寺總堂，是東京歷史悠久、人氣旺盛的寺院，【仲見世商店街】是東京最熱鬧的購物街之一。接著前往【臺場海濱公園 & 維納斯自由女神像】，這裏是東京灣畔的“小紐約”。特別安排【水上巴士】沿著隅田川航行，遠眺【SKY TREE東京晴空塔】、【東京灣跨海大橋】的壯麗美景。晚上入住溫泉酒店，品嘗溫泉酒店料理，並享受日本泡溫泉的樂趣。\n住宿：富士山花園酒店/富士河口湖溫泉酒店或同級酒店",
-    "descEn": "東京/富士山地區Tokyo / Fujiyama region （B酒店/L日式鰻魚飯/D溫泉料理）\n早餐後，前往外觀日本天皇的官邸【皇居外苑二重橋】，這裏是公認的日本標誌，遊客們可在外苑前拍照留念。前往遊覽【淺草觀音寺】，它是日本觀音寺總堂，是東京歷史悠久、人氣旺盛的寺院，【仲見世商店街】是東京最熱鬧的購物街之一。接著前往【臺場海濱公園 & 維納斯自由女神像】，這裏是東京灣畔的“小紐約”。特別安排【水上巴士】沿著隅田川航行，遠眺【SKY TREE東京晴空塔】、【東京灣跨海大橋】的壯麗美景。晚上入住溫泉酒店，品嘗溫泉酒店料理，並享受日本泡溫泉的樂趣。\n住宿：富士山花園酒店/富士河口湖溫泉酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D3",
-    "titleZh": "第3天",
-    "titleEn": "Day 3",
-    "descZh": "富士山地區/名古屋地區Fujiyama Region /Nagoya region （B酒店/L日式豚肉小火鍋/D自理）\n早餐後，前往【山中湖】，它背靠著富士山。湖光山色相互映襯，不同的季節有著不同的景致和情趣。以「富士山」為背景，山色絕美。遊覽日本婚紗照拍攝聖地【白鳥之濱】，湖邊設有愛心造型的打卡裝置。遊覽網紅打卡點【天梯小鎮】，街道盡頭富士山仿佛懸在空中。\n繼而遊覽【忍野八海】，這裏錯落有致地散佈著八個清泉，水質清冽甘甜，被譽為“日本九寨溝”。\n住宿：名古屋東橫酒店/豐橋洛希爾酒店或同級酒店",
-    "descEn": "富士山地區/名古屋地區Fujiyama Region /Nagoya region （B酒店/L日式豚肉小火鍋/D自理）\n早餐後，前往【山中湖】，它背靠著富士山。湖光山色相互映襯，不同的季節有著不同的景致和情趣。以「富士山」為背景，山色絕美。遊覽日本婚紗照拍攝聖地【白鳥之濱】，湖邊設有愛心造型的打卡裝置。遊覽網紅打卡點【天梯小鎮】，街道盡頭富士山仿佛懸在空中。\n繼而遊覽【忍野八海】，這裏錯落有致地散佈著八個清泉，水質清冽甘甜，被譽為“日本九寨溝”。\n住宿：名古屋東橫酒店/豐橋洛希爾酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D4",
-    "titleZh": "第4天",
-    "titleEn": "Day 4",
-    "descZh": "名古屋地區/京都Nagoya region /Kyoto （B酒店/L祇園心蘭套餐/D日式烤肉）\n早餐後，前往京都遊覽【祗園】，它是京都傳統的繁華街區，指的是從八阪神社、鴨川到東大路通之間的區域。這裏的街道和建築大多維持著舊時的樣貌，是感受京都古韻的好地方，漫步【花間小路】。參觀世界文化遺產【金閣寺】。前往遊覽【嵐山竹林&渡月橋】，這裏曾是日本貴族隱居地，漫步《臥虎藏龍》同款竹海。渡月橋是嵐山地標，盡情感受京都慢時光。\n住宿：大阪花園北布洛曼酒店/京都京阪酒店或同級酒店",
-    "descEn": "名古屋地區/京都Nagoya region /Kyoto （B酒店/L祇園心蘭套餐/D日式烤肉）\n早餐後，前往京都遊覽【祗園】，它是京都傳統的繁華街區，指的是從八阪神社、鴨川到東大路通之間的區域。這裏的街道和建築大多維持著舊時的樣貌，是感受京都古韻的好地方，漫步【花間小路】。參觀世界文化遺產【金閣寺】。前往遊覽【嵐山竹林&渡月橋】，這裏曾是日本貴族隱居地，漫步《臥虎藏龍》同款竹海。渡月橋是嵐山地標，盡情感受京都慢時光。\n住宿：大阪花園北布洛曼酒店/京都京阪酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D5",
-    "titleZh": "第5天",
-    "titleEn": "Day 5",
-    "descZh": "奈良/大阪Nara/Osaka （B酒店/L日式炸雞/D自理）\n早餐後，前往奈良遊覽【奈良神鹿公園】，隨處可見悠然自得、閑庭散步的小鹿，這是奈良的代表景觀。外觀【東大寺】，它是世界最大木造建築，殿內15米高的大佛震撼無比。前往大阪，遊覽【大阪城公園】，和名古屋城、熊本城並列日本歷史上的三大名城。前往【心齋橋】【道頓堀】，這裏是百貨商店與各式專門店雲集的大阪最熱鬧的商業街。以日本美食聞名，章魚小丸子、金龍拉麵、壽司等等，被稱為日本的廚房。各位貴賓可參觀免稅店、百貨公司購物和自選品嘗各種日本美食。\n住宿：關西機場美景花園飯店/泉佐野中心酒店或同級酒店",
-    "descEn": "奈良/大阪Nara/Osaka （B酒店/L日式炸雞/D自理）\n早餐後，前往奈良遊覽【奈良神鹿公園】，隨處可見悠然自得、閑庭散步的小鹿，這是奈良的代表景觀。外觀【東大寺】，它是世界最大木造建築，殿內15米高的大佛震撼無比。前往大阪，遊覽【大阪城公園】，和名古屋城、熊本城並列日本歷史上的三大名城。前往【心齋橋】【道頓堀】，這裏是百貨商店與各式專門店雲集的大阪最熱鬧的商業街。以日本美食聞名，章魚小丸子、金龍拉麵、壽司等等，被稱為日本的廚房。各位貴賓可參觀免稅店、百貨公司購物和自選品嘗各種日本美食。\n住宿：關西機場美景花園飯店/泉佐野中心酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D6",
-    "titleZh": "第6天",
-    "titleEn": "Day 6",
-    "descZh": "大阪/札幌 Osaka-Chitose Sapporo（機場代碼：KIX/CTS）（B酒店）\n（自費套餐已含大阪-札幌經濟艙機票含行李20KG）\n早餐後，各位貴賓搭乘酒店免費機場穿梭巴士，前往關西機場乘坐國內航班前往札幌。歡迎抵達札幌千歲！旅遊專員將在機場接機，送回酒店休息！\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
-    "descEn": "大阪/札幌 Osaka-Chitose Sapporo（機場代碼：KIX/CTS）（B酒店）\n（自費套餐已含大阪-札幌經濟艙機票含行李20KG）\n早餐後，各位貴賓搭乘酒店免費機場穿梭巴士，前往關西機場乘坐國內航班前往札幌。歡迎抵達札幌千歲！旅遊專員將在機場接機，送回酒店休息！\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D7",
-    "titleZh": "第7天",
-    "titleEn": "Day 7",
-    "descZh": "千歲/小樽/札幌 Chitose/Otaru/Sapporo（B酒店/ L日式定食/D自理）\n早餐後，我們前往小樽，遊覽著名的【小樽運河】，浪漫懷舊的倉庫群倒影。參觀【北一硝子館】，精美玻璃工藝閃耀迷人。前往【歐風蒸汽鐘】，定時噴氣復古趣味。參觀【小樽音樂盒博物館】，夢幻音律迴盪耳際。前往參觀【白色戀人巧克力工廠(入內)】，甜蜜香氣漫遊童話。\n酒店：札幌萊福特酒店或同級酒店",
-    "descEn": "千歲/小樽/札幌 Chitose/Otaru/Sapporo（B酒店/ L日式定食/D自理）\n早餐後，我們前往小樽，遊覽著名的【小樽運河】，浪漫懷舊的倉庫群倒影。參觀【北一硝子館】，精美玻璃工藝閃耀迷人。前往【歐風蒸汽鐘】，定時噴氣復古趣味。參觀【小樽音樂盒博物館】，夢幻音律迴盪耳際。前往參觀【白色戀人巧克力工廠(入內)】，甜蜜香氣漫遊童話。\n酒店：札幌萊福特酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D8",
-    "titleZh": "第8天",
-    "titleEn": "Day 8",
-    "descZh": "札幌/登別/洞爺湖 Sapporo/Noboribetsu/Toyako（B酒店/L北海道海鮮鍋/D溫泉料理）\n早餐後，我們前往參觀遊覽【登別地獄穀】，硫磺煙霧繚繞奇觀。參觀【昭和新山熊牧場】，近距離邂逅北海道熊。遊覽【洞爺湖】，火山湖光山色如詩。\n酒店：洞爺湖萬世閣溫泉酒店或同級酒店",
-    "descEn": "札幌/登別/洞爺湖 Sapporo/Noboribetsu/Toyako（B酒店/L北海道海鮮鍋/D溫泉料理）\n早餐後，我們前往參觀遊覽【登別地獄穀】，硫磺煙霧繚繞奇觀。參觀【昭和新山熊牧場】，近距離邂逅北海道熊。遊覽【洞爺湖】，火山湖光山色如詩。\n酒店：洞爺湖萬世閣溫泉酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D9",
-    "titleZh": "第9天",
-    "titleEn": "Day 9",
-    "descZh": "洞爺湖/千歲 Toyako/Chitose（B酒店/L自理/D暢吃三大螃蟹）\n早餐後，我們前往參觀【札幌拉麵街】，濃郁湯頭香氣四溢。遊覽【薄野歡樂街】，霓虹閃耀不夜之城。在【狸小路商業街】逛街購物 ，琳琅滿目藥妝美食。【車遊時計臺&舊道廳】，紅磚古蹟見證歷史。\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
-    "descEn": "洞爺湖/千歲 Toyako/Chitose（B酒店/L自理/D暢吃三大螃蟹）\n早餐後，我們前往參觀【札幌拉麵街】，濃郁湯頭香氣四溢。遊覽【薄野歡樂街】，霓虹閃耀不夜之城。在【狸小路商業街】逛街購物 ，琳琅滿目藥妝美食。【車遊時計臺&舊道廳】，紅磚古蹟見證歷史。\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D10",
-    "titleZh": "第10天",
-    "titleEn": "Day 10",
-    "descZh": "札幌送機 Depart Chitose Sapporo（機場代碼：CTS）\n早餐後，指定時間前往札幌千歲機場辦理離境手續，結束愉快的行程。免費送機服務一次：上午8:00從酒店出發送機",
-    "descEn": "札幌送機 Depart Chitose Sapporo（機場代碼：CTS）\n早餐後，指定時間前往札幌千歲機場辦理離境手續，結束愉快的行程。免費送機服務一次：上午8:00從酒店出發送機",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "抵达城市和接机资讯",
-   "東京成田機場（NRT)：搭乘酒店穿梭巴士服務前往酒店",
-   "東京羽田機場(HND)：14:00和19:00安排接機從機場出發前往酒店",
-   "离开城市和送机资讯",
-   "札幌机场（CTS），早上8:00酒店出发送往机场。",
-   "自费专案（需保证参加，儿童与成人同价）",
-   "淺草雷門觀音寺+水上巴士船遊東京+溫泉料理+金閣寺+登別地獄穀+昭和新山熊牧場+洞爺湖+白色戀人巧克力工廠(入內)+大阪札幌經濟艙機票（含20KG行李額）：USD700（CAD1000/AUD1100)",
-   "当地推荐景点（隆重推荐，自费参加）",
-   "酒店资料（仅供参考，以最终确认书为淮）"
-  ],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0207",
@@ -5251,7 +4617,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-59",
@@ -5480,7 +4847,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ADLBVD",
@@ -5557,7 +4925,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ADLFPD",
@@ -5639,7 +5008,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ADLHMV",
@@ -5720,7 +5090,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ADLKID",
@@ -5801,7 +5172,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ADLMRD",
@@ -5881,7 +5253,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATAY01",
@@ -5958,7 +5331,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATAY02",
@@ -6035,7 +5409,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATAY03",
@@ -6112,7 +5487,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATAY04",
@@ -6189,7 +5565,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATAY06",
@@ -6266,7 +5643,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATAY07",
@@ -6343,7 +5721,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-AYQECR",
@@ -6420,7 +5799,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-BNETGL",
@@ -6505,7 +5885,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSDBL",
@@ -6595,7 +5976,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSDM1D",
@@ -6678,7 +6060,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSGBG",
@@ -6762,7 +6145,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSGBR01",
@@ -6852,7 +6236,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSNGA",
@@ -6942,7 +6327,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSPPD",
@@ -7027,7 +6413,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSRFD",
@@ -7117,7 +6504,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSSEGD",
@@ -7202,7 +6590,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSSGA",
@@ -7293,7 +6682,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSSRC02",
@@ -7387,7 +6777,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSTRR",
@@ -7469,7 +6860,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CWCSD1D",
@@ -7550,7 +6942,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MELGORI",
@@ -7627,7 +7020,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MELMPT",
@@ -7704,7 +7098,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MELPBI",
@@ -7781,7 +7176,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MELPBPI",
@@ -7858,7 +7254,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MELPPC",
@@ -7935,7 +7332,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-OOLBY",
@@ -8018,7 +7416,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-OOLCCT",
@@ -8095,7 +7494,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-OOLGWN",
@@ -9134,7 +8534,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-OOLTAM",
@@ -9217,7 +8618,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-OOLTRO",
@@ -9294,7 +8696,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-PECYLA",
@@ -9371,7 +8774,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-PERMRT",
@@ -9448,7 +8852,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-PERPIN",
@@ -9525,7 +8930,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-PERROT",
@@ -9608,7 +9014,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-PERSVD",
@@ -9685,7 +9092,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-PERWRD",
@@ -9770,7 +9178,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-PTAGFE",
@@ -9847,7 +9256,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-RCSAIL",
@@ -9927,7 +9337,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-RCTWB",
@@ -10004,7 +9415,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDBMS",
@@ -10635,7 +10047,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDBMT",
@@ -11699,7 +11112,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDBMTS",
@@ -12735,7 +12149,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDCBR",
@@ -13096,7 +12511,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDHUN",
@@ -13464,7 +12880,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDJVS",
@@ -13549,7 +12966,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDPST",
@@ -14048,7 +13466,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDSCT",
@@ -15086,7 +14505,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDZJG",
@@ -15592,7 +15012,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TASHBA",
@@ -15669,7 +15090,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TASMAR",
@@ -15746,7 +15168,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TASMFL",
@@ -15823,7 +15246,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TASPOT",
@@ -15900,7 +15324,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TASWGB",
@@ -15977,7 +15402,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-WSI1DT",
@@ -16058,7 +15484,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-WSIFCG",
@@ -17094,7 +16521,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-HUN2D",
@@ -17196,7 +16624,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SN008",
@@ -17309,7 +16738,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATUK3",
@@ -17416,7 +16846,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATVW3",
@@ -17523,7 +16954,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MEL3DAYS",
@@ -17630,7 +17062,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SSPL3D26",
@@ -17737,7 +17170,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TANG3D",
@@ -17844,7 +17278,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TAS3DT",
@@ -17957,7 +17392,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SN001",
@@ -18085,7 +17521,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SN002",
@@ -18213,7 +17650,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SN005",
@@ -18341,7 +17779,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SN006",
@@ -18469,7 +17908,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATUSP4",
@@ -18591,7 +18031,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNS3D4D",
@@ -18726,7 +18167,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSXMAS26",
@@ -18848,7 +18290,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-HI4DPACK",
@@ -18978,7 +18421,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MEL4DAYS",
@@ -19106,7 +18550,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-OOL3DK",
@@ -19241,7 +18686,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SSPLB4D",
@@ -19365,7 +18811,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYD4D",
@@ -19862,7 +19309,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TAS4DT",
@@ -19990,7 +19438,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SN003",
@@ -20133,7 +19582,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ATVAUK5",
@@ -20270,7 +19720,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-MEL5DAYS",
@@ -20407,7 +19858,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-OOL5D4N",
@@ -20519,7 +19971,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SSPL5D26",
@@ -20662,7 +20115,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TAS5DT",
@@ -20805,7 +20259,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TAS5DTS",
@@ -20942,7 +20397,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SN004",
@@ -21100,7 +20556,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SSP5D",
@@ -21258,7 +20715,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-CNSOOL",
@@ -21412,7 +20870,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SSPL6D26",
@@ -21667,7 +21126,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDMEL6PG",
@@ -21836,7 +21296,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-TAS6DT",
@@ -21988,7 +21449,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SSPL7D26",
@@ -22273,7 +21735,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDMEL7PG",
@@ -22457,7 +21920,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-SSP7D",
@@ -22645,7 +22109,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDMEL8PG",
@@ -22844,7 +22309,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-SYDCNSOOL",
@@ -23067,236 +22533,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-SYDCNSMEL",
-  "supplierCode": "SYDCNSMEL",
-  "nameZh": "悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】",
-  "nameEn": "悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】",
-  "dest": "australia",
-  "destZh": "澳洲",
-  "destEn": "australia",
-  "category": "纯玩无购物团",
-  "subRegion": "澳洲跨地区联游",
-  "seasonTag": "",
-  "subRegions": [
-   "澳洲跨地区联游"
-  ],
-  "price": "A$2839",
-  "priceEn": "A$2839",
-  "days": 11,
-  "startCity": "悉尼",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": [
-   "assets/suppliers/SUP-NOVA/products/Nova-SYDCNSMEL/Nova-SYDCNSMEL_hero.jpg"
-  ],
-  "introZh": "悉尼-凯恩斯-墨尔本11天游，固定每周二、周五出发，两人成团。一次畅游澳洲东海岸三大城市：悉尼市区与蓝山、史蒂芬港，凯恩斯大堡礁与热带雨林，墨尔本企鹅岛、金矿与大洋路。中文导游全程陪同，四星酒店含早。\n★ 悉尼市区游为特别赠送，如航班原因无法安排则改为接机送酒店，费用概不退还。",
-  "introEn": "悉尼-凯恩斯-墨尔本11天游，固定每周二、周五出发，两人成团。一次畅游澳洲东海岸三大城市：悉尼市区与蓝山、史蒂芬港，凯恩斯大堡礁与热带雨林，墨尔本企鹅岛、金矿与大洋路。中文导游全程陪同，四星酒店含早。\n★ 悉尼市区游为特别赠送，如航班原因无法安排则改为接机送酒店，费用概不退还。",
-  "participationNotice": "**悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** **酒店需二次确认，遇公共假期, 学生假期，重大节日等可能有酒店附加费** 1. 两人成团固定日期出发每周二，周五 2. 儿童3-12岁；婴儿0-2岁 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. 不含旺季酒店附加费和重大节假日酒店附加费",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "跨地区",
-    "adult": 2839.0,
-    "childbed": "",
-    "childnobed": 2729.0,
-    "infant": "",
-    "single": 1425.0,
-    "transfer": 85.0,
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天 悉尼接机+全日市区游",
-    "titleEn": "Day 1 Sydney Arrival & City Tour",
-    "descZh": "第一天要求航班0830am前抵达的国内航班，司机统一0920am从悉尼国内机场出发（延误可安排接机追团$100/趟，错过行程无法退补）。接机后前往麦考瑞夫人椅、圣玛利亚大教堂、海德公园，乘车前往邦迪海滩，中午南半球最大海鲜市场自理午餐，下午参观悉尼大学、歌剧院外部、徒步海港大桥品味岩石区，行程结束前往酒店。全日市区游为特别赠送，因航班无法安排则改为接机送酒店，费用不退。",
-    "descEn": "第一天要求航班0830am前抵达的国内航班，司机统一0920am从悉尼国内机场出发（延误可安排接机追团$100/趟，错过行程无法退补）。接机后前往麦考瑞夫人椅、圣玛利亚大教堂、海德公园，乘车前往邦迪海滩，中午南半球最大海鲜市场自理午餐，下午参观悉尼大学、歌剧院外部、徒步海港大桥品味岩石区，行程结束前往酒店。全日市区游为特别赠送，因航班无法安排则改为接机送酒店，费用不退。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "含悉尼接机",
-    "transportEn": "",
-    "mealZh": "自理",
-    "mealEn": "",
-    "hotelZh": "Furama Darling Harbour或同级四星",
-    "hotelEn": ""
-   },
-   {
-    "d": "D2",
-    "titleZh": "第2天 蓝山有氧一日游",
-    "titleEn": "Day 2 Blue Mountains",
-    "descZh": "早上约0830-0900出发，途径卡通巴，抵达景区后乘坐三种缆车感受蓝山神奇，午餐自理。下午打卡石拱门观景步道、回音谷、蜜月桥，前往英伦风卢拉小镇，最后可自选日落观光游船（自备OPAL卡），乘船游客自行返回悉尼，其余跟车返回。",
-    "descEn": "早上约0830-0900出发，途径卡通巴，抵达景区后乘坐三种缆车感受蓝山神奇，午餐自理。下午打卡石拱门观景步道、回音谷、蜜月桥，前往英伦风卢拉小镇，最后可自选日落观光游船（自备OPAL卡），乘船游客自行返回悉尼，其余跟车返回。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "中文司机导游",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "Furama Darling Harbour或同级四星",
-    "hotelEn": ""
-   },
-   {
-    "d": "D3",
-    "titleZh": "第3天 史蒂芬港一日游",
-    "titleEn": "Day 3 Port Stephens",
-    "descZh": "早上约0700-0730出发前往史蒂芬港，先到沙漠绿洲安娜湾体验刺激滑沙（自费），午餐后到 Nelson Bay 乘船观赏野生海豚。史蒂芬午餐可选鱼薯/芝士汉堡/意面，出发前三天未选则默认鱼薯。傍晚抵悉尼市中心结束。",
-    "descEn": "早上约0700-0730出发前往史蒂芬港，先到沙漠绿洲安娜湾体验刺激滑沙（自费），午餐后到 Nelson Bay 乘船观赏野生海豚。史蒂芬午餐可选鱼薯/芝士汉堡/意面，出发前三天未选则默认鱼薯。傍晚抵悉尼市中心结束。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "中文司机导游",
-    "transportEn": "",
-    "mealZh": "酒店早餐 史蒂芬午餐",
-    "mealEn": "",
-    "hotelZh": "Furama Darling Harbour或同级四星",
-    "hotelEn": ""
-   },
-   {
-    "d": "D4",
-    "titleZh": "第4天 自由活动+悉尼送机 || 凯恩斯接机",
-    "titleEn": "Day 4 Sydney Fly to Cairns",
-    "descZh": "早上10:00前自行退房，早餐后送往机场（请预定930am-17pm国内航班）。抵达凯恩斯后中文导游接机，前往码头了解大堡礁游船取票及登船地点，送酒店休息。酒店位于市中心海滨，距商业街、礁湖、栈道、码头均在步行范围。",
-    "descEn": "早上10:00前自行退房，早餐后送往机场（请预定930am-17pm国内航班）。抵达凯恩斯后中文导游接机，前往码头了解大堡礁游船取票及登船地点，送酒店休息。酒店位于市中心海滨，距商业街、礁湖、栈道、码头均在步行范围。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "含悉尼送机+凯恩斯接机",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "Cairns Harbourside Hotel 或 Pacific Hotel Cairns 或同级",
-    "hotelEn": ""
-   },
-   {
-    "d": "D5",
-    "titleZh": "第5天 “太阳恋人号”大堡礁一日游",
-    "titleEn": "Day 5 Great Barrier Reef (Sunlover)",
-    "descZh": "酒店早餐后8:30-9:00自行前往码头，乘10:00出发的【太阳恋人号】前往外堡礁摩尔礁（无导游陪同）。平台免费项目：玻璃底船、半潜水船、浮潜、海底观察站、喂珊瑚鱼表演。平台海鲜自助午餐。约17:30回凯恩斯码头自行回酒店。\n自费推荐：带教练浮潜$65(成人)/$45(儿童)、初级潜水$149、海底漫步$149、10分钟直升机$200、升级船去飞回或飞去船回+$392。",
-    "descEn": "酒店早餐后8:30-9:00自行前往码头，乘10:00出发的【太阳恋人号】前往外堡礁摩尔礁（无导游陪同）。平台免费项目：玻璃底船、半潜水船、浮潜、海底观察站、喂珊瑚鱼表演。平台海鲜自助午餐。约17:30回凯恩斯码头自行回酒店。\n自费推荐：带教练浮潜$65(成人)/$45(儿童)、初级潜水$149、海底漫步$149、10分钟直升机$200、升级船去飞回或飞去船回+$392。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "酒店早餐 船上午餐 晚餐自理",
-    "mealEn": "",
-    "hotelZh": "Cairns Harbourside Hotel 或 Pacific Hotel Cairns 或同级",
-    "hotelEn": ""
-   },
-   {
-    "d": "D6",
-    "titleZh": "第6天 热带雨林公园/库兰达小镇",
-    "titleEn": "Day 6 Rainforest & Kuranda",
-    "descZh": "上午9:00-9:30前往库兰达热带雨林，先到热带雨林公园（入口可选抱考拉拍照自费），聆听吹奏滴箸丽表演、欣赏土著舞蹈、体验回力镖飞镖、乘水陆两用车深入雨林；午餐可在公园内自助午餐（自费）或进考拉园看动物（自费）。之后前往库兰达镇逛市集。下午可选雨林空中缆车（自费$74成人/$37儿童）或观光火车（自费$58成人/$29儿童）返回市区，导游在终点站接回酒店。",
-    "descEn": "上午9:00-9:30前往库兰达热带雨林，先到热带雨林公园（入口可选抱考拉拍照自费），聆听吹奏滴箸丽表演、欣赏土著舞蹈、体验回力镖飞镖、乘水陆两用车深入雨林；午餐可在公园内自助午餐（自费）或进考拉园看动物（自费）。之后前往库兰达镇逛市集。下午可选雨林空中缆车（自费$74成人/$37儿童）或观光火车（自费$58成人/$29儿童）返回市区，导游在终点站接回酒店。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "中文司机导游",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "Cairns Harbourside Hotel 或 Pacific Hotel Cairns 或同级",
-    "hotelEn": ""
-   },
-   {
-    "d": "D7",
-    "titleZh": "第7天 凯恩斯送机 | 墨尔本接机",
-    "titleEn": "Day 7 Cairns Fly to Melbourne",
-    "descZh": "早餐后自由活动（请预定9am-17pm国内航班）。抵达墨尔本机场由专人送酒店，今天可自行游览探索这座最适合居住的城市。",
-    "descEn": "早餐后自由活动（请预定9am-17pm国内航班）。抵达墨尔本机场由专人送酒店，今天可自行游览探索这座最适合居住的城市。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "含凯恩斯送机+墨尔本接机",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
-    "hotelEn": ""
-   },
-   {
-    "d": "D8",
-    "titleZh": "第8天 墨尔本-企鹅岛",
-    "titleEn": "Day 8 Phillip Island",
-    "descZh": "早上自由活动，下午前往菲利普岛。首站 BRIGHTON 彩虹小屋，下午三点半前往 MARU 动物园（自费$33成人/$18儿童）。傍晚五点 COWES 市区，六点诺比斯角（The Nobbies），约七点抵达企鹅栖息地见证企鹅归巢。诺比斯角视当天时间情况安排，不足则取消。",
-    "descEn": "早上自由活动，下午前往菲利普岛。首站 BRIGHTON 彩虹小屋，下午三点半前往 MARU 动物园（自费$33成人/$18儿童）。傍晚五点 COWES 市区，六点诺比斯角（The Nobbies），约七点抵达企鹅栖息地见证企鹅归巢。诺比斯角视当天时间情况安排，不足则取消。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "中文司机导游",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
-    "hotelEn": ""
-   },
-   {
-    "d": "D9",
-    "titleZh": "第9天 墨尔本-金矿一日游",
-    "titleEn": "Day 9 Sovereign Hill",
-    "descZh": "前往淘金古城疏芬山（Sovereign Hill），体验淘金时期生活场景，可自费下矿（$13/人）并观赏纯金制金条过程。之后前往巴拉瑞特（Ballarat）市区，维多利亚时代建筑风格，轻松 City Walk。",
-    "descEn": "前往淘金古城疏芬山（Sovereign Hill），体验淘金时期生活场景，可自费下矿（$13/人）并观赏纯金制金条过程。之后前往巴拉瑞特（Ballarat）市区，维多利亚时代建筑风格，轻松 City Walk。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "中文司机导游",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
-    "hotelEn": ""
-   },
-   {
-    "d": "D10",
-    "titleZh": "第10天 墨尔本-大洋路一日游",
-    "titleEn": "Day 10 Great Ocean Road",
-    "descZh": "从墨尔本出发沿维多利亚州西海岸展开大洋路之旅，经 Anglesea 小镇及小红帽灯塔，于大洋路纪念拱门停留。抵达阿波罗湾自由午餐（自费），下午前往十二门徒岩（可自费直升机$195俯瞰），沿途造访洛克阿德峡谷（Loch Ard Gorge）。",
-    "descEn": "从墨尔本出发沿维多利亚州西海岸展开大洋路之旅，经 Anglesea 小镇及小红帽灯塔，于大洋路纪念拱门停留。抵达阿波罗湾自由午餐（自费），下午前往十二门徒岩（可自费直升机$195俯瞰），沿途造访洛克阿德峡谷（Loch Ard Gorge）。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "中文司机导游",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
-    "hotelEn": ""
-   },
-   {
-    "d": "D11",
-    "titleZh": "第11天 墨尔本市区-送机",
-    "titleEn": "Day 11 Melbourne City & Departure",
-    "descZh": "早上城市探险：国会大厦外观、圣派翠克教堂、费兹洛伊花园（可自费库克船长小屋）、联邦广场、亚拉河畔、弗林德斯火车站、艺术中心、墨尔本大学（午餐校园附近自理）。约下午两点结束，三点团体送机（请预定18:00后航班；独立送机$120起）。",
-    "descEn": "早上城市探险：国会大厦外观、圣派翠克教堂、费兹洛伊花园（可自费库克船长小屋）、联邦广场、亚拉河畔、弗林德斯火车站、艺术中心、墨尔本大学（午餐校园附近自理）。约下午两点结束，三点团体送机（请预定18:00后航班；独立送机$120起）。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "中文司机导游+墨尔本送机",
-    "transportEn": "",
-    "mealZh": "酒店早餐",
-    "mealEn": "",
-    "hotelZh": "温暖的家",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "1.指定时间内机场接送 2.四星酒店含早餐 3.中文导游兼司机 4.全程交通[根据人数安排车辆] 5.景点门票及活动如行程所示"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "1.导游小费$5/人/天 2.任何国际、国内机票 3.旺季酒店附加费 4.行程未列出的午、晚餐 5.自费加购项目 6.因不可抗力产生的额外费用^"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENCT3",
@@ -23353,7 +22591,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENHS3",
@@ -23410,7 +22649,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENSH3",
@@ -23467,7 +22707,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENXY3",
@@ -23524,7 +22765,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0112",
@@ -23587,7 +22829,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0115",
@@ -23650,7 +22893,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENBJ4",
@@ -23707,7 +22951,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENGL4",
@@ -23764,7 +23009,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0071",
@@ -23968,7 +23214,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0076",
@@ -24031,7 +23278,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTLXA5",
@@ -24361,7 +23609,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENYZ5",
@@ -24419,7 +23668,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "PV-ENZJ5",
@@ -24476,7 +23726,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0054",
@@ -24539,7 +23790,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0057",
@@ -24602,7 +23854,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0066",
@@ -24665,7 +23918,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0077",
@@ -24728,7 +23982,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0088",
@@ -24791,7 +24046,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0099",
@@ -24854,7 +24110,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0104",
@@ -24917,7 +24174,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0113",
@@ -24980,7 +24238,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0116",
@@ -25043,7 +24302,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0119",
@@ -25106,7 +24366,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCAN6",
@@ -25386,7 +24647,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCQ6",
@@ -25588,7 +24850,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTLXA6",
@@ -25918,7 +25181,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0037",
@@ -25981,7 +25245,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0038",
@@ -26044,7 +25309,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0040",
@@ -26107,7 +25373,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0055",
@@ -26170,7 +25437,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0059",
@@ -26233,7 +25501,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0062",
@@ -26296,7 +25565,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0064",
@@ -26359,7 +25629,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0069",
@@ -26422,7 +25693,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0072",
@@ -26485,7 +25757,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0079",
@@ -26548,7 +25821,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0083",
@@ -26609,7 +25883,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0084",
@@ -26670,7 +25945,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0085",
@@ -26734,7 +26010,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0086",
@@ -26797,7 +26074,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0098",
@@ -26860,7 +26138,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0101",
@@ -26923,7 +26202,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0114",
@@ -26986,7 +26266,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0117",
@@ -27049,7 +26330,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTBJNS4+ XIYNS4",
@@ -27106,7 +26388,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTBJNS4+XIYNS4",
@@ -27218,7 +26501,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7",
@@ -27743,7 +27027,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTYNXNS7",
@@ -27966,7 +27251,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0020",
@@ -28029,7 +27315,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0039",
@@ -28092,7 +27379,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0041",
@@ -28155,7 +27443,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0042",
@@ -28218,7 +27507,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0065",
@@ -28281,7 +27571,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0067",
@@ -28344,7 +27635,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0080",
@@ -28407,7 +27699,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0092",
@@ -28470,7 +27763,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0100",
@@ -28533,7 +27827,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0102",
@@ -28596,7 +27891,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0105",
@@ -28657,7 +27953,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0118",
@@ -28720,7 +28017,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTBJ5+XIYNS4",
@@ -28836,7 +28134,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-A",
@@ -29470,7 +28769,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-AA",
@@ -30104,7 +29404,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-AB",
@@ -30738,7 +30039,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJZH8",
@@ -31041,7 +30343,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTTWNS8",
@@ -31323,7 +30626,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTYNXNS8",
@@ -31546,7 +30850,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-BXS8D",
@@ -31589,7 +30894,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0007",
@@ -31652,7 +30958,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0016",
@@ -31715,7 +31022,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0021",
@@ -31793,7 +31101,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0023",
@@ -31856,7 +31165,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0024",
@@ -31919,7 +31229,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0025",
@@ -31982,7 +31293,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0043",
@@ -32045,7 +31357,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0044",
@@ -32108,7 +31421,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0060",
@@ -32171,7 +31485,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0073",
@@ -32235,7 +31550,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0078",
@@ -32299,7 +31615,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0089",
@@ -32363,7 +31680,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0093",
@@ -32426,7 +31744,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0109",
@@ -32489,7 +31808,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0110",
@@ -32552,7 +31872,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTHNNSYZ9B",
@@ -32811,7 +32132,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNHS9-A",
@@ -33082,7 +32404,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-EGQ9D",
@@ -33125,7 +32448,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0028",
@@ -33188,7 +32512,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0029",
@@ -33251,7 +32576,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0030",
@@ -33314,7 +32640,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0031",
@@ -33377,7 +32704,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0032",
@@ -33441,7 +32769,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0033",
@@ -33504,7 +32833,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0056",
@@ -33567,7 +32897,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0081",
@@ -33631,7 +32962,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0087",
@@ -33695,7 +33027,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0090",
@@ -33758,7 +33091,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0094",
@@ -33821,7 +33155,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0096",
@@ -33884,7 +33219,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0103",
@@ -33947,7 +33283,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0106",
@@ -34011,7 +33348,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0107",
@@ -34079,7 +33417,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCQNS5+HNNS6B",
@@ -34220,7 +33559,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCQYZ10",
@@ -34474,7 +33814,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-ENJ10D10",
@@ -34517,7 +33858,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0008",
@@ -34580,7 +33922,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 100
  },
  {
   "id": "SUP-CM-0045",
@@ -34643,7 +33986,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0046",
@@ -34706,7 +34050,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0047",
@@ -34769,7 +34114,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0048",
@@ -34830,7 +34176,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0063",
@@ -34893,7 +34240,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0070",
@@ -34956,7 +34304,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0074",
@@ -35020,7 +34369,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0095",
@@ -35083,7 +34433,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0108",
@@ -35146,7 +34497,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCAN6+GL6",
@@ -35242,7 +34594,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCAN6+JP6",
@@ -35342,7 +34695,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCAN6+VN6",
@@ -35442,7 +34796,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTCQNS5+JZHNS7",
@@ -35699,7 +35054,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+C06",
@@ -35852,7 +35208,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+CQ6",
@@ -36014,7 +35371,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNAD11",
@@ -36463,7 +35821,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0034",
@@ -36526,7 +35885,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0035",
@@ -36589,7 +35949,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0036",
@@ -36652,7 +36013,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0050",
@@ -36713,7 +36075,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0051",
@@ -36777,7 +36140,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0058",
@@ -36840,7 +36204,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0061",
@@ -36901,7 +36266,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0068",
@@ -36965,7 +36331,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0082",
@@ -37029,7 +36396,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTBJNMG09+BJ5",
@@ -37086,7 +36454,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+GZ6",
@@ -37378,7 +36747,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+INCN6",
@@ -37451,7 +36821,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+YN6",
@@ -37544,7 +36915,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJPJN12",
@@ -37833,7 +37205,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJZH+CQ6",
@@ -37942,7 +37315,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJZHYZ12",
@@ -38433,7 +37807,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJZHZY12",
@@ -38724,7 +38099,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "Nova-XCYS12D",
@@ -38767,360 +38143,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
- },
- {
-  "id": "SUP-CM-0003",
-  "supplierCode": "CM-0003",
-  "nameZh": "2026 奢華江南和平飯店-長江新船王攬月號/極光號13日",
-  "nameEn": "2026 奢華江南和平飯店-長江新船王攬月號/極光號13日",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "超值特惠团",
-  "subRegion": "江南上海",
-  "seasonTag": "",
-  "subRegions": [
-   "江南上海"
-  ],
-  "price": "A$799",
-  "priceEn": "A$799",
-  "days": 12,
-  "startCity": "",
-  "tags": [
-   "超值特价"
-  ],
-  "tagsEn": [
-   "Value"
-  ],
-  "img": [
-   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero_1.jpg",
-   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero.jpg"
-  ],
-  "introZh": "★【長江行·攬月號/極光號核心亮點】\r\n★2026年首航3億打造長江新船王三峽遊輪·首搭鴻蒙智能艙房系統\r\n★真·一價全包：含船上三餐+免費WIFI+指定酒水暢飲+自助洗衣+三峽大壩升船機體驗+葛洲壩過閘體驗。\r\n★全覽長江三峽·奇景盡收：瞿塘峽、巫峽、西陵峽，日間全景漫遊。\r\n★一次航程，兩大工程奇跡與三峽自然壯景交匯。\r\n★【奢華酒店】：上海網紅地標建築-世貿洲際深坑酒店；深坑奇觀，全球矚目。上海百年外灘邊的瑰麗城堡，電視劇“繁花”取景地-和平飯店。\r\n★【江南全覽】上海，烏鎮，杭州，無錫，南京，蘇州，濮院古鎮。\r\n★【超棒景點】精華全含：烏鎮+濮院古鎮“雙水鄉古鎮”，G20城市陽臺，西湖景區，夫子廟，大報恩寺遺址公園，拈花灣禪意小鎮，太湖風景區，水陸盤門，京杭大運河，上海灘。 ★特色美食：杭州: 西湖醋魚，南宋禦茶宴；無錫: 無錫排骨，太湖乾隆宴; 南京: 鹽水鴨，淮陽風味宴; 蘇州: 特色鱸魚，水鄉風味宴\r\n★【特別贈送】\r\n「3-6月」時令水果：根據季節安排時令水果，如枇杷、楊梅、醉李等。\r\n「7月」水蜜桃界的頂流：無錫陽山水蜜桃，皮韌易剝、香氣濃郁，汁多味甜，入口即化\r\n「9月15日至12月」中國三大古名蟹中唯一存世的品種：陽澄湖大閘蟹每人二隻（一公一母）",
-  "introEn": "★【長江行·攬月號/極光號核心亮點】\r\n★2026年首航3億打造長江新船王三峽遊輪·首搭鴻蒙智能艙房系統\r\n★真·一價全包：含船上三餐+免費WIFI+指定酒水暢飲+自助洗衣+三峽大壩升船機體驗+葛洲壩過閘體驗。\r\n★全覽長江三峽·奇景盡收：瞿塘峽、巫峽、西陵峽，日間全景漫遊。\r\n★一次航程，兩大工程奇跡與三峽自然壯景交匯。\r\n★【奢華酒店】：上海網紅地標建築-世貿洲際深坑酒店；深坑奇觀，全球矚目。上海百年外灘邊的瑰麗城堡，電視劇“繁花”取景地-和平飯店。\r\n★【江南全覽】上海，烏鎮，杭州，無錫，南京，蘇州，濮院古鎮。\r\n★【超棒景點】精華全含：烏鎮+濮院古鎮“雙水鄉古鎮”，G20城市陽臺，西湖景區，夫子廟，大報恩寺遺址公園，拈花灣禪意小鎮，太湖風景區，水陸盤門，京杭大運河，上海灘。 ★特色美食：杭州: 西湖醋魚，南宋禦茶宴；無錫: 無錫排骨，太湖乾隆宴; 南京: 鹽水鴨，淮陽風味宴; 蘇州: 特色鱸魚，水鄉風味宴\r\n★【特別贈送】\r\n「3-6月」時令水果：根據季節安排時令水果，如枇杷、楊梅、醉李等。\r\n「7月」水蜜桃界的頂流：無錫陽山水蜜桃，皮韌易剝、香氣濃郁，汁多味甜，入口即化\r\n「9月15日至12月」中國三大古名蟹中唯一存世的品種：陽澄湖大閘蟹每人二隻（一公一母）",
-  "participationNotice": "参团须知\r\n\r\n一、报名资格\r\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\r\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\r\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\r\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\r\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\r\n二、费用说明\r\n（一）团费已含（以具体行程单为准）\r\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\r\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\r\n（二）团费不含\r\n国际及国内机票、签证费用；\r\n旅游意外险、医疗保险（强烈建议自行购买）；\r\n当地推荐自费项目、私人消费；\r\n单人房差、酒店提前/延后续住、额外接送机；\r\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\r\n（三）其他收费（具体以各线路公布为准）\r\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\r\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\r\n三、行程、购物与自费项目\r\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\r\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\r\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\r\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\r\n四、接送服务\r\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\r\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\r\n非规定时间或额外接送，须提前确认并另行付费。\r\n五、报名与合同\r\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\r\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\r\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\r\n六、退改政策\r\n（一）不可抗力（我社无法出团）\r\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\r\n\r\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\r\n\r\n（二）客人主动取消 / 拒绝参团\r\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\r\n\r\n书面通知时间\t取消\t改期\r\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\r\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\r\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\r\n（三）退改说明\r\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\r\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\r\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\r\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\r\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\r\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\r\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\r\n七、成行与行程调整\r\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\r\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\r\n本社在法律法规允许范围内保留最终解释权。\r\n八、其他\r\n未尽事宜请咨询组团社或本社客服。\r\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\r\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
-  "departureDates": [
-   {
-    "date": "2026-08-06",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-03",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-17",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-21",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-10-05",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-10-08",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-10-15",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-10-22",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-10-26",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-10-29",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-11-02",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-11-05",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-09",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-11-12",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-16",
-    "status": "soldout"
-   },
-   {
-    "date": "2026-11-19",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-23",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-26",
-    "status": "available"
-   },
-   {
-    "date": "2026-12-03",
-    "status": "available"
-   }
-  ],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "sha",
-    "adult": 799.0,
-    "childbed": 2099.0,
-    "childnobed": 899.0,
-    "infant": "",
-    "single": 2150.0,
-    "transfer": 45.0,
-    "tip": "",
-    "service": ""
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-CM",
-    "file": "SGJNC1326ABAAAUD.pdf",
-    "url": "/assets/suppliers/SUP-CM/SGJNC1326ABAAAUD.pdf"
-   }
-  ],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "抵达上海 Arrive in Shanghai\n抵达上海机场（PVG or SHA）或虹桥高铁站，接机/接站后送回酒店休息。相邻2小时内的航班/车次的客人，我们将统一安排车辆接送，接机/接站可能会有等待现象，敬请谅解！（酒店14:00后可办理入住，具体接机/接站资讯和酒店详情请见出团通知书）\n浦东机场接机汇合点：1号航站楼抵达层10号门内侧；2号航站楼抵达层“星巴克咖啡店”门口。\n虹桥机场接机汇合点：2号航站楼抵达层KFC肯德基门口。\n虹桥高铁站抵达的客人请通过走廊前往虹桥机场2号航站楼接机汇合点集合。\n虹桥机场1号航站楼抵达的客人请乘坐航站楼摆渡车前往2号航站楼接机汇合点集合。\n住宿：AB团：上海北外滩金辉索菲特酒店或同级酒店\nAA团：上海佘山世贸洲际酒店（深坑酒店）",
-    "descEn": "抵达上海 Arrive in Shanghai\n抵达上海机场（PVG or SHA）或虹桥高铁站，接机/接站后送回酒店休息。相邻2小时内的航班/车次的客人，我们将统一安排车辆接送，接机/接站可能会有等待现象，敬请谅解！（酒店14:00后可办理入住，具体接机/接站资讯和酒店详情请见出团通知书）\n浦东机场接机汇合点：1号航站楼抵达层10号门内侧；2号航站楼抵达层“星巴克咖啡店”门口。\n虹桥机场接机汇合点：2号航站楼抵达层KFC肯德基门口。\n虹桥高铁站抵达的客人请通过走廊前往虹桥机场2号航站楼接机汇合点集合。\n虹桥机场1号航站楼抵达的客人请乘坐航站楼摆渡车前往2号航站楼接机汇合点集合。\n住宿：AB团：上海北外滩金辉索菲特酒店或同级酒店\nAA团：上海佘山世贸洲际酒店（深坑酒店）",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D2",
-    "titleZh": "第2天",
-    "titleEn": "Day 2",
-    "descZh": "上海/杭州Shanghai/Hangzhou（酒店早餐，午餐东坡肉风味，晚餐自理）\n早餐后，驱车前往具有人间天堂美誉的杭州，作为一座历史悠久、文化繁荣的城市，杭州拥有丰富多样的自然景观和人文资源，尤其以美丽的西湖而闻名于世。游览杭州新晋网红景点【G20城市阳台】，在此可观钱塘江，眺望杭州亚运会场馆。随后前往游览【西湖景区】，环湖山峦迭翠，花木繁茂。远眺柳浪闻莺，三潭印月，雷峰夕照等西湖十景，名自景始，景以名传。漫步西湖，无限情调尽在此刻。\n★特别安排★【AI机器人基地】，了解机器人，互动机器人，中国科技的力量惊叹工业机器人的制造力，惊叹中国科技的力量。\n住宿：杭州锦豪雷迪森酒店或富阳喜来登酒店酒店或同级酒店",
-    "descEn": "上海/杭州Shanghai/Hangzhou（酒店早餐，午餐东坡肉风味，晚餐自理）\n早餐后，驱车前往具有人间天堂美誉的杭州，作为一座历史悠久、文化繁荣的城市，杭州拥有丰富多样的自然景观和人文资源，尤其以美丽的西湖而闻名于世。游览杭州新晋网红景点【G20城市阳台】，在此可观钱塘江，眺望杭州亚运会场馆。随后前往游览【西湖景区】，环湖山峦迭翠，花木繁茂。远眺柳浪闻莺，三潭印月，雷峰夕照等西湖十景，名自景始，景以名传。漫步西湖，无限情调尽在此刻。\n★特别安排★【AI机器人基地】，了解机器人，互动机器人，中国科技的力量惊叹工业机器人的制造力，惊叹中国科技的力量。\n住宿：杭州锦豪雷迪森酒店或富阳喜来登酒店酒店或同级酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D3",
-    "titleZh": "第3天",
-    "titleEn": "Day 3",
-    "descZh": "杭州/无锡Hangzhou/Wuxi（酒店早餐，午餐御茶宴，晚餐太湖风味）\n早餐后，游览西湖新十景之一【梅家坞茶文化村】，有山有貌，有坞有水，有茶有文的村落，是西湖龙井茶一级保护区和主产地之一，也是杭州城郊最有茶乡特色的农家自然村落和茶文化休闲观光旅游区。午餐后驱车前往中国古代吴文化的发源地之一的无锡。游览【长广溪湿地公园】，无锡最大的湿地公园，是一座集生态、休闲、科普、人文为一体的生态湿地公园。沿途欣赏太湖美丽风光，前往游览世界级禅意旅居度假目的地【拈花湾禅意小镇+梵天花海】，禅音绕耳、晨新暮霭，走在拈花湾的青石路上，暖阳照射，看遍和风美景，柔软的时光下保持一颗开心快乐的内心，把一切烦恼留着拈花湾的禅意里，带走好好生活的感受。\n住宿：无锡皇冠假日酒店或新湖铂尔曼酒店或同级酒店",
-    "descEn": "杭州/无锡Hangzhou/Wuxi（酒店早餐，午餐御茶宴，晚餐太湖风味）\n早餐后，游览西湖新十景之一【梅家坞茶文化村】，有山有貌，有坞有水，有茶有文的村落，是西湖龙井茶一级保护区和主产地之一，也是杭州城郊最有茶乡特色的农家自然村落和茶文化休闲观光旅游区。午餐后驱车前往中国古代吴文化的发源地之一的无锡。游览【长广溪湿地公园】，无锡最大的湿地公园，是一座集生态、休闲、科普、人文为一体的生态湿地公园。沿途欣赏太湖美丽风光，前往游览世界级禅意旅居度假目的地【拈花湾禅意小镇+梵天花海】，禅音绕耳、晨新暮霭，走在拈花湾的青石路上，暖阳照射，看遍和风美景，柔软的时光下保持一颗开心快乐的内心，把一切烦恼留着拈花湾的禅意里，带走好好生活的感受。\n住宿：无锡皇冠假日酒店或新湖铂尔曼酒店或同级酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D4",
-    "titleZh": "第4天",
-    "titleEn": "Day 4",
-    "descZh": "无锡/南京Wuxi/Nanjing（酒店早餐，午餐乾隆风味，晚餐自理）\n早餐后，前往太湖珍珠展示中心了解珍珠的生产制作过程。无锡太湖珍珠其粒大至优，色泽纯净，自然亮丽，晶莹滚圆，在国际市场上享有“无锡太湖珍珠天下第一”的美称。清代慈溪太后曾赞誉：“东球南珠不如太湖淡水珍珠”。参观紫砂茶壶博物馆，了解紫砂茶壶的制作工艺，欣赏多位紫砂名家传世作品。午餐后，驱车前往六朝古都南京，游览【东水关遗址公园】，公园将水关建筑与城墙建筑融为一体，具有“古桥、古河、古墙、古闸”四古之称。继而前往“烟笼寒水月笼沙，夜泊秦淮近酒家”的秦淮河畔【夫子庙】，茶肆酒楼商铺林立，是中国著名的开放式国家5A级旅游景区和国际旅游胜地。\n住宿：南京希尔顿酒店或温德姆花园酒店同级酒店",
-    "descEn": "无锡/南京Wuxi/Nanjing（酒店早餐，午餐乾隆风味，晚餐自理）\n早餐后，前往太湖珍珠展示中心了解珍珠的生产制作过程。无锡太湖珍珠其粒大至优，色泽纯净，自然亮丽，晶莹滚圆，在国际市场上享有“无锡太湖珍珠天下第一”的美称。清代慈溪太后曾赞誉：“东球南珠不如太湖淡水珍珠”。参观紫砂茶壶博物馆，了解紫砂茶壶的制作工艺，欣赏多位紫砂名家传世作品。午餐后，驱车前往六朝古都南京，游览【东水关遗址公园】，公园将水关建筑与城墙建筑融为一体，具有“古桥、古河、古墙、古闸”四古之称。继而前往“烟笼寒水月笼沙，夜泊秦淮近酒家”的秦淮河畔【夫子庙】，茶肆酒楼商铺林立，是中国著名的开放式国家5A级旅游景区和国际旅游胜地。\n住宿：南京希尔顿酒店或温德姆花园酒店同级酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D5",
-    "titleZh": "第5天",
-    "titleEn": "Day 5",
-    "descZh": "南京/苏州Nanjing/Suzhou（酒店早餐，午餐淮扬风味，晚餐自理）\n早餐后，游览【大报恩寺遗址公园】，这是中国规格最高、规模最大的寺庙遗址，也是保存最为完整的遗址之一。公园内保护性地展示了大报恩寺遗址中出土的千年地宫中的石函、铁函、七宝阿育王塔、金棺银椁等世界级国宝，参观天工造物艺术馆。随后，参观了玉器博览中心。南京素有“石头城”之称，其玉雕与浙江东阳木雕齐名。午餐后，我们驱车前往苏州。苏州是中国历史文化名城之一，也被誉为“东方威尼斯”。作为中国历史最悠久的城市之一，自公元前514年建城以来，它曾经是吴国、南宋时期的首都。\n住宿：苏州吴中希尔顿逸林酒店或盛虹万丽酒店或同级酒店",
-    "descEn": "南京/苏州Nanjing/Suzhou（酒店早餐，午餐淮扬风味，晚餐自理）\n早餐后，游览【大报恩寺遗址公园】，这是中国规格最高、规模最大的寺庙遗址，也是保存最为完整的遗址之一。公园内保护性地展示了大报恩寺遗址中出土的千年地宫中的石函、铁函、七宝阿育王塔、金棺银椁等世界级国宝，参观天工造物艺术馆。随后，参观了玉器博览中心。南京素有“石头城”之称，其玉雕与浙江东阳木雕齐名。午餐后，我们驱车前往苏州。苏州是中国历史文化名城之一，也被誉为“东方威尼斯”。作为中国历史最悠久的城市之一，自公元前514年建城以来，它曾经是吴国、南宋时期的首都。\n住宿：苏州吴中希尔顿逸林酒店或盛虹万丽酒店或同级酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D6",
-    "titleZh": "第6天",
-    "titleEn": "Day 6",
-    "descZh": "苏州/濮院Suzhou/Puyuan（酒店早餐，午餐水乡风味，晚餐自理）\n早餐后，外观【盘门】，盘门是春秋战国时期伍子胥所筑苏州城的八座城门之一，是中国现存最完整的水陆并联城门。古城门，古拱桥，古运河，一同见证了苏州2500年的历史变迁，【船游古运河+品茶听评弹】，乘船游古运河，古运河畔，古色古香的建筑依水而建，粉墙黛瓦，飞檐翘角，尽显江南水乡的独特魅力。前往江南丝绸工厂，了解丝绸的加工生产制作过程。参观乳胶健康睡眠中心。驱车前往2023年全新开幕【濮院古镇】，在原有自然村落的基础上，加入时尚文化元素，打造集观光、度假、商务、时尚的度假胜地。古镇以唐宋时期的建筑风格为主，鳞次栉比的房屋，青石板的老街，悠长的巷弄，保留着水陆并行、河街相邻、临河筑阁的江南水乡风貌。自由打卡古镇迷人夜景。\n住宿：濮院濮锦大酒店或同级酒店",
-    "descEn": "苏州/濮院Suzhou/Puyuan（酒店早餐，午餐水乡风味，晚餐自理）\n早餐后，外观【盘门】，盘门是春秋战国时期伍子胥所筑苏州城的八座城门之一，是中国现存最完整的水陆并联城门。古城门，古拱桥，古运河，一同见证了苏州2500年的历史变迁，【船游古运河+品茶听评弹】，乘船游古运河，古运河畔，古色古香的建筑依水而建，粉墙黛瓦，飞檐翘角，尽显江南水乡的独特魅力。前往江南丝绸工厂，了解丝绸的加工生产制作过程。参观乳胶健康睡眠中心。驱车前往2023年全新开幕【濮院古镇】，在原有自然村落的基础上，加入时尚文化元素，打造集观光、度假、商务、时尚的度假胜地。古镇以唐宋时期的建筑风格为主，鳞次栉比的房屋，青石板的老街，悠长的巷弄，保留着水陆并行、河街相邻、临河筑阁的江南水乡风貌。自由打卡古镇迷人夜景。\n住宿：濮院濮锦大酒店或同级酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D7",
-    "titleZh": "第7天",
-    "titleEn": "Day 7",
-    "descZh": "濮院/上海 Puyuan/Shanghai（酒店早餐，午餐本帮风味，晚餐自理）\n早餐后，返回上海。上海是中国第一大都市，也是全球重要的经济、金融和贸易中心之一。参观宝石会所，了解宝石的制作与工艺。参观中医养生中心了解健康养生。傍晚入住南京路上的上海外滩奢华地标——和平饭店，晚上可自行在中华第一街【南京路步行街】自由购物逛街。黄浦江畔的【外滩】，见证历史的“万国建筑博览群”和浦东陆家嘴的东方明珠和上海中心等摩登建筑隔江相望。每当夜幕降临，外滩的灯光璀璨夺目，映照着对岸陆家嘴的摩天大楼，形成了一幅现代与历史交织的美丽画卷。这里不仅是上海的象征，更是中国近现代史的一个缩影。漫步外滩，品味“十里洋场烟花地，风云际会上海滩”。\n住宿：上海和平饭店",
-    "descEn": "濮院/上海 Puyuan/Shanghai（酒店早餐，午餐本帮风味，晚餐自理）\n早餐后，返回上海。上海是中国第一大都市，也是全球重要的经济、金融和贸易中心之一。参观宝石会所，了解宝石的制作与工艺。参观中医养生中心了解健康养生。傍晚入住南京路上的上海外滩奢华地标——和平饭店，晚上可自行在中华第一街【南京路步行街】自由购物逛街。黄浦江畔的【外滩】，见证历史的“万国建筑博览群”和浦东陆家嘴的东方明珠和上海中心等摩登建筑隔江相望。每当夜幕降临，外滩的灯光璀璨夺目，映照着对岸陆家嘴的摩天大楼，形成了一幅现代与历史交织的美丽画卷。这里不仅是上海的象征，更是中国近现代史的一个缩影。漫步外滩，品味“十里洋场烟花地，风云际会上海滩”。\n住宿：上海和平饭店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D8",
-    "titleZh": "第8天",
-    "titleEn": "Day 8",
-    "descZh": "上海 Shanghai（酒店早餐）\n全天自由活动。\n住宿：上海北外滩金辉索菲特酒店或同级酒店",
-    "descEn": "上海 Shanghai（酒店早餐）\n全天自由活动。\n住宿：上海北外滩金辉索菲特酒店或同级酒店",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D9",
-    "titleZh": "第9天",
-    "titleEn": "Day 9",
-    "descZh": "上海/宜昌Shanghai/Yichang（酒店早餐，游轮晚餐）\n(已含上海/宜昌高铁动车火车票）\n早餐后前往宜昌（高铁动车），前往宜昌。16:00前抵达宜昌三峡游客中心（宜昌港9码头）\n赠送专案：换乘豪华观光船【船过葛洲坝船闸·游西陵峡东段】— 抵达三斗坪码头后，乘车送至秭归港登长江行游轮。\n住宿：长江行揽月号游轮/极光号游轮",
-    "descEn": "上海/宜昌Shanghai/Yichang（酒店早餐，游轮晚餐）\n(已含上海/宜昌高铁动车火车票）\n早餐后前往宜昌（高铁动车），前往宜昌。16:00前抵达宜昌三峡游客中心（宜昌港9码头）\n赠送专案：换乘豪华观光船【船过葛洲坝船闸·游西陵峡东段】— 抵达三斗坪码头后，乘车送至秭归港登长江行游轮。\n住宿：长江行揽月号游轮/极光号游轮",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D10",
-    "titleZh": "第10天",
-    "titleEn": "Day 10",
-    "descZh": "宜昌/巴东Yichang / Badong（游轮早餐，游轮午餐，游轮晚餐）\n上午参观游览 【三峡大坝】 ，抵达三斗坪换乘游船过 【升船机】。午餐后 游轮航行经过【西陵峡西段】 — 欣赏长江山水的雄浑与灵秀。晚餐前船长欢迎酒会。夜游 【巴东无源洞】 — 走进奇幻溶洞，惊叹山水灵韵。\n（重要提示：因天气、水文、航道等原因及三峡升船机禁航停运期间，调整为参观三峡工程博物馆 & 截流纪念园。11月巴东无源洞改为安排次日游览巫山神女溪。）\n住宿：长江行揽月号游轮/极光号游轮",
-    "descEn": "宜昌/巴东Yichang / Badong（游轮早餐，游轮午餐，游轮晚餐）\n上午参观游览 【三峡大坝】 ，抵达三斗坪换乘游船过 【升船机】。午餐后 游轮航行经过【西陵峡西段】 — 欣赏长江山水的雄浑与灵秀。晚餐前船长欢迎酒会。夜游 【巴东无源洞】 — 走进奇幻溶洞，惊叹山水灵韵。\n（重要提示：因天气、水文、航道等原因及三峡升船机禁航停运期间，调整为参观三峡工程博物馆 & 截流纪念园。11月巴东无源洞改为安排次日游览巫山神女溪。）\n住宿：长江行揽月号游轮/极光号游轮",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D11",
-    "titleZh": "第11天",
-    "titleEn": "Day 11",
-    "descZh": "奉节Fengjie（游轮早餐，游轮午餐，游轮晚餐）\n上午游轮航行经过 【巫峡 & 瞿塘峡】；下午上岸游览（二选一）：A 线【 白帝城 】 — 体验三国古迹与诗城的千古遗风，或B线【三峡之巅】 — 俯瞰峡谷群峰与长江奔流。晚上游轮文艺表演。\n住宿：长江行揽月号游轮/极光号游轮",
-    "descEn": "奉节Fengjie（游轮早餐，游轮午餐，游轮晚餐）\n上午游轮航行经过 【巫峡 & 瞿塘峡】；下午上岸游览（二选一）：A 线【 白帝城 】 — 体验三国古迹与诗城的千古遗风，或B线【三峡之巅】 — 俯瞰峡谷群峰与长江奔流。晚上游轮文艺表演。\n住宿：长江行揽月号游轮/极光号游轮",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D12",
-    "titleZh": "第12天",
-    "titleEn": "Day 12",
-    "descZh": "涪陵Fuling（游轮早餐，游轮午餐，游轮晚餐）\n上午在船文化活动，下午上岸游览（二选一）：A 线【白鹤梁水下博物馆】 — 见证千年题刻和水下碑林，或B线【816工程遗址】 — 探秘全球最大人工洞体。晚上举行游轮欢送晚会。（重要提示：若因天气、水文、航道等不可抗力情况停靠丰都港，上岸游览调整为丰都鬼城）。\n住宿：长江行揽月号游轮/极光号游轮",
-    "descEn": "涪陵Fuling（游轮早餐，游轮午餐，游轮晚餐）\n上午在船文化活动，下午上岸游览（二选一）：A 线【白鹤梁水下博物馆】 — 见证千年题刻和水下碑林，或B线【816工程遗址】 — 探秘全球最大人工洞体。晚上举行游轮欢送晚会。（重要提示：若因天气、水文、航道等不可抗力情况停靠丰都港，上岸游览调整为丰都鬼城）。\n住宿：长江行揽月号游轮/极光号游轮",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   },
-   {
-    "d": "D13",
-    "titleZh": "第13天",
-    "titleEn": "Day 13",
-    "descZh": "重庆/送机Depart Chongqing（游轮早餐）\n早餐后抵达重庆，按指定时间送机。（游轮预计于上午约8:00-9:00靠岸，随后自码头出发送机。请注意：因长江水位变化等因素，游轮实际抵达靠岸时间可能延误，建议预订下午13：00之后的航班。）\n重要提示：\n游船段行程仅供参考，季节性调整或气候以及航道等因素的影响，每日行程可能会有所改变，具体行程以当日游船公司安排为准，游船公司保留对行程的最终解释权。",
-    "descEn": "重庆/送机Depart Chongqing（游轮早餐）\n早餐后抵达重庆，按指定时间送机。（游轮预计于上午约8:00-9:00靠岸，随后自码头出发送机。请注意：因长江水位变化等因素，游轮实际抵达靠岸时间可能延误，建议预订下午13：00之后的航班。）\n重要提示：\n游船段行程仅供参考，季节性调整或气候以及航道等因素的影响，每日行程可能会有所改变，具体行程以当日游船公司安排为准，游船公司保留对行程的最终解释权。",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "■報名費和綜合服務費請於報名時一同支付",
-   "■行程改期以及取消條款：",
-   "提前30天以上取消，無罰款。",
-   "提前20天-30天內的取消或更改，收取罰金USD100/CAD140/AUD160/人。",
-   "提前20天以內（包含 20天）取消或更改，將收取罰金USD400/CAD550/AUD600/人。",
-   "■本行程只接受美加澳新等國華人華儒參團,僅提供中文導遊服務。",
-   "■本行程全程都需要跟團活動，不可隨意離團。離團收取離團費USD150/天",
-   "■本公司保留根據實際情況適當調整行程的權利，請以實際最終行程為准。",
-   "■強烈建議客人自行購買必要的旅遊健康或意外保險",
-   "■楼层升级费用：",
-   "USD版本：团费包含長江行攬月號是2層標準房，可選升級3-4層標準房：+USD50/人/層，升級5樓甄選豪華房：+USD200/人，升級6樓甄選豪華房：+USD250/人",
-   "CAD版本：团费包含長江行攬月號是2層標準房，可選升級3-4層標準房：+CAD70/人/層，升級5樓甄選豪華房：+CAD280/人，升級6樓甄選豪華房：+CAD350/人",
-   "AUD版本：团费包含長江行攬月號是2層標準房，可選升級3-4層標準房：+AUD80/人/層，升級5樓甄選豪華房：+AUD320/人，升級6樓甄選豪華房：+AUD400人"
-  ],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0013",
@@ -39185,7 +38209,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0027",
@@ -39249,7 +38274,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0075",
@@ -39314,7 +38340,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0097",
@@ -39377,7 +38404,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+HN7B",
@@ -39685,7 +38713,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-A+VN6",
@@ -40027,7 +39056,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-A/AB+GZ6",
@@ -40327,7 +39357,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-A/AB+VN6",
@@ -40384,7 +39415,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJZH+YN6",
@@ -40789,7 +39821,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0004",
@@ -41125,7 +40158,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0005",
@@ -41189,7 +40223,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+NXJ08",
@@ -41262,7 +40297,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+NXJ08-1012",
@@ -41331,7 +40367,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+NXJ08-SP",
@@ -41420,7 +40457,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+SXJ08-1009",
@@ -41489,7 +40527,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+XNNSR08",
@@ -41562,7 +40601,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJN7+XZ08",
@@ -41635,7 +40675,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-A+CSGD7-MI",
@@ -41728,7 +40769,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH8-A/AB+CSGD7-MI",
@@ -41786,7 +40828,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJZH+HN7B",
@@ -42222,7 +41265,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTNXJ-SP+NJ14",
@@ -42298,7 +41342,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0002",
@@ -42530,7 +41575,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 107
  },
  {
   "id": "SUP-CM-0011",
@@ -42593,7 +41639,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 108
  },
  {
   "id": "SUP-CM-0022",
@@ -42662,7 +41709,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0052",
@@ -42726,7 +41774,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0111",
@@ -42789,7 +41838,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0206",
@@ -42870,7 +41920,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0010",
@@ -42933,71 +41984,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
- },
- {
-  "id": "SUP-CM-0018",
-  "supplierCode": "CM-0018",
-  "nameZh": "2026 (金钻江南，深圳机器人)马来西亚-文莱-越南-爱达魔都号游轮16日 （超值）",
-  "nameEn": "2026 (金钻江南，深圳机器人)马来西亚-文莱-越南-爱达魔都号游轮16日 （超值）",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "超值特惠团",
-  "subRegion": "江南上海",
-  "seasonTag": "",
-  "subRegions": [
-   "江南上海",
-   "广东广西福建海南"
-  ],
-  "price": "A$798",
-  "priceEn": "A$798",
-  "days": 16,
-  "startCity": "",
-  "tags": [
-   "超值特价"
-  ],
-  "tagsEn": [
-   "Value"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "参团须知\n\n一、报名资格\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\n二、费用说明\n（一）团费已含（以具体行程单为准）\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\n（二）团费不含\n国际及国内机票、签证费用；\n旅游意外险、医疗保险（强烈建议自行购买）；\n当地推荐自费项目、私人消费；\n单人房差、酒店提前/延后续住、额外接送机；\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\n（三）其他收费（具体以各线路公布为准）\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\n三、行程、购物与自费项目\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\n四、接送服务\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\n非规定时间或额外接送，须提前确认并另行付费。\n五、报名与合同\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\n六、退改政策\n（一）不可抗力（我社无法出团）\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\n\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\n\n（二）客人主动取消 / 拒绝参团\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\n\n书面通知时间\t取消\t改期\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\n（三）退改说明\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\n七、成行与行程调整\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\n本社在法律法规允许范围内保留最终解释权。\n八、其他\n未尽事宜请咨询组团社或本社客服。\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "",
-    "adult": 798.0,
-    "childbed": 1198.0,
-    "childnobed": 0.0,
-    "infant": "",
-    "single": 1000.0,
-    "transfer": 180.0,
-    "tip": 118.0,
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-CM",
-    "file": "SGJNAD1626BAUD.pdf",
-    "url": "/assets/suppliers/SUP-CM/SGJNAD1626BAUD.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "FUNT-FTJNH+DBSNOW17",
@@ -43066,7 +42054,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0006",
@@ -43129,7 +42118,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0015",
@@ -43192,7 +42182,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0017",
@@ -43253,7 +42244,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
  },
  {
   "id": "SUP-CM-0196",
@@ -43321,7 +42313,3366 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "SUP-CM-0014",
+  "supplierCode": "CM-0014",
+  "nameZh": "2026 （澳洲包机票） 新疆南疆北疆全景18日 （含机票）",
+  "nameEn": "2026 （澳洲包机票） 新疆南疆北疆全景18日 （含机票）",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
+  "category": "含机票特别订制团",
+  "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
+  "price": "A$4299",
+  "priceEn": "A$4299",
+  "days": 18,
+  "startCity": "",
+  "tags": [
+   "机票套餐"
+  ],
+  "tagsEn": [
+   "Flight-incl"
+  ],
+  "img": "assets/img/destinations/china.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "参团须知\n\n一、报名资格\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\n二、费用说明\n（一）团费已含（以具体行程单为准）\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\n（二）团费不含\n国际及国内机票、签证费用；\n旅游意外险、医疗保险（强烈建议自行购买）；\n当地推荐自费项目、私人消费；\n单人房差、酒店提前/延后续住、额外接送机；\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\n（三）其他收费（具体以各线路公布为准）\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\n三、行程、购物与自费项目\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\n四、接送服务\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\n非规定时间或额外接送，须提前确认并另行付费。\n五、报名与合同\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\n六、退改政策\n（一）不可抗力（我社无法出团）\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\n\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\n\n（二）客人主动取消 / 拒绝参团\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\n\n书面通知时间\t取消\t改期\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\n（三）退改说明\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\n七、成行与行程调整\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\n本社在法律法规允许范围内保留最终解释权。\n八、其他\n未尽事宜请咨询组团社或本社客服。\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "",
+    "adult": 4299.0,
+    "childbed": 4299.0,
+    "childnobed": 0.0,
+    "infant": "",
+    "single": 1200.0,
+    "transfer": 300.0,
+    "tip": 118.0,
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-CM",
+    "file": "FLYER-AIR-NGXJ1826B-AUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/FLYER-AIR-NGXJ1826B-AUD.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "SUP-CM-0195",
+  "supplierCode": "AIR-SGJNSR1826",
+  "nameZh": "2026 横贯中国·纵览山河：吴越水乡西域大漠 18天传奇丝路 （含机票）",
+  "nameEn": "2026 横贯中国·纵览山河：吴越水乡西域大漠 18天传奇丝路 （含机票）",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
+  "category": "含机票特别订制团",
+  "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
+  "price": "A$2168",
+  "priceEn": "A$2168",
+  "days": 18,
+  "startCity": "",
+  "tags": [
+   "机票套餐"
+  ],
+  "tagsEn": [
+   "Flight-incl"
+  ],
+  "img": "assets/img/destinations/china.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [
+   {
+    "date": "2026-10-15",
+    "status": "Open"
+   },
+   {
+    "date": "2026-10-17",
+    "status": "Open"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 2168.0,
+    "childbed": 1398.0,
+    "childnobed": 898.0,
+    "infant": "",
+    "single": 850.0,
+    "transfer": "",
+    "tip": 400.0,
+    "service": 400.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-CM",
+    "file": "FLYER-AIR-SGJNSR1826-AUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/FLYER-AIR-SGJNSR1826-AUD.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "SUP-CM-0197",
+  "supplierCode": "AIR-NGXJ1826B",
+  "nameZh": "2026 南北疆全景深度游 18天 （含机票）",
+  "nameEn": "2026 南北疆全景深度游 18天 （含机票）",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
+  "category": "含机票特别订制团",
+  "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "seasonTag": "",
+  "subRegions": [
+   "新疆甘肃西藏青海丝绸之路"
+  ],
+  "price": "A$4299",
+  "priceEn": "A$4299",
+  "days": 18,
+  "startCity": "",
+  "tags": [
+   "机票套餐"
+  ],
+  "tagsEn": [
+   "Flight-incl"
+  ],
+  "img": "assets/img/destinations/china.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [
+   {
+    "date": "2026-08-18",
+    "status": "Open"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲",
+    "adult": 4299.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": 1200.0,
+    "transfer": "",
+    "tip": 300.0,
+    "service": 300.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-CM",
+    "file": "FLYER-AIR-NGXJ1826B-AUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/FLYER-AIR-NGXJ1826B-AUD.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "SUP-CM-0012",
+  "supplierCode": "CM-0012",
+  "nameZh": "2026 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票 （含机票）",
+  "nameEn": "2026 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票 （含机票）",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
+  "category": "含机票特别订制团",
+  "subRegion": "九寨张家界云南贵州",
+  "seasonTag": "",
+  "subRegions": [
+   "九寨张家界云南贵州",
+   "广东广西福建海南"
+  ],
+  "price": "A$3599",
+  "priceEn": "A$3599",
+  "days": 19,
+  "startCity": "",
+  "tags": [
+   "机票套餐"
+  ],
+  "tagsEn": [
+   "Flight-incl"
+  ],
+  "img": "assets/img/destinations/china.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "参团须知\n\n一、报名资格\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\n二、费用说明\n（一）团费已含（以具体行程单为准）\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\n（二）团费不含\n国际及国内机票、签证费用；\n旅游意外险、医疗保险（强烈建议自行购买）；\n当地推荐自费项目、私人消费；\n单人房差、酒店提前/延后续住、额外接送机；\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\n（三）其他收费（具体以各线路公布为准）\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\n三、行程、购物与自费项目\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\n四、接送服务\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\n非规定时间或额外接送，须提前确认并另行付费。\n五、报名与合同\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\n六、退改政策\n（一）不可抗力（我社无法出团）\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\n\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\n\n（二）客人主动取消 / 拒绝参团\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\n\n书面通知时间\t取消\t改期\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\n（三）退改说明\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\n七、成行与行程调整\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\n本社在法律法规允许范围内保留最终解释权。\n八、其他\n未尽事宜请咨询组团社或本社客服。\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "",
+    "adult": 3599.0,
+    "childbed": 3599.0,
+    "childnobed": 0.0,
+    "infant": "",
+    "single": 1300.0,
+    "transfer": 300.0,
+    "tip": 178.0,
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-CM",
+    "file": "NGGZJX1626AUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/NGGZJX1626AUD.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "Nova-DC9D",
+  "supplierCode": "DC9D",
+  "nameZh": "China Discovery Super Value",
+  "nameEn": "China Discovery Super Value",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
+  "category": "英文专线",
+  "subRegion": "",
+  "seasonTag": "",
+  "subRegions": [],
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 0,
+  "startCity": "",
+  "tags": [
+   "英文专线"
+  ],
+  "tagsEn": [
+   "English Tour"
+  ],
+  "img": "assets/img/destinations/china.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EU01",
+  "supplierCode": "EU01",
+  "nameZh": "欧洲任你行-东欧璀璨9天 (捷克、斯洛伐克、匈牙利、奥地利、瑞士、德国)[纯玩]",
+  "nameEn": "欧洲任你行-东欧璀璨9天 (捷克、斯洛伐克、匈牙利、奥地利、瑞士、德国)[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "任你行",
+  "seasonTag": "",
+  "subRegions": [
+   "任你行"
+  ],
+  "price": "A$1808",
+  "priceEn": "A$1808",
+  "days": 9,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Frankfurt / Frankfurt",
+    "adult": 1808.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "EU01_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU01_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EU03",
+  "supplierCode": "EU03",
+  "nameZh": "欧洲任你行—西欧经典9天（荷兰、比利时、法国、卢森堡、德国）[纯玩]",
+  "nameEn": "欧洲任你行—西欧经典9天（荷兰、比利时、法国、卢森堡、德国）[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "任你行",
+  "seasonTag": "",
+  "subRegions": [
+   "任你行"
+  ],
+  "price": "A$1808",
+  "priceEn": "A$1808",
+  "days": 9,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Frankfurt / Frankfurt",
+    "adult": 1808.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "EU03_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU03_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EU04",
+  "supplierCode": "EU04",
+  "nameZh": "欧洲任你行-英伦贵族9天 （英国、苏格兰)[纯玩]",
+  "nameEn": "欧洲任你行-英伦贵族9天 （英国、苏格兰)[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "任你行",
+  "seasonTag": "",
+  "subRegions": [
+   "任你行"
+  ],
+  "price": "A$1808",
+  "priceEn": "A$1808",
+  "days": 9,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Paris / Paris",
+    "adult": 1808.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "EU04_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU04_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EU05",
+  "supplierCode": "EU05",
+  "nameZh": "欧洲任你行—南欧热情9天 (西班牙、葡萄牙)[纯玩]",
+  "nameEn": "欧洲任你行—南欧热情9天 (西班牙、葡萄牙)[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "任你行",
+  "seasonTag": "",
+  "subRegions": [
+   "任你行"
+  ],
+  "price": "A$1808",
+  "priceEn": "A$1808",
+  "days": 9,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Madrid / Madrid",
+    "adult": 1808.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "EU05_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU05_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EU07",
+  "supplierCode": "EU07",
+  "nameZh": "欧洲任你行-熏衣风韵9天 （法国、普罗旺斯、西班牙、安道尔）[纯玩]",
+  "nameEn": "欧洲任你行-熏衣风韵9天 （法国、普罗旺斯、西班牙、安道尔）[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "任你行",
+  "seasonTag": "",
+  "subRegions": [
+   "任你行"
+  ],
+  "price": "A$1808",
+  "priceEn": "A$1808",
+  "days": 9,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Paris / Paris",
+    "adult": 1808.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "EU07_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU07_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EU08",
+  "supplierCode": "EU08",
+  "nameZh": "欧洲任你行— 西欧 古意盎然 9天（捷克， 波兰， 德国）[纯玩]",
+  "nameEn": "欧洲任你行— 西欧 古意盎然 9天（捷克， 波兰， 德国）[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "任你行",
+  "seasonTag": "",
+  "subRegions": [
+   "任你行"
+  ],
+  "price": "A$1808",
+  "priceEn": "A$1808",
+  "days": 9,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "布拉格 Prague / 布拉格 Prague",
+    "adult": 1808.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "EU08_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU08_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EU22",
+  "supplierCode": "EU22",
+  "nameZh": "沉醉古城巴尔干9天 （克罗地亚，黑山共和国，匈牙利）[纯玩]",
+  "nameEn": "沉醉古城巴尔干9天 （克罗地亚，黑山共和国，匈牙利）[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "多国连线",
+  "seasonTag": "",
+  "subRegions": [
+   "多国连线"
+  ],
+  "price": "A$1808",
+  "priceEn": "A$1808",
+  "days": 9,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Budapest / Budapest",
+    "adult": 1808.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "EU22_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU22_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-GB12",
+  "supplierCode": "GB12",
+  "nameZh": "Britain 12 Days Ultimate Tour[超值]",
+  "nameEn": "Britain 12 Days Ultimate Tour[超值]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "超值特惠团",
+  "subRegion": "欧洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "欧洲其他"
+  ],
+  "price": "A$4999",
+  "priceEn": "A$4999",
+  "days": 12,
+  "startCity": "",
+  "tags": [
+   "超值特价"
+  ],
+  "tagsEn": [
+   "Value"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "LHR / LHR",
+    "adult": 4999.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-GEE12",
+  "supplierCode": "GEE12",
+  "nameZh": "希腊 浪漫之旅 12日[纯玩]",
+  "nameEn": "希腊 浪漫之旅 12日[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "欧洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "欧洲其他"
+  ],
+  "price": "A$3688",
+  "priceEn": "A$3688",
+  "days": 12,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 3688.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EURCH03",
+  "supplierCode": "EURCH03",
+  "nameZh": "东欧浪漫名城8国15天皇牌精选之旅（特价团）[纯玩]",
+  "nameEn": "东欧浪漫名城8国15天皇牌精选之旅（特价团）[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "多国连线",
+  "seasonTag": "",
+  "subRegions": [
+   "多国连线"
+  ],
+  "price": "A$2888",
+  "priceEn": "A$2888",
+  "days": 15,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲 AUS / 澳洲 AUS",
+    "adult": 2888.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EURCH04",
+  "supplierCode": "EURCH04",
+  "nameZh": "东欧浪漫名城8国15天皇牌精选之旅（尊享团）[纯玩]",
+  "nameEn": "东欧浪漫名城8国15天皇牌精选之旅（尊享团）[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "多国连线",
+  "seasonTag": "",
+  "subRegions": [
+   "多国连线"
+  ],
+  "price": "A$5488",
+  "priceEn": "A$5488",
+  "days": 15,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲 AUS / 澳洲 AUS",
+    "adult": 5488.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EURS16DT",
+  "supplierCode": "EURS16DT",
+  "nameZh": "西班牙葡萄牙南法16天历史文化之旅 【2026 - 2027】[纯玩]",
+  "nameEn": "西班牙葡萄牙南法16天历史文化之旅 【2026 - 2027】[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "欧洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "欧洲其他"
+  ],
+  "price": "A$4988",
+  "priceEn": "A$4988",
+  "days": 16,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲 AUS / 澳洲 AUS",
+    "adult": 4988.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 109
+ },
+ {
+  "id": "PV-ISFI16D",
+  "supplierCode": "ISFI16D",
+  "nameZh": "冬季追逐幸运之光冰岛 童话世界芬兰16日之旅[纯玩]",
+  "nameEn": "冬季追逐幸运之光冰岛 童话世界芬兰16日之旅[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "欧洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "欧洲其他"
+  ],
+  "price": "A$7999",
+  "priceEn": "A$7999",
+  "days": 16,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲 AUS / 澳洲 AUS",
+    "adult": 7999.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-ISNO16D",
+  "supplierCode": "ISNO16D",
+  "nameZh": "夏季冰岛挪威峡湾绝美罗弗敦群岛16日之旅[纯玩]",
+  "nameEn": "夏季冰岛挪威峡湾绝美罗弗敦群岛16日之旅[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "欧洲其他",
+  "seasonTag": "",
+  "subRegions": [
+   "欧洲其他"
+  ],
+  "price": "A$7999",
+  "priceEn": "A$7999",
+  "days": 16,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲 AUS / 澳洲 AUS",
+    "adult": 7999.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EURCH01",
+  "supplierCode": "EURCH01",
+  "nameZh": "西欧8国璀璨文化18天 皇牌精选之旅 【2026 - 2027】[纯玩]",
+  "nameEn": "西欧8国璀璨文化18天 皇牌精选之旅 【2026 - 2027】[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "多国连线",
+  "seasonTag": "",
+  "subRegions": [
+   "多国连线"
+  ],
+  "price": "A$5688",
+  "priceEn": "A$5688",
+  "days": 18,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "澳洲 AUS / 澳洲 AUS",
+    "adult": 5688.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-MSC20",
+  "supplierCode": "MSC20",
+  "nameZh": "艺术风格西葡+加泰罗尼亚全景+地中海邮轮巡游 20日[纯玩]",
+  "nameEn": "艺术风格西葡+加泰罗尼亚全景+地中海邮轮巡游 20日[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "多国连线",
+  "seasonTag": "",
+  "subRegions": [
+   "多国连线"
+  ],
+  "price": "A$5850",
+  "priceEn": "A$5850",
+  "days": 20,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "SYDNEY / SYDNEY",
+    "adult": 5850.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Spain---Portugal---Catalonia---Mediterranean-Cruise-20-Days_MSC20_2026-12-22.pdf",
+    "url": "/assets/suppliers/SUP-PV/Spain---Portugal---Catalonia---Mediterranean-Cruise-20-Days_MSC20_2026-12-22.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-GEE25",
+  "supplierCode": "GEE25",
+  "nameZh": "希腊-东欧-大巴尔干九国22-25日游[纯玩]",
+  "nameEn": "希腊-东欧-大巴尔干九国22-25日游[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
+  "category": "纯玩无购物团",
+  "subRegion": "多国连线",
+  "seasonTag": "",
+  "subRegions": [
+   "多国连线"
+  ],
+  "price": "A$6399",
+  "priceEn": "A$6399",
+  "days": 25,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/europe.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Sydney",
+    "adult": 6399.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "Nova-NANAT4",
+  "supplierCode": "NANAT4",
+  "nameZh": "新西兰北岛 4 日探索之旅",
+  "nameEn": "新西兰北岛 4 日探索之旅",
+  "dest": "nz",
+  "destZh": "新西兰",
+  "destEn": "nz",
+  "category": "纯玩无购物团",
+  "subRegion": "新西兰北岛",
+  "seasonTag": "",
+  "subRegions": [
+   "新西兰北岛"
+  ],
+  "price": "A$1798",
+  "priceEn": "A$1798",
+  "days": 4,
+  "startCity": "新西兰",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/nz.jpg",
+  "introZh": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
+  "introEn": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
+  "participationNotice": "[关于接机]: 第一天下午抵达奥克兰的航班，导游分别在下午3点及6 点抵达机场接机;如不能赶上这2次接机的客人(航班延误或航 班时间不匹配)，需自行安排交通前往酒店，如需加购额外接机 服务，参考价格$250/单程(7-12座⻋型) [关于送机]: 最后一天下午约5点左右抵达奥克兰机场，请酌情预定 适合的航班，境内航班建议提前1小时，国际航班建议提前3小时 抵达机场值机 小孩年龄5-12岁，2-4岁不占床$639/人；婴儿为2岁以下不占床$300/人 1. 行程内所有项目都将按照实际情况（如疫情，天气，交通等不可抗力）因素决定，本公司保留依据实际情况对行程做出调整的权力，客人不得对此要求补偿。 2. 我社保留因季节变化、酒店航班变更、前往地区情况及其他不可抗力原因而调整最终价格和行程顺序的权利。 3. 此团最低发团人数为6人起。 4. 所有节目安排按当地状况（如因天气、酒店或航班等）决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 5. 新西兰住宿设施有限，公司会根据实际情况调整酒店；新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "新西兰",
+    "adult": 1798.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
+    "descEn": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "1. 4星级酒店双人标准间住宿",
+   "2. 中文司机兼导游服务",
+   "3. 旅游⻋",
+   "4. 行程中所列餐⻝(",
+   "5. 行程中列明★之景区，景点⻔票费用。 儿童价格: 5-11周岁占床-双人房:$959/人，5-11周岁占床-三人房(与2成人同住):$929/人，2-4周岁不占床(与2成人同住):$639/人，0-2周岁不占床(与2成人同住):$300/人 不占床儿童提供车位、餐食, 不提供酒店早餐 婴儿提供车位, 不提供餐食"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "1. 新西兰境内或国际段机票",
+   "2. 办理护照及签证的相关费用",
+   "3. 自费项目等需另行付费的费用",
+   "4. 司导小费(建议6纽币/每人/每天)",
+   "5. 购买个人旅游保险的费用(强烈建议购买)",
+   "6. 由旅游者个人行为所导致的额外费用",
+   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗 因素(疫情，交通延误、罢工、自然灾害等)所产生的损失和费 用。 *特殊节假日附加费:圣诞，中国新年期间出发的团，成人及2岁以上儿童需 收取附加费$150/人(12月23-1月5日及1月28-2月4日之间出发的团)"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "Nova-NZN4DA",
+  "supplierCode": "NZN4DA",
+  "nameZh": "新西兰北岛 4 日中土风情之旅",
+  "nameEn": "新西兰北岛 4 日中土风情之旅",
+  "dest": "nz",
+  "destZh": "新西兰",
+  "destEn": "nz",
+  "category": "纯玩无购物团",
+  "subRegion": "新西兰北岛",
+  "seasonTag": "",
+  "subRegions": [
+   "新西兰北岛"
+  ],
+  "price": "A$1798",
+  "priceEn": "A$1798",
+  "days": 4,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/nz.jpg",
+  "introZh": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰\n\n行程攻略：\n建议航班： 第一天（周五）下午1pm-4pm之间抵达奥克兰的航班 第四天（周一）下午3pm后离开奥克兰的航班 实用攻略 观赏萤火虫时，请勿拍照 建议穿着/携带：保暖衣物、遮阳帽、防晒霜、相机、双筒望远镜、晕船药（如有需要） 出行提示 预订后请将收到的行程单及确认单打印并随身携带，以备海关核验； 出行前 2 日请联系客服查询接机导游信息； 抵达机场后请移步抵达大厅寻找【喜洋洋假期】的接机牌； 请准备好护照及签证办理出入境手续，入境卡可在飞机上或机场领取（建议自备笔）； 新西兰海关检查甚严，请勿携带食物、违禁品等影响入境； 新西兰与澳洲手机网络并不通用，请提前开通国际漫游； 新西兰使用与澳洲同款插座，且大部分地区电压相同； 新西兰当地普遍接受信用卡，且行程已含大部分餐饮，如需携带现金请在入境前自备，以避免抵达后无处换汇的尴尬；",
+  "introEn": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰\n\n行程攻略：\n建议航班： 第一天（周五）下午1pm-4pm之间抵达奥克兰的航班 第四天（周一）下午3pm后离开奥克兰的航班 实用攻略 观赏萤火虫时，请勿拍照 建议穿着/携带：保暖衣物、遮阳帽、防晒霜、相机、双筒望远镜、晕船药（如有需要） 出行提示 预订后请将收到的行程单及确认单打印并随身携带，以备海关核验； 出行前 2 日请联系客服查询接机导游信息； 抵达机场后请移步抵达大厅寻找【喜洋洋假期】的接机牌； 请准备好护照及签证办理出入境手续，入境卡可在飞机上或机场领取（建议自备笔）； 新西兰海关检查甚严，请勿携带食物、违禁品等影响入境； 新西兰与澳洲手机网络并不通用，请提前开通国际漫游； 新西兰使用与澳洲同款插座，且大部分地区电压相同； 新西兰当地普遍接受信用卡，且行程已含大部分餐饮，如需携带现金请在入境前自备，以避免抵达后无处换汇的尴尬；",
+  "participationNotice": "[关于接机]: 第一天下午任意抵达奥克兰的航班，酒店入住时间是下午2点以后； [关于送机]: 第四天天下午4点后离开奥克兰的航班，酒店退房时间为上午10点。 因任何原因错过接机的客人，都需自行解决前往下一站的交通问题，由此产生并衍生的所有费用需自行承担。 小孩年龄5-12岁，2-4岁不占床$479/人；婴儿为2岁以下不占床 1. 行程内所有项目都将按照实际情况（如疫情，天气，交通等不可抗力）因素决定，本公司保留依据实际情况对行程做出调整的权力，客人不得对此要求补偿。 2. 我社保留因季节变化、酒店航班变更、前往地区情况及其他不可抗力原因而调整最终价格和行程顺序的权利。 3. 此团最低发团人数为6人起。 4. 所有节目安排按当地状况（如因天气、酒店或航班等）决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 5. 新西兰住宿设施有限，公司会根据实际情况调整酒店；新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "新西兰",
+    "adult": 1798.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰",
+    "descEn": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "1. 4星级酒店双人标准间住宿",
+   "2. 中文司机兼导游服务",
+   "3. 旅游车",
+   "4. 行程中所列餐食",
+   "5. 行程中列明★之景区，景点门票费用。"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "1. 新西兰境内或国际段机票",
+   "2. 办理护照及签证的相关费用",
+   "3. 自费项目等需另行付费的费用",
+   "4. 司导小费（建议6纽币/每人/每天）",
+   "5. 购买个人旅游保险的费用（强烈建议购买）",
+   "6. 由旅游者个人行为所导致的额外费用",
+   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗因素（疫情，交通延误、罢工、自然灾害等）所产生的损失和费用。"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "Nova-nzs7d23",
+  "supplierCode": "nzs7d23",
+  "nameZh": "新西兰南岛 7 日湖光山色之旅",
+  "nameEn": "新西兰南岛 7 日湖光山色之旅",
+  "dest": "nz",
+  "destZh": "新西兰",
+  "destEn": "nz",
+  "category": "纯玩无购物团",
+  "subRegion": "新西兰南岛",
+  "seasonTag": "",
+  "subRegions": [
+   "新西兰南岛"
+  ],
+  "price": "A$1858",
+  "priceEn": "A$1858",
+  "days": 7,
+  "startCity": "新西兰",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/Nova-nzs7d23/Nova-nzs7d23_hero.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-nzs7d23/Nova-nzs7d23_hero_1.jpg",
+   "assets/suppliers/SUP-NOVA/products/Nova-nzs7d23/Nova-nzs7d23_hero_2.jpg"
+  ],
+  "introZh": "行程亮点: \r\n\r\n★ 星空保护区 ★ 绝美冰湖 \r\n\r\n★ 库克山顶级步道体验 \r\n\r\n★格林诺奇小镇 ★ 复古箭镇 \r\n\r\n★米尔福德峡湾[包含] ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢[包含]",
+  "introEn": "行程亮点: \r\n\r\n★ 星空保护区 ★ 绝美冰湖 \r\n\r\n★ 库克山顶级步道体验 \r\n\r\n★格林诺奇小镇 ★ 复古箭镇 \r\n\r\n★米尔福德峡湾[包含] ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢[包含]",
+  "participationNotice": "** 行程說明 ** 1. 航班要求: 第一天下午14:00左右抵达基督城的航班；导游下午分别在15:30 和 17:30 抵达机场接机，如航班抵达时间搭配不上2次接机服务，可自行乘坐机场出租车或机场巴士前往酒店 ; 最后一天15:00后离开基督城的境内航班 17:00后离开基督城的國际航班，两次送机抵达机场时间为14: 00和16:00. **因任何原因错 过接机的客人，都需自行解决前往下一站的交通问题，由此产生并衍生的所有费用需自行承担. 2. 儿童年龄: 5-11周岁必须占床,不满5岁可不占床,不占床儿童提供车位不提供餐食. 3. 旺季附加费: 圣诞节，新年，中国新年期间加收AUD200/人起. ** 权益说明 ** 1. 行程内所有项目都将按照实际情况(如疫情，天气，交通等不可抗力)因素决定，本公司保留依据实际情况对行程做出调整的权力，客人不得对此要求 补偿。 2. 我社保留因季节变化、酒店航班变更、前往地区情况及其他不可抗力原因而调整最终价格和行程顺序的权利。 3. 所有节目安排按当地状况(如因天气、酒店或航班等)决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 4. 新西兰住宿设施有限，公司会根据实际情况调整酒店;新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力 确认，但不能完全保证可满足此要求。",
+  "departureDates": [
+   {
+    "date": "2026-08-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-02",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-09",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-16",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-30",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-27",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-25",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-01",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-08",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-15",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-22",
+    "status": "available"
+   },
+   {
+    "date": "2027-01-29",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-26",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-05",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-12",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-19",
+    "status": "available"
+   },
+   {
+    "date": "2027-03-26",
+    "status": "available"
+   }
+  ],
+  "depRule": [
+   4
+  ],
+  "validFrom": "2026-08-10",
+  "validTo": "2027-03-31",
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "新西兰",
+    "adult": 1858.0,
+    "childbed": "",
+    "childnobed": 1100.0,
+    "infant": 350.0,
+    "single": 450.0,
+    "transfer": "",
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-NOVA",
+    "file": "nzs7d23_brochure.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/nzs7d23_brochure.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "Day 1  抵达基督城\r\n今日抵达基督城后，为您安排接机，随后送您前往酒店休息。\r\n(导游下午分别在 15:30 和 17:30 抵达机场接机，如航班抵达时间搭配不上 2 次接机服务，可自 行乘坐机场出租车或机场巴士前往酒店) 如需协助预定机场小巴英文拼车服务，加收 AUD20/人/单程，机场小巴英文包车 AUD100/车/单程\r\n如航班抵达时间较早，等待期间也可自行前往机场附近的南极中心游览。\r\n 国际南极中心InternationalAntarcticCentreNZD59/成人NZD39/儿童5-15years 这里可以收获真实的南极体验! 国际南极中心位于机场的南极科研基地。各项有趣的体验活动向您 提供充满欢乐、令人兴奋的全方位感官互动性南极体验.\r\n  无\r\n  IBIS Hotel Christchurch 或同级\r\n\r\nDay 2  基督城-蒂卡波湖-冰河湖区\r\n今日带您游览花园城市基督城植物园及艺术馆。午后出发前往蒂卡波湖，100%纯净新西兰代言湖蒂 卡波，拥有纯净的湖水和不可思议的景色，湖畔的好牧羊人教堂静静地守望着白雪皑皑的南阿尔卑 斯山脉。我们将下榻在星空保护区，入夜即可观看到全世界最璀璨的星空。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  The Godley Hotel 或 Mckenzie Country Hotel Twizel\r\n\r\nDay 3  冰河湖区-库克山-克伦威尔-皇后镇\r\n矗立着新西兰最高峰的库克山国家公园，以多样性的风景闻名于世。这里有多条著名的山谷短途步 道，推荐您尝试下塔斯曼冰川景观短途步道，一路经过雪山、冰川、草甸，仿佛至身高原雪域，身 心却无比轻松。您还可以预订雪山飞机，飞跃南阿尔卑斯山脉从空中欣赏壮丽的塔斯曼山谷，罕见 的冰湖及冰瀑布。天气晴好时，飞机将在壮阔的塔斯曼冰川着陆，让您有机会脚踏实地亿万年史前 冰川。之后在海拔 1969 的库克山三文鱼养殖场，可品尝到冰川水培育出的顶级三文鱼，紧实的肉质 伴随着丝滑口感令人唇齿难忘(费用自理)。下午路过克伦威尔水果小镇，可品尝当地新鲜水果。 傍晚抵达度假小镇皇后镇，夜宿皇后镇。\r\n  酒店早餐、西式简餐、中式晚餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 4  皇后镇-格林诺奇-箭镇-皇后镇\r\n今日带您探访迷人的格林诺奇小镇，深入中土世界。驰骋在世界十大最美景观公路之一的格林诺奇 大道，欣赏瓦卡蒂普沿湖风光，探访迷人的格林诺奇小镇，流连于天堂谷纯净无暇的自然之美。下 午前往新西兰最美小镇—箭镇，周围群山环绕，路旁古树参天，箭河(Arrow River)从峡谷淙淙流出， 这里也是大名鼎鼎的《魔戒》取景地。今天的小镇， 依然很好的维护并保持着它的历史特点，漫步 在这条街道上，两旁尽是百年的欧式建筑，时光都好像重新回到了 100 多年前。午餐晚餐留给您自 行安排，可品尝皇后镇著名的大脸汉堡，或挑选一家景色优美的湖边餐厅享用美味。\r\n  酒店早餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 5  皇后镇-米尔福德峡湾-蒂阿瑙\r\n早餐后，前往世界自然遗产★米尔福德峡湾。两百万年前的冰河运动与切割而产生的深邃峡谷，瀑 布宣泄而下，游船静静航行在其中，近距离观赏皮毛海豹和各种各样的海鸟。夜晚在小镇蒂阿瑙休 息，可以自费参观神奇的萤火虫洞，亲临地下“星河”所营造出的秘境。\r\n  酒店早餐、游船午餐、中式晚餐\r\n  Kingsgate Hotel Te Anau 或同级\r\n\r\nDay 6  皇后镇-但尼丁-奥马鲁\r\n早餐后前往具有浓郁苏格兰风情的但尼丁，但尼丁是新西兰的“苏格兰”，充满艺术气息的街道、 大教堂、八角广场、奥塔哥大学城、百年火车站以及随处可见的巨幅涂鸦都是拍照留念的绝佳地点， 挑战过世界上最倾斜的街道，去摩拉基海滩寻找不可思议的巨型圆石。夜幕降临时，在奥马鲁观看 世界上体积最小的★蓝企鹅集体归巢。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  Brydone Hotel 或 Motel 或 Teschemakers Resort\r\n\r\nDay 7  奥马鲁-基督城/家园\r\n早餐后，我们驱车返回基督城，沿途欣赏壮观的坎特伯雷大平原。午餐之后导游会将大家送往机场， 结束愉快的南岛之旅。(两次送机抵达机场时间为 14: 00 和 16:00)\r\n如需在基督城延住一晚的客人可加购酒店+机场穿梭巴士, 参考价格3-4星双人标间AUD200/房含早餐, 机场穿梭巴士AUD20/人/单程。\r\n  酒店早餐、中式午餐\r\n  无",
+    "descEn": "Day 1  抵达基督城\r\n今日抵达基督城后，为您安排接机，随后送您前往酒店休息。\r\n(导游下午分别在 15:30 和 17:30 抵达机场接机，如航班抵达时间搭配不上 2 次接机服务，可自 行乘坐机场出租车或机场巴士前往酒店) 如需协助预定机场小巴英文拼车服务，加收 AUD20/人/单程，机场小巴英文包车 AUD100/车/单程\r\n如航班抵达时间较早，等待期间也可自行前往机场附近的南极中心游览。\r\n 国际南极中心InternationalAntarcticCentreNZD59/成人NZD39/儿童5-15years 这里可以收获真实的南极体验! 国际南极中心位于机场的南极科研基地。各项有趣的体验活动向您 提供充满欢乐、令人兴奋的全方位感官互动性南极体验.\r\n  无\r\n  IBIS Hotel Christchurch 或同级\r\n\r\nDay 2  基督城-蒂卡波湖-冰河湖区\r\n今日带您游览花园城市基督城植物园及艺术馆。午后出发前往蒂卡波湖，100%纯净新西兰代言湖蒂 卡波，拥有纯净的湖水和不可思议的景色，湖畔的好牧羊人教堂静静地守望着白雪皑皑的南阿尔卑 斯山脉。我们将下榻在星空保护区，入夜即可观看到全世界最璀璨的星空。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  The Godley Hotel 或 Mckenzie Country Hotel Twizel\r\n\r\nDay 3  冰河湖区-库克山-克伦威尔-皇后镇\r\n矗立着新西兰最高峰的库克山国家公园，以多样性的风景闻名于世。这里有多条著名的山谷短途步 道，推荐您尝试下塔斯曼冰川景观短途步道，一路经过雪山、冰川、草甸，仿佛至身高原雪域，身 心却无比轻松。您还可以预订雪山飞机，飞跃南阿尔卑斯山脉从空中欣赏壮丽的塔斯曼山谷，罕见 的冰湖及冰瀑布。天气晴好时，飞机将在壮阔的塔斯曼冰川着陆，让您有机会脚踏实地亿万年史前 冰川。之后在海拔 1969 的库克山三文鱼养殖场，可品尝到冰川水培育出的顶级三文鱼，紧实的肉质 伴随着丝滑口感令人唇齿难忘(费用自理)。下午路过克伦威尔水果小镇，可品尝当地新鲜水果。 傍晚抵达度假小镇皇后镇，夜宿皇后镇。\r\n  酒店早餐、西式简餐、中式晚餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 4  皇后镇-格林诺奇-箭镇-皇后镇\r\n今日带您探访迷人的格林诺奇小镇，深入中土世界。驰骋在世界十大最美景观公路之一的格林诺奇 大道，欣赏瓦卡蒂普沿湖风光，探访迷人的格林诺奇小镇，流连于天堂谷纯净无暇的自然之美。下 午前往新西兰最美小镇—箭镇，周围群山环绕，路旁古树参天，箭河(Arrow River)从峡谷淙淙流出， 这里也是大名鼎鼎的《魔戒》取景地。今天的小镇， 依然很好的维护并保持着它的历史特点，漫步 在这条街道上，两旁尽是百年的欧式建筑，时光都好像重新回到了 100 多年前。午餐晚餐留给您自 行安排，可品尝皇后镇著名的大脸汉堡，或挑选一家景色优美的湖边餐厅享用美味。\r\n  酒店早餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 5  皇后镇-米尔福德峡湾-蒂阿瑙\r\n早餐后，前往世界自然遗产★米尔福德峡湾。两百万年前的冰河运动与切割而产生的深邃峡谷，瀑 布宣泄而下，游船静静航行在其中，近距离观赏皮毛海豹和各种各样的海鸟。夜晚在小镇蒂阿瑙休 息，可以自费参观神奇的萤火虫洞，亲临地下“星河”所营造出的秘境。\r\n  酒店早餐、游船午餐、中式晚餐\r\n  Kingsgate Hotel Te Anau 或同级\r\n\r\nDay 6  皇后镇-但尼丁-奥马鲁\r\n早餐后前往具有浓郁苏格兰风情的但尼丁，但尼丁是新西兰的“苏格兰”，充满艺术气息的街道、 大教堂、八角广场、奥塔哥大学城、百年火车站以及随处可见的巨幅涂鸦都是拍照留念的绝佳地点， 挑战过世界上最倾斜的街道，去摩拉基海滩寻找不可思议的巨型圆石。夜幕降临时，在奥马鲁观看 世界上体积最小的★蓝企鹅集体归巢。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  Brydone Hotel 或 Motel 或 Teschemakers Resort\r\n\r\nDay 7  奥马鲁-基督城/家园\r\n早餐后，我们驱车返回基督城，沿途欣赏壮观的坎特伯雷大平原。午餐之后导游会将大家送往机场， 结束愉快的南岛之旅。(两次送机抵达机场时间为 14: 00 和 16:00)\r\n如需在基督城延住一晚的客人可加购酒店+机场穿梭巴士, 参考价格3-4星双人标间AUD200/房含早餐, 机场穿梭巴士AUD20/人/单程。\r\n  酒店早餐、中式午餐\r\n  无",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "1. 3-4星级酒店双人标准间住宿",
+   "2. 中文司机兼导游服务",
+   "3. 旅游车",
+   "4. 行程中所列餐食",
+   "5. 行程中列明★之景区，景点门票费用。"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "1. 新西兰境内或国际段机票",
+   "2. 办理护照及签证的相关费用",
+   "3. 自费项目等需另行付费的费用",
+   "4. 司导小费(建议6纽币/每人/每天)",
+   "5. 购买个人旅游保险的费用(强烈建议购买)",
+   "6. 由旅游者个人行为所导致的额外费用",
+   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗因素(疫情，交通延误、罢工、自然灾害等)所产生的损失和费用。"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "Nova-NZS9DD",
+  "supplierCode": "NZS9DD",
+  "nameZh": "新西兰南岛全景 9 日游",
+  "nameEn": "新西兰南岛全景 9 日游",
+  "dest": "nz",
+  "destZh": "新西兰",
+  "destEn": "nz",
+  "category": "纯玩无购物团",
+  "subRegion": "新西兰南岛",
+  "seasonTag": "",
+  "subRegions": [
+   "新西兰南岛"
+  ],
+  "price": "A$1798",
+  "priceEn": "A$1798",
+  "days": 9,
+  "startCity": "新西兰南岛全景9日游",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/nz.jpg",
+  "introZh": "前往南岛西海岸，亲眼目睹那些延伸至雪线下方的巨大冰川河谷，几乎入海。\n在这里，时间仍“静止”在冰河时代。\n 福克斯冰川全长13公里，从南阿尔卑斯山2600米的高处倾斜而下。\n四条高山冰川每年都会累积大约30米深的积雪，并注入福克斯冰川。\n积雪在冰川顶部压缩成数百米深的蓝色冰雪，沿着山势向下滑落至下方的河谷，落在300米厚的冰层上。\n冰川与陡峭的峡谷土层之间的压力，促使一部分积雪融化，为这种运动提供了润滑的作用。\n 再加上冰川顶部的大量积雪不断汇入冰川，使福克斯冰川和弗朗兹约瑟夫冰川的流速比大部分峡谷冰川快了十倍左右。\n 冰川下方的山谷斜坡引起了冰川表面的裂缝、隆起和深谷，形成了这壮观巍峨、令人胆寒的冰冻景观。\n 南岛的湖区中，瓦纳卡宛如一名腼腆的少女，将她的美丽隐藏在瓦纳卡湖和哈威亚湖以及南阿尔卑斯山之间，等待着富有好奇心的游客将她发现。\n 有人说，以前的淘金者拜服于此地皇室般高贵端华的美丽，便将之命名为“皇后镇”。\n皇后镇坐落在水晶般澄澈的 瓦卡蒂普湖畔 ，四周环绕雄伟群山。\n乘坐空中缆车登上鲍勃峰后，你可以领略摄人魂魄的风光。\n你可以在此放松身心，俯瞰皇后镇的绚丽景色。\n乘坐 TSS 厄恩斯劳号蒸汽船游览瓦卡蒂普湖。\n品尝美味佳肴，宽敞观景台，参观动力舱和人文历史展览。\n 峡湾地区可谓新西兰风光最迷人、景色最优美的旅游目的地之一。\n在所有宣传新西兰旅游的书籍和画册中，米尔福德峡湾大概是被使用频率最高的图片。\n它因冰川流动切割而成，享有“世界第八大奇迹”的美誉。\n 奥玛鲁(Oamaru)以南40公里处的摩拉基(Moeraki)海滩上散布着很多圆形巨石。\n也有一些大圆石分布在砂岩峭壁的周围，每块巨石都重达数吨，高达两米。\n据毛利人传说，几百年前，独木舟阿雷德欧鲁(Araiteuru）在将要在新西兰靠岸时翻船，船上的很多葫芦被冲上岸，就形成了今天我们看到的大圆石。\n 对此，科学家的解释是这些大圆石是方解石凝结物，形成于六千五百万年前。\n 行程特色： 各地美食：中西式晚餐交替享用，更有游湖午餐、韩国烧烤、海鲜火锅、峡湾龙虾晚餐、鲍鱼午餐 舒适酒店：全程3～4星酒店 专业导游：专业中文导游，全程陪伴（自由活动两天无导游） 放心游玩：行程门票全包，无强制自费项目 参团的价格，自由的体验，前后段参团 + 皇后镇 1 天自由活动，价格和自由度的完美结合，性价比无与伦比！\n 在此还可参加独家魔戒之旅（单独半天行程），真正的深入体验新西兰！",
+  "introEn": "前往南岛西海岸，亲眼目睹那些延伸至雪线下方的巨大冰川河谷，几乎入海。\n在这里，时间仍“静止”在冰河时代。\n 福克斯冰川全长13公里，从南阿尔卑斯山2600米的高处倾斜而下。\n四条高山冰川每年都会累积大约30米深的积雪，并注入福克斯冰川。\n积雪在冰川顶部压缩成数百米深的蓝色冰雪，沿着山势向下滑落至下方的河谷，落在300米厚的冰层上。\n冰川与陡峭的峡谷土层之间的压力，促使一部分积雪融化，为这种运动提供了润滑的作用。\n 再加上冰川顶部的大量积雪不断汇入冰川，使福克斯冰川和弗朗兹约瑟夫冰川的流速比大部分峡谷冰川快了十倍左右。\n 冰川下方的山谷斜坡引起了冰川表面的裂缝、隆起和深谷，形成了这壮观巍峨、令人胆寒的冰冻景观。\n 南岛的湖区中，瓦纳卡宛如一名腼腆的少女，将她的美丽隐藏在瓦纳卡湖和哈威亚湖以及南阿尔卑斯山之间，等待着富有好奇心的游客将她发现。\n 有人说，以前的淘金者拜服于此地皇室般高贵端华的美丽，便将之命名为“皇后镇”。\n皇后镇坐落在水晶般澄澈的 瓦卡蒂普湖畔 ，四周环绕雄伟群山。\n乘坐空中缆车登上鲍勃峰后，你可以领略摄人魂魄的风光。\n你可以在此放松身心，俯瞰皇后镇的绚丽景色。\n乘坐 TSS 厄恩斯劳号蒸汽船游览瓦卡蒂普湖。\n品尝美味佳肴，宽敞观景台，参观动力舱和人文历史展览。\n 峡湾地区可谓新西兰风光最迷人、景色最优美的旅游目的地之一。\n在所有宣传新西兰旅游的书籍和画册中，米尔福德峡湾大概是被使用频率最高的图片。\n它因冰川流动切割而成，享有“世界第八大奇迹”的美誉。\n 奥玛鲁(Oamaru)以南40公里处的摩拉基(Moeraki)海滩上散布着很多圆形巨石。\n也有一些大圆石分布在砂岩峭壁的周围，每块巨石都重达数吨，高达两米。\n据毛利人传说，几百年前，独木舟阿雷德欧鲁(Araiteuru）在将要在新西兰靠岸时翻船，船上的很多葫芦被冲上岸，就形成了今天我们看到的大圆石。\n 对此，科学家的解释是这些大圆石是方解石凝结物，形成于六千五百万年前。\n 行程特色： 各地美食：中西式晚餐交替享用，更有游湖午餐、韩国烧烤、海鲜火锅、峡湾龙虾晚餐、鲍鱼午餐 舒适酒店：全程3～4星酒店 专业导游：专业中文导游，全程陪伴（自由活动两天无导游） 放心游玩：行程门票全包，无强制自费项目 参团的价格，自由的体验，前后段参团 + 皇后镇 1 天自由活动，价格和自由度的完美结合，性价比无与伦比！\n 在此还可参加独家魔戒之旅（单独半天行程），真正的深入体验新西兰！",
+  "participationNotice": "1. 航班: 请订第一天下午14：00抵达基督城的航班；导游下午分别在15:30和17:30抵达机场接机 ; 最後一天下午15:00後离开基督城的境内航班 /17:00後离开基督城的国际航班。航班晚点的客人，团队不能久候，此时客人需自行解决前往下一站的交通，由此产生的费用需客人自行承担，因此损失的旅游包团部分的任何费用不退款。 2. 报名时需付全款。 3. 出发前30-14个工作日之内取消，收取AUD$500/人；出发前7-14个工作日内取消，收取AUD$900/人；距离出发日期7个工作日以内恕不退换。 4. 如因个人原因未能及时汇合导游，本公司不承担任何责任。 5. 所有节目安排按当地状况（如因天气、酒店或航班等）决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 6. 新西兰住宿设施有限，公司会根据实际情况调整酒店，并且新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。 订购时请提供参团人姓名、性别、年龄，以及预计航班时间。 请在订单确认后再购买机票，以免造成损失。",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "新西兰",
+    "adult": 1798.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "基督城",
+    "descEn": "基督城",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "基督城–亚瑟通道国家公园–格雷茅斯/霍基蒂卡",
+    "descEn": "基督城–亚瑟通道国家公园–格雷茅斯/霍基蒂卡",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "格雷茅斯/霍基蒂卡–西海岸冰川–哈斯特",
+    "descEn": "格雷茅斯/霍基蒂卡–西海岸冰川–哈斯特",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "哈斯特-瓦纳卡-皇后镇",
+    "descEn": "哈斯特-瓦纳卡-皇后镇",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D5",
+    "titleZh": "第5天",
+    "titleEn": "Day 5",
+    "descZh": "皇后镇-格林诺奇-箭镇-皇后镇",
+    "descEn": "皇后镇-格林诺奇-箭镇-皇后镇",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D6",
+    "titleZh": "第6天",
+    "titleEn": "Day 6",
+    "descZh": "皇后镇自由行",
+    "descEn": "皇后镇自由行",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D7",
+    "titleZh": "第7天",
+    "titleEn": "Day 7",
+    "descZh": "皇后镇-但尼丁-奥马鲁",
+    "descEn": "皇后镇-但尼丁-奥马鲁",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D8",
+    "titleZh": "第8天",
+    "titleEn": "Day 8",
+    "descZh": "奥马鲁-库克山-特威泽尔",
+    "descEn": "奥马鲁-库克山-特威泽尔",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D9",
+    "titleZh": "第9天",
+    "titleEn": "Day 9",
+    "descZh": "特威泽尔-蒂卡波湖-基督城/家园",
+    "descEn": "特威泽尔-蒂卡波湖-基督城/家园",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "3-4星级酒店住宿, 最多容纳3人, 儿童价适用于不满12岁儿童,婴儿价适用于不满2岁婴儿, 5岁以上儿童必须占床 行程中所列餐食， 中文司机兼导游，旅游车， 行程中列明**之景点门票。"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "国际、国内机票、税、 签证费用； 导游小费：建议每人每天NZ$6； 私人消费及旅游保险（强烈建议购买，如客人没有购买旅游保险，当有意外发生时，需自行承担，如额外的交通费，住宿费，取消费等）。"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "Nova-NZAN4A7",
+  "supplierCode": "NZAN4A7",
+  "nameZh": "新西兰南北岛 10 日精华之旅",
+  "nameEn": "新西兰南北岛 10 日精华之旅",
+  "dest": "nz",
+  "destZh": "新西兰",
+  "destEn": "nz",
+  "category": "纯玩无购物团",
+  "subRegion": "南北岛连线",
+  "seasonTag": "",
+  "subRegions": [
+   "南北岛连线"
+  ],
+  "price": "A$1798",
+  "priceEn": "A$1798",
+  "days": 10,
+  "startCity": "新西兰",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/nz.jpg",
+  "introZh": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
+  "introEn": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
+  "participationNotice": "*** 价格为每人 *** **周五发团 1. 儿童價分为：5-11周岁占床-双人房，5-11周岁占床-三人房，2-4周岁不占床，0-2周岁不占床 2. 航班要求: - 去程：第一天下午任意时间抵达奥克兰的航班，酒店入住时间是下午2点以後；乘坐机场接驳小巴 Supper Shuttle前往酒店（需按指引自行前往乘坐点上车） - 北岛-南岛航班：第4天下午约13:30-14:00之间抵达奥克兰机场，请预定3点后从奥克兰起飞的航班。基督城导游下午2次接机，分别在15：30和17：30抵达机场接机。 - 返程：两次送抵基督城机场时间为14:00和16:00，需预定15:00后离开基督城的境内航班；17:00后离开基督城的国际航班。 3. ⾏程内所有项⽬都将按照当地实际情况（如疫情，天⽓，交通等不可抗⼒）因素决定，本公司保留依据实际情况对⾏程做出调整的权⼒，客⼈不得对此要求补偿。 4. 我社保留因季节变化、酒店航班变更、前往地区实际情况及其他不可抗⼒原因⽽调整最终价格和⾏程顺序的权利。 5. 新西兰住宿设施有限，公司会根据实际情况调整酒店；新西兰三人间默认为一张双人床加⼀张单人床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "新西兰",
+    "adult": 1798.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
+    "descEn": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "1. 3-4星级酒店双人标准间住宿",
+   "2. 中文司机兼导游服务",
+   "3. 旅游车",
+   "4. 行程中所列餐食",
+   "5. 行程中列明★之景区，景点门票费用"
+  ],
+  "includesEn": [],
+  "excludes": [
+   "1. 新西兰境内或国际段机票",
+   "2. 办理护照及签证的相关费用",
+   "3. 自费项目等需另行付费的费用",
+   "4. 司导小费（建议6纽币/每人/每天）",
+   "5. 购买个人旅游保险的费用（强烈建议购买）",
+   "6. 由旅游者个人行为所导致的额外费用",
+   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗因素（疫 情，交通延误、罢工、自然灾害等）所产生的损失和费用。"
+  ],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 109
+ },
+ {
+  "id": "PV-NZSN11",
+  "supplierCode": "NZSN11",
+  "nameZh": "南北岛双火车11天 冰川大环线8天+北岛4天",
+  "nameEn": "南北岛双火车11天 冰川大环线8天+北岛4天",
+  "dest": "nz",
+  "destZh": "新西兰",
+  "destEn": "nz",
+  "category": "纯玩无购物团",
+  "subRegion": "南北岛连线",
+  "seasonTag": "",
+  "subRegions": [
+   "南北岛连线"
+  ],
+  "price": "A$3390",
+  "priceEn": "A$3390",
+  "days": 11,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/nz.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Christchurch 基督城 / Auckland 奥克兰",
+    "adult": 3390.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "NZSN11_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/NZSN11_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EPB6",
+  "supplierCode": "EPB6",
+  "nameZh": "探秘不丹朝圣之旅 6日[纯玩]",
+  "nameEn": "探秘不丹朝圣之旅 6日[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "不丹尼泊尔",
+  "seasonTag": "",
+  "subRegions": [
+   "不丹尼泊尔"
+  ],
+  "price": "A$4780",
+  "priceEn": "A$4780",
+  "days": 6,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "香港 / 香港",
+    "adult": 4780.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Exploring-the-Pilgrimage-of-Bhutan-6-Days_EPB6_2026-12-29.pdf",
+    "url": "/assets/suppliers/SUP-PV/Exploring-the-Pilgrimage-of-Bhutan-6-Days_EPB6_2026-12-29.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-FTCMN8",
+  "supplierCode": "FTCMN8",
+  "nameZh": "神秘摩洛哥 风情 8天[纯玩]",
+  "nameEn": "神秘摩洛哥 风情 8天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "非洲中东",
+  "seasonTag": "",
+  "subRegions": [
+   "非洲中东"
+  ],
+  "price": "A$1499",
+  "priceEn": "A$1499",
+  "days": 8,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "卡萨布兰卡 CMN / 卡萨布兰卡 CMN",
+    "adult": 1499.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Mysterious-Morocco--Charming-8-Days_FTCMN8_2026-12-28.pdf",
+    "url": "/assets/suppliers/SUP-PV/Mysterious-Morocco--Charming-8-Days_FTCMN8_2026-12-28.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-EBB10",
+  "supplierCode": "EBB10",
+  "nameZh": "探秘雷龙之国不丹， 曼谷 双国 10日游[纯玩]",
+  "nameEn": "探秘雷龙之国不丹， 曼谷 双国 10日游[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "不丹尼泊尔",
+  "seasonTag": "",
+  "subRegions": [
+   "不丹尼泊尔"
+  ],
+  "price": "A$3",
+  "priceEn": "A$3",
+  "days": 10,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "曼谷 / 曼谷",
+    "adult": 3.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Explore-Bhutan--the-Land-of-Thunder-Dragons--and-Bangkok-10-Day-Tour_EBB10_2026-12-31.pdf",
+    "url": "/assets/suppliers/SUP-PV/Explore-Bhutan--the-Land-of-Thunder-Dragons--and-Bangkok-10-Day-Tour_EBB10_2026-12-31.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-TK11",
+  "supplierCode": "TK11",
+  "nameZh": "全景土耳其11日 品质超值[纯玩]",
+  "nameEn": "全景土耳其11日 品质超值[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "土耳其希腊",
+  "seasonTag": "",
+  "subRegions": [
+   "土耳其希腊"
+  ],
+  "price": "A$1888",
+  "priceEn": "A$1888",
+  "days": 11,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Istanbul 伊斯坦布尔 / Istanbul 伊斯坦布尔",
+    "adult": 1888.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Panoramic-Turkey-11-Days_TK11_2026-12-26.pdf",
+    "url": "/assets/suppliers/SUP-PV/Panoramic-Turkey-11-Days_TK11_2026-12-26.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-AAG12",
+  "supplierCode": "AAG12",
+  "nameZh": "高加索 三国 12天[纯玩]",
+  "nameEn": "高加索 三国 12天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "非洲中东",
+  "seasonTag": "",
+  "subRegions": [
+   "非洲中东"
+  ],
+  "price": "A$3988",
+  "priceEn": "A$3988",
+  "days": 12,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "阿塞拜疆 / 第比利斯",
+    "adult": 3988.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Caucasus-Three-Countries-12-Days_AAG12_2027-03-17.pdf",
+    "url": "/assets/suppliers/SUP-PV/Caucasus-Three-Countries-12-Days_AAG12_2027-03-17.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-KGM12",
+  "supplierCode": "KGM12",
+  "nameZh": "肯尼雅动物大迁徙12日[纯玩]",
+  "nameEn": "肯尼雅动物大迁徙12日[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "非洲中东",
+  "seasonTag": "",
+  "subRegions": [
+   "非洲中东"
+  ],
+  "price": "A$9680",
+  "priceEn": "A$9680",
+  "days": 12,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "Sydney / Nairobi",
+    "adult": 9680.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Kenya-s-Great-Migration--Day-12_KGM12_2026-09-25.pdf",
+    "url": "/assets/suppliers/SUP-PV/Kenya-s-Great-Migration--Day-12_KGM12_2026-09-25.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-NB12",
+  "supplierCode": "NB12",
+  "nameZh": "喜马拉雅|古国尼泊尔 和幸福不丹 12天[纯玩]",
+  "nameEn": "喜马拉雅|古国尼泊尔 和幸福不丹 12天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "不丹尼泊尔",
+  "seasonTag": "",
+  "subRegions": [
+   "不丹尼泊尔"
+  ],
+  "price": "A$6988",
+  "priceEn": "A$6988",
+  "days": 12,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "尼泊尔 Nepal / 尼泊尔 Nepal",
+    "adult": 6988.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Himalayas-_-Ancient-Nepal-and-Blissful-Bhutan-12-Days_NB12_2026-08-11.pdf",
+    "url": "/assets/suppliers/SUP-PV/Himalayas-_-Ancient-Nepal-and-Blissful-Bhutan-12-Days_NB12_2026-08-11.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-NFCE12",
+  "supplierCode": "NFCE12",
+  "nameZh": "南森号 南极冰封大陆探险 12天[纯玩]",
+  "nameEn": "南森号 南极冰封大陆探险 12天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "南极",
+  "seasonTag": "",
+  "subRegions": [
+   "南极"
+  ],
+  "price": "A$18990",
+  "priceEn": "A$18990",
+  "days": 12,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "布宜諾斯艾利斯 Buenos Aires / 布宜諾斯艾利斯 Buenos Aires",
+    "adult": 18990.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "NFCE12_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/NFCE12_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-TKG15",
+  "supplierCode": "TKG15",
+  "nameZh": "土耳其 希腊 15天[纯玩]",
+  "nameEn": "土耳其 希腊 15天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "土耳其希腊",
+  "seasonTag": "",
+  "subRegions": [
+   "土耳其希腊"
+  ],
+  "price": "A$3899",
+  "priceEn": "A$3899",
+  "days": 15,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "伊斯坦布尔 / 雅典",
+    "adult": 3899.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Turkiye-and-Greece-15-days_TKG15_2026-12-19.pdf",
+    "url": "/assets/suppliers/SUP-PV/Turkiye-and-Greece-15-days_TKG15_2026-12-19.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-SAFC16",
+  "supplierCode": "SAFC16",
+  "nameZh": "非洲四国： 肯尼亚、南非、津巴布韦， 赞比亚 16天之旅[纯玩]",
+  "nameEn": "非洲四国： 肯尼亚、南非、津巴布韦， 赞比亚 16天之旅[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "非洲中东",
+  "seasonTag": "",
+  "subRegions": [
+   "非洲中东"
+  ],
+  "price": "A$12680",
+  "priceEn": "A$12680",
+  "days": 16,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "开普敦 CPT / 内罗毕 NBO",
+    "adult": 12680.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Africa-4-Countries-Kenya-South-Africa-Zimbabwe-Zambia-Exploration-Tour-16-Days_SAFC16_2026-09-20.pdf",
+    "url": "/assets/suppliers/SUP-PV/Africa-4-Countries-Kenya-South-Africa-Zimbabwe-Zambia-Exploration-Tour-16-Days_SAFC16_2026-09-20.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-AAM17",
+  "supplierCode": "AAM17",
+  "nameZh": "瑰丽非洲 动物大迁徙 17天[纯玩]",
+  "nameEn": "瑰丽非洲 动物大迁徙 17天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "非洲中东",
+  "seasonTag": "",
+  "subRegions": [
+   "非洲中东"
+  ],
+  "price": "A$26800",
+  "priceEn": "A$26800",
+  "days": 17,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "SYD / SYD",
+    "adult": 26800.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Magnificent-Africa-Animal-Migration-17-Days_AAM17_2026-09-30.pdf",
+    "url": "/assets/suppliers/SUP-PV/Magnificent-Africa-Animal-Migration-17-Days_AAM17_2026-09-30.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-WEFSA17",
+  "supplierCode": "WEFSA17",
+  "nameZh": "西南非五国野性探秘之旅 17日[纯玩]",
+  "nameEn": "西南非五国野性探秘之旅 17日[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "非洲中东",
+  "seasonTag": "",
+  "subRegions": [
+   "非洲中东"
+  ],
+  "price": "A$26800",
+  "priceEn": "A$26800",
+  "days": 17,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "开普敦 CPT / 约堡 JNB",
+    "adult": 26800.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "Wilderness-Exploration-Tour-of-Five-Southwestern-African-Countries-17-Days_WEFSA17_2027-09-16.pdf",
+    "url": "/assets/suppliers/SUP-PV/Wilderness-Exploration-Tour-of-Five-Southwestern-African-Countries-17-Days_WEFSA17_2027-09-16.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-FCSA20",
+  "supplierCode": "FCSA20",
+  "nameZh": "奇幻中南美 20天[纯玩]",
+  "nameEn": "奇幻中南美 20天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "南美",
+  "seasonTag": "",
+  "subRegions": [
+   "南美"
+  ],
+  "price": "A$14388",
+  "priceEn": "A$14388",
+  "days": 20,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "圣保罗 São Paulo / 哈瓦那 Havana",
+    "adult": 14388.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "FCSA20_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/FCSA20_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "PV-SA22",
+  "supplierCode": "SA22",
+  "nameZh": "南美五国 22天[纯玩]",
+  "nameEn": "南美五国 22天[纯玩]",
+  "dest": "other",
+  "destZh": "其他",
+  "destEn": "other",
+  "category": "纯玩无购物团",
+  "subRegion": "南美",
+  "seasonTag": "",
+  "subRegions": [
+   "南美"
+  ],
+  "price": "A$15599",
+  "priceEn": "A$15599",
+  "days": 22,
+  "startCity": "",
+  "tags": [
+   "纯玩无购物"
+  ],
+  "tagsEn": [
+   "No-shopping"
+  ],
+  "img": "assets/img/destinations/other.jpg",
+  "introZh": "",
+  "introEn": "",
+  "participationNotice": "",
+  "departureDates": [],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "阿根廷 / 巴西",
+    "adult": 15599.0,
+    "childbed": "",
+    "childnobed": "",
+    "infant": "",
+    "single": "",
+    "transfer": "",
+    "tip": "",
+    "service": 0.0
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-PV",
+    "file": "SA22_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/SA22_brochure.pdf"
+   }
+  ],
+  "itinerary": [],
+  "hotels": [],
+  "includes": [],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": false,
+  "forder": 0
+ },
+ {
+  "id": "SUP-CM-0003",
+  "supplierCode": "CM-0003",
+  "nameZh": "2026 奢華江南和平飯店-長江新船王攬月號/極光號13日",
+  "nameEn": "2026 奢華江南和平飯店-長江新船王攬月號/極光號13日",
+  "dest": "china",
+  "destZh": "中国",
+  "destEn": "china",
+  "category": "超值特惠团",
+  "subRegion": "江南上海",
+  "seasonTag": "",
+  "subRegions": [
+   "江南上海"
+  ],
+  "price": "A$799",
+  "priceEn": "A$799",
+  "days": 12,
+  "startCity": "",
+  "tags": [
+   "超值特价"
+  ],
+  "tagsEn": [
+   "Value"
+  ],
+  "img": [
+   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero_1.jpg",
+   "assets/suppliers/SUP-CM/products/SUP-CM-0003/SUP-CM-0003_hero.jpg"
+  ],
+  "introZh": "★【長江行·攬月號/極光號核心亮點】\r\n★2026年首航3億打造長江新船王三峽遊輪·首搭鴻蒙智能艙房系統\r\n★真·一價全包：含船上三餐+免費WIFI+指定酒水暢飲+自助洗衣+三峽大壩升船機體驗+葛洲壩過閘體驗。\r\n★全覽長江三峽·奇景盡收：瞿塘峽、巫峽、西陵峽，日間全景漫遊。\r\n★一次航程，兩大工程奇跡與三峽自然壯景交匯。\r\n★【奢華酒店】：上海網紅地標建築-世貿洲際深坑酒店；深坑奇觀，全球矚目。上海百年外灘邊的瑰麗城堡，電視劇“繁花”取景地-和平飯店。\r\n★【江南全覽】上海，烏鎮，杭州，無錫，南京，蘇州，濮院古鎮。\r\n★【超棒景點】精華全含：烏鎮+濮院古鎮“雙水鄉古鎮”，G20城市陽臺，西湖景區，夫子廟，大報恩寺遺址公園，拈花灣禪意小鎮，太湖風景區，水陸盤門，京杭大運河，上海灘。 ★特色美食：杭州: 西湖醋魚，南宋禦茶宴；無錫: 無錫排骨，太湖乾隆宴; 南京: 鹽水鴨，淮陽風味宴; 蘇州: 特色鱸魚，水鄉風味宴\r\n★【特別贈送】\r\n「3-6月」時令水果：根據季節安排時令水果，如枇杷、楊梅、醉李等。\r\n「7月」水蜜桃界的頂流：無錫陽山水蜜桃，皮韌易剝、香氣濃郁，汁多味甜，入口即化\r\n「9月15日至12月」中國三大古名蟹中唯一存世的品種：陽澄湖大閘蟹每人二隻（一公一母）",
+  "introEn": "★【長江行·攬月號/極光號核心亮點】\r\n★2026年首航3億打造長江新船王三峽遊輪·首搭鴻蒙智能艙房系統\r\n★真·一價全包：含船上三餐+免費WIFI+指定酒水暢飲+自助洗衣+三峽大壩升船機體驗+葛洲壩過閘體驗。\r\n★全覽長江三峽·奇景盡收：瞿塘峽、巫峽、西陵峽，日間全景漫遊。\r\n★一次航程，兩大工程奇跡與三峽自然壯景交匯。\r\n★【奢華酒店】：上海網紅地標建築-世貿洲際深坑酒店；深坑奇觀，全球矚目。上海百年外灘邊的瑰麗城堡，電視劇“繁花”取景地-和平飯店。\r\n★【江南全覽】上海，烏鎮，杭州，無錫，南京，蘇州，濮院古鎮。\r\n★【超棒景點】精華全含：烏鎮+濮院古鎮“雙水鄉古鎮”，G20城市陽臺，西湖景區，夫子廟，大報恩寺遺址公園，拈花灣禪意小鎮，太湖風景區，水陸盤門，京杭大運河，上海灘。 ★特色美食：杭州: 西湖醋魚，南宋禦茶宴；無錫: 無錫排骨，太湖乾隆宴; 南京: 鹽水鴨，淮陽風味宴; 蘇州: 特色鱸魚，水鄉風味宴\r\n★【特別贈送】\r\n「3-6月」時令水果：根據季節安排時令水果，如枇杷、楊梅、醉李等。\r\n「7月」水蜜桃界的頂流：無錫陽山水蜜桃，皮韌易剝、香氣濃郁，汁多味甜，入口即化\r\n「9月15日至12月」中國三大古名蟹中唯一存世的品種：陽澄湖大閘蟹每人二隻（一公一母）",
+  "participationNotice": "参团须知\r\n\r\n一、报名资格\r\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\r\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\r\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\r\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\r\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\r\n二、费用说明\r\n（一）团费已含（以具体行程单为准）\r\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\r\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\r\n（二）团费不含\r\n国际及国内机票、签证费用；\r\n旅游意外险、医疗保险（强烈建议自行购买）；\r\n当地推荐自费项目、私人消费；\r\n单人房差、酒店提前/延后续住、额外接送机；\r\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\r\n（三）其他收费（具体以各线路公布为准）\r\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\r\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\r\n三、行程、购物与自费项目\r\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\r\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\r\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\r\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\r\n四、接送服务\r\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\r\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\r\n非规定时间或额外接送，须提前确认并另行付费。\r\n五、报名与合同\r\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\r\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\r\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\r\n六、退改政策\r\n（一）不可抗力（我社无法出团）\r\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\r\n\r\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\r\n\r\n（二）客人主动取消 / 拒绝参团\r\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\r\n\r\n书面通知时间\t取消\t改期\r\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\r\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\r\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\r\n（三）退改说明\r\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\r\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\r\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\r\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\r\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\r\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\r\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\r\n七、成行与行程调整\r\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\r\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\r\n本社在法律法规允许范围内保留最终解释权。\r\n八、其他\r\n未尽事宜请咨询组团社或本社客服。\r\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\r\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
+  "departureDates": [
+   {
+    "date": "2026-08-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-03",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-21",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-10-05",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-10-08",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-10-15",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-10-22",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-10-26",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-10-29",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-11-02",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-11-05",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-09",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-11-12",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-16",
+    "status": "soldout"
+   },
+   {
+    "date": "2026-11-19",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-26",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-03",
+    "status": "available"
+   }
+  ],
+  "depRule": null,
+  "validFrom": null,
+  "validTo": null,
+  "surchargeNote": "",
+  "priceTable": [
+   {
+    "city": "sha",
+    "adult": 799.0,
+    "childbed": 2099.0,
+    "childnobed": 899.0,
+    "infant": "",
+    "single": 2150.0,
+    "transfer": 45.0,
+    "tip": "",
+    "service": ""
+   }
+  ],
+  "brochures": [
+   {
+    "supplier": "SUP-CM",
+    "file": "SGJNC1326ABAAAUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/SGJNC1326ABAAAUD.pdf"
+   }
+  ],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "抵达上海 Arrive in Shanghai\n抵达上海机场（PVG or SHA）或虹桥高铁站，接机/接站后送回酒店休息。相邻2小时内的航班/车次的客人，我们将统一安排车辆接送，接机/接站可能会有等待现象，敬请谅解！（酒店14:00后可办理入住，具体接机/接站资讯和酒店详情请见出团通知书）\n浦东机场接机汇合点：1号航站楼抵达层10号门内侧；2号航站楼抵达层“星巴克咖啡店”门口。\n虹桥机场接机汇合点：2号航站楼抵达层KFC肯德基门口。\n虹桥高铁站抵达的客人请通过走廊前往虹桥机场2号航站楼接机汇合点集合。\n虹桥机场1号航站楼抵达的客人请乘坐航站楼摆渡车前往2号航站楼接机汇合点集合。\n住宿：AB团：上海北外滩金辉索菲特酒店或同级酒店\nAA团：上海佘山世贸洲际酒店（深坑酒店）",
+    "descEn": "抵达上海 Arrive in Shanghai\n抵达上海机场（PVG or SHA）或虹桥高铁站，接机/接站后送回酒店休息。相邻2小时内的航班/车次的客人，我们将统一安排车辆接送，接机/接站可能会有等待现象，敬请谅解！（酒店14:00后可办理入住，具体接机/接站资讯和酒店详情请见出团通知书）\n浦东机场接机汇合点：1号航站楼抵达层10号门内侧；2号航站楼抵达层“星巴克咖啡店”门口。\n虹桥机场接机汇合点：2号航站楼抵达层KFC肯德基门口。\n虹桥高铁站抵达的客人请通过走廊前往虹桥机场2号航站楼接机汇合点集合。\n虹桥机场1号航站楼抵达的客人请乘坐航站楼摆渡车前往2号航站楼接机汇合点集合。\n住宿：AB团：上海北外滩金辉索菲特酒店或同级酒店\nAA团：上海佘山世贸洲际酒店（深坑酒店）",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "上海/杭州Shanghai/Hangzhou（酒店早餐，午餐东坡肉风味，晚餐自理）\n早餐后，驱车前往具有人间天堂美誉的杭州，作为一座历史悠久、文化繁荣的城市，杭州拥有丰富多样的自然景观和人文资源，尤其以美丽的西湖而闻名于世。游览杭州新晋网红景点【G20城市阳台】，在此可观钱塘江，眺望杭州亚运会场馆。随后前往游览【西湖景区】，环湖山峦迭翠，花木繁茂。远眺柳浪闻莺，三潭印月，雷峰夕照等西湖十景，名自景始，景以名传。漫步西湖，无限情调尽在此刻。\n★特别安排★【AI机器人基地】，了解机器人，互动机器人，中国科技的力量惊叹工业机器人的制造力，惊叹中国科技的力量。\n住宿：杭州锦豪雷迪森酒店或富阳喜来登酒店酒店或同级酒店",
+    "descEn": "上海/杭州Shanghai/Hangzhou（酒店早餐，午餐东坡肉风味，晚餐自理）\n早餐后，驱车前往具有人间天堂美誉的杭州，作为一座历史悠久、文化繁荣的城市，杭州拥有丰富多样的自然景观和人文资源，尤其以美丽的西湖而闻名于世。游览杭州新晋网红景点【G20城市阳台】，在此可观钱塘江，眺望杭州亚运会场馆。随后前往游览【西湖景区】，环湖山峦迭翠，花木繁茂。远眺柳浪闻莺，三潭印月，雷峰夕照等西湖十景，名自景始，景以名传。漫步西湖，无限情调尽在此刻。\n★特别安排★【AI机器人基地】，了解机器人，互动机器人，中国科技的力量惊叹工业机器人的制造力，惊叹中国科技的力量。\n住宿：杭州锦豪雷迪森酒店或富阳喜来登酒店酒店或同级酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "杭州/无锡Hangzhou/Wuxi（酒店早餐，午餐御茶宴，晚餐太湖风味）\n早餐后，游览西湖新十景之一【梅家坞茶文化村】，有山有貌，有坞有水，有茶有文的村落，是西湖龙井茶一级保护区和主产地之一，也是杭州城郊最有茶乡特色的农家自然村落和茶文化休闲观光旅游区。午餐后驱车前往中国古代吴文化的发源地之一的无锡。游览【长广溪湿地公园】，无锡最大的湿地公园，是一座集生态、休闲、科普、人文为一体的生态湿地公园。沿途欣赏太湖美丽风光，前往游览世界级禅意旅居度假目的地【拈花湾禅意小镇+梵天花海】，禅音绕耳、晨新暮霭，走在拈花湾的青石路上，暖阳照射，看遍和风美景，柔软的时光下保持一颗开心快乐的内心，把一切烦恼留着拈花湾的禅意里，带走好好生活的感受。\n住宿：无锡皇冠假日酒店或新湖铂尔曼酒店或同级酒店",
+    "descEn": "杭州/无锡Hangzhou/Wuxi（酒店早餐，午餐御茶宴，晚餐太湖风味）\n早餐后，游览西湖新十景之一【梅家坞茶文化村】，有山有貌，有坞有水，有茶有文的村落，是西湖龙井茶一级保护区和主产地之一，也是杭州城郊最有茶乡特色的农家自然村落和茶文化休闲观光旅游区。午餐后驱车前往中国古代吴文化的发源地之一的无锡。游览【长广溪湿地公园】，无锡最大的湿地公园，是一座集生态、休闲、科普、人文为一体的生态湿地公园。沿途欣赏太湖美丽风光，前往游览世界级禅意旅居度假目的地【拈花湾禅意小镇+梵天花海】，禅音绕耳、晨新暮霭，走在拈花湾的青石路上，暖阳照射，看遍和风美景，柔软的时光下保持一颗开心快乐的内心，把一切烦恼留着拈花湾的禅意里，带走好好生活的感受。\n住宿：无锡皇冠假日酒店或新湖铂尔曼酒店或同级酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "无锡/南京Wuxi/Nanjing（酒店早餐，午餐乾隆风味，晚餐自理）\n早餐后，前往太湖珍珠展示中心了解珍珠的生产制作过程。无锡太湖珍珠其粒大至优，色泽纯净，自然亮丽，晶莹滚圆，在国际市场上享有“无锡太湖珍珠天下第一”的美称。清代慈溪太后曾赞誉：“东球南珠不如太湖淡水珍珠”。参观紫砂茶壶博物馆，了解紫砂茶壶的制作工艺，欣赏多位紫砂名家传世作品。午餐后，驱车前往六朝古都南京，游览【东水关遗址公园】，公园将水关建筑与城墙建筑融为一体，具有“古桥、古河、古墙、古闸”四古之称。继而前往“烟笼寒水月笼沙，夜泊秦淮近酒家”的秦淮河畔【夫子庙】，茶肆酒楼商铺林立，是中国著名的开放式国家5A级旅游景区和国际旅游胜地。\n住宿：南京希尔顿酒店或温德姆花园酒店同级酒店",
+    "descEn": "无锡/南京Wuxi/Nanjing（酒店早餐，午餐乾隆风味，晚餐自理）\n早餐后，前往太湖珍珠展示中心了解珍珠的生产制作过程。无锡太湖珍珠其粒大至优，色泽纯净，自然亮丽，晶莹滚圆，在国际市场上享有“无锡太湖珍珠天下第一”的美称。清代慈溪太后曾赞誉：“东球南珠不如太湖淡水珍珠”。参观紫砂茶壶博物馆，了解紫砂茶壶的制作工艺，欣赏多位紫砂名家传世作品。午餐后，驱车前往六朝古都南京，游览【东水关遗址公园】，公园将水关建筑与城墙建筑融为一体，具有“古桥、古河、古墙、古闸”四古之称。继而前往“烟笼寒水月笼沙，夜泊秦淮近酒家”的秦淮河畔【夫子庙】，茶肆酒楼商铺林立，是中国著名的开放式国家5A级旅游景区和国际旅游胜地。\n住宿：南京希尔顿酒店或温德姆花园酒店同级酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D5",
+    "titleZh": "第5天",
+    "titleEn": "Day 5",
+    "descZh": "南京/苏州Nanjing/Suzhou（酒店早餐，午餐淮扬风味，晚餐自理）\n早餐后，游览【大报恩寺遗址公园】，这是中国规格最高、规模最大的寺庙遗址，也是保存最为完整的遗址之一。公园内保护性地展示了大报恩寺遗址中出土的千年地宫中的石函、铁函、七宝阿育王塔、金棺银椁等世界级国宝，参观天工造物艺术馆。随后，参观了玉器博览中心。南京素有“石头城”之称，其玉雕与浙江东阳木雕齐名。午餐后，我们驱车前往苏州。苏州是中国历史文化名城之一，也被誉为“东方威尼斯”。作为中国历史最悠久的城市之一，自公元前514年建城以来，它曾经是吴国、南宋时期的首都。\n住宿：苏州吴中希尔顿逸林酒店或盛虹万丽酒店或同级酒店",
+    "descEn": "南京/苏州Nanjing/Suzhou（酒店早餐，午餐淮扬风味，晚餐自理）\n早餐后，游览【大报恩寺遗址公园】，这是中国规格最高、规模最大的寺庙遗址，也是保存最为完整的遗址之一。公园内保护性地展示了大报恩寺遗址中出土的千年地宫中的石函、铁函、七宝阿育王塔、金棺银椁等世界级国宝，参观天工造物艺术馆。随后，参观了玉器博览中心。南京素有“石头城”之称，其玉雕与浙江东阳木雕齐名。午餐后，我们驱车前往苏州。苏州是中国历史文化名城之一，也被誉为“东方威尼斯”。作为中国历史最悠久的城市之一，自公元前514年建城以来，它曾经是吴国、南宋时期的首都。\n住宿：苏州吴中希尔顿逸林酒店或盛虹万丽酒店或同级酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D6",
+    "titleZh": "第6天",
+    "titleEn": "Day 6",
+    "descZh": "苏州/濮院Suzhou/Puyuan（酒店早餐，午餐水乡风味，晚餐自理）\n早餐后，外观【盘门】，盘门是春秋战国时期伍子胥所筑苏州城的八座城门之一，是中国现存最完整的水陆并联城门。古城门，古拱桥，古运河，一同见证了苏州2500年的历史变迁，【船游古运河+品茶听评弹】，乘船游古运河，古运河畔，古色古香的建筑依水而建，粉墙黛瓦，飞檐翘角，尽显江南水乡的独特魅力。前往江南丝绸工厂，了解丝绸的加工生产制作过程。参观乳胶健康睡眠中心。驱车前往2023年全新开幕【濮院古镇】，在原有自然村落的基础上，加入时尚文化元素，打造集观光、度假、商务、时尚的度假胜地。古镇以唐宋时期的建筑风格为主，鳞次栉比的房屋，青石板的老街，悠长的巷弄，保留着水陆并行、河街相邻、临河筑阁的江南水乡风貌。自由打卡古镇迷人夜景。\n住宿：濮院濮锦大酒店或同级酒店",
+    "descEn": "苏州/濮院Suzhou/Puyuan（酒店早餐，午餐水乡风味，晚餐自理）\n早餐后，外观【盘门】，盘门是春秋战国时期伍子胥所筑苏州城的八座城门之一，是中国现存最完整的水陆并联城门。古城门，古拱桥，古运河，一同见证了苏州2500年的历史变迁，【船游古运河+品茶听评弹】，乘船游古运河，古运河畔，古色古香的建筑依水而建，粉墙黛瓦，飞檐翘角，尽显江南水乡的独特魅力。前往江南丝绸工厂，了解丝绸的加工生产制作过程。参观乳胶健康睡眠中心。驱车前往2023年全新开幕【濮院古镇】，在原有自然村落的基础上，加入时尚文化元素，打造集观光、度假、商务、时尚的度假胜地。古镇以唐宋时期的建筑风格为主，鳞次栉比的房屋，青石板的老街，悠长的巷弄，保留着水陆并行、河街相邻、临河筑阁的江南水乡风貌。自由打卡古镇迷人夜景。\n住宿：濮院濮锦大酒店或同级酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D7",
+    "titleZh": "第7天",
+    "titleEn": "Day 7",
+    "descZh": "濮院/上海 Puyuan/Shanghai（酒店早餐，午餐本帮风味，晚餐自理）\n早餐后，返回上海。上海是中国第一大都市，也是全球重要的经济、金融和贸易中心之一。参观宝石会所，了解宝石的制作与工艺。参观中医养生中心了解健康养生。傍晚入住南京路上的上海外滩奢华地标——和平饭店，晚上可自行在中华第一街【南京路步行街】自由购物逛街。黄浦江畔的【外滩】，见证历史的“万国建筑博览群”和浦东陆家嘴的东方明珠和上海中心等摩登建筑隔江相望。每当夜幕降临，外滩的灯光璀璨夺目，映照着对岸陆家嘴的摩天大楼，形成了一幅现代与历史交织的美丽画卷。这里不仅是上海的象征，更是中国近现代史的一个缩影。漫步外滩，品味“十里洋场烟花地，风云际会上海滩”。\n住宿：上海和平饭店",
+    "descEn": "濮院/上海 Puyuan/Shanghai（酒店早餐，午餐本帮风味，晚餐自理）\n早餐后，返回上海。上海是中国第一大都市，也是全球重要的经济、金融和贸易中心之一。参观宝石会所，了解宝石的制作与工艺。参观中医养生中心了解健康养生。傍晚入住南京路上的上海外滩奢华地标——和平饭店，晚上可自行在中华第一街【南京路步行街】自由购物逛街。黄浦江畔的【外滩】，见证历史的“万国建筑博览群”和浦东陆家嘴的东方明珠和上海中心等摩登建筑隔江相望。每当夜幕降临，外滩的灯光璀璨夺目，映照着对岸陆家嘴的摩天大楼，形成了一幅现代与历史交织的美丽画卷。这里不仅是上海的象征，更是中国近现代史的一个缩影。漫步外滩，品味“十里洋场烟花地，风云际会上海滩”。\n住宿：上海和平饭店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D8",
+    "titleZh": "第8天",
+    "titleEn": "Day 8",
+    "descZh": "上海 Shanghai（酒店早餐）\n全天自由活动。\n住宿：上海北外滩金辉索菲特酒店或同级酒店",
+    "descEn": "上海 Shanghai（酒店早餐）\n全天自由活动。\n住宿：上海北外滩金辉索菲特酒店或同级酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D9",
+    "titleZh": "第9天",
+    "titleEn": "Day 9",
+    "descZh": "上海/宜昌Shanghai/Yichang（酒店早餐，游轮晚餐）\n(已含上海/宜昌高铁动车火车票）\n早餐后前往宜昌（高铁动车），前往宜昌。16:00前抵达宜昌三峡游客中心（宜昌港9码头）\n赠送专案：换乘豪华观光船【船过葛洲坝船闸·游西陵峡东段】— 抵达三斗坪码头后，乘车送至秭归港登长江行游轮。\n住宿：长江行揽月号游轮/极光号游轮",
+    "descEn": "上海/宜昌Shanghai/Yichang（酒店早餐，游轮晚餐）\n(已含上海/宜昌高铁动车火车票）\n早餐后前往宜昌（高铁动车），前往宜昌。16:00前抵达宜昌三峡游客中心（宜昌港9码头）\n赠送专案：换乘豪华观光船【船过葛洲坝船闸·游西陵峡东段】— 抵达三斗坪码头后，乘车送至秭归港登长江行游轮。\n住宿：长江行揽月号游轮/极光号游轮",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D10",
+    "titleZh": "第10天",
+    "titleEn": "Day 10",
+    "descZh": "宜昌/巴东Yichang / Badong（游轮早餐，游轮午餐，游轮晚餐）\n上午参观游览 【三峡大坝】 ，抵达三斗坪换乘游船过 【升船机】。午餐后 游轮航行经过【西陵峡西段】 — 欣赏长江山水的雄浑与灵秀。晚餐前船长欢迎酒会。夜游 【巴东无源洞】 — 走进奇幻溶洞，惊叹山水灵韵。\n（重要提示：因天气、水文、航道等原因及三峡升船机禁航停运期间，调整为参观三峡工程博物馆 & 截流纪念园。11月巴东无源洞改为安排次日游览巫山神女溪。）\n住宿：长江行揽月号游轮/极光号游轮",
+    "descEn": "宜昌/巴东Yichang / Badong（游轮早餐，游轮午餐，游轮晚餐）\n上午参观游览 【三峡大坝】 ，抵达三斗坪换乘游船过 【升船机】。午餐后 游轮航行经过【西陵峡西段】 — 欣赏长江山水的雄浑与灵秀。晚餐前船长欢迎酒会。夜游 【巴东无源洞】 — 走进奇幻溶洞，惊叹山水灵韵。\n（重要提示：因天气、水文、航道等原因及三峡升船机禁航停运期间，调整为参观三峡工程博物馆 & 截流纪念园。11月巴东无源洞改为安排次日游览巫山神女溪。）\n住宿：长江行揽月号游轮/极光号游轮",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D11",
+    "titleZh": "第11天",
+    "titleEn": "Day 11",
+    "descZh": "奉节Fengjie（游轮早餐，游轮午餐，游轮晚餐）\n上午游轮航行经过 【巫峡 & 瞿塘峡】；下午上岸游览（二选一）：A 线【 白帝城 】 — 体验三国古迹与诗城的千古遗风，或B线【三峡之巅】 — 俯瞰峡谷群峰与长江奔流。晚上游轮文艺表演。\n住宿：长江行揽月号游轮/极光号游轮",
+    "descEn": "奉节Fengjie（游轮早餐，游轮午餐，游轮晚餐）\n上午游轮航行经过 【巫峡 & 瞿塘峡】；下午上岸游览（二选一）：A 线【 白帝城 】 — 体验三国古迹与诗城的千古遗风，或B线【三峡之巅】 — 俯瞰峡谷群峰与长江奔流。晚上游轮文艺表演。\n住宿：长江行揽月号游轮/极光号游轮",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D12",
+    "titleZh": "第12天",
+    "titleEn": "Day 12",
+    "descZh": "涪陵Fuling（游轮早餐，游轮午餐，游轮晚餐）\n上午在船文化活动，下午上岸游览（二选一）：A 线【白鹤梁水下博物馆】 — 见证千年题刻和水下碑林，或B线【816工程遗址】 — 探秘全球最大人工洞体。晚上举行游轮欢送晚会。（重要提示：若因天气、水文、航道等不可抗力情况停靠丰都港，上岸游览调整为丰都鬼城）。\n住宿：长江行揽月号游轮/极光号游轮",
+    "descEn": "涪陵Fuling（游轮早餐，游轮午餐，游轮晚餐）\n上午在船文化活动，下午上岸游览（二选一）：A 线【白鹤梁水下博物馆】 — 见证千年题刻和水下碑林，或B线【816工程遗址】 — 探秘全球最大人工洞体。晚上举行游轮欢送晚会。（重要提示：若因天气、水文、航道等不可抗力情况停靠丰都港，上岸游览调整为丰都鬼城）。\n住宿：长江行揽月号游轮/极光号游轮",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D13",
+    "titleZh": "第13天",
+    "titleEn": "Day 13",
+    "descZh": "重庆/送机Depart Chongqing（游轮早餐）\n早餐后抵达重庆，按指定时间送机。（游轮预计于上午约8:00-9:00靠岸，随后自码头出发送机。请注意：因长江水位变化等因素，游轮实际抵达靠岸时间可能延误，建议预订下午13：00之后的航班。）\n重要提示：\n游船段行程仅供参考，季节性调整或气候以及航道等因素的影响，每日行程可能会有所改变，具体行程以当日游船公司安排为准，游船公司保留对行程的最终解释权。",
+    "descEn": "重庆/送机Depart Chongqing（游轮早餐）\n早餐后抵达重庆，按指定时间送机。（游轮预计于上午约8:00-9:00靠岸，随后自码头出发送机。请注意：因长江水位变化等因素，游轮实际抵达靠岸时间可能延误，建议预订下午13：00之后的航班。）\n重要提示：\n游船段行程仅供参考，季节性调整或气候以及航道等因素的影响，每日行程可能会有所改变，具体行程以当日游船公司安排为准，游船公司保留对行程的最终解释权。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
+  "hotels": [],
+  "includes": [
+   "■報名費和綜合服務費請於報名時一同支付",
+   "■行程改期以及取消條款：",
+   "提前30天以上取消，無罰款。",
+   "提前20天-30天內的取消或更改，收取罰金USD100/CAD140/AUD160/人。",
+   "提前20天以內（包含 20天）取消或更改，將收取罰金USD400/CAD550/AUD600/人。",
+   "■本行程只接受美加澳新等國華人華儒參團,僅提供中文導遊服務。",
+   "■本行程全程都需要跟團活動，不可隨意離團。離團收取離團費USD150/天",
+   "■本公司保留根據實際情況適當調整行程的權利，請以實際最終行程為准。",
+   "■強烈建議客人自行購買必要的旅遊健康或意外保險",
+   "■楼层升级费用：",
+   "USD版本：团费包含長江行攬月號是2層標準房，可選升級3-4層標準房：+USD50/人/層，升級5樓甄選豪華房：+USD200/人，升級6樓甄選豪華房：+USD250/人",
+   "CAD版本：团费包含長江行攬月號是2層標準房，可選升級3-4層標準房：+CAD70/人/層，升級5樓甄選豪華房：+CAD280/人，升級6樓甄選豪華房：+CAD350/人",
+   "AUD版本：团费包含長江行攬月號是2層標準房，可選升級3-4層標準房：+AUD80/人/層，升級5樓甄選豪華房：+AUD320/人，升級6樓甄選豪華房：+AUD400人"
+  ],
+  "includesEn": [],
+  "excludes": [],
+  "excludesEn": [],
+  "notes": [],
+  "notesEn": [],
+  "featured": true,
+  "forder": 1
  },
  {
   "id": "SUP-CM-0208",
@@ -43652,839 +46003,27 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": true,
+  "forder": 2
  },
  {
-  "id": "SUP-CM-0014",
-  "supplierCode": "CM-0014",
-  "nameZh": "2026 （澳洲包机票） 新疆南疆北疆全景18日 （含机票）",
-  "nameEn": "2026 （澳洲包机票） 新疆南疆北疆全景18日 （含机票）",
+  "id": "SUP-CM-0018",
+  "supplierCode": "CM-0018",
+  "nameZh": "2026 (金钻江南，深圳机器人)马来西亚-文莱-越南-爱达魔都号游轮16日 （超值）",
+  "nameEn": "2026 (金钻江南，深圳机器人)马来西亚-文莱-越南-爱达魔都号游轮16日 （超值）",
   "dest": "china",
   "destZh": "中国",
   "destEn": "china",
-  "category": "含机票特别订制团",
-  "subRegion": "新疆甘肃西藏青海丝绸之路",
+  "category": "超值特惠团",
+  "subRegion": "江南上海",
   "seasonTag": "",
   "subRegions": [
-   "新疆甘肃西藏青海丝绸之路"
-  ],
-  "price": "A$4299",
-  "priceEn": "A$4299",
-  "days": 18,
-  "startCity": "",
-  "tags": [
-   "机票套餐"
-  ],
-  "tagsEn": [
-   "Flight-incl"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "参团须知\n\n一、报名资格\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\n二、费用说明\n（一）团费已含（以具体行程单为准）\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\n（二）团费不含\n国际及国内机票、签证费用；\n旅游意外险、医疗保险（强烈建议自行购买）；\n当地推荐自费项目、私人消费；\n单人房差、酒店提前/延后续住、额外接送机；\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\n（三）其他收费（具体以各线路公布为准）\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\n三、行程、购物与自费项目\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\n四、接送服务\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\n非规定时间或额外接送，须提前确认并另行付费。\n五、报名与合同\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\n六、退改政策\n（一）不可抗力（我社无法出团）\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\n\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\n\n（二）客人主动取消 / 拒绝参团\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\n\n书面通知时间\t取消\t改期\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\n（三）退改说明\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\n七、成行与行程调整\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\n本社在法律法规允许范围内保留最终解释权。\n八、其他\n未尽事宜请咨询组团社或本社客服。\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "",
-    "adult": 4299.0,
-    "childbed": 4299.0,
-    "childnobed": 0.0,
-    "infant": "",
-    "single": 1200.0,
-    "transfer": 300.0,
-    "tip": 118.0,
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-CM",
-    "file": "FLYER-AIR-NGXJ1826B-AUD.pdf",
-    "url": "/assets/suppliers/SUP-CM/FLYER-AIR-NGXJ1826B-AUD.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "SUP-CM-0195",
-  "supplierCode": "AIR-SGJNSR1826",
-  "nameZh": "2026 横贯中国·纵览山河：吴越水乡西域大漠 18天传奇丝路 （含机票）",
-  "nameEn": "2026 横贯中国·纵览山河：吴越水乡西域大漠 18天传奇丝路 （含机票）",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "含机票特别订制团",
-  "subRegion": "新疆甘肃西藏青海丝绸之路",
-  "seasonTag": "",
-  "subRegions": [
-   "新疆甘肃西藏青海丝绸之路"
-  ],
-  "price": "A$2168",
-  "priceEn": "A$2168",
-  "days": 18,
-  "startCity": "",
-  "tags": [
-   "机票套餐"
-  ],
-  "tagsEn": [
-   "Flight-incl"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [
-   {
-    "date": "2026-10-15",
-    "status": "Open"
-   },
-   {
-    "date": "2026-10-17",
-    "status": "Open"
-   }
-  ],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲",
-    "adult": 2168.0,
-    "childbed": 1398.0,
-    "childnobed": 898.0,
-    "infant": "",
-    "single": 850.0,
-    "transfer": "",
-    "tip": 400.0,
-    "service": 400.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-CM",
-    "file": "FLYER-AIR-SGJNSR1826-AUD.pdf",
-    "url": "/assets/suppliers/SUP-CM/FLYER-AIR-SGJNSR1826-AUD.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "SUP-CM-0197",
-  "supplierCode": "AIR-NGXJ1826B",
-  "nameZh": "2026 南北疆全景深度游 18天 （含机票）",
-  "nameEn": "2026 南北疆全景深度游 18天 （含机票）",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "含机票特别订制团",
-  "subRegion": "新疆甘肃西藏青海丝绸之路",
-  "seasonTag": "",
-  "subRegions": [
-   "新疆甘肃西藏青海丝绸之路"
-  ],
-  "price": "A$4299",
-  "priceEn": "A$4299",
-  "days": 18,
-  "startCity": "",
-  "tags": [
-   "机票套餐"
-  ],
-  "tagsEn": [
-   "Flight-incl"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [
-   {
-    "date": "2026-08-18",
-    "status": "Open"
-   }
-  ],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲",
-    "adult": 4299.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": 1200.0,
-    "transfer": "",
-    "tip": 300.0,
-    "service": 300.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-CM",
-    "file": "FLYER-AIR-NGXJ1826B-AUD.pdf",
-    "url": "/assets/suppliers/SUP-CM/FLYER-AIR-NGXJ1826B-AUD.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "SUP-CM-0012",
-  "supplierCode": "CM-0012",
-  "nameZh": "2026 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票 （含机票）",
-  "nameEn": "2026 【锦绣中华】多彩贵州·大美江西·广州团圆19天-包机票 （含机票）",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "含机票特别订制团",
-  "subRegion": "九寨张家界云南贵州",
-  "seasonTag": "",
-  "subRegions": [
-   "九寨张家界云南贵州",
+   "江南上海",
    "广东广西福建海南"
   ],
-  "price": "A$3599",
-  "priceEn": "A$3599",
-  "days": 19,
-  "startCity": "",
-  "tags": [
-   "机票套餐"
-  ],
-  "tagsEn": [
-   "Flight-incl"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "参团须知\n\n一、报名资格\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\n二、费用说明\n（一）团费已含（以具体行程单为准）\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\n（二）团费不含\n国际及国内机票、签证费用；\n旅游意外险、医疗保险（强烈建议自行购买）；\n当地推荐自费项目、私人消费；\n单人房差、酒店提前/延后续住、额外接送机；\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\n（三）其他收费（具体以各线路公布为准）\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\n三、行程、购物与自费项目\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\n四、接送服务\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\n非规定时间或额外接送，须提前确认并另行付费。\n五、报名与合同\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\n六、退改政策\n（一）不可抗力（我社无法出团）\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\n\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\n\n（二）客人主动取消 / 拒绝参团\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\n\n书面通知时间\t取消\t改期\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\n（三）退改说明\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\n七、成行与行程调整\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\n本社在法律法规允许范围内保留最终解释权。\n八、其他\n未尽事宜请咨询组团社或本社客服。\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "",
-    "adult": 3599.0,
-    "childbed": 3599.0,
-    "childnobed": 0.0,
-    "infant": "",
-    "single": 1300.0,
-    "transfer": 300.0,
-    "tip": 178.0,
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-CM",
-    "file": "NGGZJX1626AUD.pdf",
-    "url": "/assets/suppliers/SUP-CM/NGGZJX1626AUD.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-DC9D",
-  "supplierCode": "DC9D",
-  "nameZh": "China Discovery Super Value",
-  "nameEn": "China Discovery Super Value",
-  "dest": "china",
-  "destZh": "中国",
-  "destEn": "china",
-  "category": "英文专线",
-  "subRegion": "",
-  "seasonTag": "",
-  "subRegions": [],
-  "price": "待确认",
-  "priceEn": "待确认",
-  "days": 0,
-  "startCity": "",
-  "tags": [
-   "英文专线"
-  ],
-  "tagsEn": [
-   "English Tour"
-  ],
-  "img": "assets/img/destinations/china.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EU01",
-  "supplierCode": "EU01",
-  "nameZh": "欧洲任你行-东欧璀璨9天 (捷克、斯洛伐克、匈牙利、奥地利、瑞士、德国)[纯玩]",
-  "nameEn": "欧洲任你行-东欧璀璨9天 (捷克、斯洛伐克、匈牙利、奥地利、瑞士、德国)[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "任你行",
-  "seasonTag": "",
-  "subRegions": [
-   "任你行"
-  ],
-  "price": "A$1808",
-  "priceEn": "A$1808",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Frankfurt / Frankfurt",
-    "adult": 1808.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU01_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU01_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EU03",
-  "supplierCode": "EU03",
-  "nameZh": "欧洲任你行—西欧经典9天（荷兰、比利时、法国、卢森堡、德国）[纯玩]",
-  "nameEn": "欧洲任你行—西欧经典9天（荷兰、比利时、法国、卢森堡、德国）[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "任你行",
-  "seasonTag": "",
-  "subRegions": [
-   "任你行"
-  ],
-  "price": "A$1808",
-  "priceEn": "A$1808",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Frankfurt / Frankfurt",
-    "adult": 1808.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU03_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU03_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EU04",
-  "supplierCode": "EU04",
-  "nameZh": "欧洲任你行-英伦贵族9天 （英国、苏格兰)[纯玩]",
-  "nameEn": "欧洲任你行-英伦贵族9天 （英国、苏格兰)[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "任你行",
-  "seasonTag": "",
-  "subRegions": [
-   "任你行"
-  ],
-  "price": "A$1808",
-  "priceEn": "A$1808",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Paris / Paris",
-    "adult": 1808.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU04_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU04_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EU05",
-  "supplierCode": "EU05",
-  "nameZh": "欧洲任你行—南欧热情9天 (西班牙、葡萄牙)[纯玩]",
-  "nameEn": "欧洲任你行—南欧热情9天 (西班牙、葡萄牙)[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "任你行",
-  "seasonTag": "",
-  "subRegions": [
-   "任你行"
-  ],
-  "price": "A$1808",
-  "priceEn": "A$1808",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Madrid / Madrid",
-    "adult": 1808.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU05_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU05_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EU06",
-  "supplierCode": "EU06",
-  "nameZh": "欧洲任你行—北欧冰川峡湾9天（丹麦、瑞典、挪威冰川峡湾）[纯玩]",
-  "nameEn": "欧洲任你行—北欧冰川峡湾9天（丹麦、瑞典、挪威冰川峡湾）[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "任你行",
-  "seasonTag": "",
-  "subRegions": [
-   "任你行"
-  ],
-  "price": "A$2070",
-  "priceEn": "A$2070",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Copenhagen / Copenhagen",
-    "adult": 2070.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": ""
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU06_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU06_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": true
- },
- {
-  "id": "PV-EU07",
-  "supplierCode": "EU07",
-  "nameZh": "欧洲任你行-熏衣风韵9天 （法国、普罗旺斯、西班牙、安道尔）[纯玩]",
-  "nameEn": "欧洲任你行-熏衣风韵9天 （法国、普罗旺斯、西班牙、安道尔）[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "任你行",
-  "seasonTag": "",
-  "subRegions": [
-   "任你行"
-  ],
-  "price": "A$1808",
-  "priceEn": "A$1808",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Paris / Paris",
-    "adult": 1808.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU07_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU07_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EU08",
-  "supplierCode": "EU08",
-  "nameZh": "欧洲任你行— 西欧 古意盎然 9天（捷克， 波兰， 德国）[纯玩]",
-  "nameEn": "欧洲任你行— 西欧 古意盎然 9天（捷克， 波兰， 德国）[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "任你行",
-  "seasonTag": "",
-  "subRegions": [
-   "任你行"
-  ],
-  "price": "A$1808",
-  "priceEn": "A$1808",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "布拉格 Prague / 布拉格 Prague",
-    "adult": 1808.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU08_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU08_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EU22",
-  "supplierCode": "EU22",
-  "nameZh": "沉醉古城巴尔干9天 （克罗地亚，黑山共和国，匈牙利）[纯玩]",
-  "nameEn": "沉醉古城巴尔干9天 （克罗地亚，黑山共和国，匈牙利）[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "多国连线",
-  "seasonTag": "",
-  "subRegions": [
-   "多国连线"
-  ],
-  "price": "A$1808",
-  "priceEn": "A$1808",
-  "days": 9,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Budapest / Budapest",
-    "adult": 1808.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "EU22_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/EU22_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-GB12",
-  "supplierCode": "GB12",
-  "nameZh": "Britain 12 Days Ultimate Tour[超值]",
-  "nameEn": "Britain 12 Days Ultimate Tour[超值]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "超值特惠团",
-  "subRegion": "欧洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "欧洲其他"
-  ],
-  "price": "A$4999",
-  "priceEn": "A$4999",
-  "days": 12,
+  "price": "A$798",
+  "priceEn": "A$798",
+  "days": 16,
   "startCity": "",
   "tags": [
    "超值特价"
@@ -44492,10 +46031,10 @@ window.TOURS = [
   "tagsEn": [
    "Value"
   ],
-  "img": "assets/img/destinations/europe.jpg",
+  "img": "assets/img/destinations/china.jpg",
   "introZh": "",
   "introEn": "",
-  "participationNotice": "",
+  "participationNotice": "参团须知\n\n一、报名资格\n本行程主要面向持美国、加拿大、澳大利亚、欧洲等国家/地区护照，或持美国绿卡、加拿大枫叶卡、澳洲/欧洲永久居留证明，且中文流利的华人华侨。\n建议报名年龄为 25–78 周岁。25 岁以下或 79 岁以上客人需补交附加费（具体金额以各线路公布为准）。其他国籍/地区，或需英文导游服务的客人，请另行询价。\n75 周岁以上长者参团，须有 60 周岁以下亲友陪同，自行购买足额旅游意外保险，并签署健康风险自负声明书。\n一经报名，即视为客人确认自身健康状况适合参团。行程中因个人健康原因产生的费用与责任，由客人自行承担。\n为维护团队整体利益，如客人健康状况或行为妨碍团队正常活动，本社领队/导游有权取消其继续参团资格；未完成行程费用不予退还，且不得要求变更或转让。\n二、费用说明\n（一）团费已含（以具体行程单为准）\n行程所列机场接送、酒店住宿、中文导游、旅游用车、门票、餐食等。\n团费由 报名费 + 综合服务费 组成，报名时须一并足额支付。综合服务费为团费的重要组成部分。\n（二）团费不含\n国际及国内机票、签证费用；\n旅游意外险、医疗保险（强烈建议自行购买）；\n当地推荐自费项目、私人消费；\n单人房差、酒店提前/延后续住、额外接送机；\n因航班延误/取消、战争、暴乱、自然灾害、恶劣天气、私人需求等不可预见或无法避免情况所产生的额外费用。\n（三）其他收费（具体以各线路公布为准）\n单人房差、酒店续住、额外接/送机等，请以网站、广告单页或出团通知为准。\n儿童收费：2 周岁以上儿童须支付报名费、综合服务费及自费项目（如有）；2 周岁以下不占床儿童上述费用免费。不占床儿童早餐费用一般自理。部分线路/酒店规定 12 周岁以上须占床，以当地规定为准。\n三、行程、购物与自费项目\n网站及广告行程仅供参考。在不影响主要游览内容的前提下，本社有权根据实际情况对行程顺序、酒店等作适当调整，最终以出团通知书为准。\n含购物安排的线路：可能安排进店参观。购物纯属自愿，绝无强迫；但客人不得以任何理由拒绝进店参观或中途离团，否则须支付离团费（如 USD150/人/天，或以该线路公布为准），且已交费用不予退还。旅途中所购商品的质量、价格及售后，请直接与商店协商处理。\n推荐自费项目：自愿参加，现场向导游报名缴费。费用一般为综合项目（含景点、用车、导游服务等），是否成行由导游根据报名人数决定。\n客人必须全程随团，不得擅自脱团。无论任何原因自行离团，自离团之时起一切活动与本社无关，并须按标准补交离团费。\n四、接送服务\n接机：请报名时提供准确抵达航班信息。中国线路一般为抵达当日指定机场全天候接机，约每两小时发车一次，分批送回酒店；其他国家/地区线路以各行程具体说明为准。\n送机：中国线路一般为行程结束当日在指定时间分批送机；其他线路以行程说明为准。\n非规定时间或额外接送，须提前确认并另行付费。\n五、报名与合同\n报名：请携带有效旅行证件至代理旅行社办理，提供证件复印件，填写报名表并签字。\n付款：报名订位须同时缴清全部团款（报名费 + 综合服务费）。自代理社收到全额团款之日起，旅游合同成立。\n变更：交付团款后，如需更改出行日期、人数、名单等，按本须知第六条退改政策办理。\n六、退改政策\n（一）不可抗力（我社无法出团）\n如遇自然灾害、社会动荡、政府政策调整等不可抗力导致我社无法出团，我社将提前通知，并全额退还已收取的团费（报名费 + 综合服务费）。\n\n客人自行办理或已开出的机票、签证、保险及其他第三方费用，由客人自行向相应机构申请退改；我社可酌情协助出具证明，但不承担该部分费用。\n\n（二）客人主动取消 / 拒绝参团\n在团队正常出团的前提下，客人取消或拒绝参团的，须通过代理旅行社以书面方式通知本社（不接受口头取消），并以我社收到书面通知之日为准，按以下标准执行：\n\n书面通知时间\t取消\t改期\n出发日前 31 天及以上\t免费取消，退还已收团费\t免费改期（须有可收客班期，并经我社确认）\n出发日前 15–30 天（含 15、30）\t扣除团费的 50%，余款退还\t收取团费的 50% 作为改期费；团费差价多退少补\n出发日前 14 天内（含第 14 天）及出发当日\t不予退款\t收取团费的 50% 作为改期费（须有可收客班期，并经我社确认）\n（三）退改说明\n上述「团费」指已支付的 报名费 + 综合服务费；不含机票、签证、保险、自费项目、单房差、续住、额外接送及其他附加服务费用。\n国际/国内机票一经开出，退改签费用一律按航空公司及出票方规定由客人自行承担，与团费退改分开计算。\n改期仅限同一线路或我社书面同意的指定线路与出发日，须以我社确认为准；是否可改、可改班期以实际余位为准。\n改期后如再次取消或再次改期，按新的出发日期重新适用本政策。\n出发未报到（No-Show），或行程开始后自行离团的，已收费用一律不退；如适用离团费条款，另须按标准补交。\n特价团、促销团、游船舱位、节庆专团等另有标注的线路，以该线路页面或出团通知中的专属退改条款为准。\n因客人自身原因（签证拒签、延误抵达、证件不符、健康不适等）无法参团的，按本条「客人主动取消」规则办理。\n七、成行与行程调整\n广告及网站行程内容仅供参考；在不影响主要游览节目的前提下，本社有权对行程次序、酒店等作适当调整，最终以出团通知书为准。\n如因不可抗力或本社无法控制的原因导致团队无法按原计划成行，按本须知第六条（一）办理；我社将尽量提供改期或取消方案。\n本社在法律法规允许范围内保留最终解释权。\n八、其他\n未尽事宜请咨询组团社或本社客服。\n凡报名客人，均视为已阅读、理解并同意本参团须知及本社相关旅游条款。\n本须知与具体线路页面说明、出团通知书或书面合同不一致时，以该线路专属说明、出团通知书及书面合同为准。",
   "departureDates": [],
   "depRule": null,
   "validFrom": null,
@@ -44503,478 +46042,22 @@ window.TOURS = [
   "surchargeNote": "",
   "priceTable": [
    {
-    "city": "LHR / LHR",
-    "adult": 4999.0,
-    "childbed": "",
-    "childnobed": "",
+    "city": "",
+    "adult": 798.0,
+    "childbed": 1198.0,
+    "childnobed": 0.0,
     "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-GEE12",
-  "supplierCode": "GEE12",
-  "nameZh": "希腊 浪漫之旅 12日[纯玩]",
-  "nameEn": "希腊 浪漫之旅 12日[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "欧洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "欧洲其他"
-  ],
-  "price": "A$3688",
-  "priceEn": "A$3688",
-  "days": 12,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Sydney / Sydney",
-    "adult": 3688.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EURCH03",
-  "supplierCode": "EURCH03",
-  "nameZh": "东欧浪漫名城8国15天皇牌精选之旅（特价团）[纯玩]",
-  "nameEn": "东欧浪漫名城8国15天皇牌精选之旅（特价团）[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "多国连线",
-  "seasonTag": "",
-  "subRegions": [
-   "多国连线"
-  ],
-  "price": "A$2888",
-  "priceEn": "A$2888",
-  "days": 15,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲 AUS / 澳洲 AUS",
-    "adult": 2888.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EURCH04",
-  "supplierCode": "EURCH04",
-  "nameZh": "东欧浪漫名城8国15天皇牌精选之旅（尊享团）[纯玩]",
-  "nameEn": "东欧浪漫名城8国15天皇牌精选之旅（尊享团）[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "多国连线",
-  "seasonTag": "",
-  "subRegions": [
-   "多国连线"
-  ],
-  "price": "A$5488",
-  "priceEn": "A$5488",
-  "days": 15,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲 AUS / 澳洲 AUS",
-    "adult": 5488.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EURS16DT",
-  "supplierCode": "EURS16DT",
-  "nameZh": "西班牙葡萄牙南法16天历史文化之旅 【2026 - 2027】[纯玩]",
-  "nameEn": "西班牙葡萄牙南法16天历史文化之旅 【2026 - 2027】[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "欧洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "欧洲其他"
-  ],
-  "price": "A$4988",
-  "priceEn": "A$4988",
-  "days": 16,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲 AUS / 澳洲 AUS",
-    "adult": 4988.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-ISFI16D",
-  "supplierCode": "ISFI16D",
-  "nameZh": "冬季追逐幸运之光冰岛 童话世界芬兰16日之旅[纯玩]",
-  "nameEn": "冬季追逐幸运之光冰岛 童话世界芬兰16日之旅[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "欧洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "欧洲其他"
-  ],
-  "price": "A$7999",
-  "priceEn": "A$7999",
-  "days": 16,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲 AUS / 澳洲 AUS",
-    "adult": 7999.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-ISNO16D",
-  "supplierCode": "ISNO16D",
-  "nameZh": "夏季冰岛挪威峡湾绝美罗弗敦群岛16日之旅[纯玩]",
-  "nameEn": "夏季冰岛挪威峡湾绝美罗弗敦群岛16日之旅[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "欧洲其他",
-  "seasonTag": "",
-  "subRegions": [
-   "欧洲其他"
-  ],
-  "price": "A$7999",
-  "priceEn": "A$7999",
-  "days": 16,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲 AUS / 澳洲 AUS",
-    "adult": 7999.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EURCH01",
-  "supplierCode": "EURCH01",
-  "nameZh": "西欧8国璀璨文化18天 皇牌精选之旅 【2026 - 2027】[纯玩]",
-  "nameEn": "西欧8国璀璨文化18天 皇牌精选之旅 【2026 - 2027】[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "多国连线",
-  "seasonTag": "",
-  "subRegions": [
-   "多国连线"
-  ],
-  "price": "A$5688",
-  "priceEn": "A$5688",
-  "days": 18,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "澳洲 AUS / 澳洲 AUS",
-    "adult": 5688.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-MSC20",
-  "supplierCode": "MSC20",
-  "nameZh": "艺术风格西葡+加泰罗尼亚全景+地中海邮轮巡游 20日[纯玩]",
-  "nameEn": "艺术风格西葡+加泰罗尼亚全景+地中海邮轮巡游 20日[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
-  "category": "纯玩无购物团",
-  "subRegion": "多国连线",
-  "seasonTag": "",
-  "subRegions": [
-   "多国连线"
-  ],
-  "price": "A$5850",
-  "priceEn": "A$5850",
-  "days": 20,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "SYDNEY / SYDNEY",
-    "adult": 5850.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
+    "single": 1000.0,
+    "transfer": 180.0,
+    "tip": 118.0,
     "service": 0.0
    }
   ],
   "brochures": [
    {
-    "supplier": "SUP-PV",
-    "file": "Spain---Portugal---Catalonia---Mediterranean-Cruise-20-Days_MSC20_2026-12-22.pdf",
-    "url": "/assets/suppliers/SUP-PV/Spain---Portugal---Catalonia---Mediterranean-Cruise-20-Days_MSC20_2026-12-22.pdf"
+    "supplier": "SUP-CM",
+    "file": "SGJNAD1626BAUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/SGJNAD1626BAUD.pdf"
    }
   ],
   "itinerary": [],
@@ -44985,257 +46068,27 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true,
+  "forder": 3
  },
  {
-  "id": "PV-GEE25",
-  "supplierCode": "GEE25",
-  "nameZh": "希腊-东欧-大巴尔干九国22-25日游[纯玩]",
-  "nameEn": "希腊-东欧-大巴尔干九国22-25日游[纯玩]",
-  "dest": "europe",
-  "destZh": "欧洲",
-  "destEn": "europe",
+  "id": "Nova-SYDCNSMEL",
+  "supplierCode": "SYDCNSMEL",
+  "nameZh": "悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】",
+  "nameEn": "悉尼 - 凯恩斯 - 墨尔本 11 天游【周二，周五出发】",
+  "dest": "australia",
+  "destZh": "澳洲",
+  "destEn": "australia",
   "category": "纯玩无购物团",
-  "subRegion": "多国连线",
+  "subRegion": "澳洲跨地区联游",
   "seasonTag": "",
   "subRegions": [
-   "多国连线"
+   "澳洲跨地区联游"
   ],
-  "price": "A$6399",
-  "priceEn": "A$6399",
-  "days": 25,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/europe.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Sydney / Sydney",
-    "adult": 6399.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-NANAT4",
-  "supplierCode": "NANAT4",
-  "nameZh": "新西兰北岛 4 日探索之旅",
-  "nameEn": "新西兰北岛 4 日探索之旅",
-  "dest": "nz",
-  "destZh": "新西兰",
-  "destEn": "nz",
-  "category": "纯玩无购物团",
-  "subRegion": "新西兰北岛",
-  "seasonTag": "",
-  "subRegions": [
-   "新西兰北岛"
-  ],
-  "price": "A$1798",
-  "priceEn": "A$1798",
-  "days": 4,
-  "startCity": "新西兰",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/nz.jpg",
-  "introZh": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
-  "introEn": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
-  "participationNotice": "[关于接机]: 第一天下午抵达奥克兰的航班，导游分别在下午3点及6 点抵达机场接机;如不能赶上这2次接机的客人(航班延误或航 班时间不匹配)，需自行安排交通前往酒店，如需加购额外接机 服务，参考价格$250/单程(7-12座⻋型) [关于送机]: 最后一天下午约5点左右抵达奥克兰机场，请酌情预定 适合的航班，境内航班建议提前1小时，国际航班建议提前3小时 抵达机场值机 小孩年龄5-12岁，2-4岁不占床$639/人；婴儿为2岁以下不占床$300/人 1. 行程内所有项目都将按照实际情况（如疫情，天气，交通等不可抗力）因素决定，本公司保留依据实际情况对行程做出调整的权力，客人不得对此要求补偿。 2. 我社保留因季节变化、酒店航班变更、前往地区情况及其他不可抗力原因而调整最终价格和行程顺序的权利。 3. 此团最低发团人数为6人起。 4. 所有节目安排按当地状况（如因天气、酒店或航班等）决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 5. 新西兰住宿设施有限，公司会根据实际情况调整酒店；新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "新西兰",
-    "adult": 1798.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
-    "descEn": "新品上线! 新西兰北岛4天全精华! 高性价比、纯玩中文团 ★霍比特村+霍比特人洞+帐篷餐 ★英伦⻛―市政花园 ★地热公园温泉足浴 ★打卡北岛最蓝―胡卡瀑布 ★波利尼西亚温泉(自选) ★Wai-O-Tapu五色斑斓的地热池 ★地道的新西兰田园牧场+神兽羊驼 ★红木森林步道洗净心肺 ★华卡雷瓦雷瓦毛利村落",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "1. 4星级酒店双人标准间住宿",
-   "2. 中文司机兼导游服务",
-   "3. 旅游⻋",
-   "4. 行程中所列餐⻝(",
-   "5. 行程中列明★之景区，景点⻔票费用。 儿童价格: 5-11周岁占床-双人房:$959/人，5-11周岁占床-三人房(与2成人同住):$929/人，2-4周岁不占床(与2成人同住):$639/人，0-2周岁不占床(与2成人同住):$300/人 不占床儿童提供车位、餐食, 不提供酒店早餐 婴儿提供车位, 不提供餐食"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "1. 新西兰境内或国际段机票",
-   "2. 办理护照及签证的相关费用",
-   "3. 自费项目等需另行付费的费用",
-   "4. 司导小费(建议6纽币/每人/每天)",
-   "5. 购买个人旅游保险的费用(强烈建议购买)",
-   "6. 由旅游者个人行为所导致的额外费用",
-   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗 因素(疫情，交通延误、罢工、自然灾害等)所产生的损失和费 用。 *特殊节假日附加费:圣诞，中国新年期间出发的团，成人及2岁以上儿童需 收取附加费$150/人(12月23-1月5日及1月28-2月4日之间出发的团)"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-NZN4DA",
-  "supplierCode": "NZN4DA",
-  "nameZh": "新西兰北岛 4 日中土风情之旅",
-  "nameEn": "新西兰北岛 4 日中土风情之旅",
-  "dest": "nz",
-  "destZh": "新西兰",
-  "destEn": "nz",
-  "category": "纯玩无购物团",
-  "subRegion": "新西兰北岛",
-  "seasonTag": "",
-  "subRegions": [
-   "新西兰北岛"
-  ],
-  "price": "A$1798",
-  "priceEn": "A$1798",
-  "days": 4,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/nz.jpg",
-  "introZh": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰\n\n行程攻略：\n建议航班： 第一天（周五）下午1pm-4pm之间抵达奥克兰的航班 第四天（周一）下午3pm后离开奥克兰的航班 实用攻略 观赏萤火虫时，请勿拍照 建议穿着/携带：保暖衣物、遮阳帽、防晒霜、相机、双筒望远镜、晕船药（如有需要） 出行提示 预订后请将收到的行程单及确认单打印并随身携带，以备海关核验； 出行前 2 日请联系客服查询接机导游信息； 抵达机场后请移步抵达大厅寻找【喜洋洋假期】的接机牌； 请准备好护照及签证办理出入境手续，入境卡可在飞机上或机场领取（建议自备笔）； 新西兰海关检查甚严，请勿携带食物、违禁品等影响入境； 新西兰与澳洲手机网络并不通用，请提前开通国际漫游； 新西兰使用与澳洲同款插座，且大部分地区电压相同； 新西兰当地普遍接受信用卡，且行程已含大部分餐饮，如需携带现金请在入境前自备，以避免抵达后无处换汇的尴尬；",
-  "introEn": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰\n\n行程攻略：\n建议航班： 第一天（周五）下午1pm-4pm之间抵达奥克兰的航班 第四天（周一）下午3pm后离开奥克兰的航班 实用攻略 观赏萤火虫时，请勿拍照 建议穿着/携带：保暖衣物、遮阳帽、防晒霜、相机、双筒望远镜、晕船药（如有需要） 出行提示 预订后请将收到的行程单及确认单打印并随身携带，以备海关核验； 出行前 2 日请联系客服查询接机导游信息； 抵达机场后请移步抵达大厅寻找【喜洋洋假期】的接机牌； 请准备好护照及签证办理出入境手续，入境卡可在飞机上或机场领取（建议自备笔）； 新西兰海关检查甚严，请勿携带食物、违禁品等影响入境； 新西兰与澳洲手机网络并不通用，请提前开通国际漫游； 新西兰使用与澳洲同款插座，且大部分地区电压相同； 新西兰当地普遍接受信用卡，且行程已含大部分餐饮，如需携带现金请在入境前自备，以避免抵达后无处换汇的尴尬；",
-  "participationNotice": "[关于接机]: 第一天下午任意抵达奥克兰的航班，酒店入住时间是下午2点以后； [关于送机]: 第四天天下午4点后离开奥克兰的航班，酒店退房时间为上午10点。 因任何原因错过接机的客人，都需自行解决前往下一站的交通问题，由此产生并衍生的所有费用需自行承担。 小孩年龄5-12岁，2-4岁不占床$479/人；婴儿为2岁以下不占床 1. 行程内所有项目都将按照实际情况（如疫情，天气，交通等不可抗力）因素决定，本公司保留依据实际情况对行程做出调整的权力，客人不得对此要求补偿。 2. 我社保留因季节变化、酒店航班变更、前往地区情况及其他不可抗力原因而调整最终价格和行程顺序的权利。 3. 此团最低发团人数为6人起。 4. 所有节目安排按当地状况（如因天气、酒店或航班等）决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 5. 新西兰住宿设施有限，公司会根据实际情况调整酒店；新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "新西兰",
-    "adult": 1798.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰",
-    "descEn": "行程亮点： ★ 怀托摩萤火虫洞 ★ 霍比特村 ★ 地热之城罗托鲁瓦 ★ 爱歌顿农场 ★ 红木森林步道★ 白云峰山顶金奖景观餐厅 ★ 千帆之都奥克兰",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "1. 4星级酒店双人标准间住宿",
-   "2. 中文司机兼导游服务",
-   "3. 旅游车",
-   "4. 行程中所列餐食",
-   "5. 行程中列明★之景区，景点门票费用。"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "1. 新西兰境内或国际段机票",
-   "2. 办理护照及签证的相关费用",
-   "3. 自费项目等需另行付费的费用",
-   "4. 司导小费（建议6纽币/每人/每天）",
-   "5. 购买个人旅游保险的费用（强烈建议购买）",
-   "6. 由旅游者个人行为所导致的额外费用",
-   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗因素（疫情，交通延误、罢工、自然灾害等）所产生的损失和费用。"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-nzs7d23",
-  "supplierCode": "nzs7d23",
-  "nameZh": "新西兰南岛 7 日湖光山色之旅",
-  "nameEn": "新西兰南岛 7 日湖光山色之旅",
-  "dest": "nz",
-  "destZh": "新西兰",
-  "destEn": "nz",
-  "category": "纯玩无购物团",
-  "subRegion": "新西兰南岛",
-  "seasonTag": "",
-  "subRegions": [
-   "新西兰南岛"
-  ],
-  "price": "A$1858",
-  "priceEn": "A$1858",
-  "days": 7,
-  "startCity": "新西兰",
+  "price": "A$2839",
+  "priceEn": "A$2839",
+  "days": 11,
+  "startCity": "悉尼",
   "tags": [
    "纯玩无购物"
   ],
@@ -45243,241 +46096,11 @@ window.TOURS = [
    "No-shopping"
   ],
   "img": [
-   "assets/suppliers/SUP-NOVA/products/Nova-nzs7d23/Nova-nzs7d23_hero.jpg",
-   "assets/suppliers/SUP-NOVA/products/Nova-nzs7d23/Nova-nzs7d23_hero_1.jpg",
-   "assets/suppliers/SUP-NOVA/products/Nova-nzs7d23/Nova-nzs7d23_hero_2.jpg"
+   "assets/suppliers/SUP-NOVA/products/Nova-SYDCNSMEL/Nova-SYDCNSMEL_hero.jpg"
   ],
-  "introZh": "行程亮点: \r\n\r\n★ 星空保护区 ★ 绝美冰湖 \r\n\r\n★ 库克山顶级步道体验 \r\n\r\n★格林诺奇小镇 ★ 复古箭镇 \r\n\r\n★米尔福德峡湾[包含] ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢[包含]",
-  "introEn": "行程亮点: \r\n\r\n★ 星空保护区 ★ 绝美冰湖 \r\n\r\n★ 库克山顶级步道体验 \r\n\r\n★格林诺奇小镇 ★ 复古箭镇 \r\n\r\n★米尔福德峡湾[包含] ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢[包含]",
-  "participationNotice": "** 行程說明 ** 1. 航班要求: 第一天下午14:00左右抵达基督城的航班；导游下午分别在15:30 和 17:30 抵达机场接机，如航班抵达时间搭配不上2次接机服务，可自行乘坐机场出租车或机场巴士前往酒店 ; 最后一天15:00后离开基督城的境内航班 17:00后离开基督城的國际航班，两次送机抵达机场时间为14: 00和16:00. **因任何原因错 过接机的客人，都需自行解决前往下一站的交通问题，由此产生并衍生的所有费用需自行承担. 2. 儿童年龄: 5-11周岁必须占床,不满5岁可不占床,不占床儿童提供车位不提供餐食. 3. 旺季附加费: 圣诞节，新年，中国新年期间加收AUD200/人起. ** 权益说明 ** 1. 行程内所有项目都将按照实际情况(如疫情，天气，交通等不可抗力)因素决定，本公司保留依据实际情况对行程做出调整的权力，客人不得对此要求 补偿。 2. 我社保留因季节变化、酒店航班变更、前往地区情况及其他不可抗力原因而调整最终价格和行程顺序的权利。 3. 所有节目安排按当地状况(如因天气、酒店或航班等)决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 4. 新西兰住宿设施有限，公司会根据实际情况调整酒店;新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力 确认，但不能完全保证可满足此要求。",
-  "departureDates": [
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-21",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-28",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-04",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-18",
-    "status": "available"
-   },
-   {
-    "date": "2026-09-25",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-02",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-09",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-16",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-23",
-    "status": "available"
-   },
-   {
-    "date": "2026-10-30",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-06",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-13",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-20",
-    "status": "available"
-   },
-   {
-    "date": "2026-11-27",
-    "status": "available"
-   },
-   {
-    "date": "2026-12-04",
-    "status": "available"
-   },
-   {
-    "date": "2026-12-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-12-18",
-    "status": "available"
-   },
-   {
-    "date": "2026-12-25",
-    "status": "available"
-   },
-   {
-    "date": "2027-01-01",
-    "status": "available"
-   },
-   {
-    "date": "2027-01-08",
-    "status": "available"
-   },
-   {
-    "date": "2027-01-15",
-    "status": "available"
-   },
-   {
-    "date": "2027-01-22",
-    "status": "available"
-   },
-   {
-    "date": "2027-01-29",
-    "status": "available"
-   },
-   {
-    "date": "2027-02-05",
-    "status": "available"
-   },
-   {
-    "date": "2027-02-12",
-    "status": "available"
-   },
-   {
-    "date": "2027-02-19",
-    "status": "available"
-   },
-   {
-    "date": "2027-02-26",
-    "status": "available"
-   },
-   {
-    "date": "2027-03-05",
-    "status": "available"
-   },
-   {
-    "date": "2027-03-12",
-    "status": "available"
-   },
-   {
-    "date": "2027-03-19",
-    "status": "available"
-   },
-   {
-    "date": "2027-03-26",
-    "status": "available"
-   }
-  ],
-  "depRule": [
-   4
-  ],
-  "validFrom": "2026-08-10",
-  "validTo": "2027-03-31",
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "新西兰",
-    "adult": 1858.0,
-    "childbed": "",
-    "childnobed": 1100.0,
-    "infant": 350.0,
-    "single": 450.0,
-    "transfer": "",
-    "tip": "",
-    "service": ""
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-NOVA",
-    "file": "nzs7d23_brochure.pdf",
-    "url": "/assets/suppliers/SUP-NOVA/nzs7d23_brochure.pdf"
-   }
-  ],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "Day 1  抵达基督城\r\n今日抵达基督城后，为您安排接机，随后送您前往酒店休息。\r\n(导游下午分别在 15:30 和 17:30 抵达机场接机，如航班抵达时间搭配不上 2 次接机服务，可自 行乘坐机场出租车或机场巴士前往酒店) 如需协助预定机场小巴英文拼车服务，加收 AUD20/人/单程，机场小巴英文包车 AUD100/车/单程\r\n如航班抵达时间较早，等待期间也可自行前往机场附近的南极中心游览。\r\n 国际南极中心InternationalAntarcticCentreNZD59/成人NZD39/儿童5-15years 这里可以收获真实的南极体验! 国际南极中心位于机场的南极科研基地。各项有趣的体验活动向您 提供充满欢乐、令人兴奋的全方位感官互动性南极体验.\r\n  无\r\n  IBIS Hotel Christchurch 或同级\r\n\r\nDay 2  基督城-蒂卡波湖-冰河湖区\r\n今日带您游览花园城市基督城植物园及艺术馆。午后出发前往蒂卡波湖，100%纯净新西兰代言湖蒂 卡波，拥有纯净的湖水和不可思议的景色，湖畔的好牧羊人教堂静静地守望着白雪皑皑的南阿尔卑 斯山脉。我们将下榻在星空保护区，入夜即可观看到全世界最璀璨的星空。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  The Godley Hotel 或 Mckenzie Country Hotel Twizel\r\n\r\nDay 3  冰河湖区-库克山-克伦威尔-皇后镇\r\n矗立着新西兰最高峰的库克山国家公园，以多样性的风景闻名于世。这里有多条著名的山谷短途步 道，推荐您尝试下塔斯曼冰川景观短途步道，一路经过雪山、冰川、草甸，仿佛至身高原雪域，身 心却无比轻松。您还可以预订雪山飞机，飞跃南阿尔卑斯山脉从空中欣赏壮丽的塔斯曼山谷，罕见 的冰湖及冰瀑布。天气晴好时，飞机将在壮阔的塔斯曼冰川着陆，让您有机会脚踏实地亿万年史前 冰川。之后在海拔 1969 的库克山三文鱼养殖场，可品尝到冰川水培育出的顶级三文鱼，紧实的肉质 伴随着丝滑口感令人唇齿难忘(费用自理)。下午路过克伦威尔水果小镇，可品尝当地新鲜水果。 傍晚抵达度假小镇皇后镇，夜宿皇后镇。\r\n  酒店早餐、西式简餐、中式晚餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 4  皇后镇-格林诺奇-箭镇-皇后镇\r\n今日带您探访迷人的格林诺奇小镇，深入中土世界。驰骋在世界十大最美景观公路之一的格林诺奇 大道，欣赏瓦卡蒂普沿湖风光，探访迷人的格林诺奇小镇，流连于天堂谷纯净无暇的自然之美。下 午前往新西兰最美小镇—箭镇，周围群山环绕，路旁古树参天，箭河(Arrow River)从峡谷淙淙流出， 这里也是大名鼎鼎的《魔戒》取景地。今天的小镇， 依然很好的维护并保持着它的历史特点，漫步 在这条街道上，两旁尽是百年的欧式建筑，时光都好像重新回到了 100 多年前。午餐晚餐留给您自 行安排，可品尝皇后镇著名的大脸汉堡，或挑选一家景色优美的湖边餐厅享用美味。\r\n  酒店早餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 5  皇后镇-米尔福德峡湾-蒂阿瑙\r\n早餐后，前往世界自然遗产★米尔福德峡湾。两百万年前的冰河运动与切割而产生的深邃峡谷，瀑 布宣泄而下，游船静静航行在其中，近距离观赏皮毛海豹和各种各样的海鸟。夜晚在小镇蒂阿瑙休 息，可以自费参观神奇的萤火虫洞，亲临地下“星河”所营造出的秘境。\r\n  酒店早餐、游船午餐、中式晚餐\r\n  Kingsgate Hotel Te Anau 或同级\r\n\r\nDay 6  皇后镇-但尼丁-奥马鲁\r\n早餐后前往具有浓郁苏格兰风情的但尼丁，但尼丁是新西兰的“苏格兰”，充满艺术气息的街道、 大教堂、八角广场、奥塔哥大学城、百年火车站以及随处可见的巨幅涂鸦都是拍照留念的绝佳地点， 挑战过世界上最倾斜的街道，去摩拉基海滩寻找不可思议的巨型圆石。夜幕降临时，在奥马鲁观看 世界上体积最小的★蓝企鹅集体归巢。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  Brydone Hotel 或 Motel 或 Teschemakers Resort\r\n\r\nDay 7  奥马鲁-基督城/家园\r\n早餐后，我们驱车返回基督城，沿途欣赏壮观的坎特伯雷大平原。午餐之后导游会将大家送往机场， 结束愉快的南岛之旅。(两次送机抵达机场时间为 14: 00 和 16:00)\r\n如需在基督城延住一晚的客人可加购酒店+机场穿梭巴士, 参考价格3-4星双人标间AUD200/房含早餐, 机场穿梭巴士AUD20/人/单程。\r\n  酒店早餐、中式午餐\r\n  无",
-    "descEn": "Day 1  抵达基督城\r\n今日抵达基督城后，为您安排接机，随后送您前往酒店休息。\r\n(导游下午分别在 15:30 和 17:30 抵达机场接机，如航班抵达时间搭配不上 2 次接机服务，可自 行乘坐机场出租车或机场巴士前往酒店) 如需协助预定机场小巴英文拼车服务，加收 AUD20/人/单程，机场小巴英文包车 AUD100/车/单程\r\n如航班抵达时间较早，等待期间也可自行前往机场附近的南极中心游览。\r\n 国际南极中心InternationalAntarcticCentreNZD59/成人NZD39/儿童5-15years 这里可以收获真实的南极体验! 国际南极中心位于机场的南极科研基地。各项有趣的体验活动向您 提供充满欢乐、令人兴奋的全方位感官互动性南极体验.\r\n  无\r\n  IBIS Hotel Christchurch 或同级\r\n\r\nDay 2  基督城-蒂卡波湖-冰河湖区\r\n今日带您游览花园城市基督城植物园及艺术馆。午后出发前往蒂卡波湖，100%纯净新西兰代言湖蒂 卡波，拥有纯净的湖水和不可思议的景色，湖畔的好牧羊人教堂静静地守望着白雪皑皑的南阿尔卑 斯山脉。我们将下榻在星空保护区，入夜即可观看到全世界最璀璨的星空。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  The Godley Hotel 或 Mckenzie Country Hotel Twizel\r\n\r\nDay 3  冰河湖区-库克山-克伦威尔-皇后镇\r\n矗立着新西兰最高峰的库克山国家公园，以多样性的风景闻名于世。这里有多条著名的山谷短途步 道，推荐您尝试下塔斯曼冰川景观短途步道，一路经过雪山、冰川、草甸，仿佛至身高原雪域，身 心却无比轻松。您还可以预订雪山飞机，飞跃南阿尔卑斯山脉从空中欣赏壮丽的塔斯曼山谷，罕见 的冰湖及冰瀑布。天气晴好时，飞机将在壮阔的塔斯曼冰川着陆，让您有机会脚踏实地亿万年史前 冰川。之后在海拔 1969 的库克山三文鱼养殖场，可品尝到冰川水培育出的顶级三文鱼，紧实的肉质 伴随着丝滑口感令人唇齿难忘(费用自理)。下午路过克伦威尔水果小镇，可品尝当地新鲜水果。 傍晚抵达度假小镇皇后镇，夜宿皇后镇。\r\n  酒店早餐、西式简餐、中式晚餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 4  皇后镇-格林诺奇-箭镇-皇后镇\r\n今日带您探访迷人的格林诺奇小镇，深入中土世界。驰骋在世界十大最美景观公路之一的格林诺奇 大道，欣赏瓦卡蒂普沿湖风光，探访迷人的格林诺奇小镇，流连于天堂谷纯净无暇的自然之美。下 午前往新西兰最美小镇—箭镇，周围群山环绕，路旁古树参天，箭河(Arrow River)从峡谷淙淙流出， 这里也是大名鼎鼎的《魔戒》取景地。今天的小镇， 依然很好的维护并保持着它的历史特点，漫步 在这条街道上，两旁尽是百年的欧式建筑，时光都好像重新回到了 100 多年前。午餐晚餐留给您自 行安排，可品尝皇后镇著名的大脸汉堡，或挑选一家景色优美的湖边餐厅享用美味。\r\n  酒店早餐\r\n  Copthorne Hotel And Resort 或同级\r\n\r\nDay 5  皇后镇-米尔福德峡湾-蒂阿瑙\r\n早餐后，前往世界自然遗产★米尔福德峡湾。两百万年前的冰河运动与切割而产生的深邃峡谷，瀑 布宣泄而下，游船静静航行在其中，近距离观赏皮毛海豹和各种各样的海鸟。夜晚在小镇蒂阿瑙休 息，可以自费参观神奇的萤火虫洞，亲临地下“星河”所营造出的秘境。\r\n  酒店早餐、游船午餐、中式晚餐\r\n  Kingsgate Hotel Te Anau 或同级\r\n\r\nDay 6  皇后镇-但尼丁-奥马鲁\r\n早餐后前往具有浓郁苏格兰风情的但尼丁，但尼丁是新西兰的“苏格兰”，充满艺术气息的街道、 大教堂、八角广场、奥塔哥大学城、百年火车站以及随处可见的巨幅涂鸦都是拍照留念的绝佳地点， 挑战过世界上最倾斜的街道，去摩拉基海滩寻找不可思议的巨型圆石。夜幕降临时，在奥马鲁观看 世界上体积最小的★蓝企鹅集体归巢。\r\n  酒店早餐、中式午餐、中式晚餐\r\n  Brydone Hotel 或 Motel 或 Teschemakers Resort\r\n\r\nDay 7  奥马鲁-基督城/家园\r\n早餐后，我们驱车返回基督城，沿途欣赏壮观的坎特伯雷大平原。午餐之后导游会将大家送往机场， 结束愉快的南岛之旅。(两次送机抵达机场时间为 14: 00 和 16:00)\r\n如需在基督城延住一晚的客人可加购酒店+机场穿梭巴士, 参考价格3-4星双人标间AUD200/房含早餐, 机场穿梭巴士AUD20/人/单程。\r\n  酒店早餐、中式午餐\r\n  无",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "1. 3-4星级酒店双人标准间住宿",
-   "2. 中文司机兼导游服务",
-   "3. 旅游车",
-   "4. 行程中所列餐食",
-   "5. 行程中列明★之景区，景点门票费用。"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "1. 新西兰境内或国际段机票",
-   "2. 办理护照及签证的相关费用",
-   "3. 自费项目等需另行付费的费用",
-   "4. 司导小费(建议6纽币/每人/每天)",
-   "5. 购买个人旅游保险的费用(强烈建议购买)",
-   "6. 由旅游者个人行为所导致的额外费用",
-   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗因素(疫情，交通延误、罢工、自然灾害等)所产生的损失和费用。"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-NZS9DD",
-  "supplierCode": "NZS9DD",
-  "nameZh": "新西兰南岛全景 9 日游",
-  "nameEn": "新西兰南岛全景 9 日游",
-  "dest": "nz",
-  "destZh": "新西兰",
-  "destEn": "nz",
-  "category": "纯玩无购物团",
-  "subRegion": "新西兰南岛",
-  "seasonTag": "",
-  "subRegions": [
-   "新西兰南岛"
-  ],
-  "price": "A$1798",
-  "priceEn": "A$1798",
-  "days": 9,
-  "startCity": "新西兰南岛全景9日游",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/nz.jpg",
-  "introZh": "前往南岛西海岸，亲眼目睹那些延伸至雪线下方的巨大冰川河谷，几乎入海。\n在这里，时间仍“静止”在冰河时代。\n 福克斯冰川全长13公里，从南阿尔卑斯山2600米的高处倾斜而下。\n四条高山冰川每年都会累积大约30米深的积雪，并注入福克斯冰川。\n积雪在冰川顶部压缩成数百米深的蓝色冰雪，沿着山势向下滑落至下方的河谷，落在300米厚的冰层上。\n冰川与陡峭的峡谷土层之间的压力，促使一部分积雪融化，为这种运动提供了润滑的作用。\n 再加上冰川顶部的大量积雪不断汇入冰川，使福克斯冰川和弗朗兹约瑟夫冰川的流速比大部分峡谷冰川快了十倍左右。\n 冰川下方的山谷斜坡引起了冰川表面的裂缝、隆起和深谷，形成了这壮观巍峨、令人胆寒的冰冻景观。\n 南岛的湖区中，瓦纳卡宛如一名腼腆的少女，将她的美丽隐藏在瓦纳卡湖和哈威亚湖以及南阿尔卑斯山之间，等待着富有好奇心的游客将她发现。\n 有人说，以前的淘金者拜服于此地皇室般高贵端华的美丽，便将之命名为“皇后镇”。\n皇后镇坐落在水晶般澄澈的 瓦卡蒂普湖畔 ，四周环绕雄伟群山。\n乘坐空中缆车登上鲍勃峰后，你可以领略摄人魂魄的风光。\n你可以在此放松身心，俯瞰皇后镇的绚丽景色。\n乘坐 TSS 厄恩斯劳号蒸汽船游览瓦卡蒂普湖。\n品尝美味佳肴，宽敞观景台，参观动力舱和人文历史展览。\n 峡湾地区可谓新西兰风光最迷人、景色最优美的旅游目的地之一。\n在所有宣传新西兰旅游的书籍和画册中，米尔福德峡湾大概是被使用频率最高的图片。\n它因冰川流动切割而成，享有“世界第八大奇迹”的美誉。\n 奥玛鲁(Oamaru)以南40公里处的摩拉基(Moeraki)海滩上散布着很多圆形巨石。\n也有一些大圆石分布在砂岩峭壁的周围，每块巨石都重达数吨，高达两米。\n据毛利人传说，几百年前，独木舟阿雷德欧鲁(Araiteuru）在将要在新西兰靠岸时翻船，船上的很多葫芦被冲上岸，就形成了今天我们看到的大圆石。\n 对此，科学家的解释是这些大圆石是方解石凝结物，形成于六千五百万年前。\n 行程特色： 各地美食：中西式晚餐交替享用，更有游湖午餐、韩国烧烤、海鲜火锅、峡湾龙虾晚餐、鲍鱼午餐 舒适酒店：全程3～4星酒店 专业导游：专业中文导游，全程陪伴（自由活动两天无导游） 放心游玩：行程门票全包，无强制自费项目 参团的价格，自由的体验，前后段参团 + 皇后镇 1 天自由活动，价格和自由度的完美结合，性价比无与伦比！\n 在此还可参加独家魔戒之旅（单独半天行程），真正的深入体验新西兰！",
-  "introEn": "前往南岛西海岸，亲眼目睹那些延伸至雪线下方的巨大冰川河谷，几乎入海。\n在这里，时间仍“静止”在冰河时代。\n 福克斯冰川全长13公里，从南阿尔卑斯山2600米的高处倾斜而下。\n四条高山冰川每年都会累积大约30米深的积雪，并注入福克斯冰川。\n积雪在冰川顶部压缩成数百米深的蓝色冰雪，沿着山势向下滑落至下方的河谷，落在300米厚的冰层上。\n冰川与陡峭的峡谷土层之间的压力，促使一部分积雪融化，为这种运动提供了润滑的作用。\n 再加上冰川顶部的大量积雪不断汇入冰川，使福克斯冰川和弗朗兹约瑟夫冰川的流速比大部分峡谷冰川快了十倍左右。\n 冰川下方的山谷斜坡引起了冰川表面的裂缝、隆起和深谷，形成了这壮观巍峨、令人胆寒的冰冻景观。\n 南岛的湖区中，瓦纳卡宛如一名腼腆的少女，将她的美丽隐藏在瓦纳卡湖和哈威亚湖以及南阿尔卑斯山之间，等待着富有好奇心的游客将她发现。\n 有人说，以前的淘金者拜服于此地皇室般高贵端华的美丽，便将之命名为“皇后镇”。\n皇后镇坐落在水晶般澄澈的 瓦卡蒂普湖畔 ，四周环绕雄伟群山。\n乘坐空中缆车登上鲍勃峰后，你可以领略摄人魂魄的风光。\n你可以在此放松身心，俯瞰皇后镇的绚丽景色。\n乘坐 TSS 厄恩斯劳号蒸汽船游览瓦卡蒂普湖。\n品尝美味佳肴，宽敞观景台，参观动力舱和人文历史展览。\n 峡湾地区可谓新西兰风光最迷人、景色最优美的旅游目的地之一。\n在所有宣传新西兰旅游的书籍和画册中，米尔福德峡湾大概是被使用频率最高的图片。\n它因冰川流动切割而成，享有“世界第八大奇迹”的美誉。\n 奥玛鲁(Oamaru)以南40公里处的摩拉基(Moeraki)海滩上散布着很多圆形巨石。\n也有一些大圆石分布在砂岩峭壁的周围，每块巨石都重达数吨，高达两米。\n据毛利人传说，几百年前，独木舟阿雷德欧鲁(Araiteuru）在将要在新西兰靠岸时翻船，船上的很多葫芦被冲上岸，就形成了今天我们看到的大圆石。\n 对此，科学家的解释是这些大圆石是方解石凝结物，形成于六千五百万年前。\n 行程特色： 各地美食：中西式晚餐交替享用，更有游湖午餐、韩国烧烤、海鲜火锅、峡湾龙虾晚餐、鲍鱼午餐 舒适酒店：全程3～4星酒店 专业导游：专业中文导游，全程陪伴（自由活动两天无导游） 放心游玩：行程门票全包，无强制自费项目 参团的价格，自由的体验，前后段参团 + 皇后镇 1 天自由活动，价格和自由度的完美结合，性价比无与伦比！\n 在此还可参加独家魔戒之旅（单独半天行程），真正的深入体验新西兰！",
-  "participationNotice": "1. 航班: 请订第一天下午14：00抵达基督城的航班；导游下午分别在15:30和17:30抵达机场接机 ; 最後一天下午15:00後离开基督城的境内航班 /17:00後离开基督城的国际航班。航班晚点的客人，团队不能久候，此时客人需自行解决前往下一站的交通，由此产生的费用需客人自行承担，因此损失的旅游包团部分的任何费用不退款。 2. 报名时需付全款。 3. 出发前30-14个工作日之内取消，收取AUD$500/人；出发前7-14个工作日内取消，收取AUD$900/人；距离出发日期7个工作日以内恕不退换。 4. 如因个人原因未能及时汇合导游，本公司不承担任何责任。 5. 所有节目安排按当地状况（如因天气、酒店或航班等）决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 6. 新西兰住宿设施有限，公司会根据实际情况调整酒店，并且新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。 订购时请提供参团人姓名、性别、年龄，以及预计航班时间。 请在订单确认后再购买机票，以免造成损失。",
+  "introZh": "悉尼-凯恩斯-墨尔本11天游，固定每周二、周五出发，两人成团。一次畅游澳洲东海岸三大城市：悉尼市区与蓝山、史蒂芬港，凯恩斯大堡礁与热带雨林，墨尔本企鹅岛、金矿与大洋路。中文导游全程陪同，四星酒店含早。\n★ 悉尼市区游为特别赠送，如航班原因无法安排则改为接机送酒店，费用概不退还。",
+  "introEn": "悉尼-凯恩斯-墨尔本11天游，固定每周二、周五出发，两人成团。一次畅游澳洲东海岸三大城市：悉尼市区与蓝山、史蒂芬港，凯恩斯大堡礁与热带雨林，墨尔本企鹅岛、金矿与大洋路。中文导游全程陪同，四星酒店含早。\n★ 悉尼市区游为特别赠送，如航班原因无法安排则改为接机送酒店，费用概不退还。",
+  "participationNotice": "**悉尼市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** **酒店需二次确认，遇公共假期, 学生假期，重大节日等可能有酒店附加费** 1. 两人成团固定日期出发每周二，周五 2. 儿童3-12岁；婴儿0-2岁 3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 5. 不含旺季酒店附加费和重大节假日酒店附加费",
   "departureDates": [],
   "depRule": null,
   "validFrom": null,
@@ -45485,13 +46108,13 @@ window.TOURS = [
   "surchargeNote": "",
   "priceTable": [
    {
-    "city": "新西兰",
-    "adult": 1798.0,
+    "city": "跨地区",
+    "adult": 2839.0,
     "childbed": "",
-    "childnobed": "",
+    "childnobed": 2729.0,
     "infant": "",
-    "single": "",
-    "transfer": "",
+    "single": 1425.0,
+    "transfer": 85.0,
     "tip": "",
     "service": 0.0
    }
@@ -45500,239 +46123,183 @@ window.TOURS = [
   "itinerary": [
    {
     "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "基督城",
-    "descEn": "基督城",
+    "titleZh": "第1天 悉尼接机+全日市区游",
+    "titleEn": "Day 1 Sydney Arrival & City Tour",
+    "descZh": "第一天要求航班0830am前抵达的国内航班，司机统一0920am从悉尼国内机场出发（延误可安排接机追团$100/趟，错过行程无法退补）。接机后前往麦考瑞夫人椅、圣玛利亚大教堂、海德公园，乘车前往邦迪海滩，中午南半球最大海鲜市场自理午餐，下午参观悉尼大学、歌剧院外部、徒步海港大桥品味岩石区，行程结束前往酒店。全日市区游为特别赠送，因航班无法安排则改为接机送酒店，费用不退。",
+    "descEn": "第一天要求航班0830am前抵达的国内航班，司机统一0920am从悉尼国内机场出发（延误可安排接机追团$100/趟，错过行程无法退补）。接机后前往麦考瑞夫人椅、圣玛利亚大教堂、海德公园，乘车前往邦迪海滩，中午南半球最大海鲜市场自理午餐，下午参观悉尼大学、歌剧院外部、徒步海港大桥品味岩石区，行程结束前往酒店。全日市区游为特别赠送，因航班无法安排则改为接机送酒店，费用不退。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "含悉尼接机",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "自理",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Furama Darling Harbour或同级四星",
     "hotelEn": ""
    },
    {
     "d": "D2",
-    "titleZh": "第2天",
-    "titleEn": "Day 2",
-    "descZh": "基督城–亚瑟通道国家公园–格雷茅斯/霍基蒂卡",
-    "descEn": "基督城–亚瑟通道国家公园–格雷茅斯/霍基蒂卡",
+    "titleZh": "第2天 蓝山有氧一日游",
+    "titleEn": "Day 2 Blue Mountains",
+    "descZh": "早上约0830-0900出发，途径卡通巴，抵达景区后乘坐三种缆车感受蓝山神奇，午餐自理。下午打卡石拱门观景步道、回音谷、蜜月桥，前往英伦风卢拉小镇，最后可自选日落观光游船（自备OPAL卡），乘船游客自行返回悉尼，其余跟车返回。",
+    "descEn": "早上约0830-0900出发，途径卡通巴，抵达景区后乘坐三种缆车感受蓝山神奇，午餐自理。下午打卡石拱门观景步道、回音谷、蜜月桥，前往英伦风卢拉小镇，最后可自选日落观光游船（自备OPAL卡），乘船游客自行返回悉尼，其余跟车返回。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "中文司机导游",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Furama Darling Harbour或同级四星",
     "hotelEn": ""
    },
    {
     "d": "D3",
-    "titleZh": "第3天",
-    "titleEn": "Day 3",
-    "descZh": "格雷茅斯/霍基蒂卡–西海岸冰川–哈斯特",
-    "descEn": "格雷茅斯/霍基蒂卡–西海岸冰川–哈斯特",
+    "titleZh": "第3天 史蒂芬港一日游",
+    "titleEn": "Day 3 Port Stephens",
+    "descZh": "早上约0700-0730出发前往史蒂芬港，先到沙漠绿洲安娜湾体验刺激滑沙（自费），午餐后到 Nelson Bay 乘船观赏野生海豚。史蒂芬午餐可选鱼薯/芝士汉堡/意面，出发前三天未选则默认鱼薯。傍晚抵悉尼市中心结束。",
+    "descEn": "早上约0700-0730出发前往史蒂芬港，先到沙漠绿洲安娜湾体验刺激滑沙（自费），午餐后到 Nelson Bay 乘船观赏野生海豚。史蒂芬午餐可选鱼薯/芝士汉堡/意面，出发前三天未选则默认鱼薯。傍晚抵悉尼市中心结束。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "中文司机导游",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐 史蒂芬午餐",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Furama Darling Harbour或同级四星",
     "hotelEn": ""
    },
    {
     "d": "D4",
-    "titleZh": "第4天",
-    "titleEn": "Day 4",
-    "descZh": "哈斯特-瓦纳卡-皇后镇",
-    "descEn": "哈斯特-瓦纳卡-皇后镇",
+    "titleZh": "第4天 自由活动+悉尼送机 || 凯恩斯接机",
+    "titleEn": "Day 4 Sydney Fly to Cairns",
+    "descZh": "早上10:00前自行退房，早餐后送往机场（请预定930am-17pm国内航班）。抵达凯恩斯后中文导游接机，前往码头了解大堡礁游船取票及登船地点，送酒店休息。酒店位于市中心海滨，距商业街、礁湖、栈道、码头均在步行范围。",
+    "descEn": "早上10:00前自行退房，早餐后送往机场（请预定930am-17pm国内航班）。抵达凯恩斯后中文导游接机，前往码头了解大堡礁游船取票及登船地点，送酒店休息。酒店位于市中心海滨，距商业街、礁湖、栈道、码头均在步行范围。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "含悉尼送机+凯恩斯接机",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Cairns Harbourside Hotel 或 Pacific Hotel Cairns 或同级",
     "hotelEn": ""
    },
    {
     "d": "D5",
-    "titleZh": "第5天",
-    "titleEn": "Day 5",
-    "descZh": "皇后镇-格林诺奇-箭镇-皇后镇",
-    "descEn": "皇后镇-格林诺奇-箭镇-皇后镇",
+    "titleZh": "第5天 “太阳恋人号”大堡礁一日游",
+    "titleEn": "Day 5 Great Barrier Reef (Sunlover)",
+    "descZh": "酒店早餐后8:30-9:00自行前往码头，乘10:00出发的【太阳恋人号】前往外堡礁摩尔礁（无导游陪同）。平台免费项目：玻璃底船、半潜水船、浮潜、海底观察站、喂珊瑚鱼表演。平台海鲜自助午餐。约17:30回凯恩斯码头自行回酒店。\n自费推荐：带教练浮潜$65(成人)/$45(儿童)、初级潜水$149、海底漫步$149、10分钟直升机$200、升级船去飞回或飞去船回+$392。",
+    "descEn": "酒店早餐后8:30-9:00自行前往码头，乘10:00出发的【太阳恋人号】前往外堡礁摩尔礁（无导游陪同）。平台免费项目：玻璃底船、半潜水船、浮潜、海底观察站、喂珊瑚鱼表演。平台海鲜自助午餐。约17:30回凯恩斯码头自行回酒店。\n自费推荐：带教练浮潜$65(成人)/$45(儿童)、初级潜水$149、海底漫步$149、10分钟直升机$200、升级船去飞回或飞去船回+$392。",
     "spotsZh": [],
     "spotsEn": [],
     "transportZh": "",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐 船上午餐 晚餐自理",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Cairns Harbourside Hotel 或 Pacific Hotel Cairns 或同级",
     "hotelEn": ""
    },
    {
     "d": "D6",
-    "titleZh": "第6天",
-    "titleEn": "Day 6",
-    "descZh": "皇后镇自由行",
-    "descEn": "皇后镇自由行",
+    "titleZh": "第6天 热带雨林公园/库兰达小镇",
+    "titleEn": "Day 6 Rainforest & Kuranda",
+    "descZh": "上午9:00-9:30前往库兰达热带雨林，先到热带雨林公园（入口可选抱考拉拍照自费），聆听吹奏滴箸丽表演、欣赏土著舞蹈、体验回力镖飞镖、乘水陆两用车深入雨林；午餐可在公园内自助午餐（自费）或进考拉园看动物（自费）。之后前往库兰达镇逛市集。下午可选雨林空中缆车（自费$74成人/$37儿童）或观光火车（自费$58成人/$29儿童）返回市区，导游在终点站接回酒店。",
+    "descEn": "上午9:00-9:30前往库兰达热带雨林，先到热带雨林公园（入口可选抱考拉拍照自费），聆听吹奏滴箸丽表演、欣赏土著舞蹈、体验回力镖飞镖、乘水陆两用车深入雨林；午餐可在公园内自助午餐（自费）或进考拉园看动物（自费）。之后前往库兰达镇逛市集。下午可选雨林空中缆车（自费$74成人/$37儿童）或观光火车（自费$58成人/$29儿童）返回市区，导游在终点站接回酒店。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "中文司机导游",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Cairns Harbourside Hotel 或 Pacific Hotel Cairns 或同级",
     "hotelEn": ""
    },
    {
     "d": "D7",
-    "titleZh": "第7天",
-    "titleEn": "Day 7",
-    "descZh": "皇后镇-但尼丁-奥马鲁",
-    "descEn": "皇后镇-但尼丁-奥马鲁",
+    "titleZh": "第7天 凯恩斯送机 | 墨尔本接机",
+    "titleEn": "Day 7 Cairns Fly to Melbourne",
+    "descZh": "早餐后自由活动（请预定9am-17pm国内航班）。抵达墨尔本机场由专人送酒店，今天可自行游览探索这座最适合居住的城市。",
+    "descEn": "早餐后自由活动（请预定9am-17pm国内航班）。抵达墨尔本机场由专人送酒店，今天可自行游览探索这座最适合居住的城市。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "含凯恩斯送机+墨尔本接机",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
     "hotelEn": ""
    },
    {
     "d": "D8",
-    "titleZh": "第8天",
-    "titleEn": "Day 8",
-    "descZh": "奥马鲁-库克山-特威泽尔",
-    "descEn": "奥马鲁-库克山-特威泽尔",
+    "titleZh": "第8天 墨尔本-企鹅岛",
+    "titleEn": "Day 8 Phillip Island",
+    "descZh": "早上自由活动，下午前往菲利普岛。首站 BRIGHTON 彩虹小屋，下午三点半前往 MARU 动物园（自费$33成人/$18儿童）。傍晚五点 COWES 市区，六点诺比斯角（The Nobbies），约七点抵达企鹅栖息地见证企鹅归巢。诺比斯角视当天时间情况安排，不足则取消。",
+    "descEn": "早上自由活动，下午前往菲利普岛。首站 BRIGHTON 彩虹小屋，下午三点半前往 MARU 动物园（自费$33成人/$18儿童）。傍晚五点 COWES 市区，六点诺比斯角（The Nobbies），约七点抵达企鹅栖息地见证企鹅归巢。诺比斯角视当天时间情况安排，不足则取消。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "中文司机导游",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
     "hotelEn": ""
    },
    {
     "d": "D9",
-    "titleZh": "第9天",
-    "titleEn": "Day 9",
-    "descZh": "特威泽尔-蒂卡波湖-基督城/家园",
-    "descEn": "特威泽尔-蒂卡波湖-基督城/家园",
+    "titleZh": "第9天 墨尔本-金矿一日游",
+    "titleEn": "Day 9 Sovereign Hill",
+    "descZh": "前往淘金古城疏芬山（Sovereign Hill），体验淘金时期生活场景，可自费下矿（$13/人）并观赏纯金制金条过程。之后前往巴拉瑞特（Ballarat）市区，维多利亚时代建筑风格，轻松 City Walk。",
+    "descEn": "前往淘金古城疏芬山（Sovereign Hill），体验淘金时期生活场景，可自费下矿（$13/人）并观赏纯金制金条过程。之后前往巴拉瑞特（Ballarat）市区，维多利亚时代建筑风格，轻松 City Walk。",
     "spotsZh": [],
     "spotsEn": [],
-    "transportZh": "",
+    "transportZh": "中文司机导游",
     "transportEn": "",
-    "mealZh": "",
+    "mealZh": "酒店早餐",
     "mealEn": "",
-    "hotelZh": "",
+    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
+    "hotelEn": ""
+   },
+   {
+    "d": "D10",
+    "titleZh": "第10天 墨尔本-大洋路一日游",
+    "titleEn": "Day 10 Great Ocean Road",
+    "descZh": "从墨尔本出发沿维多利亚州西海岸展开大洋路之旅，经 Anglesea 小镇及小红帽灯塔，于大洋路纪念拱门停留。抵达阿波罗湾自由午餐（自费），下午前往十二门徒岩（可自费直升机$195俯瞰），沿途造访洛克阿德峡谷（Loch Ard Gorge）。",
+    "descEn": "从墨尔本出发沿维多利亚州西海岸展开大洋路之旅，经 Anglesea 小镇及小红帽灯塔，于大洋路纪念拱门停留。抵达阿波罗湾自由午餐（自费），下午前往十二门徒岩（可自费直升机$195俯瞰），沿途造访洛克阿德峡谷（Loch Ard Gorge）。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "中文司机导游",
+    "transportEn": "",
+    "mealZh": "酒店早餐",
+    "mealEn": "",
+    "hotelZh": "Hotel Grand Chancellor Melbourne或同级四星",
+    "hotelEn": ""
+   },
+   {
+    "d": "D11",
+    "titleZh": "第11天 墨尔本市区-送机",
+    "titleEn": "Day 11 Melbourne City & Departure",
+    "descZh": "早上城市探险：国会大厦外观、圣派翠克教堂、费兹洛伊花园（可自费库克船长小屋）、联邦广场、亚拉河畔、弗林德斯火车站、艺术中心、墨尔本大学（午餐校园附近自理）。约下午两点结束，三点团体送机（请预定18:00后航班；独立送机$120起）。",
+    "descEn": "早上城市探险：国会大厦外观、圣派翠克教堂、费兹洛伊花园（可自费库克船长小屋）、联邦广场、亚拉河畔、弗林德斯火车站、艺术中心、墨尔本大学（午餐校园附近自理）。约下午两点结束，三点团体送机（请预定18:00后航班；独立送机$120起）。",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "中文司机导游+墨尔本送机",
+    "transportEn": "",
+    "mealZh": "酒店早餐",
+    "mealEn": "",
+    "hotelZh": "温暖的家",
     "hotelEn": ""
    }
   ],
   "hotels": [],
   "includes": [
-   "3-4星级酒店住宿, 最多容纳3人, 儿童价适用于不满12岁儿童,婴儿价适用于不满2岁婴儿, 5岁以上儿童必须占床 行程中所列餐食， 中文司机兼导游，旅游车， 行程中列明**之景点门票。"
+   "1.指定时间内机场接送 2.四星酒店含早餐 3.中文导游兼司机 4.全程交通[根据人数安排车辆] 5.景点门票及活动如行程所示"
   ],
   "includesEn": [],
   "excludes": [
-   "国际、国内机票、税、 签证费用； 导游小费：建议每人每天NZ$6； 私人消费及旅游保险（强烈建议购买，如客人没有购买旅游保险，当有意外发生时，需自行承担，如额外的交通费，住宿费，取消费等）。"
+   "1.导游小费$5/人/天 2.任何国际、国内机票 3.旺季酒店附加费 4.行程未列出的午、晚餐 5.自费加购项目 6.因不可抗力产生的额外费用^"
   ],
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
- },
- {
-  "id": "Nova-NZAN4A7",
-  "supplierCode": "NZAN4A7",
-  "nameZh": "新西兰南北岛 10 日精华之旅",
-  "nameEn": "新西兰南北岛 10 日精华之旅",
-  "dest": "nz",
-  "destZh": "新西兰",
-  "destEn": "nz",
-  "category": "纯玩无购物团",
-  "subRegion": "南北岛连线",
-  "seasonTag": "",
-  "subRegions": [
-   "南北岛连线"
-  ],
-  "price": "A$1798",
-  "priceEn": "A$1798",
-  "days": 10,
-  "startCity": "新西兰",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/nz.jpg",
-  "introZh": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
-  "introEn": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
-  "participationNotice": "*** 价格为每人 *** **周五发团 1. 儿童價分为：5-11周岁占床-双人房，5-11周岁占床-三人房，2-4周岁不占床，0-2周岁不占床 2. 航班要求: - 去程：第一天下午任意时间抵达奥克兰的航班，酒店入住时间是下午2点以後；乘坐机场接驳小巴 Supper Shuttle前往酒店（需按指引自行前往乘坐点上车） - 北岛-南岛航班：第4天下午约13:30-14:00之间抵达奥克兰机场，请预定3点后从奥克兰起飞的航班。基督城导游下午2次接机，分别在15：30和17：30抵达机场接机。 - 返程：两次送抵基督城机场时间为14:00和16:00，需预定15:00后离开基督城的境内航班；17:00后离开基督城的国际航班。 3. ⾏程内所有项⽬都将按照当地实际情况（如疫情，天⽓，交通等不可抗⼒）因素决定，本公司保留依据实际情况对⾏程做出调整的权⼒，客⼈不得对此要求补偿。 4. 我社保留因季节变化、酒店航班变更、前往地区实际情况及其他不可抗⼒原因⽽调整最终价格和⾏程顺序的权利。 5. 新西兰住宿设施有限，公司会根据实际情况调整酒店；新西兰三人间默认为一张双人床加⼀张单人床，如需3张独立分开的床请事先声明，出发前公司会尽力确认，但不能完全保证可满足此要求。",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "新西兰",
-    "adult": 1798.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [],
-  "itinerary": [
-   {
-    "d": "D1",
-    "titleZh": "第1天",
-    "titleEn": "Day 1",
-    "descZh": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
-    "descEn": "★霍比特村+霍比特人洞 ★怀托摩萤火虫洞 ★罗托鲁瓦湖区4星住宿 ★山顶景观金奖餐厅 ★田园牧场+神兽羊驼 ★红木森林步道 ★英伦风市政花园 ★地热公园温泉足浴 ★波利尼西亚温泉(自选) ★千帆之都-奥克兰 ★ 星空保护区 ★ 绝美冰湖 ★ 复古箭镇 ★ 库克山顶级步道体验 ★格林诺奇小镇 ★米尔福德峡湾 ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢",
-    "spotsZh": [],
-    "spotsEn": [],
-    "transportZh": "",
-    "transportEn": "",
-    "mealZh": "",
-    "mealEn": "",
-    "hotelZh": "",
-    "hotelEn": ""
-   }
-  ],
-  "hotels": [],
-  "includes": [
-   "1. 3-4星级酒店双人标准间住宿",
-   "2. 中文司机兼导游服务",
-   "3. 旅游车",
-   "4. 行程中所列餐食",
-   "5. 行程中列明★之景区，景点门票费用"
-  ],
-  "includesEn": [],
-  "excludes": [
-   "1. 新西兰境内或国际段机票",
-   "2. 办理护照及签证的相关费用",
-   "3. 自费项目等需另行付费的费用",
-   "4. 司导小费（建议6纽币/每人/每天）",
-   "5. 购买个人旅游保险的费用（强烈建议购买）",
-   "6. 由旅游者个人行为所导致的额外费用",
-   "7. 合同及旅游行程中未约定由我社支付的费用，行程中因不可抗因素（疫 情，交通延误、罢工、自然灾害等）所产生的损失和费用。"
-  ],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
+  "featured": true,
+  "forder": 4
  },
  {
   "id": "Nova-NZAT4A7",
@@ -45955,277 +46522,650 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": true,
+  "forder": 5
  },
  {
-  "id": "PV-NZSN11",
-  "supplierCode": "NZSN11",
-  "nameZh": "南北岛双火车11天 冰川大环线8天+北岛4天",
-  "nameEn": "南北岛双火车11天 冰川大环线8天+北岛4天",
-  "dest": "nz",
-  "destZh": "新西兰",
-  "destEn": "nz",
-  "category": "纯玩无购物团",
-  "subRegion": "南北岛连线",
+  "id": "SUP-NOVA-0179",
+  "supplierCode": "GALAMZ",
+  "nameZh": "GALAMZ【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】",
+  "nameEn": "GALAMZ【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】",
+  "dest": "america",
+  "destZh": "美加",
+  "destEn": "america",
+  "category": "含机票特别订制团",
+  "subRegion": "美加其他",
   "seasonTag": "",
   "subRegions": [
-   "南北岛连线"
+   "美加其他"
   ],
-  "price": "A$3390",
-  "priceEn": "A$3390",
-  "days": 11,
-  "startCity": "",
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 14,
+  "startCity": "悉尼",
   "tags": [
-   "纯玩无购物"
+   "机票套餐"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Flight-incl"
   ],
-  "img": "assets/img/destinations/nz.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
+  "img": [
+   "assets/suppliers/SUP-NOVA/products/SUP-NOVA-0179/SUP-NOVA-0179_hero_1.jpg",
+   "assets/suppliers/SUP-NOVA/products/SUP-NOVA-0179/SUP-NOVA-0179_hero.jpg"
+  ],
+  "introZh": "世界极致 · 加拉帕戈斯与亚马逊的双重奇境\r\nTour ID:  GALAMZ\r\n【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】\r\n当世界上所有海岛都开始趋同, 唯有加拉帕戈斯仍然像一部“正在上演的地球史前篇章”——蓝脚鲣鸟、海鬣蜥、巨龟, 与人类零距离共存的地方.\r\n\r\n而在安第斯山脉的另一侧, 亚马逊深处的云雾雨林, 正悄悄守护着地球最后的原始呼吸. 树冠之上, 金刚鹦鹉划过天空；河道深处, 粉红海豚在黄昏里跃动.\r\n——————————————————————————————————\r\n2027, 我们以真正的 “奢华探索方式”\r\n带你进入世界自然遗产的双巅峰: Galápagos + Amazon.\r\n【加拉帕戈斯·海上5天｜独家包船 · 私享航线】\r\n我们以 整船包船的形式独享, 意味着——\r\n只有我们的团队, 只有我们决定航程的节奏, 没有陌生旅客, 没有噪音打扰, 整艘船就是一个漂浮在太平洋上的“私人生态研究站”.\r\n有限的船舱与精英自然学家团队, 确保最佳登陆时间、最纯粹的近距离观察、以及真正属于自己团队的亲密节奏.\r\n每天醒来, 都在另一座无人岛前；每天上岸, 都像踏入达尔文的手稿.\r\n——这不是跟团游, 而是一场 真正的私享级探索航行——\r\n【亚马逊·Sacha Lodge 雨林3晚】\r\n✔ 雨林吊桥、树冠探险、独木舟秘境溯源、夜行观生态.\r\n✔ 住进雨林, 却拥有超高舒适度的私人小屋.\r\n✔ 这是世界上最安全、最稀有、也最迷人的亚马逊体验之一.\r\n—— —— ——\r\n【为什么这趟旅程如此特别？】\r\n✔ 以最小疲劳度串起两个“地球级目的地”\r\n✔ 一次体验海岛生态 + 热带雨林两大系统\r\n✔ 加拉帕戈斯全船包船: 稀缺、尊享、安全、沉浸\r\n✔ 精选航线 5 天深度登陆, 节奏完全掌握在我们手中\r\n✔ 雨林 lodge 享受级设施, 不牺牲舒适\r\n✔ 罕见的 2in1 组合, 只适合真正热爱自然与冒险的旅行者\r\n—— —— ——\r\n【适合什么样的你？】\r\n✔ 已经去过世界多数海岛, 渴望“真正独特”的风景\r\n✔ 喜欢动物、自然纪录片、BBC Earth\r\n✔ 追求高端小团、轻探险、不赶场\r\n✔ 想要一段别人无法复制的海陆双奇境\r\n✔ 想让旅程更像“人生体验”而非“行程安排”\r\n—— —— ——\r\n【这是你人生清单里, 会永远记住的一次旅行】\r\nGalápagos 的一切, 是地球给予的惊叹；Amazon 的一切, 是自然给予的震撼.\r\n我们会带你去看——那些只有在电影与纪录片里才会出现的场景, 真实地发生在眼前.\r\n—— —— ——\r\n✔ 我们独家包下精品双体帆船\r\n✔ 这类船型船舱少、船员精、机动性强, 意味着整个加拉帕戈斯海域的节奏完全由我们自己掌控. 与大型邮轮不同, 双体帆船能更靠近生态栖息地, 让上岸距离更短、观察更近、体验更私密.\r\n✔ 全船仅8间客舱, 每间独立卫浴\r\n✔ 全船空调｜热带航区依然保持舒适\r\n✔ 宽阔日光甲板｜航行、观景、随时看海豚跃动\r\n✔ 海景 Jacuzzi｜在太平洋中央泡温泉、看火山岛日落\r\n✔ 船上厨师团队｜每日鲜食料理与轻食补给\r\n✔ 安静的双体帆船结构｜更贴近动物、不惊扰自然\r\n✔ 船上由持证自然学家带领我们登陆各岛, 中文领队随行补充讲解, 让每一次探索都“看得见、听得懂、记得住”.\r\n\r\n***由于房间有限且床型不同, 您将在报名时指定房间, 我们将为您保留24小时, 逾期未付订金则取消预定(拼房无法指定, 恕不接受单人船舱).\r\n——————————————————————————————————\r\n【 Live the Amazon · Elegantly ｜体验亚马逊最优雅的方式】\r\n—— 当薄雾升起、湖面静止、雨林开始轻轻呼吸时, 你会明白——这里值得亲眼看见, 也值得被珍藏. ——\r\nSacha Lodge 坐落于超过 5,000 英亩受保护的原始雨林中心, 是全球最受推崇的亚马逊生态旅宿之一. 木质小屋隐于森林深处, 配备独立卫浴、电力与舒适寝具, 让你在亚马逊也能真正安睡.\r\n\r\n以四种方式观察雨林的生命层次——\r\n【 Forest · Canopy · Water · Night ｜树冠 · 湖泊 · 夜行 · 独木舟】\r\n—— —— —— —— —— ——\r\n★树冠探索(Canopy Walk · 275m) --- 60%-90% 的雨林生命栖息在树冠层. 走在空中步道上, 你与鹦鹉、巨嘴鸟、猴群几乎平行.\r\n★静谧湖泊(Pilchicocha Lagoon) --- 以独木舟穿行镜面般的湖面,\r\n★森林步道(Rainforest Trails) --- 自然学家带你识别药用植物、昆虫奇观与动物足迹.\r\n★雨林夜行(Night Walk) --- 聆听夜间森林的呼吸: 树蛙、昆虫、夜行鸟、荧光真菌.\r\n【Wildlife · 亚马逊的生命图鉴】 --- Sacha 区域已记录 580+ 种鸟类, 是全球观鸟密度最高区域之一\r\n—— —— —— —— —— ——\r\n常见生态亮点包括:\r\n· 虎猫、小型猴群、巨獭(Giant Otter)\r\n· 犀鸟、巨嘴鸟、军舰鸟、翠鸟\r\n· 树蛙、树懒、鬣蜥、亚马逊水母\r\n· 近距离观察无毒蛇类与昆虫世界\r\n——每一次独木舟滑行、每一次树冠停步, 都是与雨林系统直接对话的瞬间.——\r\n\r\n【由自然学家带领 · 中文领队随行】\r\n每日活动由 Sacha 专业自然学家带队, 让雨林中的每一次发现都真正被理解.",
+  "introEn": "世界极致 · 加拉帕戈斯与亚马逊的双重奇境\r\nTour ID:  GALAMZ\r\n【世界极致 · 加拉帕戈斯与亚马逊的双重奇境】\r\n当世界上所有海岛都开始趋同, 唯有加拉帕戈斯仍然像一部“正在上演的地球史前篇章”——蓝脚鲣鸟、海鬣蜥、巨龟, 与人类零距离共存的地方.\r\n\r\n而在安第斯山脉的另一侧, 亚马逊深处的云雾雨林, 正悄悄守护着地球最后的原始呼吸. 树冠之上, 金刚鹦鹉划过天空；河道深处, 粉红海豚在黄昏里跃动.\r\n——————————————————————————————————\r\n2027, 我们以真正的 “奢华探索方式”\r\n带你进入世界自然遗产的双巅峰: Galápagos + Amazon.\r\n【加拉帕戈斯·海上5天｜独家包船 · 私享航线】\r\n我们以 整船包船的形式独享, 意味着——\r\n只有我们的团队, 只有我们决定航程的节奏, 没有陌生旅客, 没有噪音打扰, 整艘船就是一个漂浮在太平洋上的“私人生态研究站”.\r\n有限的船舱与精英自然学家团队, 确保最佳登陆时间、最纯粹的近距离观察、以及真正属于自己团队的亲密节奏.\r\n每天醒来, 都在另一座无人岛前；每天上岸, 都像踏入达尔文的手稿.\r\n——这不是跟团游, 而是一场 真正的私享级探索航行——\r\n【亚马逊·Sacha Lodge 雨林3晚】\r\n✔ 雨林吊桥、树冠探险、独木舟秘境溯源、夜行观生态.\r\n✔ 住进雨林, 却拥有超高舒适度的私人小屋.\r\n✔ 这是世界上最安全、最稀有、也最迷人的亚马逊体验之一.\r\n—— —— ——\r\n【为什么这趟旅程如此特别？】\r\n✔ 以最小疲劳度串起两个“地球级目的地”\r\n✔ 一次体验海岛生态 + 热带雨林两大系统\r\n✔ 加拉帕戈斯全船包船: 稀缺、尊享、安全、沉浸\r\n✔ 精选航线 5 天深度登陆, 节奏完全掌握在我们手中\r\n✔ 雨林 lodge 享受级设施, 不牺牲舒适\r\n✔ 罕见的 2in1 组合, 只适合真正热爱自然与冒险的旅行者\r\n—— —— ——\r\n【适合什么样的你？】\r\n✔ 已经去过世界多数海岛, 渴望“真正独特”的风景\r\n✔ 喜欢动物、自然纪录片、BBC Earth\r\n✔ 追求高端小团、轻探险、不赶场\r\n✔ 想要一段别人无法复制的海陆双奇境\r\n✔ 想让旅程更像“人生体验”而非“行程安排”\r\n—— —— ——\r\n【这是你人生清单里, 会永远记住的一次旅行】\r\nGalápagos 的一切, 是地球给予的惊叹；Amazon 的一切, 是自然给予的震撼.\r\n我们会带你去看——那些只有在电影与纪录片里才会出现的场景, 真实地发生在眼前.\r\n—— —— ——\r\n✔ 我们独家包下精品双体帆船\r\n✔ 这类船型船舱少、船员精、机动性强, 意味着整个加拉帕戈斯海域的节奏完全由我们自己掌控. 与大型邮轮不同, 双体帆船能更靠近生态栖息地, 让上岸距离更短、观察更近、体验更私密.\r\n✔ 全船仅8间客舱, 每间独立卫浴\r\n✔ 全船空调｜热带航区依然保持舒适\r\n✔ 宽阔日光甲板｜航行、观景、随时看海豚跃动\r\n✔ 海景 Jacuzzi｜在太平洋中央泡温泉、看火山岛日落\r\n✔ 船上厨师团队｜每日鲜食料理与轻食补给\r\n✔ 安静的双体帆船结构｜更贴近动物、不惊扰自然\r\n✔ 船上由持证自然学家带领我们登陆各岛, 中文领队随行补充讲解, 让每一次探索都“看得见、听得懂、记得住”.\r\n\r\n***由于房间有限且床型不同, 您将在报名时指定房间, 我们将为您保留24小时, 逾期未付订金则取消预定(拼房无法指定, 恕不接受单人船舱).\r\n——————————————————————————————————\r\n【 Live the Amazon · Elegantly ｜体验亚马逊最优雅的方式】\r\n—— 当薄雾升起、湖面静止、雨林开始轻轻呼吸时, 你会明白——这里值得亲眼看见, 也值得被珍藏. ——\r\nSacha Lodge 坐落于超过 5,000 英亩受保护的原始雨林中心, 是全球最受推崇的亚马逊生态旅宿之一. 木质小屋隐于森林深处, 配备独立卫浴、电力与舒适寝具, 让你在亚马逊也能真正安睡.\r\n\r\n以四种方式观察雨林的生命层次——\r\n【 Forest · Canopy · Water · Night ｜树冠 · 湖泊 · 夜行 · 独木舟】\r\n—— —— —— —— —— ——\r\n★树冠探索(Canopy Walk · 275m) --- 60%-90% 的雨林生命栖息在树冠层. 走在空中步道上, 你与鹦鹉、巨嘴鸟、猴群几乎平行.\r\n★静谧湖泊(Pilchicocha Lagoon) --- 以独木舟穿行镜面般的湖面,\r\n★森林步道(Rainforest Trails) --- 自然学家带你识别药用植物、昆虫奇观与动物足迹.\r\n★雨林夜行(Night Walk) --- 聆听夜间森林的呼吸: 树蛙、昆虫、夜行鸟、荧光真菌.\r\n【Wildlife · 亚马逊的生命图鉴】 --- Sacha 区域已记录 580+ 种鸟类, 是全球观鸟密度最高区域之一\r\n—— —— —— —— —— ——\r\n常见生态亮点包括:\r\n· 虎猫、小型猴群、巨獭(Giant Otter)\r\n· 犀鸟、巨嘴鸟、军舰鸟、翠鸟\r\n· 树蛙、树懒、鬣蜥、亚马逊水母\r\n· 近距离观察无毒蛇类与昆虫世界\r\n——每一次独木舟滑行、每一次树冠停步, 都是与雨林系统直接对话的瞬间.——\r\n\r\n【由自然学家带领 · 中文领队随行】\r\n每日活动由 Sacha 专业自然学家带队, 让雨林中的每一次发现都真正被理解.",
+  "participationNotice": "预定须知\r\n價格為AUD每人, 以兩人一房為基準\r\n下單即需支付訂金30%, 尾款需於出發前45天付清, 如因乘客個人原因不能參團, 遵照退改規定：距離出發前45天前, 恕不退還訂金; 距離出發日期44天內, 恕不退還全款\r\n強烈推薦報名時購買旅遊保險以規避風險\r\n如因人數不足10人未能成行客人可選擇其他團期或全額退款; 我司保留根據地方政府等政令及交通限令等不可抗力調整行程的權利\r\n請查閱乘客是否符合目的地相關疫苗和檢測要求, 我司概不承擔乘客因疫苗、檢測、護照、簽證等原因被拒絕登機產生的損失\r\n以上信息在發布時準確無誤, 實際情況如有變動, 請以官方網站為準. 圖片僅供參考, 具體細節以最終確認為準. 本產品適用相關條款與細則.\r\n\r\n退改政策\r\n下單即需支付訂金30%, 尾款需於出發前45天付清\r\n如因乘客個人原因不能參團, 遵照退改規定：\r\n距離出發前45天前, 恕不退還訂金;\r\n距離出發日期44天內, 恕不退還全款",
+  "departureDates": [
+   {
+    "date": "2027-02-11",
+    "status": "available"
+   },
+   {
+    "date": "2027-02-25",
+    "status": "available"
+   }
+  ],
   "depRule": null,
   "validFrom": null,
   "validTo": null,
   "surchargeNote": "",
   "priceTable": [
    {
-    "city": "Christchurch 基督城 / Auckland 奥克兰",
-    "adult": 3390.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
+    "city": "悉尼",
+    "adult": 18900.0,
+    "childbed": 0.0,
+    "childnobed": 0.0,
+    "infant": 0.0,
+    "single": 0.0,
+    "transfer": 0.0,
+    "tip": 180.0,
+    "service": ""
    }
   ],
   "brochures": [
    {
-    "supplier": "SUP-PV",
-    "file": "NZSN11_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/NZSN11_brochure.pdf"
+    "supplier": "SUP-NOVA",
+    "file": "GALAMZ世界极致加拉-20260805.pdf",
+    "url": "/assets/suppliers/SUP-NOVA/GALAMZ世界极致加拉-20260805.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "悉尼 ✈ 圣地亚哥 ✈ 利马\n启程前往南美洲, 一路跨越太平洋航线, 经智利圣地亚哥转机抵达秘鲁利马.\n长途航程休整, 入住酒店, 准备迎接接下来的自然奇迹冒险.\nPullman Lima 或同级5*\nD",
+    "descEn": "悉尼 ✈ 圣地亚哥 ✈ 利马\n启程前往南美洲, 一路跨越太平洋航线, 经智利圣地亚哥转机抵达秘鲁利马.\n长途航程休整, 入住酒店, 准备迎接接下来的自然奇迹冒险.\nPullman Lima 或同级5*\nD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "利马✈ 基多Quito\n早餐后送往机场, 搭乘航班飞往厄瓜多尔首都基多(午餐敬请在机场自理). 抵基多, 联合国认证的“安第斯最美高城”(海拔2850m). 被《国家地理》誉为“保存最完好的殖民城市”之一. 参观独立广场、总统府外观、殖民时期大教堂, 以及以金箔壁面闻名的耶稣会教堂 La Compañía. 漫步至圣弗朗西斯科修道院, 感受殖民艺术与宗教建筑精华.\nJW Marriott Quito 或同级5*\nBD",
+    "descEn": "利马✈ 基多Quito\n早餐后送往机场, 搭乘航班飞往厄瓜多尔首都基多(午餐敬请在机场自理). 抵基多, 联合国认证的“安第斯最美高城”(海拔2850m). 被《国家地理》誉为“保存最完好的殖民城市”之一. 参观独立广场、总统府外观、殖民时期大教堂, 以及以金箔壁面闻名的耶稣会教堂 La Compañía. 漫步至圣弗朗西斯科修道院, 感受殖民艺术与宗教建筑精华.\nJW Marriott Quito 或同级5*\nBD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "基多\n早餐后前往坐落在城市北侧的 Mitad del Mundo 赤道纪念碑. 在“世界的中心”踏上南北半球的分界线, 参观 Intiñan 民俗博物馆, 体验赤道重力实验、原住民文化与趣味互动, 这是厄瓜多尔最具象征意义的体验之一. 午间返回市区享用午餐, 随后乘坐 Teleférico 缆车上升至约 4,000 公尺的火山山腰. 在高空俯瞰基多的红瓦城市与环绕的安第斯山脉, 如天气晴朗, 可远眺 Cotopaxi、Cayambe 等火山的白雪峰顶. 晚餐后返回酒店休息, 准备次日飞往加拉帕戈斯.\nJW Marriott Quito 或同级5*\nBLD",
+    "descEn": "基多\n早餐后前往坐落在城市北侧的 Mitad del Mundo 赤道纪念碑. 在“世界的中心”踏上南北半球的分界线, 参观 Intiñan 民俗博物馆, 体验赤道重力实验、原住民文化与趣味互动, 这是厄瓜多尔最具象征意义的体验之一. 午间返回市区享用午餐, 随后乘坐 Teleférico 缆车上升至约 4,000 公尺的火山山腰. 在高空俯瞰基多的红瓦城市与环绕的安第斯山脉, 如天气晴朗, 可远眺 Cotopaxi、Cayambe 等火山的白雪峰顶. 晚餐后返回酒店休息, 准备次日飞往加拉帕戈斯.\nJW Marriott Quito 或同级5*\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "基多 ✈ 加拉帕戈斯 · North Seymour 海鸟天堂\n上午搭乘航班前往加拉帕戈斯, 抵达 Baltra 后专车接驳登上双体帆船, 安全简报与午餐后前往 North Seymour——加拉帕戈斯最壮观的海鸟聚集地之一. 在岛上的步道上, 你将与蓝脚鲣鸟的求偶舞步零距离, 军舰鸟Frigate Bird张开红色喉囊, 海狮群在岸边晒太阳, 陆鬣蜥 静静栖息在玄武岩上, 这是最经典的“欢迎来到地球演化现场”的开场. 这里将是我们第一个浮潜点.\n傍晚回到船上参加船长欢迎鸡尾酒会.\n船上(私享航程的第一晚).\nBLD",
+    "descEn": "基多 ✈ 加拉帕戈斯 · North Seymour 海鸟天堂\n上午搭乘航班前往加拉帕戈斯, 抵达 Baltra 后专车接驳登上双体帆船, 安全简报与午餐后前往 North Seymour——加拉帕戈斯最壮观的海鸟聚集地之一. 在岛上的步道上, 你将与蓝脚鲣鸟的求偶舞步零距离, 军舰鸟Frigate Bird张开红色喉囊, 海狮群在岸边晒太阳, 陆鬣蜥 静静栖息在玄武岩上, 这是最经典的“欢迎来到地球演化现场”的开场. 这里将是我们第一个浮潜点.\n傍晚回到船上参加船长欢迎鸡尾酒会.\n船上(私享航程的第一晚).\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D5",
+    "titleZh": "第5天",
+    "titleEn": "Day 5",
+    "descZh": "加拉帕戈斯·海狮岛浮潜 & Kicker Rock 岩壁巡游\n上午抵达海狮岛Lobos Island 漫步沙滩近看海狮家族, 与海狮宝宝在浅湾里一同浮潜, 是许多旅客最难忘的瞬间. 这里海水温和、能见度佳.\n午后前往标志性的“Kicker Rock” 巨岩海域, 欣赏火山岩裂缝景观, 峭壁从海面拔起, 是鲨鱼、鳐鱼与海鸟的聚集点. (此处通常不下水, 但天气好时会看到大量海鸟掠过岩壁. )\n傍晚踏上 Brujo Hill细白沙丘, 海浪平缓、海景辽阔, 是拍摄海鬣蜥、海狮与远山的绝佳背景. 您还可以划独木舟或站立桨板与海狮嬉戏.\n船上(私享航程的第二晚).\nBLD",
+    "descEn": "加拉帕戈斯·海狮岛浮潜 & Kicker Rock 岩壁巡游\n上午抵达海狮岛Lobos Island 漫步沙滩近看海狮家族, 与海狮宝宝在浅湾里一同浮潜, 是许多旅客最难忘的瞬间. 这里海水温和、能见度佳.\n午后前往标志性的“Kicker Rock” 巨岩海域, 欣赏火山岩裂缝景观, 峭壁从海面拔起, 是鲨鱼、鳐鱼与海鸟的聚集点. (此处通常不下水, 但天气好时会看到大量海鸟掠过岩壁. )\n傍晚踏上 Brujo Hill细白沙丘, 海浪平缓、海景辽阔, 是拍摄海鬣蜥、海狮与远山的绝佳背景. 您还可以划独木舟或站立桨板与海狮嬉戏.\n船上(私享航程的第二晚).\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D6",
+    "titleZh": "第6天",
+    "titleEn": "Day 6",
+    "descZh": "加拉帕戈斯· 伊莎贝拉岛的隐世海湾与世界级海鸟\n今天是物种密度最高的一天.  上午在静谧的 Osborn Islet 浮潜, 寻找热带鱼群与海龟；在 Gardner Bay 搭乘充气艇融入一大群不怕人的海狮, 与海鬣蜥并肩慢走. 这里也常能看到: 牛奶鱼群、鹦嘴鱼、鳐鱼.\n下午登陆著名的 Suarez Point, 这是加拉帕戈斯最壮丽的悬崖海鸟圣地, 海鬣蜥密度极高, “喷潮洞 Blowhole” 拍出白色水柱直冲天空. 这是一段极具震撼力的步道, 也是许多自然摄影师的梦想之地.\n船上(私享航程的第三晚).\nBLD",
+    "descEn": "加拉帕戈斯· 伊莎贝拉岛的隐世海湾与世界级海鸟\n今天是物种密度最高的一天.  上午在静谧的 Osborn Islet 浮潜, 寻找热带鱼群与海龟；在 Gardner Bay 搭乘充气艇融入一大群不怕人的海狮, 与海鬣蜥并肩慢走. 这里也常能看到: 牛奶鱼群、鹦嘴鱼、鳐鱼.\n下午登陆著名的 Suarez Point, 这是加拉帕戈斯最壮丽的悬崖海鸟圣地, 海鬣蜥密度极高, “喷潮洞 Blowhole” 拍出白色水柱直冲天空. 这是一段极具震撼力的步道, 也是许多自然摄影师的梦想之地.\n船上(私享航程的第三晚).\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D7",
+    "titleZh": "第7天",
+    "titleEn": "Day 7",
+    "descZh": "加拉帕戈斯·玫瑰色火烈鸟湖 & 传奇邮局桶\n上午登陆 Floreana 岛后步行至火烈鸟泻湖 Cormorant Point, 若运气好可见火烈鸟成群觅食、海龟筑巢痕迹以及罕见植物景观. 随后在 Champion Islet 浮潜, 这里是海龟与热带鱼群的天堂.\n下午体验独一无二的 邮局桶传统(旅客可从木桶取出寄往自己国家的信件, 自行带回投递). 接着登上 Baroness 景观点, 俯瞰碧绿海湾与岛屿地貌.\n船上(私享航程的第四晚).\nBLD",
+    "descEn": "加拉帕戈斯·玫瑰色火烈鸟湖 & 传奇邮局桶\n上午登陆 Floreana 岛后步行至火烈鸟泻湖 Cormorant Point, 若运气好可见火烈鸟成群觅食、海龟筑巢痕迹以及罕见植物景观. 随后在 Champion Islet 浮潜, 这里是海龟与热带鱼群的天堂.\n下午体验独一无二的 邮局桶传统(旅客可从木桶取出寄往自己国家的信件, 自行带回投递). 接着登上 Baroness 景观点, 俯瞰碧绿海湾与岛屿地貌.\n船上(私享航程的第四晚).\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D8",
+    "titleZh": "第8天",
+    "titleEn": "Day 8",
+    "descZh": "加拉帕戈斯·高地巨龟 & 查尔斯达尔文研究站 →离船 ✈ 基多\n早上抵达圣克鲁斯岛下船, 在高地 Santa Cruz Highlands 森林步道中寻找野生加拉帕戈斯象龟, 这些生活在森林湿地的百岁巨龟是加岛最具象征性的生命. 最后在达尔文研究站 Charles Darwin Research Station 认识保育计划、幼年龟培育中心, 并了解“孤独乔治”的故事, 为加拉帕戈斯探索画上圆满句点. 中午搭乘航班飞往基多(午餐敬请在机场自理) 抵达后入住机场附近酒店, 于酒店内享用晚餐.\nEB Hotel by Eurobuilding或同级5*\nBD",
+    "descEn": "加拉帕戈斯·高地巨龟 & 查尔斯达尔文研究站 →离船 ✈ 基多\n早上抵达圣克鲁斯岛下船, 在高地 Santa Cruz Highlands 森林步道中寻找野生加拉帕戈斯象龟, 这些生活在森林湿地的百岁巨龟是加岛最具象征性的生命. 最后在达尔文研究站 Charles Darwin Research Station 认识保育计划、幼年龟培育中心, 并了解“孤独乔治”的故事, 为加拉帕戈斯探索画上圆满句点. 中午搭乘航班飞往基多(午餐敬请在机场自理) 抵达后入住机场附近酒店, 于酒店内享用晚餐.\nEB Hotel by Eurobuilding或同级5*\nBD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D9",
+    "titleZh": "第9天",
+    "titleEn": "Day 9",
+    "descZh": "基多 ✈ 科卡 - 亚马逊雨林\n清晨搭乘航班飞往亚马逊的入口科卡Coca, 转乘快艇沿着纳波河顺流而下. 这条河是亚马逊最重要的生命动脉之一. 抵达 Lodge 入口后, 穿越一段静谧的热带林间步道, 接着由独木舟轻轻滑入 Pilchicocha 黑水湖——湖水深沉而安静, 倒映着雨林与云影, 仿佛在进入另一个世界. 抵达 Sacha Lodge 后办理入住. 夕阳时分, 可在湖边木栈道散步, 聆听第一缕来自雨林的回声. 晚上享用当地风味晚餐, 随后可参加导览员带领的 雨林夜行(Night Walk): 树蛙、夜行鸟、昆虫, 雨林随夜色醒来.\nSacha Lodge\nBLD",
+    "descEn": "基多 ✈ 科卡 - 亚马逊雨林\n清晨搭乘航班飞往亚马逊的入口科卡Coca, 转乘快艇沿着纳波河顺流而下. 这条河是亚马逊最重要的生命动脉之一. 抵达 Lodge 入口后, 穿越一段静谧的热带林间步道, 接着由独木舟轻轻滑入 Pilchicocha 黑水湖——湖水深沉而安静, 倒映着雨林与云影, 仿佛在进入另一个世界. 抵达 Sacha Lodge 后办理入住. 夕阳时分, 可在湖边木栈道散步, 聆听第一缕来自雨林的回声. 晚上享用当地风味晚餐, 随后可参加导览员带领的 雨林夜行(Night Walk): 树蛙、夜行鸟、昆虫, 雨林随夜色醒来.\nSacha Lodge\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D10",
+    "titleZh": "第10天",
+    "titleEn": "Day 10",
+    "descZh": "亚马逊雨林· 全日雨林探索\n今日将走入 lodge 最著名的亮点—— Canopy Walk 树冠吊桥, 全长 275 米, 最高 30 米. 在树冠层, 你与雨林的生命“平行”, 巨嘴鸟贴着头顶飞过, 各种色彩饱和的鹦鹉在晨光里成群掠过, 松鼠猴、吼猴、卷尾猴可能在树梢嬉戏, 清晨薄雾和阳光在叶面上凝结. 午后以独木舟探索 黑水河道: 这里常能看到翠鸟、苍鹭、巨獭(Giant Otter), 树影倒映在水面上, 宁静得只有划桨声. 若天气良好, 傍晚可在湖边游泳平台休憩, 享受雨林的平静.\nSacha Lodge\nBLD",
+    "descEn": "亚马逊雨林· 全日雨林探索\n今日将走入 lodge 最著名的亮点—— Canopy Walk 树冠吊桥, 全长 275 米, 最高 30 米. 在树冠层, 你与雨林的生命“平行”, 巨嘴鸟贴着头顶飞过, 各种色彩饱和的鹦鹉在晨光里成群掠过, 松鼠猴、吼猴、卷尾猴可能在树梢嬉戏, 清晨薄雾和阳光在叶面上凝结. 午后以独木舟探索 黑水河道: 这里常能看到翠鸟、苍鹭、巨獭(Giant Otter), 树影倒映在水面上, 宁静得只有划桨声. 若天气良好, 傍晚可在湖边游泳平台休憩, 享受雨林的平静.\nSacha Lodge\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D11",
+    "titleZh": "第11天",
+    "titleEn": "Day 11",
+    "descZh": "亚马逊雨林· 全日雨林探索 + 夜行\n日出时分登 Observation Tower(观景塔), 俯瞰整片热带雨林. 东侧阳光缓缓爬上森林海洋, 是 Sacha 最震撼的瞬间之一. 随后在自然学家带领下步行进入深林, 认识雨林最神秘的世界: 树皮与树液的药用功能、最原始的藤类、昆虫与巨树系统、动物踪迹与足迹教学、无毒蛇类观察(自然学家判断安全后才会靠近)午后乘独木舟前往更深的支流, 有机会遇见更丰富的鸟类与中小型哺乳动物. 夜间可选择 独木舟夜行: 水道漆黑、星光极亮, 寻找睡在芦苇上的苍鹭、眼睛在光线里微闪的凯门鳄幼体. 这是亚马逊最迷人的时刻.\nSacha Lodge\nBLD",
+    "descEn": "亚马逊雨林· 全日雨林探索 + 夜行\n日出时分登 Observation Tower(观景塔), 俯瞰整片热带雨林. 东侧阳光缓缓爬上森林海洋, 是 Sacha 最震撼的瞬间之一. 随后在自然学家带领下步行进入深林, 认识雨林最神秘的世界: 树皮与树液的药用功能、最原始的藤类、昆虫与巨树系统、动物踪迹与足迹教学、无毒蛇类观察(自然学家判断安全后才会靠近)午后乘独木舟前往更深的支流, 有机会遇见更丰富的鸟类与中小型哺乳动物. 夜间可选择 独木舟夜行: 水道漆黑、星光极亮, 寻找睡在芦苇上的苍鹭、眼睛在光线里微闪的凯门鳄幼体. 这是亚马逊最迷人的时刻.\nSacha Lodge\nBLD",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D12",
+    "titleZh": "第12天",
+    "titleEn": "Day 12",
+    "descZh": "亚马逊雨林 - El Coca ✈ 圣地亚哥 ✈ 悉尼\n清晨可自由选择短行程: 森林漫步、湖上观鸟, 或简单地在木栈道看雨林的晨雾缓缓散开. 随后返回 Coca, 搭机返回澳洲, 为旅程画上完美的亚马逊篇章.\nB",
+    "descEn": "亚马逊雨林 - El Coca ✈ 圣地亚哥 ✈ 悉尼\n清晨可自由选择短行程: 森林漫步、湖上观鸟, 或简单地在木栈道看雨林的晨雾缓缓散开. 随后返回 Coca, 搭机返回澳洲, 为旅程画上完美的亚马逊篇章.\nB",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
-  "includes": [],
+  "includes": [
+   "费用包含",
+   "机票：澳洲出发全程机票含税含托运行李",
+   "交通：当地全程交通用车",
+   "导游：当地专业英文持证向导",
+   "领队：中文领队全程随行",
+   "住宿：全程共11晚，其中5星酒店4晚、船宿4晚、亚马逊雨林高端生态旅宿3晚",
+   "游玩：行程提及的景点及活动",
+   "餐食：11早餐+8午餐+11晚餐"
+  ],
   "includesEn": [],
-  "excludes": [],
+  "excludes": [
+   "护照、签证费用（如需要）",
+   "当地导游及司机小费（全程共AUD$180）",
+   "单房差（船宿舱位有限，单人须拼房，恕不接受单人房订单）",
+   "因天气、交通、政令等不可抗力导致行程受阻产生的额外费用（如遇行程受阻我们会及时安排替代方案，如产生额外费用敬请诉诸旅游保险）",
+   "个人旅游保险"
+  ],
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true,
+  "forder": 6
  },
  {
-  "id": "PV-EPB6",
-  "supplierCode": "EPB6",
-  "nameZh": "探秘不丹朝圣之旅 6日[纯玩]",
-  "nameEn": "探秘不丹朝圣之旅 6日[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "不丹尼泊尔",
+  "id": "SUP-CM-0203",
+  "supplierCode": "NGJP1026",
+  "nameZh": "2026 日本富士山东京大阪北海道10日 （超值）",
+  "nameEn": "2026 日本富士山东京大阪北海道10日 （超值）",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
+  "category": "超值特惠团",
+  "subRegion": "日本",
   "seasonTag": "",
   "subRegions": [
-   "不丹尼泊尔"
+   "日本"
   ],
-  "price": "A$4780",
-  "priceEn": "A$4780",
-  "days": 6,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "香港 / 香港",
-    "adult": 4780.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Exploring-the-Pilgrimage-of-Bhutan-6-Days_EPB6_2026-12-29.pdf",
-    "url": "/assets/suppliers/SUP-PV/Exploring-the-Pilgrimage-of-Bhutan-6-Days_EPB6_2026-12-29.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-FTCMN8",
-  "supplierCode": "FTCMN8",
-  "nameZh": "神秘摩洛哥 风情 8天[纯玩]",
-  "nameEn": "神秘摩洛哥 风情 8天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "非洲中东",
-  "seasonTag": "",
-  "subRegions": [
-   "非洲中东"
-  ],
-  "price": "A$1499",
-  "priceEn": "A$1499",
-  "days": 8,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "卡萨布兰卡 CMN / 卡萨布兰卡 CMN",
-    "adult": 1499.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Mysterious-Morocco--Charming-8-Days_FTCMN8_2026-12-28.pdf",
-    "url": "/assets/suppliers/SUP-PV/Mysterious-Morocco--Charming-8-Days_FTCMN8_2026-12-28.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-EBB10",
-  "supplierCode": "EBB10",
-  "nameZh": "探秘雷龙之国不丹， 曼谷 双国 10日游[纯玩]",
-  "nameEn": "探秘雷龙之国不丹， 曼谷 双国 10日游[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "不丹尼泊尔",
-  "seasonTag": "",
-  "subRegions": [
-   "不丹尼泊尔"
-  ],
-  "price": "A$3",
-  "priceEn": "A$3",
+  "price": "A$2098",
+  "priceEn": "A$2098",
   "days": 10,
   "startCity": "",
   "tags": [
-   "纯玩无购物"
+   "超值特价"
   ],
   "tagsEn": [
-   "No-shopping"
+   "Value"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": [
+   "assets/suppliers/SUP-CM/products/SUP-CM-0203/SUP-CM-0203_hero.jpg"
+  ],
   "introZh": "",
   "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
+  "participationNotice": "酒店资料（仅供参考，以最终确认书为淮）",
+  "departureDates": [
+   {
+    "date": "2026-03-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-03-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-03-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-03-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-03-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-04-05",
+    "status": "available"
+   },
+   {
+    "date": "2026-04-12",
+    "status": "available"
+   },
+   {
+    "date": "2026-04-19",
+    "status": "available"
+   },
+   {
+    "date": "2026-05-10",
+    "status": "available"
+   },
+   {
+    "date": "2026-05-17",
+    "status": "available"
+   },
+   {
+    "date": "2026-05-24",
+    "status": "available"
+   },
+   {
+    "date": "2026-05-31",
+    "status": "available"
+   },
+   {
+    "date": "2026-06-07",
+    "status": "available"
+   },
+   {
+    "date": "2026-06-14",
+    "status": "available"
+   },
+   {
+    "date": "2026-06-21",
+    "status": "available"
+   },
+   {
+    "date": "2026-06-28",
+    "status": "available"
+   },
+   {
+    "date": "2026-07-05",
+    "status": "available"
+   },
+   {
+    "date": "2026-08-23",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-06",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-13",
+    "status": "available"
+   },
+   {
+    "date": "2026-09-20",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-04",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-11",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-18",
+    "status": "available"
+   },
+   {
+    "date": "2026-10-25",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-01",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-08",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-15",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-22",
+    "status": "available"
+   },
+   {
+    "date": "2026-11-29",
+    "status": "available"
+   },
+   {
+    "date": "2026-12-24",
+    "status": "available"
+   }
+  ],
   "depRule": null,
   "validFrom": null,
   "validTo": null,
   "surchargeNote": "",
   "priceTable": [
    {
-    "city": "曼谷 / 曼谷",
-    "adult": 3.0,
-    "childbed": "",
-    "childnobed": "",
+    "city": "澳洲",
+    "adult": 2098.0,
+    "childbed": 2098.0,
+    "childnobed": 1498.0,
     "infant": "",
-    "single": "",
-    "transfer": "",
+    "single": 1200.0,
+    "transfer": 150.0,
     "tip": "",
-    "service": 0.0
+    "service": ""
    }
   ],
   "brochures": [
    {
-    "supplier": "SUP-PV",
-    "file": "Explore-Bhutan--the-Land-of-Thunder-Dragons--and-Bangkok-10-Day-Tour_EBB10_2026-12-31.pdf",
-    "url": "/assets/suppliers/SUP-PV/Explore-Bhutan--the-Land-of-Thunder-Dragons--and-Bangkok-10-Day-Tour_EBB10_2026-12-31.pdf"
+    "supplier": "SUP-CM",
+    "file": "FLYER-NGJP1026-AUD.pdf",
+    "url": "/assets/suppliers/SUP-CM/FLYER-NGJP1026-AUD.pdf"
    }
   ],
-  "itinerary": [],
+  "itinerary": [
+   {
+    "d": "D1",
+    "titleZh": "第1天",
+    "titleEn": "Day 1",
+    "descZh": "抵達東京（成田機場/羽田机场）Arrive in Tokyo\n各位貴賓抵達東京成田機場（NRT），搭乘免費酒店巴士前往酒店休息。（具體巴士時刻表和上車地點見出團書。日本酒店下午15:00後憑護照證件辦理入住手續。）\n東京成田機場（NRT）：10:00 - 21:00時段專人機場舉牌接機，協助貴賓搭乘shuttle bus前往酒店。（其他時間抵達的貴賓請自行搭乘shuttle bus前往酒店）\n東京羽田機場（HND）統一安排14:00和19:00安排接機從機場出發前往酒店。\n住宿：成田國際花園酒店/國際度假酒店悠樂居或同級酒店",
+    "descEn": "抵達東京（成田機場/羽田机场）Arrive in Tokyo\n各位貴賓抵達東京成田機場（NRT），搭乘免費酒店巴士前往酒店休息。（具體巴士時刻表和上車地點見出團書。日本酒店下午15:00後憑護照證件辦理入住手續。）\n東京成田機場（NRT）：10:00 - 21:00時段專人機場舉牌接機，協助貴賓搭乘shuttle bus前往酒店。（其他時間抵達的貴賓請自行搭乘shuttle bus前往酒店）\n東京羽田機場（HND）統一安排14:00和19:00安排接機從機場出發前往酒店。\n住宿：成田國際花園酒店/國際度假酒店悠樂居或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D2",
+    "titleZh": "第2天",
+    "titleEn": "Day 2",
+    "descZh": "東京/富士山地區Tokyo / Fujiyama region （B酒店/L日式鰻魚飯/D溫泉料理）\n早餐後，前往外觀日本天皇的官邸【皇居外苑二重橋】，這裏是公認的日本標誌，遊客們可在外苑前拍照留念。前往遊覽【淺草觀音寺】，它是日本觀音寺總堂，是東京歷史悠久、人氣旺盛的寺院，【仲見世商店街】是東京最熱鬧的購物街之一。接著前往【臺場海濱公園 & 維納斯自由女神像】，這裏是東京灣畔的“小紐約”。特別安排【水上巴士】沿著隅田川航行，遠眺【SKY TREE東京晴空塔】、【東京灣跨海大橋】的壯麗美景。晚上入住溫泉酒店，品嘗溫泉酒店料理，並享受日本泡溫泉的樂趣。\n住宿：富士山花園酒店/富士河口湖溫泉酒店或同級酒店",
+    "descEn": "東京/富士山地區Tokyo / Fujiyama region （B酒店/L日式鰻魚飯/D溫泉料理）\n早餐後，前往外觀日本天皇的官邸【皇居外苑二重橋】，這裏是公認的日本標誌，遊客們可在外苑前拍照留念。前往遊覽【淺草觀音寺】，它是日本觀音寺總堂，是東京歷史悠久、人氣旺盛的寺院，【仲見世商店街】是東京最熱鬧的購物街之一。接著前往【臺場海濱公園 & 維納斯自由女神像】，這裏是東京灣畔的“小紐約”。特別安排【水上巴士】沿著隅田川航行，遠眺【SKY TREE東京晴空塔】、【東京灣跨海大橋】的壯麗美景。晚上入住溫泉酒店，品嘗溫泉酒店料理，並享受日本泡溫泉的樂趣。\n住宿：富士山花園酒店/富士河口湖溫泉酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D3",
+    "titleZh": "第3天",
+    "titleEn": "Day 3",
+    "descZh": "富士山地區/名古屋地區Fujiyama Region /Nagoya region （B酒店/L日式豚肉小火鍋/D自理）\n早餐後，前往【山中湖】，它背靠著富士山。湖光山色相互映襯，不同的季節有著不同的景致和情趣。以「富士山」為背景，山色絕美。遊覽日本婚紗照拍攝聖地【白鳥之濱】，湖邊設有愛心造型的打卡裝置。遊覽網紅打卡點【天梯小鎮】，街道盡頭富士山仿佛懸在空中。\n繼而遊覽【忍野八海】，這裏錯落有致地散佈著八個清泉，水質清冽甘甜，被譽為“日本九寨溝”。\n住宿：名古屋東橫酒店/豐橋洛希爾酒店或同級酒店",
+    "descEn": "富士山地區/名古屋地區Fujiyama Region /Nagoya region （B酒店/L日式豚肉小火鍋/D自理）\n早餐後，前往【山中湖】，它背靠著富士山。湖光山色相互映襯，不同的季節有著不同的景致和情趣。以「富士山」為背景，山色絕美。遊覽日本婚紗照拍攝聖地【白鳥之濱】，湖邊設有愛心造型的打卡裝置。遊覽網紅打卡點【天梯小鎮】，街道盡頭富士山仿佛懸在空中。\n繼而遊覽【忍野八海】，這裏錯落有致地散佈著八個清泉，水質清冽甘甜，被譽為“日本九寨溝”。\n住宿：名古屋東橫酒店/豐橋洛希爾酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D4",
+    "titleZh": "第4天",
+    "titleEn": "Day 4",
+    "descZh": "名古屋地區/京都Nagoya region /Kyoto （B酒店/L祇園心蘭套餐/D日式烤肉）\n早餐後，前往京都遊覽【祗園】，它是京都傳統的繁華街區，指的是從八阪神社、鴨川到東大路通之間的區域。這裏的街道和建築大多維持著舊時的樣貌，是感受京都古韻的好地方，漫步【花間小路】。參觀世界文化遺產【金閣寺】。前往遊覽【嵐山竹林&渡月橋】，這裏曾是日本貴族隱居地，漫步《臥虎藏龍》同款竹海。渡月橋是嵐山地標，盡情感受京都慢時光。\n住宿：大阪花園北布洛曼酒店/京都京阪酒店或同級酒店",
+    "descEn": "名古屋地區/京都Nagoya region /Kyoto （B酒店/L祇園心蘭套餐/D日式烤肉）\n早餐後，前往京都遊覽【祗園】，它是京都傳統的繁華街區，指的是從八阪神社、鴨川到東大路通之間的區域。這裏的街道和建築大多維持著舊時的樣貌，是感受京都古韻的好地方，漫步【花間小路】。參觀世界文化遺產【金閣寺】。前往遊覽【嵐山竹林&渡月橋】，這裏曾是日本貴族隱居地，漫步《臥虎藏龍》同款竹海。渡月橋是嵐山地標，盡情感受京都慢時光。\n住宿：大阪花園北布洛曼酒店/京都京阪酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D5",
+    "titleZh": "第5天",
+    "titleEn": "Day 5",
+    "descZh": "奈良/大阪Nara/Osaka （B酒店/L日式炸雞/D自理）\n早餐後，前往奈良遊覽【奈良神鹿公園】，隨處可見悠然自得、閑庭散步的小鹿，這是奈良的代表景觀。外觀【東大寺】，它是世界最大木造建築，殿內15米高的大佛震撼無比。前往大阪，遊覽【大阪城公園】，和名古屋城、熊本城並列日本歷史上的三大名城。前往【心齋橋】【道頓堀】，這裏是百貨商店與各式專門店雲集的大阪最熱鬧的商業街。以日本美食聞名，章魚小丸子、金龍拉麵、壽司等等，被稱為日本的廚房。各位貴賓可參觀免稅店、百貨公司購物和自選品嘗各種日本美食。\n住宿：關西機場美景花園飯店/泉佐野中心酒店或同級酒店",
+    "descEn": "奈良/大阪Nara/Osaka （B酒店/L日式炸雞/D自理）\n早餐後，前往奈良遊覽【奈良神鹿公園】，隨處可見悠然自得、閑庭散步的小鹿，這是奈良的代表景觀。外觀【東大寺】，它是世界最大木造建築，殿內15米高的大佛震撼無比。前往大阪，遊覽【大阪城公園】，和名古屋城、熊本城並列日本歷史上的三大名城。前往【心齋橋】【道頓堀】，這裏是百貨商店與各式專門店雲集的大阪最熱鬧的商業街。以日本美食聞名，章魚小丸子、金龍拉麵、壽司等等，被稱為日本的廚房。各位貴賓可參觀免稅店、百貨公司購物和自選品嘗各種日本美食。\n住宿：關西機場美景花園飯店/泉佐野中心酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D6",
+    "titleZh": "第6天",
+    "titleEn": "Day 6",
+    "descZh": "大阪/札幌 Osaka-Chitose Sapporo（機場代碼：KIX/CTS）（B酒店）\n（自費套餐已含大阪-札幌經濟艙機票含行李20KG）\n早餐後，各位貴賓搭乘酒店免費機場穿梭巴士，前往關西機場乘坐國內航班前往札幌。歡迎抵達札幌千歲！旅遊專員將在機場接機，送回酒店休息！\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
+    "descEn": "大阪/札幌 Osaka-Chitose Sapporo（機場代碼：KIX/CTS）（B酒店）\n（自費套餐已含大阪-札幌經濟艙機票含行李20KG）\n早餐後，各位貴賓搭乘酒店免費機場穿梭巴士，前往關西機場乘坐國內航班前往札幌。歡迎抵達札幌千歲！旅遊專員將在機場接機，送回酒店休息！\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D7",
+    "titleZh": "第7天",
+    "titleEn": "Day 7",
+    "descZh": "千歲/小樽/札幌 Chitose/Otaru/Sapporo（B酒店/ L日式定食/D自理）\n早餐後，我們前往小樽，遊覽著名的【小樽運河】，浪漫懷舊的倉庫群倒影。參觀【北一硝子館】，精美玻璃工藝閃耀迷人。前往【歐風蒸汽鐘】，定時噴氣復古趣味。參觀【小樽音樂盒博物館】，夢幻音律迴盪耳際。前往參觀【白色戀人巧克力工廠(入內)】，甜蜜香氣漫遊童話。\n酒店：札幌萊福特酒店或同級酒店",
+    "descEn": "千歲/小樽/札幌 Chitose/Otaru/Sapporo（B酒店/ L日式定食/D自理）\n早餐後，我們前往小樽，遊覽著名的【小樽運河】，浪漫懷舊的倉庫群倒影。參觀【北一硝子館】，精美玻璃工藝閃耀迷人。前往【歐風蒸汽鐘】，定時噴氣復古趣味。參觀【小樽音樂盒博物館】，夢幻音律迴盪耳際。前往參觀【白色戀人巧克力工廠(入內)】，甜蜜香氣漫遊童話。\n酒店：札幌萊福特酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D8",
+    "titleZh": "第8天",
+    "titleEn": "Day 8",
+    "descZh": "札幌/登別/洞爺湖 Sapporo/Noboribetsu/Toyako（B酒店/L北海道海鮮鍋/D溫泉料理）\n早餐後，我們前往參觀遊覽【登別地獄穀】，硫磺煙霧繚繞奇觀。參觀【昭和新山熊牧場】，近距離邂逅北海道熊。遊覽【洞爺湖】，火山湖光山色如詩。\n酒店：洞爺湖萬世閣溫泉酒店或同級酒店",
+    "descEn": "札幌/登別/洞爺湖 Sapporo/Noboribetsu/Toyako（B酒店/L北海道海鮮鍋/D溫泉料理）\n早餐後，我們前往參觀遊覽【登別地獄穀】，硫磺煙霧繚繞奇觀。參觀【昭和新山熊牧場】，近距離邂逅北海道熊。遊覽【洞爺湖】，火山湖光山色如詩。\n酒店：洞爺湖萬世閣溫泉酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D9",
+    "titleZh": "第9天",
+    "titleEn": "Day 9",
+    "descZh": "洞爺湖/千歲 Toyako/Chitose（B酒店/L自理/D暢吃三大螃蟹）\n早餐後，我們前往參觀【札幌拉麵街】，濃郁湯頭香氣四溢。遊覽【薄野歡樂街】，霓虹閃耀不夜之城。在【狸小路商業街】逛街購物 ，琳琅滿目藥妝美食。【車遊時計臺&舊道廳】，紅磚古蹟見證歷史。\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
+    "descEn": "洞爺湖/千歲 Toyako/Chitose（B酒店/L自理/D暢吃三大螃蟹）\n早餐後，我們前往參觀【札幌拉麵街】，濃郁湯頭香氣四溢。遊覽【薄野歡樂街】，霓虹閃耀不夜之城。在【狸小路商業街】逛街購物 ，琳琅滿目藥妝美食。【車遊時計臺&舊道廳】，紅磚古蹟見證歷史。\n酒店：千歲最佳西方Plus Fino酒店或同級酒店",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   },
+   {
+    "d": "D10",
+    "titleZh": "第10天",
+    "titleEn": "Day 10",
+    "descZh": "札幌送機 Depart Chitose Sapporo（機場代碼：CTS）\n早餐後，指定時間前往札幌千歲機場辦理離境手續，結束愉快的行程。免費送機服務一次：上午8:00從酒店出發送機",
+    "descEn": "札幌送機 Depart Chitose Sapporo（機場代碼：CTS）\n早餐後，指定時間前往札幌千歲機場辦理離境手續，結束愉快的行程。免費送機服務一次：上午8:00從酒店出發送機",
+    "spotsZh": [],
+    "spotsEn": [],
+    "transportZh": "",
+    "transportEn": "",
+    "mealZh": "",
+    "mealEn": "",
+    "hotelZh": "",
+    "hotelEn": ""
+   }
+  ],
   "hotels": [],
-  "includes": [],
+  "includes": [
+   "抵达城市和接机资讯",
+   "東京成田機場（NRT)：搭乘酒店穿梭巴士服務前往酒店",
+   "東京羽田機場(HND)：14:00和19:00安排接機從機場出發前往酒店",
+   "离开城市和送机资讯",
+   "札幌机场（CTS），早上8:00酒店出发送往机场。",
+   "自费专案（需保证参加，儿童与成人同价）",
+   "淺草雷門觀音寺+水上巴士船遊東京+溫泉料理+金閣寺+登別地獄穀+昭和新山熊牧場+洞爺湖+白色戀人巧克力工廠(入內)+大阪札幌經濟艙機票（含20KG行李額）：USD700（CAD1000/AUD1100)",
+   "当地推荐景点（隆重推荐，自费参加）",
+   "酒店资料（仅供参考，以最终确认书为淮）"
+  ],
   "includesEn": [],
   "excludes": [],
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true,
+  "forder": 7
  },
  {
-  "id": "PV-TK11",
-  "supplierCode": "TK11",
-  "nameZh": "全景土耳其11日 品质超值[纯玩]",
-  "nameEn": "全景土耳其11日 品质超值[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
+  "id": "PV-EU06",
+  "supplierCode": "EU06",
+  "nameZh": "欧洲任你行—北欧冰川峡湾9天（丹麦、瑞典、挪威冰川峡湾）[纯玩]",
+  "nameEn": "欧洲任你行—北欧冰川峡湾9天（丹麦、瑞典、挪威冰川峡湾）[纯玩]",
+  "dest": "europe",
+  "destZh": "欧洲",
+  "destEn": "europe",
   "category": "纯玩无购物团",
-  "subRegion": "土耳其希腊",
+  "subRegion": "任你行",
   "seasonTag": "",
   "subRegions": [
-   "土耳其希腊"
+   "任你行"
   ],
-  "price": "A$1888",
-  "priceEn": "A$1888",
-  "days": 11,
+  "price": "A$2070",
+  "priceEn": "A$2070",
+  "days": 9,
   "startCity": "",
   "tags": [
    "纯玩无购物"
@@ -46233,7 +47173,7 @@ window.TOURS = [
   "tagsEn": [
    "No-shopping"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/europe.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -46244,22 +47184,22 @@ window.TOURS = [
   "surchargeNote": "",
   "priceTable": [
    {
-    "city": "Istanbul 伊斯坦布尔 / Istanbul 伊斯坦布尔",
-    "adult": 1888.0,
+    "city": "Copenhagen / Copenhagen",
+    "adult": 2070.0,
     "childbed": "",
     "childnobed": "",
     "infant": "",
     "single": "",
     "transfer": "",
     "tip": "",
-    "service": 0.0
+    "service": ""
    }
   ],
   "brochures": [
    {
     "supplier": "SUP-PV",
-    "file": "Panoramic-Turkey-11-Days_TK11_2026-12-26.pdf",
-    "url": "/assets/suppliers/SUP-PV/Panoramic-Turkey-11-Days_TK11_2026-12-26.pdf"
+    "file": "EU06_brochure.pdf",
+    "url": "/assets/suppliers/SUP-PV/EU06_brochure.pdf"
    }
   ],
   "itinerary": [],
@@ -46270,33 +47210,34 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true,
+  "forder": 8
  },
  {
-  "id": "PV-AAG12",
-  "supplierCode": "AAG12",
-  "nameZh": "高加索 三国 12天[纯玩]",
-  "nameEn": "高加索 三国 12天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "非洲中东",
+  "id": "Nova-EJPK10D",
+  "supplierCode": "EJPK10D",
+  "nameZh": "10 Days Japan Kanto Kansai & Korea Tour",
+  "nameEn": "10 Days Japan Kanto Kansai & Korea Tour",
+  "dest": "asia",
+  "destZh": "亚洲",
+  "destEn": "asia",
+  "category": "英文专线",
+  "subRegion": "亚洲其他",
   "seasonTag": "",
   "subRegions": [
-   "非洲中东"
+   "亚洲其他"
   ],
-  "price": "A$3988",
-  "priceEn": "A$3988",
-  "days": 12,
+  "price": "待确认",
+  "priceEn": "待确认",
+  "days": 10,
   "startCity": "",
   "tags": [
-   "纯玩无购物"
+   "英文专线"
   ],
   "tagsEn": [
-   "No-shopping"
+   "English Tour"
   ],
-  "img": "assets/img/destinations/other.jpg",
+  "img": "assets/img/destinations/asia.jpg",
   "introZh": "",
   "introEn": "",
   "participationNotice": "",
@@ -46305,26 +47246,8 @@ window.TOURS = [
   "validFrom": null,
   "validTo": null,
   "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "阿塞拜疆 / 第比利斯",
-    "adult": 3988.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Caucasus-Three-Countries-12-Days_AAG12_2027-03-17.pdf",
-    "url": "/assets/suppliers/SUP-PV/Caucasus-Three-Countries-12-Days_AAG12_2027-03-17.pdf"
-   }
-  ],
+  "priceTable": [],
+  "brochures": [],
   "itinerary": [],
   "hotels": [],
   "includes": [],
@@ -46333,574 +47256,8 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-KGM12",
-  "supplierCode": "KGM12",
-  "nameZh": "肯尼雅动物大迁徙12日[纯玩]",
-  "nameEn": "肯尼雅动物大迁徙12日[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "非洲中东",
-  "seasonTag": "",
-  "subRegions": [
-   "非洲中东"
-  ],
-  "price": "A$9680",
-  "priceEn": "A$9680",
-  "days": 12,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "Sydney / Nairobi",
-    "adult": 9680.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Kenya-s-Great-Migration--Day-12_KGM12_2026-09-25.pdf",
-    "url": "/assets/suppliers/SUP-PV/Kenya-s-Great-Migration--Day-12_KGM12_2026-09-25.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-NB12",
-  "supplierCode": "NB12",
-  "nameZh": "喜马拉雅|古国尼泊尔 和幸福不丹 12天[纯玩]",
-  "nameEn": "喜马拉雅|古国尼泊尔 和幸福不丹 12天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "不丹尼泊尔",
-  "seasonTag": "",
-  "subRegions": [
-   "不丹尼泊尔"
-  ],
-  "price": "A$6988",
-  "priceEn": "A$6988",
-  "days": 12,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "尼泊尔 Nepal / 尼泊尔 Nepal",
-    "adult": 6988.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Himalayas-_-Ancient-Nepal-and-Blissful-Bhutan-12-Days_NB12_2026-08-11.pdf",
-    "url": "/assets/suppliers/SUP-PV/Himalayas-_-Ancient-Nepal-and-Blissful-Bhutan-12-Days_NB12_2026-08-11.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-NFCE12",
-  "supplierCode": "NFCE12",
-  "nameZh": "南森号 南极冰封大陆探险 12天[纯玩]",
-  "nameEn": "南森号 南极冰封大陆探险 12天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "南极",
-  "seasonTag": "",
-  "subRegions": [
-   "南极"
-  ],
-  "price": "A$18990",
-  "priceEn": "A$18990",
-  "days": 12,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "布宜諾斯艾利斯 Buenos Aires / 布宜諾斯艾利斯 Buenos Aires",
-    "adult": 18990.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "NFCE12_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/NFCE12_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-TKG15",
-  "supplierCode": "TKG15",
-  "nameZh": "土耳其 希腊 15天[纯玩]",
-  "nameEn": "土耳其 希腊 15天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "土耳其希腊",
-  "seasonTag": "",
-  "subRegions": [
-   "土耳其希腊"
-  ],
-  "price": "A$3899",
-  "priceEn": "A$3899",
-  "days": 15,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "伊斯坦布尔 / 雅典",
-    "adult": 3899.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Turkiye-and-Greece-15-days_TKG15_2026-12-19.pdf",
-    "url": "/assets/suppliers/SUP-PV/Turkiye-and-Greece-15-days_TKG15_2026-12-19.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-SAFC16",
-  "supplierCode": "SAFC16",
-  "nameZh": "非洲四国： 肯尼亚、南非、津巴布韦， 赞比亚 16天之旅[纯玩]",
-  "nameEn": "非洲四国： 肯尼亚、南非、津巴布韦， 赞比亚 16天之旅[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "非洲中东",
-  "seasonTag": "",
-  "subRegions": [
-   "非洲中东"
-  ],
-  "price": "A$12680",
-  "priceEn": "A$12680",
-  "days": 16,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "开普敦 CPT / 内罗毕 NBO",
-    "adult": 12680.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Africa-4-Countries-Kenya-South-Africa-Zimbabwe-Zambia-Exploration-Tour-16-Days_SAFC16_2026-09-20.pdf",
-    "url": "/assets/suppliers/SUP-PV/Africa-4-Countries-Kenya-South-Africa-Zimbabwe-Zambia-Exploration-Tour-16-Days_SAFC16_2026-09-20.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-AAM17",
-  "supplierCode": "AAM17",
-  "nameZh": "瑰丽非洲 动物大迁徙 17天[纯玩]",
-  "nameEn": "瑰丽非洲 动物大迁徙 17天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "非洲中东",
-  "seasonTag": "",
-  "subRegions": [
-   "非洲中东"
-  ],
-  "price": "A$26800",
-  "priceEn": "A$26800",
-  "days": 17,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "SYD / SYD",
-    "adult": 26800.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Magnificent-Africa-Animal-Migration-17-Days_AAM17_2026-09-30.pdf",
-    "url": "/assets/suppliers/SUP-PV/Magnificent-Africa-Animal-Migration-17-Days_AAM17_2026-09-30.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-WEFSA17",
-  "supplierCode": "WEFSA17",
-  "nameZh": "西南非五国野性探秘之旅 17日[纯玩]",
-  "nameEn": "西南非五国野性探秘之旅 17日[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "非洲中东",
-  "seasonTag": "",
-  "subRegions": [
-   "非洲中东"
-  ],
-  "price": "A$26800",
-  "priceEn": "A$26800",
-  "days": 17,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "开普敦 CPT / 约堡 JNB",
-    "adult": 26800.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "Wilderness-Exploration-Tour-of-Five-Southwestern-African-Countries-17-Days_WEFSA17_2027-09-16.pdf",
-    "url": "/assets/suppliers/SUP-PV/Wilderness-Exploration-Tour-of-Five-Southwestern-African-Countries-17-Days_WEFSA17_2027-09-16.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-FCSA20",
-  "supplierCode": "FCSA20",
-  "nameZh": "奇幻中南美 20天[纯玩]",
-  "nameEn": "奇幻中南美 20天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "南美",
-  "seasonTag": "",
-  "subRegions": [
-   "南美"
-  ],
-  "price": "A$14388",
-  "priceEn": "A$14388",
-  "days": 20,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "圣保罗 São Paulo / 哈瓦那 Havana",
-    "adult": 14388.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "FCSA20_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/FCSA20_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
- },
- {
-  "id": "PV-SA22",
-  "supplierCode": "SA22",
-  "nameZh": "南美五国 22天[纯玩]",
-  "nameEn": "南美五国 22天[纯玩]",
-  "dest": "other",
-  "destZh": "其他",
-  "destEn": "other",
-  "category": "纯玩无购物团",
-  "subRegion": "南美",
-  "seasonTag": "",
-  "subRegions": [
-   "南美"
-  ],
-  "price": "A$15599",
-  "priceEn": "A$15599",
-  "days": 22,
-  "startCity": "",
-  "tags": [
-   "纯玩无购物"
-  ],
-  "tagsEn": [
-   "No-shopping"
-  ],
-  "img": "assets/img/destinations/other.jpg",
-  "introZh": "",
-  "introEn": "",
-  "participationNotice": "",
-  "departureDates": [],
-  "depRule": null,
-  "validFrom": null,
-  "validTo": null,
-  "surchargeNote": "",
-  "priceTable": [
-   {
-    "city": "阿根廷 / 巴西",
-    "adult": 15599.0,
-    "childbed": "",
-    "childnobed": "",
-    "infant": "",
-    "single": "",
-    "transfer": "",
-    "tip": "",
-    "service": 0.0
-   }
-  ],
-  "brochures": [
-   {
-    "supplier": "SUP-PV",
-    "file": "SA22_brochure.pdf",
-    "url": "/assets/suppliers/SUP-PV/SA22_brochure.pdf"
-   }
-  ],
-  "itinerary": [],
-  "hotels": [],
-  "includes": [],
-  "includesEn": [],
-  "excludes": [],
-  "excludesEn": [],
-  "notes": [],
-  "notesEn": [],
-  "featured": false
+  "featured": true,
+  "forder": 9
  }
 ];
 window.REVIEWS = [
