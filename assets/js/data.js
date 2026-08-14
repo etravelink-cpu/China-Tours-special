@@ -1121,155 +1121,155 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-04",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-11",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-18",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-25",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-01",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-15",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-29",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-06",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-13",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-27",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-03",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-17",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-01",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-15",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-19",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-08-26",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-02",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-09",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-16",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-30",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-14",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-21",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-28",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-04",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-11",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-25",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-02",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-09",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-16",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -1338,111 +1338,111 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-16",
@@ -1688,139 +1688,139 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2025-10-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-10-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-11-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-11-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-12-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-12-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-20",
@@ -2176,127 +2176,127 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-05",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-26",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-14",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-05",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-26",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-09",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-23",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-13",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-20",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-25",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-01",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-08",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-22",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-29",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-13",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-20",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -2370,115 +2370,115 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-05",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-03",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-14",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-09",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-16",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-20",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-27",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-11",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-25",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-01",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-08",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-15",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-22",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-29",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-13",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-20",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -2547,191 +2547,191 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-02",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-09",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-16",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-23",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-30",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-02-06",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-02-27",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-06",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-13",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-20",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-27",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-03",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-17",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-15",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-29",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-05",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-19",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-26",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-03",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-17",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-31",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-07",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-21",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-08-28",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-04",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-11",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-25",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-09",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-16",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-23",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-30",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-13",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-20",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-27",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-04",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-11",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-25",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -2800,127 +2800,127 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-05-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-14",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-28",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-05",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-19",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-26",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-09",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-16",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-08-23",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-08-30",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-13",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-20",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-27",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-04",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-11",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-25",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-01",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-08",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-15",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-22",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-29",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-24",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -2989,163 +2989,163 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-07",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-14",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-21",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-28",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-02-04",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-04",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-11",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-18",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-25",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-15",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-06",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-13",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-20",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-27",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-03",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-01",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-15",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-29",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-05",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-19",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-08-26",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-02",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-09",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-16",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-14",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-28",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-04",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-11",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-25",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-02",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-09",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-16",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -3214,107 +3214,107 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-16",
@@ -3459,115 +3459,115 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-21",
@@ -3758,155 +3758,155 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-04",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-11",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-18",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-01-25",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-02-01",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-08",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-03",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-28",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-05",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-19",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-07-26",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-02",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-09",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-08-16",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-08-23",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-08-30",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-09-13",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-11",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-18",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-01",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-08",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-15",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-22",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-11-29",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-06",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-12-13",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -4021,67 +4021,67 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-23",
@@ -4345,111 +4345,111 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-20",
@@ -4582,7 +4582,7 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-12-24",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -7525,38 +7525,6 @@ window.TOURS = [
   "participationNotice": "1. 天天出发，但需要二次确认。 2. 如遇自然灾害、交通管制等客观因素，导致行程取消，我社将退还全部团款；若在行程中造成行程全部或部分无法完成，我社会根据实际情况协调处理 3. 儿童为3-11岁，不满3岁视为婴儿，请在预订时提供准确年龄 4. 接送时间从17:30开始，具体时间因酒店而异，请以电子票（电子票免打印）确认时间为准 5. 酒店接送： - Voco Surfers Paradise - Crowne Plaza Surfers Paradise, an IHG Hotel 不在接送列表内的客人需要到指定的地点上车 6. 推荐行程及时间仅供参考，具体行程时间请以供应商最终的确认为准（产品展示图片仅供参考）",
   "departureDates": [
    {
-    "date": "2026-08-07",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-08",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-09",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-10",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-12",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
-   {
     "date": "2026-08-15",
     "status": "available"
    },
@@ -9444,14 +9412,6 @@ window.TOURS = [
   "participationNotice": "1. 成团人数：四人成团，\r\n2. 大小同价，婴儿0-2岁\r\n3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。\r\n4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。\r\n5.如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知\r\n\r\n\r\n退改政策：\r\n1.出发前3天及以上可免费退改 \r\n2.出发前3天内(含第3天)收取100%团费; \r\n3.如因旅客自身原因（如个人行程变动、身体不适等）取消或未能如期出发，按照退改政策执行。",
   "departureDates": [
    {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
-   {
     "date": "2026-08-15",
     "status": "available"
    },
@@ -10073,54 +10033,6 @@ window.TOURS = [
   "introEn": "周六特价: $149每人\r\n\r\n平日：$159每人\r\n\r\n天天出发\n\n行程攻略：\n高风险项目警示 为了您的安全，在参加具有一定危险性的室内或户外活动时（如游泳、漂流、潜水、滑雪、溜冰、戏雪、跳伞等），请务必充分了解当日天气情况、个人身体状况及相关专业机构的公告与建议后量力而行。参加此类活动前，请仔细阅读《高风险项目警示》。 参加活动时，请严格遵守景区或项目工作人员的指示，充分了解项目风险，并按照要求做好安全防护，切勿在活动过程中做出危险行为。 在等待、排队、就座等过程中请遵循安排，有序进行，预留足够安全空间，避免因拥挤或推搡造成挤压、拉伤、跌伤、落水、坠落等意外事故。部分高风险项目对身体状况有较高要求，请勿隐瞒病史，避免盲目参与。 参加活动时请勿单独行动，如因个人临时情况需更改行程，务必提前征得工作人员同意。",
   "participationNotice": "退改政策\r\n1. 出发前3天以上：免费退改。\r\n2. 出发前3天内（含第3天）：收取100%团费。\r\n3. 因旅客身体不适或其他个人原因更改或取消参团，均按照以上退改政策执行。",
   "departureDates": [
-   {
-    "date": "2026-08-03",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-04",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-05",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-06",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-07",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-08",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-09",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-10",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-12",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
    {
     "date": "2026-08-15",
     "status": "available"
@@ -11135,22 +11047,6 @@ window.TOURS = [
   "introEn": "上车地点 08:00-08:30AM：Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 悉尼市区酒店邮编2000",
   "participationNotice": "1. 成团人数：四人成团，\r\n2. 大小同价，婴儿0-2岁\r\n3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。\r\n4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。\r\n5.如果市区酒店不便停车我们会提供最近可上车点，具体出发时间会发短信通知\r\n\r\n1. 出发前3天以上免费退改；\r\n2. 3天内（含第3天) 收取100%团费；\r\n3. 旅客因身体不适或其他个人原因更改或取消参团，按照退改政策执行。",
   "departureDates": [
-   {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-12",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
    {
     "date": "2026-08-15",
     "status": "available"
@@ -12169,14 +12065,6 @@ window.TOURS = [
   "participationNotice": "1. 成团人数：本团需6人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 2. 大小同价 3. 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 可上车地点： 07:00AM：Furama Darling Harbour (68 Harbour Street, Haymarket, Sydney NSW 2000) 07:30AM：华英小厨门口 (Hurstville 186 Forest Rd)",
   "departureDates": [
    {
-    "date": "2026-08-08",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-09",
-    "status": "available"
-   },
-   {
     "date": "2026-08-15",
     "status": "available"
    },
@@ -12528,10 +12416,6 @@ window.TOURS = [
   "introEn": "上车地点 \r\n08:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 \r\n09:00 AM: 车士活[Chatswood RSL Club]",
   "participationNotice": "成团人数：\r\n本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。 \r\n因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 \r\n大小同价,婴儿0-3岁，包含3岁 \r\n建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。\r\n因此需要另行安排车辆，所产生的费用由旅客承担。\r\n \r\n上车地点： \r\n08:30AM: 悉尼市区 Furama酒店 68 Harbour Street, Haymarket \r\n09:00AM: 车士活[Chatswood RSL Club]",
   "departureDates": [
-   {
-    "date": "2026-08-12",
-    "status": "available"
-   },
    {
     "date": "2026-08-16",
     "status": "available"
@@ -12978,22 +12862,6 @@ window.TOURS = [
   "introEn": "每周二、四，周日固定出发 史蒂芬港乘坐游船观看野生海豚Dolphin Cruise （已包含）+ 安娜湾刺激的沙漠滑沙 （自费） 如果出发前三天没有提供午餐选项的话，默认按照炸鱼薯条预定 包含西式午餐，下单时请选择： 炸鱼薯条 芝士汉堡 意面 上车地点 7:30AM: Furama Darling Harbour 68 Harbour Street, Haymarket, Sydney NSW 2000 8:00AM: Chatswood RSL CLUB\n\n行程攻略：\n上车点 出发时间07:30AM 假日酒店 68 Harbour Street, Haymarket, Sydney NSW 2000， （集合点位于市区CBD） 温馨提示 ： 请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负 请再下单时根据自己所在区域选择上车地点，并前往选择的上车点候车，没有按照选择点上车供应商有权拒载 行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程 请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套 准备在船上的绳网内戏水的客人请带好泳衣和浴巾",
   "participationNotice": "1. 成团人数：本团需4人以上方能成行 （每周二，四、日固定出发），出发前3天若未能成行我社将联系您退款或改期。 2. 因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社保留最终解释权。 3. 小孩年龄4-14岁 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。 5.上车地点 7:30am 68 Harbour Street, Haymarket, Sydney NSW 2000 8am: Chatswood RSL CLUB",
   "departureDates": [
-   {
-    "date": "2026-08-06",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-09",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
    {
     "date": "2026-08-16",
     "status": "available"
@@ -13475,26 +13343,6 @@ window.TOURS = [
   "introEn": "行程特色：\r\n网红鼻祖冰山泳池，美食打卡鱼市场，百年学府悉尼大学，徒步海港大桥品味岩石区\r\n解锁最经典和最热门网红景点，行程丰富，时间轻松充足，自由省心！\r\n\r\n上车地址：10:00AM，Furama酒店 (原 假日酒店） 68 Harbour Street, Haymarket, Sydney NSW 2000（集合点位于市区CBD）\r\n\r\n温馨提示：\r\n自行前往电子票显示的上车地点等候上车，请提前20分钟到达集合点。\r\n请提前10分钟抵达出发地点，逾时若无法准时到达导致未能参加行程的后果自负\r\n行程时间仅供参考，具体游玩安排可能会受当日天气、交通影响，请以当天实际行程为准，合理安排行程\r\n请着步舒适行鞋, 带上太阳镜, 防晒霜和帽子, 天气较冷的月份最好带上一件外套\r\n没有选着含餐套餐的游客, 请提前做好准备。",
   "participationNotice": "1. 成团人数：本团需4人以上方能成行，出发前3天若未能成行我社将联系您退款或改期。\r\n2. 如遇自然灾害、交通管制等客观因素，导致行程取消，我社将退还全部团款；若在行程中造成行程全部或部分无法完成，我社会根据实际情况协调处理；\r\n3. 本团大小同价（4岁以下儿童不提供船位及餐饮）",
   "departureDates": [
-   {
-    "date": "2026-08-10",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-12",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
    {
     "date": "2026-08-15",
     "status": "available"
@@ -14512,22 +14360,6 @@ window.TOURS = [
   "participationNotice": "1. 成团人数：四人成团， 2. 儿童年龄3-16岁，婴儿0-2岁 3.因交通工具损坏、罢工、意外事故、天气等原因或其他不可抗因素造成的行程改变、延迟或取消，我社会协助调整或安排其他代替，损失及额外费用需乘客自行承担。 4. 建议游客自行购买旅游保险；如因旅客迟到而错过行程，费用概不返还。因此需要另行安排车辆，所产生的费用由旅客承担。",
   "departureDates": [
    {
-    "date": "2026-08-06",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-08",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
-   {
     "date": "2026-08-15",
     "status": "available"
    },
@@ -15488,30 +15320,6 @@ window.TOURS = [
   "introEn": "体验从 空中到海面再到水下 的大堡礁全方位美景，这个套餐包括 飞去船回＆ 船去飞回 两种方式，让您尽情探索圣灵群岛与大堡礁。\r\n \r\n行程亮点 \r\n空中观景：30 分钟景观飞行，俯瞰 圣灵群岛、Hill Inlet、心形礁及外堡礁\r\n水上体验：前往 Reefworld，停留约 2 小时\r\n美食享受：提供热带自助午餐\r\n水下观赏：浮潜或从 水下观景舱 观赏五彩珊瑚\r\n⚠️ 温馨提示：您可自带酒店餐点或岛上外卖食物\r\n\r\n行程攻略：\r\n以下酒店含单程接/送 Reef View珊瑚景酒店 Whitsunday Apartments公寓式酒店 Palm Bungalows(需要自行前往Reef View酒店门口等候接送) 以下地址需要自行前往位于汉密尔顿岛码头的Cruise Whitsundays码头处等候接送 Holiday Homes度假屋 Yacht Club Villas游艇俱乐部 以下地址需要自行前往Hamilton Island Air机场办公室 Qualia酒店 Beach Club海滨俱乐部 游玩攻略 活动平台提供各种项目服务，可使用 信用卡或现金支付 如有 晕机或晕船症状 ，建议提前服用晕船药\r\n\r\n温馨提醒\r\n请至少 提前 15 分钟 到达办理登机/登船手续\r\n直升机单程 约 30 分钟\r\n返航游船单程 约 2 小时\r\n行程可能根据当天实际情况进行适当调整",
   "participationNotice": "1. 人数限制\r\n　此行程 最少 2 人（不含婴儿） 成行\r\n　若预订人数不足 2 人，仍可下单，但需在出行前确认是否成行\r\n　单人预订：需在出行前一天 18:00 前最终确认是否预订成功，可联系客服协助\r\n2. 游客限制\r\n　不建议 0-2 岁婴儿 参加\r\n3. 体重限制\r\n　单位乘客体重超过 110kg，或两位乘客体重之和超过 180kg，需支付额外费用\r\n　单位乘客体重 不得超过 130kg，超过则无法乘坐飞机\r\n4. 行李限制\r\n　直升机可携带行李不超过 5kg\r\n5. 同伴安排\r\n　若希望与同伴同一架飞机，请务必 在同一订单号下单；是否能安排同机，以供应商最终确认为准\r\n　不接受分开下单但要求同机\r\n6. 酒店信息\r\n　预订时请填写 真实有效的酒店信息；若因信息错误造成接送或行程问题，责任自负\r\n7. 行程选择\r\n　若“飞去船回”行程订满，可选择更换至“船去飞回”\r\n　下单时请明确选择是否可更换，否则因选择不明确造成出行问题，责任自负\r\n\r\n游玩日期前 6 天及以上：可免费取消或修改一次\r\n游玩日期前 4-5 天：取消或修改需收取 10% 费用\r\n游玩日期前 3 天内：不可取消或修改",
   "departureDates": [
-   {
-    "date": "2026-08-09",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-10",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-12",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-13",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
    {
     "date": "2026-08-15",
     "status": "available"
@@ -18793,14 +18601,6 @@ window.TOURS = [
   "participationNotice": "**市区游为特别赠送，如果因航班原因无法安排，改为接机送酒店，费用概不退还** \r\n**酒店需二次确认** \r\n1. 两人成团固定日期出发每周二，周五、周日 \r\n2. 儿童4-14岁；4岁以下不占床小孩$599,单人房差$420 \r\n3. 提前离团或中途脱团，视作自行放弃，我社概不承担相应损失 \r\n4. 产品行程中的游览时间仅供参考，司机会根据天气，交通情况，对行程做出相应合理的调整 \r\n5. 不含旺季酒店附加费和重大节假日酒店附加费 \r\n6. 最终解释权归本司所有。",
   "departureDates": [
    {
-    "date": "2026-08-11",
-    "status": "available"
-   },
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
-   {
     "date": "2026-08-16",
     "status": "available"
    },
@@ -19836,63 +19636,63 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2025-01-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-02-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-02-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-03-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-03-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-04-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-04-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-05-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-06-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-07-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-08-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-09-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-10-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-11-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2025-12-29",
-    "status": "available"
+    "status": "past"
    }
   ],
   "depRule": null,
@@ -23234,27 +23034,27 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-09-13",
@@ -24322,55 +24122,55 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-01",
@@ -24601,31 +24401,31 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-11-22",
@@ -24804,27 +24604,27 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-09-13",
@@ -26342,19 +26142,19 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-11-06",
@@ -26455,55 +26255,55 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-06-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-28",
@@ -26981,23 +26781,23 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-24",
@@ -27971,23 +27771,23 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-03",
@@ -28088,155 +27888,155 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-20",
@@ -28723,155 +28523,155 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-20",
@@ -29358,155 +29158,155 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-20",
@@ -29993,67 +29793,67 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-03",
@@ -30295,55 +30095,55 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-15",
@@ -30580,23 +30380,23 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-24",
@@ -31827,31 +31627,31 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-10-08",
@@ -32086,31 +31886,31 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-04",
@@ -33367,51 +33167,51 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-10-11",
@@ -33508,23 +33308,23 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-11-15",
@@ -34446,27 +34246,27 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-05",
@@ -34543,23 +34343,23 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-01",
@@ -34644,31 +34444,31 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-05",
@@ -34746,15 +34546,15 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-11-01",
@@ -35004,51 +34804,51 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-09-01",
@@ -35320,71 +35120,71 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-10-09",
@@ -36404,15 +36204,15 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-04",
@@ -36771,19 +36571,19 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-11",
@@ -36864,43 +36664,43 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-06",
@@ -37155,15 +36955,15 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-09-07",
@@ -37265,159 +37065,159 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-10-08",
@@ -37757,15 +37557,15 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-11-12",
@@ -38352,31 +38152,31 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-20",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-27",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-11-13",
@@ -38660,39 +38460,39 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-01-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-01-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-10-08",
@@ -39004,23 +38804,23 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-23",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-12-03",
@@ -39362,71 +39162,71 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-27",
@@ -39768,7 +39568,7 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-08-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-09-03",
@@ -40171,11 +39971,11 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-07-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-07",
-    "status": "available"
+    "status": "past"
    }
   ],
   "depRule": null,
@@ -40315,11 +40115,11 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-07-03",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-28",
@@ -40623,19 +40423,19 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-09-07",
@@ -40775,83 +40575,83 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-02-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-26",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-02",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-09",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-04",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-11",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-18",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-25",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-16",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-30",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-13",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-27",
@@ -41786,19 +41586,19 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-05-12",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-06-02",
-    "status": "Open"
+    "status": "past"
    },
    {
     "date": "2026-09-01",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-13",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -42191,7 +41991,7 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-08-01",
-    "status": "Open"
+    "status": "past"
    }
   ],
   "depRule": null,
@@ -42324,11 +42124,11 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-10-15",
-    "status": "Open"
+    "status": "available"
    },
    {
     "date": "2026-10-17",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -42397,7 +42197,7 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-08-18",
-    "status": "Open"
+    "status": "available"
    }
   ],
   "depRule": null,
@@ -43783,10 +43583,6 @@ window.TOURS = [
   "introEn": "行程亮点: \r\n\r\n★ 星空保护区 ★ 绝美冰湖 \r\n\r\n★ 库克山顶级步道体验 \r\n\r\n★格林诺奇小镇 ★ 复古箭镇 \r\n\r\n★米尔福德峡湾[包含] ★皇后镇自由探索 ★摩拉基巨型圆石 ★ 夜观蓝企鹅归巢[包含]",
   "participationNotice": "** 行程說明 ** 1. 航班要求: 第一天下午14:00左右抵达基督城的航班；导游下午分别在15:30 和 17:30 抵达机场接机，如航班抵达时间搭配不上2次接机服务，可自行乘坐机场出租车或机场巴士前往酒店 ; 最后一天15:00后离开基督城的境内航班 17:00后离开基督城的國际航班，两次送机抵达机场时间为14: 00和16:00. **因任何原因错 过接机的客人，都需自行解决前往下一站的交通问题，由此产生并衍生的所有费用需自行承担. 2. 儿童年龄: 5-11周岁必须占床,不满5岁可不占床,不占床儿童提供车位不提供餐食. 3. 旺季附加费: 圣诞节，新年，中国新年期间加收AUD200/人起. ** 权益说明 ** 1. 行程内所有项目都将按照实际情况(如疫情，天气，交通等不可抗力)因素决定，本公司保留依据实际情况对行程做出调整的权力，客人不得对此要求 补偿。 2. 我社保留因季节变化、酒店航班变更、前往地区情况及其他不可抗力原因而调整最终价格和行程顺序的权利。 3. 所有节目安排按当地状况(如因天气、酒店或航班等)决定，本公司保留依据当时实际情况对行程做出调整的权利，客人不得以此要求补偿。 4. 新西兰住宿设施有限，公司会根据实际情况调整酒店;新西兰三人间默认为一张大床加一张小床，如需3张独立分开的床请事先声明，出发前公司会尽力 确认，但不能完全保证可满足此要求。",
   "departureDates": [
-   {
-    "date": "2026-08-14",
-    "status": "available"
-   },
    {
     "date": "2026-08-21",
     "status": "available"
@@ -45260,7 +45056,7 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-08-06",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-09-03",
@@ -46729,71 +46525,71 @@ window.TOURS = [
   "departureDates": [
    {
     "date": "2026-03-01",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-08",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-15",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-22",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-03-29",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-12",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-04-19",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-10",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-17",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-24",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-05-31",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-07",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-14",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-21",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-06-28",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-07-05",
-    "status": "available"
+    "status": "past"
    },
    {
     "date": "2026-08-23",
