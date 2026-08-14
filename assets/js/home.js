@@ -294,6 +294,8 @@ function rebuild() {
     const hotWrap = document.getElementById("hot-grid");
     hotWrap.className = "grid grid-3";
     hotWrap.innerHTML = HOT.map((t) => window.tourCard(t, lang)).join("");
+    // 首页热门概览块不显示日历(详情页才有), 仅移除本块卡片内的日历节点, 不动通用 tourCard
+    hotWrap.querySelectorAll(".card-cal").forEach((el) => el.remove());
 
     // 板块4 优势（真人实景图 + 编号，无 emoji — 见 DESIGN.md）
     const adv = ["home.adv1", "home.adv2", "home.adv3", "home.adv4"];
