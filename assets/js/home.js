@@ -286,10 +286,9 @@ function rebuild() {
         .join("") +
       `</div>`;
 
-    // 板块3 爆款6卡（横向滚动）— 按全站区域展示顺序排序(与左树/footer一致), 不改设计
-    const HOT_ORDER = ["australia", "nz", "china", "asia", "europe", "cruise", "america", "special"];
+    // 板块3 爆款9卡（横向滚动）— 严格按后台预设 featured 顺序(Featured_Order)展示, 不再按区域重排
     const HOT = T.filter((t) => t.featured)
-      .sort((a, b) => HOT_ORDER.indexOf(a.dest) - HOT_ORDER.indexOf(b.dest))
+      .sort((a, b) => (a.forder || 999) - (b.forder || 999))
       .slice(0, 9);
     const hotWrap = document.getElementById("hot-grid");
     hotWrap.className = "grid grid-3";
