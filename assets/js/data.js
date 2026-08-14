@@ -189,7 +189,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "PV-DCSEY8",
@@ -31218,7 +31218,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0016",
@@ -40741,7 +40741,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "FUNT-FTJN7+NXJ08",
@@ -42278,7 +42278,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "SUP-CM-0111",
@@ -42681,7 +42681,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "SUP-CM-0015",
@@ -43757,7 +43757,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": true
+  "featured": false
  },
  {
   "id": "PV-EU06",
@@ -45498,7 +45498,7 @@ window.TOURS = [
   "excludesEn": [],
   "notes": [],
   "notesEn": [],
-  "featured": false
+  "featured": true
  },
  {
   "id": "PV-NZSN11",
