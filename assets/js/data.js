@@ -5158,11 +5158,11 @@ window.TOURS = [
   "dest": "australia",
   "destZh": "澳洲",
   "destEn": "australia",
-  "category": "悉尼及周边",
-  "subRegion": "悉尼及周边",
+  "category": "阿德莱德/南澳",
+  "subRegion": "阿德莱德/南澳",
   "seasonTag": "",
   "subRegions": [
-   "悉尼及周边"
+   "阿德莱德/南澳"
   ],
   "price": "A$185",
   "priceEn": "A$185",
