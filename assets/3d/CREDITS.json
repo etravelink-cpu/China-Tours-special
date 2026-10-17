@@ -1,0 +1,8 @@
+{
+  "plane-etrips.glb": {
+    "source": "AI-generated, work product for Etrips",
+    "pipeline": "nano-banana-pro edit (3/4 view from brand sprite) -> fal-ai/hunyuan3d/v2 textured -> gltf-transform optimize (simplify 0.5, webp 1024)",
+    "date": "2026-07-18",
+    "rights": "no third-party assets; brand colors sampled from client logo"
+  }
+}

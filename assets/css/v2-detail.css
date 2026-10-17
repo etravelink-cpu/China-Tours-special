@@ -1,0 +1,151 @@
+.v2-detail{color:#193651;padding:22px;background:white;border-radius:12px}.v2-hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:26px;align-items:start}.v2-hero img{width:100%;border-radius:10px;object-fit:contain}.v2-hero h2{font-size:24px;line-height:1.5;margin:6px 0}.v2-tags{color:#ad6629}.v2-lead-price{font-size:21px;font-weight:700;color:#a34c10}.v2-detail p{line-height:1.8}.v2-copy{white-space:pre-line;line-height:1.9;overflow-wrap:anywhere}.v2-intro{margin:28px 0;padding:22px;background:#f3f7fb;border-radius:8px}.v2-tabs{display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #d4dee9;padding-bottom:12px;margin-bottom:22px}.v2-tabs button,.v2-cal-nav button{border:1px solid #c1d1df;background:white;padding:10px 17px;border-radius:6px;cursor:pointer}.v2-tabs [aria-selected=true]{background:#225480;color:white;border-color:#225480}.v2-table-scroll{overflow:auto;border:1px solid #d7e2eb;border-radius:8px}.v2-quotes{border-collapse:collapse;min-width:960px;width:100%;font-size:14px}.v2-quotes th,.v2-quotes td{padding:14px;border-bottom:1px solid #d7e2eb;border-right:1px solid #e5edf3;vertical-align:top}.v2-quotes thead{background:#edf4fa}.v2-quotes tbody th{min-width:125px;text-align:left}.v2-quotes small{color:#637587}.v2-total{background:#fff4e6;padding:16px;margin:18px 0;border-radius:8px}.v2-offer-select{padding:9px;min-width:220px;border:1px solid #b4c6d7;border-radius:6px}.v2-calendar{max-width:480px;border:1px solid #d5e1ed;border-radius:10px;overflow:hidden}.v2-cal-nav{display:flex;justify-content:space-between;align-items:center;background:#edf4fa;padding:12px}.v2-cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:5px;padding:12px}.v2-cal-grid>b{text-align:center;font-size:12px;padding:5px;color:#536d85}.v2-cal-grid>span,.v2-date{min-height:40px;text-align:center;display:flex;align-items:center;justify-content:center}.v2-day-off{color:#98a7b4}.v2-date{border:0;border-radius:6px;cursor:pointer;flex-direction:column}.v2-date.highlight{background:#ffead1;color:#914805;font-weight:700}.v2-date.soldout{background:#ffead1;color:#9f6650;text-decoration:line-through}.v2-date small{font-size:9px}.v2-cal-hint{color:#5e7384;font-size:13px}.v2-day{border-left:3px solid #45759b;padding:8px 22px;margin:20px 0;background:#f8fafc}.v2-day>span{color:#446b8d;font-weight:700}.v2-day h4{font-size:18px;margin:8px 0}.v2-detail details{margin:16px 0;padding:16px;border:1px solid #d5e1ed;border-radius:8px}.v2-detail summary{cursor:pointer;font-weight:600}.v2-detail [hidden]{display:none!important}@media(max-width:800px){.v2-hero{grid-template-columns:1fr}.v2-detail{padding:14px}.v2-tabs button{padding:8px 12px}.v2-hero h2{font-size:20px}}
+
+.v2-city-marker b{display:block;border-radius:50%;background:#1d7183;color:white;text-align:center;line-height:28px;border:2px solid white;box-shadow:0 1px 6px #3336}.v2-test-banner{background:#fff4de;padding:10px 20px;text-align:center;font-size:14px;color:#774b00}
+
+/* Product overview: highlights immediately below package price. */
+.v2-hero .v2-intro{margin:16px 0;padding:14px 16px;background:#f3f7fb}.v2-hero .v2-intro h3{font-size:16px;margin:0 0 8px}.v2-hero .v2-intro .v2-copy{font-size:14px;line-height:1.65}.v2-tabs{margin-top:24px}
+
+/* Compact highlights: remove source blank lines without hiding content. */
+.v2-hero .v2-intro{margin:12px 0;padding:12px 14px}.v2-hero .v2-intro h3{margin:0 0 6px}.v2-highlights p{font-size:14px;line-height:1.5;margin:0 0 7px}.v2-highlights p:last-child{margin-bottom:0}.v2-hero>div>.v2-tags{margin:0 0 6px}.v2-hero>div>p{margin:8px 0}.v2-hero>div>.v2-lead-price{margin:10px 0}
+
+/* Combined dates and prices. */
+.v2-selected-quotes{margin-top:24px;padding-top:8px;border-top:1px solid #dce6ef}
+
+/* Combined itinerary and map layout. */
+.v2-arrangement-title{font-size:22px;margin:24px 0 18px}
+.v2-route-card{border:1px solid #d9e5ec;border-radius:14px;overflow:hidden;background:#fff}
+.v2-route-card>header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;background:#f1f7fa;gap:12px}
+.v2-route-card h4{font-size:18px;margin:0}.v2-route-card>header>span{font-size:13px;color:#597283}
+.v2-real-map{height:400px;z-index:0}
+.v2-route-stops{display:flex;flex-wrap:wrap;gap:8px 10px;list-style:none;padding:16px 20px 0;margin:0;counter-reset:route-stop}
+.v2-route-stops li{counter-increment:route-stop;display:flex;gap:7px;align-items:center;background:#edf6f5;border-radius:20px;padding:5px 11px;font-size:14px}
+.v2-route-stops li:before{content:counter(route-stop);background:#1d7183;color:#fff;border-radius:50%;width:20px;height:20px;display:grid;place-items:center;font-size:12px}
+.v2-route-note{margin:12px 20px 18px;font-size:13px;color:#607687}
+.v2-daily-title{font-size:21px;margin:30px 0 12px}.v2-daily-title small{font-size:14px;font-weight:400;color:#647e90;margin-left:8px}
+.v2-timeline{margin-top:22px}
+.v2-timeline .v2-day{border:1px solid #dce7ef;border-left:4px solid #26778b;background:#fff;border-radius:10px;padding:0;margin:0 0 20px;overflow:hidden}
+.v2-day-header{display:flex;gap:14px;align-items:flex-start;padding:16px 20px;background:#f2f7fa;border-bottom:1px solid #e1eaf0}
+.v2-day-number{flex-shrink:0;background:#225480;color:#fff;border-radius:7px;padding:5px 10px;font-size:14px;font-weight:600;line-height:1.5}
+.v2-day-header h4{font-size:17px;line-height:1.6;margin:2px 0 0}
+.v2-day-body{padding:8px 20px 14px;font-size:15px}.v2-day-body p{margin:10px 0;line-height:1.8;overflow-wrap:anywhere}
+.v2-day-body .v2-day-stay{background:#f4f8f5;border-radius:6px;padding:9px 12px;color:#315f4b;font-size:14px}
+@media(max-width:600px){.v2-real-map{height:300px}.v2-route-card>header{padding:14px}.v2-route-stops{padding:14px 14px 0}.v2-route-note{margin:12px 14px 14px}.v2-day-header{padding:14px 12px;gap:10px}.v2-day-header h4{font-size:16px}.v2-day-body{padding:6px 14px 12px}.v2-route-card>header>span{display:none}}
+
+/* Unified booking notices. */
+.v2-notice-offers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:16px 0 26px}
+.v2-notice-offer{border:1px solid #d8e5ed;border-radius:10px;overflow:hidden;padding:0 18px 12px;background:#fff}
+.v2-notice-offer>header{margin:0 -18px 14px;padding:14px 18px;background:#eef5fa;display:flex;align-items:center;justify-content:space-between;gap:10px}
+.v2-notice-offer>header h4{margin:0;font-size:17px}.v2-notice-offer>header span{font-size:13px;color:#496c84}
+.v2-notice-scope{padding:0 0 8px;border-bottom:1px solid #e2ebf1;margin-bottom:12px;color:#466c82}
+.v2-notice-copy{font-size:15px;overflow-wrap:anywhere}.v2-notice-copy p{line-height:1.8;margin:10px 0}.v2-notice-copy h4{font-size:17px;margin:22px 0 12px;color:#225480}
+.v2-booking-notices{padding:20px 24px;border:1px solid #d8e5ed;border-radius:10px;background:#fafcfd;margin:20px 0}
+.v2-booking-notices>h3{margin:0 0 12px;font-size:20px}.v2-notice-applies{font-size:14px;color:#5b7184;padding:10px 12px;background:#edf4fa;border-radius:6px}
+@media(max-width:700px){.v2-notice-offers{grid-template-columns:1fr}.v2-booking-notices{padding:16px}.v2-notice-copy{font-size:14px}}
+
+/* Overview consultation and brochure actions. */
+.v2-overview-actions{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-top:14px}
+.v2-overview-actions .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:11px 18px;font-size:15px}
+.v2-overview-actions svg{width:21px;height:21px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.v2-brochure-action{background:#fff;color:#225480;border:1px solid #b6ccdc;border-radius:28px;text-decoration:none;box-shadow:0 3px 10px #1936510a}
+.v2-brochure-action:hover{background:#edf5fa;border-color:#225480}
+@media(max-width:420px){.v2-overview-actions{gap:9px}.v2-overview-actions .btn{font-size:14px;padding:10px 13px}}
+
+/* List preview full detail action. */
+.v2-full-detail-action{margin-top:24px;padding-top:18px;border-top:1px solid #dce6ef}.v2-full-detail-action .btn{display:block;width:100%;box-sizing:border-box;text-align:center;padding:13px 18px}
+
+/* Product Hero carousel. */
+.v2-hero{align-items:stretch}.v2-gallery{position:relative;min-height:360px;height:100%;border:1px solid #dbe5eb;border-radius:18px;overflow:hidden;background:linear-gradient(145deg,#f3f7fa,#e7eff4);box-shadow:0 6px 20px #18344b0b;touch-action:pan-y}
+.v2-gallery-stage{position:absolute;inset:0;overflow:hidden}.v2-gallery-track{display:flex;height:100%;transition:transform .45s ease}
+.v2-gallery-slide{flex:0 0 100%;width:100%;height:100%;min-width:0;display:flex;align-items:center;justify-content:center}
+.v2-hero .v2-gallery img{display:block;width:100%;height:100%;object-fit:contain;border-radius:0}
+.v2-gallery-prev,.v2-gallery-next{position:absolute;top:50%;transform:translateY(-50%);width:36px;height:42px;border:0;border-radius:9px;color:#fff;background:#193651b8;cursor:pointer;font-size:28px;line-height:1}
+.v2-gallery-prev{left:12px}.v2-gallery-next{right:12px}.v2-gallery-controls{position:absolute;left:12px;right:12px;bottom:12px;display:flex;align-items:center;justify-content:center;gap:12px;padding:7px 10px;background:#193651b8;color:#fff;border-radius:24px;font-size:13px;backdrop-filter:blur(5px)}
+.v2-gallery-dots{display:flex;gap:7px}.v2-gallery-dots button{width:9px;height:9px;padding:0;border:0;border-radius:50%;background:#ffffff80;cursor:pointer}.v2-gallery-dots [aria-current=true]{background:#fff}
+.v2-gallery-pause{border:0;background:transparent;color:#fff;font-size:14px;cursor:pointer;padding:2px 5px}
+.v2-gallery button:focus-visible,.v2-gallery:focus-visible{outline:3px solid #e79822;outline-offset:-3px}
+@media(max-width:800px){.v2-gallery{height:auto;min-height:0;aspect-ratio:4/3}}
+@media(prefers-reduced-motion:reduce){.v2-gallery-track{transition:none}}
+
+/* Balanced tabs and calendar route preview. */
+.v2-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;padding:0;border:0;margin:26px 0 24px}
+.v2-tabs button{height:52px;padding:8px 12px;font-size:17px;font-weight:600;border-radius:10px;background:var(--sky-band,#f2f9fd);border-color:var(--line-cool,#dbebf5);color:var(--sky-text,#0b6a9e)}
+.v2-tabs [aria-selected=true]{background:var(--sky-deep,#0e7db8);border-color:var(--sky-deep,#0e7db8);color:white}
+.v2-date-route-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);gap:24px;align-items:start;margin-top:14px}
+.v2-calendar{max-width:none;border-color:var(--line-cool,#dbebf5)}.v2-cal-nav{background:var(--sky-tint,#e8f5fc);color:var(--sky-text,#0b6a9e)}
+.v2-date.highlight{background:var(--orange,#f09018);color:var(--ink,#1d3d4f);font-weight:700}
+.v2-date.highlight:hover,.v2-date.highlight:focus-visible{outline:2px solid var(--sky-deep,#0e7db8);outline-offset:2px}
+.v2-date.soldout{color:var(--muted,#54707f);background:repeating-linear-gradient(135deg,var(--orange-tint,#fff4e2),var(--orange-tint,#fff4e2) 6px,#f3d9b3 6px,#f3d9b3 8px);text-decoration:line-through;cursor:default}
+.v2-cal-key{display:inline-block;width:12px;height:12px;border-radius:3px;background:var(--orange,#f09018);margin-right:5px}
+.v2-overview-route{border:1px solid var(--line-cool,#dbebf5);border-radius:12px;overflow:hidden}.v2-overview-route h4{font-size:16px;padding:12px 16px;margin:0;background:var(--sky-tint,#e8f5fc);color:var(--sky-text,#0b6a9e)}
+.v2-mini-map{height:330px;background:#e8f1f7}.v2-overview-route>p{font-size:12px;line-height:1.6;padding:10px 14px;margin:0;color:var(--muted,#54707f)}
+.v2-gallery-slide{position:relative}.v2-gallery-caption{position:absolute;bottom:60px;left:18px;right:18px;padding:7px 12px;background:#193651bb;color:white;font-size:14px;border-radius:8px}
+@media(max-width:800px){.v2-tabs button{font-size:15px;height:48px;padding:6px}.v2-date-route-layout{grid-template-columns:1fr;gap:16px}.v2-mini-map{height:270px}}
+
+/* Four equal tabs; a single dedicated map. */
+.v2-tabs{grid-template-columns:repeat(4,minmax(0,1fr))}.v2-calendar{max-width:580px;margin:14px auto 0}.v2-cal-hint{text-align:center}
+[data-v2-panel="map"] .v2-mini-map{height:440px;border:1px solid var(--line-cool,#dbebf5);border-radius:14px;overflow:hidden}
+@media(max-width:800px){.v2-tabs{gap:5px}.v2-tabs button{font-size:14px;padding:5px 2px}[data-v2-panel="map"] .v2-mini-map{height:330px}}
+
+.v2-image-credit{position:absolute;top:10px;right:10px;padding:4px 9px;border-radius:8px;background:#fffffff0;z-index:2;margin:0}.v2-image-credit summary{cursor:pointer;font-size:18px}.v2-image-credit>div{max-width:250px;font-size:12px}.v2-image-credit p{margin:8px 0}
+
+/* Accessible product tabs */
+.v2-tabs [role=tab]:focus-visible{outline:3px solid var(--orange);outline-offset:-4px}.v2-detail [role=tabpanel]:focus-visible{outline:2px solid var(--sky-deep);outline-offset:4px}
+
+/* Commons image credits */
+.v2-image-credit{position:absolute;right:12px;top:12px;z-index:3;color:#fff;background:#193651b8;border-radius:12px;padding:4px 10px;font-size:12px;max-width:90%}.v2-image-credit summary{cursor:pointer;list-style:none}.v2-image-credit a{color:#fff}.v2-image-credit p{margin:6px 0}.v2-gallery-caption{position:absolute;bottom:60px;background:#193651b8;padding:5px 10px;border-radius:8px;color:#fff;font-size:13px}
+
+.v2-date.unavailable{background:#f3eee3;color:#6b5a3b;cursor:not-allowed}
+
+.v2-brochure-menu{position:relative;display:inline-block;margin:0;max-width:100%}
+.v2-brochure-menu>summary{list-style:none;cursor:pointer;gap:.5rem;margin:0}
+.v2-brochure-menu>summary::-webkit-details-marker{display:none}
+.v2-brochure-menu>summary:focus-visible,.v2-brochure-options a:focus-visible{outline:3px solid #c8873e;outline-offset:3px}
+.v2-brochure-options{position:absolute;top:calc(100% + 8px);left:0;z-index:30;min-width:230px;max-width:calc(100vw - 40px);padding:10px 14px;background:#fff;border:1px solid #dfd4c4;border-radius:12px;box-shadow:0 8px 26px #19364720;color:#193647}
+.v2-brochure-group h4{margin:5px 0;font-size:.85rem;color:#746d63}
+.v2-brochure-group+section{border-top:1px solid #eee6db;padding-top:6px;margin-top:6px}
+.v2-brochure-options a{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:10px 6px;color:inherit;text-decoration:none;border-radius:6px;min-height:44px}
+.v2-brochure-options a:hover{background:#faf3e8}
+.v2-brochure-options span{font-size:.8rem;color:#746d63;white-space:nowrap}
+@media(max-width:600px){.v2-brochure-options{position:static;margin-top:8px;box-shadow:none;min-width:220px}.v2-overview-actions{align-items:flex-start}}
+
+.v2-release-note{padding:14px 16px;border-left:4px solid #287ca7;background:#edf6fb;border-radius:8px;line-height:1.75;color:#153b50;margin:12px 0}.v2-detail [hidden]{display:none!important}.v2-hero>div{min-width:0}.v2-detail a,.v2-detail p{overflow-wrap:anywhere}
+
+
+.v2-price-note{font-size:.88rem;color:#526a7a;line-height:1.6}.v2-single-offer{margin:6px 0 12px;font-weight:600}.v2-offer-control{display:block;margin:8px 0 12px}
+/* Compact parallel comparison; selected package continues to control booking. */
+.v2-price-comparison{max-width:100%;overflow:auto;border:1px solid #dbe6ee;border-radius:10px;margin:10px 0 20px;isolation:isolate}
+.v2-compare-table{width:100%;min-width:520px;border-collapse:separate;border-spacing:0;margin:0;font-size:15px}
+.v2-compare-table th,.v2-compare-table td{padding:12px 14px;text-align:center;vertical-align:middle;border-bottom:1px solid #dbe6ee;line-height:1.5}
+.v2-compare-table thead th{background:#edf5fa;color:#214963;font-weight:600;min-width:112px}
+.v2-compare-table th:first-child{position:sticky;left:0;z-index:1;text-align:left;min-width:128px;max-width:180px;background:#f7fafc}
+.v2-compare-table thead th:first-child{background:#edf5fa;z-index:2}
+.v2-compare-table small{display:block;font-size:12px;font-weight:400;color:#536b7c;line-height:1.5;margin-top:3px}
+.v2-compare-table tbody tr:last-child>*{border-bottom:0}
+.v2-compare-table .v2-quote-current>*{background:#eaf6fc}
+.v2-compare-table .v2-quote-current-label{color:#0b6a9e;font-weight:600}
+.v2-compare-table strong{white-space:nowrap;font-size:16px;color:#173e58}
+.v2-price-comparison:focus-visible{outline:2px solid #0e7db8;outline-offset:3px}
+.v2-compare-scroll-hint{display:none;font-size:12px;color:#536b7c}
+@media(max-width:600px){.v2-compare-table{font-size:14px}.v2-compare-table th,.v2-compare-table td{padding:10px}.v2-compare-table th:first-child{min-width:100px;max-width:120px}.v2-compare-scroll-hint{display:block}}
+
+/* Annual collections: edition > category > region > product. */
+#list-tree > .rp-year .rp-group-body { padding-left: 16px; }
+@media (max-width: 600px) {
+  #list-tree > .rp-year .rp-group-body { padding-left: 12px; }
+}
+
+/* Clear customer content sections; no change to stored source text. */
+.v2-concise-highlights{padding-left:1.25rem;margin:.5rem 0;line-height:1.8}.v2-concise-highlights li{margin:.45rem 0}.v2-content-details{border:1px solid #d6e3ed;border-radius:10px;padding:12px 16px;margin:14px 0}.v2-content-details summary{cursor:pointer;font-weight:700;color:#174c6c}.v2-content-details p,.v2-content-section p{line-height:1.8;overflow-wrap:anywhere}.v2-content-note{padding:12px 16px;background:#f0f7fb;border-radius:8px;line-height:1.7}.v2-content-section{margin:20px 0}.v2-content-section h4{border-bottom:1px solid #d6e3ed;padding-bottom:8px}.v2-conditions-link{margin:12px 0;white-space:normal;text-align:left}.v2-day-header h4{overflow-wrap:anywhere}@media(max-width:600px){.v2-content-details{padding:12px}.v2-content-note{padding:12px}.v2-day-header{gap:10px}}
+
+/* Read-only source-bound reference pricing, separate from bookable offers. */
+.v2-inquiry-reference{margin:24px 0;padding:18px;border:1px solid #d6e3ed;border-radius:12px;background:#f7fafc;min-width:0}.v2-inquiry-reference p{line-height:1.75;overflow-wrap:anywhere}.v2-reference-group{margin:12px 0;padding:14px;border:1px solid #d6e3ed;border-radius:9px;background:white}.v2-reference-group summary{cursor:pointer;font-weight:700;color:#174c6c;overflow-wrap:anywhere}.v2-reference-group table{width:100%;table-layout:fixed;border-collapse:collapse;margin:14px 0;font-size:15px}.v2-reference-group td,.v2-reference-group th{padding:10px 8px;border-bottom:1px solid #d6e3ed;text-align:left;overflow-wrap:anywhere;white-space:normal}.v2-reference-group th:first-child{width:42%}.v2-reference-group th:nth-child(2){width:31%}.v2-reference-group caption.sr-only{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}@media(max-width:600px){.v2-inquiry-reference{padding:12px}.v2-reference-group{padding:10px}.v2-reference-group table{font-size:14px}.v2-reference-group td,.v2-reference-group th{padding:9px 4px}}
+
+/* Keep amounts readable in the shared three-column customer price layout. */
+@media(max-width:600px){
+ .v2-selected-quotes .v2-day-price-rows th:first-child{width:28%}
+ .v2-selected-quotes .v2-day-price-rows th:nth-child(2){width:38%}
+ .v2-selected-quotes .v2-day-price-rows td:nth-child(2){overflow-wrap:normal!important;word-break:normal;font-variant-numeric:tabular-nums}
+ .staff-saved-preview .staff-price-table th:first-child{width:28%}
+ .staff-saved-preview .staff-price-table th:nth-child(2){width:38%}
+ .staff-saved-preview .staff-price-table td:nth-child(2){overflow-wrap:normal!important;word-break:normal;font-variant-numeric:tabular-nums}
+}

@@ -1,0 +1,44 @@
+# 暂存素材（内部查阅，不上线）
+tours/_archive/
+**/_archive/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+
+# lock files
+*.mp4
+# 线上英雄视频（体积已压至 ≤6MB，属网站资产，放行）
+!assets/video/*.mp4
+nul
+__pycache__/
+_static.log
+# 临时/备份文件(不上线)
+*.broken_bak
+*.pre_db_bak
+*_bak
+tools/_check*.py
+tools/_patch*.py
+assets/js/*.broken_bak
+
+# Public site excludes internal and archived artefacts.
+*.bak
+*.bak_*
+*.db
+*.sqlite
+*.sqlite3
+*.xlsx
+*.dump
+*.zip
+*.tar
+*.tgz
+.env*
+private.json
+/backup/
+/backups/
+/archive/
+/archives/
+/storage/
+/raw/
+/assets/suppliers/

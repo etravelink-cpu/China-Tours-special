@@ -1,0 +1,41 @@
+/* Existing homepage service strip and WHY cards; no global layout overrides. */
+.flight-route { z-index:1; } /* Keep the decorative plane behind readable content. */
+#site-header .hamburger:focus-visible,
+#site-header .lang-btn:focus-visible { outline:3px solid var(--sky-text); outline-offset:3px; }
+.trust-band .trust-heading { display:block; text-align:center; max-width:860px; margin:0 auto 24px; }
+.trust-band .trust-heading[hidden] { display:none; }
+.trust-heading .section-title { font-size:28px; line-height:1.4; }
+.trust-heading p { color:var(--muted); line-height:1.7; }
+.trust-band > .container:not(.trust-heading) { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:24px; }
+.trust-band .trust-item { min-width:0; align-items:flex-start; }
+.trust-item > div:last-child { min-width:0; }
+.trust-band .trust-item strong { font-size:15px; line-height:1.55; text-wrap:balance; }
+.trust-band .trust-item span { font-size:13px; line-height:1.7; margin-top:5px; }
+#why-etrips #adv-grid { grid-template-columns:repeat(4,minmax(0,1fr)); align-items:stretch; }
+#why-etrips .section-lede { max-width:850px; }
+#why-etrips .adv-item { display:flex; flex-direction:column; min-width:0; }
+#why-etrips .adv-img { height:auto; aspect-ratio:4/3; object-fit:cover; flex:none; }
+#why-etrips .adv-num { font-family:var(--font-body); font-size:11px; font-weight:800; letter-spacing:.04em; line-height:1.6; color:var(--sky-text); margin:0 8px 10px; }
+#why-etrips .adv-item h3 { margin:0 8px 12px; font-size:18px; line-height:1.5; color:var(--ink); text-wrap:balance; }
+#why-etrips .adv-desc { margin:0 8px; font-size:14px; line-height:1.85; color:var(--muted); overflow-wrap:break-word; }
+html[lang="en"] #why-etrips .adv-item h3 { min-height:4.5em; }
+@media(max-width:1099px) {
+  .trust-band > .container:not(.trust-heading) { grid-template-columns:repeat(2,minmax(0,1fr)); gap:22px 28px; }
+  #why-etrips #adv-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  html[lang="en"] #why-etrips .adv-item h3 { min-height:3em; }
+}
+@media(max-width:699px) {
+  .trust-band { padding:22px 0; }
+  .trust-band > .container:not(.trust-heading) { grid-template-columns:minmax(0,1fr); gap:18px; }
+  .trust-band .trust-item { gap:13px; padding:0; }
+  .trust-band .trust-item strong { font-size:15px; text-wrap:wrap; }
+  .trust-band .trust-item span { font-size:13px; margin-top:3px; }
+  #why-etrips #adv-grid { grid-template-columns:minmax(0,1fr); gap:20px; }
+  #why-etrips .adv-item { padding:14px 14px 22px; }
+  #why-etrips .adv-item h3 { font-size:18px; }
+  html[lang="en"] #why-etrips .adv-item h3 { min-height:0; }
+  #why-etrips .adv-desc { font-size:14px; line-height:1.8; }
+}
+
+/* Abstract destination artwork: decorative, not a product or location photograph. */
+.dest-abstract{position:absolute;inset:0;background:radial-gradient(circle at 73% 24%,#ffdf9b 0 9%,transparent 10%),linear-gradient(154deg,transparent 48%,#a66336 49% 65%,#cf925c 66% 78%,#815238 79%),linear-gradient(#577c91,#dbb793)}

@@ -1,0 +1,64 @@
+/* Footer policy navigation: keep existing travel, contact and QR sections. */
+.site-footer .footer-compliance{display:flex;flex-direction:column;align-items:center;gap:0;border-top:1px solid #bed9e8;margin-top:24px;padding-top:12px;text-align:center}
+.footer-policy-groups{display:grid;gap:24px}
+.footer-policy-groups.has-company{grid-template-columns:1fr 1fr}
+.site-footer .footer-policy-title{margin:0 0 8px;color:#173f59;font-size:15px;font-weight:700}
+.footer-policy-groups:not(.has-company) .footer-policy-title{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+.footer-policy-links{display:flex;flex-wrap:wrap;justify-content:center;gap:0}
+.site-footer .footer-policy-links a{position:relative;display:inline-flex;align-items:center;min-height:44px;padding:4px 16px;color:#12618d;font-size:14px;text-decoration:none;text-underline-offset:4px}
+.footer-policy-links a+a::before{content:"";position:absolute;left:0;top:50%;height:12px;border-left:1px solid #aacbdc;transform:translateY(-50%)}
+.site-footer .footer-policy-links a:hover{text-decoration:underline;color:#084a70}
+.site-footer .footer-policy-links a:focus-visible,.legal-page a:focus-visible{outline:3px solid #176b9c;outline-offset:4px;border-radius:3px}
+.site-footer .footer-external-note{margin:4px 0;color:#425f73;font-size:12px;line-height:1.8;text-align:center}
+.site-footer .footer-bottom{margin:0;padding-top:2px;color:#425f73;font-size:12px;line-height:1.8;text-align:center}
+.legal-page{padding:58px 24px 68px;background:#f6fafc;color:#253e50}
+.legal-wrap{max-width:1040px;margin:0 auto}
+.legal-breadcrumb{display:inline-flex;align-items:center;min-height:44px;color:#12618d;font-size:14px;text-decoration:underline;text-underline-offset:4px}
+.legal-page h1{color:#104d72;font-size:clamp(28px,4vw,38px);line-height:1.35;margin:12px 0 16px}
+.legal-lead{max-width:760px;color:#425f73;line-height:1.9;margin:0 0 26px}
+.legal-layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:32px;align-items:start}
+.legal-toc{position:sticky;top:110px;padding:14px;background:#e8f3fa;border:1px solid #cddfe9;border-radius:12px}
+.legal-toc a{display:flex;align-items:center;min-height:48px;padding:8px 12px;border-radius:6px;color:#12618d;font-size:14px;line-height:1.5;text-decoration:none}
+.legal-toc a[aria-current="location"],.legal-toc a:hover{background:#fff;color:#104d72;text-decoration:underline;text-underline-offset:4px}
+.legal-sections{min-width:0}
+.legal-section{scroll-margin-top:110px;padding:30px 32px;margin-bottom:22px;border:1px solid #d8e5ed;border-radius:14px;background:#fff}
+.legal-section h2{font-size:23px;line-height:1.4;color:#104d72;margin:0 0 22px}
+.legal-section h3{font-size:16px;color:#253e50;margin:24px 0 8px}
+.legal-section p{font-size:15px;line-height:1.9;margin:8px 0 16px}
+.legal-section a{color:#12618d;text-decoration:underline;text-underline-offset:4px;overflow-wrap:anywhere}
+.legal-section .legal-callout{padding:14px 16px;border-left:3px solid #1781af;background:#f0f8fc;border-radius:0 6px 6px 0}
+.legal-more{font-size:14px;line-height:1.9;color:#425f73;padding:0 4px}
+@media(max-width:640px){
+ .footer-policy-groups.has-company{grid-template-columns:1fr}
+ .site-footer .footer-policy-links a{font-size:13px;padding:4px 10px}
+ .footer-policy-links a+a::before{display:none}
+ .legal-page{padding:30px 16px 42px}
+ .legal-layout{grid-template-columns:1fr;gap:20px}
+ .legal-toc{position:static}
+ .legal-section{padding:24px 20px}
+ .legal-section h2{font-size:21px}
+}
+
+/* Shared mobile footer: stable columns and room below copyright for contact action. */
+@media(max-width:640px){
+ .site-footer{padding:32px 20px calc(80px + env(safe-area-inset-bottom));font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif}
+ .site-footer .footer-grid h4{font-family:inherit}
+ .site-footer .footer-topnav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 8px;padding-bottom:16px;margin-bottom:20px}
+ .site-footer .footer-topnav>span{display:none}
+ .site-footer .footer-topnav>a{display:flex;align-items:center;justify-content:center;min-height:44px;padding:6px 0;text-align:center;line-height:1.5;overflow-wrap:anywhere}
+ .site-footer .footer-grid>div{min-width:0}
+ .site-footer .footer-channels a{min-height:44px;display:flex;align-items:center;justify-content:center;overflow-wrap:anywhere}
+ .site-footer .footer-store{max-width:100%;overflow-wrap:anywhere}
+ .site-footer .footer-grid-2 .cc-qr-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;width:100%;max-width:320px}
+ .site-footer .footer-grid-2 .cc-qr-grid .cc-qr{min-width:0}
+ .site-footer .footer-grid-2 .cc-qr-grid .cc-qr img{width:88px;max-width:100%;height:auto;aspect-ratio:1}
+ .site-footer .cc-qr-cap{overflow-wrap:anywhere}
+ .site-footer .footer-policy-groups{width:100%;min-width:0}
+ .site-footer .footer-policy-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0}
+ .site-footer .footer-policy-links a{min-width:0;justify-content:center;padding:6px 0;line-height:1.6;text-align:center;overflow-wrap:anywhere}
+ .site-footer .footer-policy-links a+a::before{display:block}
+ html[lang="en"] .site-footer .footer-policy-links{grid-template-columns:1fr}
+ html[lang="en"] .site-footer .footer-policy-links a+a::before{display:none}
+ .site-footer .footer-bottom{max-width:100%;padding-top:6px;overflow-wrap:anywhere}
+}
+@media(max-width:360px){.site-footer .footer-policy-links a{font-size:12px}}

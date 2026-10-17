@@ -1,0 +1,5 @@
+[hidden]{display:none!important}
+:focus-visible{outline:3px solid #176b9c;outline-offset:3px}
+.form-card input,.form-card select,.form-card textarea{max-width:100%;box-sizing:border-box}
+.form-card button:disabled{opacity:.65;cursor:wait}
+[id]{scroll-margin-top:100px}
