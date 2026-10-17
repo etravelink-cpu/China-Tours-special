@@ -34,9 +34,11 @@
  const identity=t=>[t.id,t.v2Public.revision,t.v2Public.contentHash].join('|');
  function read(t,search){
   const d=t.v2Public,q=new URLSearchParams(search),same=q.get('id')===t.id;
-  const explicit=same&&q.has('offer');
-  const matched=explicit&&q.get('revision')===d.revision&&q.get('hash')===d.contentHash;
+  const explicit=same&&(q.has('offer')||q.has('plan'));
+  const publicId=root.EtripsCustomerProductId;
+  const masked=q.has('plan'),matched=explicit&&(masked?q.get('v')===publicId.version(t):q.get('revision')===d.revision&&q.get('hash')===d.contentHash);
   const raw=explicit?(matched?Object.fromEntries(q):{}):(memory.get(identity(t))||{});
+  if(masked&&matched)raw.offer=d.offers.find(o=>publicId.plan(t,o)===q.get('plan'))?.key||'__INVALID_PLAN__';
   const fallback=d.offers.find(o=>o.default)||d.offers[0];
   const matchedOffer=d.offers.find(o=>o.key===raw.offer),offer=matchedOffer||fallback;
   const date=matchedOffer&&raw.date&&root.EtripsRecurringCalendar.selectable(offer,raw.date)?raw.date:'';
@@ -44,8 +46,7 @@
  }
  function save(t,state){memory.set(identity(t),{...state});}
  function query(t,state,kind='id'){
-  const d=t.v2Public,q=new URLSearchParams({[kind]:t.id,offer:state.offer,revision:d.revision,hash:d.contentHash,view:state.view,tab:state.tab});
-  if(state.date)q.set('date',state.date);return q;
+  return root.EtripsCustomerProductId.query(t,state,kind);
  }
  root.EtripsProductSelection={read,save,query};
 })(typeof window==='object'?window:globalThis);
@@ -430,7 +431,7 @@
   if(t.v2Public.preRelease===true){
    const d=t.v2Public;
    if(d.bookingEnabled!==false||d.offers.length||t.departureDates.length)throw new Error('Inquiry-only product contains bookable data');
-   const query=new URLSearchParams({tour:t.id,revision:d.revision,hash:d.contentHash,mode:'inquiry'});
+   const query=window.EtripsCustomerProductId.query(t,{},'tour');query.set('mode','inquiry');
    const consult='<a class="btn btn-primary v2-consult-link" href="contact.html?'+esc(query.toString())+'">咨询此行程</a>';
    box.innerHTML='<article class="v2-detail v2-inquiry-only"><div class="v2-hero">'+heroHTML({...t,img:t.img.slice(0,1),heroCaptions:(t.heroCaptions||[]).slice(0,1)})+'<div><p class="v2-tags">'+esc(t.destZh||'')+(t.days?' · '+esc(t.days)+'日':'')+'</p><h2>'+esc(t.nameZh)+'</h2><section class="v2-release-note" role="note">'+esc(d.staffPreview?d.displayNotice:'行程咨询 · 价格、出发日期及余位请确认。')+'</section><p><strong>'+esc(referencePriceGroups(d.referenceData).length?'查看下方参考报价':d.referenceData?.calendarRules.length?'查看下方出发安排参考':'价格与班期请咨询')+'</strong></p>'+consult+'</div></div>'+inquiryReferenceHTML(d.referenceData)+'<section class="v2-intro"><h3>产品介绍</h3>'+paras(t.introZh)+'</section><section><h3>参考行程</h3>'+t.itinerary.map(x=>'<details><summary>'+esc(x.titleZh||'行程安排')+'</summary>'+paras(x.descZh)+'</details>').join('')+'</section><section><h3>预订前确认</h3>'+paras(d.bookingNotes)+''+consult+'</section></article>';
    if((opts||{}).showFullDetail!==false)box.querySelector('article').insertAdjacentHTML('beforeend','<p><a class="btn" href="detail.html?id='+encodeURIComponent(t.id)+'">查看完整详情页</a></p>');
@@ -445,7 +446,7 @@
   const offerText=o=>o.label==='标准行程'?(ticket?say('门票／活动','Ticket / activity'):o.days+say('日行程',' days')):(new RegExp('^'+o.days+'日方案$').test(o.label)?o.days+say('日方案','-day option'):o.label+' · '+o.days+say('日',' days'));
   function saveState(){
    const state={offer:selectedOffer.key,date:requestedDate,view,tab:activeTab};EtripsProductSelection.save(t,state);
-   const q=new URLSearchParams(location.search);for(const key of ['id','offer','revision','hash','date','view','tab'])q.delete(key);
+   const q=new URLSearchParams(location.search);for(const key of ['id','offer','revision','hash','v','plan','date','view','tab'])q.delete(key);
    for(const [key,value] of EtripsProductSelection.query(t,state))q.set(key,value);
    history.replaceState(history.state,'',location.pathname+'?'+q.toString()+location.hash);
    return state;

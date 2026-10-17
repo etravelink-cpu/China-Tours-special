@@ -31,6 +31,7 @@
       const remark = custom ? ['目的地 / Destination: '+(window.EtripsMarkets?.find(m=>m.key===value('dest'))?[window.EtripsMarkets.find(m=>m.key===value('dest')).zh,window.EtripsMarkets.find(m=>m.key===value('dest')).en].join(' / '):'其他 / Other'),'预算 / Budget: '+value('budget'),value('message')].join('\n') : [value('message'),context?.text||''].filter(Boolean).join('\n\n');
       const fields = {route:custom?'定制游需求':(product?'产品咨询 '+product.id:'在线咨询'), date:custom?value('date'):(context?.date||''),name,phone,email,remark,pax:custom?value('pax'):''};
       fields.body = [fields.route,name,phone,email,fields.date,fields.pax,remark].filter(Boolean).join('\n');
+      const customerBody=custom?fields.body:[name,phone,email,context?.date||'',value('message'),context?.customerText||''].filter(Boolean).join('\n');
       const button = form.querySelector('[type="submit"]');
       busy = true; button.disabled = true; form.setAttribute('aria-busy','true');
       say(tip,'正在发送…','Sending…');
@@ -40,7 +41,7 @@
         say(tip,'咨询已交给邮件服务发送，尚未确认预订；请等待顾问回复。','Your enquiry has been accepted by the email service. This is not a confirmed booking; please wait for an advisor’s reply.');
         form.reset();
         if (email) {
-          try { await window.emailjs.send(config.service,config.reply,{name,email,body:fields.body,route:fields.route,date:fields.date}); }
+          try { await window.emailjs.send(config.service,config.reply,{name,email,body:customerBody,route:fields.route,date:fields.date}); }
           catch (_) { say(tip,'咨询已交给邮件服务发送，但确认邮件未发出；请等待顾问回复。','Your enquiry was accepted, but the acknowledgement email could not be sent. Please wait for an advisor’s reply.'); }
         }
       } catch (_) {

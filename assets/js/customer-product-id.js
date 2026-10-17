@@ -34,5 +34,12 @@
  }
  links(document);
  new MutationObserver(records=>{for(const record of records){if(record.type==='attributes')links(record.target);else for(const node of record.addedNodes)links(node);}}).observe(document.documentElement,{subtree:true,childList:true,attributes:true,attributeFilter:['href']});
- window.EtripsCustomerProductId=Object.freeze({mask,resolve});
+ const version=t=>mask('v2-version:'+t.id+'|'+t.v2Public.revision+'|'+t.v2Public.contentHash).replace('ET-','V-');
+ const plan=(t,o)=>mask('v2-plan:'+version(t)+'|'+o.key).replace('ET-','P-');
+ function query(t,state={},kind='id'){
+  const q=new URLSearchParams({[kind]:t.id,v:version(t)}),o=t.v2Public.offers.find(o=>o.key===state.offer);
+  if(o)q.set('plan',plan(t,o));
+  for(const k of ['date','view','tab'])if(state[k])q.set(k,state[k]);return q;
+ }
+ window.EtripsCustomerProductId=Object.freeze({mask,resolve,version,plan,query});
 })();
