@@ -210,16 +210,36 @@ function calHTML(t, opts){
   function yearCollectionsHTML(cats,activeId,dest){
     const catOrder=['超值团','纯玩团','机票套餐','英文专线','签证','其他'];
     const sortKeys=(obj,order)=>order.filter(k=>k in obj).concat(Object.keys(obj).filter(k=>!order.includes(k)));
-    const group=(label,body,kind="")=>`<div class="rp-group ${kind}"><div class="rp-group-title" tabindex="0" role="button">${esc(label)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${body}</div></div>`;
+    const group=(label,body,kind="",open=false)=>`<div class="rp-group ${kind}${open?' open':''}"><div class="rp-group-title" tabindex="0" role="button">${esc(label)}<span class="rp-arrow">${open?'▼':'▶'}</span></div><div class="rp-group-body">${body}</div></div>`;
     const routes=items=>items.slice().sort(auCompare).map(t=>`<div class="rp-route${t.id===activeId?' active':''}" data-tour="${esc(t.id)}" tabindex="0" role="button">${esc(lang==='zh'?t.nameZh:(t.nameEn||t.nameZh))}</div>`).join('');
     const catEn={'超值团':'Value Tours','纯玩团':'No-shopping Tours','机票套餐':'Flight Packages','英文专线':'English Tours','私家团':'Private Tours','其他':'Other Tours'};
-    return yearCollections(cats).map(([year,types])=>group(year==='general'?(lang==='zh'?'其他年度／常规产品':'Other Editions & General Tours'):(year+(lang==='zh'?' 产品':' Tours')),
-      sortKeys(types,catOrder).map(cat=>{
-        const subs=types[cat];let body;
+    const order=dest==='中国'?CN_ORDER:ASIA_ORDER;
+    const byCategory={};
+    yearCollections(cats).forEach(([year,types])=>Object.entries(types).forEach(([cat,subs])=>{
+      (byCategory[cat]||=[]).push([year,subs]);
+    }));
+    const categoryBody=sortKeys(cats,catOrder).map(cat=>{
+      const years=(byCategory[cat]||[]).map(([year,subs])=>{
+        let body;
         if(['机票套餐','英文专线'].includes(cat))body=routes([...new Map(Object.values(subs).flat().map(t=>[t.id,t])).values()]);
-        else body=sortKeys(subs,dest==='中国'?CN_ORDER:ASIA_ORDER).map(sub=>sub==='__flat__'?routes(subs[sub]):group(sub,routes(subs[sub]))).join('');
-        return group(lang==='zh'?cat:(catEn[cat]||cat),body);
-      }).join(''),'rp-year')).join('');
+        else body=sortKeys(subs,order).map(sub=>{
+          const rows=subs[sub]||[];
+          if(sub==='__flat__')return routes(rows);
+          const listing=routes(rows);
+          return listing?group(sub,listing):'';
+        }).join('');
+        if(!body)return '';
+        const label=year==='general'?(lang==='zh'?'其他年度／常规产品':'Other Editions & General Tours'):(year+(lang==='zh'?' 产品':' Tours'));
+        return group(label,body,'rp-year');
+      }).join('');
+      return years?group(lang==='zh'?cat:(catEn[cat]||cat),years):'';
+    }).join('');
+    // Keep seasonal collections directly under the destination heading so
+    // Asia holiday products are pinned above the normal category tree.
+    const promoted=seasonalNavigation({[dest]:cats},dest);
+    const destinationBody=promoted+categoryBody;
+    const destinationNode=destinationBody?group(lang==='zh'?dest:(window.EtripsMarkets.find(m=>m.zh===dest)?.en||dest),destinationBody,'rp-destination',false):'';
+    return destinationNode;
   }
 
   // 构建树数据(仅按当前目的地)
@@ -328,7 +348,96 @@ function calHTML(t, opts){
   }
 
   // 渲染左栏树(仅当前目的地: 类目 -> 子区域 -> 产品)
-  function renderTree(tree, activeId, activeDest) {
+  function seasonalNavigation(tree, activeDest) {
+    const seasons = window.EtripsSeasons;
+    if (!seasons) return "";
+    const destinationItems = seasons.treeItems(tree[activeDest] || {});
+    if (!destinationItems.length) return "";
+    const allowed = new Set(destinationItems.map((t) => t.id));
+    const seasonsHere = seasons.available(destinationItems);
+    const regionKeys = { "澳洲":"australia", "新西兰":"nz", "中国":"china", "亚洲":"asia", "欧洲":"europe", "邮轮":"cruise", "美洲":"america", "特别订制":"special", "中东／非洲":"middleeastafrica", "其他":"other" };
+    const params = new URLSearchParams(location.search);
+    const activeTheme = params.get("theme") || params.get("selectedTheme");
+    const activeColumn = params.get("column") || params.get("section") || params.get("category");
+    const activeType = params.get("packageType") || params.get("productType");
+    const selections = [];
+    if (activeTheme) {
+      const definition = seasons.definition(activeTheme) || seasons.collections.find((x) => x.codes.includes(activeTheme));
+      if (definition) selections.push({ label: definition.zh, match: (t) => seasons.matches(t, definition.key) });
+    }
+    if (activeColumn) selections.push({
+      label: activeColumn + "专栏",
+      match: (t) => [t.column, t.columnName, t.editorialColumn, t.editorialColumnName, t.category].some((x) => String(x || "").toLowerCase() === activeColumn.toLowerCase()) || Object.keys(tree[activeDest] || {}).some((x) => x.toLowerCase() === activeColumn.toLowerCase())
+    });
+    if (activeType) {
+      const typeLabels = { MULTI_DAY: "多日游套餐", TICKET_ACTIVITY: "门票与单项活动", PRIVATE_TOUR: "私家团" };
+      selections.push({ label: typeLabels[activeType] || activeType, match: (t) => String(t.productType || "").toLowerCase() === activeType.toLowerCase() });
+    }
+    const routeHTML = (products, collection) => products.filter((t) => allowed.has(t.id)).map((t) => {
+        const routeParams = new URLSearchParams(location.search);
+        routeParams.set("d", regionKeys[activeDest] || "other");
+        routeParams.set("id", t.id);
+        if (collection?.key) routeParams.set("theme", collection.key);
+        return `<a class="rp-season-route" data-tour="${esc(t.id)}" href="list.html?${esc(routeParams.toString())}">${esc(lang === "zh" ? t.nameZh : (t.nameEn || t.nameZh))}</a>`;
+      }).join("");
+    const groupHTML = (label, body, className = "", icon = "") => body
+      ? `<div class="rp-group ${className}"><div class="rp-group-title" tabindex="0" role="button">${icon ? icon + " " : ""}${esc(label)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${body}</div></div>`
+      : "";
+    const categoryOrder = ["超值团", "纯玩团", "私家团", "英文专线", "机票套餐", "签证", "其他"];
+    const categoryFor = new Map();
+    for (const [cat, subs] of Object.entries(tree[activeDest] || {})) {
+      for (const rows of Object.values(subs || {})) for (const t of rows || []) {
+        if (!categoryFor.has(t.id)) categoryFor.set(t.id, cat.startsWith("__") ? EtripsPrivateTours.category(t, catShort(t.category)) : cat);
+      }
+    }
+    const nestedProducts = (products, collection) => {
+      // Australia has an explicit legacy presentation requirement: seasonal
+      // promotions stay alongside area navigation and do not gain year labels.
+      if (activeDest === "澳洲") return routeHTML(products, collection);
+      const byCategory = new Map();
+      for (const t of products.filter((x) => allowed.has(x.id))) {
+        const cat = categoryFor.get(t.id) || EtripsPrivateTours.category(t, catShort(t.category)) || "其他";
+        if (!byCategory.has(cat)) byCategory.set(cat, new Map());
+        const byYear = byCategory.get(cat);
+        const years = [...new Set((t.navigationYears || []).filter((y) => /^20\d{2}$/.test(String(y))))];
+        for (const year of years.length ? years : ["general"]) {
+          if (!byYear.has(year)) byYear.set(year, []);
+          if (!byYear.get(year).some((x) => x.id === t.id)) byYear.get(year).push(t);
+        }
+      }
+      const cats = [...byCategory.keys()].sort((a, b) => {
+        const ai = categoryOrder.indexOf(a), bi = categoryOrder.indexOf(b);
+        return (ai < 0 ? categoryOrder.length : ai) - (bi < 0 ? categoryOrder.length : bi) || a.localeCompare(b, "zh");
+      });
+      return cats.map((cat) => {
+        const byYear = byCategory.get(cat);
+        const years = [...byYear.keys()].sort((a, b) => a === "general" ? 1 : b === "general" ? -1 : Number(a) - Number(b));
+        const yearGroups = years.map((year) => {
+          const label = year === "general" ? (lang === "zh" ? "常规产品" : "General Tours") : year + (lang === "zh" ? " 产品" : " Tours");
+          const routes = routeHTML(byYear.get(year), collection);
+          return groupHTML(label, routes, "rp-year");
+        }).join("");
+        const catLabels = { "超值团":"Value Tours", "纯玩团":"No-shopping Tours", "机票套餐":"Flight Packages", "英文专线":"English Tours", "私家团":"Private Tours", "其他":"Other Tours" };
+        return groupHTML(lang === "zh" ? cat : (catLabels[cat] || cat), yearGroups, "rp-cat");
+      }).join("");
+    };
+    const makeGroup = (collection, products, title) => {
+      const label = title || (lang === "zh" ? collection.zh : collection.en);
+      const body = nestedProducts(products, collection);
+      return groupHTML(label, body, "rp-sub rp-holiday-collection", collection?.icon || "");
+    };
+    let items;
+    if (selections.length) {
+      const matches = destinationItems.filter((t) => selections.every((selection) => selection.match(t)));
+      const title = lang === "zh" ? selections.map((x) => x.label).join(" · ") + "产品" : selections.map((x) => x.label).join(" · ");
+      items = matches.length ? [makeGroup(null, matches, title)] : [];
+    } else {
+      items = seasonsHere.map((collection) => makeGroup(collection, collection.items));
+    }
+    return items.join("");
+  }
+
+  function renderTree(tree, activeId, activeDest, activeTheme) {
     const nav = document.getElementById("list-tree");
     if (!tree[activeDest]) {
       nav.innerHTML = '<div class="rp-coming-box">'+(lang==='zh'?'该目的地暂无已上线线路':'No published tours in this region')+'</div>';
@@ -341,6 +450,7 @@ function calHTML(t, opts){
                    (cats["__na__"] && Object.keys(cats).length === 1) ||
                    (cats["__au__"] && Object.keys(cats).length === 1); // 新西兰/特别订制/欧洲/美加/澳洲 无类目层
     let catHtml = "";
+    if (!['中国','亚洲'].includes(activeDest)) catHtml = seasonalNavigation(tree, activeDest);
     // 子类排序(中国按 CN_ORDER, 欧洲按 EU_ORDER, 亚洲按 ASIA_ORDER, 美加按 NA_ORDER, 澳洲按 AU_ORDER, 其余按插入序)
     const subOrder = (dest) =>
       dest === "中国" ? CN_ORDER : dest === "欧洲" ? EU_ORDER : dest === "亚洲" ? ASIA_ORDER : dest === "美洲" ? NA_ORDER : dest === "澳洲" ? AU_ORDER : null;
@@ -349,10 +459,12 @@ function calHTML(t, opts){
     const catKeys = CAT_ORDER.filter((k) => k in cats).concat(Object.keys(cats).filter((k) => !CAT_ORDER.includes(k)));
     catKeys.forEach((c) => {
       const subs = cats[c];
+      if (!Object.values(subs || {}).some((rows) => Array.isArray(rows) && rows.length)) return;
       // 机票套餐类目: 直接全部平铺(不按地区子类分组)
       if (c === "机票套餐") {
         const allItems = [];
         Object.values(subs).forEach((arr) => arr.forEach((t) => allItems.push(t)));
+        if (!allItems.length) return;
         allItems.sort((a, b) => (a.days||0)-(b.days||0) || (a.nameZh||'').localeCompare(b.nameZh||'', 'zh'));
         const flatHtml = allItems
           .map(
@@ -367,6 +479,7 @@ function calHTML(t, opts){
       if (c === "英文专线") {
         const allItems = [];
         Object.values(subs).forEach((arr) => arr.forEach((t) => allItems.push(t)));
+        if (!allItems.length) return;
         allItems.sort((a, b) => (a.days||0)-(b.days||0) || (a.nameZh||'').localeCompare(b.nameZh||'', 'zh'));
         const flatHtml2 = allItems
           .map(
@@ -385,6 +498,7 @@ function calHTML(t, opts){
       subKeys.forEach((s) => {
         if (s === "滑雪") return; // 滑雪已内嵌悉尼及周边下, 不在澳洲顶层渲染
         const items = (subs[s] || []).slice().sort(activeDest==='澳洲'?auCompare:((a, b) => (a.days||0)-(b.days||0) || (a.nameZh||'').localeCompare(b.nameZh||'', 'zh'))); // 天数升序; 天数相同按名称(稳定); 滑雪项剔除
+        if (!items.length) return;
         const itemHtml = items
           .map(
             (t) =>
@@ -416,33 +530,21 @@ function calHTML(t, opts){
             _body=routes(groups.tours)+collection(lang==='zh'?'门票与单项活动':'Tickets & Activities',groups.tickets);
             if(ski.length){const sg=auGroups(ski);_body+=collection(lang==='zh'?'滑雪':'Skiing',sg.tours)+collection(lang==='zh'?'滑雪门票与单项活动':'Ski Tickets & Activities',sg.tickets);}
           }
-          subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${_body}</div></div>`;
+          if (_body) subHtml += `<div class="rp-group"><div class="rp-group-title" tabindex="0" role="button">${esc(s)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${_body}</div></div>`;
         }
       });
       // 新西兰/特别订制/欧洲: 不渲染类目层(隐藏 __nz__/__sp__/__eu__ 占位), 直接显示子类
       if (isFlat) {
-        catHtml += subHtml;
-      } else {
+        if (subHtml) catHtml += subHtml;
+      } else if (subHtml) {
         catHtml += `<div class="rp-group rp-cat"><div class="rp-group-title" tabindex="0" role="button">${esc(c)}<span class="rp-arrow">▶</span></div><div class="rp-group-body">${subHtml}</div></div>`;
       }
     });
     if(['中国','亚洲'].includes(activeDest))catHtml=yearCollectionsHTML(cats,activeId,activeDest);
     nav.innerHTML = catHtml;
     // 默认展开第一个类目/子类(特别订制不强制展开签证下拉)
-    const firstOpen = (isFlat && activeDest !== "特别订制") ? nav.querySelector(".rp-group") : nav.querySelector(".rp-cat");
-    if (firstOpen) {
-      firstOpen.classList.add("open");
-      const ar = firstOpen.querySelector(":scope > .rp-group-title .rp-arrow");
-      if (ar) ar.textContent = "▼";
-    }
-    // A direct AU product link opens its region and ticket collection, without duplicate entries.
-    if(['澳洲','中国','亚洲'].includes(activeDest)){
-      const selected=[...nav.querySelectorAll('.rp-route')].find(r=>r.dataset.tour===activeId);
-      if(selected){
-        nav.querySelectorAll('.rp-group.open').forEach(g=>{g.classList.remove('open');g.querySelector(':scope > .rp-group-title .rp-arrow').textContent='▶';});
-        let g=selected.closest('.rp-group');while(g){g.classList.add('open');g.querySelector(':scope > .rp-group-title .rp-arrow').textContent='▼';g=g.parentElement.closest('.rp-group');}
-      }
-    }
+    // Navigation groups remain collapsed until the employee opens a title.
+    // Selecting a product must not expand its ancestors automatically.
     // 绑定展开/收起 (互斥手风琴: 点击同层只展开一个, 自动收起其他)
     nav.querySelectorAll(".rp-group-title").forEach((ti) => {
       ti.addEventListener("click", () => {
@@ -631,7 +733,9 @@ function calHTML(t, opts){
       lang = window.Etrips.getLang();
     const q = new URLSearchParams(location.search).get("d");
     const urlId = new URLSearchParams(location.search).get("id");
-    const tree = buildTree();
+    const baseTree = buildTree();
+    const seasonKey = new URLSearchParams(location.search).get("theme");
+    const tree = baseTree;
     // ?d= 支持英文键(australia)或中文(澳洲); 默认中国
     const DEST_KEY_ZH = { australia: "澳洲", nz: "新西兰", china: "中国", asia: "亚洲", europe: "欧洲", america: "美洲", middleeastafrica: "中东／非洲", special: "特别订制", cruise: "邮轮", other: "其他", island: "亚洲" };
     let activeDest = DEST_KEY_ZH[q] || (q && tree[q] ? q : tree["中国"] ? "中国" : Object.keys(tree)[0]||"中国");
@@ -672,8 +776,8 @@ function calHTML(t, opts){
       }
     }
     if(['中国','亚洲'].includes(activeDest)&&!(urlId&&validIds.has(urlId))){const first=yearCollections(tree[activeDest]||{})[0];if(first){const cats=first[1],order=['超值团','纯玩团','机票套餐','英文专线','签证','其他'];const key=order.find(k=>k in cats)||Object.keys(cats)[0];const subs=cats[key]||{};const regions=activeDest==='中国'?CN_ORDER:ASIA_ORDER;const sub=regions.find(k=>k in subs)||Object.keys(subs)[0];activeId=(subs[sub]||[]).slice().sort(auCompare)[0]?.id||null;}}
-    renderTree(tree, activeId, activeDest);
-    document.getElementById("list-tree").insertAdjacentHTML("afterbegin",EtripsPrivateTours.shortcuts(T,lang,location.search));
+    renderTree(tree, activeId, activeDest, seasonKey);
+    document.getElementById("list-tree").insertAdjacentHTML("beforeend",EtripsPrivateTours.shortcuts(T,lang,location.search));
     if (activeId) renderDetail(activeId);
     else {
       const market=window.EtripsMarkets.find(m=>m.zh===activeDest),name=market?.[lang]||activeDest;

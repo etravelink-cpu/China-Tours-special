@@ -1,0 +1,5 @@
+.rp-holiday-collection>.rp-group-title{background:#fbf5ee;border-color:#eadbc4;color:#75502b;font-weight:700}
+.rp-holiday-collection>.rp-group-title:hover,.rp-holiday-collection.open>.rp-group-title{background:#f5e8d6}
+.rp-season-route{display:block;padding:8px 12px 8px 18px;color:var(--ink,#263238);font-size:13px;line-height:1.45;text-decoration:none;border-left:2px solid transparent}
+.rp-season-route:hover,.rp-season-route:focus-visible{background:#f5f7f4;border-left-color:#a77a38;color:#684b25;outline:none}
+.rp-season-route:focus-visible,.rp-holiday-collection .rp-group-title:focus-visible{outline:2px solid #ad843d;outline-offset:2px}
