@@ -28,8 +28,9 @@
   }
   const o=v.offers.find(x=>q.has('plan')?window.EtripsCustomerProductId.plan(t,x)===q.get('plan'):x.key===q.get('offer')),date=q.get('date')||'';
   if(!o)return {valid:false,error:'无法匹配所选套餐，请返回产品重新选择。',id};
-  if(date&&!window.EtripsRecurringCalendar?.selectable(o,date))return {valid:false,error:'该日期已不适用于当前套餐，请返回产品重新选择。',id};
-  const end=date?window.EtripsRecurringCalendar.monthDates(o,date.slice(0,7)).find(d=>d.date===date)?.endDate:'';
+  const sharedDate=date&&v.sharedDatesSelectable===true&&Array.isArray(v.sharedDepartureDates)&&v.sharedDepartureDates.some(x=>x.date===date&&x.selectable===true);
+  if(date&&!sharedDate&&!window.EtripsRecurringCalendar?.selectable(o,date))return {valid:false,error:'该日期已不适用于当前套餐，请返回产品重新选择。',id};
+  const end=date&&!sharedDate?window.EtripsRecurringCalendar.monthDates(o,date.slice(0,7)).find(d=>d.date===date)?.endDate:'';
   const lines=[t.nameZh,'产品 / Product: '+t.id,'方案 / Package: '+o.label+' · '+o.days+'日',date?'意向日期 / Date: '+date+(end?' — '+end:''):'日期 / Date: 待咨询确认',o.leadDisplay||t.price,v.displayNotice||'','版本 / Version: '+v.version,'Revision: '+v.revision,'Content: '+v.contentHash];
   return attachProductLink({valid:true,id,date,offer:o.key,view:/^\d{4}-(0[1-9]|1[0-2])$/.test(q.get('view')||'')?q.get('view'):(date?date.slice(0,7):window.EtripsRecurringCalendar.initialMonth(o)),tab:['dates','itinerary','map','terms'].includes(q.get('tab'))?q.get('tab'):'dates',revision:v.revision,hash:v.contentHash,text:lines.join('\n'),summary:lines.slice(0,-3).join('\n')});
  }

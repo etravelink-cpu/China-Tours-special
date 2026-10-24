@@ -75,7 +75,8 @@
   if(masked&&matched)raw.offer=d.offers.find(o=>publicId.plan(t,o)===q.get('plan'))?.key||'__INVALID_PLAN__';
   const fallback=d.offers.find(o=>o.default)||d.offers[0];
   const matchedOffer=d.offers.find(o=>o.key===raw.offer),offer=matchedOffer||fallback;
-  const date=matchedOffer&&raw.date&&root.EtripsRecurringCalendar.selectable(offer,raw.date)?raw.date:'';
+  const sharedDate=d.sharedDatesSelectable===true&&Array.isArray(d.sharedDepartureDates)&&d.sharedDepartureDates.some(x=>x.date===raw.date&&x.selectable===true);
+  const date=matchedOffer&&raw.date&&(sharedDate||root.EtripsRecurringCalendar.selectable(offer,raw.date))?raw.date:'';
   return {offer:offer.key,date,view:/^\d{4}-(0[1-9]|1[0-2])$/.test(raw.view||'')?raw.view:(date?date.slice(0,7):root.EtripsRecurringCalendar.initialMonth(offer)),tab:tabs.includes(raw.tab)?raw.tab:'dates',invalid:!!(explicit&&!matched||raw.offer&&!matchedOffer||raw.date&&!date)};
  }
  function save(t,state){memory.set(identity(t),{...state});}
@@ -465,7 +466,7 @@
   const [year,month]=view.split('-').map(Number); const count=new Date(Date.UTC(year,month,0)).getUTCDate(),lead=(new Date(Date.UTC(year,month-1,1)).getUTCDay()+6)%7;
   const cells=Array.from({length:lead},()=>'<span aria-hidden="true"></span>');
   for(let day=1;day<=count;day++){
-   const date=view+'-'+String(day).padStart(2,'0'), d=offer.departures.find(x=>x.date===date),sold=d?.status==='soldout',blocked=d?.selectable===false,label=EtripsPublicDisplay.dateLabel(d).replace('出发日期',ticket?'使用日期':'出发日期');
+   const date=view+'-'+String(day).padStart(2,'0'), d=offer.departures.find(x=>x.date===date),sold=d?.status==='soldout',blocked=d?.selectable===false,label=EtripsPublicDisplay.dateLabel(d).replace('出发日期',ticket?'使用日期':offer.dateDisplayLabel||'出发日期');
    cells.push(d?'<button type="button" class="v2-date'+(sold?' soldout':blocked?' unavailable':' highlight')+'" data-date="'+date+'" '+(sold||blocked?'disabled':'')+' aria-label="'+date+' '+esc(label)+'">'+day+(sold?'<small>售罄</small>':blocked?'<small>不可选</small>':'')+'</button>':'<span class="v2-day-off">'+day+'</span>');
   }
   return '<div class="v2-cal-nav"><button type="button" data-month="-1" aria-label="上个月">‹</button><b>'+year+'年'+month+'月</b><button type="button" data-month="1" aria-label="下个月">›</button></div><div class="v2-cal-grid">'+['一','二','三','四','五','六','日'].map(x=>'<b>周'+x+'</b>').join('')+cells.join('')+'</div>';
@@ -544,6 +545,7 @@
    return state;
   }
   const tabPrefix='v2-'+t.id+'-'+(box.id||'detail');
+  const dateSelectable=(offer,date)=>data.sharedDatesSelectable===true&&sharedDates.some(x=>x.date===date&&x.selectable===true)||EtripsRecurringCalendar.selectable(offer,date);
   box.innerHTML='<article class="v2-detail"><div class="v2-hero">'+heroHTML(t)+'<div><p class="v2-tags">'+t.tags.map(esc).join(' · ')+'</p><h2>'+esc(t.nameZh)+'</h2>'+(offers.length>1?'<p><b>'+offers.map(o=>esc(offerText(o))).join(' ／ ')+'</b></p>':'')+'<section class="v2-release-note">'+esc(data.displayNotice||'')+'</section><section class="v2-intro"><h3>行程亮点</h3>'+highlights(t.introZh)+'</section><div class="v2-overview-actions"><a class="btn btn-gold v2-consult-link" target="_blank" rel="noopener noreferrer" href="contact.html?tour='+encodeURIComponent(t.id)+'"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11.5a8 8 0 0 1-8 8H4l1.8-4A8 8 0 1 1 20 11.5Z"/><path d="M8 10h8M8 14h5"/></svg>咨询本行程</a>'+EtripsBrochureMenu.render(t.brochures)+'</div></div></div><div class="v2-tabs" role="tablist" aria-label="产品详情">'+[['dates','日期与价格'],['itinerary','行程安排'],['map','行程地图'],['terms','参团须知']].map(([key,text],i)=>'<button type="button" role="tab" id="'+tabPrefix+'-tab-'+key+'" aria-controls="'+tabPrefix+'-panel-'+key+'" tabindex="'+(i?-1:0)+'" aria-selected="'+(!i)+'" data-v2-tab="'+key+'">'+text+'</button>').join('')+'</div><section role="tabpanel" tabindex="0" id="'+tabPrefix+'-panel-dates" aria-labelledby="'+tabPrefix+'-tab-dates" data-v2-panel="dates"><label class="v2-offer-control">选择套餐 <select class="v2-offer-select" aria-label="选择套餐">'+offers.map(o=>'<option value="'+esc(o.key)+'">'+esc(offerText(o))+'</option>').join('')+'</select></label><div class="v2-date-summary"></div><div class="v2-calendar"></div><p class="v2-cal-hint"><span class="v2-cal-key"></span>出发日期 · 斜线为售罄；余位请咨询。</p><p class="v2-selected-date" role="status"></p><a class="btn btn-primary v2-booking-link" hidden>咨询所选日期</a><div class="v2-selected-quotes"></div>'+(conditionText(data.includes,'includes').trim()?'<h3>费用包含</h3>'+paras(conditionText(data.includes,'includes')):'')+(conditionText(data.excludes,'excludes').trim()?'<h3>费用不含</h3>'+paras(conditionText(data.excludes,'excludes')):'')+feeContactNote()+'</section><section role="tabpanel" tabindex="0" id="'+tabPrefix+'-panel-itinerary" aria-labelledby="'+tabPrefix+'-tab-itinerary" data-v2-panel="itinerary" hidden><h3 class="v2-arrangement-title">行程安排</h3><h3 class="v2-daily-title">每日行程 <small>'+t.days+'日行程</small></h3>'+ (offers.some(o=>o.flights)?'<p>含机票套餐包含前后航程及下列地接行程；航班、出发机场及时间以最终预订确认为准。</p>':'')+''+offers.filter(o=>o.flights).map(o=>'<details open><summary>'+esc(o.label)+' · 前后航程</summary>'+paras(o.flights)+'</details>').join('')+'<div class="v2-timeline">'+t.itinerary.map(dayHTML).join('')+'</div>'+'</section><section role="tabpanel" tabindex="0" id="'+tabPrefix+'-panel-map" aria-labelledby="'+tabPrefix+'-tab-map" data-v2-panel="map" hidden><h3>行程地图</h3><div class="v2-mini-map" aria-label="行程地图"></div><ol class="v2-route-stops">'+(data.routeMaps?.[0]?.points||[]).map(p=>'<li>'+esc(p.name)+'</li>').join('')+'</ol><p class="v2-route-note">'+esc(data.routeMaps?.[0]?.note||'')+'</p></section><section role="tabpanel" tabindex="0" id="'+tabPrefix+'-panel-terms" aria-labelledby="'+tabPrefix+'-tab-terms" data-v2-panel="terms" hidden><h3>参团须知</h3><h4 class="v2-offer-terms-title">方案适用条件</h4><div class="v2-notice-offers">'+offers.map(o=>'<section class="v2-notice-offer"><header><h4>'+esc(o.label)+'</h4><span>'+o.days+'日</span></header><div class="v2-notice-scope">'+notices(publicScope(o.scope))+'</div>'+notices(publicTerms(o.terms))+'</section>').join('')+'</div><section class="v2-booking-notices"><h3>参团及退改须知</h3>'+ (offers.some(o=>o.flights)?'<p class="v2-notice-applies">以下地接条款请结合所选套餐适用条件查看；含机票套餐同时参阅上方对应条件。</p>':'')+''+notices(data.bookingNotes)+'</section>'+(conditionText(data.cancellation,'cancellation').trim()?'<section class="v2-booking-notices"><h3>退改规定</h3>'+notices(conditionText(data.cancellation,'cancellation'))+'</section>':'')+'</section>'+(opts.showFullDetail!==false?'<div class="v2-full-detail-action"><a class="btn btn-primary" target="_blank" rel="noopener noreferrer" href="detail.html?id='+encodeURIComponent(t.id)+'">查看完整详情页</a></div>':'')+'</article>';
   setupHero(box);
   box.querySelector('.v2-offer-select').value=selectedOffer.key;
@@ -593,7 +595,7 @@
   function refresh(){
    if(!alive())return;
    if(selectedOffer.calendarRules||selectedOffer.fixedRules)selectedOffer.departures=EtripsRecurringCalendar.monthDates(selectedOffer,view);
-   const invalidDate=!!requestedDate&&!EtripsRecurringCalendar.selectable(selectedOffer,requestedDate);
+   const invalidDate=!!requestedDate&&!dateSelectable(selectedOffer,requestedDate);
    if(invalidDate){requestedDate='';state.invalid=true;}
    refreshConsultation();
    const currentDays=selectedOffer.itinerary||t.itinerary;
@@ -621,13 +623,14 @@
    }
    renderContent(t,selectedOffer,box,offers);
    box.querySelector('.v2-selected-quotes').innerHTML=quoteHTML(offers,selectedOffer.key,ticket,data.revision);
+   if(sharedDates.length)box.querySelectorAll('.v2-price-note').forEach(note=>{note.textContent='价格及日期已确认；实时余位与报名办理请咨询。';});
    const calendarOffer=sharedDates.length?{...selectedOffer,dateDisplayLabel:data.sharedDateLabel||'出发日期',departures:sharedDates,fixedDepartures:sharedDates}:selectedOffer;
-   box.querySelector('.v2-date-summary').innerHTML=sharedDates.length?'<p><b>产品级'+esc(data.sharedDateLabel||'出发日期')+'已核验；方案适用关系及余位请咨询</b></p>':EtripsPublicDisplay.summary(selectedOffer);
+   box.querySelector('.v2-date-summary').innerHTML=sharedDates.length?'<p><b>A、AB、AA团价格及产品级'+esc(data.sharedDateLabel||'出发日期')+'已确认；日期可选</b></p>':EtripsPublicDisplay.summary(selectedOffer);
    const calendarHint=box.querySelector('.v2-cal-hint');
-   if(sharedDates.length)calendarHint.textContent='日期已核验为本产品班期；A／AB／AA方案适用关系、余位及预订条件请咨询。';
+   if(sharedDates.length)calendarHint.textContent='已确认日期可选。实时余位及报名办理请咨询。';
    const cal=box.querySelector('.v2-calendar');cal.innerHTML=calendarHTML(calendarOffer,view,ticket);
    cal.querySelectorAll('[data-month]').forEach(b=>b.addEventListener('click',()=>{const [y,m]=view.split('-').map(Number),date=new Date(Date.UTC(y,m-1+Number(b.dataset.month),1));view=date.toISOString().slice(0,7);refresh();}));
-   if(!sharedDates.length)cal.querySelectorAll('[data-date]').forEach(b=>b.addEventListener('click',()=>{if(!EtripsRecurringCalendar.selectable(selectedOffer,b.dataset.date)){refresh();return;}requestedDate=b.dataset.date;state.invalid=false;refresh();}));
+   cal.querySelectorAll('[data-date]').forEach(b=>b.addEventListener('click',()=>{if(!dateSelectable(selectedOffer,b.dataset.date)){refresh();return;}requestedDate=b.dataset.date;state.invalid=false;refresh();}));
    cal.querySelectorAll('[data-date]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.date===requestedDate)));
    if(ticket){
     const ticketLabels=data.presentationRules?.origin==='SYSTEM'?{}:data.presentationRules?.labels||{};
