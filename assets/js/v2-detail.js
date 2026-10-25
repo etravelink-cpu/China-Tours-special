@@ -579,7 +579,7 @@
   const offerText=o=>o.label==='标准行程'?(ticket?say('门票／活动','Ticket / activity'):o.days+say('日行程',' days')):(new RegExp('^'+o.days+'日方案$').test(o.label)?o.days+say('日方案','-day option'):o.label+' · '+o.days+say('日',' days'));
   function saveState(){
    const state={offer:selectedOffer.key,date:requestedDate,view,tab:activeTab};EtripsProductSelection.save(t,state);
-   const q=new URLSearchParams(location.search);for(const key of ['id','offer','revision','hash','date','view','tab'])q.delete(key);
+   const q=new URLSearchParams(location.search);for(const key of ['id','offer','revision','hash','v','plan','date','view','tab'])q.delete(key);
    for(const [key,value] of EtripsProductSelection.query(t,state))q.set(key,value);
    history.replaceState(history.state,'',location.pathname+'?'+q.toString()+location.hash);
    return state;
