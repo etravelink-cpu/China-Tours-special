@@ -335,8 +335,12 @@
   const amount=p.amount;
   return amount!==null&&amount!==undefined&&String(amount).trim()!==''&&Number.isFinite(Number(amount))&&Number(amount)>0&&!!p.currency&&!!String(p.label||'').trim();
  }
+ function priceOrder(p){
+  if(Number.isFinite(p.displayOrder))return p.displayOrder;
+  const label=p.label||'';return /成人|adult/i.test(label)?0:/[儿兒]童.*不[占佔]床|child.*without/i.test(label)?20:/[儿兒]童|child/i.test(label)?10:/[婴嬰][儿兒]|infant/i.test(label)?30:/单.*房|單.*房|single/i.test(label)?40:50;
+ }
  function referencePriceGroups(value){
-  return (value?.priceGroups||[]).map(g=>({...g,rows:g.rows.filter(p=>g.kind==='FARE'||visibleExtra(p))})).filter(g=>g.rows.length);
+  return (value?.priceGroups||[]).map(g=>({...g,rows:g.rows.filter(p=>g.kind==='FARE'||visibleExtra(p)).sort((a,b)=>priceOrder(a)-priceOrder(b))})).filter(g=>g.rows.length);
  }
 
  function conditionText(value,kind){
@@ -375,66 +379,32 @@
 
  function dayQuoteHTML(offers,selectedKey,revision=''){
   if(!offers.length)return '';
-  // This approved revision has two seasonal reference fares, not two offers.
-  // Keep its customer display to one concise row per season; internal offer
-  // titles and supplier passenger labels belong only in the staff workspace.
-  if(revision==='6ce42b90-906d-4551-aefb-ff5bb92ac1d2'&&offers.length===1){
-   // Customer table follows the existing compact quote layout: season rows,
-   // unit-specific tables, and only customer-safe item labels.
-   const prices=offers[0].prices.map(p=>priceView({...p,_displayRevision:revision}));
-   const seasonal=prices.filter(p=>p.lead&&['淡季','旺季'].includes(p.seasonLabel));
-   const bySeason=new Map(seasonal.map(p=>[p.seasonLabel,p]));
-   if(seasonal.length===2&&bySeason.size===2&&bySeason.has('淡季')&&bySeason.has('旺季')){
-    const money=p=>{const valid=['FIXED','ZERO','FREE'].includes(p.state)&&p.amount!==null&&p.amount!==undefined&&String(p.amount).trim()!==''&&Number.isFinite(Number(p.amount))&&Number(p.amount)>=0;return valid?new Intl.NumberFormat('en-AU',{minimumFractionDigits:2,maximumFractionDigits:4}).format(Number(p.amount))+' '+(p.currency||''):'价格请咨询';};
-    const unit=p=>({PER_PERSON:'／人',PER_ROOM:'／房',PER_NIGHT:'／晚',PER_DAY:'／天',PER_ROOM_PER_NIGHT:'／房／晚',PER_PERSON_PER_NIGHT:'／人／晚'}[p.unit]||p.unitLiteral||'');
-    const aliases={
-     '儿童不占床（无早餐） Child Without Bed（No Breakfast)':'儿童不占床（无早餐）',
-     '儿童占床（含早餐）Child With Bed':'儿童占床（含早餐）',
-     '额外接/送机 （2人起，每人价格）Extra Transfer':'额外接送机（2人起）',
-     '综合服务费（大小同价） Service Fee':'综合服务费（大小同价）',
-     '酒店续住（双人房含早/晚） Pre/Post Hotel':'酒店续住（双人房；餐食条件请咨询）',
-     '单人房间差Single Supplement':'单人房差'
-    };
-    const entries=prices.filter(p=>!p.lead&&['淡季','旺季'].includes(p.seasonLabel)).map(p=>({season:p.seasonLabel,name:aliases[p.label]||'其他价格项目（详情请咨询）',amount:money(p)+unit(p),unitGroup:p.unit==='PER_NIGHT'?'night':'person',kind:p.kind}));
-    const formatTable=(caption,items)=>{
-     const columns=[...new Map(items.map(x=>[x.name,x])).values()],fares=columns.filter(x=>x.kind==='FARE'),extras=columns.filter(x=>x.kind!=='FARE');
-     const headers='<tr><th scope="col" rowspan="2">季节</th>'+(fares.length?'<th scope="colgroup" colspan="'+fares.length+'">行程团费</th>':'')+(extras.length?'<th scope="colgroup" class="v2-extra-heading" colspan="'+extras.length+'">附加费用 · 另付</th>':'')+'</tr><tr>'+fares.map(x=>'<th scope="col">'+esc(x.name)+'</th>').join('')+extras.map(x=>'<th scope="col">'+esc(x.name)+'</th>').join('')+'</tr>';
-     const rows=['淡季','旺季'].map(season=>{const ordered=[...fares,...extras],cells=ordered.map(column=>{const item=items.find(x=>x.season===season&&x.name===column.name);return '<td><strong>'+esc(item?item.amount:'—')+'</strong></td>';}).join('');return '<tr><th scope="row">'+season+'</th>'+cells+'</tr>';}).join('');
-     return '<div class="v2-table-scroll v2-price-scroll" role="region" aria-label="'+esc(caption)+'价格，可横向滚动" tabindex="0"><table class="v2-quotes v2-compact-prices v2-season-compact"><caption>'+esc(caption)+'</caption><thead>'+headers+'</thead><tbody>'+rows+'</tbody></table></div>';
-    };
-    const person=entries.filter(x=>x.unitGroup==='person'),night=entries.filter(x=>x.unitGroup==='night');
-    const main=[...['淡季','旺季'].map(season=>{const p=bySeason.get(season);return {season,name:'成人团费',amount:money(p)+unit(p),unitGroup:'person',kind:'FARE'};})];
-    const css='<style>.v2-season-compact{min-width:0;width:100%;table-layout:auto}.v2-season-compact caption{text-align:center;padding:8px 0;color:#536d85}.v2-season-compact th,.v2-season-compact td{min-width:92px!important;padding:10px 12px;white-space:normal;overflow-wrap:anywhere;text-align:left}.v2-season-compact td>strong{white-space:nowrap}.v2-season-compact .v2-extra-heading{background:#fff4e6}.v2-season-note{margin:8px 0;color:#536d85}@media(max-width:600px){.v2-season-compact th,.v2-season-compact td{padding:8px}}</style>';
-    const personTable=formatTable('AUD · 每人',[...main,...person]);
-    const nightTable=night.length?formatTable('AUD · 每晚',night):'';
-    return css+personTable+nightTable+'<p class="v2-season-note" role="note">淡旺季适用出发日期、价格条件及余位请咨询确认。</p>';
-   }
-  }
   const groups=new Map(),labelFor=p=>{
    const aliases={"成人／官网展示价":["成人",""],"成人报名费Tour Fee":["成人","报名费"],"成人报名费":["成人","报名费"],"儿童占床（含早餐）Child With Bed":["儿童占床","含早餐"],"儿童不占床（无早餐） Child Without Bed（No Breakfast)":["儿童不占床","无早餐"],"单人房间差Single Supplement":["单房差",""],"单人房差":["单房差",""],"综合服务费（大小同价） Service Fee":["服务费","成人儿童同价"],"综合服务费（大小同价）":["服务费","成人儿童同价"],"综合服务费":["服务费",""],"酒店续住（双人房含早/晚） Pre/Post Hotel":["酒店续住","双人房 · 含早"],"酒店续住（双人房含早／每晚）":["酒店续住","双人房 · 含早 · 每晚"],"额外接/送机 （2人起，每人价格）Extra Transfer":["额外接送机","2人起 · 每人价格"],"额外接／送机（2人起，每人价格）":["额外接送机","2人起 · 每人价格"]};
-   const alias=aliases[p.label]||[p.label,''];return [p.displayLabel||alias[0],p.displayCondition??alias[1]];
+   const alias=aliases[p.label]||[p.label,''];return [p.seasonLabel?alias[0]:p.displayLabel||alias[0],p.seasonLabel?alias[1]:p.displayCondition??alias[1]];
   };
   offers.forEach(offer=>offer.prices.forEach(original=>{
    const p=priceView(original);if(isExtra(p)&&!visibleExtra(p))return;
    const groupKey=JSON.stringify([p.currency,p.unit,p.unitLiteral||'',p.scopeKey||'']);
    if(!groups.has(groupKey))groups.set(groupKey,{currency:p.currency,unit:p.unit,unitLiteral:p.unitLiteral||'',offers:new Map(),columns:new Map()});
    const group=groups.get(groupKey),[label,condition]=labelFor(p),columnKey=JSON.stringify([label,condition,p.kind,p.chargeBasis||'']);
-   if(!group.columns.has(columnKey))group.columns.set(columnKey,{key:columnKey,label,condition,kind:p.kind,chargeBasis:p.chargeBasis||''});
-   if(!group.offers.has(offer.key))group.offers.set(offer.key,{offer,prices:new Map()});
-   const row=group.offers.get(offer.key),cell=row.prices.get(columnKey)||[];cell.push(p);row.prices.set(columnKey,cell);
+   if(!group.columns.has(columnKey))group.columns.set(columnKey,{key:columnKey,label,condition,kind:p.kind,chargeBasis:p.chargeBasis||'',order:priceOrder(p)});
+   const rowKey=JSON.stringify([offer.key,p.seasonLabel||'']);
+   if(!group.offers.has(rowKey))group.offers.set(rowKey,{offer,season:p.seasonLabel||'',prices:new Map()});
+   const row=group.offers.get(rowKey),cell=row.prices.get(columnKey)||[];cell.push(p);row.prices.set(columnKey,cell);
   }));
   const amount=p=>{const valid=['FIXED','ZERO','FREE'].includes(p.state)&&p.amount!==null&&p.amount!==undefined&&String(p.amount).trim()!==''&&Number.isFinite(Number(p.amount))&&Number(p.amount)>=0;return p.state==='ENQUIRY'?'请咨询':!valid?'金额请咨询':new Intl.NumberFormat('en-AU',{minimumFractionDigits:2,maximumFractionDigits:4}).format(Number(p.amount))+' '+(p.currency||'');};
   const unitText=g=>g.unitText||({PER_PERSON:'每人',PER_ROOM:'每房',PER_NIGHT:'每晚',PER_DAY:'每日',PER_GROUP:'每团',PER_VEHICLE:'每车',PER_BOOKING:'每单',PER_ROOM_PER_NIGHT:'每房／每晚',PER_PERSON_PER_NIGHT:'每人／每晚'}[g.unit]||g.unitLiteral||'计价方式请咨询');
   return [...groups.values()].map(group=>{
-   const columns=[...group.columns.values()],fares=columns.filter(x=>x.kind==='FARE'&&!['MANDATORY_EXTRA','OPTIONAL_EXTRA'].includes(x.chargeBasis)),extras=columns.filter(x=>!fares.includes(x));
+   const columns=[...group.columns.values()].sort((a,b)=>(a.kind!=='FARE')-(b.kind!=='FARE')||a.order-b.order),fares=columns.filter(x=>x.kind==='FARE'&&!['MANDATORY_EXTRA','OPTIONAL_EXTRA'].includes(x.chargeBasis)),extras=columns.filter(x=>!fares.includes(x));
    const headers=columns.map(x=>'<th scope="col">'+esc(x.label)+(x.condition?'<small>'+esc(x.condition)+'</small>':'')+(x.kind!=='FARE'?'<small>'+esc(x.chargeBasis==='MANDATORY_EXTRA'?'必付':x.chargeBasis==='OPTIONAL_EXTRA'?'按需':'另付')+'</small>':'')+'</th>').join('');
-   const rows=[...group.offers.values()].map(({offer,prices})=>{
-    const primary=offers.length===1&&offer.title?offer.title:offer.label;
+   const rows=[...group.offers.values()].sort((a,b)=>(a.season==='淡季'?0:a.season==='旺季'?1:2)-(b.season==='淡季'?0:b.season==='旺季'?1:2)).map(({offer,prices,season})=>{
+    const primary=season||(offers.length===1&&offer.title?offer.title:offer.label);
     const durationInTitle=offer.days&&new RegExp('(?:^|\\D)'+offer.days+'\\s*[天日]').test(primary);
-    return '<tr'+(offer.key===selectedKey?' class="v2-quote-current"':'')+'><th scope="row">'+esc(primary)+(offer.days&&!durationInTitle?'<small>'+esc(offer.days)+'日</small>':'')+(offer.scope&&offer.scope!=='报价适用日期及附加条件，请咨询顾问确认。'?'<small>'+esc(offer.scope)+'</small>':'')+'</th>'+columns.map(column=>'<td>'+((prices.get(column.key)||[]).map(p=>'<strong>'+esc(amount(p))+'</strong>'+(p.condition?'<details><summary>适用条件</summary><p>'+esc(p.condition)+'</p></details>':'')).join('<br>')||'—')+'</td>').join('')+'</tr>';
+    return '<tr'+(offer.key===selectedKey?' class="v2-quote-current"':'')+'><th scope="row">'+esc(primary)+(offer.days&&!durationInTitle&&!season?'<small>'+esc(offer.days)+'日</small>':'')+(!season&&offer.scope&&offer.scope!=='报价适用日期及附加条件，请咨询顾问确认。'?'<small>'+esc(offer.scope)+'</small>':'')+'</th>'+columns.map(column=>'<td>'+((prices.get(column.key)||[]).map(p=>'<strong>'+esc(amount(p))+'</strong>'+(p.condition?'<details><summary>适用条件</summary><p>'+esc(p.condition)+'</p></details>':'')).join('<br>')||'—')+'</td>').join('')+'</tr>';
    }).join('');
-   return '<style>.v2-compact-prices .v2-quote-current>*{background:#eaf6fc}</style><div class="v2-table-scroll v2-price-scroll" role="region" aria-label="行程报价，可横向滚动" tabindex="0"><table class="v2-quotes v2-compact-prices"><caption>'+esc((group.currency||'币种请咨询')+' · '+unitText(group))+'</caption><thead><tr><th scope="colgroup" rowspan="2">方案／天数</th>'+(fares.length?'<th scope="colgroup" colspan="'+fares.length+'">行程团费</th>':'')+(extras.length?'<th scope="colgroup" class="v2-extra-heading" colspan="'+extras.length+'">附加费用 · 另付</th>':'')+'</tr><tr>'+headers+'</tr></thead><tbody>'+rows+'</tbody></table></div>';
-  }).join('')+'<p class="v2-price-scroll-hint">可左右滑动查看全部价格。</p><p class="v2-price-note">具体日期、适用条件及余位请咨询确认。</p>';
+   return '<style>.v2-compact-prices .v2-quote-current>*{background:#eaf6fc}</style><div class="v2-table-scroll v2-price-scroll" role="region" aria-label="行程报价，可横向滚动" tabindex="0"><table class="v2-quotes v2-compact-prices"><caption>'+esc((group.currency||'币种请咨询')+' · '+unitText(group))+'</caption><thead><tr><th scope="colgroup" rowspan="2">方案／季节</th>'+(fares.length?'<th scope="colgroup" colspan="'+fares.length+'">行程团费</th>':'')+(extras.length?'<th scope="colgroup" class="v2-extra-heading" colspan="'+extras.length+'">附加费用 · 另付</th>':'')+'</tr><tr>'+headers+'</tr></thead><tbody>'+rows+'</tbody></table></div>';
+  }).join('')+'<p class="v2-price-scroll-hint">可左右滑动查看全部价格。</p><p class="v2-price-note">具体日期、适用条件及余位请咨询确认。</p>'+(offers.some(o=>o.prices.some(p=>p.seasonLabel))?'<p role="note">季节与具体日期的适用关系尚未确认，请咨询。</p>':'');
  }
 
 
@@ -521,6 +491,11 @@
   if(value.calendarRules.length){
    html+='<h3>出发安排</h3><ul>';
    value.calendarRules.forEach(rule=>{
+    if(rule.mode==='FIXED'){
+     const months=new Map();for(const date of [...new Set(rule.fixedDates||[])].sort()){if(!/^20\d{2}-\d{2}-\d{2}$/.test(date))continue;const month=date.slice(0,7);if(!months.has(month))months.set(month,[]);months.get(month).push(date);}
+     for(const [month,dates] of months)html+='<li><strong>'+esc((rule.dateDisplayLabel||'出发日期')+' · '+month.replace('-', '年')+'月')+'</strong><p>'+dates.map(date=>'<span style="display:inline-block;margin:4px 10px 4px 0">'+esc(date.slice(8)+'日'+((rule.soldOutDates||[]).includes(date)?'（售罄）':date<today()?'（已过期）':''))+'</span>').join('')+'</p></li>';
+     return;
+    }
     const text=rule.mode==='TEXT'?String(rule.text||''):rule.mode==='DAILY'?'每天出发':rule.mode==='WEEKLY'?(rule.weekdays||[]).map(d=>weekdays[d]||'').join('、')+'出发':(rule.fixedDates||[]).join('、');
     html+='<li><strong>'+esc(text)+'</strong>'+esc(rule.timeZone?' · '+(zones[rule.timeZone]||'出发地')+'当地日期':'');
     if(rule.start||rule.end)html+='<p>'+esc((rule.start||'开始日期未列')+' 至 '+(rule.end||'结束日期未列'))+'</p>';
@@ -535,8 +510,8 @@
    priceGroups.forEach((group,index)=>{
     html+='<details class="v2-reference-group"'+(index===0?' open':'')+'><summary>'+esc((group.kind==='FARE'?'':'附加项目 · ')+group.label)+'</summary><table><caption class="sr-only">'+esc(group.label)+'参考报价</caption><thead><tr><th scope="col">旅客／项目</th><th scope="col">参考金额</th><th scope="col">计价单位</th></tr></thead><tbody>';
     group.rows.forEach(row=>{
-     if(!['FIXED','ZERO','ZERO_VALID','FREE'].includes(row.state)||!/^[A-Z]{3}$/.test(row.currency||'')||!Number.isFinite(Number(row.amount))||Number(row.amount)<0||!row.unit)throw new Error('Incomplete reference price');
-     const amount=new Intl.NumberFormat('en-AU',{style:'currency',currency:row.currency,currencyDisplay:'code',minimumFractionDigits:2,maximumFractionDigits:2}).format(Number(row.amount));
+     if(row.state!=='ENQUIRY'&&(!['FIXED','ZERO','ZERO_VALID','FREE'].includes(row.state)||!/^[A-Z]{3}$/.test(row.currency||'')||!Number.isFinite(Number(row.amount))||Number(row.amount)<0||!row.unit))throw new Error('Incomplete reference price');
+     const amount=row.state==='ENQUIRY'?'请咨询':new Intl.NumberFormat('en-AU',{style:'currency',currency:row.currency,currencyDisplay:'code',minimumFractionDigits:2,maximumFractionDigits:2}).format(Number(row.amount));
      html+='<tr><th scope="row">'+esc(row.label)+'</th><td>'+esc(amount)+'</td><td>'+esc(row.unit)+'</td></tr>';
      const conditions=row.conditions||{};
      if(conditions.season_label||conditions.observed_selected_date)html+='<tr><td colspan="3">'+esc([conditions.season_label,conditions.observed_selected_date].filter(Boolean).join(' · '))+'</td></tr>';
@@ -579,7 +554,7 @@
   const offerText=o=>o.label==='标准行程'?(ticket?say('门票／活动','Ticket / activity'):o.days+say('日行程',' days')):(new RegExp('^'+o.days+'日方案$').test(o.label)?o.days+say('日方案','-day option'):o.label+' · '+o.days+say('日',' days'));
   function saveState(){
    const state={offer:selectedOffer.key,date:requestedDate,view,tab:activeTab};EtripsProductSelection.save(t,state);
-   const q=new URLSearchParams(location.search);for(const key of ['id','offer','revision','hash','v','plan','date','view','tab'])q.delete(key);
+   const q=new URLSearchParams(location.search);for(const key of ['id','offer','revision','hash','date','view','tab'])q.delete(key);
    for(const [key,value] of EtripsProductSelection.query(t,state))q.set(key,value);
    history.replaceState(history.state,'',location.pathname+'?'+q.toString()+location.hash);
    return state;
