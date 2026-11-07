@@ -423,14 +423,17 @@ function calHTML(t, opts){
     };
     const makeGroup = (collection, products, title) => {
       const label = title || (lang === "zh" ? collection.zh : collection.en);
-      const body = nestedProducts(products, collection);
+      const directHoliday = ["中国", "亚洲"].includes(activeDest) &&
+        collection?.key === "CHRISTMAS_NEW_YEAR";
+      const body = directHoliday ? routeHTML(products, collection) : nestedProducts(products, collection);
       return groupHTML(label, body, "rp-sub rp-holiday-collection", collection?.icon || "");
     };
     let items;
     if (selections.length) {
       const matches = destinationItems.filter((t) => selections.every((selection) => selection.match(t)));
-      const title = lang === "zh" ? selections.map((x) => x.label).join(" · ") + "产品" : selections.map((x) => x.label).join(" · ");
-      items = matches.length ? [makeGroup(null, matches, title)] : [];
+      const definition = seasons.definition(activeTheme) || seasons.collections.find((x) => x.codes.includes(activeTheme));
+      const title = selections.length > 1 ? selections.map((x) => x.label).join(" · ") : undefined;
+      items = matches.length ? [makeGroup(definition || null, matches, title || (definition ? undefined : selections[0].label))] : [];
     } else {
       items = seasonsHere.map((collection) => makeGroup(collection, collection.items));
     }
@@ -776,6 +779,12 @@ function calHTML(t, opts){
       }
     }
     if(['中国','亚洲'].includes(activeDest)&&!(urlId&&validIds.has(urlId))){const first=yearCollections(tree[activeDest]||{})[0];if(first){const cats=first[1],order=['超值团','纯玩团','机票套餐','英文专线','签证','其他'];const key=order.find(k=>k in cats)||Object.keys(cats)[0];const subs=cats[key]||{};const regions=activeDest==='中国'?CN_ORDER:ASIA_ORDER;const sub=regions.find(k=>k in subs)||Object.keys(subs)[0];activeId=(subs[sub]||[]).slice().sort(auCompare)[0]?.id||null;}}
+    const seasons = window.EtripsSeasons;
+    const holiday = seasons?.definition(seasonKey) || seasons?.collections.find(x => x.codes.includes(seasonKey));
+    if (holiday?.key === "CHRISTMAS_NEW_YEAR" && ["中国", "亚洲"].includes(activeDest)) {
+      const matches = seasons.treeItems(tree[activeDest]).filter(t => seasons.matches(t, holiday.key));
+      if (matches.length && !matches.some(t => t.id === activeId)) activeId = matches[0].id;
+    }
     renderTree(tree, activeId, activeDest, seasonKey);
     document.getElementById("list-tree").insertAdjacentHTML("beforeend",EtripsPrivateTours.shortcuts(T,lang,location.search));
     if (activeId) renderDetail(activeId);
