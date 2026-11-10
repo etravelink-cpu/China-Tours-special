@@ -313,16 +313,21 @@ function calHTML(t, opts){
       tree["美洲"]["__na__"][s].push(t);
     };
     // 澳洲: 隐藏类目层; 按 AU_ORDER 固定顺序平铺子类
+    // AU_MULTI_AREA_20261110: 一条线路可同时归入多个检索分组
+    // (主区域 subRegion + 附加分组 subRegions, 如「悉尼及周边」+「澳洲跨地区联游」).
     const putAU = (t) => {
-      const s = t.subRegion || "澳洲其他";
+      const regs = (t.subRegions && t.subRegions.length)
+        ? t.subRegions : (t.subRegion ? [t.subRegion] : ["澳洲其他"]);
       tree["澳洲"] = tree["澳洲"] || {};
       tree["澳洲"]["__au__"] = tree["澳洲"]["__au__"] || {};
-      tree["澳洲"]["__au__"][s] = tree["澳洲"]["__au__"][s] || [];
-      tree["澳洲"]["__au__"][s].push(t);
+      new Set(regs.filter(Boolean)).forEach((s) => {
+        const bucket = (tree["澳洲"]["__au__"][s] ??= []);
+        if (!bucket.some(x => x.id === t.id)) bucket.push(t);
+      });
       // 季节性产品独立导航: 滑雪(可扩展到其他季节/地区). 与城市子类并列, 按 seasonTag 归组
       if (t.seasonTag === "滑雪") {
-        tree["澳洲"]["__au__"]["滑雪"] = tree["澳洲"]["__au__"]["滑雪"] || [];
-        tree["澳洲"]["__au__"]["滑雪"].push(t);
+        const ski = (tree["澳洲"]["__au__"]["滑雪"] ??= []);
+        if (!ski.some(x => x.id === t.id)) ski.push(t);
       }
     };
     T.forEach((t) => {
