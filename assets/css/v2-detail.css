@@ -159,3 +159,9 @@
 .v2-air-legs ul{margin:8px 0;padding-left:1.25rem;line-height:1.7}
 .v2-air-legs li{margin:4px 0;overflow-wrap:anywhere}
 .v2-air-legs p{margin:6px 0;line-height:1.7}
+
+/* Confirmed day-count variants: explicit choice, one quote row per itinerary length. */
+.v2-offer-hint{margin:-4px 0 16px;padding:10px 14px;background:#f3f8fc;border-left:3px solid #45759b;font-size:13px;line-height:1.7;color:#3c5a70}
+.v2-compact-prices .v2-quote-current>th{box-shadow:inset 3px 0 0 #225480}
+.v2-map-plan{margin:0 0 8px;padding:7px 12px;background:#f3f8fc;border-left:3px solid #45759b;font-size:13px;color:#3c5a70}
+@media(max-width:600px){.v2-offer-hint{padding:9px 12px;font-size:12px}.v2-offer-select{min-width:0;width:100%}}
